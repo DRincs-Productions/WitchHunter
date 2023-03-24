@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-02-19 09:40\n"
+"PO-Revision-Date: 2023-03-24 22:52\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/imagemaplabels/bookshop_teleport.rpy:6 #-#-# translate crowdin bookshop_teleport_a2bc3989:
 msgid "{i}(Я не могу воспользоваться этим, так как Элион сейчас в магазине.){/i}"
-msgstr ""
+msgstr "{i} (Ich kann es nicht benutzen, da Elion im Moment im Laden ist){/i}"
 
 # §translate crowdin strings: #|#|# # game/scripts/bookshop/imagemaplabels/bookshop_teleport.rpy:11
 msgid "Телепортироваться на Меридиан"
-msgstr ""
+msgstr "Teleport nach Meridian"
 
 # game/scripts/bookshop/imagemaplabels/bookshop_teleport.rpy:13
 msgid "Вы действительно хотите телепортироваться на Меридиан?"
-msgstr ""
+msgstr "Willst du dich wirklich nach Meridian teleportieren?"
 
