@@ -10,187 +10,187 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-02-19 09:40\n"
+"PO-Revision-Date: 2023-03-25 09:44\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/learn_history.rpy:366 #-#-# translate crowdin learn_history_c9230321:
 msgid "[_cedrick_] Сегодня я устал, лучше продолжу завтра"
-msgstr ""
+msgstr "[_cedrick_] Ich bin heute müde, ich würde lieber morgen weitermachen"
 
 # game/scripts/bookshop/learn_history.rpy:368 #-#-# translate crowdin learn_history_4d38ecca:
 msgid "[_cedrick_] Я уже знаю всю историю"
-msgstr ""
+msgstr "[_cedrick_] Ich kenne bereits die ganze Geschichte"
 
 # §translate crowdin strings: #|#|# # game/scripts/bookshop/learn_history.rpy:2
 msgid "Бог солнца в Древнем Египте"
-msgstr ""
+msgstr "Der Sonnengott im alten Ägypten"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Ра-Атум"
-msgstr ""
+msgstr "Ra Atum"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Осирис"
-msgstr ""
+msgstr "Osiris"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Аллах"
-msgstr ""
+msgstr "Allah"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Красный бог"
-msgstr ""
+msgstr "Roter Gott"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Кто стал первым римским императором?"
-msgstr ""
+msgstr "Wer war der erste römische Kaiser?"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Октавиан Август"
-msgstr ""
+msgstr "Oktavian Augustus"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Лютиус Малфой"
-msgstr ""
+msgstr "Lutius Malfoy"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Сенека"
-msgstr ""
+msgstr "Seneca"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Спартак"
-msgstr ""
+msgstr "Spartacus"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Он был убит заговорщиками из ближайшего окружения несколькими десятками ударов мечей?"
-msgstr ""
+msgstr "Wurde er von den Verschwörern in seinem inneren Kreis mit ein paar Dutzend Schwerthieben getötet?"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Калигула"
-msgstr ""
+msgstr "Caligula"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Гитлер"
-msgstr ""
+msgstr "Hitler"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Марк Аврелий"
-msgstr ""
+msgstr "Marcus Aurelius"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Эдд Старк"
-msgstr ""
+msgstr "Edd Stark"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Как называли первых правителей Рима?"
-msgstr ""
+msgstr "Wie wurden die ersten Herrscher Roms genannt?"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Царь"
-msgstr ""
+msgstr "Der König"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Вождь"
-msgstr ""
+msgstr "Der Kriegshäuptling"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Император"
-msgstr ""
+msgstr "Der jetzige Kaiser"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Князь"
-msgstr ""
+msgstr "Prinz"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "\"Отец истории\" в Древней Греции"
-msgstr ""
+msgstr "Der \"Vater der Geschichte\" im antiken Griechenland"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Геродот"
-msgstr ""
+msgstr "Herodot"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Аристотель"
-msgstr ""
+msgstr "Aristoteles"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Сократ"
-msgstr ""
+msgstr "Sokrates"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Микеланджело"
-msgstr ""
+msgstr "Michelangelo"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Как назывался \"Храм всех богов\" в Древнем Риме?"
-msgstr ""
+msgstr "Wie hieß der \"Tempel aller Götter\" im alten Rom?"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Пантеон"
-msgstr ""
+msgstr "Pantheon"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Колизей"
-msgstr ""
+msgstr "Kolosseum"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Храм Артемиды"
-msgstr ""
+msgstr "Tempel der Artemis"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Храм Арестотеля"
-msgstr ""
+msgstr "Tempel des Arestoteles"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Этот правитель Великой Римской Империи умел делать одновременно 7 никак не связанных между собой дел"
-msgstr ""
+msgstr "Dieser Herrscher des Großen Römischen Reiches konnte sieben nicht miteinander verbundene Dinge auf einmal tun"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Юлий Цезарь"
-msgstr ""
+msgstr "Giulio Cesare"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Дольмен"
-msgstr ""
+msgstr "Dolmen"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "князь Фобос"
-msgstr ""
+msgstr "Prinz Phobos"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Тумулус"
-msgstr ""
+msgstr "Tumulus"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Государство, которому принадлежало все побережье Средиземного моря?"
-msgstr ""
+msgstr "Ein Staat, dem die gesamte Mittelmeerküste gehörte?"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Римская империя"
-msgstr ""
+msgstr "Römisches Reich"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Византийская империя"
-msgstr ""
+msgstr "Byzantinisches Reich"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Османская империя"
-msgstr ""
+msgstr "Osmanisches Reich"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Арабский халифат"
-msgstr ""
+msgstr "Das arabische Kalifat"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Что положено в основу латинского алфавита?"
-msgstr ""
+msgstr "Was ist die Grundlage des lateinischen Alphabets?"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Греческая грамота"
-msgstr ""
+msgstr "Griechischer Schriftzug"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Клинопись"
-msgstr ""
+msgstr "Keilschrift"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Древнеегипетские иероглифы"
