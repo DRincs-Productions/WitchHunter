@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:47\n"
+"PO-Revision-Date: 2023-04-19 12:56\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon3.rpy:6 #-#-# translate crowdin visit_alchemy_in_dungeon3_fef2fbf4:
 msgid "[_cedrick_sprite_] Ну как ты тут?"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon3.rpy:11 #-#-# translate crowdin visit_alchemy_in_dungeon3_448708d9:
 msgid "[_alchemy_] ..."
-msgstr ""
+msgstr "[_alchemy_] ..."
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon3.rpy:12 #-#-# translate crowdin visit_alchemy_in_dungeon3_61d92399:
 msgid "[_cedrick_sprite_] Молчим значит, что ж, может твой брат будет по разговорчивей, после нескольких десятков ударов плетью..."
