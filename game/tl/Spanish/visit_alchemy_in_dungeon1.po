@@ -10,43 +10,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:36\n"
+"PO-Revision-Date: 2023-04-19 12:56\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon1.rpy:7 #-#-# translate crowdin visit_alchemy_in_dungeon1_b93e1f5e:
 msgid "[_alchemy_] Ах ты ублюдок, что ты сделал с моим братом?!!"
-msgstr ""
+msgstr "[_alchemy_]¡Bastardo!, ¡¡¿qué le has hecho a mi hermano?!!"
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon1.rpy:8 #-#-# translate crowdin visit_alchemy_in_dungeon1_7043b111:
 msgid "[_cedrick_sprite_] Не волнуйся, он жив... Пока что.."
-msgstr ""
+msgstr "[_cedrick_sprite_] No te preocupes, está vivo.… Por ahora.."
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon1.rpy:9 #-#-# translate crowdin visit_alchemy_in_dungeon1_6b9e6b43:
 msgid "[_cedrick_sprite_] Я продал его в рабство, теперь он работает на рудниках"
-msgstr ""
+msgstr "[_cedrick_sprite_] Lo vendí como esclavo, ahora trabaja en las minas"
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon1.rpy:10 #-#-# translate crowdin visit_alchemy_in_dungeon1_6a78b58b:
 msgid "[_alchemy_] Мерзавец.."
-msgstr ""
+msgstr "[_alchemy_] Bastardo.."
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon1.rpy:11 #-#-# translate crowdin visit_alchemy_in_dungeon1_57b5b703:
 msgid "[_cedrick_sprite_] Я бы не советовал меня оскорблять, а то останешься без еды"
-msgstr ""
+msgstr "[_cedrick_sprite_] No te aconsejo que me insultes o te quedarás sin comer"
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon1.rpy:17 #-#-# translate crowdin visit_alchemy_in_dungeon1_448708d9:
 msgid "[_alchemy_] ..."
-msgstr ""
+msgstr "[_alchemy_] ..."
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon1.rpy:18 #-#-# translate crowdin visit_alchemy_in_dungeon1_e14d13df:
 msgid "[_alchemy_] Что это за место??! Отвечай!!"
-msgstr ""
+msgstr "[_alchemy_] ¡¿Qué es este lugar?!, ¡¡Respóndeme!!"
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon1.rpy:19 #-#-# translate crowdin visit_alchemy_in_dungeon1_376f79b6:
 msgid "[_cedrick_sprite_] Ты находишься в замке города Меридиан.."
-msgstr ""
+msgstr "[_cedrick_sprite_] Estás en un castillo en la ciudad de Meridian.."
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon1.rpy:25 #-#-# translate crowdin visit_alchemy_in_dungeon1_58fafe77:
 msgid "[_alchemy_] Мери.. что? Но я была в книжном магазине, а потом.. оказалась здесь"
-msgstr ""
+msgstr "[_alchemy_] Mary... ¿Qué? Pero yo estaba en la librería, y luego... Terminé aquí"
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon1.rpy:26 #-#-# translate crowdin visit_alchemy_in_dungeon1_6a850559:
 msgid "[_cedrick_sprite_] Ну по счастливой случайности ты задела книгу соединяющую ваш мир с нашим и переместилась сюда..."
