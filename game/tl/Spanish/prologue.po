@@ -10,56 +10,57 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:49\n"
+"PO-Revision-Date: 2023-04-20 09:25\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/singles/prologue.rpy:10 #-#-# translate crowdin prologue_659381e6:
 msgid "[_centered_] {size=37}Меридиан\n"
 "Замок Князя Фобоса{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {size=37} Meridian\n"
+"El castillo del príncipe Phobos{/size} [withDissolve1]"
 
 # game/scripts/quests/singles/prologue.rpy:43 #-#-# translate crowdin prologue_60da2d23:
 msgid "[_phobos_] И вот ты снова подвел меня..."
-msgstr ""
+msgstr "[_phobos_] Me has decepcionado otra vez..."
 
 # game/scripts/quests/singles/prologue.rpy:44 #-#-# translate crowdin prologue_33425295:
 msgid "[_cedrick_] Простите, мой князь. Мы попали в засаду! Я не ожидал, что..."
-msgstr ""
+msgstr "[_cedrick_] Perdóname, mi príncipe. ¡Nos emboscaron! No esperaba que..."
 
 # game/scripts/quests/singles/prologue.rpy:45 #-#-# translate crowdin prologue_859bcb58:
 msgid "[_phobos_] Молчи, глупец! Не трать мое драгоценное время своими жалкими оправданиями!"
-msgstr ""
+msgstr "[_phobos_] ¡Cállate, tonto! ¡No me hagas perder mi precioso tiempo con tus patéticas excusas!"
 
 # game/scripts/quests/singles/prologue.rpy:46 #-#-# translate crowdin prologue_4d4440c4:
 msgid "[_phobos_] Ты потерял слишком много моих солдат на этом задании.."
-msgstr ""
+msgstr "[_phobos_] Has perdido a demasiados de mis soldados en esta misión.."
 
 # game/scripts/quests/singles/prologue.rpy:47 #-#-# translate crowdin prologue_3e4f764f:
 msgid "[_phobos_] Вдобавок... У меня осталось слишком мало времени..."
-msgstr ""
+msgstr "[_phobos_] Encima... Me queda muy poco tiempo..."
 
 # game/scripts/quests/singles/prologue.rpy:48 #-#-# translate crowdin prologue_205f9a5f:
 msgid "[_phobos_] Мои силы покидают меня..."
-msgstr ""
+msgstr "[_phobos_] Mi fuerza me está abandonando..."
 
 # game/scripts/quests/singles/prologue.rpy:49 #-#-# translate crowdin prologue_2dce6a43:
 msgid "[_phobos_] Мне следовало бы избавиться от тебя, но я дам тебе последний шанс..."
-msgstr ""
+msgstr "[_phobos_] Debería deshacerme de ti, pero te daré una última oportunidad..."
 
 # game/scripts/quests/singles/prologue.rpy:50 #-#-# translate crowdin prologue_1dc4317b:
 msgid "[_phobos_] Ты должен найти мою сестру и как можно скорее, чтобы я cмог забрать ее магическую силу..."
-msgstr ""
+msgstr "[_phobos_] Debes encontrar a mi hermana, cuanto antes, para que pueda tomar su poder mágico..."
 
 # game/scripts/quests/singles/prologue.rpy:51 #-#-# translate crowdin prologue_74cc0935:
 msgid "[_phobos_] 18 лет назад... Она пропала не успев получить даже имени..."
-msgstr ""
+msgstr "[_phobos_] Hace 18 años... Desapareció incluso antes de tener un nombre..."
 
 # game/scripts/quests/singles/prologue.rpy:52 #-#-# translate crowdin prologue_dda7107c:
 msgid "[_phobos_] Для выполнения этого задания тебе придется побыть в человеческом обличии..."
-msgstr ""
+msgstr "[_phobos_] Para completar esta tarea, tendrás que estar en forma humana..."
 
 # game/scripts/quests/singles/prologue.rpy:53 #-#-# translate crowdin prologue_d865c0a9:
 msgid "[_cedrick_] Я могу попасть в Хезарфилд с помощью портала и найти ее, но это может занять какое-то время..."
-msgstr ""
+msgstr "[_cedrick_] Puedo llegar a Heatherfield usando el portal y encontrarla, pero puede que tarde un poco..."
 
 # game/scripts/quests/singles/prologue.rpy:54 #-#-# translate crowdin prologue_5b26f5fb:
 msgid "[_phobos_] Пока ты попусту терял моих солдат, мои рабы нашли древний артефакт...{i}Звезду Трибы{/i} ..."
@@ -91,7 +92,7 @@ msgstr ""
 
 # game/scripts/quests/singles/prologue.rpy:61 #-#-# translate crowdin prologue_a20cefa7:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/singles/prologue.rpy:62 #-#-# translate crowdin prologue_cf382a4a:
 msgid "[_phobos_] И еще..."
@@ -251,7 +252,7 @@ msgstr ""
 
 # game/scripts/quests/singles/prologue.rpy:188 #-#-# translate crowdin prologue_a20cefa7_1:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/singles/prologue.rpy:191 #-#-# translate crowdin prologue_fc535157:
 msgid "[_centered_] {size=37}Спустя несколько дней…{/size}"
