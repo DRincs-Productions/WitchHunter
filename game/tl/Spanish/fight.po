@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-20 06:53\n"
+"PO-Revision-Date: 2023-04-20 07:54\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/fight/fight.rpy:219 #-#-# translate crowdin fight_transform_68f2a4d6:
 msgid "[_cedrick_sprite_] (Я не могу выдавать свою личность.)"
@@ -34,17 +34,17 @@ msgstr "Gano [player_name]"
 
 # game/scripts/fight/fight.rpy:451 #-#-# translate crowdin fight_get_winner_a47bba57:
 msgid "Вас одолел [player_name]"
-msgstr ""
+msgstr "Eres dominado por [player_name]"
 
 # game/scripts/fight/fight.rpy:460 #-#-# translate crowdin fight_get_winner_a47bba57_1:
 msgid "Вас одолел [player_name]"
-msgstr ""
+msgstr "Eres dominado por [player_name]"
 
 # §translate crowdin strings: #|#|# # game/scripts/fight/fight.rpy:166
 msgid "{player_name} наносит Критический удар!"
-msgstr ""
+msgstr "{player_name} ¡Golpe crítico!"
 
 # game/scripts/fight/fight.rpy:360
 msgid " использует "
-msgstr ""
+msgstr " usar "
 
