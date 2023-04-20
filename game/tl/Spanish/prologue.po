@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-20 09:25\n"
+"PO-Revision-Date: 2023-04-20 10:22\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/singles/prologue.rpy:10 #-#-# translate crowdin prologue_659381e6:
 msgid "[_centered_] {size=37}Меридиан\n"
@@ -64,31 +64,31 @@ msgstr "[_cedrick_] Puedo llegar a Heatherfield usando el portal y encontrarla, 
 
 # game/scripts/quests/singles/prologue.rpy:54 #-#-# translate crowdin prologue_5b26f5fb:
 msgid "[_phobos_] Пока ты попусту терял моих солдат, мои рабы нашли древний артефакт...{i}Звезду Трибы{/i} ..."
-msgstr ""
+msgstr "[_phobos_] Mientras malgastabas a mis soldados, mis esclavos encontraron un antiguo artefacto...{i}La estrella de Threbe{/i} ..."
 
 # game/scripts/quests/singles/prologue.rpy:55 #-#-# translate crowdin prologue_619fa41a:
 msgid "[_phobos_] Звезда должна привлечь внимание наследницы. Она приведет ее к тебе..."
-msgstr ""
+msgstr "[_phobos_] La estrella debería llamar la atención de la heredera. La llevará hasta ti..."
 
 # game/scripts/quests/singles/prologue.rpy:56 #-#-# translate crowdin prologue_a38406d6:
 msgid "[_cedrick_] {i}Звезда Трибы{/i}..."
-msgstr ""
+msgstr "[_cedrick_] {i}La estrella de Threbe{/i}..."
 
 # game/scripts/quests/singles/prologue.rpy:57 #-#-# translate crowdin prologue_4051a2d1:
 msgid "[_cedrick_] Тысячи лет поисков... Вы уверены, мой князь?"
-msgstr ""
+msgstr "[_cedrick_] Miles de años de búsqueda... ¿Está seguro, mi príncipe?"
 
 # game/scripts/quests/singles/prologue.rpy:58 #-#-# translate crowdin prologue_cf2808fb:
 msgid "[_phobos_] Звезда вернет мне мою сестру"
-msgstr ""
+msgstr "[_phobos_] La estrella me devolverá a mi hermana"
 
 # game/scripts/quests/singles/prologue.rpy:59 #-#-# translate crowdin prologue_63954d9c:
 msgid "[_phobos_] Принцесса не знает кто она."
-msgstr ""
+msgstr "[_phobos_] La princesa no sabe quién es."
 
 # game/scripts/quests/singles/prologue.rpy:60 #-#-# translate crowdin prologue_8d6227f8:
 msgid "[_phobos_] Это одновременно ее защита и слабость."
-msgstr ""
+msgstr "[_phobos_] Es su defensa y su debilidad a la vez."
 
 # game/scripts/quests/singles/prologue.rpy:61 #-#-# translate crowdin prologue_a20cefa7:
 msgid "..."
@@ -100,31 +100,31 @@ msgstr ""
 
 # game/scripts/quests/singles/prologue.rpy:63 #-#-# translate crowdin prologue_58528fd0:
 msgid "[_phobos_] Ты же не думал, что твой провал останется безнаказанным?"
-msgstr ""
+msgstr "[_phobos_] No pensaste que tu fracaso quedaría impune, ¿verdad?"
 
 # game/scripts/quests/singles/prologue.rpy:64 #-#-# translate crowdin prologue_06eb20ff:
 msgid "[_phobos_] У нас осталось не так много воинов и отныне я не могу доверять тебе управление армией..."
-msgstr ""
+msgstr "[_phobos_] No nos quedan muchos guerreros y a partir de ahora no puedo confiar en ti para dirigir el ejército..."
 
 # game/scripts/quests/singles/prologue.rpy:66 #-#-# translate crowdin prologue_86e072e9:
 msgid "[_phobos_] Твое место займет командир Рейтер."
-msgstr ""
+msgstr "[_phobos_] El Comandante Raythor tomará su lugar."
 
 # game/scripts/quests/singles/prologue.rpy:70 #-#-# translate crowdin prologue_c3037db3:
 msgid "[_raythor_] …и теперь уже Главнокомандующий, полагаю!"
-msgstr ""
+msgstr "[_raythor_] …Ahora Comandante en Jefe, ¡supongo!"
 
 # game/scripts/quests/singles/prologue.rpy:71 #-#-# translate crowdin prologue_b3541fac:
 msgid "[_cedrick_] Но..."
-msgstr ""
+msgstr "[_cedrick_] Pero..."
 
 # game/scripts/quests/singles/prologue.rpy:75 #-#-# translate crowdin prologue_4d68b7cf:
 msgid "[_phobos_] Молчать!"
-msgstr ""
+msgstr "[_phobos_] ¡Silencio!"
 
 # game/scripts/quests/singles/prologue.rpy:79 #-#-# translate crowdin prologue_9eec5c63:
 msgid "[_raythor_] Я благодарен за предоставленную мне честь! Я постараюсь приложить все свои усилия, мой Князь…"
-msgstr ""
+msgstr "[_raythor_] Agradezco el honor que se me ha concedido. Haré todo lo que pueda, mi Príncipe…"
 
 # game/scripts/quests/singles/prologue.rpy:80 #-#-# translate crowdin prologue_49316299:
 msgid "[_cedrick_] ..."
@@ -132,47 +132,47 @@ msgstr ""
 
 # game/scripts/quests/singles/prologue.rpy:84 #-#-# translate crowdin prologue_01ee9bb3:
 msgid "[_phobos_] Я также забираю часть твоих магических сил, они помогут продержаться мне еще какое-то время..."
-msgstr ""
+msgstr "[_phobos_] También me llevo algunos de tus poderes mágicos, me ayudarán a seguir adelante un tiempo más..."
 
 # game/scripts/quests/singles/prologue.rpy:86 #-#-# translate crowdin prologue_e0fe2ed0:
 msgid "Вы видите луч ослепительно яркого света... Вы чувствуете как Фобос забирает вашу магическую силу... Вы дрожите и вам становится не по себе..."
-msgstr ""
+msgstr "Ves un rayo de luz cegadoramente brillante... Sientes que Phobos te quita tu poder mágico... Tiemblas y te sientes incómodo..."
 
 # game/scripts/quests/singles/prologue.rpy:88 #-#-# translate crowdin prologue_798eb46f:
 msgid "[_phobos_] Теперь тебе будет сложнее поддерживать форму змея и.."
-msgstr ""
+msgstr "[_phobos_] Ahora te será más difícil mantener la forma de serpiente y.."
 
 # game/scripts/quests/singles/prologue.rpy:93 #-#-# translate crowdin prologue_d336fd0d:
 msgid "[_miranda_] Князь Фобос..."
-msgstr ""
+msgstr "[_miranda_] Príncipe Phobos..."
 
 # game/scripts/quests/singles/prologue.rpy:99 #-#-# translate crowdin prologue_3178c7fe:
 msgid "[_phobos_] {b}Как ты смеешь перебивать меня!?{/b}"
-msgstr ""
+msgstr "[_phobos_] {b}¿¡Cómo te atreves a interrumpirme!?{/b}"
 
 # game/scripts/quests/singles/prologue.rpy:105 #-#-# translate crowdin prologue_571e31eb:
 msgid "[_miranda_] Простите, мой князь... но у меня важные известия."
-msgstr ""
+msgstr "[_miranda_] Perdóneme, mi príncipe... pero tengo noticias importantes."
 
 # game/scripts/quests/singles/prologue.rpy:110 #-#-# translate crowdin prologue_30c7dbaf:
 msgid "[_miranda_] Повстанцы проникли в замок и похитили часть нашей провизии."
-msgstr ""
+msgstr "[_miranda_] Los rebeldes entraron en el castillo y robaron algunas de nuestras provisiones."
 
 # game/scripts/quests/singles/prologue.rpy:116 #-#-# translate crowdin prologue_b47283b7:
 msgid "[_phobos_] Эти чертовы повстанцы...Как будто нет других проблем..."
-msgstr ""
+msgstr "[_phobos_] Esos malditos rebeldes... Como si no hubiera otros problemas..."
 
 # game/scripts/quests/singles/prologue.rpy:120 #-#-# translate crowdin prologue_1ae229a6:
 msgid "[_phobos_] Рейтер! Немедленно возьми моих лучших воинов и отправляйтесь в погоню!"
-msgstr ""
+msgstr "[_phobos_] ¡Raythor! ¡Toma a mis mejores guerreros inmediatamente y ve a perseguirlos!"
 
 # game/scripts/quests/singles/prologue.rpy:129 #-#-# translate crowdin prologue_6a027ea3:
 msgid "[_phobos_] А ты! Отправляйся на Землю... Найди мне мою сестру!"
-msgstr ""
+msgstr "[_phobos_] ¡Y tú! Ve a la Tierra... ¡Encuentra a mi hermana!"
 
 # game/scripts/quests/singles/prologue.rpy:133 #-#-# translate crowdin prologue_e27a07a5:
 msgid "[_phobos_] И даже не думай подвести меня снова... Еще одна ошибка и я избавлюсь от тебя!"
-msgstr ""
+msgstr "[_phobos_] Y ni se te ocurra volver a decepcionarme... ¡Un error más y me libraré de ti!"
 
 # game/scripts/quests/singles/prologue.rpy:139 #-#-# translate crowdin prologue_76009a7a:
 msgid "[_cedrick_] Как скажете, мой князь..."
@@ -180,23 +180,23 @@ msgstr ""
 
 # game/scripts/quests/singles/prologue.rpy:146 #-#-# translate crowdin prologue_81340d7b:
 msgid "[_phobos_] И последнее, Седрик. Стражницы завесы.. Они уже не раз рушили наши планы. В этот раз они не должны нам помешать"
-msgstr ""
+msgstr "[_phobos_] Una última cosa, Cedric. Las Guardianas del velo... Han arruinado nuestros planes más de una vez. Esta vez no deben detenernos"
 
 # game/scripts/quests/singles/prologue.rpy:150 #-#-# translate crowdin prologue_25c1be86:
 msgid "[_phobos_] Помни, их магия ничем не отличается от нашей и если они эмоционально неустойчивы, то не смогут использовать свою силу должным образом. Используй это. А теперь прочь с глаз моих!"
-msgstr ""
+msgstr "[_phobos_] Recuerda, su magia no es diferente de la nuestra y si son emocionalmente inestables, no podrán usar su poder adecuadamente. Úsalo. ¡Ahora fuera de mi vista!"
 
 # game/scripts/quests/singles/prologue.rpy:155 #-#-# translate crowdin prologue_2dda1fc4:
 msgid "[_cedrick_] Я вас понял, Князь Фобос"
-msgstr ""
+msgstr "[_cedrick_] Te escucho, Príncipe Phobos"
 
 # game/scripts/quests/singles/prologue.rpy:157 #-#-# translate crowdin prologue_8ce3802c:
 msgid "[_cedrick_] (Этот ублюдок отнял мои силы! Почему я обязан пресмыкаться перед ним... Если бы он не был так силен, то я бы смог избавиться от него...)"
-msgstr ""
+msgstr "[_cedrick_] (¡Ese bastardo me quitó la fuerza! Por qué tengo que arrastrarme ante él... Si no fuera tan fuerte, podría deshacerme de él...)"
 
 # game/scripts/quests/singles/prologue.rpy:166 #-#-# translate crowdin prologue_77ab8b26:
 msgid "[_centered_] {size=37}Некоторое время спустя, в Хезарфилде..{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Un tiempo después, en Heatherfield...{/size}"
 
 # game/scripts/quests/singles/prologue.rpy:171 #-#-# translate crowdin prologue_49316299_1:
 msgid "[_cedrick_] ..."
@@ -204,51 +204,51 @@ msgstr ""
 
 # game/scripts/quests/singles/prologue.rpy:172 #-#-# translate crowdin prologue_5868e69d:
 msgid "[_cedrick_] Библиотека... Или... Лавка с книгами... Кладезь людских знаний..."
-msgstr ""
+msgstr "[_cedrick_] La biblioteca... O... Una librería... Un almacén de conocimiento humano..."
 
 # game/scripts/quests/singles/prologue.rpy:173 #-#-# translate crowdin prologue_985246a5:
 msgid "[_cedrick_] Как удачно! Это место может стать неплохим прикрытием для меня. К тому же здесь я смогу получить все нужные знания об этом мире"
-msgstr ""
+msgstr "[_cedrick_] ¡Qué suerte! Este lugar podría ser una buena tapadera para mí. Además, aquí puedo obtener todo el conocimiento que necesito sobre el mundo humano"
 
 # game/scripts/quests/singles/prologue.rpy:174 #-#-# translate crowdin prologue_ede21300:
 msgid "[_cedrick_] Все же я никогда не был в этом мире в обличии человека под прикрытием долгое время. Я слишком многого не знаю о здешней культуре, обычаях и истории.."
-msgstr ""
+msgstr "[_cedrick_] Aún así, nunca he estado en este mundo de incógnito durante mucho tiempo. Hay demasiadas cosas que desconozco sobre la cultura, las costumbres y la historia de aquí.."
 
 # game/scripts/quests/singles/prologue.rpy:175 #-#-# translate crowdin prologue_762e51c9:
 msgid "[_cedrick_] Пора заглянуть туда и поговорить с хозяином..."
-msgstr ""
+msgstr "[_cedrick_] Es hora de mirar dentro y hablar con el dueño..."
 
 # game/scripts/quests/singles/prologue.rpy:178 #-#-# translate crowdin prologue_448b6676:
 msgid "[_cedrick_] Старик!"
-msgstr ""
+msgstr "[_cedrick_] ¡Viejo!"
 
 # game/scripts/quests/singles/prologue.rpy:179 #-#-# translate crowdin prologue_fb261672:
 msgid "[_bernardblack_] Ч-чу..ЧУДОВИЩЕ!…"
-msgstr ""
+msgstr "[_bernardblack_] Ch-chu... ¡MONSTRUO!…"
 
 # game/scripts/quests/singles/prologue.rpy:180 #-#-# translate crowdin prologue_ddca83ea:
 msgid "[_cedrick_] Это ты хозяин этого места?"
-msgstr ""
+msgstr "[_cedrick_] ¿Eres el propietario de este lugar?"
 
 # game/scripts/quests/singles/prologue.rpy:181 #-#-# translate crowdin prologue_d54da9ef:
 msgid "[_bernardblack_] У…ум.. умоляю тебя! Не убивайте меня..."
-msgstr ""
+msgstr "[_bernardblack_] У… Mi mente... ¡Por favor! No me mates..."
 
 # game/scripts/quests/singles/prologue.rpy:182 #-#-# translate crowdin prologue_fdf1065f:
 msgid "[_cedrick_] Отвечай на вопрос, жалкий старикашка! Это твоя лавка?"
-msgstr ""
+msgstr "[_cedrick_] ¡Responde a la pregunta, viejo miserable! ¿Esta es tu tienda?"
 
 # game/scripts/quests/singles/prologue.rpy:183 #-#-# translate crowdin prologue_1ac7dc9b:
 msgid "[_bernardblack_] Д… да.. это… мой магазин…"
-msgstr ""
+msgstr "[_bernardblack_] S… sí... esta es… mi tienda…"
 
 # game/scripts/quests/singles/prologue.rpy:184 #-#-# translate crowdin prologue_66e09eea:
 msgid "[_bernardblack_] Не трогайте меня, прошу…"
-msgstr ""
+msgstr "[_bernardblack_] No hagas daño, por favor…"
 
 # game/scripts/quests/singles/prologue.rpy:185 #-#-# translate crowdin prologue_555a6029:
 msgid "[_cedrick_]  Это все, что я хотел узнать..."
-msgstr ""
+msgstr "[_cedrick_]  Eso es todo lo que quería saber..."
 
 # game/scripts/quests/singles/prologue.rpy:188 #-#-# translate crowdin prologue_a20cefa7_1:
 msgid "..."
@@ -256,25 +256,25 @@ msgstr "..."
 
 # game/scripts/quests/singles/prologue.rpy:191 #-#-# translate crowdin prologue_fc535157:
 msgid "[_centered_] {size=37}Спустя несколько дней…{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Unos días después…{/size}"
 
 # game/scripts/quests/singles/prologue.rpy:200 #-#-# translate crowdin prologue_2e328cc3:
 msgid "[_cedrick_] ({i}Что за жалкое место, какой бардак! И почему я должен прибираться здесь. Я {size=22}ЛОРД{/size}, а не какая-то служанка! У меня голубая кровь!{/i})"
-msgstr ""
+msgstr "[_cedrick_] ({i}¡Qué lugar tan miserable, qué desorden! Y por qué tengo que limpiar aquí. ¡Soy un Lord, no una sirvienta! ¡Tengo sangre azul!{/i})"
 
 # game/scripts/quests/singles/prologue.rpy:201 #-#-# translate crowdin prologue_e28e9226:
 msgid "[_cedrick_] ({i}Этот старый торгаш заслужил оказаться у меня в желудке, он совсем не следил за порядком в магазине.{/i})"
-msgstr ""
+msgstr "[_cedrick_] ({i}Ese viejo propietario merece estar en mi estómago, no mantenía la tienda limpia en absoluto.{/i})"
 
 # game/scripts/quests/singles/prologue.rpy:203 #-#-# translate crowdin prologue_7fb8889a:
 msgid "[_cedrick_] ({i}На вкус как дерьмо, у меня от него изжога.{/i})"
-msgstr ""
+msgstr "[_cedrick_] ({i}Sabía a mierda, me da acides en el estómago.{/i})"
 
 # game/scripts/quests/singles/prologue.rpy:204 #-#-# translate crowdin prologue_4ae7f34a:
 msgid "[_cedrick_] ({i}Я здесь уже несколько дней... Эта Звезда вообще работает? Почему принцесса еще не появилась?{/i})"
-msgstr ""
+msgstr "[_cedrick_] ({i}Llevo aquí unos días... ¿Funciona esta Estrella? ¿Por qué aún no ha aparecido la princesa?{/i})"
 
 # game/scripts/quests/singles/prologue.rpy:210 #-#-# translate crowdin prologue_db7baa18:
 msgid "[_cedrick_] ({i}Нужно осмотреться...{/i})"
-msgstr ""
+msgstr "[_cedrick_] ({i}Necesito mirar alrededor...{/i})"
 
