@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:35\n"
+"PO-Revision-Date: 2023-04-20 04:31\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/stats/WillStats.rpy:8
 msgid "Примененные капли эссенции"
-msgstr ""
+msgstr "Gotas de esencia aplicadas"
 
 # game/scripts/core/stats/WillStats.rpy:15
 msgid "Предпочтение \"Нежно\""
-msgstr ""
+msgstr "Preferencia por \"gentileza\""
 
 # game/scripts/core/stats/WillStats.rpy:22
 msgid "Предпочтение \"Жестко\""
-msgstr ""
+msgstr "Preferencia \"rudeza\""
 
 # game/scripts/core/stats/WillStats.rpy:30
 msgid "Применено капель эссенции {value} из {max_value}:"
-msgstr ""
+msgstr "Gotas de esencia aplicadas {value} de {max_value}:"
 
 # game/scripts/core/stats/WillStats.rpy:42
 msgid "У Вилл повышено предпочтение нежно"
-msgstr ""
+msgstr "Will tiene una gran preferencia por la gentileza"
 
 # game/scripts/core/stats/WillStats.rpy:51
 msgid "У Вилл повышено предпочтение жестко"
-msgstr ""
+msgstr "Will tiene una mayor preferencia por la rudeza"
 
