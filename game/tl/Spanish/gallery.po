@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:35\n"
+"PO-Revision-Date: 2023-04-20 07:54\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/main_menu/gallery/gallery.rpy:1239
 msgid "Предыдущая страница"
-msgstr ""
+msgstr "Página anterior"
 
 # game/scripts/main_menu/gallery/gallery.rpy:1276
 msgid "Следующая страница"
-msgstr ""
+msgstr "Página Siguiente"
 
