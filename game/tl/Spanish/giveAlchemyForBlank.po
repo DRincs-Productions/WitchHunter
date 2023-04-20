@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:38\n"
+"PO-Revision-Date: 2023-04-20 05:58\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:7 #-#-# translate crowdin giveAlchemyForBlank_e1f6e456:
 msgid "Спустя некоторое время в темнице меридиана"
@@ -62,7 +62,7 @@ msgstr ""
 
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:41 #-#-# translate crowdin giveAlchemyForBlank_8dabefc6:
 msgid ".."
-msgstr ""
+msgstr ".."
 
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:44 #-#-# translate crowdin giveAlchemyForBlank_92890a1b:
 msgid "[_blank_] Бланк стал мужчиной!"
