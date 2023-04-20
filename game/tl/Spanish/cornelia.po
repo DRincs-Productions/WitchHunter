@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:35\n"
+"PO-Revision-Date: 2023-04-20 06:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/map/locations/cornelia.rpy:8 #-#-# translate crowdin cornelia_5ef2d669:
 msgid "Неподходящее время для похода на каток. Мне нужно дождаться дня."
-msgstr ""
+msgstr "No es un buen momento para ir a la pista de hielo. Tengo que esperar a que amanezca."
 
 # game/scripts/map/locations/cornelia.rpy:10 #-#-# translate crowdin cornelia_0163065e:
 msgid "[_cedrick_] Мне нечего там делать."
-msgstr ""
+msgstr "[_cedrick_] No tengo nada que hacer allí."
 
