@@ -11,19 +11,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:34\n"
+"PO-Revision-Date: 2023-04-20 06:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Fight/FightItem.rpy:43
 msgid "Для создания зелья вам не хватает ингредиента:\n"
 "{ingredient_name}"
-msgstr ""
+msgstr "Te falta un ingrediente para hacer la poción:\n"
+"{ingredient_name}"
 
 # game/scripts/core/Fight/FightItem.rpy:46
 msgid "Для создания зелья вам не хватает ингредиентов:\n"
 "{ingredient_names}"
-msgstr ""
+msgstr "Te faltan ingredientes para hacer la poción:\n"
+"{ingredient_names}"
 
 # game/scripts/core/Fight/FightItem.rpy:49
 msgid "Изготовлено зелье:"
-msgstr ""
+msgstr "Se hizo la poción:"
 
