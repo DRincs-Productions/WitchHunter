@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-20 04:31\n"
+"PO-Revision-Date: 2023-04-20 07:54\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/map/locations/will_home.rpy:33 #-#-# translate crowdin will_home_b94380c4:
 msgid "Думаю, не стоит приходить к ним в столь позднее время"
-msgstr "No creo que debas acercarte a ellas a estas horas"
+msgstr "No creo que debas acercarte a ella a estas horas"
 
 # game/scripts/map/locations/will_home.rpy:36 #-#-# translate crowdin will_home_2f5ad671:
 msgid "Скорей всего дома никого нет"
