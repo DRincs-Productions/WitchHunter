@@ -10,35 +10,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:48\n"
+"PO-Revision-Date: 2023-04-20 06:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/skating/corneliaCallToSkating.rpy:12 #-#-# translate crowdin corneliaCallToSkating_d4c2dcac:
 msgid "[_cornelia_] Привет, Рик!"
-msgstr ""
+msgstr "[_cornelia_] ¡Hola, Rick!"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:13 #-#-# translate crowdin corneliaCallToSkating_3a0af8e4:
 msgid "[_cedrick_] Привет!"
-msgstr ""
+msgstr "[_cedrick_] ¡Hola!"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:17 #-#-# translate crowdin corneliaCallToSkating_819ec41c:
 msgid "[_cornelia_] Неплохо мы вчера потусили, да?"
-msgstr ""
+msgstr "[_cornelia_] Lo pasamos bien anoche, ¿verdad?"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:18 #-#-# translate crowdin corneliaCallToSkating_f36071d3:
 msgid "[_cedrick_] Пожалуй."
-msgstr ""
+msgstr "[_cedrick_] Tal vez."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:22 #-#-# translate crowdin corneliaCallToSkating_0eae0b9b:
 msgid "[_cornelia_] Прости меня за то, что вчера поцеловала тебя, я была не в себе и мне до сих пор неловко..."
-msgstr ""
+msgstr "[_cornelia_] Perdóname por besarte ayer, no era yo misma y todavía estoy avergonzado..."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:26 #-#-# translate crowdin corneliaCallToSkating_326fc3a0:
 msgid "[_elion_] Что ты сделала?"
-msgstr ""
+msgstr "[_elion_] ¿Hiciste que?"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:31 #-#-# translate crowdin corneliaCallToSkating_43857e71:
 msgid "[_cornelia_] Это получилось случайно..."
-msgstr ""
+msgstr "[_cornelia_] Fue un accidente..."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:35 #-#-# translate crowdin corneliaCallToSkating_a20cefa7:
 msgid "..."
@@ -46,39 +46,39 @@ msgstr "b sdfdfdfdfdfdf"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:36 #-#-# translate crowdin corneliaCallToSkating_b1f1144e:
 msgid "[_cedrick_] Элион! Там, кажется, приехал грузовик с товаром. Ты не могла бы принять его?"
-msgstr ""
+msgstr "[_cedrick_] ¡Elyon! Parece que está llegando un camión cargado de mercancías. ¿Podrías revisarlo?"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:40 #-#-# translate crowdin corneliaCallToSkating_ae6a08b9:
 msgid "[_cornelia_] Элион, постой! Ты еще хочешь покататься на коньках в эту субботу?"
-msgstr ""
+msgstr "[_cornelia_] ¡Elyon, espera! ¿Todavía quieres ir a patinar sobre hielo este sábado?"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:44 #-#-# translate crowdin corneliaCallToSkating_b9d8c96f:
 msgid "[_elion_] Прости, но я, наверное, не смогу. У меня еще много работы здесь, да и в школе задали много домашки..."
-msgstr ""
+msgstr "[_elion_] Lo siento, pero probablemente no pueda. Tengo mucho trabajo que hacer aquí, y muchos deberes de la escuela..."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:48 #-#-# translate crowdin corneliaCallToSkating_da94d6f9:
 msgid "[_cedrick_] Хех... Коньки? Я всегда хотел научиться кататься на них, но как-то не довелось..."
-msgstr ""
+msgstr "[_cedrick_] Je... ¿Patinar? Siempre he querido aprender a patinar, pero nunca pude a hacerlo..."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:52 #-#-# translate crowdin corneliaCallToSkating_b7cbf477:
 msgid "[_cornelia_]  Я могу тебя научить!"
-msgstr ""
+msgstr "[_cornelia_]  ¡Puedo enseñarte!"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:53 #-#-# translate crowdin corneliaCallToSkating_34aa0960:
 msgid "[_cedrick_] Ну даже не знаю, не хочу быть обузой."
-msgstr ""
+msgstr "[_cedrick_] No sé, no quiero ser una carga."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:57 #-#-# translate crowdin corneliaCallToSkating_71d55490:
 msgid "[_cornelia_] Ну давай! Я научу тебя кататься, а ты посидишь с моей сестрой, идет? "
-msgstr ""
+msgstr "[_cornelia_] ¡Ven! Te enseñaré a patinar y podrías cuidar a mi hermana, ¿vale? "
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:58 #-#-# translate crowdin corneliaCallToSkating_da6db167:
 msgid "[_cornelia_] Услуга за услугу."
-msgstr ""
+msgstr "[_cornelia_] Un favor, por un favor."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:62 #-#-# translate crowdin corneliaCallToSkating_780503c7:
 msgid "[_cedrick_] Ну хорошо... Я за тобой зайду..."
-msgstr ""
+msgstr "[_cedrick_] Muy bien, entonces... Iré a buscarte..."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:66 #-#-# translate crowdin corneliaCallToSkating_9566f82d:
 msgid "[_cornelia_] Договорились!"
