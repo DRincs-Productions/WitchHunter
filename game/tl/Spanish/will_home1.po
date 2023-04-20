@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-20 04:31\n"
+"PO-Revision-Date: 2023-04-20 05:57\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_home1.rpy:8 #-#-# translate crowdin will_home1_ece55c08:
 msgid "[_susan_] Рик! Пришел помочь Вилл?"
@@ -34,23 +34,23 @@ msgstr "[_will_] Está un poco desordenado, lo siento, no he tenido tiempo de or
 
 # game/scripts/quests/will/will_home1.rpy:22 #-#-# translate crowdin will_home1_79d7e417:
 msgid "[_cedrick_sprite_] Ничего страшного"
-msgstr ""
+msgstr "[_cedrick_sprite_] No hay problema"
 
 # game/scripts/quests/will/will_home1.rpy:28 #-#-# translate crowdin will_home1_695bbab6:
 msgid "[_cedrick_sprite_] Хех, а ты очень любишь лягушек, верно?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Te gustan mucho las ranas, ¿verdad?"
 
 # game/scripts/quests/will/will_home1.rpy:34 #-#-# translate crowdin will_home1_eea3693a:
 msgid "[_will_] Я собираю их уже больше 8 лет, большинство из них мне подарила бабушка а потом это превратилось во что-то вроде хобби"
-msgstr ""
+msgstr "[_will_] Hace más de ocho años que las colecciono, la mayoría me las regaló mi abuela y luego se convirtió en una especie de Hobby"
 
 # game/scripts/quests/will/will_home1.rpy:35 #-#-# translate crowdin will_home1_16a13b6f:
 msgid "[_cedrick_sprite_] Хорошо когда у тебя есть увлечение"
-msgstr ""
+msgstr "[_cedrick_sprite_] Es bueno tener un hobby"
 
 # game/scripts/quests/will/will_home1.rpy:41 #-#-# translate crowdin will_home1_e51e9cc1:
 msgid "[_will_] Наверное.."
-msgstr ""
+msgstr "[_will_] Supongo.."
 
 # game/scripts/quests/will/will_home1.rpy:46 #-#-# translate crowdin will_home1_65308c2c:
 msgid "*Спустя некоторое время*"
@@ -58,25 +58,25 @@ msgstr ""
 
 # game/scripts/quests/will/will_home1.rpy:52 #-#-# translate crowdin will_home1_23e40135:
 msgid "[_cedrick_sprite_] ...Вот так отчасти из-за экономической нестабильности и частым нападениям различных племен варваров распалась римская империя.."
-msgstr ""
+msgstr "[_cedrick_sprite_] ...Así fue como, en parte debido a la inestabilidad económica y a los frecuentes ataques de diversas tribus bárbaras, el Imperio Romano se derrumbó.."
 
 # game/scripts/quests/will/will_home1.rpy:53 #-#-# translate crowdin will_home1_edcd22a1:
 msgid "[_will_] А это правда, что первые геи появились в Риме?"
-msgstr ""
+msgstr "[_will_] ¿Es cierto que los primeros homosexuales vinieron de Roma?"
 
 # game/scripts/quests/will/will_home1.rpy:54 #-#-# translate crowdin will_home1_437f5535:
 msgid "[_cedrick_sprite_] Ну... На этот вопрос у историков нет однозначного ответа, скорее всего геи были и до римской империи, но широкое распространение получили благодаря ей.."
-msgstr ""
+msgstr "[_cedrick_sprite_] Bueno... Los historiadores no tienen una respuesta definitiva a esta pregunta, es probable que los homosexuales estuvieran presentes antes del Imperio Romano, pero se generalizaron gracias a él.."
 
 # game/scripts/quests/will/will_home1.rpy:60 #-#-# translate crowdin will_home1_7b52b9e2:
 msgid "[_will_] Жаль что наши учителя в школе не могут преподавать материал так увлекательно"
-msgstr ""
+msgstr "[_will_] Ojalá nuestros profesores en la escuela pudieran enseñar esta materia de una manera tan divertida"
 
 # game/scripts/quests/will/will_home1.rpy:61 #-#-# translate crowdin will_home1_b60f6daf:
 msgid "[_cedrick_sprite_] Что ж... Думаю на сегодня хватит, в следующий раз я расскажу тебе о средневековье"
-msgstr ""
+msgstr "[_cedrick_sprite_] Bueno... Creo que es suficiente por hoy, la próxima vez te hablaré de la Edad Media"
 
 # game/scripts/quests/will/will_home1.rpy:67 #-#-# translate crowdin will_home1_a00c8e7a:
 msgid "[_will_] Хорошо, спасибо за урок, пока Рик"
-msgstr ""
+msgstr "[_will_] Ok, gracias por la lección, adiós Rick"
 
