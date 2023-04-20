@@ -10,35 +10,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:34\n"
+"PO-Revision-Date: 2023-04-20 05:58\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestMeetWill.rpy:3
 msgid "Сблизиться с семьей Вэндомов"
-msgstr ""
+msgstr "Acercarse a la familia Vandom"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Заказать игрушки лягушки для Вилл (при помощи телефона)"
-msgstr ""
+msgstr "Encargar juguetes de rana para Will (por teléfono)"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Дождаться когда доставят игрушки лягушки в книжный магазин"
-msgstr ""
+msgstr "Espera a que lleguen los juguetes de rana a la librería"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Дождаться когда Вилл придет в книжный магазин"
-msgstr ""
+msgstr "Espera a que Will venga a la librería"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Дождаться следующей встречи с Вилл"
-msgstr ""
+msgstr "Espera a la próxima reunión con Will"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Поднять навык истории и позаниматься с Вилл"
-msgstr ""
+msgstr "Aumenta tu destreza en historia y estudia con Will"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Поднять навык истории и позаниматься с Вилл (снова)"
-msgstr ""
+msgstr "Aumenta tu habilidad en historia y estudia con Will (otra vez)"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Устранить Колинза"
