@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:47\n"
+"PO-Revision-Date: 2023-04-20 07:54\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/interface/phone/labels/call_bryan.rpy:2 #-#-# translate crowdin subscriber_is_not_responding_86f95c52:
 msgid "гудки"
-msgstr ""
+msgstr "pitidos"
 
 # game/scripts/interface/phone/labels/call_bryan.rpy:3 #-#-# translate crowdin subscriber_is_not_responding_a20cefa7:
 msgid "..."
@@ -22,5 +22,5 @@ msgstr "b sdfdfdfdfdfdf"
 
 # game/scripts/interface/phone/labels/call_bryan.rpy:4 #-#-# translate crowdin subscriber_is_not_responding_524e39e6:
 msgid "Абонент не отвечает, оставьте сообщение после сигнала."
-msgstr ""
+msgstr "Si la persona a la que llama no contesta, deje un mensaje después del tono."
 
