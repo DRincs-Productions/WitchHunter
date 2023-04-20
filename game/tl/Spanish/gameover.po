@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:47\n"
+"PO-Revision-Date: 2023-04-20 09:25\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/gameover.rpy:5 #-#-# translate crowdin gameover_a20cefa7:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/gameover.rpy:6 #-#-# translate crowdin gameover_e94ac20d:
 msgid "[_phobos_] Это был последний раз, когда ты подвел меня!"
-msgstr ""
+msgstr "[_phobos_] ¡Esta fue la última vez que me decepcionaste!"
 
 # game/gameover.rpy:12 #-#-# translate crowdin gameover_c7f7898a:
 msgid "[_centered_] {size=37} ИГРА ОКОНЧЕНА {/size}"
-msgstr ""
+msgstr "[_centered_] {size=37} Game Over {/size}"
 
