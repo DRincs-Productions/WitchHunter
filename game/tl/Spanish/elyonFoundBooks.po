@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:49\n"
+"PO-Revision-Date: 2023-04-20 06:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/singles/elyonFoundBooks.rpy:10 #-#-# translate crowdin elyonFoundBooks_bc5d1268:
 msgid "[_elion_] Эмм... Рик... Кажется я нашла нужные нам книги."
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:39 #-#-# translate crowdin elyonFoundBooks_cdd6670c:
 msgid "Звук дверного звонка"
-msgstr ""
+msgstr "Sonido del timbre"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:40 #-#-# translate crowdin elyonFoundBooks_a20cefa7_1:
 msgid "..."
