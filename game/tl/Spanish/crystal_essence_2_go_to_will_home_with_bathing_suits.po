@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:49\n"
+"PO-Revision-Date: 2023-04-20 07:54\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:7 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_babdf96a:
 msgid "[_susan_] Ну что, ты купил нам костюмы для бассейна?"
@@ -262,7 +262,7 @@ msgstr ""
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:232 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_46f894c4:
 msgid "[_cedrick_] По рукам!"
-msgstr ""
+msgstr "[_cedrick_] ¡Trato hecho!"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:236 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_683ad0ed:
 msgid "[_will_] Если я выигрываю, то ты выполнишь мое желание!"
