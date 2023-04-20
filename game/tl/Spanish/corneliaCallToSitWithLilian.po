@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:48\n"
+"PO-Revision-Date: 2023-04-20 06:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:7 #-#-# translate crowdin corneliaCallToSitWithLilian_a20cefa7:
 msgid "..."
@@ -22,15 +22,15 @@ msgstr ""
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:11 #-#-# translate crowdin corneliaCallToSitWithLilian_97745f2c:
 msgid "[_cornelia_] Рик, это Корнелия."
-msgstr ""
+msgstr "[_cornelia_] Rick, soy Cornelia."
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:12 #-#-# translate crowdin corneliaCallToSitWithLilian_50830dcc:
 msgid "[_cornelia_] Ты сможешь посидеть с моей сестрой сегодня вечером? Просто мои родители уехали отдыхать, мне нужно уйти, а ее не с кем оставить..."
-msgstr ""
+msgstr "[_cornelia_] ¿Puedes cuidar a mi hermana esta noche? Es que mis padres están de vacaciones y tengo que salir y no tengo con quien dejarla..."
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:13 #-#-# translate crowdin corneliaCallToSitWithLilian_df1f6558:
 msgid "[_cedrick_] Хорошо, без проблем, я приду."
-msgstr ""
+msgstr "[_cedrick_] Ok, no hay problema, allí estaré."
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:14 #-#-# translate crowdin corneliaCallToSitWithLilian_a20cefa7_1:
 msgid "..."
