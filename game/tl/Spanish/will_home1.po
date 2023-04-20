@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:39\n"
+"PO-Revision-Date: 2023-04-20 04:31\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_home1.rpy:8 #-#-# translate crowdin will_home1_ece55c08:
 msgid "[_susan_] Рик! Пришел помочь Вилл?"
-msgstr ""
+msgstr "[_susan_] ¡Rick! ¿Vienes a ayudar a Will?"
 
 # game/scripts/quests/will/will_home1.rpy:9 #-#-# translate crowdin will_home1_02d5d155:
 msgid "[_cedrick_sprite_] Да, надеюсь моих знаний будет достаточно"
-msgstr ""
+msgstr "[_cedrick_sprite_] Sí, espero que mis conocimientos sean suficientes"
 
 # game/scripts/quests/will/will_home1.rpy:10 #-#-# translate crowdin will_home1_5c60f564:
 msgid "[_susan_] Я очень тебе благодарна за это, пожалуйста проходи, Вилл в своей комнате"
-msgstr ""
+msgstr "[_susan_] Le estoy muy agradecida por esto, por favor pase, Will está en su habitación"
 
 # game/scripts/quests/will/will_home1.rpy:15 #-#-# translate crowdin will_home1_6751b843:
 msgid "*В комнате вилл*"
-msgstr ""
+msgstr "* En la habitación de Will *"
 
 # game/scripts/quests/will/will_home1.rpy:21 #-#-# translate crowdin will_home1_e846e7f7:
 msgid "[_will_] Тут небольшой беспорядок, прости, я не успела прибраться"
-msgstr ""
+msgstr "[_will_] Está un poco desordenado, lo siento, no he tenido tiempo de ordenarlo"
 
 # game/scripts/quests/will/will_home1.rpy:22 #-#-# translate crowdin will_home1_79d7e417:
 msgid "[_cedrick_sprite_] Ничего страшного"
