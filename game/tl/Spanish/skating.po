@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:49\n"
+"PO-Revision-Date: 2023-04-20 06:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/skating/skating.rpy:8 #-#-# translate crowdin skating_4bf2aa0a:
 msgid "[_cedrick_] Ты готова?"
-msgstr ""
+msgstr "[_cedrick_] ¿Estás listo?"
 
 # game/scripts/quests/skating/skating.rpy:9 #-#-# translate crowdin skating_f3943ab7:
 msgid "[_cornelia_] Да, пойдем."
-msgstr ""
+msgstr "[_cornelia_] Sí, vamos."
 
 # game/scripts/quests/skating/skating.rpy:10 #-#-# translate crowdin skating_576d0f1d:
 msgid "[_centered_] {size=37}Спустя некоторое время на катке{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {size=37}Después de un rato en la pista{/size} [withDissolve1]"
 
 # game/scripts/quests/skating/skating.rpy:18 #-#-# translate crowdin skating_340eedad:
 msgid "[_cedrick_] Ауч..."
-msgstr ""
+msgstr "[_cedrick_] Ouch..."
 
 # game/scripts/quests/skating/skating.rpy:19 #-#-# translate crowdin skating_a20cefa7:
 msgid "..."
@@ -34,15 +34,15 @@ msgstr "b sdfdfdfdfdfdf"
 
 # game/scripts/quests/skating/skating.rpy:20 #-#-# translate crowdin skating_d793c7ef:
 msgid "[_cedrick_] больно..."
-msgstr ""
+msgstr "[_cedrick_] Duele..."
 
 # game/scripts/quests/skating/skating.rpy:21 #-#-# translate crowdin skating_74f3eaea:
 msgid "[_cedrick_] А это не так легко, как может показаться..."
-msgstr ""
+msgstr "[_cedrick_] Y esto no es tan fácil como parece..."
 
 # game/scripts/quests/skating/skating.rpy:24 #-#-# translate crowdin skating_654e2a46:
 msgid "[_cornelia_] Не волнуйся, я тебя держу..."
-msgstr ""
+msgstr "[_cornelia_] No te preocupes, te tengo..."
 
 # game/scripts/quests/skating/skating.rpy:25 #-#-# translate crowdin skating_5f9b772e:
 msgid "...."
@@ -54,7 +54,7 @@ msgstr ""
 
 # game/scripts/quests/skating/skating.rpy:27 #-#-# translate crowdin skating_5cbf9bf5:
 msgid "[_cornelia_] Расслабься и старайся держать равновесие!"
-msgstr ""
+msgstr "[_cornelia_] ¡Relájate e intenta mantener el equilibrio!"
 
 # game/scripts/quests/skating/skating.rpy:28 #-#-# translate crowdin skating_a20cefa7_1:
 msgid "..."
@@ -62,7 +62,7 @@ msgstr "b sdfdfdfdfdfdf"
 
 # game/scripts/quests/skating/skating.rpy:29 #-#-# translate crowdin skating_7b713807:
 msgid "[_cornelia_] Не торопись!"
-msgstr ""
+msgstr "[_cornelia_] ¡Tómate tu tiempo!"
 
 # game/scripts/quests/skating/skating.rpy:30 #-#-# translate crowdin skating_a20cefa7_2:
 msgid "..."
@@ -70,35 +70,35 @@ msgstr "b sdfdfdfdfdfdf"
 
 # game/scripts/quests/skating/skating.rpy:31 #-#-# translate crowdin skating_b6995264:
 msgid "[_cornelia_] Кажется... У тебя получается!"
-msgstr ""
+msgstr "[_cornelia_] Parece que... ¡Lo estás haciendo!"
 
 # game/scripts/quests/skating/skating.rpy:32 #-#-# translate crowdin skating_9744bde8:
 msgid "[_cedrick_] Похоже на то! "
-msgstr ""
+msgstr "[_cedrick_] ¡Eso parece! "
 
 # game/scripts/quests/skating/skating.rpy:33 #-#-# translate crowdin skating_50883dac:
 msgid "[_cedrick_] По крайней мере я уже не полирую лед своим телом."
-msgstr ""
+msgstr "[_cedrick_] Al menos ya no puliré el hielo con mi cuerpo."
 
 # game/scripts/quests/skating/skating.rpy:34 #-#-# translate crowdin skating_b713dc77:
 msgid "[_cornelia_] Хахаха..."
-msgstr ""
+msgstr "[_cornelia_] Ja ja ja..."
 
 # game/scripts/quests/skating/skating.rpy:36 #-#-# translate crowdin skating_e3c15389:
 msgid "[_cedrick_] Спасибо, кажется у меня уже получается..."
-msgstr ""
+msgstr "[_cedrick_] Gracias, creo que le estoy cogiendo el truco..."
 
 # game/scripts/quests/skating/skating.rpy:37 #-#-# translate crowdin skating_3aa6aa5f:
 msgid "[_cedrick_] Ты хороший учитель!"
-msgstr ""
+msgstr "[_cedrick_] ¡Eres una buena maestra!"
 
 # game/scripts/quests/skating/skating.rpy:38 #-#-# translate crowdin skating_7f68cb06:
 msgid "[_cornelia_] Ну... Я ведь участвовала в нескольких соревнованиях по фигурному катанию и даже выиграла несколько наград.."
-msgstr ""
+msgstr "[_cornelia_] Bueno... He competido en algunos concursos de patinaje artístico e incluso he ganado algunos premios.."
 
 # game/scripts/quests/skating/skating.rpy:39 #-#-# translate crowdin skating_85e62222:
 msgid "[_cedrick_] А ты молодец! Я даже и не знал..."
-msgstr ""
+msgstr "[_cedrick_] ¡Bien por ti! Ni siquiera sabía..."
 
 # game/scripts/quests/skating/skating.rpy:40 #-#-# translate crowdin skating_a20cefa7_3:
 msgid "..."
@@ -106,13 +106,13 @@ msgstr "b sdfdfdfdfdfdf"
 
 # game/scripts/quests/skating/skating.rpy:42 #-#-# translate crowdin skating_d87b3147:
 msgid "[_cedrick_] Так, когда нужно будет посидеть с твоей сестрой?"
-msgstr ""
+msgstr "[_cedrick_] Entonces, ¿cuándo necesitas que cuide de tu hermana?"
 
 # game/scripts/quests/skating/skating.rpy:43 #-#-# translate crowdin skating_e06ffd08:
 msgid "[_cornelia_] Дай мне свой номер телефона и когда мне понадобится, я тебе позвоню..."
-msgstr ""
+msgstr "[_cornelia_] Dame tu número de teléfono y cuando te necesite te llamaré..."
 
 # game/scripts/quests/skating/skating.rpy:44 #-#-# translate crowdin skating_06a95c70:
 msgid "[_cedrick_]  Договорились."
-msgstr ""
+msgstr "[_cedrick_] De acuerdo."
 
