@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:36\n"
+"PO-Revision-Date: 2023-04-20 09:25\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:9 #-#-# translate crowdin pickUpTicketFromBlank_267cf647:
 msgid "[_cedrick_] Ты достал билеты?"
-msgstr ""
+msgstr "[_cedrick_] ¿Conseguiste las entradas?"
 
 # game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:10 #-#-# translate crowdin pickUpTicketFromBlank_efdc141c:
 msgid "[_blank_] Да, бланк достать!"
-msgstr ""
+msgstr "[_blank_] Sí, ¡Blunk consigue!"
 
 # game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:13 #-#-# translate crowdin pickUpTicketFromBlank_868650e6:
 msgid "[_cedrick_] Наконец-то, молодец."
-msgstr ""
+msgstr "[_cedrick_] Por último, bien hecho."
 
 # game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:14 #-#-# translate crowdin pickUpTicketFromBlank_257381ed:
 msgid "[_cedrick_] (Теперь я могу пригласить Корнелию и Элион на концерт, чтобы войти к ним в доверие... хехехе!)"
-msgstr ""
+msgstr "[_cedrick_] (Ahora puedo invitar a Cornelia y Elyon al concierto para ganar su confianza.... jejeje)"
 
