@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:49\n"
+"PO-Revision-Date: 2023-04-20 06:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:4 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_e23f3887:
 msgid "[_miranda_] Ты достал образец волос твоего полицейского?"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:5 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_e6f6bc07:
 msgid "[_cedrick_] Еще нет"
-msgstr ""
+msgstr "[_cedrick_] Todavía no"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:7 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_50cb3a93:
 msgid "[_miranda_] Не забыл взять одежду подходящего размера? У тебя будет не так много времени после перевоплощения"
