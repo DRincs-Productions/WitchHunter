@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:33\n"
+"PO-Revision-Date: 2023-04-21 06:03\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/elion_get_job.rpy:3 #-#-# translate crowdin elion_get_job_1a809d14:
 msgid "Привет."
-msgstr ""
+msgstr "Hola."
 
 # game/scripts/bookshop/elion_get_job.rpy:7 #-#-# translate crowdin elion_get_job_4cac8b93:
 msgid "[_cedrick_sprite_] Добрый день.."
-msgstr ""
+msgstr "[_cedrick_sprite_] Buenas tardes.."
 
 # game/scripts/bookshop/elion_get_job.rpy:9 #-#-# translate crowdin elion_get_job_2fa792ff:
 msgid "[_cedrick_sprite_] ((Хм.. Как же их зовут..?)"
-msgstr ""
+msgstr "[_cedrick_sprite_] ((Hmm... ¿Cuáles eran sus nombres?)"
 
 # game/scripts/bookshop/elion_get_job.rpy:31 #-#-# translate crowdin menu1_slow_d40f9a3a:
 msgid "[_elion_] Эй, ты заснул?"
-msgstr ""
+msgstr "[_elion_] Oye, ¿te has dormido?"
 
 # game/scripts/bookshop/elion_get_job.rpy:32 #-#-# translate crowdin menu1_slow_dca24572:
 msgid "[_cedrick_sprite_] Ох, простите, я задумался, много всего накопилось."
