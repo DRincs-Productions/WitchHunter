@@ -10,33 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:37\n"
+"PO-Revision-Date: 2023-04-21 10:29\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/elyon_cry_about_bryan2.rpy:9 #-#-# translate crowdin elyon_cry_about_bryan2_74dc7f72:
 msgid "[_elion_] Брайана до сих пор нету, я боюсь, что с ним могло случится что-то плохое.."
-msgstr ""
+msgstr "[_elion_] Brian sigue desaparecido, temo que le haya pasado algo malo.."
 
 # game/scripts/quests/joiningsAfterMissingBryan/elyon_cry_about_bryan2.rpy:10 #-#-# translate crowdin elyon_cry_about_bryan2_c4d9cce1:
 msgid "[_cedrick_sprite_] Возможно, он нашел другую и уехал с ней из города."
-msgstr ""
+msgstr "[_cedrick_sprite_] Puede que haya encontrado a otra chica y se haya ido de la ciudad con ella."
 
 # game/scripts/quests/joiningsAfterMissingBryan/elyon_cry_about_bryan2.rpy:15 #-#-# translate crowdin elyon_cry_about_bryan2_8b298907:
 msgid "[_elion_] Брайан?? Нет, он не смог бы так поступить со мной!"
-msgstr ""
+msgstr "[_elion_] ¿Brian? ¡No, él no podría hacerme eso!"
 
 # game/scripts/quests/joiningsAfterMissingBryan/elyon_cry_about_bryan2.rpy:16 #-#-# translate crowdin elyon_cry_about_bryan2_7e853ccf:
 msgid "[_cedrick_sprite_] В таком возрасте они думают только об одном.. Вполне вероятно, что так и произошло.."
-msgstr ""
+msgstr "[_cedrick_sprite_] A esa edad, solo piensan en una cosa... Eso es probablemente lo que pasó.."
 
 # game/scripts/quests/joiningsAfterMissingBryan/elyon_cry_about_bryan2.rpy:22 #-#-# translate crowdin elyon_cry_about_bryan2_2273cb00:
 msgid "[_elion_] Этого не может быть..."
-msgstr ""
+msgstr "[_elion_] No puede ser..."
 
 # game/scripts/quests/joiningsAfterMissingBryan/elyon_cry_about_bryan2.rpy:23 #-#-# translate crowdin elyon_cry_about_bryan2_422e8489:
 msgid "[_cedrick_sprite_] Не волнуйся, у тебя еще будет много парней."
-msgstr ""
+msgstr "[_cedrick_sprite_] No te preocupes, tendrás muchos más novios."
 
 # game/scripts/quests/joiningsAfterMissingBryan/elyon_cry_about_bryan2.rpy:27 #-#-# translate crowdin elyon_cry_about_bryan2_ee3dcf66:
 msgid "Седрик утешает Элион."
-msgstr ""
+msgstr "Cedric consuela a Elyon."
 
