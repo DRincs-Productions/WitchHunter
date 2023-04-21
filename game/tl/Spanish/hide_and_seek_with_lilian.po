@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:47\n"
+"PO-Revision-Date: 2023-04-21 10:29\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:5 #-#-# translate crowdin hide_and_seek_with_lilian_c4629577:
 msgid "[_cedrick_] (Пожалуй, что... Нет.)"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:6 #-#-# translate crowdin hide_and_seek_with_lilian_9f76b1f1:
 msgid "[_cedrick_] (Развращать кого-то вроде Лилиан мне нет никакой надобности. Это приведет лишь к лишним проблемам в будущем. У всего есть свой предел, мой проходит здесь)"
-msgstr ""
+msgstr "[_cedrick_] (No hay necesidad de que corrompa a alguien como Lillian. Solo traería problemas innecesarios en el futuro. Todo tiene un límite, el mío está aquí)"
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:7 #-#-# translate crowdin hide_and_seek_with_lilian_1f0f31f1:
 msgid "[_cedrick_] (Одно дело отправлять на катакомбы всякий нападающий на меня сброд и подирать дряхлых стариков, которые и без моей помощи померли бы через пару дней)"
@@ -238,7 +238,7 @@ msgstr ""
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:130 #-#-# translate crowdin hide_and_seek_with_lilian_a20cefa7:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:133 #-#-# translate crowdin hide_and_seek_with_lilian_69e81637:
 msgid "[_cedrick_] Клянешься ли ты, Корнелия Хейл, сохранить в секрете то, куда пропала твоя сестра?"
