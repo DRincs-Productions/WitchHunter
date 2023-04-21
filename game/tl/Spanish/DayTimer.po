@@ -10,73 +10,73 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:34\n"
+"PO-Revision-Date: 2023-04-21 06:03\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/DayTimer.rpy:7
 msgid "Пн"
-msgstr ""
+msgstr "Lu"
 
 # game/scripts/core/DayTimer.rpy:7
 msgid "Вт"
-msgstr ""
+msgstr "Mar"
 
 # game/scripts/core/DayTimer.rpy:7
 msgid "Ср"
-msgstr ""
+msgstr "Mi"
 
 # game/scripts/core/DayTimer.rpy:7
 msgid "Чт"
-msgstr ""
+msgstr "Ju"
 
 # game/scripts/core/DayTimer.rpy:7
 msgid "Пт"
-msgstr ""
+msgstr "Vie"
 
 # game/scripts/core/DayTimer.rpy:7
 msgid "Сб"
-msgstr ""
+msgstr "Sab"
 
 # game/scripts/core/DayTimer.rpy:7
 msgid "Вс"
-msgstr ""
+msgstr "Do"
 
 # game/scripts/core/DayTimer.rpy:16
 msgid "Понедельник"
-msgstr ""
+msgstr "Lunes"
 
 # game/scripts/core/DayTimer.rpy:16
 msgid "Вторник"
-msgstr ""
+msgstr "Martes"
 
 # game/scripts/core/DayTimer.rpy:16
 msgid "Среда"
-msgstr ""
+msgstr "Miércoles"
 
 # game/scripts/core/DayTimer.rpy:16
 msgid "Четверг"
-msgstr ""
+msgstr "Jueves"
 
 # game/scripts/core/DayTimer.rpy:16
 msgid "Пятница"
-msgstr ""
+msgstr "Viernes"
 
 # game/scripts/core/DayTimer.rpy:16
 msgid "Суббота"
-msgstr ""
+msgstr "Sábado"
 
 # game/scripts/core/DayTimer.rpy:16
 msgid "Воскресенье"
-msgstr ""
+msgstr "Domingo"
 
 # game/scripts/core/DayTimer.rpy:103
 msgid "Утро"
-msgstr ""
+msgstr "Mañana"
 
 # game/scripts/core/DayTimer.rpy:105
 msgid "День"
-msgstr ""
+msgstr "Día"
 
 # game/scripts/core/DayTimer.rpy:107
 msgid "Ночь"
-msgstr ""
+msgstr "Noche"
 
