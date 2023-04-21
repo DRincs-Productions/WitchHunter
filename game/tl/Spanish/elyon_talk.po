@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-21 06:03\n"
+"PO-Revision-Date: 2023-04-21 09:18\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/elyon_talk.rpy:4 #-#-# translate crowdin d_elion_talk1_aaae6c1f:
 msgid "[_cedrick_sprite_] Элион"
@@ -38,7 +38,7 @@ msgstr "[_cedrick_sprite_] ¿Cómo vas?"
 
 # game/scripts/bookshop/elyon_talk.rpy:28 #-#-# translate crowdin d_brayan_lost_85df2db1:
 msgid "[_elion_] Я... Я все еще переживаю за Брайана..."
-msgstr "[_elion_] Yo... Todavía estoy preocupada por Bryan..."
+msgstr "[_elion_] Yo... Todavía estoy preocupada por Brian..."
 
 # game/scripts/bookshop/elyon_talk.rpy:29 #-#-# translate crowdin d_brayan_lost_5db32b80:
 msgid "[_elion_] Надеюсь, что с ним все будет в порядке.."
@@ -46,23 +46,23 @@ msgstr "[_elion_] Espero que se encuentre bien.."
 
 # game/scripts/bookshop/elyon_talk.rpy:34 #-#-# translate crowdin d_alchemy_lost_1424187f:
 msgid "[_cedrick_sprite_] Все еще волнуешься из-за Алхими, да?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Sigues preocupada por Alchemy, ¿cierto?"
 
 # game/scripts/bookshop/elyon_talk.rpy:36 #-#-# translate crowdin d_alchemy_lost_b3bb83de:
 msgid "[_elion_] Да.. Я боюсь, что с ней случилось что-то плохое. Не верится, что она могла уехать куда-то не сообщила мне об этом..."
-msgstr ""
+msgstr "[_elion_] Sí... Me temo que algo malo le ha sucedido. No puedo creer que se haya ido a alguna parte sin avisarme..."
 
 # game/scripts/bookshop/elyon_talk.rpy:38 #-#-# translate crowdin d_alchemy_lost_ed48707d:
 msgid "[_elion_] И то, что Брайан пропал, это так странно..."
-msgstr ""
+msgstr "[_elion_] Y el hecho de que Brian también esté desaparecido es tan extraño..."
 
 # game/scripts/bookshop/elyon_talk.rpy:40 #-#-# translate crowdin d_alchemy_lost_23d234ec:
 msgid "[_cedrick_sprite_] Да, пожалуй.. Будем надеяться, что полиция сможет во всем разобраться.."
-msgstr ""
+msgstr "[_cedrick_sprite_] Sí, supongo que sí. Esperemos que la policía pueda llegar al fondo de esto.."
 
 # game/scripts/bookshop/elyon_talk.rpy:45 #-#-# translate crowdin d_bad_cornelia_e8abfc10:
 msgid "[_cedrick_sprite_] Ну как твои дела? Все еще не помирилась с корнелией?"
-msgstr ""
+msgstr "[_cedrick_sprite_] ¿Cómo sigues? ¿Todavía no te has reconciliado con Cornelia?"
 
 # game/scripts/bookshop/elyon_talk.rpy:48 #-#-# translate crowdin d_bad_cornelia_4d5a6f11:
 msgid "[_elion_] Нет, есди бы она была настоящей подругой то не поступала бы так со мной, не думаю что это того стоит.."
