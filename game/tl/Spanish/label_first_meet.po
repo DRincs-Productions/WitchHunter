@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-20 11:35\n"
+"PO-Revision-Date: 2023-04-21 04:29\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/label_first_meet.rpy:4 #-#-# translate crowdin first_meet_8bd86d07:
 msgid "[_cedrick_] Что-ж, пока никто сюда не явился, самое время начать изучать местные книги"
@@ -166,51 +166,51 @@ msgstr "[_cornelia_] Desafortunadamente, no pude encontrar el libro correcto... 
 
 # game/label_first_meet.rpy:155 #-#-# translate crowdin first_meet_37db0a62:
 msgid "[_cedrick_sprite_] Простите, я еще не успел все выставить... Вполне вероятно, что нужная вам книга находится где-то в коробках..."
-msgstr ""
+msgstr "[_cedrick_sprite_] Lo siento, no he tenido la oportunidad de sacar todo todavía... Es probable que el libro que deseas esté guardado en alguna de las cajas..."
 
 # game/label_first_meet.rpy:156 #-#-# translate crowdin first_meet_fad3e6b3:
 msgid "[_cedrick_sprite_] Вы можете оставить свои адреса и я доставлю эти книги прямо вам домой."
-msgstr ""
+msgstr "[_cedrick_sprite_] Pueden dejar sus direcciones y les entregaré los libros directamente en su casa."
 
 # game/label_first_meet.rpy:159 #-#-# translate crowdin first_meet_38164c3e:
 msgid "[_cornelia_] А может мы просто дадим вам наши мобильные номера и вы сообщите когда найдете книги?"
-msgstr ""
+msgstr "[_cornelia_] ¿Qué tal si te damos nuestros números de móvil y nos avisas cuando encuentres los libros?"
 
 # game/label_first_meet.rpy:160 #-#-# translate crowdin first_meet_e00b6067:
 msgid "[_cedrick_]  Эм... К сожалению, я недавно потерял свой телефон..."
-msgstr ""
+msgstr "[_cedrick_]  Um... Desafortunadamente, hace poco perdí mi teléfono..."
 
 # game/label_first_meet.rpy:166 #-#-# translate crowdin first_meet_d6a93290:
 msgid "[_cornelia_] Вы потеряли свой мобильник? Ну вы даете..."
-msgstr ""
+msgstr "[_cornelia_] ¿Has perdido tu teléfono? Tienes que estar bromeando..."
 
 # game/label_first_meet.rpy:172 #-#-# translate crowdin first_meet_6c6af52e:
 msgid "[_cornelia_] Похоже, что вы слишком сильно отвлекаетесь на книги..."
-msgstr ""
+msgstr "[_cornelia_] Parece que te distraen demasiado los libros..."
 
 # game/label_first_meet.rpy:176 #-#-# translate crowdin first_meet_ccf65cb3:
 msgid "[_elion_] Корнелия... это не очень вежливо..."
-msgstr ""
+msgstr "[_elion_] Cornelia... eso no es muy educado..."
 
 # game/label_first_meet.rpy:180 #-#-# translate crowdin first_meet_055d661a:
 msgid "[_cornelia_] Ой, простите..."
-msgstr ""
+msgstr "[_cornelia_] Oh, perdón..."
 
 # game/label_first_meet.rpy:184 #-#-# translate crowdin first_meet_54b90254:
 msgid "[_cedrick_] Хах, ничего страшного. Похоже я и вправду провожу слишком много времени с книгами..."
-msgstr ""
+msgstr "[_cedrick_] Está bien. Supongo que paso demasiado tiempo con los libros..."
 
 # game/label_first_meet.rpy:189 #-#-# translate crowdin first_meet_dcd3b9b7:
 msgid "[_cedrick_] Думаю, мне стоит купить новый телефон..."
-msgstr ""
+msgstr "[_cedrick_] Creo que debería comprarme un teléfono nuevo..."
 
 # game/label_first_meet.rpy:192 #-#-# translate crowdin first_meet_13734343:
 msgid "[_cornelia_] Ну, раз так... Мы оставим вам свои адреса..."
-msgstr ""
+msgstr "[_cornelia_] Bueno, si ese es el caso... Te dejaremos nuestras direcciones..."
 
 # game/label_first_meet.rpy:193 #-#-# translate crowdin first_meet_dcd297c6:
 msgid "[_cedrick_] Хорошо "
-msgstr ""
+msgstr "[_cedrick_] Está bien "
 
 # game/label_first_meet.rpy:194 #-#-# translate crowdin first_meet_a20cefa7:
 msgid "..."
@@ -218,21 +218,21 @@ msgstr "..."
 
 # game/label_first_meet.rpy:197 #-#-# translate crowdin first_meet_35266b84:
 msgid "[_elion_] Была рада познакомиться с тобой, Рик. Нам нужно идти..."
-msgstr ""
+msgstr "[_elion_] Fue un placer conocerte, Rick. Tenemos que irnos..."
 
 # game/label_first_meet.rpy:198 #-#-# translate crowdin first_meet_64f29f0b:
 msgid "[_elion_] Пока!"
-msgstr ""
+msgstr "[_elion_] ¡Adiós!"
 
 # game/label_first_meet.rpy:204 #-#-# translate crowdin first_meet_590b16b1:
 msgid "Вы получили адрес Корнелии."
-msgstr ""
+msgstr "Has recibido la dirección de Cornelia."
 
 # game/label_first_meet.rpy:205 #-#-# translate crowdin first_meet_2fad7b0a:
 msgid "Вы получили адрес Элион."
-msgstr ""
+msgstr "Has recibido la dirección de Elyon."
 
 # game/label_first_meet.rpy:213 #-#-# translate crowdin first_meet_5e6a07aa:
 msgid "[_cedrick_] ({i}Похоже, что Звезда Трибы и вправду сработала... Нужно сообщить об этом принцу Фобосу.{/i})"
-msgstr ""
+msgstr "[_cedrick_] ({i}Parece que la Estrella de Threbe realmente funcionó... Debo hacérselo saber al Príncipe Phobos.{/i})"
 
