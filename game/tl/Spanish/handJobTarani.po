@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:48\n"
+"PO-Revision-Date: 2023-04-21 10:29\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/handJobTarani.rpy:7 #-#-# translate crowdin handJobTarani_210ec95d:
 msgid "[_cedrick_] Приветствую вас, ученики. Надеюсь вы хорошенько отдохнули на выходных!"
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/scripts/quests/tarani/handJobTarani.rpy:21 #-#-# translate crowdin handJobTarani_a20cefa7:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:25 #-#-# translate crowdin handJobTarani_180dfdd7:
 msgid "[_tarani_] Вы чего-то хотели, Профессор Рик?"
@@ -130,7 +130,7 @@ msgstr ""
 
 # game/scripts/quests/tarani/handJobTarani.rpy:100 #-#-# translate crowdin handJobTarani_6a7f3c9e:
 msgid "[_cedrick_] (Фух, чуть не попался...)"
-msgstr ""
+msgstr "[_cedrick_] (Uf, casi me pillan...)"
 
 # game/scripts/quests/tarani/handJobTarani.rpy:101 #-#-# translate crowdin handJobTarani_d0967235:
 msgid "[_tarani_] (Я не могу позволить Найджелу перейти в другую школу. Тогда мы почти перестанем видеться и в новой школе он совсем испортится.. Что же мне делать..)"
