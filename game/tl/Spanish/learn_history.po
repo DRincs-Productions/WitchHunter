@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:34\n"
+"PO-Revision-Date: 2023-04-21 04:29\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/learn_history.rpy:366 #-#-# translate crowdin learn_history_c9230321:
 msgid "[_cedrick_] Сегодня я устал, лучше продолжу завтра"
-msgstr ""
+msgstr "[_cedrick_] Ahora estoy cansado, prefiero continuar mañana"
 
 # game/scripts/bookshop/learn_history.rpy:368 #-#-# translate crowdin learn_history_4d38ecca:
 msgid "[_cedrick_] Я уже знаю всю историю"
-msgstr ""
+msgstr "[_cedrick_] Ya conozco toda la historia"
 
 # §translate crowdin strings: #|#|# # game/scripts/bookshop/learn_history.rpy:2
 msgid "Бог солнца в Древнем Египте"
-msgstr ""
+msgstr "El dios sol en el antiguo Egipto"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Ра-Атум"
-msgstr ""
+msgstr "Ra Atum"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Осирис"
-msgstr ""
+msgstr "Osiris"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Аллах"
