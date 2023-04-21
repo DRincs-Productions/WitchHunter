@@ -10,53 +10,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:33\n"
+"PO-Revision-Date: 2023-04-21 04:29\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/bookshop_first.rpy:34 #-#-# translate crowdin bookshop_first_93d6c9e2:
 msgid "[_cedrick_sprite_] Кажется, что в Хезерфилде люди используют такие устройства для хранения своего рода бумажных денег. Как наивно ... Гораздо надежнее хранить золото под охраной в подземельях."
-msgstr ""
+msgstr "[_cedrick_sprite_] Parece que la gente de Heatherfield utiliza estos dispositivos para guardar una especie de papel moneda. Qué ingenuos... Es mucho más seguro guardar el oro bajo custodia en las mazmorras."
 
 # game/scripts/bookshop/bookshop_first.rpy:37 #-#-# translate crowdin bookshop_first_38e7dee8:
 msgid "Седрик находит 50 баксов в кассе"
-msgstr ""
+msgstr "Cedric encuentra $50 en la caja"
 
 # game/scripts/bookshop/bookshop_first.rpy:38 #-#-# translate crowdin bookshop_first_a3a41642:
 msgid "[_cedrick_sprite_] Что ж… Ну хоть что-то для начала..."
-msgstr ""
+msgstr "[_cedrick_sprite_] Bueno… Bueno, al menos algo para empezar..."
 
 # game/scripts/bookshop/bookshop_first.rpy:42 #-#-# translate crowdin bookshop_first_bfe45220:
 msgid "[_cedrick_sprite_] С помощью этой книги я смогу вернуться на Меридиан"
-msgstr ""
+msgstr "[_cedrick_sprite_] Con la ayuda de este libro puedo volver a Meridian"
 
 # game/scripts/bookshop/bookshop_first.rpy:45 #-#-# translate crowdin bookshop_first_5d177d51:
 msgid "[_cedrick_sprite_] Сначала мне нужно осмотреться в магазине"
-msgstr ""
+msgstr "[_cedrick_sprite_] Primero tengo que echar un vistazo a la tienda"
 
 # game/scripts/bookshop/bookshop_first.rpy:48 #-#-# translate crowdin bookshop_first_4bb858fd:
 msgid "[_cedrick_sprite_] Реклама новых комиксов Юные Титаны, ничего интересного."
-msgstr ""
+msgstr "[_cedrick_sprite_] Un anuncio de los nuevos cómics de los Jóvenes Titanes, nada interesante."
 
 # game/scripts/bookshop/bookshop_first.rpy:51 #-#-# translate crowdin bookshop_first_7a812da1:
 msgid "[_cedrick_sprite_] Порнографический журнал, Не думал что подобное может продаваться здесь. Пожалуй, ознакомлюсь с ним попозже.."
-msgstr ""
+msgstr "[_cedrick_sprite_] Revista pornográfica, no pensé que este tipo de cosas se vendieran aquí. Supongo que lo investigaré más tarde.."
 
 # game/scripts/bookshop/bookshop_first.rpy:54 #-#-# translate crowdin bookshop_first_96206b06:
 msgid "[_cedrick_sprite_] Древняя книга с кодом чести, руководствами и другой полезной информацией для героев. Книга обладает большой силой, и с ее помощью вы можете создавать дыры в мультивселенной ..."
-msgstr ""
+msgstr "[_cedrick_sprite_] Un antiguo libro con un código de honor, guías y otra información útil para los héroes. El libro tiene un gran poder, y puedes usarlo para crear agujeros en el multiverso..."
 
 # game/scripts/bookshop/bookshop_first.rpy:55 #-#-# translate crowdin bookshop_first_76bc132a:
 msgid "[_cedrick_sprite_] Слишком много слов.. Одним словом бесполезная книга..."
-msgstr ""
+msgstr "[_cedrick_sprite_] Demasiadas palabras... En una palabra, un libro inútil..."
 
 # game/scripts/bookshop/bookshop_first.rpy:58 #-#-# translate crowdin bookshop_first_6c0936dd:
 msgid "[_cedrick_sprite_] Статуэтка черепахи мутанта, похожа на тех вонючих воришек называющих себя контрабандистами с Меридиана."
-msgstr ""
+msgstr "[_cedrick_sprite_] Una estatua de tortuga mutante, similar a esos apestosos ladrones que se hacen llamar contrabandistas meridianos."
 
 # game/scripts/bookshop/bookshop_first.rpy:61 #-#-# translate crowdin bookshop_first_ae9ed8fb:
 msgid "[_cedrick_sprite_] Первая книга из серии {i}Песнь пламени и льда{/i}, автор Дж. Мортин"
-msgstr ""
+msgstr "[_cedrick_sprite_] El primer libro de la serie {i}Canción de hielo y fuego{/i}, de J. Mortin"
 
 # game/scripts/bookshop/bookshop_first.rpy:64 #-#-# translate crowdin bookshop_first_59b43306:
 msgid "[_cedrick_sprite_] Звезда трибы, она должна привести ко мне наследницу трона."
-msgstr ""
+msgstr "[_cedrick_sprite_] Estrella de Threbe, debe traerme al heredero del trono."
 
