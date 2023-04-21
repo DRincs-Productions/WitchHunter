@@ -10,99 +10,99 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:34\n"
+"PO-Revision-Date: 2023-04-21 06:03\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Reports/Reports.rpy:19
 msgid "Дискорд"
-msgstr ""
+msgstr "Discord"
 
 # game/scripts/core/Reports/Reports.rpy:257
 msgid "Кто: "
-msgstr ""
+msgstr "Quién: "
 
 # game/scripts/core/Reports/Reports.rpy:270
 msgid "Что (оригинальный вариант): "
-msgstr ""
+msgstr "Qué (versión original): "
 
 # game/scripts/core/Reports/Reports.rpy:281
 msgid "Что (ваш вариант): "
-msgstr ""
+msgstr "Qué (su opción): "
 
 # game/scripts/core/Reports/Reports.rpy:293
 msgid "Что (различия): "
-msgstr ""
+msgstr "Qué (diferencias): "
 
 # game/scripts/core/Reports/Reports.rpy:304
 msgid "Комментарий: "
-msgstr ""
+msgstr "Comentario: "
 
 # game/scripts/core/Reports/Reports.rpy:319
 msgid "Сохранение:"
-msgstr ""
+msgstr "Guardando:"
 
 # game/scripts/core/Reports/Reports.rpy:336
 msgid "Открыть"
-msgstr ""
+msgstr "Abrir"
 
 # game/scripts/core/Reports/Reports.rpy:346
 msgid "Удалить"
-msgstr ""
+msgstr "Borrar"
 
 # game/scripts/core/Reports/Reports.rpy:390
 msgid "Создать репорт"
-msgstr ""
+msgstr "Crear un reporte"
 
 # game/scripts/core/Reports/Reports.rpy:393
 msgid "Показать репорты"
-msgstr ""
+msgstr "Mostrar reportes"
 
 # game/scripts/core/Reports/Reports.rpy:396
 msgid "Как это работает?"
-msgstr ""
+msgstr "¿Cómo funciona?"
 
 # game/scripts/core/Reports/Reports.rpy:424
 msgid "Удалить все репорты"
-msgstr ""
+msgstr "Borrar todos los reportes"
 
 # game/scripts/core/Reports/Reports.rpy:428
 msgid "Вы уверены, что хотите удалить все ранее созданные репорты?"
-msgstr ""
+msgstr "¿Está seguro de que desea eliminar todos los reportes creados anteriormente?"
 
 # game/scripts/core/Reports/Reports.rpy:446
 msgid "Пусто"
-msgstr ""
+msgstr "Vacio"
 
 # game/scripts/core/Reports/Reports.rpy:451
 msgid "Введите сообщение, указав где вы нашли опечатку или ошибку:"
-msgstr ""
+msgstr "Escriba un mensaje indicando dónde encontró el error:"
 
 # game/scripts/core/Reports/Reports.rpy:454
 msgid "Оригинальный вариант"
-msgstr ""
+msgstr "Versión original"
 
 # game/scripts/core/Reports/Reports.rpy:454
 msgid "Ваш вариант"
-msgstr ""
+msgstr "Tus opciones"
 
 # game/scripts/core/Reports/Reports.rpy:454
 msgid "Различия"
-msgstr ""
+msgstr "Diferencias"
 
 # game/scripts/core/Reports/Reports.rpy:454
 msgid "Комментарий"
-msgstr ""
+msgstr "Comentario"
 
 # game/scripts/core/Reports/Reports.rpy:485
 msgid "Длина данных будет составлять {} из {}"
-msgstr ""
+msgstr "La longitud de los datos será {} de {}"
 
 # game/scripts/core/Reports/Reports.rpy:493
 msgid "Репорт не умещается в данные для отправки"
-msgstr ""
+msgstr "El reporte no se ajusta a los datos que deben enviarse"
 
 # game/scripts/core/Reports/Reports.rpy:513
 msgid "Ваши репорты переполнены, рекомендуем отправить их чтобы продолжить создавать новые репорты"
-msgstr ""
+msgstr "Sus reportes están llenos, le recomendamos que los envíe para seguir creando nuevos reportes"
 
 # game/scripts/core/Reports/Reports.rpy:516
 msgid "Вкладка \"{b}Создать репорт{/b}\" - позволяет оформить репорт. В полях ввода вы можете написать {b}свой вариант{/b} диалога, ниже вы увидите {b}различия{/b} по тем изменениям которые вы внесли, также вы можете добавить свой {b}комментарий{/b} к этому репорту. Для создания репорта нажмите \"{b}Создать репорт{/b}, кнопка которая находится ниже\".\n\n"
@@ -113,17 +113,24 @@ msgid "Вкладка \"{b}Создать репорт{/b}\" - позволяе�
 "\"{b}Ссылка на скачивание ваших сохранений{/b}\" - не обязательное поле. Используйте {a=https://www.google.com/intl/ru/drive/}Google Drive{/a} или различные сервисы хранения для загрузки ваших сохранений.\n"
 "\"{b}Дополнительное описание{/b}\" - не обязательное поле. Можете подчеркнуть в общих чертах ваши репорты или оставить общий отзыв.\n"
 "\"{b}JSON (не редактировать){/b}\" - Ни в коем случае не изменяйте содержимое этого поля! Оно очень важно для отслеживания ваших репортов. Это поле получает данные ваших репортов при помощи GET запроса из игры."
-msgstr ""
+msgstr "La pestaña \"{b}Crear reporte{/b}\" le permite crear un reporte. En las casillas de entrada puede escribir {b}su variante{/b} del diálogo, abajo verá {b}diferencias{/b} a los cambios que ha hecho, también puede añadir su {b}comentario{/b} a este reporte. Para crear un reporte, haga clic en \"{b}Crear reporte{/b}, el botón de abajo.\n\n"
+"La pestaña \"{b}Mostrar ireporte{/b}\" - Haz clic en esta pestaña para ver una lista de tus reportes preparados. Puedes recopilarlos mientras juegas y luego enviarlos al diseñador de reportes haciendo clic en \"{b}Enviar reportes{/b}\", el botón de la parte inferior. También si accidentalmente creas un reporte puedes borrarlo haciendo clic en \"{b}Borrar{/b}\".\n\n"
+"{b}Guardar{/b}\" - te permite cargar tu partida guardada en el juego haciendo clic en \"{b}Cargar{/b}\", para que puedas comprobar que efectivamente has creado un reporte válido. El botón \"{b}Abrir{/b}\" te permite abrir tus partidas guardadas en el explorador de tu sistema operativo (sólo disponible en PC).\n\n"
+"{b}El proceso de envío de reportes:{/b}\n\n"
+"Cuando haga clic en \"{b}Enviar reportes{/b}\" accederá a la página web de Google Forms. En esta página tendrás a tu disposición los campos:\n\n"
+"\"{b}Enlace para descargar tus guardados{/b}\" - no es un campo obligatorio. Utiliza {a=https://www.google.com/intl/ru/drive/}Google Drive{/a} o varios servicios de almacenamiento para descargar tus partidas guardadas.\n"
+"\"{b}Descripción adicional{/b}\" - campo opcional. Puede subrayar en términos generales sus reportes o dejar comentarios generales.\n"
+"\"{b}JSON (no editar){/b}\" - ¡Nunca cambies este campo! Es esencial para el seguimiento de sus reportes. Este campo obtiene los datos de sus reportes a través de una petición GET del juego."
 
 # game/scripts/core/Reports/Reports.rpy:607
 msgid "Отправить репорты (длина данных {} из {})"
-msgstr ""
+msgstr "Enviar informes (longitud de datos {} de {})"
 
 # game/scripts/core/Reports/Reports.rpy:614
 msgid "Слишком большое количество репортов"
-msgstr ""
+msgstr "Demasiados informes"
 
 # game/scripts/core/Reports/Reports.rpy:627
 msgid "У вас нет репортов чтобы их отправить"
-msgstr ""
+msgstr "No tienes los reportes para enviar"
 
