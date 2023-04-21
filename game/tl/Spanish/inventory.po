@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-21 06:03\n"
+"PO-Revision-Date: 2023-04-21 09:18\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/inventory.rpy:2
 msgid "Золотых"
@@ -66,11 +66,11 @@ msgstr "Adquieres un nuevo artículo:"
 
 # game/scripts/core/inventory/inventory.rpy:271
 msgid "Проданы предметы:"
-msgstr ""
+msgstr "Artículos vendidos:"
 
 # game/scripts/core/inventory/inventory.rpy:301
 msgid "Продан предмет:"
-msgstr ""
+msgstr "Artículo vendido:"
 
 # game/scripts/core/inventory/inventory.rpy:319
 msgid "из"
