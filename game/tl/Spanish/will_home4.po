@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-22 15:30\n"
+"PO-Revision-Date: 2023-04-22 16:33\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_home4.rpy:7 #-#-# translate crowdin will_home4_208e43d0:
 msgid "[_cedrick_sprite_] Сьюзан, здравствуй, как ты?"
@@ -102,45 +102,45 @@ msgstr "[_will_] ¿Por qué no pruebas el trabajo? Creo que serías un buen prof
 
 # game/scripts/quests/will/will_home4.rpy:69 #-#-# translate crowdin will_home4_7014e4ee:
 msgid "[_cedrick_sprite_] (Думаю это хорошая идея, так мне удастся еще больше сблизится с Вилл, а также с другими стражницами, тем более Элион учится в той же школе...)"
-msgstr ""
+msgstr "[_cedrick_sprite_] (Me parece una buena idea, así podré acercarme aún más a Will y a las demás guardianas, además de que Elyon va la misma escuela...)"
 
 # game/scripts/quests/will/will_home4.rpy:70 #-#-# translate crowdin will_home4_5b749dd8:
 msgid "[_cedrick_sprite_] А это хорошая идея"
-msgstr ""
+msgstr "[_cedrick_sprite_] Es una buena idea"
 
 # game/scripts/quests/will/will_home4.rpy:75 #-#-# translate crowdin will_home4_7f866231:
 msgid "[_will_] Отлично! Не то чтобы я очень любила уроки истории... Но если их будешь вести ты я очень даже не против..."
-msgstr ""
+msgstr "[_will_] ¡Genial! No es que me gusten mucho las lecciones de historia... Pero si tú las enseñas, no importara..."
 
 # game/scripts/quests/will/will_home4.rpy:80 #-#-# translate crowdin will_home4_0314add6:
 msgid "[_will_] Поговори с нашей директрисой, она целыми днями находится в школе"
-msgstr ""
+msgstr "[_will_] Habla con nuestra directora, está en la escuela todo el día"
 
 # game/scripts/quests/will/will_home4.rpy:81 #-#-# translate crowdin will_home4_5795d341:
 msgid "[_cedrick_sprite_] Не уверен что моих знаний будет достаточно, но я попробую"
-msgstr ""
+msgstr "[_cedrick_sprite_] No estoy seguro de que mis conocimientos sean suficientes, pero lo intentaré"
 
 # game/scripts/quests/will/will_home4.rpy:82 #-#-# translate crowdin will_home4_50a6b6df:
 msgid "[_cedrick_sprite_] И еще..."
-msgstr ""
+msgstr "[_cedrick_sprite_] Y también..."
 
 # game/scripts/quests/will/will_home4.rpy:83 #-#-# translate crowdin will_home4_c0e05861:
 msgid "[_cedrick_sprite_] В общем я пригласил твою маму на свидание, надеюсь ты не против"
-msgstr ""
+msgstr "[_cedrick_sprite_] Invité a salir a tu madre, así que espero que no te importe"
 
 # game/scripts/quests/will/will_home4.rpy:88 #-#-# translate crowdin will_home4_161caaba:
 msgid "[_will_] Свидание? Звучит замечательно, я так рада за вас"
-msgstr ""
+msgstr "[_will_] ¿Una cita? Suena genial, me alegro mucho por ti"
 
 # game/scripts/quests/will/will_home4.rpy:89 #-#-# translate crowdin will_home4_7fad3f74:
 msgid "[_cedrick_sprite_] И я плохо ориентируюсь в городе, не подскажешь куда бы можно было ее сводить?"
-msgstr ""
+msgstr "[_cedrick_sprite_] No estoy muy familiarizado con la ciudad, ¿puedes decirme dónde podría llevarla?"
 
 # game/scripts/quests/will/will_home4.rpy:91 #-#-# translate crowdin will_home4_4ad04d67:
 msgid "[_will_] Можешь сводить ее в серебряный дракон, это ресторан здесь неподалеку, ей должно там понравится"
-msgstr ""
+msgstr "[_will_] Podrías llevarla al Dragón Plateado, es un restaurante no muy lejos de aquí, le encantara"
 
 # game/scripts/quests/will/will_home4.rpy:92 #-#-# translate crowdin will_home4_ce9dd92f:
 msgid "[_cedrick_sprite_] Спасибо за совет Вилл. Ну, еще увидимся"
-msgstr ""
+msgstr "[_cedrick_sprite_] Gracias por el consejo Will. Bien, nos vemos"
 
