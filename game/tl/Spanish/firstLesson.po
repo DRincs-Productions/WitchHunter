@@ -10,31 +10,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:48\n"
+"PO-Revision-Date: 2023-04-22 20:02\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/firstLesson.rpy:10 #-#-# translate crowdin firstLesson_c00ee63f:
 msgid "[_cedrick_] Меня зовут Рик Хоффман и с этого дня я ваш новый учитель истории."
-msgstr ""
+msgstr "[_cedrick_] Me llamo Rick Hoffman y a partir de ahora soy su nuevo profesor de historia."
 
 # game/scripts/quests/tarani/firstLesson.rpy:11 #-#-# translate crowdin firstLesson_03b840e7:
 msgid "[_girl_] А куда делся учитель Коллинз?"
-msgstr ""
+msgstr "[_girl_] ¿Qué sucedió con el profesor Collins?"
 
 # game/scripts/quests/tarani/firstLesson.rpy:12 #-#-# translate crowdin firstLesson_86fa5dd2:
 msgid "[_cedrick_] (Вкалывает на шахтах...)"
-msgstr ""
+msgstr "[_cedrick_] (Está trabajando duro en las minas...)"
 
 # game/scripts/quests/tarani/firstLesson.rpy:13 #-#-# translate crowdin firstLesson_33d90e84:
 msgid "[_cedrick_] Эм.. Он решил сменить место работы..."
-msgstr ""
+msgstr "[_cedrick_] Um... Decidió cambiar de trabajo..."
 
 # game/scripts/quests/tarani/firstLesson.rpy:14 #-#-# translate crowdin firstLesson_e0afcb7c:
 msgid "[_cedrick_] Если у вас больше нет вопросов, то мы приступим к уроку..."
-msgstr ""
+msgstr "[_cedrick_] Si no tienen más preguntas, seguiremos con la lección..."
 
 # game/scripts/quests/tarani/firstLesson.rpy:17 #-#-# translate crowdin firstLesson_77451f2e:
 msgid "[_cedrick_] На какой теме вы остановились?.."
-msgstr ""
+msgstr "[_cedrick_] ¿Cuál es su posición al respecto?.."
 
 # game/scripts/quests/tarani/firstLesson.rpy:20 #-#-# translate crowdin firstLesson_bc614608:
 msgid "Спустя некоторое время.."
@@ -42,15 +42,15 @@ msgstr ""
 
 # game/scripts/quests/tarani/firstLesson.rpy:21 #-#-# translate crowdin firstLesson_a20cefa7:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/tarani/firstLesson.rpy:24 #-#-# translate crowdin firstLesson_58ff376b:
 msgid "* Урок истории подошел к концу. Все, кроме трех учениц, торопятся покинуть кабинет. *"
-msgstr ""
+msgstr "* La lección de historia ha llegado a su fin. Todos los alumnos menos tres se apresuran a abandonar la sala. *"
 
 # game/scripts/quests/tarani/firstLesson.rpy:31 #-#-# translate crowdin firstLesson_d86f52c0:
 msgid "[_cedrick_] (Эти трое.. Стражницы Завесы!)"
-msgstr ""
+msgstr "[_cedrick_] (Estas tres... ¡Guardianas del Velo!)"
 
 # game/scripts/quests/tarani/firstLesson.rpy:37 #-#-# translate crowdin firstLesson_05d16e7b:
 msgid "[_haylin_] Сейчас биология. Тарани, ты не идешь?"
@@ -78,7 +78,7 @@ msgstr ""
 
 # game/scripts/quests/tarani/firstLesson.rpy:67 #-#-# translate crowdin firstLesson_a20cefa7_1:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/tarani/firstLesson.rpy:68 #-#-# translate crowdin firstLesson_b4f220ba:
 msgid "[_cedrick_] (Несколько Стражниц учатся в моем классе… Какое удивительное совпадение… Что ж, это мне только на руку.)"
