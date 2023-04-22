@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:48\n"
+"PO-Revision-Date: 2023-04-22 21:59\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/badMark.rpy:9 #-#-# translate crowdin badMark_d859416a:
 msgid "Начало урока."
-msgstr ""
+msgstr "Inicia la lección."
 
 # game/scripts/quests/tarani/badMark.rpy:10 #-#-# translate crowdin badMark_3e4135f2:
 msgid "[_cedrick_] Я рад видеть, что сегодня никто из вас не опоздал."
-msgstr ""
+msgstr "[_cedrick_] Me alegra ver que ninguno de ustedes llegó tarde hoy."
 
 # game/scripts/quests/tarani/badMark.rpy:11 #-#-# translate crowdin badMark_6a05c3aa:
 msgid "[_cedrick_] Сейчас я раздам ваши контрольные работы."
-msgstr ""
+msgstr "[_cedrick_] Ahora les entregaré sus exámenes."
 
 # game/scripts/quests/tarani/badMark.rpy:14 #-#-# translate crowdin badMark_a20cefa7:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/tarani/badMark.rpy:15 #-#-# translate crowdin badMark_e7c58346:
 msgid "[_irma_] Это правда мое? Четверка!"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/scripts/quests/tarani/badMark.rpy:17 #-#-# translate crowdin badMark_a20cefa7_1:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/tarani/badMark.rpy:21 #-#-# translate crowdin badMark_b95416e4:
 msgid "Спустя 40 минут."
