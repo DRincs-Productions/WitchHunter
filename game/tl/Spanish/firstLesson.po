@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-22 20:02\n"
+"PO-Revision-Date: 2023-04-22 20:58\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/firstLesson.rpy:10 #-#-# translate crowdin firstLesson_c00ee63f:
 msgid "[_cedrick_] Меня зовут Рик Хоффман и с этого дня я ваш новый учитель истории."
@@ -54,27 +54,27 @@ msgstr "[_cedrick_] (Estas tres... ¡Guardianas del Velo!)"
 
 # game/scripts/quests/tarani/firstLesson.rpy:37 #-#-# translate crowdin firstLesson_05d16e7b:
 msgid "[_haylin_] Сейчас биология. Тарани, ты не идешь?"
-msgstr ""
+msgstr "[_haylin_] Ahora toca biología. Taranee, ¿no vienes?"
 
 # game/scripts/quests/tarani/firstLesson.rpy:43 #-#-# translate crowdin firstLesson_9f97bdb3:
 msgid "[_irma_] Шутишь? Чтобы наша Тарани прогуляла урок?! Да не в жизнь!"
-msgstr ""
+msgstr "[_irma_] ¿Me estás tomando el pelo? ¡¿Así que nuestra Taranee puede faltar a clase?! ¡No puede ser!"
 
 # game/scripts/quests/tarani/firstLesson.rpy:49 #-#-# translate crowdin firstLesson_e3e6a377:
 msgid "[_tarani_] Не хочу.. Препарировать лягушек… Какая мерзость.."
-msgstr ""
+msgstr "[_tarani_] No quiero... Diseccionar ranas… Qué asqueroso.."
 
 # game/scripts/quests/tarani/firstLesson.rpy:55 #-#-# translate crowdin firstLesson_c646d24e:
 msgid "[_irma_] Если тебе сложно, я могу препарировать твою, но тебе придется притвориться, будто тебя тошнит."
-msgstr ""
+msgstr "[_irma_] Si te resulta difícil, puedo diseccionar la tuya, pero tendrás que fingir que vomitas."
 
 # game/scripts/quests/tarani/firstLesson.rpy:61 #-#-# translate crowdin firstLesson_bd8e4135:
 msgid "[_tarani_] Кажется.. Притворяться мне не придется..."
-msgstr ""
+msgstr "[_tarani_] Parece que... No tendré que fingir..."
 
 # game/scripts/quests/tarani/firstLesson.rpy:62 #-#-# translate crowdin firstLesson_e209df35:
 msgid "[_tarani_] Эх ладно, пошли.."
-msgstr ""
+msgstr "[_tarani_] Muy bien, vamos.."
 
 # game/scripts/quests/tarani/firstLesson.rpy:67 #-#-# translate crowdin firstLesson_a20cefa7_1:
 msgid "..."
@@ -82,5 +82,5 @@ msgstr "..."
 
 # game/scripts/quests/tarani/firstLesson.rpy:68 #-#-# translate crowdin firstLesson_b4f220ba:
 msgid "[_cedrick_] (Несколько Стражниц учатся в моем классе… Какое удивительное совпадение… Что ж, это мне только на руку.)"
-msgstr ""
+msgstr "[_cedrick_] (Varias de las Guardianas están en mi clase… Qué increíble coincidencia… Bueno, eso solo me beneficia a mí)"
 
