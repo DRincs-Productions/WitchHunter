@@ -10,45 +10,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:36\n"
+"PO-Revision-Date: 2023-04-22 18:46\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
 msgid "Покер"
-msgstr ""
+msgstr "Póquer"
 
 # game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
 msgid "Каре"
-msgstr ""
+msgstr "Kare"
 
 # game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
 msgid "Фул-хаус"
-msgstr ""
+msgstr "Casa llena"
 
 # game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
 msgid "Старший стрит"
-msgstr ""
+msgstr "Escalera mayor"
 
 # game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
 msgid "Младший стрит"
-msgstr ""
+msgstr "Escalera menor"
 
 # game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
 msgid "Тройка"
-msgstr ""
+msgstr "Tres de una clase"
 
 # game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
 msgid "Две пары"
-msgstr ""
+msgstr "Dos pares"
 
 # game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
 msgid "Пара"
-msgstr ""
+msgstr "Una pareja"
 
 # game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:46
 msgid "Вам не хватает средств чтобы сделать ставку"
-msgstr ""
+msgstr "No tienes dinero suficiente para apostar"
 
 # game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:56
 msgid "Ставка:"
-msgstr ""
+msgstr "Apuesta:"
 
