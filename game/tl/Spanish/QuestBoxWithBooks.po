@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:34\n"
+"PO-Revision-Date: 2023-04-22 20:02\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestBoxWithBooks.rpy:3
 msgid "Коробки с книгами"
-msgstr ""
+msgstr "Cajas de libros"
 
 # game/scripts/core/quests/QuestBoxWithBooks.rpy:9
 msgid "Попросить элион выставить книги в магазине"
-msgstr ""
+msgstr "Pide a Elyon que ponga libros en la tienda"
 
