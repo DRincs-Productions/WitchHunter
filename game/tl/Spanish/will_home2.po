@@ -10,63 +10,63 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:39\n"
+"PO-Revision-Date: 2023-04-22 13:30\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_home2.rpy:8 #-#-# translate crowdin will_home2_e6b4288c:
 msgid "[_cedrick_sprite_] Эм.."
-msgstr ""
+msgstr "[_cedrick_sprite_] Um.."
 
 # game/scripts/quests/will/will_home2.rpy:9 #-#-# translate crowdin will_home2_87d075dd:
 msgid "[_man_] А вы должно быть Рик, Сьюзан мне рассказала о вас"
-msgstr ""
+msgstr "[_man_] Tú debes ser Rick, Susan me habló de ti"
 
 # game/scripts/quests/will/will_home2.rpy:10 #-#-# translate crowdin will_home2_7184601f:
 msgid "[_colins_] Я Дин Колинз, учитель Вилл"
-msgstr ""
+msgstr "[_colins_] Soy Dean Collins, el maestro de Will"
 
 # game/scripts/quests/will/will_home2.rpy:11 #-#-# translate crowdin will_home2_f7748216:
 msgid "[_cedrick_sprite_] Рик Хофман, тоже в какой-то степени учитель Вилл"
-msgstr ""
+msgstr "[_cedrick_sprite_] Rick Hoffman, también en cierta medida, el maestro de Will"
 
 # game/scripts/quests/will/will_home2.rpy:12 #-#-# translate crowdin will_home2_b76aa9f3:
 msgid "[_colins_] А вы должно быть произвели на нее хорошее впечатление, в конце концов она могла попросить меня помочь ей"
-msgstr ""
+msgstr "[_colins_] Debes haberle causado una buena impresión, después de todo podría haberme pedido que la ayudara"
 
 # game/scripts/quests/will/will_home2.rpy:13 #-#-# translate crowdin will_home2_a2488c2f:
 msgid "[_cedrick_sprite_] Возможно она посчитала что это будет не честно по отношению к другим ученикам"
-msgstr ""
+msgstr "[_cedrick_sprite_] Tal vez pensó que no sería justo para los otros estudiantes"
 
 # game/scripts/quests/will/will_home2.rpy:14 #-#-# translate crowdin will_home2_7e69f389:
 msgid "[_colins_] Ну может и так, ах что это я, проходите"
-msgstr ""
+msgstr "[_colins_] Bueno, puede que sí, ah, qué hago, pasa"
 
 # game/scripts/quests/will/will_home2.rpy:19 #-#-# translate crowdin will_home2_ea9065c1:
 msgid "*Некоторое время спустя*"
-msgstr ""
+msgstr "*Un tiempo después*"
 
 # game/scripts/quests/will/will_home2.rpy:25 #-#-# translate crowdin will_home2_acbc7e67:
 msgid "[_cedrick_sprite_] ...И так западные историки считают концом средних веков открытые Колумбом Америки в 1492 году"
-msgstr ""
+msgstr "[_cedrick_sprite_] ...Por esta razón, los historiadores occidentales consideran que la Edad Media finalizó cuando Colón descubrió América en 1492"
 
 # game/scripts/quests/will/will_home2.rpy:31 #-#-# translate crowdin will_home2_97d917c2:
 msgid "[_will_] Кажется с твоей помощью я и правда стала лучше усваивать материал, мне даже удалось заработать оценку B- за контрольную по Римской империи"
-msgstr ""
+msgstr "[_will_] Parece que con tu ayuda estoy mejorando, incluso obtuve un B- en el examen sobre el Imperio Romano"
 
 # game/scripts/quests/will/will_home2.rpy:32 #-#-# translate crowdin will_home2_e7994469:
 msgid "[_cedrick_sprite_] Я рад что мои занятия не прошли даром"
-msgstr ""
+msgstr "[_cedrick_sprite_] Me alegro de que mis lecciones no hayan sido en vano"
 
 # game/scripts/quests/will/will_home2.rpy:38 #-#-# translate crowdin will_home2_cc14733e:
 msgid "[_colins_] ..Ты могла позвонить в конце то концов!!"
-msgstr ""
+msgstr "[_colins_] .. ¡¡Podrías haber llamado a última hora!!"
 
 # game/scripts/quests/will/will_home2.rpy:39 #-#-# translate crowdin will_home2_633fe501:
 msgid "[_susan_] Не кричи на меня, может мне еще паранджу надеть! Я не обязана отчитываться перед тобой!"
-msgstr ""
+msgstr "[_susan_] No me grites, ¿¡quizá también debo llevar un burka!?, ¡No tengo por qué rendir cuentas ante ti!"
 
 # game/scripts/quests/will/will_home2.rpy:40 #-#-# translate crowdin will_home2_fd0f8bf4:
 msgid "[_colins_] В таком случае я ухожу!"
-msgstr ""
+msgstr "[_colins_] En ese caso, ¡me voy!"
 
 # game/scripts/quests/will/will_home2.rpy:43 #-#-# translate crowdin will_home2_d23f6b62:
 msgid "*Хлопок дверью*"
