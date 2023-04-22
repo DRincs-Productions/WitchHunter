@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-21 10:29\n"
+"PO-Revision-Date: 2023-04-22 20:01\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/handJobTarani.rpy:7 #-#-# translate crowdin handJobTarani_210ec95d:
 msgid "[_cedrick_] Приветствую вас, ученики. Надеюсь вы хорошенько отдохнули на выходных!"
@@ -430,7 +430,7 @@ msgstr ""
 
 # game/scripts/quests/tarani/handJobTarani.rpy:351 #-#-# translate crowdin handJobTarani_98f84176:
 msgid "[_tarani_] ..."
-msgstr ""
+msgstr "[_tarani_] ..."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:352 #-#-# translate crowdin handJobTarani_4ddae703:
 msgid "[_cedrick_] Ну так что, ты согласна?"
