@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-21 10:29\n"
+"PO-Revision-Date: 2023-04-22 12:34\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/sell_books_game/sell_books_labels.rpy:39 #-#-# translate crowdin sell_books_new_customer_b19a31e4:
 msgid "[_customer_] Здравствуйте, а у вас есть {color=#8fe3ff}[book_name]{/color}?"
@@ -166,7 +166,7 @@ msgstr ""
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:313 #-#-# translate crowdin sell_books_finish_55bd84d5:
 msgid "Так как у вас не хватило денег, вы не смогли приобрести новые книги, в количестве: \"[not_restored_books_length]\""
-msgstr ""
+msgstr "Como no tenías suficiente dinero, no podías comprar esa cantidad de libros nuevos: \"[not_restored_books_length]\""
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:314 #-#-# translate crowdin sell_books_finish_8343992b:
 msgid "Для покупки новых книг, вы можете заказать их через интернет при помощи телефона"
