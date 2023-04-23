@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-20 05:58\n"
+"PO-Revision-Date: 2023-04-23 16:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_first_join.rpy:10 #-#-# translate crowdin will_first_join_e5ef2ecb:
 msgid "[_girl_] ..."
@@ -70,7 +70,7 @@ msgstr "[_will_] Entiendo"
 
 # game/scripts/quests/will/will_first_join.rpy:60 #-#-# translate crowdin will_first_join_a20cefa7:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/will/will_first_join.rpy:65 #-#-# translate crowdin will_first_join_3812ee61:
 msgid "[_elion_] Так какие учебники тебе нужны?"
@@ -126,11 +126,11 @@ msgstr "[_cedrick_] Eso lo explica todo"
 
 # game/scripts/quests/will/will_first_join.rpy:106 #-#-# translate crowdin will_first_join_a20cefa7_1:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/will/will_first_join.rpy:107 #-#-# translate crowdin will_first_join_0fd4d656:
 msgid "......"
-msgstr ""
+msgstr "......"
 
 # game/scripts/quests/will/will_first_join.rpy:114 #-#-# translate crowdin will_first_join_f68b95cc:
 msgid "*звук падения книг*"
@@ -146,7 +146,7 @@ msgstr "[_elion_] ¡Estoy bien!"
 
 # game/scripts/quests/will/will_first_join.rpy:122 #-#-# translate crowdin will_first_join_a20cefa7_2:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/will/will_first_join.rpy:129 #-#-# translate crowdin will_first_join_5e582f87:
 msgid "[_elion_] Фух, я все таки нашла их!"
