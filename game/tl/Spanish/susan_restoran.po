@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-22 16:33\n"
+"PO-Revision-Date: 2023-04-23 16:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/susan_restoran.rpy:9 #-#-# translate crowdin susan_restoran_f4884831:
 msgid "*Сьюзан открывает дверь*"
@@ -98,7 +98,7 @@ msgstr "..."
 
 # game/scripts/quests/will/susan_restoran.rpy:86 #-#-# translate crowdin susan_restoran_07bdde05:
 msgid "....."
-msgstr ""
+msgstr "....."
 
 # game/scripts/quests/will/susan_restoran.rpy:91 #-#-# translate crowdin susan_restoran_f8943a31:
 msgid "[_susan_] Ты был так добр к нам с Вилл, позволь мне отплатить тебе тем же..."
