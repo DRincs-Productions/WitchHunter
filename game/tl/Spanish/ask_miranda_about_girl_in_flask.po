@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-23 17:22\n"
+"PO-Revision-Date: 2023-04-23 18:47\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:3 #-#-# translate crowdin ask_miranda_about_girl_in_flask_7e5d7e5a:
 msgid "[_cedrick_] Миранда, а что это за девушка в колбе?"
@@ -22,57 +22,57 @@ msgstr "[_miranda_] ¿Una chica? Es más como una criatura desconocida para noso
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:11 #-#-# translate crowdin ask_miranda_about_girl_in_flask_049c04e6:
 msgid "[_cedrick_] Может быть, но... Сама взгляни, половые признаки присутствуют. Хоть они и отличаются от свойственных нашей расе...Я, кажется, знаю, кто это. Эльфийка"
-msgstr ""
+msgstr "[_cedrick_] Tal vez, pero... Mira por ti mismo, las características sexuales están presentes. Aunque es diferente a nuestra raza... Creo que sé que es. Un Elfo"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:15 #-#-# translate crowdin ask_miranda_about_girl_in_flask_4fcac6be:
 msgid "[_miranda_] Эльфийка? Странный термин..."
-msgstr ""
+msgstr "[_miranda_] ¿Elfo? Es un término extraño..."
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:19 #-#-# translate crowdin ask_miranda_about_girl_in_flask_9e2e2fb9:
 msgid "[_cedrick_] Я как-то читал одну книгу, где описывались подобные существа. У них острое зрение, высокая продолжительность жизни и ненависть к маленьким бородатым людям"
-msgstr ""
+msgstr "[_cedrick_] Una vez leí un libro que describía a esas criaturas. Tienen vista aguda, alta esperanza de vida y odio a los barbudos"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:23 #-#-# translate crowdin ask_miranda_about_girl_in_flask_84ac8b08:
 msgid "[_miranda_] Ты что-то сказал про острое зрение. Седрик, это же уникальная возможность сделать наших воинов еще опасней. Ты только подумай, какие это возможности откроет..."
-msgstr ""
+msgstr "[_miranda_] Dijiste algo sobre una vista aguda. Cedric, esta es una oportunidad única para hacer a nuestros guerreros aún más peligrosos. Solo piensa en las posibilidades que esto abriría..."
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:27 #-#-# translate crowdin ask_miranda_about_girl_in_flask_5f0a5c4a:
 msgid "[_cedrick_] Я как раз пришел, чтобы выпустить ее"
-msgstr ""
+msgstr "[_cedrick_] Solo vine a liberarla"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:31 #-#-# translate crowdin ask_miranda_about_girl_in_flask_19dbbbda:
 msgid "[_miranda_] Зачем?"
-msgstr ""
+msgstr "[_miranda_] ¿Por qué?"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:35 #-#-# translate crowdin ask_miranda_about_girl_in_flask_3e3fcb58:
 msgid "[_cedrick_] Миранда, ты ведь все понимаешь. Мне хочется изучить и понять, что перед нами, дабы тебе было легче"
-msgstr ""
+msgstr "[_cedrick_] Miranda, lo comprendes, ¿verdad? Quiero aprender y entender lo que tenemos delante para que sea más fácil para ti"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:39 #-#-# translate crowdin ask_miranda_about_girl_in_flask_832d41de:
 msgid "[_miranda_] Седрик, это точно ради меня?"
-msgstr ""
+msgstr "[_miranda_] Cedric, ¿esto realmente es por mí?"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:40 #-#-# translate crowdin ask_miranda_about_girl_in_flask_eb8c8f92:
 msgid "[_cedrick_] Да"
-msgstr ""
+msgstr "[_cedrick_] Sí"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:44 #-#-# translate crowdin ask_miranda_about_girl_in_flask_c5f3bef7:
 msgid "[_miranda_] Хорошо, Седрик, я выпущу ее. Но, если ты добудешь мне один редкий цветок"
-msgstr ""
+msgstr "[_miranda_] Está bien, Cedric, la dejaré salir. Pero si me consigues una flor rara"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:48 #-#-# translate crowdin ask_miranda_about_girl_in_flask_5ab8ae33:
 msgid "[_cedrick_] И что это за цветок?"
-msgstr ""
+msgstr "[_cedrick_] ¿Y qué clase de flor es esta?"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:52 #-#-# translate crowdin ask_miranda_about_girl_in_flask_ce00337c:
 msgid "[_miranda_] Тебе это правда интересно?"
-msgstr ""
+msgstr "[_miranda_] ¿En verdad te interesa?"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:56 #-#-# translate crowdin ask_miranda_about_girl_in_flask_bb71ee08:
 msgid "[_cedrick_] Не особо"
-msgstr ""
+msgstr "[_cedrick_] No precisamente"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:60 #-#-# translate crowdin ask_miranda_about_girl_in_flask_69d8008c:
 msgid "[_miranda_] У этого цветка красная сердцевина и белые лепестки. В нашем мире их мало, поэтому не перепутаешь. Когда найдешь, принеси его мне, и эльфийка твоя"
-msgstr ""
+msgstr "[_miranda_] Esta flor tiene un centro rojo y pétalos blancos. No hay muchas en nuestro mundo, así que no te confundirás. Cuando la encuentres, tráemela y el Elfo será tuyo"
 
