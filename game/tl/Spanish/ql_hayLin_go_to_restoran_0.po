@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-22 20:02\n"
+"PO-Revision-Date: 2023-04-23 08:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:8 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_ee0ae87e:
 msgid "[_YanLin_] Добро пожаловать в ресторан азиатской кухни Серебряный дракон! Ах, это вы! Решили снова нас посетить?"
@@ -226,7 +226,7 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:169 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_5f9b772e:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:171 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_5eff4b3c:
 msgid "Мир изменился... И я чувствую это в воде, чувствую это в земле, ощущаю в воздухе... Многое из того, что было — ушло... И не осталось тех, кто помнит об этом..."
