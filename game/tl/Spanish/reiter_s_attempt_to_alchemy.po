@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:38\n"
+"PO-Revision-Date: 2023-04-23 16:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:8 #-#-# translate crowdin reiter_s_attempt_to_alchemy_a22a88bc:
 msgid "[_cedrick_] (Решил надо мной насмехаться, плебей? Что ж, ни я это начал, Рейтер)"
@@ -294,7 +294,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:286 #-#-# translate crowdin reiter_s_attempt_to_alchemy_complete_success_0c671a81:
 msgid "[_alchemy_] ...."
-msgstr ""
+msgstr "[_alchemy_] ...."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:288 #-#-# translate crowdin reiter_s_attempt_to_alchemy_complete_success_3ac24ba3:
 msgid "[_phobos_] Ну же, поаккуратнее с зубами"
@@ -626,7 +626,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:553 #-#-# translate crowdin reiter_s_attempt_to_alchemy_complete_success_0fd4d656:
 msgid "......"
-msgstr ""
+msgstr "......"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:571 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed11_45fb99e5:
 msgid "[_cedrick_] Да как ты смеешь так со мной разговаривать, смерд! Не забывай, кто перед тобой!"
