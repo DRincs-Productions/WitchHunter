@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-23 19:59\n"
+"PO-Revision-Date: 2023-04-23 20:55\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:4 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_bf69d8dd:
 msgid "Седрик подходит к двери комнаты и слышит разговор на повышенных тонах"
@@ -54,91 +54,91 @@ msgstr "[_amalia_] Cuida de Evangeline, por favor. Está débil, y necesito enco
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:29 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_7ab1c212:
 msgid "[_cedrick_] Да. Можешь быть спокойна - с Евангелиной все будет хорошо"
-msgstr ""
+msgstr "[_cedrick_] Sí. Puedes estar segura de que Evangeline estará bien"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:35 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_4745e712:
 msgid "[_evangelin_] А моего мнения никто не забыл спросить? Я не хочу с ним оставаться, я пойду с тобой и помогу тебе!"
-msgstr ""
+msgstr "[_evangelin_] ¿Alguien pensó en pedirme mi opinión? No quiero quedarme con él, ¡iré contigo y te ayudaré!"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:41 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_827af96b:
 msgid "[_amalia_] Нет. Я буду переживать, ты останешься с Седриком"
-msgstr ""
+msgstr "[_amalia_] No. Me preocuparé, te quedarás con Cedric"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:47 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_5a6bf679:
 msgid "[_evangelin_] Ладно. Хорошо. Отлично"
-msgstr ""
+msgstr "[_evangelin_] De acuerdo. De acuerdo. Genial"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:51 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_f0b04165:
 msgid "Амалия уходит"
-msgstr ""
+msgstr "Amalia se va"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:54 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_9e192bf3:
 msgid "[_cedrick_] Она тебе не безразлична, так?"
-msgstr ""
+msgstr "[_cedrick_] Te preocupas por ella, ¿verdad?"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:58 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_2fd4d3d1:
 msgid "[_evangelin_] А тебе какое дело?"
-msgstr ""
+msgstr "[_evangelin_] ¿Y a ti qué te importa?"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:62 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_a7bd4d7a:
 msgid "[_cedrick_] Мне больно видеть, как тебе трудно признаться в чувствах Амалии. Вот я и захотел помочь"
-msgstr ""
+msgstr "[_cedrick_] Me duele ver lo difícil que te resulta admitir tus sentimientos por Amalia. Así que quería ayudar"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:66 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_2bac3fc6:
 msgid "[_evangelin_] О чем ты? Мы... Друзья, к тому же я ее телохранитель."
-msgstr ""
+msgstr "[_evangelin_] ¿De qué estás hablando? Somos... Amigas, además soy su guardaespaldas."
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:70 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_ad91425e:
 msgid "[_cedrick_] Поверь, я смогу различить дружескую симпатию и нечто большее"
-msgstr ""
+msgstr "[_cedrick_] Créeme, sé distinguir entre la simpatía amistosa y algo más"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:74 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_65f8f649:
 msgid "[_evangelin_] О чем ты?"
-msgstr ""
+msgstr "[_evangelin_] ¿A qué te refieres?"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:78 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_bfa35cfa:
 msgid "[_cedrick_] Вы отсюда никуда не уйдете, пока ты не сделаешь то, о чем прошу"
-msgstr ""
+msgstr "[_cedrick_] No irás a ninguna parte hasta que hagas lo que te pido"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:83 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_bff80c72:
 msgid "[_evangelin_] Что?!"
-msgstr ""
+msgstr "[_evangelin_] ¡¿Qué?!"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:87 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_8b340a78:
 msgid "[_cedrick_] Те Капли, что вы ищете - они у меня. И вы просто так отсюда не уйдете"
-msgstr ""
+msgstr "[_cedrick_] Esa gema que están buscando, la tengo. Y no puedes simplemente irte de aquí"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:91 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_6770218a:
 msgid "[_evangelin_] Ты смеешь угрожать мне?! Ты?!"
-msgstr ""
+msgstr "[_evangelin_] ¡¿Te atreves a amenazarme?! ¡¿Tú?!"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:92 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_07727b41:
 msgid "[_cedrick_] Смею. Вы не уйдете отсюда, пока ты не сделаешь то, чего я хочу"
-msgstr ""
+msgstr "[_cedrick_] Me atrevo. No te irás de aquí hasta que hagas lo que quiero que hagas"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:96 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_bff80c72_1:
 msgid "[_evangelin_] Что?!"
-msgstr ""
+msgstr "[_evangelin_] ¡¿Qué?!"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:100 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_ffc56f4e:
 msgid "[_cedrick_] Представь, как себя будет чувствовать бедняжка Амалия, когда узнает, что из-за тебя вы не смогли телепортироваться..."
-msgstr ""
+msgstr "[_cedrick_] Imagina cómo se sentirá la pobre Amalia cuando descubra que no pudieron teletransportarse por tu culpa..."
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:104 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_44822fc5:
 msgid "[_evangelin_] Я..."
-msgstr ""
+msgstr "[_evangelin_] Yo..."
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:105 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_c5379a22:
 msgid "[_cedrick_] У тебя нет других вариантов, пойми"
-msgstr ""
+msgstr "[_cedrick_] No tienes otras opciones, entiéndelo"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:109 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_a4bde335:
 msgid "[_evangelin_] Есть. Я могу прикончить тебя прямо здесь"
-msgstr ""
+msgstr "[_evangelin_] Mira. Puedo acabar contigo aquí mismo"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:110 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_b4f3a947:
 msgid "[_cedrick_] И что? Вы без меня никуда не уйдете, а буквально каждый здешний воин будет охотиться на вас. И они менее благоразумные, чем я"
-msgstr ""
+msgstr "[_cedrick_] ¿Y qué? No irás a ninguna parte sin mí, y literalmente todos los guerreros de aquí te cazarán. Y son menos sensatos que yo"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:111 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_a20cefa7:
 msgid "..."
@@ -146,43 +146,43 @@ msgstr "..."
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:113 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_988d0c8b:
 msgid "[_centered_] {size=37} Спустя несколько минут Евангелина поддается вашим уговорам... {/size}"
-msgstr ""
+msgstr "[_centered_] {size=37} Unos minutos después, Evangeline sucumbe a tu persuasión... {/size}"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:116 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_53959500:
 msgid "[_evangelin_] Какая гадость"
-msgstr ""
+msgstr "[_evangelin_] Esto es repugnante"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:117 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_89764829:
 msgid "[_cedrick_] Амалия подобного о моем члене не говорила"
-msgstr ""
+msgstr "[_cedrick_] Amalia no dijo eso de mi pene"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:120 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_da445c97:
 msgid "[_evangelin_] О-о чем ты?"
-msgstr ""
+msgstr "[_evangelin_] ¿De qué estás hablando?"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:121 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_532f0fe1:
 msgid "[_cedrick_] Амалия отсасывала мне под столом, пока ты сидела без сознания. Но не вини ее. Странный цветок заставил ее сделать это"
-msgstr ""
+msgstr "[_cedrick_] Amalia me la chupó bajo la mesa mientras estabas sentado inconsciente. Pero no la culpes. Una extraña flor la hizo hacerlo"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:124 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_34a89f11:
 msgid "[_evangelin_] Что?"
-msgstr ""
+msgstr "[_evangelin_] ¿Qué?"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:125 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_da7673a1:
 msgid "[_cedrick_] Молчать. Продолжай делать то, что делала"
-msgstr ""
+msgstr "[_cedrick_] Guarda silencio. Sigue haciendo lo que has estado haciendo"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:128 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_c04d209d:
 msgid "[_evangelin_] Но..."
-msgstr ""
+msgstr "[_evangelin_] Pero..."
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:129 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_e312668e:
 msgid "[_cedrick_] Молчать!.. Амалия так страстно игралась с моим членом, словно всю жизнь только его и ждала. Каждый толчок, каждое движение языка заставляло дрожать как меня, так и ее"
-msgstr ""
+msgstr "[_cedrick_] ¡Silencio!... Amalia jugaba con mi pene tan apasionadamente, como si lo hubiera estado esperando toda su vida. Cada empujón, cada movimiento de su lengua nos hacía temblar tanto a ella como a mí"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:132 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_87d62a03:
 msgid "[_evangelin_] Ах..."
-msgstr ""
+msgstr "[_evangelin_] Ah..."
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:133 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_9d12e3f2:
 msgid "[_cedrick_] Что и требовалось доказать. Ты хочешь Амалию и никакие отговорки тебе не помогут. Знаешь, я ведь могу помочь, Евангелина"
@@ -274,7 +274,7 @@ msgstr ""
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:192 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_65f8f649_1:
 msgid "[_evangelin_] О чем ты?"
-msgstr ""
+msgstr "[_evangelin_] ¿A qué te refieres?"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:193 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_ab5f72e8:
 msgid "[_cedrick_] Не глупи, ты сама понимаешь. Тебе же хочется быть с Амалией"
