@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-21 06:03\n"
+"PO-Revision-Date: 2023-04-23 21:54\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/order_frogs_for_will.rpy:3 #-#-# translate crowdin order_frogs_for_will_f0ec319a:
 msgid "Вам не хватает денег"
@@ -18,7 +18,7 @@ msgstr "No tienes suficiente dinero"
 
 # game/scripts/quests/will/order_frogs_for_will.rpy:9 #-#-# translate crowdin order_frogs_for_will_6f4b612f:
 msgid "Посылка предет через 2 дня утром"
-msgstr ""
+msgstr "El paquete llegará en dos días por la mañana"
 
 # game/scripts/quests/will/order_frogs_for_will.rpy:12 #-#-# translate crowdin order_frogs_for_will_f0ec319a_1:
 msgid "Вам не хватает денег"
@@ -26,5 +26,5 @@ msgstr "No tienes suficiente dinero"
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/will/order_frogs_for_will.rpy:5
 msgid "Вы уверены что хотите заказать Лягушки пеппа"
-msgstr ""
+msgstr "¿Seguro que quieres pedir Ranas Peppa?"
 
