@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-20 06:53\n"
+"PO-Revision-Date: 2023-04-23 08:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/giftForLilian/sitWithLilian.rpy:10 #-#-# translate crowdin sitWithLilian_cdd6670c:
 msgid "Звук дверного звонка"
@@ -78,11 +78,11 @@ msgstr "[_cornelia_] Bueno, ¡tengo que correr!"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:71 #-#-# translate crowdin sitWithLilian_a20cefa7:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:77 #-#-# translate crowdin sitWithLilian_5f9b772e:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:79 #-#-# translate crowdin sitWithLilian_f3fa5258:
 msgid "[_cedrick_] Что за мультик ты смотришь?"
@@ -98,7 +98,7 @@ msgstr "[_cedrick_] Interesante..."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:82 #-#-# translate crowdin sitWithLilian_a20cefa7_1:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:83 #-#-# translate crowdin sitWithLilian_71644e09:
 msgid "[_lilian_] Как бы я хотела оказаться в сказочном мире... Как Алиса!"
@@ -138,7 +138,7 @@ msgstr "[_lilian_] No puedo esperar..."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:92 #-#-# translate crowdin sitWithLilian_5f9b772e_1:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:94 #-#-# translate crowdin sitWithLilian_ccf0063e:
 msgid "[_centered_] {size=37}Спустя пару часов{/size} [withDissolve1]"
@@ -174,5 +174,5 @@ msgstr "[_cedrick_] Vamos, no es para tanto."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:119 #-#-# translate crowdin sitWithLilian_a20cefa7_2:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
