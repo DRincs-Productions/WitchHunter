@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-23 15:16\n"
+"PO-Revision-Date: 2023-04-23 16:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestTarani.rpy:3
 msgid "Тарани Кук"
@@ -18,31 +18,31 @@ msgstr "Conoce a Taranee"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Провести первый урок"
-msgstr ""
+msgstr "Realizar la primera lección"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Провести урок и проверить контрольную работу занизив оценку Тарани"
-msgstr ""
+msgstr "Dirige la clase y compruebe el trabajo de clase bajando la nota de Taranee"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Раздать контрольные работы на следующем уроке"
-msgstr ""
+msgstr "Repartir los resultados en la siguiente lección"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Занизить оценку домашней работы Тарани"
-msgstr ""
+msgstr "Bajar la nota de los deberes de Taranee"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Поговорить с Тарани после урока"
-msgstr ""
+msgstr "Habla con Taranee después de clase"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Провести очередной урок"
-msgstr ""
+msgstr "Realizar otra lección"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Распросить о Тарани в школьном клубе журналистике"
-msgstr ""
+msgstr "Pregunta por Taranee en el club de periodismo de la escuela"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Достать микрофон для клуба журналистики"
