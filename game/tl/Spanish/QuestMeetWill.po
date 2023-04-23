@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-20 11:35\n"
+"PO-Revision-Date: 2023-04-23 16:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestMeetWill.rpy:3
 msgid "Сблизиться с семьей Вэндомов"
@@ -62,7 +62,7 @@ msgstr "Visita a Susan y preguntarle por su marido"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Найти способ доказать Сьюзан что ее муж остался азартным игроком"
-msgstr "Encuentra una manera de demostrar a Susan que su marido seguía siendo un jugador"
+msgstr "Encuentra una manera de demostrar a Susan que su marido sigue siendo un jugador"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Дождаться случайной встречи с Томасом Вэндомом"
