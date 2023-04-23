@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:35\n"
+"PO-Revision-Date: 2023-04-23 17:22\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/miranda/whereGetGold.rpy:7 #-#-# translate crowdin whereGetGold_4f6eb724:
 msgid "[_cedrick_sprite_] Не подскажешь где я могу заработать золото?"
-msgstr ""
+msgstr "[_cedrick_sprite_] ¿Puedes decirme dónde puedo ganar oro?"
 
 # game/scripts/meridian/miranda/whereGetGold.rpy:8 #-#-# translate crowdin whereGetGold_ba8b5d58:
 msgid "[_miranda_] Не ожидала такого вопроса от тебя..."
-msgstr ""
+msgstr "[_miranda_] No esperaba una pregunta así de ti..."
 
 # game/scripts/meridian/miranda/whereGetGold.rpy:9 #-#-# translate crowdin whereGetGold_ec9658d9:
 msgid "[_miranda_] Ты можешь получать золото, выбивая их у повстанцев в лесу.. Лес находится слева от таверны..."
-msgstr ""
+msgstr "[_miranda_] Puedes conseguir oro golpeando a los rebeldes en el bosque. El bosque está a la izquierda de la taberna..."
 
 # game/scripts/meridian/miranda/whereGetGold.rpy:10 #-#-# translate crowdin whereGetGold_504184e3:
 msgid "[_miranda_] Также я слышала, что в таверне обитает ведьмак, который играет в костяной покер на золото..."
-msgstr ""
+msgstr "[_miranda_] También he oído que la taberna está habitada por un brujo que juega al póquer de dados por oro..."
 
 # game/scripts/meridian/miranda/whereGetGold.rpy:11 #-#-# translate crowdin whereGetGold_931ef8a5:
 msgid "[_miranda_] А и еще… В лесу справа от таверны обитают монстры, убивая их ты можешь добыть некоторые ингредиенты для меня."
-msgstr ""
+msgstr "[_miranda_] Ah, y… Hay monstruos en el bosque a la derecha de la taberna y puedes conseguir algunos ingredientes para mí matándolos."
 
 # game/scripts/meridian/miranda/whereGetGold.rpy:12 #-#-# translate crowdin whereGetGold_d9c0f039:
 msgid "[_cedrick_sprite_] Спасибо"
-msgstr ""
+msgstr "[_cedrick_sprite_] Gracias"
 
