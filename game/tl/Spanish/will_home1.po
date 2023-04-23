@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-20 05:57\n"
+"PO-Revision-Date: 2023-04-23 18:47\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_home1.rpy:8 #-#-# translate crowdin will_home1_ece55c08:
 msgid "[_susan_] Рик! Пришел помочь Вилл?"
@@ -54,7 +54,7 @@ msgstr "[_will_] Supongo.."
 
 # game/scripts/quests/will/will_home1.rpy:46 #-#-# translate crowdin will_home1_65308c2c:
 msgid "*Спустя некоторое время*"
-msgstr ""
+msgstr "*Después de un rato*"
 
 # game/scripts/quests/will/will_home1.rpy:52 #-#-# translate crowdin will_home1_23e40135:
 msgid "[_cedrick_sprite_] ...Вот так отчасти из-за экономической нестабильности и частым нападениям различных племен варваров распалась римская империя.."
