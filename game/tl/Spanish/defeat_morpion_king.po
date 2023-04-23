@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-23 08:20\n"
+"PO-Revision-Date: 2023-04-23 16:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -122,7 +122,7 @@ msgstr "..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:106 #-#-# translate crowdin defeat_morpion_king_07bdde05:
 msgid "....."
-msgstr ""
+msgstr "....."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:107 #-#-# translate crowdin defeat_morpion_king_b39c6fcb:
 msgid "[_cedrick_] Да.. Провоцировать его было явно не лучшей моей идеей.."
@@ -378,7 +378,7 @@ msgstr "..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:307 #-#-# translate crowdin defeat_morpion_king_07bdde05_1:
 msgid "....."
-msgstr ""
+msgstr "....."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:308 #-#-# translate crowdin defeat_morpion_king_3928a113:
 msgid "......."
