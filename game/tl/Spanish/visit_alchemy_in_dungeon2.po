@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-23 07:14\n"
+"PO-Revision-Date: 2023-04-23 08:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon2.rpy:5 #-#-# translate crowdin visit_alchemy_in_dungeon2_37984bc7:
 msgid "[_cedrick_sprite_] Ну как тебе здесь, нравится?"
@@ -30,9 +30,9 @@ msgstr "[_cedrick_sprite_]  Me estaba estorbando, así que tuve que deshacerme d
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon2.rpy:18 #-#-# translate crowdin visit_alchemy_in_dungeon2_87a04a18:
 msgid "[_alchemy_] Ты псих! Выпусти меня отсюда!!"
-msgstr ""
+msgstr "[_alchemy_] ¡Estás demente! ¡¡Déjame salir de aquí!!"
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon2.rpy:19 #-#-# translate crowdin visit_alchemy_in_dungeon2_557d0a7a:
 msgid "[_cedrick_sprite_] Похоже ты не намерена разговаривать, что ж зайду в другой раз.."
-msgstr ""
+msgstr "[_cedrick_sprite_] No pareces decidida a hablar, así que volveré en otro momento.."
 
