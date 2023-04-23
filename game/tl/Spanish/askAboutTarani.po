@@ -10,73 +10,73 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:48\n"
+"PO-Revision-Date: 2023-04-23 23:27\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/askAboutTarani.rpy:8 #-#-# translate crowdin askAboutTarani_ad7961fb:
 msgid "[_bess_] А, это опять ты... Мы же сказали только для членов клуба..."
-msgstr ""
+msgstr "[_bess_] Oh, eres tu otra vez... Dijimos que solo miembros..."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:9 #-#-# translate crowdin askAboutTarani_d8a46914:
 msgid "[_cedrick_] Меня зовут Рик Хоффман, я работаю учителем истории."
-msgstr ""
+msgstr "[_cedrick_] Me llamo Rick Hoffman y trabajo como profesor de historia."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:10 #-#-# translate crowdin askAboutTarani_04572562:
 msgid "[_bess_] А, вы тот новый учитель который заменил Коллинза. Чем обязаны?"
-msgstr ""
+msgstr "[_bess_] Oh, usted es el nuevo profesor que sustituyó a Collins. ¿A qué debemos el placer?"
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:11 #-#-# translate crowdin askAboutTarani_4d1a0f1f:
 msgid "[_cedrick_] У одного из моих учеников проблемы с учебой и я хотел бы узнать в чем причина столь низкой успеваемости."
-msgstr ""
+msgstr "[_cedrick_] Uno de mis alumnos tiene problemas con sus estudios y me gustaría saber a qué se debe ese bajo rendimiento."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:12 #-#-# translate crowdin askAboutTarani_5d345a1d:
 msgid "[_cedrick_] И я решил, что такой замечательный и осведомленный, в школьных делах, клуб журналистики как ваш, сможет мне помочь.."
-msgstr ""
+msgstr "[_cedrick_] Y decidí que un club de periodismo escolar tan maravilloso y con tantos conocimientos, como el suyo, podría ayudarme.."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:13 #-#-# translate crowdin askAboutTarani_96257d06:
 msgid "[_cedrick_] Что вы знаете об ученице по имени Тарани Кук?"
-msgstr ""
+msgstr "[_cedrick_] ¿Qué saben de una estudiante llamada Taranee Cook?"
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:14 #-#-# translate crowdin askAboutTarani_1004b869:
 msgid "[_bess_] Тарани?"
-msgstr ""
+msgstr "[_bess_] ¿Taranee?"
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:15 #-#-# translate crowdin askAboutTarani_67cb21a1:
 msgid "[_courtney_] Та зубрилка..."
-msgstr ""
+msgstr "[_courtney_] Esa nerd..."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:16 #-#-# translate crowdin askAboutTarani_2cf94527:
 msgid "[_bess_] Да, мы можем расска.."
-msgstr ""
+msgstr "[_bess_] Sí, podemos saberlo.."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:17 #-#-# translate crowdin askAboutTarani_0713f5f2:
 msgid "[_courtney_] Сведенья стоят денег, а мы не раздаем информацию всем подряд и за бесплатно, знаете ли..."
-msgstr ""
+msgstr "[_courtney_] Pero la información cuesta dinero, y no damos información a todo el mundo gratuitamente..."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:18 #-#-# translate crowdin askAboutTarani_18a92df9:
 msgid "[_cedrick_] Сколько вы хотите?"
-msgstr ""
+msgstr "[_cedrick_] ¿Cuánto quieren?"
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:19 #-#-# translate crowdin askAboutTarani_d599b747:
 msgid "[_courtney_] Так случилось, что один придурок сломал нам микрофон.."
-msgstr ""
+msgstr "[_courtney_] Sucede que un imbécil rompió nuestro micrófono.."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:20 #-#-# translate crowdin askAboutTarani_7cb7bcaf:
 msgid "[_bess_] Чертов Урия..."
-msgstr ""
+msgstr "[_bess_] Maldito Uriah..."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:21 #-#-# translate crowdin askAboutTarani_e3be935b:
 msgid "[_courtney_] В общем, если найдешь нам рабочий студийный микрофон, то мы расскажем тебе всю информацию, которая у нас есть."
-msgstr ""
+msgstr "[_courtney_] Como sea, si nos encuentras un micrófono que funcione en el estudio, te diremos toda la información que tenemos."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:22 #-#-# translate crowdin askAboutTarani_8b3289d1:
 msgid "[_cedrick_] Договорились.."
-msgstr ""
+msgstr "[_cedrick_] Es un trato.."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:23 #-#-# translate crowdin askAboutTarani_a20cefa7:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:24 #-#-# translate crowdin askAboutTarani_d25f00c2:
 msgid "[_cedrick_] (Что ж, микрофоны должны продаваться в супермаркете у вокзала..)"
-msgstr ""
+msgstr "[_cedrick_] (Bueno, los micrófonos deberían venderse en el supermercado cerca de la estación de tren...)"
 
