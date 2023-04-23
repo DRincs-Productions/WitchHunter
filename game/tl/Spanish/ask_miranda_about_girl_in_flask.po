@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:36\n"
+"PO-Revision-Date: 2023-04-23 17:22\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:3 #-#-# translate crowdin ask_miranda_about_girl_in_flask_7e5d7e5a:
 msgid "[_cedrick_] Миранда, а что это за девушка в колбе?"
-msgstr ""
+msgstr "[_cedrick_] Miranda, ¿quién es la chica en el recipiente?"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:7 #-#-# translate crowdin ask_miranda_about_girl_in_flask_9b916972:
 msgid "[_miranda_] Девушка? Это скорее неизвестное нам существо"
-msgstr ""
+msgstr "[_miranda_] ¿Una chica? Es más como una criatura desconocida para nosotros"
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:11 #-#-# translate crowdin ask_miranda_about_girl_in_flask_049c04e6:
 msgid "[_cedrick_] Может быть, но... Сама взгляни, половые признаки присутствуют. Хоть они и отличаются от свойственных нашей расе...Я, кажется, знаю, кто это. Эльфийка"
