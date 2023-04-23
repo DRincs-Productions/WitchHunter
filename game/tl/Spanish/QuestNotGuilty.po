@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:34\n"
+"PO-Revision-Date: 2023-04-23 16:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestNotGuilty.rpy:3
 msgid "Не виновен"
-msgstr ""
+msgstr "Inocencia"
 
 # game/scripts/core/quests/QuestNotGuilty.rpy:13
 msgid "Попросить Миранду клонировать Тома Леира"
-msgstr ""
+msgstr "Pide a Miranda que clone a Tom Leir"
 
 # game/scripts/core/quests/QuestNotGuilty.rpy:13
 msgid "Добыть клок волос Тома Леира"
-msgstr ""
+msgstr "Conseguir un trozo de pelo de Tom Leir"
 
 # game/scripts/core/quests/QuestNotGuilty.rpy:13
 msgid "Купить одежду большого размера"
-msgstr ""
+msgstr "Comprar ropa grande"
 
 # game/scripts/core/quests/QuestNotGuilty.rpy:13
 msgid "Прийти к миранде с одеждой и отдать клок волос Тома Леира для приготовления зелья"
-msgstr ""
+msgstr "Ven a Miranda con la ropa y dale un trozo de pelo de Tom Leir para hacer la poción"
 
