@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-22 20:58\n"
+"PO-Revision-Date: 2023-04-23 08:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:18 #-#-# translate crowdin alchemy_teleport_to_meridian_a20cefa7:
 msgid "..."
@@ -244,41 +244,41 @@ msgstr "[_str1_] ¡Chúpala, zorra, vamos, trágatela hasta el fondo!"
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:112 #-#-# translate crowdin alchemy_teleport_to_meridian_aa6f9c70:
 msgid "[_str2_] Кажется.. я на пределе.."
-msgstr ""
+msgstr "[_str2_] Creo... que estoy en mi límite.."
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:113 #-#-# translate crowdin alchemy_teleport_to_meridian_fbfb1588:
 msgid "[_str1_] Да.. сейчас я заполню спермой твой маленький ротик.."
-msgstr ""
+msgstr "[_str1_] Sí... ahora voy a llenarte la boquita de semen.."
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:117 #-#-# translate crowdin alchemy_teleport_to_meridian_5f9b772e:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:118 #-#-# translate crowdin alchemy_teleport_to_meridian_f8b25c95:
 msgid "[_str3_]  Неплохо.. И что теперь нам с ней делать?"
-msgstr ""
+msgstr "[_str3_]  No está mal... ¿Qué hacemos con ella ahora?"
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:119 #-#-# translate crowdin alchemy_teleport_to_meridian_166986f8:
 msgid "[_str1_] В борделе за ее продажу можно выручить неплохую сумму.."
-msgstr ""
+msgstr "[_str1_] El burdel puede ofrecer una buena suma de dinero por venderla.."
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:123 #-#-# translate crowdin alchemy_teleport_to_meridian_b2b1d538:
 msgid "[_cedrick_sprite_] (Эти стражники настоящие животные...)"
-msgstr ""
+msgstr "[_cedrick_sprite_] (Estos guardias son unos auténticos animales...)"
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:124 #-#-# translate crowdin alchemy_teleport_to_meridian_c2588a8f:
 msgid "[_cedrick_sprite_] (Что же, как бы то ни было, она больше не доставит мне проблем...)"
-msgstr ""
+msgstr "[_cedrick_sprite_] (Bueno, de todos modos, no me dará más problemas...)"
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:125 #-#-# translate crowdin alchemy_teleport_to_meridian_443c911b:
 msgid "[_cedrick_sprite_] (Пора отправляться в Хезерфилд)"
-msgstr ""
+msgstr "[_cedrick_sprite_] (Hora de ir a Heatherfield)"
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:62
 msgid "Остановить их"
-msgstr ""
+msgstr "Detenerlos"
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:62
 msgid "Смотреть, что будет дальше"
-msgstr ""
+msgstr "Ver lo que ocurre a continuación"
 
