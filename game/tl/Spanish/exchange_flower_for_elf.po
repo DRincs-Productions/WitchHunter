@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-23 18:47\n"
+"PO-Revision-Date: 2023-04-23 19:59\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:4 #-#-# translate crowdin exchange_flower_for_elf_7480efc6:
 msgid "[_cedrick_] Это тот самый цветок?"
@@ -50,7 +50,7 @@ msgstr "[_miranda_] Lo sabrás más tarde, Cedric. Antes de que te vayas, puede 
 
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:36 #-#-# translate crowdin exchange_flower_for_elf_1d458c43:
 msgid "[_centered_] {size=37}Cедрик осматривает вещи Евангелины и находит среди них странную голубую Каплю, которую он забирает себе. Миранда ставит Евангелину на ноги. Мутноватая жидкость каплями стекает с еe дрожащего тела, а глаза бешено рыскают по комнате, словно пытаясь найти кого-то{/size} [withDissolve1]"
-msgstr "[_centered_] {size=37}Cedric examina las pertenencias de Evangeline y encuentra entre ellas una extraña gota azul, que toma para si mismo. Miranda pone a Evangeline de pie. El líquido turbio gotea de su cuerpo tembloroso, y sus ojos recorren frenéticamente la habitación como si trataran de encontrar a alguien{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Cedric examina las pertenencias de Evangeline y encuentra entre ellas una extraña gema azul, que toma para si mismo. Miranda pone a Evangeline de pie. El líquido turbio gotea de su cuerpo tembloroso, y sus ojos recorren frenéticamente la habitación como si trataran de encontrar a alguien{/size} [withDissolve1]"
 
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:43 #-#-# translate crowdin exchange_flower_for_elf_a72e4ba0:
 msgid "[_evangelin_] Где... Где я? Кто вы? Где Амалия?"
@@ -90,11 +90,11 @@ msgstr "[_evangelin_] Oh, no entiendo nada... Amalia, solamente quiero descansar
 
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:82 #-#-# translate crowdin exchange_flower_for_elf_ee316861:
 msgid "[_amalia_] Попробуй сосредоточиться и вспомнить, как ты здесь оказалась? И где Капля? Без нее мы не телепортируемся"
-msgstr "[_amalia_] ¿Trata de concentrarte y recordar cómo llegaste aquí? ¿Y dónde está la gota? No podemos teletransportarnos sin ella"
+msgstr "[_amalia_] ¿Trata de concentrarte y recordar cómo llegaste aquí? ¿Y dónde está la gema? No podemos teletransportarnos sin ella"
 
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:83 #-#-# translate crowdin exchange_flower_for_elf_be6dfa38:
 msgid "[_cedrick_] (Так вот для чего нужна та Капля..)"
-msgstr "[_cedrick_] (Así que para eso es la gota...)"
+msgstr "[_cedrick_] (Así que para eso es la gema...)"
 
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:89 #-#-# translate crowdin exchange_flower_for_elf_81b5bb88:
 msgid "[_evangelin_] Я точно не помню... Может в сумке? Амалия, я... Засыпаю"
