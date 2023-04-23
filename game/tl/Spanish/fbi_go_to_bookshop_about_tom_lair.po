@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:38\n"
+"PO-Revision-Date: 2023-04-23 18:47\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:6 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_33e12e8d:
 msgid "[_medina_] Добрый вечер"
@@ -30,7 +30,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:14 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_eb8c8f92:
 msgid "[_cedrick_] Да"
-msgstr ""
+msgstr "[_cedrick_] Sí"
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:15 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_3e673591:
 msgid "[_medina_] Я детектив Медина, а это детектив Мактиннен"
