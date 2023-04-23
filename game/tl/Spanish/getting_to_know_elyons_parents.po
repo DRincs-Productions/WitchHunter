@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-20 06:53\n"
+"PO-Revision-Date: 2023-04-23 19:59\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:5 #-#-# translate crowdin getting_to_know_elyons_parents_ffa6edae:
 msgid "[_elion_] ..Рик, есть минутка?"
@@ -22,103 +22,103 @@ msgstr "[_cedrick_] Sí, Elyon, ¿pasa algo?"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:10 #-#-# translate crowdin getting_to_know_elyons_parents_bbb1065b:
 msgid "[_cedrick_] (Надеюсь в этот раз она не разрыдается... Вроде больше никого из ее близких я пока не отправлял на рудники.. Тогда в чем дело..)"
-msgstr ""
+msgstr "[_cedrick_] (Espero que esta vez no se eche a llorar... Creo que aún no he enviado a nadie cercano a ella a las minas... Entonces cuál es el problema...)"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:13 #-#-# translate crowdin getting_to_know_elyons_parents_e38d6d7f:
 msgid "[_elion_] Не знаю даже, как тебе сказать..."
-msgstr ""
+msgstr "[_elion_] Ni siquiera sé cómo decirte..."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:14 #-#-# translate crowdin getting_to_know_elyons_parents_32878cf0:
 msgid "[_elion_] Эм..."
-msgstr ""
+msgstr "[_elion_] Um..."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:17 #-#-# translate crowdin getting_to_know_elyons_parents_39e7f26b:
 msgid "[_elion_] В общем! Мои родители хотят с тобой встретиться!"
-msgstr ""
+msgstr "[_elion_] ¡Como sea! ¡Mis padres quieren conocerte!"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:18 #-#-# translate crowdin getting_to_know_elyons_parents_be4dcd43:
 msgid "[_cedrick_] ...Что?"
-msgstr ""
+msgstr "[_cedrick_] ...¿Qué?"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:21 #-#-# translate crowdin getting_to_know_elyons_parents_14498279:
 msgid "[_elion_] Ну, эм.. Не подумай ничего такого, просто.. Последнее время ты так сильно меня поддерживал.. Как никто другой.."
-msgstr ""
+msgstr "[_elion_] Bueno... No te hagas una idea equivocada, es que... Me has apoyado tanto últimamente... Como nadie más.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:22 #-#-# translate crowdin getting_to_know_elyons_parents_6670b25f:
 msgid "[_elion_] Родители спрашивали, как я справляюсь с потерей Брайана и Алхими и я им рассказала, что все не так страшно, как могло бы быть.."
-msgstr ""
+msgstr "[_elion_] Mis padres me preguntaron cómo estaba afrontando la pérdida de Brian y Alchemy y les dije que no era tan malo como podría haber sido.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:25 #-#-# translate crowdin getting_to_know_elyons_parents_b6d918eb:
 msgid "[_elion_] Что у меня есть ты, Рик, и с тобой мне всегда спокойнее.. Вот.. Теперь мои родители хотят встретиться с тобой.. Прости, не стоило мне им про тебя рассказывать.."
-msgstr ""
+msgstr "[_elion_] Que te tengo a ti, Rick, y siempre me siento más segura contigo... Aquí... Ahora mis padres quieren conocerte. Lo siento. No debería haberles hablado de ti.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:28 #-#-# translate crowdin getting_to_know_elyons_parents_0ddf6f76:
 msgid "[_cedrick_] Все хорошо, Элион, я не против с ними встретиться"
-msgstr ""
+msgstr "[_cedrick_] Está bien, Elyon, no me importa reunirme con ellos"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:31 #-#-# translate crowdin getting_to_know_elyons_parents_27798f8b:
 msgid "[_elion_] Ч-что, правда!? Ты не против?"
-msgstr ""
+msgstr "[_elion_] ¿¡Qué, de verdad!? ¿No te importa?"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:32 #-#-# translate crowdin getting_to_know_elyons_parents_37d3bfa0:
 msgid "[_cedrick_] Да, почему бы и нет. Это отличная возможность сблизиться с твоей семьей. Ты же уже давно не просто работник моего книжного магазина, мы друзья"
-msgstr ""
+msgstr "[_cedrick_] Sí, por qué no. Es una gran oportunidad para acercarte a tu familia. Ya no eres solo un empleado de mi librería, somos amigos"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:35 #-#-# translate crowdin getting_to_know_elyons_parents_3910e249:
 msgid "[_elion_] Д-да, друзья.."
-msgstr ""
+msgstr "[_elion_] S-sí, amigos.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:38 #-#-# translate crowdin getting_to_know_elyons_parents_11856105:
 msgid "[_cedrick_] (Родители Элион.. Те самые беженцы с Меридиана, забравшие наследницу престола.. А я все думал, как бы к ним подобраться.. Это отличная возможность)"
-msgstr ""
+msgstr "[_cedrick_] (Los padres de Elyon... Los refugiados de Meridian que se llevaron a la heredera al trono... Me he estado preguntando cómo acercarme a ellos. Esta es una gran oportunidad)"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:41 #-#-# translate crowdin getting_to_know_elyons_parents_bc5d2913:
 msgid "[_elion_] Ну, тогда пойдем.. Мой дом недалеко отсюда, идти прямо через парк"
-msgstr ""
+msgstr "[_elion_] Bueno, vamos entonces. Mi casa no está lejos de aquí, ve directamente a través del parque"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:42 #-#-# translate crowdin getting_to_know_elyons_parents_72b99ad1:
 msgid "[_cedrick_] Конечно, как только рабочий день закончится"
-msgstr ""
+msgstr "[_cedrick_] Por supuesto, en cuanto acabe la jornada laboral"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:45 #-#-# translate crowdin getting_to_know_elyons_parents_2b1e25eb:
 msgid "[_elion_] Ахах, точно-точно, извини.."
-msgstr ""
+msgstr "[_elion_] Ahhhh, cierto, cierto, lo siento.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:48 #-#-# translate crowdin getting_to_know_elyons_parents_a4e02cf2:
 msgid "[_centered_] {size=37}Вечером того же дня, в доме Браунов{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}En la tarde ese mismo día, en la casa de los Brown{/size}"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:53 #-#-# translate crowdin getting_to_know_elyons_parents_97c599f7:
 msgid "[_elion_] Вот, Рик, это наш дом. Родители сейчас подойдут, а я пока переоденусь.."
-msgstr ""
+msgstr "[_elion_] Aquí, Rick, esta es nuestra casa. Mis padres estarán enseguida contigo, voy a cambiarme.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:54 #-#-# translate crowdin getting_to_know_elyons_parents_91d5a55e:
 msgid "[_cedrick_] Хорошо"
-msgstr ""
+msgstr "[_cedrick_] Está bien"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:57 #-#-# translate crowdin getting_to_know_elyons_parents_a20cefa7:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:60 #-#-# translate crowdin getting_to_know_elyons_parents_43b35959:
 msgid "[_thomas_] Так значит, вы и есть тот самый Рик?"
-msgstr ""
+msgstr "[_thomas_] ¿Así que tú eres ese Rick?"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:61 #-#-# translate crowdin getting_to_know_elyons_parents_f4aea279:
 msgid "[_cedrick_] Да, Рик, Рик Хоффман, владелец здешнего книжного магазина.. А вы?"
-msgstr ""
+msgstr "[_cedrick_] Sí, Rick, Rick Hoffman, dueño de la librería de aquí... ¿Y tú eres?"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:62 #-#-# translate crowdin getting_to_know_elyons_parents_e593542b:
 msgid "[_thomas_] Томас, Томас Браун, отец Элион"
-msgstr ""
+msgstr "[_thomas_] Thomas, Thomas Brown, Padre de Elyon"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:63 #-#-# translate crowdin getting_to_know_elyons_parents_6c084a77:
 msgid "[_cedrick_] Что, правда, а я бы и не подумал.."
-msgstr ""
+msgstr "[_cedrick_] Ciertamente, no lo había pensado.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:67 #-#-# translate crowdin getting_to_know_elyons_parents_d350c7db:
 msgid "[_thomas_] ....."
-msgstr ""
+msgstr "[_thomas_] ....."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:68 #-#-# translate crowdin getting_to_know_elyons_parents_f89f7db9:
 msgid "[_cedrick_] ....."
@@ -126,67 +126,67 @@ msgstr ""
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:72 #-#-# translate crowdin getting_to_know_elyons_parents_66ca12b0:
 msgid "[_thomas_] Ахахах, а вы шутник, я смотрю, мне такие нравятся. Правда, что это я, и так ведь очевидно, что я отец Элион.."
-msgstr ""
+msgstr "[_thomas_] Ahahahaha, eres un bromista, ya veo, eso me gusta. Realmente, ese soy yo, es obvio que soy el padre de Elyon.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:73 #-#-# translate crowdin getting_to_know_elyons_parents_0142e275:
 msgid "[_cedrick_] Да, очевидно же.."
-msgstr ""
+msgstr "[_cedrick_] Sí, obviamente.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:78 #-#-# translate crowdin getting_to_know_elyons_parents_6e4537bc:
 msgid "[_eleanor_] Ох, а вот и вы. Рик Хоффман, правильно?"
-msgstr ""
+msgstr "[_eleanor_] Oh, ahí estás. Rick Hoffman, ¿verdad?"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:82 #-#-# translate crowdin getting_to_know_elyons_parents_a0d8567b:
 msgid "[_cedrick_] Можно просто Рик"
-msgstr ""
+msgstr "[_cedrick_] Puedes llamarme Rick"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:86 #-#-# translate crowdin getting_to_know_elyons_parents_a425123d:
 msgid "[_eleanor_] А я Элеонор.. Элион много о вас рассказывала. Но не переживайте, рассказывала только хорошее"
-msgstr ""
+msgstr "[_eleanor_] Y yo soy Eleanor... Elyon me ha hablado mucho de ti. Pero no te preocupes, solo me ha contado cosas buenas"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:90 #-#-# translate crowdin getting_to_know_elyons_parents_c0908756:
 msgid "[_cedrick_] Хах, а я то уж начал переживать, что она раскрыла мою страшную тайну.. что я редко протираю полки от пыли в магазине"
-msgstr ""
+msgstr "[_cedrick_] Y yo que empezaba a preocuparme de que hubiera descubierto mi terrible secreto... que rara vez quito el polvo de las estanterías de la tienda"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:94 #-#-# translate crowdin getting_to_know_elyons_parents_6507758b:
 msgid "[_eleanor_] Ахахахах, какой вы забавный, Рик.. Ничего, мы сохраним вашу страшную тайну.."
-msgstr ""
+msgstr "[_eleanor_] Ahahahahaha, qué gracioso eres, Rick... No pasa nada, guardaremos tu terrorífico secreto.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:99 #-#-# translate crowdin getting_to_know_elyons_parents_2bc0184a:
 msgid "[_elion_] А вот и я!"
-msgstr ""
+msgstr "[_elion_] ¡Aquí estoy!"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:101 #-#-# translate crowdin getting_to_know_elyons_parents_01128f57:
 msgid "[_cedrick_] О, ты переоделась. Милая домашняя одежда.."
-msgstr ""
+msgstr "[_cedrick_] Oh, te has cambiado. Bonita ropa de casa.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:104 #-#-# translate crowdin getting_to_know_elyons_parents_df86118f:
 msgid "[_elion_] Спасибо, Рик. Ну что, пойдемте к столу?"
-msgstr ""
+msgstr "[_elion_] Gracias, Rick. ¿Vamos a la mesa?"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:107 #-#-# translate crowdin getting_to_know_elyons_parents_80389df0:
 msgid "[_eleanor_] Да, Рик, мы уже приготовили для вас ужин"
-msgstr ""
+msgstr "[_eleanor_] Sí, Rick, ya te hemos preparado la cena"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:108 #-#-# translate crowdin getting_to_know_elyons_parents_c0a0cf6c:
 msgid "[_cedrick_] Как раз умираю с голоду.."
-msgstr ""
+msgstr "[_cedrick_] Me muero de hambre.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:111 #-#-# translate crowdin getting_to_know_elyons_parents_0dc4be04:
 msgid "[_centered_] {size=37}Спустя какое-то время на кухне{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Después de un rato en la cocina{/size}"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:114 #-#-# translate crowdin getting_to_know_elyons_parents_dd7ce9c0:
 msgid "[_thomas_] Значит вы владеете тем самым магазинчиком недалеко от парка?"
-msgstr ""
+msgstr "[_thomas_] ¿Así que eres el dueño de esa pequeña tienda cerca del parque?"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:115 #-#-# translate crowdin getting_to_know_elyons_parents_a2e1b711:
 msgid "[_cedrick_] Да, он самый.."
-msgstr ""
+msgstr "[_cedrick_] Sí, esa misma.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:116 #-#-# translate crowdin getting_to_know_elyons_parents_86008ce8:
 msgid "[_thomas_] Я немного знал прошлого владельца, что с ним стало? Не думал, что он продаст семейный магазин"
-msgstr ""
+msgstr "[_thomas_] Conocía un poco al anterior propietario, ¿qué fue de él? No pensé que vendería la tienda de su familia"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:117 #-#-# translate crowdin getting_to_know_elyons_parents_f89f7db9_1:
 msgid "[_cedrick_] ....."
@@ -194,133 +194,133 @@ msgstr ""
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:118 #-#-# translate crowdin getting_to_know_elyons_parents_ca5e1654:
 msgid "[_cedrick_] Старик сказал, что хочет начать новую жизнь и хотя бы остаток старости жить чисто для себя. Магазин тяготил его, удерживал на одном месте"
-msgstr ""
+msgstr "[_cedrick_] El anciano dijo que quería empezar una nueva vida y vivir al menos el resto de su vejez puramente para sí mismo. La tienda le agobiaba, le retenía en un solo lugar"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:119 #-#-# translate crowdin getting_to_know_elyons_parents_1c7c8504:
 msgid "[_cedrick_] А я как раз искал небольшое место для бизнеса, которое могу приобрести в этом городе"
-msgstr ""
+msgstr "[_cedrick_] Y yo estaba buscando un pequeño local que pudiera comprar en esta ciudad"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:120 #-#-# translate crowdin getting_to_know_elyons_parents_9ef9a844:
 msgid "[_thomas_] Так, получается, вы у нас недавно в городе?"
-msgstr ""
+msgstr "[_thomas_] Entonces, ¿eres nuevo en la ciudad?"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:121 #-#-# translate crowdin getting_to_know_elyons_parents_bf9ce1c4:
 msgid "[_cedrick_] Да, я, в прочем, как и тот старик, решил что-то поменять в своей жизни. Купил его магазин, он уехал, а я начал осваиваться здесь"
-msgstr ""
+msgstr "[_cedrick_] Sí, como el viejo, decidí hacer un cambio en mi vida. Compré su tienda, él se fue y yo empecé a instalarme aquí"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:122 #-#-# translate crowdin getting_to_know_elyons_parents_c5d5e39f:
 msgid "[_thomas_] Хм, а почему уехали из старого места?"
-msgstr ""
+msgstr "[_thomas_] Um, ¿por qué dejaste tu antiguo trabajo?"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:123 #-#-# translate crowdin getting_to_know_elyons_parents_27bd1b4d:
 msgid "[_cedrick_] ...Хреновая была работа. Слишком много хлопот, босс – тиран, так в конце еще и понизили по должности. Благо хоть платили хорошо, вот и смог выкупить магазин без проблем"
-msgstr ""
+msgstr "[_cedrick_] ...Era un trabajo de mierda. Demasiadas molestias, el jefe era un tirano y al final fui degradado. Al menos el sueldo era bueno, así que pude comprar la tienda sin problemas"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:124 #-#-# translate crowdin getting_to_know_elyons_parents_94f8c4d7:
 msgid "[_thomas_] Плохая работа с хорошей зарплатой, где же вы тогда работали?"
-msgstr ""
+msgstr "[_thomas_] Un mal trabajo con un buen sueldo, ¿dónde trabajabas entonces?"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:125 #-#-# translate crowdin getting_to_know_elyons_parents_468952cc:
 msgid "[_cedrick_] (Этот мужик что, меня допрашивает?)"
-msgstr ""
+msgstr "[_cedrick_] (¿Me está interrogando este tipo?)"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:126 #-#-# translate crowdin getting_to_know_elyons_parents_e8ae9dfe:
 msgid "[_cedrick_] Ну, я..."
-msgstr ""
+msgstr "[_cedrick_] Bueno, yo..."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:127 #-#-# translate crowdin getting_to_know_elyons_parents_ae176289:
 msgid "[_thomas_] Ауч!"
-msgstr ""
+msgstr "[_thomas_] ¡Ouch!"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:128 #-#-# translate crowdin getting_to_know_elyons_parents_8d07da48:
 msgid "[_eleanor_] Томас лишь хочет сказать, что это очень интересно – такой молодой человек, как вы, в своем возрасте уже смог бросить работу и переехать в другой город, купив целый книжный магазин.."
-msgstr ""
+msgstr "[_eleanor_] Lo que Thomas intenta decir es que es muy interesante que un joven como tú, a tu edad, ya haya sido capaz de dejar su trabajo y mudarse a otra ciudad y comprar toda una librería.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:129 #-#-# translate crowdin getting_to_know_elyons_parents_924a8ff0:
 msgid "[_eleanor_] Это похвально, Рик, очень похвально.. Когда Элион говорила о вас, я думала, что вам как минимум 35"
-msgstr ""
+msgstr "[_eleanor_] Eso es admirable, Rick, muy admirable. Cuando Elyon habló de ti, pensé que tenías al menos 35 años"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:130 #-#-# translate crowdin getting_to_know_elyons_parents_2ba292e7:
 msgid "[_thomas_] Да, и было довольно странно представлять, как ее утешает какой-то тридцатипятилетний... Ауч!!"
-msgstr ""
+msgstr "[_thomas_] Sí, y era bastante raro imaginársela consolada por un treintañero.... ¡¡Ay!!"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:131 #-#-# translate crowdin getting_to_know_elyons_parents_0ff11322:
 msgid "[_eleanor_] Томас хочет сказать, что мы представляли вас старше, Рик. А вам получается всего.."
-msgstr ""
+msgstr "[_eleanor_] Lo que Thomas trata de decir es que te imaginamos mayor, Rick. Y solo tienes.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:132 #-#-# translate crowdin getting_to_know_elyons_parents_7ded05f1:
 msgid "[_cedrick_] Мне 27"
-msgstr ""
+msgstr "[_cedrick_] Tengo 27"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:133 #-#-# translate crowdin getting_to_know_elyons_parents_d2d3cc00:
 msgid "[_eleanor_] Ох, всего 27, какой завидный кавалер. Могу понять, что Элион в вас нашла"
-msgstr ""
+msgstr "[_eleanor_] Oh, solo 27, qué galán tan envidiable. Puedo entender lo que Elyon ve en ti"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:134 #-#-# translate crowdin getting_to_know_elyons_parents_dfcec4f7:
 msgid "[_elion_] Мааааам, ну ты чего! "
-msgstr ""
+msgstr "[_elion_] Mamaaaa, ¡vamos! "
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:135 #-#-# translate crowdin getting_to_know_elyons_parents_a87fc22c:
 msgid "[_eleanor_] Да я же просто шучу, ахахах.."
-msgstr ""
+msgstr "[_eleanor_] Estoy bromeando, hahahaha.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:136 #-#-# translate crowdin getting_to_know_elyons_parents_3412653e:
 msgid "[_thomas_] Ахахаха.."
-msgstr ""
+msgstr "[_thomas_] Hahahaha.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:139 #-#-# translate crowdin getting_to_know_elyons_parents_92f622cd:
 msgid "[_centered_] {size=37}После долгих приятных разговоров за столом{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Después de una larga y agradable conversación alrededor de la mesa{/size}"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:142 #-#-# translate crowdin getting_to_know_elyons_parents_c4d97223:
 msgid "[_thomas_] Ох, сколько уже времени.. Рик, кажется, вам пора домой"
-msgstr ""
+msgstr "[_thomas_] Oh, es tarde. Rick, creo que es hora de que te vayas a casa"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:143 #-#-# translate crowdin getting_to_know_elyons_parents_bf5a0dca:
 msgid "[_cedrick_] И правда. Спасибо вам за вкусный ужин и приятный вечер"
-msgstr ""
+msgstr "[_cedrick_] Efectivamente. Gracias por una cena deliciosa y una velada agradable"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:144 #-#-# translate crowdin getting_to_know_elyons_parents_3a1139c2:
 msgid "[_elion_] Я тебя провожу!"
-msgstr ""
+msgstr "[_elion_] ¡Te acompaño a fuera!"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:147 #-#-# translate crowdin getting_to_know_elyons_parents_a20cefa7_1:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:152 #-#-# translate crowdin getting_to_know_elyons_parents_49302140:
 msgid "[_elion_] Рик, спасибо, что пришел.. У нас не часто бывают гости"
-msgstr ""
+msgstr "[_elion_] Rick, gracias por venir. No tenemos muchos visitantes"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:153 #-#-# translate crowdin getting_to_know_elyons_parents_c510f0ed:
 msgid "[_cedrick_] Да, конечно, буду рад прийти еще"
-msgstr ""
+msgstr "[_cedrick_] Sí, por supuesto, me encantaría volver"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:156 #-#-# translate crowdin getting_to_know_elyons_parents_92a2fd97:
 msgid "[_elion_] Прости за папу, он у меня иногда слишком подозрительный.. Особенно к парням.."
-msgstr ""
+msgstr "[_elion_] Lo siento por mi padre, es demasiado desconfiado a veces... Especialmente con los chicos.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:159 #-#-# translate crowdin getting_to_know_elyons_parents_a9d20441:
 msgid "[_cedrick_] Хах, ничего страшного, буду иметь ввиду.."
-msgstr ""
+msgstr "[_cedrick_] Huh, está bien, lo tendré en cuenta.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:162 #-#-# translate crowdin getting_to_know_elyons_parents_e0c0e4e1:
 msgid "[_elion_] До завтра, Рик.."
-msgstr ""
+msgstr "[_elion_] Hasta mañana, Rick.."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:163 #-#-# translate crowdin getting_to_know_elyons_parents_6d896ad2:
 msgid "[_cedrick_] До скорого, Элион"
-msgstr ""
+msgstr "[_cedrick_] Hasta pronto, Elyon"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:165 #-#-# translate crowdin getting_to_know_elyons_parents_43e0036d:
 msgid "[_cedrick_] (Хм, на первый взгляд такая милая семья, так сразу и не скажешь, что беженцы с Меридиана..)"
-msgstr ""
+msgstr "[_cedrick_] (Hm, una familia tan agradable a primera vista, no sabrías que son refugiados de Meridian...)"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:166 #-#-# translate crowdin getting_to_know_elyons_parents_1df5c004:
 msgid "[_cedrick_] (Хотя, с Томасом надо быть поосторожнее. Не думаю, что он подозревает во мне человека, присланного Фобосом, но все же..)"
-msgstr ""
+msgstr "[_cedrick_] (Aunque hay que tener cuidado con Thomas. No creo que sospeche que soy un hombre enviado por Phobos, pero aun así...)"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:167 #-#-# translate crowdin getting_to_know_elyons_parents_8c192c6d:
 msgid "[_cedrick_] (В первую очередь нужно завоевать их доверие, потом разберусь, что с ними делать дальше...)"
-msgstr ""
+msgstr "[_cedrick_] (Primero tengo que ganarme su confianza, luego ya veré qué hago con ellos...)"
 
