@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:38\n"
+"PO-Revision-Date: 2023-04-24 03:12\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/takeElyonHome/take_elyon_home_2.rpy:4 #-#-# translate crowdin take_elyon_home_2_47fdc3c7:
 msgid "[_elion_] Рик, ну что, проводишь меня сегодня?"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/scripts/quests/takeElyonHome/take_elyon_home_2.rpy:8 #-#-# translate crowdin take_elyon_home_2_70f97116:
 msgid "[_centered_] {size=37}Позже вечером, в доме Браунов{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Más tarde en la noche, en casa de los Brown{/size}"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home_2.rpy:11 #-#-# translate crowdin take_elyon_home_2_bdcfbb46:
 msgid "[_elion_] Мы пришли! Так, я побежала переодеваться"
