@@ -10,95 +10,95 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-03-27 04:48\n"
+"PO-Revision-Date: 2023-04-24 22:37\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:8 #-#-# translate crowdin quest_new_student_teachers_meeting_d9616179:
 msgid "[_physteacher_] Рик! Дружище, спасибо, что выручил в тот раз. Знатно я тогда перебрал.."
-msgstr ""
+msgstr "[_physteacher_] ¡Rick! Amigo, gracias por ayudarme aquella vez. Había bebido mucho.."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:9 #-#-# translate crowdin quest_new_student_teachers_meeting_fe4d4ec7:
 msgid "[_cedrick_] Да не за что.. Впредь держи себя в руках. И не забывай – ты мой должник."
-msgstr ""
+msgstr "[_cedrick_] De nada. Mantente tranquilo de ahora en adelante. Y no lo olvides, me debes una."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:13 #-#-# translate crowdin quest_new_student_teachers_meeting_203a38df:
 msgid "[_physteacher_] Само собой, дружище."
-msgstr ""
+msgstr "[_physteacher_] Por supuesto, amigo."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:17 #-#-# translate crowdin quest_new_student_teachers_meeting_849dbf3c:
 msgid "[_physteacher_] Надеюсь, ты никому не рассказал о причине, по которой пришлось меня подменять?"
-msgstr ""
+msgstr "[_physteacher_] Espero que no le hayas contado a nadie la razón por la que tuviste que cubrirme"
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:21 #-#-# translate crowdin quest_new_student_teachers_meeting_e7212237:
 msgid "[_physteacher_] ...Нет, пф, конечно нет. Ты бы не стал так подставлять меня..."
-msgstr ""
+msgstr "[_physteacher_] ... No, pfft, por supuesto que no. No me pondrías en una situación así..."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:22 #-#-# translate crowdin quest_new_student_teachers_meeting_55a51ac2:
 msgid "[_cedrick_] Мне это ни к чему. Но, похоже некоторые ученики и без того знают о причинах замены.."
-msgstr ""
+msgstr "[_cedrick_] No me sirve de nada. Pero parece que algunos alumnos ya conocen las razones de la sustitución.."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:26 #-#-# translate crowdin quest_new_student_teachers_meeting_e7759c78:
 msgid "[_physteacher_] Что?? "
-msgstr ""
+msgstr "[_physteacher_] ¡¿Qué?? "
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:30 #-#-# translate crowdin quest_new_student_teachers_meeting_35df078e:
 msgid "[_physteacher_] Но я был предельно осторожен..."
-msgstr ""
+msgstr "[_physteacher_] Pero fui extremadamente cuidadoso..."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:32 #-#-# translate crowdin quest_new_student_teachers_meeting_5a55b0b2:
 msgid "[_cedrick_] Не сомневаюсь..."
-msgstr ""
+msgstr "[_cedrick_] No lo dudo..."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:33 #-#-# translate crowdin quest_new_student_teachers_meeting_f09251ba:
 msgid "[_cedrick_] (Интересно, он имеет ввиду, что был осторожен, когда напился до состояния мешка картошки или что он был осторожен, когда развалился как мешок картошки в подсобке и думал, что его никто не заметит? В любом случае, он был не особо осторожен...)"
-msgstr ""
+msgstr "[_cedrick_] (Me pregunto si quiere decir que tuvo cuidado cuando se emborrachó como un saco de patatas o que tuvo cuidado cuando se desplomó como un saco de patatas en la parte de atrás y pensó que nadie se daría cuenta. En cualquier caso, no fue especialmente cuidadoso...)"
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:37 #-#-# translate crowdin quest_new_student_teachers_meeting_72b80f0f:
 msgid "[_physteacher_] Что ж, главное, чтоб это не дошло до Никербокер... Она та еще сука.."
-msgstr ""
+msgstr "[_physteacher_] Bueno, mientras no llegue a Knickerbocker... Es una perra.."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:38 #-#-# translate crowdin quest_new_student_teachers_meeting_d1f787b6:
 msgid "[_directris_] Мистер Бартон..."
-msgstr ""
+msgstr "[_directris_] Sr. Barton..."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:42 #-#-# translate crowdin quest_new_student_teachers_meeting_26bd5928:
 msgid "[_physteacher_] ......"
-msgstr ""
+msgstr "[_physteacher_] ......"
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:47 #-#-# translate crowdin quest_new_student_teachers_meeting_f7f1f36f:
 msgid "[_physteacher_] Миссис Никербокер! К-какая приятная встреча. Сегодня вы особенно замечательно выглядите.."
-msgstr ""
+msgstr "[_physteacher_] ¡Sra. Knickerbocker! Es un placer encontrarla. Se ve particularmente encantadora hoy.."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:51 #-#-# translate crowdin quest_new_student_teachers_meeting_72c381ce:
 msgid "[_directris_] И впрямь.. Но не могу сказать о вас того же... Видимо вчера у вас был тяжелый день..."
-msgstr ""
+msgstr "[_directris_] En efecto... Pero no puedo decir lo mismo de ti... Debes haber tenido un día duro ayer..."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:57 #-#-# translate crowdin quest_new_student_teachers_meeting_7a4553b0:
 msgid "[_physteacher_] По правде говоря..."
-msgstr ""
+msgstr "[_physteacher_] La verdad es que..."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:61 #-#-# translate crowdin quest_new_student_teachers_meeting_6facd3e1:
 msgid "[_directris_] Нахождение на рабочем месте в состояние алкогольного опьянение... Вы же понимаете, что я должна уволить вас... У нас приличное заведение."
-msgstr ""
+msgstr "[_directris_] Estar en el lugar de trabajo bajo los efectos del alcohol... ¿Entiendes que tengo que despedirte?... Este es una institución respetable."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:65 #-#-# translate crowdin quest_new_student_teachers_meeting_d812d832:
 msgid "[_cedrick_] (Черт, замену еще и физрука я явно не потяну, никакие школьницы в спортивной форме того не стоят.. Но если Бартон и тут облажается, я не стану его отмазывать.)"
-msgstr ""
+msgstr "[_cedrick_] (Demonios, no puedo permitirme sustituir al profesor de gimnasia, no hay suficientes colegialas en ropa de gimnasia que lo valgan.... Pero si Barton la caga aquí también, no lo pienso disculparlo.)"
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:69 #-#-# translate crowdin quest_new_student_teachers_meeting_faa92a05:
 msgid "[_physteacher_] Прошу, дайте мне последний шанс... этого больше не повторится... у меня была очень тяжелая неделя... у моей собаки..."
-msgstr ""
+msgstr "[_physteacher_] Por favor, dame una última oportunidad... no volverá a suceder... He tenido una semana muy difícil... mi perro..."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:75 #-#-# translate crowdin quest_new_student_teachers_meeting_441a46e8:
 msgid "[_directris_] Молчать! Меня не волнуют ваши проблемы... "
-msgstr ""
+msgstr "[_directris_] ¡Silencio! No me importan tus problemas... "
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:76 #-#-# translate crowdin quest_new_student_teachers_meeting_27831879:
 msgid "[_directris_] Это последнее ваше предупреждение. Будь у меня другие варианты, вы бы уже вылетели отсюда незамедлительно..."
-msgstr ""
+msgstr "[_directris_] Esta es tu última advertencia. Si tuviera otras opciones, estarías fuera de aquí inmediatamente..."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:77 #-#-# translate crowdin quest_new_student_teachers_meeting_f8165383:
 msgid "[_cedrick_] (Фух, повезло.. Видимо на весь город это единственный учитель физкультуры.)"
-msgstr ""
+msgstr "[_cedrick_] (Uf, qué suerte... Al parecer es el único profesor de educación física de todo el pueblo.)"
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:78 #-#-# translate crowdin quest_new_student_teachers_meeting_8f263afd:
 msgid "[_directris_] И я сделаю вам выговор на собрании учителей. Вы ведь именно туда направляетесь?"
@@ -194,7 +194,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:152 #-#-# translate crowdin quest_new_student_teachers_meeting_a20cefa7:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:153 #-#-# translate crowdin quest_new_student_teachers_meeting_5977d9d3:
 msgid "[_cedrick_] Миссис Никербокер, я бы с удовольствием отправился с учениками на гору Хезерфилд, если, конечно, вы позволите."
