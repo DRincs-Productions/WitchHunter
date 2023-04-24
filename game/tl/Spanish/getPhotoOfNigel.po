@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:38\n"
+"PO-Revision-Date: 2023-04-24 02:17\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/getPhotoOfNigel.rpy:7 #-#-# translate crowdin getPhotoOfNigel_2bbfeb2b:
 msgid "[_cedrick_] Ты выполнил мою просьбу?"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/scripts/quests/tarani/getPhotoOfNigel.rpy:12 #-#-# translate crowdin getPhotoOfNigel_49316299:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/tarani/getPhotoOfNigel.rpy:13 #-#-# translate crowdin getPhotoOfNigel_b313f77e:
 msgid "[_cedrick_] ….."
