@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-23 19:59\n"
+"PO-Revision-Date: 2023-04-24 02:16\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:7 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_eddbb15e:
 msgid "[_susan_] Спасибо, что помог с готовкой, Рик, это было так мило с твоей стороны"
@@ -386,7 +386,7 @@ msgstr ""
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:180 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_49316299:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:181 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_be4dcd43:
 msgid "[_cedrick_] ...Что?"
