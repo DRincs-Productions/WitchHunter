@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:38\n"
+"PO-Revision-Date: 2023-04-24 00:24\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/dontGetPhotoOfNigel.rpy:4 #-#-# translate crowdin dontGetPhotoOfNigel_4e86a3e4:
 msgid "[_cedrick_] Ты достал фото?"
-msgstr ""
+msgstr "[_cedrick_] ¿Conseguiste las fotos?"
 
 # game/scripts/quests/tarani/dontGetPhotoOfNigel.rpy:5 #-#-# translate crowdin dontGetPhotoOfNigel_fc6c4c03:
 msgid "[_blank_] Еще нет. Бланк занятой"
-msgstr ""
+msgstr "[_blank_] Todavía no. Blunk está ocupado"
 
