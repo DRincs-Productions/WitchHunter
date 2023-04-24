@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-22 21:59\n"
+"PO-Revision-Date: 2023-04-24 02:17\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/meridian/barracks/barracks.rpy:12
 msgid "Сдать нашивки повстанцев"
-msgstr ""
+msgstr "Entrega tus insignias de rebelde"
 
 # game/scripts/meridian/barracks/barracks.rpy:12
 msgid "Уйти"
