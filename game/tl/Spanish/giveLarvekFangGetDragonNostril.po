@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-24 03:12\n"
+"PO-Revision-Date: 2023-04-24 13:22\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:7 #-#-# translate crowdin giveLarvekFangGetDragonNostril_780643a3:
 msgid "[_miranda_] Ты принес Клык Лаврека?"
-msgstr "[_miranda_] ¿Trajiste el ojo del Larvek?"
+msgstr "[_miranda_] ¿Trajiste el Colmillo de Larvekl?"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:13 #-#-# translate crowdin giveLarvekFangGetDragonNostril_341864d2:
 msgid "[_cedrick_] Я принес клык ларвека!"
-msgstr "[_cedrick_] ¡He traído un ojo de larvek!"
+msgstr "[_cedrick_] ¡He traído un colmillo larvek!"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:14 #-#-# translate crowdin giveLarvekFangGetDragonNostril_c0fdbeb3:
 msgid "[_miranda_] Отлично!"
@@ -42,7 +42,7 @@ msgstr "[_cedrick_] ¿Un favor? Teníamos un trato, ¿no!.."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:31 #-#-# translate crowdin giveLarvekFangGetDragonNostril_2ab4f88d:
 msgid "[_miranda_] Я подумала и решила, что отдавать столь ценный ингредиент только за клык Ларвека это, по меньшей мере, смешно.."
-msgstr "[_miranda_] Lo pensé y decidí que regalar un ingrediente tan valioso solo por un ojo de Larvek era, cuando menos, ridículo.."
+msgstr "[_miranda_] Lo pensé y decidí que regalar un ingrediente tan valioso solo por un colmillo de Larvek era, cuando menos, ridículo.."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:35 #-#-# translate crowdin giveLarvekFangGetDragonNostril_49316299:
 msgid "[_cedrick_] ..."
