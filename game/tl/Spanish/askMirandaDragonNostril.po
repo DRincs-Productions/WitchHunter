@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-24 03:12\n"
+"PO-Revision-Date: 2023-04-24 13:22\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:11 #-#-# translate crowdin askMirandaDragonNostril_c8d2151d:
 msgid "[_cedrick_] Миранда.. Ты случайно не знаешь… Где можно достать Ноздрю Дракона?..."
@@ -38,7 +38,7 @@ msgstr "[_cedrick_] ¿Qué es lo que quieres?"
 
 # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:32 #-#-# translate crowdin askMirandaDragonNostril_64df27e3:
 msgid "[_miranda_] Я отдам тебе ноздрю дракона только в том случае, если ты достанешь мне клык Ларвека, который обитает в местном лесу.."
-msgstr "[_miranda_] Solo te daré la fosa nasal del dragón si me consigues el ojo de Larvek, que vive en el bosque local.."
+msgstr "[_miranda_] Solo te daré la fosa nasal del dragón si me consigues el colmillo de Larvek, que vive en el bosque local.."
 
 # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:36 #-#-# translate crowdin askMirandaDragonNostril_cf79059c:
 msgid "[_cedrick_] Что ж.. Договорились."
