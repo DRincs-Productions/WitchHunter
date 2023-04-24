@@ -10,37 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:38\n"
+"PO-Revision-Date: 2023-04-24 00:24\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:11 #-#-# translate crowdin askMirandaDragonNostril_c8d2151d:
 msgid "[_cedrick_] Миранда.. Ты случайно не знаешь… Где можно достать Ноздрю Дракона?..."
-msgstr ""
+msgstr "[_cedrick_] Miranda... ¿Por casualidad sabes… donde puedo conseguir una fosa nasal de Dragón?..."
 
 # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:15 #-#-# translate crowdin askMirandaDragonNostril_e8243b9d:
 msgid "[_miranda_] Ноздря Дракона — это довольно редкий ингредиент… говорят, что драконы давно вымерли. По крайней мере в нашем краю их не видели уже более сотни лет."
-msgstr ""
+msgstr "[_miranda_] La fosa nasal de un Dragón es un ingrediente bastante raro… Se dice que los dragones se extinguieron hace mucho tiempo. Al menos en nuestra región, hace más de cien años que no se ven."
 
 # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:16 #-#-# translate crowdin askMirandaDragonNostril_0b372ca9:
 msgid "[_miranda_] Зачем она тебе?"
-msgstr ""
+msgstr "[_miranda_] ¿Para qué la necesitas?"
 
 # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:20 #-#-# translate crowdin askMirandaDragonNostril_15d8b9b7:
 msgid "[_cedrick_] Не твое дело! Так ты знаешь где ее можно достать или нет?"
-msgstr ""
+msgstr "[_cedrick_] ¡No es asunto tuyo! ¿Sabes dónde conseguirlo o no?"
 
 # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:24 #-#-# translate crowdin askMirandaDragonNostril_aadfc023:
 msgid "[_miranda_] Так случилось, что у меня есть то, что тебе надо, но просто так я ее тебе не отдам.."
-msgstr ""
+msgstr "[_miranda_] Resulta que tengo lo que quieres, pero no te lo daré a cambio de nada.."
 
 # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:28 #-#-# translate crowdin askMirandaDragonNostril_1bad38d6:
 msgid "[_cedrick_] Чего ты хочешь?"
-msgstr ""
+msgstr "[_cedrick_] ¿Qué es lo que quieres?"
 
 # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:32 #-#-# translate crowdin askMirandaDragonNostril_64df27e3:
 msgid "[_miranda_] Я отдам тебе ноздрю дракона только в том случае, если ты достанешь мне клык Ларвека, который обитает в местном лесу.."
-msgstr ""
+msgstr "[_miranda_] Solo te daré la fosa nasal del dragón si me consigues el colmillo de Larvek, que vive en el bosque local.."
 
 # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:36 #-#-# translate crowdin askMirandaDragonNostril_cf79059c:
 msgid "[_cedrick_] Что ж.. Договорились."
-msgstr ""
+msgstr "[_cedrick_] Bueno... Trato hecho."
 
