@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:37\n"
+"PO-Revision-Date: 2023-04-24 01:21\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/giveElionUsedTo/give_elyon_used_to.rpy:4 #-#-# translate crowdin give_elyon_used_to_1580d417:
 msgid "[_cedrick_] (Думаю нужно дать ей время свыкнуться с произошедшим, прежде чем переходить к следующему этапу..)"
-msgstr ""
+msgstr "[_cedrick_] (Creo que hay que darle tiempo para que asimile lo sucedido antes de pasar a la siguiente etapa...)"
 
 # game/scripts/quests/giveElionUsedTo/give_elyon_used_to.rpy:5 #-#-# translate crowdin give_elyon_used_to_1596d730:
 msgid "[_cedrick_] (Что ж, от всего круга общения и поддерживающих ее людей я уже избавился..)"
