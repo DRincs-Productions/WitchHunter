@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-24 20:29\n"
+"PO-Revision-Date: 2023-04-24 21:41\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:7 #-#-# translate crowdin giveAlchemyForBlank_e1f6e456:
 msgid "Спустя некоторое время в темнице меридиана"
@@ -70,7 +70,7 @@ msgstr "[_blank_] ¡Blunk se convirtió en un hombre!"
 
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:49 #-#-# translate crowdin giveAlchemyForBlank_ffe22964:
 msgid "[_blank_] Бланк кончатть…."
-msgstr ""
+msgstr "[_blank_] La forma de la concha…."
 
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:51 #-#-# translate crowdin giveAlchemyForBlank_86774ec3:
 msgid "[_blank_] Оххх.. бланк хорошо.."
@@ -82,13 +82,13 @@ msgstr "….."
 
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:55 #-#-# translate crowdin giveAlchemyForBlank_3b971b59:
 msgid "[_cedrick_] Теперь ступай и выполни мою просьбу!"
-msgstr ""
+msgstr "[_cedrick_] ¡Ahora ve y haz lo que te pedí!"
 
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:56 #-#-# translate crowdin giveAlchemyForBlank_bd7e0b95:
 msgid "[_blank_] Бланк все сделать в худшем виде!"
-msgstr ""
+msgstr "[_blank_] ¡Blunk hacer todo de la peor manera posible!"
 
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:57 #-#-# translate crowdin giveAlchemyForBlank_f5eb8118:
 msgid "[_cedrick_] ( Осталось только дождаться фотографий.. Надеюсь брат Найджела и в правду настолько плох, как говорила о нем мать Тарани.)"
-msgstr ""
+msgstr "[_cedrick_] ( Solo tengo que esperar a las fotos. Espero que el hermano de Nigel sea realmente tan malo como dijo la madre de Taranee)"
 
