@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-24 02:17\n"
+"PO-Revision-Date: 2023-04-24 22:37\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -682,7 +682,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:513 #-#-# translate crowdin defeat_morpion_king_fcb466ff:
 msgid "[_cedrick_] Миранда?"
-msgstr ""
+msgstr "[_cedrick_] ¿Miranda?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:514 #-#-# translate crowdin defeat_morpion_king_bbe01a74:
 msgid "[_miranda_] Я с тобой, Седрик.. Я всегда буду на твоей стороне.."
