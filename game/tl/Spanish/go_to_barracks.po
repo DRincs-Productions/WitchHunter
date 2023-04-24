@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-22 21:59\n"
+"PO-Revision-Date: 2023-04-24 03:12\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/singles/go_to_barracks.rpy:6 #-#-# translate crowdin go_to_barracks_1d604acb:
 msgid "[_raythor_] Оу! Вы только посмотрите... Кто же к нам пожаловал... Какая честь, сам лорд Седрик!"
@@ -34,5 +34,5 @@ msgstr "[_raythor_] ¡Por cierto! Si las cosas se ponen realmente mal para ti, p
 
 # game/scripts/quests/singles/go_to_barracks.rpy:11 #-#-# translate crowdin go_to_barracks_5ba7e34e:
 msgid "[_raythor_] Нашивки тоже сойдут..."
-msgstr ""
+msgstr "[_raythor_] Las insignias también sirven..."
 
