@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-24 03:12\n"
+"PO-Revision-Date: 2023-04-24 04:10\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:5 #-#-# translate crowdin take_elyon_home_b1056ea5:
 msgid "[_elion_] Рик, слушай.. Не мог бы ты меня сегодня проводить до дома?"
@@ -150,65 +150,65 @@ msgstr "[_eleanor_] ¿Y luego qué pasó?"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:84 #-#-# translate crowdin take_elyon_home_c506841f:
 msgid "[_cedrick_] А потом в наш бар часто стали заваливаться незваные гости, вот босс и сказал мне с этим разбираться. Он знал, что хоть я и не внушаю большой угрозы, но страшен в гневе"
-msgstr ""
+msgstr "[_cedrick_] Entonces empezaron a venir invitados no deseados al bar, así que el jefe me dijo que me ocupara de ello. Sabía que no era una muy amenazante, pero daba miedo cuando me enfadaba"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:85 #-#-# translate crowdin take_elyon_home_f012a296:
 msgid "[_thomas_] Даа, Рик, а ты полон сюрпризов"
-msgstr ""
+msgstr "[_thomas_] Sí, Rick, estás lleno de sorpresas"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:86 #-#-# translate crowdin take_elyon_home_efd1a30a:
 msgid "[_eleanor_] Пф, раз твой босс такой умный, пусть лучше сам бы и разбирался с этими двумя пьяными байкерами"
-msgstr ""
+msgstr "[_eleanor_] Pfft, si tu jefe era tan inteligente, debió lidiar con esos dos motociclistas borrachos él mismo"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:87 #-#-# translate crowdin take_elyon_home_a1d77a15:
 msgid "[_cedrick_] Как ни странно, они потом стали работать там вышибалами вместо меня, ахах.."
-msgstr ""
+msgstr "[_cedrick_] Curiosamente, luego empezaron a trabajar allí como porteros en mi lugar, jaja.."
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:88 #-#-# translate crowdin take_elyon_home_37c50551:
 msgid "[_elion_] А ты что?"
-msgstr ""
+msgstr "[_elion_] ¿Y tú?"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:89 #-#-# translate crowdin take_elyon_home_287497a2:
 msgid "[_cedrick_] А я.. Собрал денег, сколько осталось, и перебрался к вам, купил книжный магазинчик на то, что там заработал"
-msgstr ""
+msgstr "[_cedrick_] Yo... Recogí el dinero que me quedaba y me mudé aquí, compré la librería con lo que gané allí"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:90 #-#-# translate crowdin take_elyon_home_44404b5e:
 msgid "[_thomas_] Вот это история.. А почему ты в итоге уволился из того бара?"
-msgstr ""
+msgstr "[_thomas_] Menuda historia. ¿Por qué acabaste dejando ese bar?"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:91 #-#-# translate crowdin take_elyon_home_de8e090d:
 msgid "[_cedrick_] Хах, это я, пожалуй, расскажу в следующий раз. Уже поздно, мне пора домой"
-msgstr ""
+msgstr "[_cedrick_] Huh, probablemente te lo diré la próxima vez. Es tarde, tengo que irme a casa"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:92 #-#-# translate crowdin take_elyon_home_533e197b:
 msgid "[_eleanor_] Ох, точно, так быстро пролетело время"
-msgstr ""
+msgstr "[_eleanor_] Oh, es cierto, el tiempo ha pasado volando"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:93 #-#-# translate crowdin take_elyon_home_65c981b2:
 msgid "[_elion_] Рик, почему ты на работе или в школе не рассказываешь такие интересные истории?!"
-msgstr ""
+msgstr "[_elion_] Rick, ¡¿por qué no cuentas historias tan interesantes en el trabajo o en la escuela?!"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:94 #-#-# translate crowdin take_elyon_home_c4ad6ac6:
 msgid "[_cedrick_] Ахах, всему свое время, Элион. Рано или поздно, я все тебе расскажу, ты будешь поражена.."
-msgstr ""
+msgstr "[_cedrick_] Ahhhh, todo a su tiempo, Elyon. Tarde o temprano, te lo contaré todo, te sorprenderás.."
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:95 #-#-# translate crowdin take_elyon_home_77e16937:
 msgid "[_elion_] Скорее бы.."
-msgstr ""
+msgstr "[_elion_] No puedo esperar.."
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:98 #-#-# translate crowdin take_elyon_home_c24afab7:
 msgid "[_cedrick_] Да, скорее бы... Ну, я пойду, можете не провожать"
-msgstr ""
+msgstr "[_cedrick_] Sí, ojalá pudiera... Bueno, seguiré mi camino, no tienes que despedirme"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:100 #-#-# translate crowdin take_elyon_home_fd54c095:
 msgid "[_thomas_] До скорого, Рик!"
-msgstr ""
+msgstr "[_thomas_] ¡Hasta pronto, Rick!"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:101 #-#-# translate crowdin take_elyon_home_3c31c1e0:
 msgid "[_eleanor_] Рады были повидать"
-msgstr ""
+msgstr "[_eleanor_] Me alegro de verte"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:102 #-#-# translate crowdin take_elyon_home_d1335afa:
 msgid "[_elion_] До завтра, Рик!"
-msgstr ""
+msgstr "[_elion_] ¡Hasta mañana, Rick!"
 
