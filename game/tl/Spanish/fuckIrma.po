@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-23 16:26\n"
+"PO-Revision-Date: 2023-04-24 02:17\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/irma/fuckIrma.rpy:13 #-#-# translate crowdin fuckIrma_df80b5ca:
 msgid "[_irma_] Профессор Хоффман! Здравствуйте, я пришла помочь.."
@@ -402,7 +402,7 @@ msgstr ""
 
 # game/scripts/quests/irma/fuckIrma.rpy:283 #-#-# translate crowdin fuckIrma_49316299:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/irma/fuckIrma.rpy:286 #-#-# translate crowdin fuckIrma_be1044d0:
 msgid "[_cedrick_] А ты молодец... можешь ведь, если захочешь.."
@@ -494,11 +494,11 @@ msgstr ""
 
 # game/scripts/quests/irma/fuckIrma.rpy:330 #-#-# translate crowdin fuckIrma_49316299_1:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/irma/fuckIrma.rpy:333 #-#-# translate crowdin fuckIrma_49316299_2:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/irma/fuckIrma.rpy:336 #-#-# translate crowdin fuckIrma_8b2fc740:
 msgid "[_cedrick_] Ох.. я почти.."
