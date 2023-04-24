@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:36\n"
+"PO-Revision-Date: 2023-04-24 02:17\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:8 #-#-# translate crowdin crush_irma_and_taranee_96c6aca9:
 msgid "[_tarani_] Н-нет, стой.. Как же.. Я не могла проиграть.. Ч-черт, ноги не слушаются.. Я слишком слаба.."
@@ -414,7 +414,7 @@ msgstr ""
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:197 #-#-# translate crowdin crush_irma_and_taranee_49316299:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:198 #-#-# translate crowdin crush_irma_and_taranee_52a1e641:
 msgid "[_cedrick_] (Стоп.. А чего это я.. Пытаюсь тут выкрутиться.. Юлю и оправдываюсь.. Черт, в прошлом я бы так и поступил, но сейчас.. Хватит с меня.)"
@@ -478,7 +478,7 @@ msgstr ""
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:230 #-#-# translate crowdin crush_irma_and_taranee_49316299_1:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:232 #-#-# translate crowdin crush_irma_and_taranee_83e74c79:
 msgid "[_will_] Это уже слишком давно сидит в моей голове.. Я.. я слишком долго хочу этого.."
@@ -566,7 +566,7 @@ msgstr ""
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:266 #-#-# translate crowdin crush_irma_and_taranee_49316299_2:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:267 #-#-# translate crowdin crush_irma_and_taranee_ef4f57f7:
 msgid "[_cedrick_] (Интересно, до каких признаний она еще дойдет, если я продолжу давить на нее молчанием?)"
@@ -926,7 +926,7 @@ msgstr ""
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:464 #-#-# translate crowdin crush_irma_and_taranee_49316299_3:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:465 #-#-# translate crowdin crush_irma_and_taranee_bcd124bf_3:
 msgid "[_will_] ..."
