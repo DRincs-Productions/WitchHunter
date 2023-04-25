@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:36\n"
+"PO-Revision-Date: 2023-04-25 17:24\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon.rpy:5 #-#-# translate crowdin visit_cornelia_in_the_dungeon_8d7672ed:
 msgid "[_cedrick_] Ну как ты здесь? Нравится новая квартира?"
-msgstr ""
+msgstr "[_cedrick_] ¿Cómo te va por aquí? ¿Te gusta tu nuevo apartamento?"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon.rpy:9 #-#-# translate crowdin visit_cornelia_in_the_dungeon_be3557b7:
 msgid "[_cornelia_] П-пошел ты! Думаешь я прощу тебя после всего, что ты сделал. Особенно после того, как отдал меня той твари с щупальцами"
-msgstr ""
+msgstr "[_cornelia_] ¡Vete a la mierda! ¿Crees que te perdonaría después de todo lo que has hecho? Especialmente después de que me entregaste a esa cosa con tentáculos"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon.rpy:13 #-#-# translate crowdin visit_cornelia_in_the_dungeon_602ef0a6:
 msgid "[_cedrick_] Ох, все еще не можешь забыть? Но ты немного ошиблась, дорогая. Я сюда не за прощением пришел"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon.rpy:26 #-#-# translate crowdin visit_cornelia_in_the_dungeon_cf290901:
 msgid "[_cornelia_] ......."
-msgstr ""
+msgstr "[_cornelia_] ......."
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon.rpy:27 #-#-# translate crowdin visit_cornelia_in_the_dungeon_f927d798:
 msgid "[_cedrick_] Еще раз. Ты теперь моя пленница и я буду делать с тобой все, что захочу, ты меня поняла?"
