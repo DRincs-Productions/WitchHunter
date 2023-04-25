@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:35\n"
+"PO-Revision-Date: 2023-04-25 02:51\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/interface/phone/labels/phone_cannot_call.rpy:2 #-#-# translate crowdin phone_cannot_call_4a74e457:
 msgid "[_cedrick_] Не подходящее время чтобы кому-то щас звонить"
-msgstr ""
+msgstr "[_cedrick_] No es un buen momento para llamar a nadie ahora mismo"
 
