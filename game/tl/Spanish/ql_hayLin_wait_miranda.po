@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-25 02:51\n"
+"PO-Revision-Date: 2023-04-25 03:55\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:6 #-#-# translate crowdin ql_hayLin_wait_miranda_6140d12b:
 msgid "[_miranda_] Седрик..."
@@ -178,21 +178,21 @@ msgstr "[_cedrick_] Oh... Vamos, no hagamos esperar a Phobos"
 
 # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:132 #-#-# translate crowdin ql_hayLin_wait_miranda_b75cc0a7:
 msgid "[_miranda_] ..Седрик?"
-msgstr ""
+msgstr "[_miranda_] ..¿Cedric?"
 
 # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:136 #-#-# translate crowdin ql_hayLin_wait_miranda_dc7cf739:
 msgid "[_cedrick_] М?"
-msgstr ""
+msgstr "[_cedrick_] ¿Umm?"
 
 # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:140 #-#-# translate crowdin ql_hayLin_wait_miranda_e7762d8d:
 msgid "[_miranda_] Не забывай все, что между нами было. Ты можешь спать со Стражницами сколько угодно, но..."
-msgstr ""
+msgstr "[_miranda_] No olvides todo lo que pasó entre nosotros. Puedes dormir con las guardianas todo lo que quieras, pero..."
 
 # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:144 #-#-# translate crowdin ql_hayLin_wait_miranda_f8abc6c5:
 msgid "[_cedrick_] ...Но это не сравнится с тем, что было между нами? Я знаю, Миранда, я же сплю с тобой уже ни одну сотню лет"
-msgstr ""
+msgstr "[_cedrick_] ...¿pero no se compara con lo que tuvimos? Lo sé, Miranda, he estado durmiendo contigo durante cien años"
 
 # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:148 #-#-# translate crowdin ql_hayLin_wait_miranda_7c084085:
 msgid "[_miranda_] Хах, ну хорошо, змей искуситель.. Пойдем, мне еще надо привести себя в порядок"
-msgstr ""
+msgstr "[_miranda_] Huh, bueno, serpiente seductora... Vamos, todavía tengo que limpiarme"
 
