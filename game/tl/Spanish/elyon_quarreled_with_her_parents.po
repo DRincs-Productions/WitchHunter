@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-25 17:24\n"
+"PO-Revision-Date: 2023-04-25 18:33\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:4 #-#-# translate crowdin elyon_quarreled_with_her_parents_9522b460:
 msgid "[_cedrick_] Элион, что ты здесь делаешь? Уже довольно поздно..."
@@ -106,23 +106,23 @@ msgstr "[_cedrick_] (Su ilusión es una magia bastante débil. Creo que se dispe
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:54 #-#-# translate crowdin elyon_quarreled_with_her_parents_65349eef:
 msgid "[_cedrick_] (Хм, поняв их натуру, я понимаю, что они решат сбежать, оставив Элион. Они трусливы, но действительно любят ее)"
-msgstr ""
+msgstr "[_cedrick_] (Hm, habiendo comprendido su naturaleza, me doy cuenta de que decidirán huir, dejando atrás a Elyon. Son cobardes, pero realmente la aman)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:55 #-#-# translate crowdin elyon_quarreled_with_her_parents_97484cf7:
 msgid "[_cedrick_] (Сбежав, они будут надеяться, что люди Фобоса последуют за ними, думая, что Элион сбежит вместе с ними. Пустят их по ложному следу, а сами оставят ее на Земле)"
-msgstr ""
+msgstr "[_cedrick_] (Al huir, esperarán que los sirvientes de Phobos los sigan, pensando que Elyon huirá con ellos. Los guiará a una pista falsa y la dejarán atrás en la Tierra)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:56 #-#-# translate crowdin elyon_quarreled_with_her_parents_1b69cf55:
 msgid "[_cedrick_] (И оставят они ее у того, кому она больше всего доверяет. Тому, кто ей ближе всех в этом городе, кто сможет ее защитить. А именно – мне)"
-msgstr ""
+msgstr "[_cedrick_] (Y la dejarán con la persona en la que más confían. La más cercana a ella en esta ciudad, la que puede protegerla. A si es, yo)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:57 #-#-# translate crowdin elyon_quarreled_with_her_parents_0fb586fb:
 msgid "[_cedrick_] (Я достаточно долго хорошо притворялся и изучал их, все должно сработать. Но перед этим, мне стоит скрыть свое лицо, чтобы они случайно меня не узнали..)"
-msgstr ""
+msgstr "[_cedrick_] (He estado fingiendo y estudiándolos bastante bien, debería funcionar. Pero antes debería ocultar mi cara para que no me reconozcan accidentalmente...)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:59 #-#-# translate crowdin elyon_quarreled_with_her_parents_61ecaa91:
 msgid "[_centered_] {size=37}ЭТОЙ ЖЕ НОЧЬЮ В ДОМЕ БРАУНОВ{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37} ESA NOCHE EN LA CASA BROWN{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:64 #-#-# translate crowdin elyon_quarreled_with_her_parents_67db9e64:
 msgid "[_cedrick_] (Все готово, нужно лишь вломиться так, чтобы они услышали, и, когда они спустятся, бросить звезду возле их ног. Дальше, магия спадет сама)"
@@ -426,29 +426,29 @@ msgstr ""
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:322 #-#-# translate crowdin elyon_quarreled_with_her_parents_700f3ea0:
 msgid "[_cedrick_] (К черту Браунов, у них была возможность рассказать Элион всю правду, но вместо этого они продолжали лгать Элион столько лет)"
-msgstr ""
+msgstr "[_cedrick_] (Al diablo con los Brown, tuvieron la oportunidad de decirle a Elyon toda la verdad, pero en lugar de eso siguieron mintiéndole durante tantos años)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:323 #-#-# translate crowdin elyon_quarreled_with_her_parents_0b850633:
 msgid "[_cedrick_] (Теперь эта трусость сыграет с ними злую шутку. Им просто не повезло встать на моем пути и на пути Князя Фобоса. Брауны – препятствие, которое нужно устранить)"
-msgstr ""
+msgstr "[_cedrick_] (Ahora esa cobardía les jugará una mala pasada. Solo tienen la mala suerte de interponerse en mi camino y en el del príncipe Phobos. Los Brown son un obstáculo a eliminar)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:324 #-#-# translate crowdin elyon_quarreled_with_her_parents_0da682e4:
 msgid "[_cedrick_] (Хм.. Можно устроить автокатастрофу, когда они поедут на машине в командировку. Но сам я не могу так подставляться...)"
-msgstr ""
+msgstr "[_cedrick_] (Hmmm... Podrían tener un accidente de coche cuando están conduciendo en un viaje de negocios. Pero no puedo hacerlo yo mismo...)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:325 #-#-# translate crowdin elyon_quarreled_with_her_parents_54cf8e5f:
 msgid "[_cedrick_] (Обратиться к Бланку?.. Нет, этот вонючка слишком тесно связан со Стражницами, может взболтнуть лишнего.. Но если не Бланк, тогда..)"
-msgstr ""
+msgstr "[_cedrick_] (¿Ir con Blunk...? No, ese apestoso es demasiado amigo de las Guardianas como para contar con él... Pero si no es Blunk, entonces...)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:326 #-#-# translate crowdin elyon_quarreled_with_her_parents_21aa3267:
 msgid "[_cedrick_] (Точно, был же еще один уродец, который недавно приходил к Фобосу.. Джинк, кажется. Нужно поискать его в Таверне)"
-msgstr ""
+msgstr "[_cedrick_] (Eso es, hubo otro bicho que vino a Phobos hace poco... Jink, creo. Debería buscarlo en la Taberna)"
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:47
 msgid "Открыть их истинную сущность"
-msgstr ""
+msgstr "Revelar su verdadera naturaleza"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:47
 msgid "Устранить"
-msgstr ""
+msgstr "Eliminar"
 
