@@ -10,59 +10,59 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:37\n"
+"PO-Revision-Date: 2023-04-25 19:43\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:6 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_d6feab25:
 msgid "[_haylin_] Эй, Рик! Пришел помочь?"
-msgstr ""
+msgstr "[_haylin_] ¡Eh, Rick! ¿Vienes a ayudar?"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:10 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_c53dbfd1:
 msgid "[_cedrick_] Да, вроде того, что мне нужно делать?"
-msgstr ""
+msgstr "[_cedrick_] Sí, ¿qué se supone que debo hacer?"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:14 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_526f0001:
 msgid "[_haylin_]  Эм... Ты умеешь готовить?"
-msgstr ""
+msgstr "[_haylin_]  Um... ¿Sabes cocinar?"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:15 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_1a4876e5:
 msgid "[_cedrick_] Ну, если честно, то не особо…"
-msgstr ""
+msgstr "[_cedrick_] Bueno, para ser honesto, no realmente…"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:19 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_05d0a005:
 msgid "[_haylin_] Ну ладно, ничего страшного. Можешь поработать официантом? Просто берешь заказы у посетителей и идешь с ними на кухню..."
-msgstr ""
+msgstr "[_haylin_] Está bien, no es gran cosa. ¿Puedes trabajar de camarero? Solamente tomas los pedidos de los clientes y vas con ellos a la cocina..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:20 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_1bfa61b9:
 msgid "[_cedrick_] Думаю, что я смогу с этим справиться..."
-msgstr ""
+msgstr "[_cedrick_] Creo que puedo manejarlo..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:24 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_628c343c:
 msgid "[_haylin_] Я так тебе благодарна!"
-msgstr ""
+msgstr "[_haylin_] ¡Te lo agradezco mucho!"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:25 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_0b883b7c:
 msgid "[_cedrick_] Не стоит. Что ж... Я могу приступать, босс?"
-msgstr ""
+msgstr "[_cedrick_] No deberías. Bueno... ¿Puedo empezar, jefe?"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:29 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_205a57f0:
 msgid "[_haylin_] Да, конечно!"
-msgstr ""
+msgstr "[_haylin_] ¡Sí, por supuesto!"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:33 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_f3af1b6c:
 msgid "[_cedrick_] Мне, вроде, нужна какая-то форма или вроде того?"
-msgstr ""
+msgstr "[_cedrick_] ¿Necesito algún tipo de uniforme o algo así?"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:38 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_69b03436:
 msgid "[_haylin_] Нет, ты и так выглядишь довольно деловито..."
-msgstr ""
+msgstr "[_haylin_] No, te ves bastante formal..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:43 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_ccbf14dd:
 msgid "[_haylin_] Ну а меню, я думаю, ты уже успел изучить. Можешь советовать посетителям те блюда, которые тебе больше понравилось..."
-msgstr ""
+msgstr "[_haylin_] Y creo que ya has estudiado el menú. Puedes aconsejar a los clientes sobre los platos que más te gustan..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:47 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_6a648b41:
 msgid "[_cedrick_] Да, вроде того..."
-msgstr ""
+msgstr "[_cedrick_] Sí, algo así..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:50 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_f7f35501:
 msgid "Седрик работает в ресторане Серебряный дракон. Не все идет так гладко, как хотелось бы, но Хай Лин благодарна за вашу помощь…"
