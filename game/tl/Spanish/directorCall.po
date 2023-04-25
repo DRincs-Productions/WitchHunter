@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:37\n"
+"PO-Revision-Date: 2023-04-25 16:23\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/irma/directorCall.rpy:9 #-#-# translate crowdin directorCall_d69bf113:
 msgid "[_martin_] Профессор Хоффман?"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/scripts/quests/irma/directorCall.rpy:10 #-#-# translate crowdin directorCall_fa65483d:
 msgid "[_cedrick_] Да?"
-msgstr ""
+msgstr "[_cedrick_] ¿Sí?"
 
 # game/scripts/quests/irma/directorCall.rpy:11 #-#-# translate crowdin directorCall_a12b6508:
 msgid "[_martin_] Миссис Никербокер просит вас пройти к ней в кабинет."
