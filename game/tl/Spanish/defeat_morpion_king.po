@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-24 22:37\n"
+"PO-Revision-Date: 2023-04-25 17:24\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -1022,7 +1022,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:663 #-#-# translate crowdin defeat_morpion_king_6f47266e:
 msgid "[_cornelia_] ...."
-msgstr ""
+msgstr "[_cornelia_] ...."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:664 #-#-# translate crowdin defeat_morpion_king_4817b1d4:
 msgid "[_cedrick_] Я стану властителем всего Меридиана и ни ты.. Ни другие стражницы.. Ни Фобос.. Вы все не сможете меня остановить!"
