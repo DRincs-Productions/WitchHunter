@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-24 22:37\n"
+"PO-Revision-Date: 2023-04-25 02:51\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/phobosAskKillTwoMobs/mirandaCallsCedrickToPhobos.rpy:8 #-#-# translate crowdin mirandaCallsCedrickToPhobos_a20cefa7:
 msgid "..."
@@ -22,7 +22,7 @@ msgstr "[_cedrick_] ¿Miranda?"
 
 # game/scripts/quests/phobosAskKillTwoMobs/mirandaCallsCedrickToPhobos.rpy:12 #-#-# translate crowdin mirandaCallsCedrickToPhobos_82e0c14b:
 msgid "[_cedrick_] Что ты здесь делаешь?"
-msgstr ""
+msgstr "[_cedrick_] ¿Qué haces aquí?"
 
 # game/scripts/quests/phobosAskKillTwoMobs/mirandaCallsCedrickToPhobos.rpy:13 #-#-# translate crowdin mirandaCallsCedrickToPhobos_25713c13:
 msgid "[_miranda_] Князь Фобос срочно вызывает тебя!"
