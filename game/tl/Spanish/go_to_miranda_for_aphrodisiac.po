@@ -10,89 +10,89 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:36\n"
+"PO-Revision-Date: 2023-04-25 20:38\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:5 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_008d63ae:
 msgid "[_cedrick_] Миранда, я снова на счет поручения Фобоса"
-msgstr ""
+msgstr "[_cedrick_] Miranda, estoy de vuelta por orden de Phobos"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:9 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_0c23937f:
 msgid "[_miranda_] ..И что на этот раз?"
-msgstr ""
+msgstr "[_miranda_] .. ¿Y qué es esta vez?"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:13 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_4523c624:
 msgid "[_cedrick_] Нужно создать зелье для его сестры, чтобы повысить ее развратность.."
-msgstr ""
+msgstr "[_cedrick_] Necesitamos crear una poción para que su hermana aumente su depravación.."
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:17 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_8d0a2c80:
 msgid "[_miranda_] Ты серьезно? Фобос поручил тебе трахнуть его сестру?"
-msgstr ""
+msgstr "[_miranda_] ¿Hablas en serio? ¿Phobos te tiene tirándote a su hermana?"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:22 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_f930638e:
 msgid "[_cedrick_] Ну, вообще-то, да.. Но зелье мне нужно не совсем для этого.. Не столь важно, ты поможешь?"
-msgstr ""
+msgstr "[_cedrick_] Bueno, en realidad, sí... Pero eso no es realmente para lo que necesito la poción. No es tan importante. ¿Me ayudarás?"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:26 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_a780de72:
 msgid "[_miranda_] Проблема в том, что, раз она сестра Фобоса, то уровень ее магической устойчивости должен быть крайне высок"
-msgstr ""
+msgstr "[_miranda_] El problema es que como es hermana de Phobos, su nivel de estabilidad mágica debe ser extremadamente alto"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:27 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_c39c5b0d:
 msgid "[_miranda_] А это значит, что она не восприимчива к большинству магических зелий, как и ее брат. Есть высокоуровневые зелья, способные повлиять на Фобоса и ему подобных, но.."
-msgstr ""
+msgstr "[_miranda_] Lo que significa que no es susceptible a la mayoría de las pociones mágicas, como su hermano. Hay pociones de alto nivel que pueden afectar a Phobos y los suyos, pero.."
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:31 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_39cd6181:
 msgid "[_cedrick_] ..Но?"
-msgstr ""
+msgstr "[_cedrick_] ..¿Pero?"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:35 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_17c943e7:
 msgid "[_miranda_] Но, у меня попросту нет таких знаний.. Высокоуровневые зелья, как и высокоуровневые заклинания, требуют больших познаний и навыков в магии.."
-msgstr ""
+msgstr "[_miranda_] Pero, simplemente no tengo ese conocimiento... Las pociones de alto nivel, como los hechizos de alto nivel, requieren más conocimiento y habilidad en magia.."
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:36 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_68089734:
 msgid "[_miranda_] А я в первую очередь специализируюсь на травах и натуральных ингредиентах, в зельях с применением магии я довольно слаба.. Не думаю, что смогу приготовить хоть что-то, что повлияет на сестру Фобоса.."
-msgstr ""
+msgstr "[_miranda_] Y me especializo principalmente en hierbas e ingredientes naturales, soy bastante débil en pociones que usan magia... No creo que pueda hacer nada que afecte a la hermana de Phobos.."
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:40 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_49a202e4:
 msgid "[_cedrick_] Вот черт, этого я не предвидел.. Значит, в случае с Элион зелья мне не помогут.."
-msgstr ""
+msgstr "[_cedrick_] Mierda, no me lo esperaba. Así que en el caso de Elyon, las pociones no me ayudarán.."
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:41 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_d84509f6:
 msgid "[_cedrick_] ..Подожди, а что если…"
-msgstr ""
+msgstr "[_cedrick_] .. Espera, ¿y si…"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:45 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_1dc009a0:
 msgid "[_miranda_] Ммм?"
-msgstr ""
+msgstr "[_miranda_] ¿Hmm?"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:46 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_06871c31:
 msgid "[_cedrick_] Ее магическая защита велика, но биологически она же остается все таким же человеком, верно?"
-msgstr ""
+msgstr "[_cedrick_] Sus defensas mágicas son geniales, pero biológicamente sigue siendo una persona, ¿no?"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:47 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_793ff692:
 msgid "[_miranda_] Ну, если она не родилась магическим монстром, как мы с тобой, то в целом да"
-msgstr ""
+msgstr "[_miranda_] Bueno, a menos que haya nacido como un monstruo mágico como tú y yo, entonces sí"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:48 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_4cde971e:
 msgid "[_cedrick_] Так.. А значит ее тело уязвимо так же, как человеческое.."
-msgstr ""
+msgstr "[_cedrick_] Lo que significa que su cuerpo es tan vulnerable como el de un humano.."
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:49 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_b9b15ed3:
 msgid "[_miranda_] …Ты собираешься ее убить что ли?"
-msgstr ""
+msgstr "[_miranda_] …¿Vas a matarla o qué?"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:50 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_37ac6183:
 msgid "[_cedrick_] Черт, нет… На Земле уже давно есть препараты, влияющие на половую активность людей, безо всякой магии.. Это должно сработать"
-msgstr ""
+msgstr "[_cedrick_] Diablos, no… Hace mucho tiempo que existen drogas en la Tierra que afectan la actividad sexual de las personas sin magia... Eso debería bastar"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:54 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_d2228141:
 msgid "[_miranda_] Хм, скорее всего.."
-msgstr ""
+msgstr "[_miranda_] Hmm, es lo más probable.."
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:58 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_02e80368:
 msgid "[_cedrick_] Отлично, тогда я пойду. Спасибо за помощь"
-msgstr ""
+msgstr "[_cedrick_] Genial, me voy entonces. Gracias por tu ayuda"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:62 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_3b54079b:
 msgid "[_miranda_] Да.. Не за что…"
-msgstr ""
+msgstr "[_miranda_] Si.. De nada…"
 
