@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-25 16:22\n"
+"PO-Revision-Date: 2023-04-25 20:38\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:5 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d54f4eca:
 msgid "[_cedrick_] Элион, ты ведь не отправляешься школьную поездку?"
@@ -422,7 +422,7 @@ msgstr "[_cedrick_] (Maldita sea, tanto pensar en las chicas de la tierra. Ya lo
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:277 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_88163559:
 msgid "[_cedrick_] Ох..."
-msgstr ""
+msgstr "[_cedrick_] Oh..."
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:278 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_9f94ad19:
 msgid "[_cedrick_] Я думал тебе нравится мэтт.."
