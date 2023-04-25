@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:34\n"
+"PO-Revision-Date: 2023-04-25 01:44\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:3
 msgid "Подготовка к нападению на запретный город"
-msgstr ""
+msgstr "Preparación de un ataque a la Ciudad Prohibida"
 
 # game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:18
 msgid "Поговорить с князем Фобосом"
-msgstr ""
+msgstr "Habla con el Príncipe Phobos"
 
 # game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:18
 msgid "Победить Песчаного демона"
-msgstr ""
+msgstr "Derrota al Demonio de Arena"
 
 # game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:18
 msgid "Победить Гаргойла"
-msgstr ""
+msgstr "Derrota a gargoyle"
 
 # game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:18
 msgid "Сообщить фобосу о том что его поручение выполнено"
-msgstr ""
+msgstr "Informar a Phobos de que su tarea ha sido completada"
 
