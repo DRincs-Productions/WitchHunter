@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-20 06:53\n"
+"PO-Revision-Date: 2023-04-25 16:22\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:7 #-#-# translate crowdin corneliaCallToSitWithLilian_a20cefa7:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:10 #-#-# translate crowdin corneliaCallToSitWithLilian_fa65483d:
 msgid "[_cedrick_] Да?"
-msgstr ""
+msgstr "[_cedrick_] ¿Sí?"
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:11 #-#-# translate crowdin corneliaCallToSitWithLilian_97745f2c:
 msgid "[_cornelia_] Рик, это Корнелия."
@@ -34,5 +34,5 @@ msgstr "[_cedrick_] Ok, no hay problema, allí estaré."
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:14 #-#-# translate crowdin corneliaCallToSitWithLilian_a20cefa7_1:
 msgid "..."
-msgstr "b sdfdfdfdfdfdf"
+msgstr "..."
 
