@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-25 02:51\n"
+"PO-Revision-Date: 2023-04-25 17:24\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:2 #-#-# translate crowdin kidnapLilianToMeridianCastle_79d6a34e:
 msgid "[_cedrick_] (Да к черту. Я воспользуюсь любой возможностью, чтобы сокрушить моральный дух стражниц)"
@@ -178,7 +178,7 @@ msgstr "[_cedrick_] ¿¡Jura usted, Cornelia Hale, guardar en secreto adónde ha
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:110 #-#-# translate crowdin kidnapLilianToMeridianCastle_597c923c:
 msgid "[_cornelia_] Клянусь..."
-msgstr ""
+msgstr "[_cornelia_] Lo juro..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:111 #-#-# translate crowdin kidnapLilianToMeridianCastle_f73ae76a:
 msgid "[_cedrick_] Клянешься ли ты сохранить мою тайну и..."
@@ -338,7 +338,7 @@ msgstr ".."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:168 #-#-# translate crowdin kidnapLilianToMeridianCastle_ef423857:
 msgid "[_caleb_] Корнелия, это я, Калеб!"
-msgstr ""
+msgstr "[_caleb_] ¡Cornelia, soy yo, Caleb!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:169 #-#-# translate crowdin kidnapLilianToMeridianCastle_97e056c0:
 msgid "[_caleb_] Я знаю, что ты дома! У тебя горит свет, открывай..."
