@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:34\n"
+"PO-Revision-Date: 2023-04-25 22:36\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestElyonDepravityProgress.rpy:3
 msgid "Развратность Элион"
-msgstr ""
+msgstr "La depravación de Elyon"
 
 # game/scripts/core/quests/QuestElyonDepravityProgress.rpy:9
 msgid "Повысить развратность Элион до 7"
-msgstr ""
+msgstr "Aumenta la depravación de Elyon a 7"
 
