@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-25 16:23\n"
+"PO-Revision-Date: 2023-04-26 07:51\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/irma/directorCall.rpy:9 #-#-# translate crowdin directorCall_d69bf113:
 msgid "[_martin_] Профессор Хоффман?"
-msgstr ""
+msgstr "[_martin_] ¿Profesor Hoffman?"
 
 # game/scripts/quests/irma/directorCall.rpy:10 #-#-# translate crowdin directorCall_fa65483d:
 msgid "[_cedrick_] Да?"
@@ -22,39 +22,39 @@ msgstr "[_cedrick_] ¿Sí?"
 
 # game/scripts/quests/irma/directorCall.rpy:11 #-#-# translate crowdin directorCall_a12b6508:
 msgid "[_martin_] Миссис Никербокер просит вас пройти к ней в кабинет."
-msgstr ""
+msgstr "[_martin_] A la Sra. Knickerbocker le gustaría verlo en su oficina."
 
 # game/scripts/quests/irma/directorCall.rpy:12 #-#-# translate crowdin directorCall_356533ba:
 msgid "[_cedrick_] (Хм.. Интересно, что ей понадобилось от меня..)"
-msgstr ""
+msgstr "[_cedrick_] (Hmm... Me pregunto qué necesita de mí...)"
 
 # game/scripts/quests/irma/directorCall.rpy:13 #-#-# translate crowdin directorCall_78605733:
 msgid "[_cedrick_] Хорошо, спасибо"
-msgstr ""
+msgstr "[_cedrick_] Ok, gracias"
 
 # game/scripts/quests/irma/directorCall.rpy:14 #-#-# translate crowdin directorCall_939675ef:
 msgid "[_martin_] ..."
-msgstr ""
+msgstr "[_martin_] ..."
 
 # game/scripts/quests/irma/directorCall.rpy:22 #-#-# translate crowdin directorCall_ad958741:
 msgid "[_cedrick_] Вы хотели меня видеть?"
-msgstr ""
+msgstr "[_cedrick_] ¿Quería verme?"
 
 # game/scripts/quests/irma/directorCall.rpy:26 #-#-# translate crowdin directorCall_5a0b2c72:
 msgid "[_directris_] Профессор Хоффман,кхм... Рик.."
-msgstr ""
+msgstr "[_directris_] Profesor Hoffman, um... Rick.."
 
 # game/scripts/quests/irma/directorCall.rpy:27 #-#-# translate crowdin directorCall_0047a6fc:
 msgid "[_directris_] Как вы знаете, школа Шефилд не только приобщает учеников к знанию и культуре, но и также прививает социальную ответственность."
-msgstr ""
+msgstr "[_directris_] Como sabe, la Escuela Sheffield no solo expone a los estudiantes al conocimiento y la cultura, sino que también fomenta la responsabilidad social."
 
 # game/scripts/quests/irma/directorCall.rpy:31 #-#-# translate crowdin directorCall_9d89b1fd:
 msgid "[_cedrick_] Вы хотите зачитать мне лекцию о том, что я не справляюсь со своими обязанностями?"
-msgstr ""
+msgstr "[_cedrick_] ¿Quiere sermonearme sobre cómo no estoy haciendo bien mi trabajo?"
 
 # game/scripts/quests/irma/directorCall.rpy:35 #-#-# translate crowdin directorCall_b7664dd3:
 msgid "[_directris_] Речь не об этом. Не перебивайте меня..."
-msgstr ""
+msgstr "[_directris_] No se trata de eso. No me interrumpas..."
 
 # game/scripts/quests/irma/directorCall.rpy:39 #-#-# translate crowdin directorCall_b4e05e70:
 msgid "[_directris_] Каждый год мы проводим день служения обществу.."
