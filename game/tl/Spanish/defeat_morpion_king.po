@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-26 00:03\n"
+"PO-Revision-Date: 2023-04-26 02:01\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -602,7 +602,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:462 #-#-# translate crowdin defeat_morpion_king_ce627275:
 msgid "[_cedrick_] Миранда.."
-msgstr ""
+msgstr "[_cedrick_] Miranda.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:466 #-#-# translate crowdin defeat_morpion_king_860e025b:
 msgid "[_miranda_] Не перебивай.."
@@ -658,7 +658,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:506 #-#-# translate crowdin defeat_morpion_king_ce627275_1:
 msgid "[_cedrick_] Миранда.."
-msgstr ""
+msgstr "[_cedrick_] Miranda.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:508 #-#-# translate crowdin defeat_morpion_king_b5118f00:
 msgid "[_cedrick_] Я собираюсь свергнуть Фобоса"
@@ -1226,7 +1226,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:781 #-#-# translate crowdin defeat_morpion_king_ce627275_2:
 msgid "[_cedrick_] Миранда.."
-msgstr ""
+msgstr "[_cedrick_] Miranda.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:782 #-#-# translate crowdin defeat_morpion_king_7cb01bc1:
 msgid "[_miranda_] Так же стоит подчеркнуть, что.."
