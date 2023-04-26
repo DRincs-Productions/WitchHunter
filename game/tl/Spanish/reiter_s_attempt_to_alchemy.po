@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-26 01:00\n"
+"PO-Revision-Date: 2023-04-26 02:01\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:8 #-#-# translate crowdin reiter_s_attempt_to_alchemy_a22a88bc:
 msgid "[_cedrick_] (Решил надо мной насмехаться, плебей? Что ж, ни я это начал, Рейтер)"
@@ -622,7 +622,7 @@ msgstr "[_alchemy_] No es que... ¿Realmente me he rebajado a este tipo de...?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:551 #-#-# translate crowdin reiter_s_attempt_to_alchemy_complete_success_ae3e1c47:
 msgid "[_cedrick_] (Ну и дурдом, там ей самое место. А мне пора наведаться к Миранде)"
-msgstr ""
+msgstr "[_cedrick_] (Qué manicomio, es ahí donde debe estar. Ahora debo ir a ver a Miranda)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:553 #-#-# translate crowdin reiter_s_attempt_to_alchemy_complete_success_0fd4d656:
 msgid "......"
@@ -630,149 +630,149 @@ msgstr "......"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:571 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed11_45fb99e5:
 msgid "[_cedrick_] Да как ты смеешь так со мной разговаривать, смерд! Не забывай, кто перед тобой!"
-msgstr ""
+msgstr "[_cedrick_] ¡Cómo te atreves a hablarme así, campesino! ¡No olvides quién está frente a ti!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:572 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed11_4d983b19:
 msgid "[_cedrick_] Я лорд! И не потерплю такого отношения к себе! Я тебя уничтожу! Защищайся!"
-msgstr ""
+msgstr "[_cedrick_] ¡Soy un Lord! ¡No toleraré tal trato! ¡Te destruiré! ¡Defiéndete!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:576 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed11_f3a9fa06:
 msgid "[_raythor_] Воу, смотрю ты совсем забываешься, Седрик. Я конечно хотел тебя спровоцировать, но это уже нападение на главнокомандующего. Стража! Схватите его!"
-msgstr ""
+msgstr "[_raythor_] Vaya, parece que te olvidas de tu lugar, Cedric. Quise provocarte, pero esto es un ataque al comandante en jefe. ¡Guardias! ¡Arréstenlo!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:582 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed11_60744367:
 msgid "[_cedrick_] Жалкий человечишка, ты заплатишь.."
-msgstr ""
+msgstr "[_cedrick_] Pequeño miserable, me las pagarás.."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:595 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed12_0b912abb:
 msgid "[_cedrick_] Если не отдашь ее мне, я расскажу Фобосу, как ты пытался ее изнасиловать"
-msgstr ""
+msgstr "[_cedrick_] Si no me la das, le diré a Phobos cómo intentaste violarla"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:599 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed12_fffef93a:
 msgid "[_raythor_] Хах, решил меня оклеветать, значит? Ты ее сюда всю дорогу голой тащил? Не лукавь, Седрик, ты и сам с ней развлекался"
-msgstr ""
+msgstr "[_raythor_] Ja, ¿intentas calumniarme ahora?, ¿La arrastré desnuda hasta aquí?, No mientas, Cedric, ya te divertiste con ella"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:603 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed12_70931c63:
 msgid "[_raythor_] И знаешь, что? Я сам сообщу об этом Князю Фобосу, посмотрим, как он обрадуется"
-msgstr ""
+msgstr "[_raythor_] ¿Y sabes qué? Se lo diré yo mismo al Príncipe Phobos, a ver lo contento que se pone"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:606 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed12_4e35304b:
 msgid "[_cedrick_] (Чертова крыса, спутал мне все карты!..)"
-msgstr ""
+msgstr "[_cedrick_] (¡Maldita rata, arruinó todas mis jugadas!...)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:616 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed21_f8942d23:
 msgid "[_cedrick_] Милорд, это все часть задания, которое вы сами мне поручили"
-msgstr ""
+msgstr "[_cedrick_] Mi señor, todo esto es parte de la misión que usted mismo me ha dado"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:620 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed21_764815f1:
 msgid "[_phobos_] Что же это значит, я приказал тебе заявиться сюда и притащить мне эту неприкрытую смертную?"
-msgstr ""
+msgstr "[_phobos_] ¿Qué quieres decir con que te ordené venir aquí y traerme a esta mortal desnuda?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:624 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed21_dd4c85a4:
 msgid "[_phobos_] Ты считаешь, что мои поручения настолько нелепы?! Умри, жалкий червь!"
-msgstr ""
+msgstr "[_phobos_] ¡¿Crees que mis recados son tan ridículos?! ¡Muere, gusano desgraciado!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:637 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed22_ba4bd43d:
 msgid "[_cedrick_] Мой князь, я пришел загладить вину перед вами за все мои прошлые ошибки"
-msgstr ""
+msgstr "[_cedrick_] Mi príncipe, he venido a enmendar todos mis errores pasados"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:641 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed22_36b24c18:
 msgid "[_phobos_] И поэтому привел обнаженную девушку, вместо моей сестры?"
-msgstr ""
+msgstr "[_phobos_] ¿Por eso trajiste a una chica desnuda en vez de a mi hermana?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:645 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed22_bdca02ab:
 msgid "[_phobos_] Ты думаешь, на меня сработают такие жалкие приемы?! Исчезни, глупец!"
-msgstr ""
+msgstr "[_phobos_] ¡¿Crees que esos patéticos trucos funcionarán conmigo?! ¡Piérdete, tonto!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:655 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed31_7b1e0eaf:
 msgid "[_cedrick_] Эта прелестная девушка здесь для плотских утех, мой Князь"
-msgstr ""
+msgstr "[_cedrick_] Esta encantadora chica está aquí para su placer carnal, mi Príncipe"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:659 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed31_179ae73c:
 msgid "[_phobos_] Ты думаешь, у меня есть время на подобные глупости?! Не трать мое время, слизняк!"
-msgstr ""
+msgstr "[_phobos_] ¡¿Crees que tengo tiempo para esas tonterías?! ¡No me hagas perder el tiempo, babosa!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:669 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed32_2cbd4b86:
 msgid "[_cedrick_] Я привел ее для того, чтобы вы использовали ее в качестве домашнего питомца, Милорд"
-msgstr ""
+msgstr "[_cedrick_] La traje para que la use como mascota, mi señor"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:673 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed32_b4bc4c48:
 msgid "[_phobos_] Мне не до этих глупых игр, Седрик, мое время и так на исходе. Исчезни с глаз моих!"
-msgstr ""
+msgstr "[_phobos_] No tengo tiempo para estos juegos tontos, Cedric, mi tiempo ya se está acabando. ¡Fuera de mi vista!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:683 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed41_f679e2a1:
 msgid "[_cedrick_] Никак нет, мой князь, это же мое подношение вам, я бы не посмел"
-msgstr ""
+msgstr "[_cedrick_] No, mi príncipe, esta es mi ofrenda para usted, no me atrevería"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:684 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed41_659864c7:
 msgid "[_phobos_] Тогда почему же она голая, Седрик?"
-msgstr ""
+msgstr "[_phobos_] ¿Entonces por qué está desnuda, Cedric?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:688 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed41_aed618cb:
 msgid "[_phobos_] Ты что, решил мне солгать!? Да как ты посмел!"
-msgstr ""
+msgstr "[_phobos_] ¿¡Decidiste mentirme!? ¡Cómo te atreves!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:698 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed42_2589b8d4:
 msgid "[_cedrick_] Всего немного, ну как тут можно было устоять?"
-msgstr ""
+msgstr "[_cedrick_] Solo un poco, ¿cómo podría resistirme?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:699 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed42_c32511d5:
 msgid "[_phobos_] Что это ты там мямлишь? Как вообще можно звучать настолько нерешительно!?"
-msgstr ""
+msgstr "[_phobos_] ¿Qué estás murmurando? ¿¡Cómo puedes parecer tan indeciso!?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:703 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed42_54ce42cc:
 msgid "[_phobos_] Это недостойное поведение для одного из моих воинов!"
-msgstr ""
+msgstr "[_phobos_] ¡Este es un comportamiento indigno para uno de mis guerreros!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:713 #-#-# translate crowdin reiter_s_attempt_to_alchemy_time_is_up_25d9fb31:
 msgid "[_phobos_] Ты что, оглох!? Как ты смеешь попусту тратить мое время!"
-msgstr ""
+msgstr "[_phobos_] ¿Estás sordo? ¡Cómo te atreves a hacerme perder el tiempo!"
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:10
 msgid "Да как ты смеешь, смерд! Я Лорд! Я тебя уничтожу!"
-msgstr ""
+msgstr "¡Cómo te atreves, campesino! ¡Yo soy un Señor! ¡Te destruiré!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:10
 msgid "Что с повстанцами, Рейтер?"
-msgstr ""
+msgstr "¿Y los rebeldes, Raythor?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:10
 msgid "Я расскажу Фобосу, как ты пытался ее изнасиловать"
-msgstr ""
+msgstr "Le diré a Phobos cómo intentaste violarla"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:163
 msgid "Милорд, это все часть вашего задания"
-msgstr ""
+msgstr "Mi señor, todo esto es parte de su misión"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:163
 msgid "Мой князь, я пришел загладить вину"
-msgstr ""
+msgstr "Mi príncipe, he venido a hacer las paces"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:163
 msgid "Князь Фобос, это мое скромное подношение вам"
-msgstr ""
+msgstr "Príncipe Phobos, esta es mi humilde ofrenda para usted"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:189
 msgid "Эта прелестная девушка для плотских утех, мой Княз"
-msgstr ""
+msgstr "Esta encantadora chica está aquí para sus placeres carnales, mi Príncipe"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:189
 msgid "Я привел ее в качестве домашнего питомца, Милорд"
-msgstr ""
+msgstr "La traje como mascota, Mi Señor"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:189
 msgid "Она сможет облегчить ваши муки от потери магических сил"
-msgstr ""
+msgstr "Puede aliviar su sufrimiento por la pérdida de sus poderes mágicos"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:230
 msgid "...Да. Я спал с ней. Много раз."
-msgstr ""
+msgstr "...Sí. Me acosté con ella. Muchas veces."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:230
 msgid "Никак нет, мой князь, я бы не посмел"
-msgstr ""
+msgstr "No, mi príncipe, no me atrevería"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:230
 msgid "Всего немного, ну как тут можно было устоять?"
-msgstr ""
+msgstr "Solo un poco, ¿cómo podría resistirme?"
 
