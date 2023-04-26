@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-25 17:24\n"
+"PO-Revision-Date: 2023-04-26 00:03\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -158,7 +158,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:151 #-#-# translate crowdin defeat_morpion_king_2ef90216:
 msgid "[_cedrick_] (...)"
-msgstr ""
+msgstr "[_cedrick_] (...)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:156 #-#-# translate crowdin defeat_morpion_king_d6a16f40:
 msgid "[_cedrick_] (Я умираю...)"
@@ -214,7 +214,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:185 #-#-# translate crowdin defeat_morpion_king_2ef90216_1:
 msgid "[_cedrick_] (...)"
-msgstr ""
+msgstr "[_cedrick_] (...)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:186 #-#-# translate crowdin defeat_morpion_king_b1ade90d:
 msgid "[_cedrick_] (Король Морпионов прав.. Это результат моей слабости.. Но всегда ли я был таким?..)"
@@ -222,7 +222,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:187 #-#-# translate crowdin defeat_morpion_king_2ef90216_2:
 msgid "[_cedrick_] (...)"
-msgstr ""
+msgstr "[_cedrick_] (...)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:188 #-#-# translate crowdin defeat_morpion_king_ff78f636:
 msgid "[_cedrick_] (...Нет.)"
