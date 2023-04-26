@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-25 13:36\n"
+"PO-Revision-Date: 2023-04-26 05:56\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
 msgid "Звезда Трибы"
@@ -186,7 +186,7 @@ msgstr "Ropa abrigada"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Железа морпиона"
-msgstr "Hierro de Morphión"
+msgstr "Glándula de Morphion"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Сок из желез морпионов"
@@ -194,7 +194,7 @@ msgstr "Jugo de las glándulas morphionares"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Кристаллическая железа королевы морпионов"
-msgstr "Hierro cristalino de la Reina Morpión"
+msgstr "Glándula cristalina de la Reina Morphion"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Кристаллическая эссенция"
