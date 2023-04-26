@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-26 04:56\n"
+"PO-Revision-Date: 2023-04-26 05:56\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:6 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_010d3f43:
 msgid "[_vanessa_] Ох, смотрю дела у тебя стали идти куда лучше, жеребец. Расцвел на глазах, стоило тебе трахнуть пару девиц в моем борделе"
@@ -542,115 +542,115 @@ msgstr "[_cedrick_] ..Sí, mi príncipe"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:438 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_77c96013:
 msgid "[_cedrick_] (Что это за пиздец я только что увидел...)"
-msgstr ""
+msgstr "[_cedrick_] (Qué carajo es eso que acabo de ver...)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:439 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_5dfe53ba:
 msgid "[_cedrick_] (......)"
-msgstr ""
+msgstr "[_cedrick_] (......)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:440 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_6f98d0da:
 msgid "[_cedrick_] (Так вот как работает эта эссенция. Начинаю понимать, о чем Миранда так беспокоилась)"
-msgstr ""
+msgstr "[_cedrick_] (Así es como funciona esta esencia. Empiezo a ver por qué Miranda estaba tan preocupada)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:441 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a3bc3cb1:
 msgid "[_cedrick_] (Надо сходить к ней)"
-msgstr ""
+msgstr "[_cedrick_] (Debería ir a verla)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:444 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_3d518c3f:
 msgid "[_centered_] {size=37} СПУСТЯ НЕКОТОРОЕ ВРЕМЯ ПЕРЕСКАЗА ПРОИЗОШЕДШЕГО {/size}"
-msgstr ""
+msgstr "[_centered_] {size=37} DESPUÉS DE UN RATO, RELATANDO LO SUCEDIDO {/size}"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:448 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a13ba10a:
 msgid "[_miranda_] Да, именно это и происходит, когда человек выпивает эссенцию.."
-msgstr ""
+msgstr "[_miranda_] Sí, eso es exactamente lo que ocurre cuando uno bebe la esencia.."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:449 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_e6c8f2d7:
 msgid "[_miranda_] Человек полностью подчиняется другой воле и не может даже кончить без приказа"
-msgstr ""
+msgstr "[_miranda_] La mujer está completamente sometida a la voluntad del hombre, y ni siquiera puede correrse sin que él se lo ordene"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:453 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_ecaad052:
 msgid "[_miranda_] И это все влияние одной единственной железы Королевы морпионов.. "
-msgstr ""
+msgstr "[_miranda_] Y todo por la influencia de una sola glándula de la Reina Morphion.. "
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:457 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_552d2e50:
 msgid "[_miranda_] Хотя, ты убил единственную в нашем лесу вряд ли ближайшие 300 лет появится еще одна такая"
-msgstr ""
+msgstr "[_miranda_] Aunque has matado a la única que había en nuestro bosque, es poco probable que haya otra en los próximos 300 años"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:461 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_9c048200:
 msgid "[_miranda_] ...Седрик?"
-msgstr ""
+msgstr "[_miranda_] ..¿Cedric?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:465 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_0201e9fa:
 msgid "[_cedrick_] Миранда.. Что ты только что сказала?"
-msgstr ""
+msgstr "[_cedrick_] Miranda... ¿Qué acabas de decir?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:469 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_534c75f0:
 msgid "[_miranda_] Единственная на ближайшие 300 лет, а что?"
-msgstr ""
+msgstr "[_miranda_] La única durante los próximos 300 años, ¿por qué?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:473 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_28c3f2c8:
 msgid "[_cedrick_] Нет, до этого.. Одна единственная железа? На эссенцию нужна одна железа? Но у королевы морпионов же их было две"
-msgstr ""
+msgstr "[_cedrick_] No, antes de eso... ¿Una sola glándula? ¿Necesitas una glándula para la esencia? Pero la reina morphion tenía dos"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:474 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_c7849b22:
 msgid "[_cedrick_] Я принес тебе две железы. Можно же изготовить еще одну эссенцию"
-msgstr ""
+msgstr "[_cedrick_] Te he traído dos glándulas. Es posible hacer otra esencia"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:478 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_507e10a1:
 msgid "[_miranda_] Седрик.. Зачем она тебе? Ты отдал ее мне и даже не интересовался всем этим, пока не увидел сам эффект"
-msgstr ""
+msgstr "[_miranda_] Cedric... ¿Para qué la necesitas? Me la diste y ni siquiera estabas interesado en todo el asunto hasta que viste el efecto"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:482 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_b750f4be:
 msgid "[_miranda_] Ты же понимаешь, что теперь эта железа моя? И ее нужно будет заслужить, чтобы получить обратно"
-msgstr ""
+msgstr "[_miranda_] Te das cuenta de que esta glándula es mía ahora, ¿verdad? Y tendrás que ganarla para recuperarla"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:486 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a7a357a9:
 msgid "[_cedrick_] Это то, что я и так собирался с тобой сделать, Миранда"
-msgstr ""
+msgstr "[_cedrick_] Eso es lo que iba a hacer de todos modos, Miranda"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:487 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_0cf2ecde:
 msgid "[_cedrick_] За то, что не сказала с самого начала, сколько желез нужно для эссенции и просто забрала у меня одну из них"
-msgstr ""
+msgstr "[_cedrick_] Por no decirme desde el principio cuántas glándulas se necesitaban para la esencia y quitarme solo una de ellas"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:488 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_420b016f:
 msgid "[_cedrick_] За это я тебя как следует трахну"
-msgstr ""
+msgstr "[_cedrick_] Te follaré duro por eso"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:492 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_34808934:
 msgid "[_miranda_] Ну наконец-то, Седрик"
-msgstr ""
+msgstr "[_miranda_] Finalmente, Cedric"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:494 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_8861d3ac:
 msgid "[_centered_] {size=37} СПУСТЯ НЕКОТОРОЕ ВРЕМЯ {/size}"
-msgstr ""
+msgstr "[_centered_] {size=37} ALGÚN TIEMPO DESPUÉS {/size}"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:498 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_67d2ba6e:
 msgid "[_miranda_] Дааа.. Ооооо да, наконец-то! Наконец, ты трахаешь меня как дикий зверь!"
-msgstr ""
+msgstr "[_miranda_] Si... ¡Ohhhh sí, por fin! ¡Por fin me follas como un animal salvaje!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:500 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a661d270:
 msgid "[_miranda_] Совсем как раньше.. Совершенно безжалостно долбишь мою киску, как же долго я этого ждала"
-msgstr ""
+msgstr "[_miranda_] Como antes... Totalmente sin piedad golpeando mi coño, cuánto tiempo he estado esperando esto"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:502 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_fc20cbf5:
 msgid "[_cedrick_] Хочешь пробудить во мне зверя? Забери еще раз то, что мое по праву и в следующий раз я так же буду трахать тебя, но уже в попку!"
-msgstr ""
+msgstr "[_cedrick_] ¿Quieres sacar la bestia que hay en mí? Vuelve a tomar lo que es mío por derecho y la próxima vez te follaré igual, ¡pero por el culo!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:504 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_611332d4:
 msgid "[_miranda_] Боже, да, продолжай! Я готова забрать у тебя все, только продолжай трахать меня так же жестко"
-msgstr ""
+msgstr "[_miranda_] ¡Dios, sí, sigue! Estoy lista para tomar todo de ti, solo sigue cogiéndome igual de duro"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:507 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_0a83ad8d:
 msgid "[_miranda_] Это именно то, что нужно киске девушки-оборотня"
-msgstr ""
+msgstr "[_miranda_] Esto es exactamente lo que el coño de una chica lobo necesita"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:510 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_04b55f29:
 msgid "[_cedrick_] Миранда, я близко, приготовься"
-msgstr ""
+msgstr "[_cedrick_] Miranda, estoy cerca, prepárate"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:512 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_d2d28a2d:
 msgid "[_miranda_] Да.. Дааа, спусти все в меня"
-msgstr ""
+msgstr "[_miranda_] Si.. Síii, métemelo todo"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:514 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_f88685ee:
 msgid "[_cedrick_] Я кончаю!"
@@ -658,19 +658,19 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:516 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_5ac02be3:
 msgid "[_miranda_] Аааааах"
-msgstr ""
+msgstr "[_miranda_] Aaaaahhhh"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:519 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_df3346e9:
 msgid "[_miranda_] Как себя чувствуешь?"
-msgstr ""
+msgstr "[_miranda_] ¿Cómo te sientes?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:520 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_cf07d441:
 msgid "[_cedrick_] Отлично.. Давно я себя так не чувствовал, знаешь ли. Наконец все складывается превосходно"
-msgstr ""
+msgstr "[_cedrick_] Oh, esto es genial. No me he sentido así en mucho tiempo, ya sabes. Por fin las cosas están saliendo a la perfección"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:521 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_02408fb5:
 msgid "[_miranda_] Я сделаю тебе еще одну эссенцию,это займет какое-то время. Что ты собираешься с ней делать?"
-msgstr ""
+msgstr "[_miranda_] Te haré otra esencia, tardaré un poco. ¿Qué vas a hacer con ella?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:522 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_0fd4d656:
 msgid "......"
@@ -678,7 +678,7 @@ msgstr "......"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:523 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_41d56f47:
 msgid "[_cedrick_] Я использую ее на одной из стражниц"
-msgstr ""
+msgstr "[_cedrick_] La usaré en una de las guardianas"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:524 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a20cefa7_8:
 msgid "..."
@@ -686,17 +686,17 @@ msgstr "..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:528 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_c86b4a42:
 msgid "[_centered_] {size=37}Тем временем в полицейском участке{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {size=37} Mientras tanto en la estación de policia{/size} [withDissolve1]"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:533 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_e9d9259d:
 msgid "[_medina_] Гордон, я знаю, что ты уже давно успокоился по поводу этого подозреваемого, но твой нюх детектива уже давно не тот"
-msgstr ""
+msgstr "[_medina_] Gordon, sé que hace tiempo que te has calmado con lo del sospechoso, pero tu sentido detectivesco hace tiempo que desapareció"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:534 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_3a53e5dc:
 msgid "[_medina_] Четверо пропали без вести и все крутится вокруг одного человека и одного книжного магазина!"
-msgstr ""
+msgstr "[_medina_] ¡Cuatro personas han desaparecido y todo gira en torno a un hombre y una librería!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:540 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_ccba9f74:
 msgid "[_medina_] (Рик Хоффман, чего бы ты не замышлял, я разрушу все твои планы и докопаюсь до правды!)"
-msgstr ""
+msgstr "[_medina_] (Rick Hoffman, sea lo que sea lo que estés tramando, ¡te arruinaré los planes y llegaré al fondo del asunto!)"
 
