@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 12:16\n"
+"PO-Revision-Date: 2023-05-05 14:57\n"
 
 # TODO: Translation updated at 2023-04-28 19:58 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:5 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_6bff2d15:
 msgid "[_cedrick_] Ну как вы тут, девочки? Смотрю отдельные спальные номера вам еще не выделили. Да, с бюджетом у нас нынче туго"
@@ -178,7 +178,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:123 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_ee7e6af0:
 msgid "[_cedrick_] Вот увидишь"
-msgstr ""
+msgstr "[_cedrick_] Tu verras"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:124 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_d72215e3:
 msgid "[_cedrick_] Ирма, до скорого"
