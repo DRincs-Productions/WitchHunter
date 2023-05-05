@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 12:15\n"
+"PO-Revision-Date: 2023-05-05 14:57\n"
 
 # TODO: Translation updated at 2023-04-28 19:58 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:5 #-#-# translate crowdin persuade_the_bryan_to_testify_cfdea0de:
 msgid "[_cedrick_] Здравствуй, Брайан. Смотрю ты немного подкачался, пахая на рудниках. Хотя нет, показалось"
@@ -106,7 +106,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:67 #-#-# translate crowdin persuade_the_bryan_to_testify_9443def3:
 msgid "[_alchemy_] Ч-что!?"
-msgstr ""
+msgstr "[_alchemy_] Qu-Quoi!?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:68 #-#-# translate crowdin persuade_the_bryan_to_testify_26ae8404:
 msgid "[_cedrick_] Кхм.."
