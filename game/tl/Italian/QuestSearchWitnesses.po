@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-05-02 12:17\n"
+"PO-Revision-Date: 2023-05-05 07:08\n"
 
 # TODO: Translation updated at 2023-04-28 19:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestSearchWitnesses.rpy:3
 msgid "Поиск свидетелей и пострадавших"
-msgstr ""
+msgstr "Cerca testimoni e vittime"
 
 # game/scripts/core/quests/QuestSearchWitnesses.rpy:14
 msgid "Уговорить Алхими дать показания в пользу Седрика в суде"
-msgstr ""
+msgstr "Convinci Alchemy a testimoniare per Cedric in tribunale"
 
 # game/scripts/core/quests/QuestSearchWitnesses.rpy:14
 msgid "Уговорить Брайана дать показания в пользу Седрика в суде"
