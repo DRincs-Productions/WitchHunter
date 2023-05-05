@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 12:16\n"
+"PO-Revision-Date: 2023-05-05 14:57\n"
 
 # TODO: Translation updated at 2023-04-28 19:58 #|#|# # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:11 #-#-# translate crowdin tip_off_the_gramper_sisters_e69c7f7f:
 msgid "[_cedrick_] Девочки, привет"
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:46 #-#-# translate crowdin tip_off_the_gramper_sisters_e098b83a:
 msgid "[_courtney_] Хммм.."
-msgstr ""
+msgstr "[_courtney_] Hmmm.."
 
 # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:50 #-#-# translate crowdin tip_off_the_gramper_sisters_c591d46a:
 msgid "[_bess_] Кортни, ты что!? Это же классический случай в журналистике. Подозреваемый в страшных преступлениях, которому никто не верит, подвергает себя опасности, чтобы раскрыть секреты лучшим журналистам!"
@@ -78,7 +78,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:64 #-#-# translate crowdin tip_off_the_gramper_sisters_2ad435ff:
 msgid "[_bess_] ..."
-msgstr ""
+msgstr "[_bess_] ..."
 
 # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:68 #-#-# translate crowdin tip_off_the_gramper_sisters_b87e7b06:
 msgid "[_bess_] Рик, а ты не изменяешь себе. Даже в самой отчаянной ситуации не упустишь для себя выгоды, да?"
