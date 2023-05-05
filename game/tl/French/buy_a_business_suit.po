@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 12:15\n"
+"PO-Revision-Date: 2023-05-05 14:56\n"
 
 # TODO: Translation updated at 2023-04-28 19:58 #|#|# # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:3 #-#-# translate crowdin buy_a_business_suit_cdeda416:
 msgid "У меня сейчас не хватает денег на деловой костюм"
@@ -218,7 +218,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:146 #-#-# translate crowdin buy_a_business_suit_da477e6d:
 msgid "[_theresa_] Хорошо"
-msgstr ""
+msgstr "[_theresa_] Bon"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:147 #-#-# translate crowdin buy_a_business_suit_84ea7885:
 msgid "[_theresa_] Спасибо, Мисс Медина. Давайте же начнем"
@@ -270,7 +270,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:174 #-#-# translate crowdin buy_a_business_suit_1b364dcc:
 msgid "[_brayan_] Верно.."
-msgstr ""
+msgstr "[_brayan_] Droit.."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:175 #-#-# translate crowdin buy_a_business_suit_b6cb06d4:
 msgid "[_payne_] Можете описать, в какое примерно время это было?"
@@ -1058,7 +1058,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:505 #-#-# translate crowdin buy_a_business_suit_a7e10267:
 msgid "[_payne_] Пф.."
-msgstr ""
+msgstr "[_payne_] Pfft..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:506 #-#-# translate crowdin buy_a_business_suit_afeaa747:
 msgid "[_cedrick_] (Учитель, репетитор, владелец магазина, похититель, хоть и бывший, но глава стражи, так еще и постоянные новые задания от Фобоса)"
@@ -1310,7 +1310,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:602 #-#-# translate crowdin buy_a_business_suit_5ef2d934:
 msgid "[_alchemy_] Аааах.."
-msgstr ""
+msgstr "[_alchemy_] Aaah.."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:606 #-#-# translate crowdin buy_a_business_suit_a610dd1d:
 msgid "[_cedrick_] Ну что, этого ты хотела, а!?"
@@ -1378,7 +1378,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:629 #-#-# translate crowdin buy_a_business_suit_9443def3:
 msgid "[_alchemy_] Ч-что!?"
-msgstr ""
+msgstr "[_alchemy_] Qu-Quoi!?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:630 #-#-# translate crowdin buy_a_business_suit_961fbd83:
 msgid "[_cedrick_] Черт, нас кто-то застукал? Плохо дело.."
@@ -1570,7 +1570,7 @@ msgstr "[_cedrick_] K-end..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:713 #-#-# translate crowdin buy_a_business_suit_8ec9d8dd:
 msgid "[_will_] Аааам"
-msgstr ""
+msgstr "[_will_] Aaam"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:717 #-#-# translate crowdin buy_a_business_suit_b0f8c8f3:
 msgid "[_alchemy_] Н-не честно! Ты подгадала момент!!"
@@ -1606,7 +1606,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:733 #-#-# translate crowdin buy_a_business_suit_663585c7:
 msgid "[_cedrick_] Д-да.."
-msgstr ""
+msgstr "[_cedrick_] O-oui..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:734 #-#-# translate crowdin buy_a_business_suit_5e39dcc1:
 msgid "[_medina_] Со стороны обвинения вызывается Корнелия Хейл"
@@ -1766,7 +1766,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:799 #-#-# translate crowdin buy_a_business_suit_a7e10267_1:
 msgid "[_payne_] Пф.."
-msgstr ""
+msgstr "[_payne_] Pfft..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:800 #-#-# translate crowdin buy_a_business_suit_7e856b21:
 msgid "[_cedrick_] (Хах, надеюсь эти сто баксов сильно помогут Мактиннену в тюрячке)"
@@ -1914,7 +1914,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:859 #-#-# translate crowdin buy_a_business_suit_a1366473:
 msgid "[_theresa_] Ах ты.."
-msgstr ""
+msgstr "[_theresa_] Ah, vous..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:860 #-#-# translate crowdin buy_a_business_suit_632ad564_2:
 msgid "[_theresa_] Суд прерывается на запланированный перерыв, предусмотренный законодательством штата. Пока можете разойтись"
@@ -1950,7 +1950,7 @@ msgstr "..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:887 #-#-# translate crowdin buy_a_business_suit_70c5ed00:
 msgid "[_irma_] Аааав..."
-msgstr ""
+msgstr "[_irma_] Aaaaav..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:888 #-#-# translate crowdin buy_a_business_suit_403500fb:
 msgid "[_cedrick_] У тебя была одна.. Ровно одна задача! Сказать в суде то, что я написал! А это что было!?"
@@ -2006,7 +2006,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:901 #-#-# translate crowdin buy_a_business_suit_2f34d8a5:
 msgid "[_security_] Я вхожу"
-msgstr ""
+msgstr "[_security_] J'y vais."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:903 #-#-# translate crowdin buy_a_business_suit_dd56bd38:
 msgid "[_cedrick_] Никуда ты не войдешь, мужик"
@@ -2086,7 +2086,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:942 #-#-# translate crowdin buy_a_business_suit_f96e1415:
 msgid "[_irma_] Я.. Я не знаю.."
-msgstr ""
+msgstr "[_irma_] Я.. Je ne sais pas..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:943 #-#-# translate crowdin buy_a_business_suit_370116a9:
 msgid "[_cedrick_] (Черт, видимо это то, о чем говорила Миранда. Легкие противоречия в голове у Ирмы все же происходят)"
@@ -2134,7 +2134,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:959 #-#-# translate crowdin buy_a_business_suit_2b26a23f:
 msgid "[_irma_] Н-нет.."
-msgstr ""
+msgstr "[_irma_] N-non..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:960 #-#-# translate crowdin buy_a_business_suit_c6cc98d3:
 msgid "[_cedrick_] Так какого же хрена тогда ты.."
@@ -2390,7 +2390,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1061 #-#-# translate crowdin buy_a_business_suit_1d1f0861:
 msgid "[_payne_] Ч-что?!"
-msgstr ""
+msgstr "[_payne_] Qu-Quoi?!"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1062 #-#-# translate crowdin buy_a_business_suit_836a3d9d:
 msgid "[_cedrick_] Хотите задавать вопросы - задавайте, но не делайте вид, что пытаетесь докопаться до правды!"
@@ -2398,7 +2398,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1063 #-#-# translate crowdin buy_a_business_suit_91d6cee7:
 msgid "[_payne_] Простите?"
-msgstr ""
+msgstr "[_payne_] Désolé?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1064 #-#-# translate crowdin buy_a_business_suit_a65bc7f1:
 msgid "[_cedrick_] Вы задаете вопросы так, как вам удобно, указывая на те факты, которые выставляют злодеем меня, откровенно игнорируя те факты, что выставляют в невыгодном свете вашего подсудимого"
@@ -2854,7 +2854,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1299 #-#-# translate crowdin buy_a_business_suit_73fa2fda:
 msgid "[_medina_] Хах, типо того.."
-msgstr ""
+msgstr "[_medina_] Huh, en quelque sorte..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1301 #-#-# translate crowdin buy_a_business_suit_b76892db:
 msgid "[_cedrick_] Что ж, тогда отправлюсь к кабинету 69"
@@ -3194,7 +3194,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1590 #-#-# translate crowdin buy_a_business_suit_a1366473_1:
 msgid "[_theresa_] Ах ты.."
-msgstr ""
+msgstr "[_theresa_] Ah, vous..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1592 #-#-# translate crowdin buy_a_business_suit_5057c899:
 msgid "[_gordon_on_the_phone_] За такую услугу тебе бы пришлось отдать мне все свое тело на неограниченный срок, дорогая Тереза"
@@ -3262,7 +3262,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1622 #-#-# translate crowdin buy_a_business_suit_05b35a72:
 msgid "[_theresa_] Ч-что!?"
-msgstr ""
+msgstr "[_theresa_] Qu... quoi ?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1623 #-#-# translate crowdin buy_a_business_suit_88237afb:
 msgid "[_cedrick_] Подумай-ка еще раз, взвесь все как следует. Что, нет никаких идей?"
@@ -3334,7 +3334,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1667 #-#-# translate crowdin buy_a_business_suit_41979929:
 msgid "[_theresa_] Ч-что.."
-msgstr ""
+msgstr "[_theresa_] Qu-Quoi.."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1668 #-#-# translate crowdin buy_a_business_suit_ec5414a7:
 msgid "[_cedrick_] Ему не нужна твоя помощь. Сколько раз он вообще к тебе обращался с того момента, как у него есть на тебя компромат? Ты хоть думала над этим.."
@@ -3382,7 +3382,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1686 #-#-# translate crowdin buy_a_business_suit_05b35a72_1:
 msgid "[_theresa_] Ч-что!?"
-msgstr ""
+msgstr "[_theresa_] Qu... quoi ?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1690 #-#-# translate crowdin buy_a_business_suit_8d3f50a0:
 msgid "[_theresa_] Мфмм!!"
@@ -3410,7 +3410,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1699 #-#-# translate crowdin buy_a_business_suit_1d215d2b:
 msgid "[_theresa_] Ммммм..."
-msgstr ""
+msgstr "[_theresa_] Ммммм..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1700 #-#-# translate crowdin buy_a_business_suit_751e233b:
 msgid "[_cedrick_] (Хах, ее хватка слабеет, она все менее охотно отталкивает меня.. Интересно, может это можно будет использовать в будущем)"
@@ -3546,7 +3546,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1760 #-#-# translate crowdin buy_a_business_suit_7a24ac8f:
 msgid "[_bob_] Я вхожу"
-msgstr ""
+msgstr "[_bob_] J'y vais."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1762 #-#-# translate crowdin buy_a_business_suit_7e80aedd:
 msgid "[_cedrick_] (Я не успею..)"
@@ -3610,7 +3610,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1793 #-#-# translate crowdin buy_a_business_suit_0270575b:
 msgid "[_bob_] Хорошо"
-msgstr ""
+msgstr "[_bob_] Bon"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1795 #-#-# translate crowdin buy_a_business_suit_791ba98c:
 msgid "[_theresa_] Фух.."
@@ -3690,7 +3690,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1841 #-#-# translate crowdin buy_a_business_suit_c8fa2863:
 msgid "[_theresa_] Хах.."
-msgstr ""
+msgstr "[_theresa_] Huh..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1842 #-#-# translate crowdin buy_a_business_suit_bdbe51e2:
 msgid "[_cedrick_] Ну так что, Тереза. Суд присяжный вынесет правильный вердикт?"
