@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-05 14:57\n"
+"PO-Revision-Date: 2023-05-05 15:49\n"
 
 # TODO: Translation updated at 2023-04-28 19:58 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:5 #-#-# translate crowdin persuade_the_bryan_to_testify_cfdea0de:
 msgid "[_cedrick_] Здравствуй, Брайан. Смотрю ты немного подкачался, пахая на рудниках. Хотя нет, показалось"
-msgstr ""
+msgstr "[_cedrick_] Bonjour, Brian. Je vois que vous vous êtes remis en forme en labourant dans les mines. Non, ce n'est pas le cas"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:8 #-#-# translate crowdin persuade_the_bryan_to_testify_716bc1bc:
 msgid "[_brayan_] Т-ты, ублюдок! Что ты здесь делаешь!?"
