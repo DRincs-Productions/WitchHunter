@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-02 12:15\n"
+"PO-Revision-Date: 2023-05-05 14:57\n"
 
 # TODO: Translation updated at 2023-04-28 19:58 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:6 #-#-# translate crowdin persuade_the_alchemy_to_testify_4813c441:
 msgid "[_cedrick_] Хей, давно не виделись, Алхими. Как тебе новые покои?"
@@ -82,7 +82,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:50 #-#-# translate crowdin persuade_the_alchemy_to_testify_1bb6042e:
 msgid "[_alchemy_] ..Седрик?"
-msgstr ""
+msgstr "[_alchemy_] ...Cedric ?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:51 #-#-# translate crowdin persuade_the_alchemy_to_testify_aac42af9:
 msgid "[_cedrick_] Я спрошу у Миранды, что можно с этим сделать"
