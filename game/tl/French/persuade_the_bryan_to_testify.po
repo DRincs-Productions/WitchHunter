@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-09 10:06\n"
+"PO-Revision-Date: 2023-05-09 11:10\n"
 
 # TODO: Translation updated at 2023-04-28 19:58 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:5 #-#-# translate crowdin persuade_the_bryan_to_testify_cfdea0de:
 msgid "[_cedrick_] Здравствуй, Брайан. Смотрю ты немного подкачался, пахая на рудниках. Хотя нет, показалось"
@@ -26,43 +26,43 @@ msgstr "[_cedrick_] Wow, as-tu au moins la force d'être en colère ? J'ai déj�
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:13 #-#-# translate crowdin persuade_the_bryan_to_testify_bbf10c04:
 msgid "[_brayan_] Ч-что тебе нужно?.."
-msgstr ""
+msgstr "[_brayan_] Q-que voulez-vous ?.."
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:15 #-#-# translate crowdin persuade_the_bryan_to_testify_be9a0cf4:
 msgid "[_cedrick_] Сотрудничество"
-msgstr ""
+msgstr "[_cedrick_] Coopérer"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:19 #-#-# translate crowdin persuade_the_bryan_to_testify_d87cbb69:
 msgid "[_brayan_] Чтобы я? С тобой!? После всего.. Н-ни за что! Лучше убей меня"
-msgstr ""
+msgstr "[_brayan_] Que je ? Avec toi !? Après tout... Pas question ! Tu ferais mieux de me tuer"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:20 #-#-# translate crowdin persuade_the_bryan_to_testify_18bd77db:
 msgid "[_cedrick_] Ожидаемо. Хорошо, смотри кто у меня здесь"
-msgstr ""
+msgstr "[_cedrick_] Attends. Ok, regarde qui j'ai là"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:25 #-#-# translate crowdin persuade_the_bryan_to_testify_c3cf8b4d:
 msgid "[_brayan_] А-алхими!?"
-msgstr ""
+msgstr "[_brayan_] Ah-alhimi !?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:29 #-#-# translate crowdin persuade_the_bryan_to_testify_950bdcf9:
 msgid "[_alchemy_] П-привет, Брайан.."
-msgstr ""
+msgstr "[_alchemy_] B-Bonjour, Brian.."
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:35 #-#-# translate crowdin persuade_the_bryan_to_testify_a11ac845:
 msgid "[_brayan_] Урод! Отпусти ее, она здесь ни при чем!!"
-msgstr ""
+msgstr "[_brayan_] Flippant ! Laisses-la partir, elle n'a rien à voir là-dedans !!"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:36 #-#-# translate crowdin persuade_the_bryan_to_testify_4c57bfc3:
 msgid "[_cedrick_] Повторюсь, Брайан, мне нужно, чтобы ты со мной сотрудничал. Я не хочу жертв или увечий — это не особо продуктивно"
-msgstr ""
+msgstr "[_cedrick_] Encore une fois, Brian, j'ai besoin que vous coopériez avec moi. Je ne veux pas de sacrifices ou de mutilations - ce n'est pas très productif"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:37 #-#-# translate crowdin persuade_the_bryan_to_testify_81716cb1:
 msgid "[_cedrick_] Но, чтобы ты стал более сговорчивым, я привел сюда твою сестру. Чтобы ты понял, что даже если ты сам умрешь, на этом все не закончится"
-msgstr ""
+msgstr "[_cedrick_] Mais pour vous rendre plus coopératif, j'ai amené votre sœur ici. Pour vous faire comprendre que même si vous mourez vous-même, cela ne s'arrêtera pas là"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:38 #-#-# translate crowdin persuade_the_bryan_to_testify_ed9c93cf:
 msgid "[_cedrick_] Твои необдуманные слова и действия могут навредить твоим самым близким людям"
-msgstr ""
+msgstr "[_cedrick_] Vos paroles et vos actes irréfléchis peuvent blesser vos proches"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:39 #-#-# translate crowdin persuade_the_bryan_to_testify_76931f2f:
 msgid "[_brayan_] ..."
@@ -70,15 +70,15 @@ msgstr "[_brayan_] ..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:40 #-#-# translate crowdin persuade_the_bryan_to_testify_6df3e9f3:
 msgid "[_cedrick_] Мы поняли друг друга?"
-msgstr ""
+msgstr "[_cedrick_] Nous comprenons-nous les uns les autres ?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:44 #-#-# translate crowdin persuade_the_bryan_to_testify_9984bce5:
 msgid "[_brayan_] Что ты хочешь, чтобы я сделал?.."
-msgstr ""
+msgstr "[_brayan_] Que voulez-vous que je fasse ?.."
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:45 #-#-# translate crowdin persuade_the_bryan_to_testify_e24e05a2:
 msgid "[_cedrick_] Мне нужно, чтобы ты выступил в суде, в качестве свидетеля на моей стороне"
-msgstr ""
+msgstr "[_cedrick_] J'ai besoin que vous comparaissiez devant le tribunal en tant que témoin de ma cause"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:49 #-#-# translate crowdin persuade_the_bryan_to_testify_76931f2f_1:
 msgid "[_brayan_] ..."
@@ -86,23 +86,23 @@ msgstr "[_brayan_] ..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:50 #-#-# translate crowdin persuade_the_bryan_to_testify_a2a8062e:
 msgid "[_cedrick_] Сыграл роль похищенной жертвы, коей ты и являешься. Только похитил тебя другой человек. Понимаешь?"
-msgstr ""
+msgstr "[_cedrick_] Joue le rôle de la victime kidnappée, que tu es. Seul un autre homme t'a kidnappée. Vous comprenez ?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:54 #-#-# translate crowdin persuade_the_bryan_to_testify_6f0488e4:
 msgid "[_brayan_] Хочешь, чтобы я оправдал тебя? Чтобы тебе все сошло с рук?"
-msgstr ""
+msgstr "[_brayan_] Voulez-vous que je vous disculpe ? Pour s'en sortir ?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:55 #-#-# translate crowdin persuade_the_bryan_to_testify_c9b5b577:
 msgid "[_cedrick_] Да. И ты поможешь мне в этом"
-msgstr ""
+msgstr "[_cedrick_] Oui. Et vous allez m'aider avec ceci"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:59 #-#-# translate crowdin persuade_the_bryan_to_testify_86ccb8ca:
 msgid "[_brayan_] Что, вернешь меня на Землю?"
-msgstr ""
+msgstr "[_brayan_] Quoi, vous allez me ramener sur Terre ?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:63 #-#-# translate crowdin persuade_the_bryan_to_testify_d42c8496:
 msgid "[_cedrick_] На время. Не переживай, и на тебе и на Алхими будет заклинание, которое взорвет вам головы, если вы не вернетесь на Меридиан через 24 часа"
-msgstr ""
+msgstr "[_cedrick_] Pour l'instant. Ne vous inquiétez pas, vous et Alchimie porterez un sort qui vous fera sauter la tête si vous ne retournez pas à Meridian dans les 24 heures"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:67 #-#-# translate crowdin persuade_the_bryan_to_testify_9443def3:
 msgid "[_alchemy_] Ч-что!?"
@@ -114,35 +114,35 @@ msgstr "[_cedrick_] Ahem..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:74 #-#-# translate crowdin persuade_the_bryan_to_testify_041f2343:
 msgid "[_alchemy_] А-а.. Брайан, он не шутит!"
-msgstr ""
+msgstr "[_alchemy_] Ahh... Brian, il ne plaisante pas !"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:78 #-#-# translate crowdin persuade_the_bryan_to_testify_c86da72a:
 msgid "[_brayan_] Ты, чудовище.."
-msgstr ""
+msgstr "[_brayan_] Vous êtes un monstre.."
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:82 #-#-# translate crowdin persuade_the_bryan_to_testify_183c1cc9:
 msgid "[_cedrick_] Взамен, по твоему возвращению, ты больше не будешь работать в шахте. Я отправлю тебя в темницу"
-msgstr ""
+msgstr "[_cedrick_] En contrepartie, à votre retour, vous ne travaillerez plus dans la mine. Je vous enverrai au cachot"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:83 #-#-# translate crowdin persuade_the_bryan_to_testify_c33f9bca:
 msgid "[_cedrick_] Будешь просто валяться в четырех стенах и есть три раза в день. При чем еда будет лучше, чем то, что дают тебе здесь"
-msgstr ""
+msgstr "[_cedrick_] Vous resterez entre quatre murs et vous mangerez trois repas par jour. Et la nourriture sera meilleure que celle que l'on vous sert ici"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:87 #-#-# translate crowdin persuade_the_bryan_to_testify_63dee156:
 msgid "[_brayan_] Хах, кнут и пряник, да?"
-msgstr ""
+msgstr "[_brayan_] La carotte et le bâton, hein ?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:88 #-#-# translate crowdin persuade_the_bryan_to_testify_e17abf10:
 msgid "[_cedrick_] Именно"
-msgstr ""
+msgstr "[_cedrick_] Exactement"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:89 #-#-# translate crowdin persuade_the_bryan_to_testify_2328085a:
 msgid "[_brayan_] Ладно.. Я согласен.. Только не тронь Алхими"
-msgstr ""
+msgstr "[_brayan_] D'accord... Je suis d'accord... Ne touchez pas à Alchemy"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:95 #-#-# translate crowdin persuade_the_bryan_to_testify_830153de:
 msgid "[_cedrick_] Отлично. Я вернусь за тобой, как только придет время"
-msgstr ""
+msgstr "[_cedrick_] Très bien. Je reviendrai pour vous dès que le moment sera venu"
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:96 #-#-# translate crowdin persuade_the_bryan_to_testify_76931f2f_2:
 msgid "[_brayan_] ..."
@@ -150,5 +150,5 @@ msgstr "[_brayan_] ..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:100 #-#-# translate crowdin persuade_the_bryan_to_testify_6310e28c:
 msgid "[_cedrick_] Что ж, Брайн и Алхими есть. На очереди Корнелия"
-msgstr ""
+msgstr "[_cedrick_] Eh bien, Brian et Alchemy l'ont fait. Cornelia est la suivante"
 
