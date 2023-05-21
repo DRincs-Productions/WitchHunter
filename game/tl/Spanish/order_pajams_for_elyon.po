@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:38\n"
+"PO-Revision-Date: 2023-05-21 05:36\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questNewPajamasForElyon/order_pajams_for_elyon.rpy:3 #-#-# translate crowdin order_pajams_for_elyon_b03c4abd:
 msgid "Недостаточно средств.."
-msgstr ""
+msgstr "Fondos insuficientes..."
 
 # game/scripts/quests/questNewPajamasForElyon/order_pajams_for_elyon.rpy:6 #-#-# translate crowdin order_pajams_for_elyon_733da6b5:
 msgid "[_cedrick_] Остался только маленький размер? Хм.. А что, это может быть интересно"
-msgstr ""
+msgstr "[_cedrick_] ¿Sólo queda el tamaño pequeño? Hmm ... ¿Por qué, que podría ser interesante"
 
 # game/scripts/quests/questNewPajamasForElyon/order_pajams_for_elyon.rpy:7 #-#-# translate crowdin order_pajams_for_elyon_e44d319b:
 msgid "Седрик заказывает пижаму для Элион маленького размера"
-msgstr ""
+msgstr "Cedric encarga un pequeño pijama para Elion"
 
