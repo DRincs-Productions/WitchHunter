@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-23 08:20\n"
+"PO-Revision-Date: 2023-05-21 05:35\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:4 #-#-# translate crowdin ask_elyon_put_books_in_the_store_42ca9224:
 msgid "[_cedrick_] Элион, помоги мне с кое-чем..."
@@ -158,7 +158,7 @@ msgstr "[_cedrick_] Bueno, en ese caso, definitivamente notaría tu ausencia..."
 
 # game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:76 #-#-# translate crowdin ask_elyon_put_books_in_the_store_89c59728:
 msgid "[_elion_] ..."
-msgstr ""
+msgstr "[_elion_] ..."
 
 # game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:79 #-#-# translate crowdin ask_elyon_put_books_in_the_store_686ccda3:
 msgid "[_elion_] Ты правда целовался с корнелией?"
