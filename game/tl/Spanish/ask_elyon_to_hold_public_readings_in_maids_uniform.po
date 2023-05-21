@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-02-19 09:39\n"
+"PO-Revision-Date: 2023-05-21 05:36\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:3 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_db823e8f:
 msgid "[_cedrick_] Я уже предложил Элион провести вечер чтения в форме служанки"
-msgstr ""
+msgstr "[_cedrick_] Ya he sugerido que Elyon tiene una velada de lectura en forma de criada"
 
 # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:7 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_697d0ac9:
 msgid "[_cedrick_] Элион как насчет того чтобы устроить сегодня публичный чтения?"
-msgstr ""
+msgstr "[_cedrick_] Elyon ¿qué tal si hacemos una lectura pública hoy?"
 
 # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:11 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_f7c66284:
 msgid "[_elion_] да конечно рик, отличная идея"
-msgstr ""
+msgstr "[_elion_] Sí claro Rick, es una gran idea."
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:16
 msgid "У меня пока есть дела, подойду ближе к вечеру в книжный магазин"
-msgstr ""
+msgstr "Tengo cosas que hacer mientras tanto, iré a la librería por la tarde."
 
