@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-05-21 05:36\n"
+"PO-Revision-Date: 2023-05-21 07:31\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:5 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d54f4eca:
 msgid "[_cedrick_] Элион, ты ведь не отправляешься школьную поездку?"
@@ -66,7 +66,7 @@ msgstr "[_sondra_] Merci beaucoup, merci garçons."
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:44 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bcd124bf:
 msgid "[_will_] ..."
-msgstr "[_will_] ..."
+msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:45 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0aa44383:
 msgid "[_cedrick_] Что-то не так?"
@@ -1430,7 +1430,7 @@ msgstr "[_sondra_] Ohh, Matthew..."
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:758 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bcd124bf_1:
 msgid "[_will_] ..."
-msgstr "[_will_] ..."
+msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:761 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_24:
 msgid "..."
