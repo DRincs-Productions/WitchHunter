@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-24 04:10\n"
+"PO-Revision-Date: 2023-05-21 05:36\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:5 #-#-# translate crowdin take_elyon_home_b1056ea5:
 msgid "[_elion_] Рик, слушай.. Не мог бы ты меня сегодня проводить до дома?"
@@ -34,7 +34,7 @@ msgstr "[_cedrick_] Está bien, claro, te acompaño. Démosle al maníaco más o
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:18 #-#-# translate crowdin take_elyon_home_bbf66e5c:
 msgid "[_elion_] Рик!"
-msgstr ""
+msgstr "[_elion_] ¡Rick!"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:21 #-#-# translate crowdin take_elyon_home_f3307c5c:
 msgid "[_cedrick_] Аха, да я просто шучу.. Даже в самых ужасных ситуациях не стоит терять чувство юмора, верно?"
