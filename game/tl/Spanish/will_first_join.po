@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-24 02:16\n"
+"PO-Revision-Date: 2023-05-21 05:35\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_first_join.rpy:10 #-#-# translate crowdin will_first_join_e5ef2ecb:
 msgid "[_girl_] ..."
@@ -94,7 +94,7 @@ msgstr "Elyon se retira al otro lado de la tienda"
 
 # game/scripts/quests/will/will_first_join.rpy:88 #-#-# translate crowdin will_first_join_bcd124bf:
 msgid "[_will_] ..."
-msgstr ""
+msgstr "[_will_] ..."
 
 # game/scripts/quests/will/will_first_join.rpy:94 #-#-# translate crowdin will_first_join_324c1fe1:
 msgid "[_will_] Хех"
