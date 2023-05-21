@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-04-22 12:34\n"
+"PO-Revision-Date: 2023-05-21 05:36\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/sell_books_game/sell_books_labels.rpy:39 #-#-# translate crowdin sell_books_new_customer_b19a31e4:
 msgid "[_customer_] Здравствуйте, а у вас есть {color=#8fe3ff}[book_name]{/color}?"
@@ -158,11 +158,11 @@ msgstr "Sus ingresos $[profit]"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:309 #-#-# translate crowdin sell_books_finish_1c485c2e:
 msgid "Вы приобрели новые книги из тех что проданы или пропали, в количестве: \"[restored_books_length]\""
-msgstr ""
+msgstr "Ha comprado libros nuevos de los vendidos o desaparecidos, en cantidad: \"[restored_books_length]\""
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:310 #-#-# translate crowdin sell_books_finish_9b87f17a:
 msgid "На новые книги было потрачено [restored_books_cost] $"
-msgstr ""
+msgstr "Los nuevos libros se gastaron en [restored_books_cost]$"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:313 #-#-# translate crowdin sell_books_finish_55bd84d5:
 msgid "Так как у вас не хватило денег, вы не смогли приобрести новые книги, в количестве: \"[not_restored_books_length]\""
@@ -186,7 +186,7 @@ msgstr "Sus ingresos $0"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:325 #-#-# translate crowdin sell_books_finish_556c0c8b:
 msgid "Вам не хватает денег, чтобы запастись хотя бы одной книгой"
-msgstr ""
+msgstr "No tienes suficiente dinero para comprar al menos un libro"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:326 #-#-# translate crowdin sell_books_finish_462a5c3a:
 msgid "В вашем магазине осталось [books_available_length] книг"
