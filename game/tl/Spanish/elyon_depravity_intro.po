@@ -10,53 +10,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-05-21 05:36\n"
+"PO-Revision-Date: 2023-05-21 07:34\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:4 #-#-# translate crowdin elyon_depravity_intro_f8d988aa:
 msgid "[_cedrick_] (Что ж, думаю, настало время для развращения нашей дорогой Элион. После всего, что произошло, она попросту не сможет мне отказать)"
-msgstr "[_cedrick_] (Bueno, supongo que es hora de corromper a nuestro querido Elion. Después de todo lo que ha pasado, simplemente no será capaz de decirme que no)."
+msgstr ""
 
 # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:5 #-#-# translate crowdin elyon_depravity_intro_6d9e92ca:
 msgid "[_cedrick_] Элион. У меня для тебя есть одно задание"
-msgstr "[_cedrick_] Elyon. Tengo una tarea para ti"
+msgstr ""
 
 # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:9 #-#-# translate crowdin elyon_depravity_intro_bbf1520e:
 msgid "[_elion_] Мм? Какое задание, Рик?"
-msgstr "[_elion_] ¿Qué? ¿Cuál es la tarea, Rick?"
+msgstr ""
 
 # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:10 #-#-# translate crowdin elyon_depravity_intro_7d4c462e:
 msgid "[_cedrick_] Помнишь, мы говорили о твоей неконтролируемой развратности?"
-msgstr "[_cedrick_] ¿Recuerdas cuando hablamos de tu depravación incontrolable?"
+msgstr ""
 
 # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:13 #-#-# translate crowdin elyon_depravity_intro_6371948e:
 msgid "[_elion_] Э-эм.. Да, я помню.."
-msgstr "[_elion_] Erm... Sí, lo recuerdo..."
+msgstr ""
 
 # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:14 #-#-# translate crowdin elyon_depravity_intro_78d23bb8:
 msgid "[_cedrick_] Самое время заняться твоей развращенностью"
-msgstr "[_cedrick_] Ya es hora de que nos pongamos a trabajar en tu depravación"
+msgstr ""
 
 # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:17 #-#-# translate crowdin elyon_depravity_intro_f29ad734:
 msgid "[_elion_] Ч-что!? Что ты имеешь ввиду, Рик!?"
-msgstr "[_elion_] ¿¡Q-Qué!? ¿¡Qué quieres decir, Rick!?"
+msgstr ""
 
 # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:18 #-#-# translate crowdin elyon_depravity_intro_7778e5ad:
 msgid "[_cedrick_] Эм, не пойми меня неправильно. Я лишь хочу сказать, что твои похотливые желания могут спадать на нет, если ими как следует заняться"
-msgstr "[_cedrick_] No me malinterpretes. Todo lo que digo es que tus impulsos lujuriosos pueden desaparecer si se tratan adecuadamente"
+msgstr ""
 
 # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:19 #-#-# translate crowdin elyon_depravity_intro_bbe4e9ba:
 msgid "[_cedrick_] Мы же это обсуждали, помнишь? Твои похотливые желания нужно удовлетворять, раз ты не можешь их сдерживать, об этом мы договорились"
-msgstr "[_cedrick_] Hablamos de esto, ¿recuerdas? Tu lujuria necesita ser satisfecha si no puedes mantenerla bajo control, eso es lo que acordamos."
+msgstr ""
 
 # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:20 #-#-# translate crowdin elyon_depravity_intro_dbb61f1f:
 msgid "[_cedrick_] Ты подумала над моим предложением? Согласна, чтобы я помог тебе с, эм… Твоей развратной стороной? Чтобы это не привело к ситуации, которая случилась в школе"
-msgstr "[_cedrick_] ¿Has pensado en mi oferta?… ¿Quieres que te ayude con tu lado sucio? Para que no lleve a una situación que pasó en la escuela"
+msgstr ""
 
 # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:23 #-#-# translate crowdin elyon_depravity_intro_9cc91c12:
 msgid "[_elion_] Д-да, Рик. Хорошо, я согласна. Помоги мне с.. с моей развратностью. Не знаю, что ты имеешь ввиду под этим и куда это может завести, но.. Я доверюсь тебе в этом"
-msgstr "[_elion_] S-sí, Rick. De acuerdo, lo haré. Ayúdame con... con mi libertinaje. No sé a qué te refieres con eso o a dónde podría llevar, pero... Confiaré en ti con esto."
+msgstr ""
 
 # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:25 #-#-# translate crowdin elyon_depravity_intro_7b3847cf:
 msgid "[_Somka108_] {size=16}Теперь вы можете делать различные вещи с Элион через кнопку действия, данные действия будут повышать развратность. Реакция Элион на просьбы будет изменяться в зависимости от количество развратности. Прохождение данных действий необходимо для продолжение сюжета игры, каждое из, действий нужно пройти несколько раз{/size}"
-msgstr "[_Somka108_] {size=16}Ahora puedes hacer varias cosas a Elion a través del botón de acción, estas acciones aumentarán la depravación. La reacción de Elion a las peticiones variará dependiendo de la cantidad de depravación. Pasar estas acciones es necesario para continuar la historia del juego, cada una de estas acciones debe ser pasada varias veces{/size}"
+msgstr ""
 
