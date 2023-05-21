@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-05-21 05:36\n"
+"PO-Revision-Date: 2023-05-21 07:32\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:8 #-#-# translate crowdin reiter_s_attempt_to_alchemy_a22a88bc:
 msgid "[_cedrick_] (Решил надо мной насмехаться, плебей? Что ж, ни я это начал, Рейтер)"
@@ -94,11 +94,11 @@ msgstr "[_cedrick_] Si hubiera encontrado a esta chica muriéndose de hambre, no
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:84 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_b77eea8f:
 msgid "[_raythor_] ......"
-msgstr "[_raythor_] ......"
+msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:85 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_c9da3aee:
 msgid "[_cedrick_] Я забираю девчонку"
-msgstr "[_cedrick_] Me llevo a la chica"
+msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:93 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_a10faccb:
 msgid "[_alchemy_] Нет, я не хочу! Рейтер, помоги.."
