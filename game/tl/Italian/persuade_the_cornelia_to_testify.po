@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-05-02 12:17\n"
+"PO-Revision-Date: 2023-05-22 12:59\n"
 
 # TODO: Translation updated at 2023-04-28 19:58 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:6 #-#-# translate crowdin persuade_the_cornelia_to_testify_299f9a94:
 msgid "[_cornelia_] Снова ты, змей? Я как раз думала, когда ты снова зайдешь. В темнице довольно скучно, знаешь ли"
-msgstr ""
+msgstr "[_cornelia_] Sei di nuovo tu, Snake? Mi chiedevo quando saresti tornato. È piuttosto noioso nel dungeon, sai?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:7 #-#-# translate crowdin persuade_the_cornelia_to_testify_ef376930:
 msgid "[_cedrick_] Хах, простите, принцесса Корления, что заставил ждать"
-msgstr ""
+msgstr "[_cedrick_] Mi dispiace di averla fatta aspettare, principessa Cornelia."
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:11 #-#-# translate crowdin persuade_the_cornelia_to_testify_69530f48:
 msgid "[_cornelia_] Пф.."
@@ -26,57 +26,57 @@ msgstr "[_cornelia_] Pfft..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:12 #-#-# translate crowdin persuade_the_cornelia_to_testify_7927f44e:
 msgid "[_cedrick_] А если серьезно, Корнелия, то мне нужна твоя помощь. Весь твой актерский талант"
-msgstr ""
+msgstr "[_cedrick_] Ma seriamente, Cornelia, ho bisogno del tuo aiuto. Tutto il tuo talento di attrice"
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:16 #-#-# translate crowdin persuade_the_cornelia_to_testify_c5ded6a4:
 msgid "[_cornelia_] Хочешь, чтобы я начала симулировать для тебя оргазм? Не дождешься.."
-msgstr ""
+msgstr "[_cornelia_] Vuoi che inizi a fingere un orgasmo per te? No, non lo vuoi."
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:17 #-#-# translate crowdin persuade_the_cornelia_to_testify_88784ee0:
 msgid "[_cedrick_] Хах, тут тебе как раз не надо симулировать, дорогая. Все само собой выходит"
-msgstr ""
+msgstr "[_cedrick_] Non devi fingere qui, tesoro. Tutto viene fuori da solo."
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:21 #-#-# translate crowdin persuade_the_cornelia_to_testify_7ed94aaf:
 msgid "[_cornelia_] Ууухх.. Чего хотел то, Седрик?"
-msgstr ""
+msgstr "[_cornelia_] Uhhhh... Cosa vuoi, Cedric?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:25 #-#-# translate crowdin persuade_the_cornelia_to_testify_c3c6924c:
 msgid "[_cedrick_] Я подчищаю старые ошибки. И сейчас я спланировал все так, что все приведет к суду. Суду, на котором меня должны оправдать. И ты мне в этом поможешь"
-msgstr ""
+msgstr "[_cedrick_] Sto rimediando a vecchi errori. E ora l'ho pianificato in modo che porti a un processo. Un processo in cui dovrei essere assolto. E tu mi aiuterai a farlo."
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:29 #-#-# translate crowdin persuade_the_cornelia_to_testify_4089aba2:
 msgid "[_cornelia_] В качестве свидетеля?"
-msgstr ""
+msgstr "[_cornelia_] Come testimone?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:33 #-#-# translate crowdin persuade_the_cornelia_to_testify_d663077d:
 msgid "[_cedrick_] В качестве найденной жертвы. И, да, свидетеля, выступающего на моей стороне"
-msgstr ""
+msgstr "[_cedrick_] Come vittima ritrovata. E, sì, un testimone dalla mia parte"
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:37 #-#-# translate crowdin persuade_the_cornelia_to_testify_5451c4d6:
 msgid "[_cornelia_] Хммм.. Звучит весело. Ох, и не уж то я вернусь на Землю?"
-msgstr ""
+msgstr "[_cornelia_] Sembra divertente. Oh, e tornerò sulla Terra?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:41 #-#-# translate crowdin persuade_the_cornelia_to_testify_030a4502:
 msgid "[_cedrick_] Да, но ненадолго. Сама же знаешь, ты нужна мне здесь"
-msgstr ""
+msgstr "[_cedrick_] Sì, ma non per molto. Sai che ho bisogno di te qui."
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:45 #-#-# translate crowdin persuade_the_cornelia_to_testify_f51bfb17:
 msgid "[_cornelia_] Хах, я знаю, чертов змей. Куда ж ты без меня"
-msgstr ""
+msgstr "[_cornelia_] Lo so, maledetto serpente. Dove andresti senza di me?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:49 #-#-# translate crowdin persuade_the_cornelia_to_testify_ee3d0524:
 msgid "[_cedrick_] Могу на тебя рассчитывать?"
-msgstr ""
+msgstr "[_cedrick_] Posso contare su di te?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:53 #-#-# translate crowdin persuade_the_cornelia_to_testify_251b5a8f:
 msgid "[_cornelia_] Да, вполне. Я сделаю все в лучшем виде. Суд присяжных будет просто рыдать"
-msgstr ""
+msgstr "[_cornelia_] Sì, certo. Farò del mio meglio. La giuria piangerà."
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:54 #-#-# translate crowdin persuade_the_cornelia_to_testify_9badc512:
 msgid "[_cedrick_] Хах, посмотрим"
-msgstr ""
+msgstr "[_cedrick_] Vedremo."
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:56 #-#-# translate crowdin persuade_the_cornelia_to_testify_4e4d355b:
 msgid "[_cedrick_] (Так, Корнелия есть. Остались двое. Тарани и Ирма. С Ирмой не должно быть проблем, но вот Тарани..)"
-msgstr ""
+msgstr "[_cedrick_] (Quindi, Cornelia è lì. Ne restano due. Tarani e Irma. Irma non dovrebbe essere un problema, ma Tarani...)"
 
