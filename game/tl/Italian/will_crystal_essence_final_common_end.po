@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-05-02 12:17\n"
+"PO-Revision-Date: 2023-05-22 12:59\n"
 
 # TODO: Translation updated at 2023-04-28 19:58 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:3 #-#-# translate crowdin will_crystal_essence_final_common_end_a20cefa7:
 msgid "..."
@@ -18,45 +18,45 @@ msgstr "..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:5 #-#-# translate crowdin will_crystal_essence_final_common_end_9b8bc859:
 msgid "[_centered_] {size=37}Утром в доме Вендомов{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] [withDissolve1]{Mattina a casa Wendom{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:8 #-#-# translate crowdin will_crystal_essence_final_common_end_b0393b4f:
 msgid "[_cedrick_] (Что ж, с Вилл я разобрался, теперь нужно разобраться с моей невиновностью)"
-msgstr ""
+msgstr "[_cedrick_] (Beh, ho fatto i conti con Will, ora devo fare i conti con la mia innocenza)."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:9 #-#-# translate crowdin will_crystal_essence_final_common_end_6c0c47cc:
 msgid "[_cedrick_] (Для начала определимся с вводными данными)"
-msgstr ""
+msgstr "[_cedrick_] (Iniziamo con alcune informazioni di base)."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:10 #-#-# translate crowdin will_crystal_essence_final_common_end_c7563f4a:
 msgid "[_cedrick_] (Медина ищет улики, указывающие на Мактиннена. Но, думаю ей довольно сложно искать то, чего нет. На этом этапе сложно на нее рассчитывать)"
-msgstr ""
+msgstr "[_cedrick_] (Medina sta cercando prove che puntino a McTinnen. Ma credo che sia piuttosto difficile per lei cercare qualcosa che non c'è. È difficile contare su di lei in questa fase)"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:11 #-#-# translate crowdin will_crystal_essence_final_common_end_0f55a66e:
 msgid "[_cedrick_] (Из имеющегося у меня арсенала, есть новоприобретенная способность изменения сознания. Но она слишком специфическая для частого использования..)"
-msgstr ""
+msgstr "[_cedrick_] (Dall'arsenale che ho, c'è una nuova capacità di alterare la coscienza. Ma è troppo specifica per un uso frequente...)"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:12 #-#-# translate crowdin will_crystal_essence_final_common_end_6083fbf9:
 msgid "[_cedrick_] (Я должен хорошо знать цель, чтобы понять, что ей можно внушить, а что нет, ведь если я начну внушать то, что противоречит основам ее личности, то в лучшем случае это просто не сработает..)"
-msgstr ""
+msgstr "[_cedrick_] (Devo conoscere l'obiettivo abbastanza bene da sapere cosa può e cosa non può essere indottrinato, perché se inizio a indottrinare qualcosa che va contro le basi della sua personalità, semplicemente non funzionerà nel migliore dei casi)..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:13 #-#-# translate crowdin will_crystal_essence_final_common_end_d4021991:
 msgid "[_cedrick_] (А в худшем у бедняжки начнут мозги плавиться.. К тому же на эту способность уходит много зелий, а новых Миранда еще не сделала)"
-msgstr ""
+msgstr "[_cedrick_] (E nel peggiore dei casi, il cervello della povera ragazza inizierà a fondersi... E ci vogliono molte pozioni per questa abilità, e Miranda non ne ha ancora fatte di nuove)."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:14 #-#-# translate crowdin will_crystal_essence_final_common_end_c12b2625:
 msgid "[_cedrick_] (Хм.. Значит, остаются старые добрые манипуляции и интриги..)"
-msgstr ""
+msgstr "[_cedrick_] (Hmmm... Quindi rimangono la manipolazione e l'intrigo vecchio stile)."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:15 #-#-# translate crowdin will_crystal_essence_final_common_end_380ec5be:
 msgid "[_cedrick_] Видимо самое время помочь нашему детективу в этом нелегком деле. Для начала мне нужны свидетели и пострадавшие)"
-msgstr ""
+msgstr "[_cedrick_] A quanto pare è arrivato il momento di aiutare il nostro detective in questo difficile caso. Per cominciare, ho bisogno di testimoni e vittime)."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:18 #-#-# translate crowdin will_crystal_essence_final_common_end_ef782473:
 msgid "[_centered_] {size=37}СЕДРИК НАХОДИТ КЕПКУ И ТЕМНЫЕ ОЧКИ{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] [withDissolve1]{Occhiali da sole e occhiali scuri{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:20 #-#-# translate crowdin will_crystal_essence_final_common_end_28265236:
 msgid "[_cedrick_] (Ну.. По крайней мере в фильмах это всегда работает..)"
-msgstr ""
+msgstr "[_cedrick_] (Beh... almeno nei film funziona sempre...)"
 
