@@ -10,31 +10,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-05-02 12:17\n"
+"PO-Revision-Date: 2023-05-22 12:59\n"
 
 # TODO: Translation updated at 2023-04-28 19:58 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:5 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_6bff2d15:
 msgid "[_cedrick_] Ну как вы тут, девочки? Смотрю отдельные спальные номера вам еще не выделили. Да, с бюджетом у нас нынче туго"
-msgstr ""
+msgstr "[_cedrick_] Come state voi ragazze? Vedo che non vi sono ancora stati assegnati alloggi separati. Sì, abbiamo un budget limitato in questi giorni."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:7 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_68a75fd3:
 msgid "[_irma_] С-седрик.. Зачем ты здесь?"
-msgstr ""
+msgstr "[_irma_] S-Cedric... Perché sei qui?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:9 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_efc0f4e3:
 msgid "[_tarani_] Ты, урод! Думаешь ты сможешь долго нас здесь удерживать!?"
-msgstr ""
+msgstr "[_tarani_] Tu, pazzoide! Pensi di poterci tenere qui a lungo?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:11 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_49c11d38:
 msgid "[_cedrick_] Ох, еще как смогу"
-msgstr ""
+msgstr "[_cedrick_] Oh, posso farlo."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:17 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_d12b975c:
 msgid "[_cedrick_] Но сейчас не об этом. Мне нужна ваша помощь"
-msgstr ""
+msgstr "[_cedrick_] Ma non si tratta di questo. Ho bisogno del vostro aiuto"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:22 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_6fde83fb:
 msgid "[_tarani_] Еще чего, фрик!"
-msgstr ""
+msgstr "[_tarani_] Non è possibile, pazzoide!"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:26 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_795678bb:
 msgid "[_irma_] ..."
@@ -42,19 +42,19 @@ msgstr "[_irma_] ..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:27 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_4e890cc7:
 msgid "[_cedrick_] Ирма?"
-msgstr ""
+msgstr "[_cedrick_] Irma?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:31 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_0b2acb2c:
 msgid "[_irma_] С чем нужно помочь?"
-msgstr ""
+msgstr "[_irma_] In cosa hai bisogno di aiuto?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:37 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_617e9e10:
 msgid "[_tarani_] Ирма! Да как ты.. Как ты только можешь.."
-msgstr ""
+msgstr "[_tarani_] Irma! Come hai potuto... Come hai potuto..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:38 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_448c5693:
 msgid "[_cedrick_] Вот это правильный ответ, Ирма"
-msgstr ""
+msgstr "[_cedrick_] È la risposta giusta, Irma."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:39 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_795678bb_1:
 msgid "[_irma_] ..."
@@ -62,31 +62,31 @@ msgstr "[_irma_] ..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:44 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_fecc7909:
 msgid "[_cedrick_] Мне нужно, чтобы вы выступили в суде в качестве жертв и способствовали тому, чтобы меня оправдали"
-msgstr ""
+msgstr "[_cedrick_] Ho bisogno che vi presentiate in tribunale come vittime e che mi aiutiate a farmi assolvere"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:48 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_888ed507:
 msgid "[_cedrick_] А посадить должны того выскочку-детектива Мактиннена, которого вы сами на меня натравили"
-msgstr ""
+msgstr "[_cedrick_] E dovrebbero mettere quel detective ribelle, il detective McTinnen, che mi ha incastrato di sua iniziativa..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:49 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_9835c08c:
 msgid "[_cedrick_] Пора вам с этим разобраться, ведь без вашей помощи все не стало бы настолько запущено"
-msgstr ""
+msgstr "[_cedrick_] È ora di risolvere il problema, perché senza il vostro aiuto non sarebbe così grave."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:53 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_acc74898:
 msgid "[_irma_] Я-я понимаю.."
-msgstr ""
+msgstr "[_irma_] Capisco..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:57 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_46557263:
 msgid "[_tarani_] Ирма, да что с тобой!? Хватит вести себя как тряпка! Борись!!"
-msgstr ""
+msgstr "[_tarani_] Irma, qual è il tuo problema? Smettila di comportarti come una pappamolla! Combatti!!!"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:61 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_f99733ed:
 msgid "[_cedrick_] Ты видимо так и не поняла сути происходящего, Тарани"
-msgstr ""
+msgstr "[_cedrick_] Sembra che tu non abbia ancora capito cosa sta succedendo, Tarani."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:65 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_ebde59ff:
 msgid "[_cedrick_] Ты взываешь к человеку, который уже давно сдался и выбрал для себя самую комфортную позицию"
-msgstr ""
+msgstr "[_cedrick_] Vi rivolgete a un uomo che da tempo si è arreso e ha scelto la posizione più comoda per sé."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:66 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_795678bb_2:
 msgid "[_irma_] ..."
@@ -94,15 +94,15 @@ msgstr "[_irma_] ..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:67 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_a7ec1d19:
 msgid "[_cedrick_] И тебе стоило бы взять с нее пример. Ты в безвыходном положении, девочка"
-msgstr ""
+msgstr "[_cedrick_] E tu dovresti guardarla con ammirazione. Sei in difficoltà, ragazza."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:68 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_eb1c723a:
 msgid "[_cedrick_] Все стражницы уже так или иначе под моим контролем, понимаешь? Ты осталась одна"
-msgstr ""
+msgstr "[_cedrick_] Tutte le guardie sono già sotto il mio controllo in un modo o nell'altro, sai? Tu sei l'unico rimasto"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:72 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_7d080646:
 msgid "[_tarani_] Именно! И пока я все еще борюсь, ты не победил!"
-msgstr ""
+msgstr "[_tarani_] Esattamente! E mentre io sto ancora lottando, tu non hai vinto!"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:76 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_49316299:
 msgid "[_cedrick_] ..."
@@ -110,23 +110,23 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:81 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_46fb8218:
 msgid "[_cedrick_] (Хах, а она права. Отдаю должное ее упорству. Сейчас я даже не знаю, как к ней подобраться)"
-msgstr ""
+msgstr "[_cedrick_] (E ha ragione. Devo riconoscere la sua tenacia. Ora non so nemmeno come avvicinarmi a lei)."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:82 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_bb966689:
 msgid "[_cedrick_] (Я даже не могу подкорректировать ее сознание своей способностью, потому что попросту не знаю, на что давить)"
-msgstr ""
+msgstr "[_cedrick_] (Non riesco nemmeno a modificare la sua coscienza con la mia abilità perché non so cosa spingere)."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:83 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_ce623da9:
 msgid "[_cedrick_] (Эта девчонка неожиданным для меня образом превратилась в неприступную крепость)"
-msgstr ""
+msgstr "[_cedrick_] (Questa ragazza si è improvvisamente trasformata in una fortezza inespugnabile)."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:84 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_d05f9b1a:
 msgid "[_cedrick_] (Видимо, это очередной результат моих старых просчетов. Я думал, что с Вилл будет сложнее, чем с Тарани)"
-msgstr ""
+msgstr "[_cedrick_] (A quanto pare questo è un altro risultato dei miei vecchi errori di calcolo. Pensavo che sarebbe stato più difficile con Will che con Tarani)."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:85 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_77b614e0:
 msgid "[_cedrick_] (В итоге теперь я не могу ее сломать, потому что слишком мало уделял ей времени)"
-msgstr ""
+msgstr "[_cedrick_] (Alla fine non sono in grado di romperlo perché ci ho dedicato troppo poco tempo)."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:87 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_b4f96dc9:
 msgid "[_cedrick_] Хм.."
@@ -134,11 +134,11 @@ msgstr "[_cedrick_] Hm..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:91 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_280ee35b:
 msgid "[_tarani_] Ну что, змей, язык проглотил?"
-msgstr ""
+msgstr "[_tarani_] Hai ingoiato la lingua, serpente?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:95 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_4d107a8e:
 msgid "[_cedrick_] Ирма, я приду за тобой, как только все подготовлю. Тарани остается здесь"
-msgstr ""
+msgstr "[_cedrick_] Irma, verrò a prenderti non appena avrò preparato tutto. Tarani rimane qui"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:99 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_541ea7a9:
 msgid "[_tarani_] Ч-что!?"
@@ -146,73 +146,73 @@ msgstr "[_tarani_] Cosa?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:100 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_5fc0b6cf:
 msgid "[_cedrick_] Ты права, девчонка. Я признаю за тобой победу в этой битве"
-msgstr ""
+msgstr "[_cedrick_] Hai ragione, ragazza. Ti lascio vincere questa battaglia."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:101 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_a3d940a8:
 msgid "[_cedrick_] Я не знаю, что с тобой делать. Поэтому ты остаешься здесь"
-msgstr ""
+msgstr "[_cedrick_] Non so cosa fare con te. Ecco perché rimani qui"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:102 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_14f3037b:
 msgid "[_tarani_] К-какого..."
-msgstr ""
+msgstr "[_tarani_] Ma che..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:106 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_a20d2c2d:
 msgid "[_cedrick_] Остаться в камере в одиночестве, когда как Ирма сможет, хоть и ненадолго, но вернуться на землю"
-msgstr ""
+msgstr "[_cedrick_] Essere lasciati soli in una cella quando Irma può, anche se per poco, tornare sulla terra"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:107 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_1132dc60:
 msgid "[_cedrick_] Достойная победа для тебя? Как считаешь, Тарани?"
-msgstr ""
+msgstr "[_cedrick_] Una vittoria degna di nota per voi? Cosa ne pensi, Tarani?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:111 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_e9ed610f:
 msgid "[_tarani_] Пф.. Это не важно. Не важно где я. Пока ты меня не сломил, стражницы еще не проиграли"
-msgstr ""
+msgstr "[_tarani_] Pfft... Non importa. Non importa dove sono. Finché non mi avete spezzato, le guardie non hanno ancora perso."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:115 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_1e459619:
 msgid "[_cedrick_] Это правда. Но ты проиграешь мне со временем, Тарани. Будь уверена"
-msgstr ""
+msgstr "[_cedrick_] È vero. Ma col tempo mi perderai, Tarani. Sii certo."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:119 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_2430b728:
 msgid "[_tarani_] Этому.. Этому никогда не бывать.."
-msgstr ""
+msgstr "[_tarani_] Questo... Non succederà mai..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:123 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_ee7e6af0:
 msgid "[_cedrick_] Вот увидишь"
-msgstr ""
+msgstr "[_cedrick_] Vedrete."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:124 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_d72215e3:
 msgid "[_cedrick_] Ирма, до скорого"
-msgstr ""
+msgstr "[_cedrick_] Irma, a presto."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:128 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_97ea51b6:
 msgid "[_irma_] До скорого, Седрик.."
-msgstr ""
+msgstr "[_irma_] A presto, Cedric..."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:132 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_71a484e5:
 msgid "[_cedrick_] (Что ж, не все так гладко, но в целом у меня есть все, что нужно)"
-msgstr ""
+msgstr "[_cedrick_] (Beh, non è tutto liscio come l'olio, ma nel complesso ho tutto ciò che mi serve)."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:133 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_68b54df1:
 msgid "[_cedrick_] (Осталось собрать всех в одном месте и сделать так, чтобы Медина их нашла)"
-msgstr ""
+msgstr "[_cedrick_] (Rimane da riunire tutti in un unico luogo e fare in modo che Medina li trovi)"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:134 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_d664403a:
 msgid "[_cedrick_] (Хм.. Адрес склада хранения, принадлежащего Мактиннену, у меня есть.. Но как мне дать на нее нужную наводку)"
-msgstr ""
+msgstr "[_cedrick_] (Hmmm... ho l'indirizzo di un deposito di proprietà di McTinnen... Ma come faccio a dargli la pista giusta)"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:135 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_89b3143e:
 msgid "[_cedrick_] (Если я просто выложу Медине все как есть, она может меня заподозрить. Это должен сделать кто-то другой..)"
-msgstr ""
+msgstr "[_cedrick_] (Se dicessi tutto a Medina così com'è, potrebbe insospettirsi di me. Qualcun altro deve farlo...)"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:136 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_913240dd:
 msgid "[_cedrick_] (Кто мог бы раскопать такую сенсацию..)"
-msgstr ""
+msgstr "[_cedrick_] (Chi ha tirato fuori uno scoop del genere...)"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:137 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_79618398:
 msgid "[_cedrick_] (Точно..)"
-msgstr ""
+msgstr "[_cedrick_] (Giusto...)"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:138 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_f61aa893:
 msgid "[_cedrick_] (Сестры Грампер, вот кто мне нужен. Я должен отправиться в школу)"
-msgstr ""
+msgstr "[_cedrick_] (Le sorelle Gramper, ecco di chi ho bisogno. Devo andare a scuola)"
 
