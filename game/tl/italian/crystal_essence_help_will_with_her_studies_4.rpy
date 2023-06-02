@@ -4,7 +4,7 @@
 translate italian crystal_essence_help_will_with_her_studies_4_8b9f713b:
 
     # centered "{size=37}ПОЗЖЕ, ВЕЧЕРОМ{/size}"
-    centered "{A tarda notte{/size}"
+    centered "{{size=37}A tarda notte{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:12
 translate italian crystal_essence_help_will_with_her_studies_4_30c9cc4a:
@@ -94,7 +94,7 @@ translate italian crystal_essence_help_will_with_her_studies_4_4f182ffa:
 translate italian crystal_essence_help_will_with_her_studies_4_51762836:
 
     # centered "{size=37}ПОЗЖЕ, НОЧЬЮ{/size}"
-    centered "{Tarda notte, notte, notte, notte..."
+    centered "{size=37}Tarda notte, {/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:40
 translate italian crystal_essence_help_will_with_her_studies_4_bf526265:

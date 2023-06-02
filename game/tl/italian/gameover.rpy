@@ -16,5 +16,5 @@ translate italian gameover_e94ac20d:
 translate italian gameover_c7f7898a:
 
     # centered "{size=37} ИГРА ОКОНЧЕНА {/size}"
-    centered "{La partita è finita."
+    centered "{size=37} La partita è finita. {/size}"
 

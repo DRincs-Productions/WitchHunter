@@ -4,7 +4,7 @@ translate italian strings:
 
     # game/script.rpy:169
     old "Играть с читами"
-    new "Giocare con i cheat"
+    new "Giocare con i trucchi"
 
     # game/script.rpy:169
     old "Играть без читов"

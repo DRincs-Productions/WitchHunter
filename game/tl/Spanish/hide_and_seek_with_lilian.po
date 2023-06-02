@@ -1,0 +1,578 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.po\n"
+"X-Crowdin-File-ID: 5111\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-04-25 17:24\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:5 #-#-# translate crowdin hide_and_seek_with_lilian_c4629577:
+msgid "[_cedrick_] (Пожалуй, что... Нет.)"
+msgstr "[_cedrick_] (Supongo que sí... No.)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:6 #-#-# translate crowdin hide_and_seek_with_lilian_9f76b1f1:
+msgid "[_cedrick_] (Развращать кого-то вроде Лилиан мне нет никакой надобности. Это приведет лишь к лишним проблемам в будущем. У всего есть свой предел, мой проходит здесь)"
+msgstr "[_cedrick_] (No hay necesidad de que corrompa a alguien como Lillian. Solo traería problemas innecesarios en el futuro. Todo tiene un límite, el mío está aquí)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:7 #-#-# translate crowdin hide_and_seek_with_lilian_1f0f31f1:
+msgid "[_cedrick_] (Одно дело отправлять на катакомбы всякий нападающий на меня сброд и подирать дряхлых стариков, которые и без моей помощи померли бы через пару дней)"
+msgstr "[_cedrick_] (Una cosa es enviar a todo tipo de chusma que me ataca a las catacumbas y meterse con viejos decrépitos que estarían muertos en un par de días sin mi ayuda)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:8 #-#-# translate crowdin hide_and_seek_with_lilian_82c946b3:
+msgid "[_cedrick_] (И совсем другое дело развращать девочку, которая никак не участвует в нашей войне со Стражницами)"
+msgstr "[_cedrick_] (Y otra cosa es corromper a una chica que no tiene nada que ver con nuestra guerra contra las Guardianas)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:9 #-#-# translate crowdin hide_and_seek_with_lilian_84d6e486:
+msgid "[_cedrick_] (Хм.. Но это не значит, что я не смогу ее использовать. Все же, она является слабым местом для Корнелии. Я могу это обыграть)"
+msgstr "[_cedrick_] (Hmm... Pero eso no significa que no pueda usarla. Aun así, es un punto débil para Cornelia. Puedo jugar con eso)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:10 #-#-# translate crowdin hide_and_seek_with_lilian_27d00052:
+msgid "[_cedrick_] Лилиан, ни к чему торопиться взрослеть. Наслаждайся тем временем, что у тебя есть. Быть взрослым ведь довольно скучно"
+msgstr "[_cedrick_] Lillian, no hay prisa por crecer. Disfruta del tiempo que tienes. Ser adulto es bastante aburrido"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:11 #-#-# translate crowdin hide_and_seek_with_lilian_a282f4b9:
+msgid "[_cedrick_] Посмотри на меня – я держатель своего книжного магазина, скука смертная!"
+msgstr "[_cedrick_] Mírame, tengo mi propia librería, ¡pero es un aburrimiento de muerte!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:14 #-#-# translate crowdin hide_and_seek_with_lilian_9e5e96a1:
+msgid "[_lilian_] Ооой, да ладно тебе, Рик, ты совсееем не скучный. В отличии от моей надоедливой сестры"
+msgstr "[_lilian_] Oh, vamos, Rick, no eres para nada aburrido. A diferencia de mi molesta hermana"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:15 #-#-# translate crowdin hide_and_seek_with_lilian_d3f70b75:
+msgid "[_cedrick_] Хм, считаешь Корнелию скучной?"
+msgstr "[_cedrick_] ¿Crees que Cornelia es aburrida?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:18 #-#-# translate crowdin hide_and_seek_with_lilian_722a6788:
+msgid "[_lilian_] Да! Она никогда не играет со мной в прятки! А ты играешь, ты не скучный!"
+msgstr "[_lilian_] ¡Sí! ¡Nunca juega al escondite conmigo! ¡Y tú juegas, no eres aburrido!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:19 #-#-# translate crowdin hide_and_seek_with_lilian_577d8b13:
+msgid "[_cedrick_] Знаешь, а мы ведь могли бы все вместе сыграть в прятки"
+msgstr "[_cedrick_] Podríamos jugar todos juntos al escondite"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:22 #-#-# translate crowdin hide_and_seek_with_lilian_a30728d8:
+msgid "[_lilian_] И с Корнелией!?"
+msgstr "[_lilian_] ¿¡Y con Cornelia!?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:23 #-#-# translate crowdin hide_and_seek_with_lilian_0df4399e:
+msgid "[_cedrick_] Ага, и с Корнелией. Мы можем по очереди начать тебя искать, а потом ты будешь искать нас!"
+msgstr "[_cedrick_] Sí, y con Cornelia. ¡Podemos turnarnos para buscarte y luego tú puedes buscarnos a nosotros!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:25 #-#-# translate crowdin hide_and_seek_with_lilian_cb7c6ae3:
+msgid "[_lilian_] Еще чего, не буду я вас искать, это скучно! Сначала вы попробуйте меня найдите, хехе"
+msgstr "[_lilian_] De ninguna manera, no te estoy buscando, ¡es aburrido! Intenta encontrarme tú primero, jejeje"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:26 #-#-# translate crowdin hide_and_seek_with_lilian_6d16860b:
+msgid "[_cedrick_] Но знаешь, Корнелия довольно хороша в прятках. Мне вот ни разу не удавалось от нее спрятаться"
+msgstr "[_cedrick_] Pero ya sabes, Cornelia es muy buena buscando. Nunca he sido capaz de esconderme de ella"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:27 #-#-# translate crowdin hide_and_seek_with_lilian_13d39efc:
+msgid "[_cedrick_] (Да уж, ее способность всегда доставляла мне кучу проблем. От растений сложно скрыться, с моими то размерами в обличии змея)"
+msgstr "[_cedrick_] (Sí, su habilidad siempre me ha dado muchos problemas. Es difícil esconderse de las plantas, con mi tamaño de serpiente)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:30 #-#-# translate crowdin hide_and_seek_with_lilian_bcb722e9:
+msgid "[_lilian_] Вы что, играли с Корнелией в прятки!? Без меня!?"
+msgstr "[_lilian_] ¿¡Has estado jugando al escondite con Cornelia!? ¿¡Sin mí!?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:31 #-#-# translate crowdin hide_and_seek_with_lilian_896833f4:
+msgid "[_cedrick_] Хах, ну нужно же как-то проводить свободное время скучному владельцу книжного магазина"
+msgstr "[_cedrick_] Huh, bueno, el aburrido dueño de una librería necesita una forma de pasar su tiempo libre"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:32 #-#-# translate crowdin hide_and_seek_with_lilian_1c5d65da:
+msgid "[_cedrick_] Давай так, я помогу тебе спрятаться, но при условии, что ты не выйдешь до тех пор, пока я тебя не позову, хорошо?"
+msgstr "[_cedrick_] Te ayudaré a esconderte, pero con la condición de que no salgas hasta que te llame, ¿vale?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:33 #-#-# translate crowdin hide_and_seek_with_lilian_3c0c8d80:
+msgid "[_lilian_] А зачем ты мне помогаешь прятаться?"
+msgstr "[_lilian_] ¿Por qué me ayudas a esconderme?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:34 #-#-# translate crowdin hide_and_seek_with_lilian_2e317477:
+msgid "[_cedrick_] Хочу насолить Корнелии за все те разы, когда она меня ловила.. Да и не круто ли доказать своей сестре, что ты лучшее ее играешь в прятки?"
+msgstr "[_cedrick_] Quiero molestar a Cornelia por todas las veces que me ha pillado. Y ¿no es genial demostrarle a tu hermana que eres mejor que ella al escondite?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:37 #-#-# translate crowdin hide_and_seek_with_lilian_6bf38287:
+msgid "[_lilian_] Хехе, звучит круто! Но где мне тогда лучше спрятаться?"
+msgstr "[_lilian_] Jeje, ¡eso suena genial! Pero entonces, ¿dónde me escondo?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:38 #-#-# translate crowdin hide_and_seek_with_lilian_7f1d8d6b:
+msgid "[_cedrick_] Все просто – надо спрятаться там, где она не будет искать. Например, она точно не ожидает, что ты будешь прятаться где-то за пределами вашей квартиры"
+msgstr "[_cedrick_] Es muy sencillo: tienes que esconderte donde ella no mire. Por ejemplo, seguro que no espera que te escondas fuera de tu apartamento"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:39 #-#-# translate crowdin hide_and_seek_with_lilian_61e303ef:
+msgid "[_lilian_] Ооооооо... Тооочно!"
+msgstr "[_lilian_] Oooooh... ¡Ohhhhhhhh!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:40 #-#-# translate crowdin hide_and_seek_with_lilian_3460d19d:
+msgid "[_cedrick_] Ты можешь спрятаться на лестничной клетке на пару этажей выше вашего. Там она точно не догадается тебя искать"
+msgstr "[_cedrick_] Puedes esconderte en la escalera un par de pisos por encima de este. Ella no sabrá buscarte allí"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:41 #-#-# translate crowdin hide_and_seek_with_lilian_8c0eef01:
+msgid "[_lilian_] Как круто ты это придумал, Рик!"
+msgstr "[_lilian_] ¡Qué genial que se te haya ocurrido, Rick!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:42 #-#-# translate crowdin hide_and_seek_with_lilian_4190a2f3:
+msgid "[_cedrick_] Еще бы. Но помни, не выходи до тех пор, пока я сам тебя не позову!"
+msgstr "[_cedrick_] Ya lo creo. Pero recuerda, ¡no salgas hasta que te llame!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:43 #-#-# translate crowdin hide_and_seek_with_lilian_943d2a1e:
+msgid "[_lilian_] Хорошооо!"
+msgstr "[_lilian_] ¡Muy bien!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:44 #-#-# translate crowdin hide_and_seek_with_lilian_1f25d8e6:
+msgid "[_cedrick_] (Все равно она спустится домой, как только ей станет скучно. А моя задача – использовать этот обман и разобраться с Корнелией до того, как Лилиан вернется)"
+msgstr "[_cedrick_] (Ella bajará a casa tan pronto como se aburra de todos modos. Y mi trabajo es usar este engaño y tratar con Cornelia antes de que Lillian regrese)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:45 #-#-# translate crowdin hide_and_seek_with_lilian_43db7f99:
+msgid "[_cedrick_] (Хм.. думаю стоит сыграть с ней в кошки-мышки, чтобы она угналась за мной и не успела сообщить обо всем остальным стражницам)"
+msgstr "[_cedrick_] (Hm... Creo que debería jugar al gato y al ratón con ella para que me siga el ritmo y no informe de esto a las otras guardianas)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:47 #-#-# translate crowdin hide_and_seek_with_lilian_b7e40f2b:
+msgid "[_centered_] {size=37}ПОЗЖЕ В ДОМЕ ХЕЙЛОВ{/size}"
+msgstr "[_centered_] {size=37}Más tarde en la Casa Hale{/size}"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:54 #-#-# translate crowdin hide_and_seek_with_lilian_91f52bca:
+msgid "[_cornelia_] Рик, прости что долго.. Подожди, а где Лилиан?"
+msgstr "[_cornelia_] Rick, siento haber tardado tanto. Espera, ¿dónde está Lillian?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:58 #-#-# translate crowdin hide_and_seek_with_lilian_471e6c98:
+msgid "[_cedrick_] Твоя сестра на Меридиане.."
+msgstr "[_cedrick_] Tu hermana está en Meridian.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:62 #-#-# translate crowdin hide_and_seek_with_lilian_b4918782:
+msgid "[_cornelia_] Меридиане? Откуда ты.."
+msgstr "[_cornelia_] ¿Meridian? ¿Cómo has.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:63 #-#-# translate crowdin hide_and_seek_with_lilian_935f99a5:
+msgid "[_cedrick_] Дело в том, что я – Лорд Седрик! Правая рука князя Фобоса"
+msgstr "[_cedrick_] La cosa es que yo... ¡Soy Lord Cedric! La mano derecha del Príncipe Phobos"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:68 #-#-# translate crowdin hide_and_seek_with_lilian_d5226c1f:
+msgid "[_cornelia_] Что!? Н-но.. как это возможно!?"
+msgstr "[_cornelia_] ¿¡Qué!? ¿¡P-pero cómo es posible!?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:69 #-#-# translate crowdin hide_and_seek_with_lilian_ee87dbc4:
+msgid "[_cedrick_] Твоей сестре не очень нравилось, как ты с ней обращалась, и я предложил ей отправиться со мной на Меридиан"
+msgstr "[_cedrick_] A tu hermana no le gustó mucho... La forma en que la trataste... Así que le sugerí que viniera conmigo a Meridian, jeje"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:73 #-#-# translate crowdin hide_and_seek_with_lilian_77c76886:
+msgid "[_cornelia_] Р-Рик.. Как ты мог, мы же.. Ах ты.. Ублюдок!"
+msgstr "[_cornelia_] R-Rick... Cómo pudiste, nosotros... Tú... ¡Bastardo!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:75 #-#-# translate crowdin hide_and_seek_with_lilian_1b011c18:
+msgid "[_cornelia_] Т-ты ее и пальцем не посмеешь тронуть, понял!?"
+msgstr "[_cornelia_] No le pondrás un dedo encima, ¿¡entendido!?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:79 #-#-# translate crowdin hide_and_seek_with_lilian_e9c3f58d:
+msgid "[_cedrick_] Не тебе здесь ставить условия, дорогая. Пока что к твоей сестре хорошо относятся, но будешь мне хамить, и мои стражники будут уже не так добры с ней"
+msgstr "[_cedrick_] No te corresponde a ti establecer las condiciones aquí, querida. Hasta ahora tu hermana está siendo bien tratada, pero sé grosera conmigo y mis guardias no serán tan amables con ella"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:83 #-#-# translate crowdin hide_and_seek_with_lilian_9f0a825e:
+msgid "[_cornelia_] Н-не надо.."
+msgstr "[_cornelia_] N-no.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:84 #-#-# translate crowdin hide_and_seek_with_lilian_29a9517b:
+msgid "[_cedrick_] (Я должен как можно скорее выпроводить ее из квартиры, Лилиан может скоро вернуться..)"
+msgstr "[_cedrick_] (Necesito sacarla del apartamento cuanto antes, Lillian puede volver en cualquier momento...)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:85 #-#-# translate crowdin hide_and_seek_with_lilian_9939e51c:
+msgid "[_cedrick_] (Но, если я неправильно на нее надавлю, она может вместо того, чтобы преследовать меня, может сначала побежать к подругам за помощью, тогда мой план провалится..)"
+msgstr "[_cedrick_] (Pero si la presiono incorrectamente, puede que corra primero a pedir ayuda a sus amigas en vez de perseguirme, entonces mi plan fracasara...)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:86 #-#-# translate crowdin hide_and_seek_with_lilian_10f8308a:
+msgid "[_cedrick_] (Хм.. Есть один способ.. Непреложный обет.. Я не очень-то хорош в такого типа магии, это скорее специализация Фобоса, но другого выхода в этой ситуации у меня не остается)"
+msgstr "[_cedrick_] (Hmm... Hay una manera... Un voto inquebrantable... No soy muy bueno en este tipo de magia, es más una especialidad de Phobos, pero no tengo otra opción en esta situación)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:87 #-#-# translate crowdin hide_and_seek_with_lilian_62e7ee86:
+msgid "[_cornelia_] Я сделаю все, только не троньте мою сестру.."
+msgstr "[_cornelia_] Haré lo que sea, pero no toques a mi hermana.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:91 #-#-# translate crowdin hide_and_seek_with_lilian_3857a2a9:
+msgid "[_cedrick_] С твоей сестрой ничего не случится, если ты дашь слово, что никому не расскажешь ни о тайне моей личности, ни о том, как пропала Лилиан"
+msgstr "[_cedrick_] A tu hermana no le pasará nada si das tu palabra de que no le contarás a nadie el secreto de mi identidad ni cómo desapareció Lilian"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:95 #-#-# translate crowdin hide_and_seek_with_lilian_a97c1d75:
+msgid "[_cornelia_] Я.. Я никому не скажу, честное слово! Я клянусь!"
+msgstr "[_cornelia_] Yo.. No se lo diré a nadie, ¡lo juro! ¡Lo juro!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:99 #-#-# translate crowdin hide_and_seek_with_lilian_d9c97c79:
+msgid "[_cedrick_] Я бы рад поверить тебе на слово, но этого недостаточно"
+msgstr "[_cedrick_] Me encantaría creer en tu palabra, pero no es suficiente"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:100 #-#-# translate crowdin hide_and_seek_with_lilian_ca3ba1d6:
+msgid "[_cedrick_] Я хочу, чтобы ты дала клятву.. Непреложный обет.."
+msgstr "[_cedrick_] Quiero que hagas un voto... Un voto inquebrantable.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:104 #-#-# translate crowdin hide_and_seek_with_lilian_3f1624c7:
+msgid "[_cornelia_] Ты.. Да как ты только можешь, после всего, что между нами было..."
+msgstr "[_cornelia_] Tú... ¿Cómo pudiste?, después de todo lo que hemos pasado..."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:108 #-#-# translate crowdin hide_and_seek_with_lilian_193a93ac:
+msgid "[_cedrick_] Ох, тебя это правда так задело? Не могу сказать, что мне не понравилось проводить с тобой время, но, сама понимаешь, вы, стражницы, слишком долго стоите у нас на пути"
+msgstr "[_cedrick_] ¿De verdad te dolió tanto? No puedo decir que no disfruté pasar tiempo contigo, pero, ya sabes, las guardianas han estado en nuestro camino demasiado tiempo"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:112 #-#-# translate crowdin hide_and_seek_with_lilian_b6ca52be:
+msgid "[_cornelia_] ..И что, служение Фобосу стоит того? Мне казалось, ты был довольно счастлив, когда строил из себя обычного человека"
+msgstr "[_cornelia_] ...¿y servir a Phobos vale la pena? Pensé que eras muy feliz cuando pretendías ser una persona normal"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:116 #-#-# translate crowdin hide_and_seek_with_lilian_863780f8:
+msgid "[_cedrick_] ..Я хорошо притворяюсь, все же это часть моей работы. К тому же, когда я представлял тебя моей служанкой или рабыней – это так же определенно повышало мое настроение"
+msgstr "[_cedrick_] ...Se me da bien fingir, después de todo, es parte de mi trabajo. Además, cuando te imaginaba como mi criada o esclava, también me levantaba el ánimo"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:120 #-#-# translate crowdin hide_and_seek_with_lilian_fd410bc5:
+msgid "[_cornelia_] Ты.. Ты просто чудовище.."
+msgstr "[_cornelia_] Eres un... Eres un monstruo.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:124 #-#-# translate crowdin hide_and_seek_with_lilian_7d35c335:
+msgid "[_cedrick_] Тебе лучше принять обет, если не хочешь, чтобы с твоей сестрой что-то случилось"
+msgstr "[_cedrick_] Será mejor que hagas tus votos si no quieres que le pase algo a tu hermana"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:128 #-#-# translate crowdin hide_and_seek_with_lilian_d01ef303:
+msgid "[_cornelia_] Ладно.. Я сделаю это.."
+msgstr "[_cornelia_] Ok... Lo haré.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:130 #-#-# translate crowdin hide_and_seek_with_lilian_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:133 #-#-# translate crowdin hide_and_seek_with_lilian_69e81637:
+msgid "[_cedrick_] Клянешься ли ты, Корнелия Хейл, сохранить в секрете то, куда пропала твоя сестра?"
+msgstr "[_cedrick_] ¿¡Jura usted, Cornelia Hale, guardar en secreto adónde ha ido su hermana?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:134 #-#-# translate crowdin hide_and_seek_with_lilian_597c923c:
+msgid "[_cornelia_] Клянусь..."
+msgstr "[_cornelia_] Lo juro..."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:135 #-#-# translate crowdin hide_and_seek_with_lilian_52f31c71:
+msgid "[_cedrick_] Клянешься ли ты сохранить тайну моей личности и..."
+msgstr "[_cedrick_] ¿Juras mantener mi identidad en secreto y..."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:136 #-#-# translate crowdin hide_and_seek_with_lilian_de08f54e:
+msgid "[_cornelia_] Клянусь....."
+msgstr "[_cornelia_] Lo juro....."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:137 #-#-# translate crowdin hide_and_seek_with_lilian_afee18bd:
+msgid "[_cedrick_] Отсосать мой член?"
+msgstr "[_cedrick_] Chuparme la polla?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:138 #-#-# translate crowdin hide_and_seek_with_lilian_2ea7c9c4:
+msgid "[_cornelia_] Что!?"
+msgstr "[_cornelia_] ¡¿Qué!?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:139 #-#-# translate crowdin hide_and_seek_with_lilian_20eed3d7:
+msgid "[_cedrick_] Ахах, видела бы ты сейчас свое лицо.. Просто ты такая сексуальная, когда злишься, ничего не могу с собой поделать.."
+msgstr "[_cedrick_] jaja, deberías ver tu cara ahora mismo... Eres tan sexy cuando te enfadas, no puedo evitarlo.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:140 #-#-# translate crowdin hide_and_seek_with_lilian_f6cde6be:
+msgid "[_cornelia_] Придурок.. Мы закончили?"
+msgstr "[_cornelia_] Imbécil.. ¿Hemos terminado aquí?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:141 #-#-# translate crowdin hide_and_seek_with_lilian_f22ba48f:
+msgid "[_cedrick_] Ох, ну, раз я сказал это во время заклинания, теперь это стало обязательной частью нашего договора"
+msgstr "[_cedrick_] Oh, bueno, ya que lo dije durante el hechizo, ahora se ha convertido en una parte vinculante de nuestro acuerdo"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:142 #-#-# translate crowdin hide_and_seek_with_lilian_d128f95a:
+msgid "[_cornelia_] Черт.. Да ты издеваешься.."
+msgstr "[_cornelia_] Oh, hombre... Tienes que estar bromeando.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:143 #-#-# translate crowdin hide_and_seek_with_lilian_d654db38:
+msgid "[_cedrick_] Подумай о своей сестре"
+msgstr "[_cedrick_] Piensa en tu hermana"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:144 #-#-# translate crowdin hide_and_seek_with_lilian_158b2bed:
+msgid "[_cornelia_] ..Ладно, я клянусь"
+msgstr "[_cornelia_] ..Ok, lo juro"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:146 #-#-# translate crowdin hide_and_seek_with_lilian_e0319752:
+msgid "[_cedrick_] Вот и славно.. Мне же не нужно объяснять, что случится, если ты нарушишь непреложный обет?"
+msgstr "[_cedrick_] Muy bien. No necesito explicarte lo que pasa si rompes tu voto, ¿verdad?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:147 #-#-# translate crowdin hide_and_seek_with_lilian_7bdea869:
+msgid "[_cornelia_] Нет, я.. Я знаю.."
+msgstr "[_cornelia_] No, yo... Yo lo sé.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:148 #-#-# translate crowdin hide_and_seek_with_lilian_6b438654:
+msgid "[_cedrick_] Тогда, можешь приступать к сосанию моего члена"
+msgstr "[_cedrick_] Entonces puedes empezar a chuparme la polla"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:150 #-#-# translate crowdin hide_and_seek_with_lilian_6f47266e:
+msgid "[_cornelia_] ...."
+msgstr "[_cornelia_] ...."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:153 #-#-# translate crowdin hide_and_seek_with_lilian_a8d1e79b:
+msgid "[_cedrick_] Ооооо, да, так-то лучше..."
+msgstr "[_cedrick_] Oh, sí... Eso está mejor..."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:154 #-#-# translate crowdin hide_and_seek_with_lilian_d1a409ea:
+msgid "[_cornelia_] (...Как такое только могло произойти. А ведь у меня еще были какие-то чувства к этому уроду..)"
+msgstr "[_cornelia_] (...Cómo ha podido pasar esto. Y yo que aún sentía algo por este engendro..)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:155 #-#-# translate crowdin hide_and_seek_with_lilian_170a53cf:
+msgid "[_cedrick_] Хах, держу пари, не так ты себе представляла то, как первый раз будешь мне отсасывать"
+msgstr "[_cedrick_] Apuesto a que no es así como te imaginabas chupándomela por primera vez"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:156 #-#-# translate crowdin hide_and_seek_with_lilian_638620d4:
+msgid "[_cornelia_] П-пошел ты.. Я не представляла с тобой ничего подобного... Т-ты был мне другом.."
+msgstr "[_cornelia_] Jódete... Nunca imaginé algo así contigo... Tú eras mi amigo.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:157 #-#-# translate crowdin hide_and_seek_with_lilian_60f728ff:
+msgid "[_cedrick_] Дааа, интересно, всем ли своим друзьям ты так же старательно отсасывала.."
+msgstr "[_cedrick_] Sí, me pregunto si se la chupaste a todos tus amigos tan fuerte como lo haces ahora.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:158 #-#-# translate crowdin hide_and_seek_with_lilian_384d086a:
+msgid "[_cornelia_] (Я делаю это только для того, чтобы все быстрее закончилось...)"
+msgstr "[_cornelia_] (Solo lo hago para que termines más rápido...)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:160 #-#-# translate crowdin hide_and_seek_with_lilian_33f3afe8:
+msgid "*стук в дверь*"
+msgstr "*tocan la puerta*"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:162 #-#-# translate crowdin hide_and_seek_with_lilian_5c788428:
+msgid "[_cedrick_] (Черт, не ужели Лилиан уже пришла......)"
+msgstr "[_cedrick_] (Mierda, ya está aquí Lillian......)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:163 #-#-# translate crowdin hide_and_seek_with_lilian_191792cd:
+msgid "[_cornelia_] ....."
+msgstr "[_cornelia_] ....."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:165 #-#-# translate crowdin hide_and_seek_with_lilian_33f3afe8_1:
+msgid "*стук в дверь*"
+msgstr "*tocan la puerta*"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:166 #-#-# translate crowdin hide_and_seek_with_lilian_c629e088:
+msgid "[_cornelia_] Я-я открою.."
+msgstr "[_cornelia_] Yo... ¡Yo me encargo.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:167 #-#-# translate crowdin hide_and_seek_with_lilian_0364c501:
+msgid "[_cedrick_] Н-нет, стой!"
+msgstr "[_cedrick_] ¡No, espera!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:168 #-#-# translate crowdin hide_and_seek_with_lilian_ef423857:
+msgid "[_caleb_] Корнелия, это я, Калеб!"
+msgstr "[_caleb_] ¡Cornelia, soy yo, Caleb!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:170 #-#-# translate crowdin hide_and_seek_with_lilian_6f47266e_1:
+msgid "[_cornelia_] ...."
+msgstr "[_cornelia_] ...."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:171 #-#-# translate crowdin hide_and_seek_with_lilian_20d2a332:
+msgid "[_cedrick_] (Пронесло..)"
+msgstr "[_cedrick_] (Esto está muy bien..)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:172 #-#-# translate crowdin hide_and_seek_with_lilian_e50288ab:
+msgid "[_caleb_] Я знаю, что ты дома! У тебя горит свет!"
+msgstr "[_caleb_] ¡Sé que estás en casa! ¡La luz está encendida!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:174 #-#-# translate crowdin hide_and_seek_with_lilian_33f3afe8_2:
+msgid "*стук в дверь*"
+msgstr "*tocan la puerta*"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:175 #-#-# translate crowdin hide_and_seek_with_lilian_89506a25:
+msgid "[_cedrick_] О, не уж то это тот повстанец? Смотрю, ты любишь парней с Меридиана"
+msgstr "[_cedrick_] Oh, si es el rebelde. Veo que te gustan los chicos de Meridian"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:177 #-#-# translate crowdin hide_and_seek_with_lilian_cf290901:
+msgid "[_cornelia_] ......."
+msgstr "[_cornelia_] ......."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:178 #-#-# translate crowdin hide_and_seek_with_lilian_5594fb7d:
+msgid "[_caleb_] Послушай!.. Я был не прав, когда наговорил тебе все это.."
+msgstr "[_caleb_] ¡Escúchame!... Me equivoqué al decirte todo eso.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:179 #-#-# translate crowdin hide_and_seek_with_lilian_c44a7eea:
+msgid "[_cedrick_] Все еще хочешь открыть дверь?"
+msgstr "[_cedrick_] ¿Aún quieres abrir la puerta?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:180 #-#-# translate crowdin hide_and_seek_with_lilian_feb0f7c9:
+msgid "[_cornelia_] Н-нет..."
+msgstr "[_cornelia_] N-no..."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:181 #-#-# translate crowdin hide_and_seek_with_lilian_1bfcf55b:
+msgid "[_cedrick_] Оххх, я почти..."
+msgstr "[_cedrick_] Ohhhh, casi..."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:183 #-#-# translate crowdin hide_and_seek_with_lilian_b15fd3ab:
+msgid "[_cornelia_] ...Мвв!"
+msgstr "[_cornelia_] ...¡Mwvv!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:184 #-#-# translate crowdin hide_and_seek_with_lilian_673ed33e:
+msgid "[_cedrick_] О да.."
+msgstr "[_cedrick_] Oh, sí.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:185 #-#-# translate crowdin hide_and_seek_with_lilian_ab8b7ae4:
+msgid "[_cornelia_] (Черт, почему ее так много...)"
+msgstr "[_cornelia_] (Maldita sea, por qué hay tanto de eso...)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:186 #-#-# translate crowdin hide_and_seek_with_lilian_768a7ebd:
+msgid "[_cedrick_] (Так, это конечно было забавно, но теперь я должен сматываться. Осталось только спровоцировать ее, чтобы она погналась за мной)"
+msgstr "[_cedrick_] (Bien, ha sido divertido, pero ahora tengo que salir de aquí. Ahora solamente tengo que provocarla para que me persiga)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:188 #-#-# translate crowdin hide_and_seek_with_lilian_3817ae8f:
+msgid "[_cedrick_] Это, конечно, был хороший отсос, но.. теперь мне стало интересно, все ли девушки из семьи Хейл делают такой хороший минет. Пожалуй, отправлюсь в Меридиан и проверю это с твоей сестрой!"
+msgstr "[_cedrick_] Desde luego fue una buena mamada, pero... ahora me pregunto si todas las chicas de la familia Hale hacen mamadas tan buenas. ¡Creo que iré a Meridian y lo comprobaré con tu hermana!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:189 #-#-# translate crowdin hide_and_seek_with_lilian_ec695dbc:
+msgid "[_cornelia_] С-той.. Рик! Седрик!! Ты не посмеешь!! Я от тебя не отстану! Верни мне Лилиан!"
+msgstr "[_cornelia_] T-tu... ¡Rick! ¡Cedric! ¡No te atreverás! ¡No te dejaré tranquilo! ¡Devuélveme a Lillian!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:190 #-#-# translate crowdin hide_and_seek_with_lilian_bd191809:
+msgid "[_cedrick_] (Отлично, она купалась на провокацию..)"
+msgstr "[_cedrick_] (Genial, se creyó la provocación..)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:191 #-#-# translate crowdin hide_and_seek_with_lilian_a28946e4:
+msgid "[_centered_] {size=37}Корнелия побежала за Седриком через портал, но по пути в замок Фобоса, Седрик смог не на долго оторваться{/size}"
+msgstr "[_centered_] {size=37}Cornelia corrió tras Cedric a través del portal, pero en su camino hacia el castillo de Phobos, Cedric fue capaz de alejarse por poco{/size}"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:192 #-#-# translate crowdin hide_and_seek_with_lilian_c82d4ed5:
+msgid "[_centered_] {size=37} Спустя некоторое время в замке{/size}"
+msgstr "[_centered_] {size=37} Después de un tiempo, en el castillo{/size}"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:195 #-#-# translate crowdin hide_and_seek_with_lilian_38e98034:
+msgid "[_cedrick_] Стража. Этот ключ от комнаты одной моей новой гостьи в этом замке. Спрячьте ключ в мой 'тайный сундук для переговоров'. Вы меня поняли?"
+msgstr "[_cedrick_] Guardias. Esta es la llave de la habitación de uno de mis nuevos huéspedes en este castillo. Esconde la llave en mí \"cofre secreto de negociación\". ¿Me entienden?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:196 #-#-# translate crowdin hide_and_seek_with_lilian_8bf4dca0:
+msgid "[_str1_] Так точно, Лорд Седрик"
+msgstr "[_str1_] Sí, Lord Cedric"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:197 #-#-# translate crowdin hide_and_seek_with_lilian_60806ca9:
+msgid "[_str2_] Будет сделано, главнокомандующий Седрик!"
+msgstr "[_str2_] ¡Lo haré, Comandante en Jefe Cedric!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:198 #-#-# translate crowdin hide_and_seek_with_lilian_fb85c809:
+msgid "[_cedrick_] Я уже не ваш главнокомандующий, солдат.."
+msgstr "[_cedrick_] Ya no soy su comandante en jefe, soldado.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:199 #-#-# translate crowdin hide_and_seek_with_lilian_56cf897d:
+msgid "[_cornelia_] (Этот ключ точно от комнаты, в которой он прячет Лилиан. Без своей силы я мало на что способна.. Но, если прослежу за охранниками, у нас будет шанс сбежать)"
+msgstr "[_cornelia_] (Esta llave lleva a la habitación donde se supone se esconde Lillian. Sin mis poderes, no hay mucho que pueda hacer. Pero si sigo a los guardias, podríamos tener una oportunidad de escapar)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:200 #-#-# translate crowdin hide_and_seek_with_lilian_9ac59b59:
+msgid "[_centered_] {size=37}корнелия проследила за стражниками до комнаты с сундуком и дождалась, пока они уйдут, чтобы забрать ключ{/size}"
+msgstr "[_centered_] {size=37} Cornelia siguió a los guardias hasta la sala con el cofre y esperó a que se marcharan para recuperar la llave{/size}"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:201 #-#-# translate crowdin hide_and_seek_with_lilian_dc2cd39a:
+msgid "[_cornelia_] Ч-что за... Что это за хреновина!?"
+msgstr "[_cornelia_] Qu-qué... ¿¡Qué demonios es esta cosa!?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:205 #-#-# translate crowdin hide_and_seek_with_lilian_798741db:
+msgid "[_cedrick_] Ну как тебе мой тайный сундук для переговоров? Я нашел его в мертвых землях с кучей неубиваемых тварей"
+msgstr "[_cedrick_] ¿Qué te parece mi cofre secreto de negociación? Lo encontré en las tierras muertas con un montón de criaturas que no se pueden matar"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:206 #-#-# translate crowdin hide_and_seek_with_lilian_155bfd9b:
+msgid "[_cedrick_] По правде говоря, сейчас даже я не рискнул бы подойти к этой штуке. Предпочту наслаждаться зрелищем издалека"
+msgstr "[_cedrick_] A decir verdad, ni siquiera yo me atrevería a acercarme ahora. Prefiero disfrutar del espectáculo desde lejos"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:208 #-#-# translate crowdin hide_and_seek_with_lilian_34baa501:
+msgid "[_cornelia_] Т-ты, ублюдок, где Лилиан!?"
+msgstr "[_cornelia_] Bastardo, ¿¡dónde está Lillian!?"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:210 #-#-# translate crowdin hide_and_seek_with_lilian_7cff15bb:
+msgid "[_cornelia_] С-стоп, куда эта хрень сует свои щупальца. Ааааммм..."
+msgstr "[_cornelia_] P-para, dónde está esta cosa metiendo sus tentáculos. Aaahmmm..."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:214 #-#-# translate crowdin hide_and_seek_with_lilian_c5e293c1:
+msgid "[_cedrick_] Вижу, ты немного занята. Но я отвечу на твой вопрос. Все это было уловкой"
+msgstr "[_cedrick_] Veo que estás un poco ocupada. Pero responderé a tu pregunta. Todo fue un engaño"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:216 #-#-# translate crowdin hide_and_seek_with_lilian_03e25894:
+msgid "[_cornelia_] Мммввмм!"
+msgstr "[_cornelia_] ¡Mmmvvmm!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:217 #-#-# translate crowdin hide_and_seek_with_lilian_bd4f64a0:
+msgid "[_cedrick_] Ключ, комната, заточение – это все обман. Твоя сестра сейчас в безопасности, на Земле. Она была всего в двух этажах над тобой"
+msgstr "[_cedrick_] La llave, la habitación, el confinamiento... todo es un engaño. Tu hermana está a salvo ahora, en la Tierra. Ella solamente estaba dos pisos por encima de ti"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:218 #-#-# translate crowdin hide_and_seek_with_lilian_fe4d0b1c:
+msgid "[_cornelia_] (Этот ублюдок... провел меня... А этот сундук... Ооох, ч-что он себе позволяет..)"
+msgstr "[_cornelia_] (Este bastardo... Me engaño... Y este cofre... Oooh, c-qué cree que está haciendo...)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:220 #-#-# translate crowdin hide_and_seek_with_lilian_09d5f46b:
+msgid "[_cedrick_] Я просто поиграл с твоей сестренкой в прятки, как ты и хотела, только и всего"
+msgstr "[_cedrick_] Sólo estaba jugando al escondite con tu hermana como tú querías, eso es todo"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:222 #-#-# translate crowdin hide_and_seek_with_lilian_c0f69a63:
+msgid "[_cornelia_] Ааааааввв"
+msgstr "[_cornelia_] Aaaaaaamm"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:225 #-#-# translate crowdin hide_and_seek_with_lilian_ff808183:
+msgid "[_cornelia_] (Н-нет... Не лезь туда.. Ч-чертов сундук...)"
+msgstr "[_cornelia_] (N-no... No entres ahí... Maldito cofre...)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:226 #-#-# translate crowdin hide_and_seek_with_lilian_654efcc2:
+msgid "[_cedrick_] Ох, смотрю ты уже даже не слушаешь меня и полностью увлечена тем, как щупальца сундука обходятся с твоим телом"
+msgstr "[_cedrick_] Oh, veo que ya ni siquiera me escuchas y estás completamente absorta en cómo los tentáculos del cofre tratan tu cuerpo"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:228 #-#-# translate crowdin hide_and_seek_with_lilian_cb7b546c:
+msgid "[_cornelia_] Ууууууув... Аааа.. Ааа..."
+msgstr "[_cornelia_] Ouuuuuuv... Aaah... Aaah..."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:229 #-#-# translate crowdin hide_and_seek_with_lilian_63b99eaf:
+msgid "[_cornelia_] (Ч-что вообще происходит.. Это чудовище дерет меня и изучает мои внутренности.. Н-но.. это вообще не больно.. т-только..)"
+msgstr "[_cornelia_] (Q-qué está pasando de todos modos... Este monstruo me está abriendo y explorando mis entrañas... P-pero... no me duele nada... solo...)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:230 #-#-# translate crowdin hide_and_seek_with_lilian_c6a31f11:
+msgid "[_cedrick_] Приятно, да? Я уж не знаю, в чем точно причина. То ли в том, что эта тварь своими щупальцами проникает в такие глубины, в которые ни один член не проник бы"
+msgstr "[_cedrick_] Se siente bien, ¿verdad? No sé exactamente cuál es la razón. Ya sea el hecho de que esta cosa lleva sus tentáculos a profundidades que ninguna polla penetraría"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:231 #-#-# translate crowdin hide_and_seek_with_lilian_a713e65b:
+msgid "[_cedrick_] То ли из-за того, что щупальца выделяют какую-то особую слизь, которая действует на женщин как афродизиак.."
+msgstr "[_cedrick_] O sea porque los tentáculos segregan algún tipo de moco especial que actúa como afrodisíaco en las mujeres.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:232 #-#-# translate crowdin hide_and_seek_with_lilian_c506c836:
+msgid "[_cedrick_] Такие детали надо уточнить у Миранды, она довольно тщательно изучала эту тварь. Наверное, даже через-чур тщательно"
+msgstr "[_cedrick_] Esos detalles debían consultarse con Miranda, que había estudiado a la criatura a fondo. Probablemente demasiado"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:233 #-#-# translate crowdin hide_and_seek_with_lilian_cb2f4815:
+msgid "[_cornelia_] Аааа... Ааааавввв"
+msgstr "[_cornelia_] Aaaaah... Aaaaaaa"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:234 #-#-# translate crowdin hide_and_seek_with_lilian_3279bf4b:
+msgid "[_cedrick_] Ох, уже кончила? Мда, страшное однако существо, этот сундук. Во всяком случае в тот мир, из которого я эту дичь достал, я точно больше ни ногой"
+msgstr "[_cedrick_] ¿Ya terminaste? Sí, es una criatura aterradora, ese cofre. De todos modos, no voy a volver al mundo del que saqué esta cosa"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:235 #-#-# translate crowdin hide_and_seek_with_lilian_c9f6a0ae:
+msgid "[_cornelia_] (Я кончаю, черт.. Это же даже не человек.. П-просто монстр.. С кучей щупалец.. Щупалец, елозящих по всему моему телу.. Ммммм....)"
+msgstr "[_cornelia_] (Me estoy corriendo, mierda... Ni siquiera es humano... Es un monstruo... Con un montón de tentáculos... Tentáculos por todo mi cuerpo... Mmmmmm....)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:237 #-#-# translate crowdin hide_and_seek_with_lilian_9c99e206:
+msgid "[_cedrick_] Ладно, развлекайся пока. Я навещу тебя позже.."
+msgstr "[_cedrick_] Muy bien, diviértete por ahora. Te visitaré más tarde.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:238 #-#-# translate crowdin hide_and_seek_with_lilian_ec61322e:
+msgid "[_cornelia_] Мммвуууум!!"
+msgstr "[_cornelia_] ¡¡Mmmuuuummm!!"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:239 #-#-# translate crowdin hide_and_seek_with_lilian_551def29:
+msgid "[_cornelia_] (Н-не оставляй меня с этой штукой.. Ч-черт, как же приятно.. Я же так с ума сойду....)"
+msgstr "[_cornelia_] (N-no me dejes con esta cosa... Maldita sea, que se siente bien... Me voy a volver loca así....)"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:241 #-#-# translate crowdin hide_and_seek_with_lilian_a1237172:
+msgid "[_centered_] {size=37}СПУСТЯ ПАРУ ЧАСОВ{/size}"
+msgstr "[_centered_] {size=37}UN PAR DE HORAS DESPUÉS{/size}"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:245 #-#-# translate crowdin hide_and_seek_with_lilian_34432b8c:
+msgid "[_cedrick_] Ооо, он пытается тебя сожрать. Значит ты уже готовенькая, пора тебя вытаскивать"
+msgstr "[_cedrick_] Ooh, está tratando de comerte. Entonces estás lista, es hora de sacarte"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:246 #-#-# translate crowdin hide_and_seek_with_lilian_6a2161ba:
+msgid "[_cornelia_] Н-нет.. так тепло.. так комфортно.. хочется.. спать.."
+msgstr "[_cornelia_] N-no... tan cálido... tan cómodo... tengo sueño.."
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:247 #-#-# translate crowdin hide_and_seek_with_lilian_56c0a994:
+msgid "[_cedrick_] Эта тварь еще и усыпляет.. Да уж, будь у меня армия таких, Меридиан давно бы уже лежал у моих ног.. Но, мечтать не вредно, на деле все куда сложнее"
+msgstr "[_cedrick_] Esa cosa también te duerme. Sí, si tuviera un ejército de ellos, Meridian ya estaría a mis pies. Pero en el mundo real, es más complicado que eso"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:248 #-#-# translate crowdin hide_and_seek_with_lilian_8fce3d44:
+msgid "[_cedrick_] Ладно, стражница, отведу тебя в твои новые покои, отоспишься пока там"
+msgstr "[_cedrick_] Muy bien, guardiana, te llevaré a tus nuevos aposentos para que duermas allí"
+
+# game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:251 #-#-# translate crowdin hide_and_seek_with_lilian_e200eea6:
+msgid "[_centered_] {size=37}СЕДРИК ДОСТАЕТ КОРНЕЛИЮ ИЗ СУНДУКА И ОТНОСИТ ЕЕ В ТЕМНИЦУ{/size}"
+msgstr "[_centered_] {size=37}CEDRIC SACA A CORNELIA DEL COFRE Y LA LLEVA A LA MAZMORRA{/size}"
+
