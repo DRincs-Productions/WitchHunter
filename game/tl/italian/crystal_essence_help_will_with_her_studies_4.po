@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-01-16 21:30\n"
+"PO-Revision-Date: 2023-03-17 22:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:5 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_4_8b9f713b:
 msgid "[_centered_] {size=37}ПОЗЖЕ, ВЕЧЕРОМ{/size}"
-msgstr "[_centered_] {A tarda notte{/size}"
+msgstr "[_centered_] {{size=37}A tarda notte{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:12 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_4_30c9cc4a:
 msgid "[_cedrick_] Ох, Сьюзан, да у тебя оказывается, талант"
@@ -74,7 +74,7 @@ msgstr "[_will_] (Ma per ora... andrò a letto...)"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:34 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_4_51762836:
 msgid "[_centered_] {size=37}ПОЗЖЕ, НОЧЬЮ{/size}"
-msgstr "[_centered_] {Tarda notte, notte, notte, notte..."
+msgstr "[_centered_] {size=37}Tarda notte, {/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:40 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_4_bf526265:
 msgid "[_cedrick_] Ч-что? Что это, блин, такое?"
