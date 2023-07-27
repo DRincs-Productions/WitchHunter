@@ -1,4 +1,3 @@
-﻿
 translate spanish strings:
 
     # renpy/common/00accessibility.rpy:28

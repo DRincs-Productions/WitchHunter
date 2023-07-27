@@ -1,4 +1,3 @@
-﻿
 translate german strings:
 
     # renpy/common/00accessibility.rpy:28
