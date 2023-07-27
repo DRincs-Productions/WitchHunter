@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/joiningsAfterMissingBryan/elyon_cry_about_bryan2.rpy:9
 translate crowdin elyon_cry_about_bryan2_74dc7f72:

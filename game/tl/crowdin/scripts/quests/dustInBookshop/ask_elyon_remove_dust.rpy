@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:4
 translate crowdin ask_elyon_remove_dust_0268f40c:

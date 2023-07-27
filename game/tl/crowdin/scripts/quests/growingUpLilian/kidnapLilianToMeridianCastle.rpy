@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:2
 translate crowdin kidnapLilianToMeridianCastle_79d6a34e:

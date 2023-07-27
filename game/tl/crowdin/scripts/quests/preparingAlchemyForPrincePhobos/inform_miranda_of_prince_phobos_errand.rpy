@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/inform_miranda_of_prince_phobos_errand.rpy:7
 translate crowdin inform_miranda_of_prince_phobos_errand_ce627275:

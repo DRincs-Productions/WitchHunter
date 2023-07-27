@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:6
 translate crowdin pick_up_the_alchemy_from_the_brothel_010d3f43:

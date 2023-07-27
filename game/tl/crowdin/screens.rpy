@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:56
 
 translate crowdin strings:
 
@@ -42,71 +42,67 @@ translate crowdin strings:
     old "Выйти"
     new "Выйти"
 
-    # game/screens.rpy:460
-    old "Доступна новая версия Witch Hunter [version]!"
-    new "Доступна новая версия Witch Hunter [version]!"
-
-    # game/screens.rpy:507
+    # game/screens.rpy:482
     old "Вернуться в игру"
     new "Вернуться в игру"
 
-    # game/screens.rpy:510
+    # game/screens.rpy:485
     old "Сохранить"
     new "Сохранить"
 
-    # game/screens.rpy:518
+    # game/screens.rpy:493
     old "Главное меню"
     new "Главное меню"
 
-    # game/screens.rpy:609
+    # game/screens.rpy:584
     old "Empty Slot."
     new "Empty Slot."
 
-    # game/screens.rpy:646
+    # game/screens.rpy:621
     old "Это сохранение не поддерживает текущую версию игры [game_version]. Загрузка этого сохранения может привести к ошибкам!"
     new "Это сохранение не поддерживает текущую версию игры [game_version]. Загрузка этого сохранения может привести к ошибкам!"
 
-    # game/screens.rpy:686
+    # game/screens.rpy:661
     old "Авто"
     new "Авто"
 
-    # game/screens.rpy:691
+    # game/screens.rpy:666
     old "Быстро"
     new "Быстро"
 
-    # game/screens.rpy:712
+    # game/screens.rpy:687
     old "Далее"
     new "Далее"
 
-    # game/screens.rpy:824
+    # game/screens.rpy:799
     old "Да"
     new "Да"
 
-    # game/screens.rpy:828
+    # game/screens.rpy:803
     old "Нет"
     new "Нет"
 
-    # game/screens.rpy:860
+    # game/screens.rpy:835
     old "Меню"
     new "Меню"
 
-    # game/screens.rpy:861
+    # game/screens.rpy:836
     old "Быстрое сохранение"
     new "Быстрое сохранение"
 
-    # game/screens.rpy:862
+    # game/screens.rpy:837
     old "Быстрая Загрузка"
     new "Быстрая Загрузка"
 
-    # game/screens.rpy:864
+    # game/screens.rpy:839
     old "Быстрый пропуск"
     new "Быстрый пропуск"
 
-    # game/screens.rpy:865
+    # game/screens.rpy:840
     old "Авто пропуск"
     new "Авто пропуск"
 
-    # game/screens.rpy:866
+    # game/screens.rpy:841
     old "Скрыть"
     new "Скрыть"
 

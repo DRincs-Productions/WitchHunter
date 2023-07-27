@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:6
 translate crowdin get_a_flower_with_a_red_core_74ddd4ae:

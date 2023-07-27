@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:4
 translate crowdin visit_amalia_and_evangeline_at_the_tavern_bf69d8dd:

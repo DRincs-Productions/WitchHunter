@@ -1,4 +1,8 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/map/map.rpy:10
+﻿# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/map/map.rpy:108 #-#-# translate crowdin map_59b5a4ee:
+msgid "[_cedrick_] (А теперь зайдем-ка в Серебряный дракон)"
+msgstr "[_cedrick_] (А теперь зайдем-ка в Серебряный дракон)"
+
+# §translate crowdin strings: #|#|# # game/scripts/map/map.rpy:10
 msgid "Дом Вилл"
 msgstr "Дом Вилл"
 

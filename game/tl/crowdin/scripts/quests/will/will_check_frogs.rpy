@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/will/will_check_frogs.rpy:13
 translate crowdin will_check_frogs_7fd3ab08:

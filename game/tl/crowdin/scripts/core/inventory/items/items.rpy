@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:56
 
 translate crowdin strings:
 
@@ -209,4 +209,12 @@ translate crowdin strings:
     # game/scripts/core/inventory/items/items.rpy:2
     old "Викодин"
     new "Викодин"
+
+    # game/scripts/core/inventory/items/items.rpy:2
+    old "Сексуальный комплект для ролевых игр"
+    new "Сексуальный комплект для ролевых игр"
+
+    # game/scripts/core/inventory/items/items.rpy:2
+    old "Виброяйцо с пультом управления\n(суперпредложение: два комплекта по цене одного)"
+    new "Виброяйцо с пультом управления\n(суперпредложение: два комплекта по цене одного)"
 

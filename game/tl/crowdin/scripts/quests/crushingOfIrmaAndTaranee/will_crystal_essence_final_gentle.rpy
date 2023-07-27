@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:5
 translate crowdin will_crystal_essence_final_gentle_f319f51e:

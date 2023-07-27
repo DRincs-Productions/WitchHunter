@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:81
 translate crowdin poker_dice_game_b4e4591c:

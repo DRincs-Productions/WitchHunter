@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/giftForLilian/blankSuggestCat.rpy:9 #-#-# translate crowdin blankSuggestCat_a20cefa7:
+﻿# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/blankSuggestCat.rpy:9 #-#-# translate crowdin blankSuggestCat_a20cefa7:
 msgid "..."
 msgstr "..."
 
@@ -22,31 +22,51 @@ msgstr "[_blank_] Пещерная крыса"
 msgid "[_cedrick_] Пещерная.. крыса?? ... Это же кот"
 msgstr "[_cedrick_] Пещерная.. крыса?? ... Это же кот"
 
-# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:26 #-#-# translate crowdin blankSuggestCat_d316bda6:
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:29 #-#-# translate crowdin blankSuggestCat_d316bda6:
 msgid "[_blank_] Кот? Я думал это крыса, должно быть вкусно"
 msgstr "[_blank_] Кот? Я думал это крыса, должно быть вкусно"
 
-# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:27 #-#-# translate crowdin blankSuggestCat_769cb352:
-msgid "[_cedrick_] О, нет.. Пожалуй я заберу его себе... Что бы ты его не съел..."
-msgstr "[_cedrick_] О, нет.. Пожалуй я заберу его себе... Что бы ты его не съел..."
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:30 #-#-# translate crowdin blankSuggestCat_2472d2d1:
+msgid "[_cedrick_] Так, подожди.. Шоколадно-коричневая шерсть, морда с серым пятном слегка напоминающим форму черепа.. смотрит на нас как на говно.."
+msgstr "[_cedrick_] Так, подожди.. Шоколадно-коричневая шерсть, морда с серым пятном слегка напоминающим форму черепа.. смотрит на нас как на говно.."
 
-# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:28 #-#-# translate crowdin blankSuggestCat_a20cefa7_1:
-msgid "..."
-msgstr "..."
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:34 #-#-# translate crowdin blankSuggestCat_ef27ee58:
+msgid "[_blank_] На бланк все смотреть как на говно"
+msgstr "[_blank_] На бланк все смотреть как на говно"
 
-# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:29 #-#-# translate crowdin blankSuggestCat_69cb1561:
-msgid "[_blank_] Этой мой кот.. Я тебе его не отдам.."
-msgstr "[_blank_] Этой мой кот.. Я тебе его не отдам.."
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:35 #-#-# translate crowdin blankSuggestCat_a7c65dc0:
+msgid "[_cedrick_] Это же наполеон!"
+msgstr "[_cedrick_] Это же наполеон!"
 
-# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:30 #-#-# translate crowdin blankSuggestCat_a20cefa7_2:
-msgid "..."
-msgstr "..."
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:36 #-#-# translate crowdin blankSuggestCat_4d0c387f:
+msgid "[_cedrick_] Бланк, отдай его мне"
+msgstr "[_cedrick_] Бланк, отдай его мне"
 
-# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:31 #-#-# translate crowdin blankSuggestCat_511be999:
-msgid "[_blank_] 100 долларов.."
-msgstr "[_blank_] 100 долларов.."
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:37 #-#-# translate crowdin blankSuggestCat_e5f601a2:
+msgid "[_blank_] Ты его описал как очень редкий крыса. К тому же я слышал, что наполеон был важный полководец"
+msgstr "[_blank_] Ты его описал как очень редкий крыса. К тому же я слышал, что наполеон был важный полководец"
 
-# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:32 #-#-# translate crowdin blankSuggestCat_49316299:
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:38 #-#-# translate crowdin blankSuggestCat_49316299:
 msgid "[_cedrick_] ..."
 msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:39 #-#-# translate crowdin blankSuggestCat_1614aea7:
+msgid "[_cedrick_] И как у тебя только логические цепочки в голове складываются.."
+msgstr "[_cedrick_] И как у тебя только логические цепочки в голове складываются.."
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:40 #-#-# translate crowdin blankSuggestCat_fa7ae67d:
+msgid "[_blank_] 100 баксов за редкий крыса-наполеон"
+msgstr "[_blank_] 100 баксов за редкий крыса-наполеон"
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:41 #-#-# translate crowdin blankSuggestCat_49316299_1:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:42 #-#-# translate crowdin blankSuggestCat_67dedf29:
+msgid "[_cedrick_] Ушлая скользкая жаба.."
+msgstr "[_cedrick_] Ушлая скользкая жаба.."
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:43 #-#-# translate crowdin blankSuggestCat_f830a2b0:
+msgid "[_blank_] Комплиментами меня не задобрить.. Тащи 100 баксов"
+msgstr "[_blank_] Комплиментами меня не задобрить.. Тащи 100 баксов"
 

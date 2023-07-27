@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:4
 translate crowdin quest_new_student_say_goodbye_to_sondra_f6c297fb:
@@ -228,13 +228,13 @@ translate crowdin quest_new_student_say_goodbye_to_sondra_b070cfc5:
     # cedrick "Это было... Хорошо.."
     cedrick "Это было... Хорошо.."
 
-# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:102
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:103
 translate crowdin quest_new_student_say_goodbye_to_sondra_119b1e39:
 
     # sondra "Еще бы.. Мне.. Мне тоже было с тобой хорошо."
     sondra "Еще бы.. Мне.. Мне тоже было с тобой хорошо."
 
-# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:103
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:104
 translate crowdin quest_new_student_say_goodbye_to_sondra_9d362272:
 
     # sondra "Прощайте, Мистер Хофмман.."

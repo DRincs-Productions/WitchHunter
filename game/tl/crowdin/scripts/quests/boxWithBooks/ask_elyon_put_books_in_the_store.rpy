@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:4
 translate crowdin ask_elyon_put_books_in_the_store_42ca9224:

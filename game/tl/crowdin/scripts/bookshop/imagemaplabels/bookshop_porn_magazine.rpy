@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/bookshop/imagemaplabels/bookshop_porn_magazine.rpy:9
 translate crowdin bookshop_porn_magazine_242958c3:

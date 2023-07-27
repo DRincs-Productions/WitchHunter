@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
+﻿# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
 msgid "Звезда Трибы"
 msgstr "Звезда Трибы"
 
@@ -205,4 +205,12 @@ msgstr "Зелье восстановления магии"
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Викодин"
 msgstr "Викодин"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Сексуальный комплект для ролевых игр"
+msgstr "Сексуальный комплект для ролевых игр"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Виброяйцо с пультом управления\n(суперпредложение: два комплекта по цене одного)"
+msgstr "Виброяйцо с пультом управления\n(суперпредложение: два комплекта по цене одного)"
 

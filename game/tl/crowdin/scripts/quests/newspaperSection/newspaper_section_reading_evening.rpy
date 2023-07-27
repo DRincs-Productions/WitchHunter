@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:6
 translate crowdin newspaper_section_reading_evening_f58b35e9:
@@ -834,133 +834,133 @@ translate crowdin newspaper_section_reading_evening_e53f3815:
     # cedrick "Ну раз ты так просишь..."
     cedrick "Ну раз ты так просишь..."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:344
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:345
 translate crowdin newspaper_section_reading_evening_a20cefa7_9:
 
     # "..."
     "..."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:347
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:348
 translate crowdin newspaper_section_reading_evening_b19c24cb:
 
     # irma "Ох."
     irma "Ох."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:348
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:349
 translate crowdin newspaper_section_reading_evening_bf598b49:
 
     # irma "Урод..."
     irma "Урод..."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:349
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:350
 translate crowdin newspaper_section_reading_evening_b5dd5ac2:
 
     # cedrick "Что-то не так? Разве ты не дрожишь от удовольствия?"
     cedrick "Что-то не так? Разве ты не дрожишь от удовольствия?"
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:350
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:351
 translate crowdin newspaper_section_reading_evening_191776ba:
 
     # irma "Мм.. ахх."
     irma "Мм.. ахх."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:352
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:353
 translate crowdin newspaper_section_reading_evening_3233e784:
 
     # irma "Ааах"
     irma "Ааах"
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:353
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:354
 translate crowdin newspaper_section_reading_evening_508a43d5:
 
     # cedrick "Как хорошо.."
     cedrick "Как хорошо.."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:354
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:355
 translate crowdin newspaper_section_reading_evening_615198ac:
 
     # cedrick "Ох.."
     cedrick "Ох.."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:355
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:356
 translate crowdin newspaper_section_reading_evening_fa5d4d4e:
 
     # irma "Нет.."
     irma "Нет.."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:357
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:358
 translate crowdin newspaper_section_reading_evening_7a78af53:
 
     # irma "Не в меня."
     irma "Не в меня."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:358
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:359
 translate crowdin newspaper_section_reading_evening_ee826681:
 
     # irma "Ааах."
     irma "Ааах."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:359
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:360
 translate crowdin newspaper_section_reading_evening_90dacb0a:
 
     # irma "Я же просила..."
     irma "Я же просила..."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:360
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:361
 translate crowdin newspaper_section_reading_evening_05e03ccb:
 
     # cedrick "Приведи себя в порядок.. И нам нужно поторопится, кто-нибудь может заметить наше отсутствие.."
     cedrick "Приведи себя в порядок.. И нам нужно поторопится, кто-нибудь может заметить наше отсутствие.."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:362
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:363
 translate crowdin newspaper_section_reading_evening_30889e67:
 
     # centered "{size=36}В общем зале книжного магазина{/size}"
     centered "{size=36}В общем зале книжного магазина{/size}"
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:366
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:367
 translate crowdin newspaper_section_reading_evening_0eab2fd8:
 
     # martin "Ирма, ты где была??"
     martin "Ирма, ты где была??"
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:370
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:371
 translate crowdin newspaper_section_reading_evening_0a9f95ca:
 
     # martin "Слышала, как я зачитал? Публика была в восторге!"
     martin "Слышала, как я зачитал? Публика была в восторге!"
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:374
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:375
 translate crowdin newspaper_section_reading_evening_5c52467c:
 
     # irma "Яя... я искала туалет, и немного заблудилась.."
     irma "Яя... я искала туалет, и немного заблудилась.."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:378
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:379
 translate crowdin newspaper_section_reading_evening_d68ab358:
 
     # irma "А профессор Хоффман помог мне найти его."
     irma "А профессор Хоффман помог мне найти его."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:382
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:383
 translate crowdin newspaper_section_reading_evening_4b8d6432:
 
     # martin "Понятно! А теперь у нас запланирован романтический поход в Бургерную Боба!"
     martin "Понятно! А теперь у нас запланирован романтический поход в Бургерную Боба!"
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:386
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:387
 translate crowdin newspaper_section_reading_evening_adf3c8ff:
 
     # irma "Ох... эта забегаловка... ну хуже уже не будет.."
     irma "Ох... эта забегаловка... ну хуже уже не будет.."
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:390
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:391
 translate crowdin newspaper_section_reading_evening_6448dedd:
 
     # cedrick "Так держать, Мартин... Скоро Ирма не устоит под твоим напором, и будет твоей"
     cedrick "Так держать, Мартин... Скоро Ирма не устоит под твоим напором, и будет твоей"
 
-# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:394
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:395
 translate crowdin newspaper_section_reading_evening_d6c4b376:
 
     # martin "Спасибо, Профессор!"

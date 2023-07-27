@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:7
 translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_6665365f:

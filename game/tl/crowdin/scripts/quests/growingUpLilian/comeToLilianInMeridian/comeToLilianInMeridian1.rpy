@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian1.rpy:9
 translate crowdin comeToLilianInMeridian1_8fb40efe:

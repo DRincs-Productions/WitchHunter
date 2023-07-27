@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:12
 translate crowdin corneliaCallToSkating_d4c2dcac:
@@ -85,10 +85,10 @@ translate crowdin corneliaCallToSkating_34aa0960:
     cedrick "Ну даже не знаю, не хочу быть обузой."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:57
-translate crowdin corneliaCallToSkating_71d55490:
+translate crowdin corneliaCallToSkating_8d8450e3:
 
-    # cornelia "Ну давай! Я научу тебя кататься, а ты посидишь с моей сестрой, идет? "
-    cornelia "Ну давай! Я научу тебя кататься, а ты посидишь с моей сестрой, идет? "
+    # cornelia "Ну давай! Я научу тебя кататься, а ты ...как-нибудь посидишь с моей сестрой, идет? "
+    cornelia "Ну давай! Я научу тебя кататься, а ты ...как-нибудь посидишь с моей сестрой, идет? "
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:58
 translate crowdin corneliaCallToSkating_da6db167:

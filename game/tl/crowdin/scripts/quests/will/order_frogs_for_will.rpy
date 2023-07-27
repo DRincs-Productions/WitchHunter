@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/will/order_frogs_for_will.rpy:3
 translate crowdin order_frogs_for_will_f0ec319a:

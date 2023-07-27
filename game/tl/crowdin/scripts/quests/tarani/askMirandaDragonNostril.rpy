@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:11
 translate crowdin askMirandaDragonNostril_c8d2151d:

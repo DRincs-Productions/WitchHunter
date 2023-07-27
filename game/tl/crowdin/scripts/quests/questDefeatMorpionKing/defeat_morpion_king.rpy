@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6
 translate crowdin begin_fight_with_morpion_king_eee6c4b2:
@@ -1416,1423 +1416,1423 @@ translate crowdin defeat_morpion_king_de51a681:
     # cornelia "Уууф.. Кхм.. Черт, какой же ты жесткий.."
     cornelia "Уууф.. Кхм.. Черт, какой же ты жесткий.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:636
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:635
 translate crowdin defeat_morpion_king_9ed666c8:
 
     # cornelia "Но что, разве я не права?"
     cornelia "Но что, разве я не права?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:637
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:636
 translate crowdin defeat_morpion_king_acd27219:
 
     # cedrick "(..Своими жалкими провокациями она портит следственный эксперимент)"
     cedrick "(..Своими жалкими провокациями она портит следственный эксперимент)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:638
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:637
 translate crowdin defeat_morpion_king_5f2bbd22:
 
     # cedrick "(Мне определенно хочется ее придушить, но сейчас сложно сказать, это мое желание или все из-за того, что во мне сила Короля Морпионов?)"
     cedrick "(Мне определенно хочется ее придушить, но сейчас сложно сказать, это мое желание или все из-за того, что во мне сила Короля Морпионов?)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:640
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:638
 translate crowdin defeat_morpion_king_0e72b9b4:
 
     # cedrick "Черт, ты можешь заткнуться? Чем быстрее я закончу, тем быстрее ты будешь свободна"
     cedrick "Черт, ты можешь заткнуться? Чем быстрее я закончу, тем быстрее ты будешь свободна"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:642
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:639
 translate crowdin defeat_morpion_king_0fe327c1:
 
     # cornelia "Ахах, тебе что, ууух.. Даже ответить нечего? Значит я права"
     cornelia "Ахах, тебе что, ууух.. Даже ответить нечего? Значит я права"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:643
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:640
 translate crowdin defeat_morpion_king_925ec5d9:
 
     # cedrick "Пффф.. Чертова девчонка.."
     cedrick "Пффф.. Чертова девчонка.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:645
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:641
 translate crowdin defeat_morpion_king_995d00d0:
 
     # cornelia "Что? Тебе нечем мне ответить. Каким бы крутым ты себя не строил, ты все еще просто подчиненный Фобоса"
     cornelia "Что? Тебе нечем мне ответить. Каким бы крутым ты себя не строил, ты все еще просто подчиненный Фобоса"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:646
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:642
 translate crowdin defeat_morpion_king_49316299_4:
 
     # cedrick "..."
     cedrick "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:647
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:643
 translate crowdin defeat_morpion_king_49316299_5:
 
     # cedrick "..."
     cedrick "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:649
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:644
 translate crowdin defeat_morpion_king_eaca2bbf:
 
     # cornelia "..Седрик?"
     cornelia "..Седрик?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:650
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:645
 translate crowdin defeat_morpion_king_88589524:
 
     # cedrick "..Сейчас ты пожалеешь о том, что до этого жаловалась на мои манеры"
     cedrick "..Сейчас ты пожалеешь о том, что до этого жаловалась на мои манеры"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:652
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:647
 translate crowdin defeat_morpion_king_e0fd92eb:
 
     # cornelia "С-стой, подожди.."
     cornelia "С-стой, подожди.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:657
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:652
 translate crowdin defeat_morpion_king_e06a9251:
 
     # cornelia "Н-нет.. Ааах, не так жестко, черт!"
     cornelia "Н-нет.. Ааах, не так жестко, черт!"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:658
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:653
 translate crowdin defeat_morpion_king_6190fd50:
 
     # cedrick "Ох, а я думал ты напрашиваешься на жесткое обращение, разве нет?"
     cedrick "Ох, а я думал ты напрашиваешься на жесткое обращение, разве нет?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:660
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:654
 translate crowdin defeat_morpion_king_06ec91a9:
 
     # cornelia "Я не, нет.. Черт, п-прости меня.. Ааах.."
     cornelia "Я не, нет.. Черт, п-прости меня.. Ааах.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:661
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:655
 translate crowdin defeat_morpion_king_64442d07:
 
     # cedrick "О, этот трюк не пройдет.. Уууф.. Запомни раз и навсегда, девчонка"
     cedrick "О, этот трюк не пройдет.. Уууф.. Запомни раз и навсегда, девчонка"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:663
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:656
 translate crowdin defeat_morpion_king_6f47266e:
 
     # cornelia "...."
     cornelia "...."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:664
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:657
 translate crowdin defeat_morpion_king_4817b1d4:
 
     # cedrick "Я стану властителем всего Меридиана и ни ты.. Ни другие стражницы.. Ни Фобос.. Вы все не сможете меня остановить!"
     cedrick "Я стану властителем всего Меридиана и ни ты.. Ни другие стражницы.. Ни Фобос.. Вы все не сможете меня остановить!"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:666
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:658
 translate crowdin defeat_morpion_king_08bd04d0:
 
     # cornelia "Уууух, ч-черт, да что на тебя нашло, остановись.. ."
     cornelia "Уууух, ч-черт, да что на тебя нашло, остановись.. ."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:667
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:659
 translate crowdin defeat_morpion_king_08b8380a:
 
     # cedrick "А ты.. Ты и есть просто уличная девка.. При чем ты вообще никому оказалась не нужна.."
     cedrick "А ты.. Ты и есть просто уличная девка.. При чем ты вообще никому оказалась не нужна.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:669
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:660
 translate crowdin defeat_morpion_king_d0ecf728:
 
     # cornelia "Ч-что. Ааах, что ты несешь?!"
     cornelia "Ч-что. Ааах, что ты несешь?!"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:671
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:661
 translate crowdin defeat_morpion_king_4eb3dcea:
 
     # cedrick "Ты строишь из себя принцессу, но правда в том, что тебе просто не хватает внимания! Потому что ты чертовски одинока"
     cedrick "Ты строишь из себя принцессу, но правда в том, что тебе просто не хватает внимания! Потому что ты чертовски одинока"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:672
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:662
 translate crowdin defeat_morpion_king_ef68e9b1:
 
     # cedrick "Черт, да ты даже искала внимание в моем лице, когда думала, что я просто твой преподаватель"
     cedrick "Черт, да ты даже искала внимание в моем лице, когда думала, что я просто твой преподаватель"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:673
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:663
 translate crowdin defeat_morpion_king_8531c37e:
 
     # cornelia "....Э-это не"
     cornelia "....Э-это не"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:674
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:664
 translate crowdin defeat_morpion_king_095d91fc:
 
     # cedrick "Даже не пытайся отрицать. У тебя типичный синдром девочки богатых родителей. Тебе дали все, что ты хочешь, но при этом всем было на тебя плевать!"
     cedrick "Даже не пытайся отрицать. У тебя типичный синдром девочки богатых родителей. Тебе дали все, что ты хочешь, но при этом всем было на тебя плевать!"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:677
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:666
 translate crowdin defeat_morpion_king_0211727c:
 
     # cornelia "Н-нет.."
     cornelia "Н-нет.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:678
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:667
 translate crowdin defeat_morpion_king_2be76c99:
 
     # cedrick "Разве? Знаешь, сейчас многие обеспокоенные родители поднимают панику, касательно пропажи их детей.."
     cedrick "Разве? Знаешь, сейчас многие обеспокоенные родители поднимают панику, касательно пропажи их детей.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:679
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:668
 translate crowdin defeat_morpion_king_3ee8abe6:
 
     # cedrick "Но за все это время я ни разу не слышал и не видел твоих родителей. Хотя сколько ты уже здесь?"
     cedrick "Но за все это время я ни разу не слышал и не видел твоих родителей. Хотя сколько ты уже здесь?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:680
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:669
 translate crowdin defeat_morpion_king_13c717d6_2:
 
     # cornelia "..."
     cornelia "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:681
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:670
 translate crowdin defeat_morpion_king_14c6755f:
 
     # cedrick "Стражницы не отправились вызволять тебя из замка, они больше обеспокоены тем, как мне отомстить за свои личные травмы"
     cedrick "Стражницы не отправились вызволять тебя из замка, они больше обеспокоены тем, как мне отомстить за свои личные травмы"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:682
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:671
 translate crowdin defeat_morpion_king_1111eb2a:
 
     # cedrick "А на тебя.. На тебя плевать даже гребаным повстанцам.. Ууух, черт, ты и вправду никому не нужная девчонка.."
     cedrick "А на тебя.. На тебя плевать даже гребаным повстанцам.. Ууух, черт, ты и вправду никому не нужная девчонка.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:684
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:672
 translate crowdin defeat_morpion_king_b8a95bf5:
 
     # cornelia "Ааах.. Х-хватит.."
     cornelia "Ааах.. Х-хватит.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:685
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:673
 translate crowdin defeat_morpion_king_03d669dc:
 
     # cedrick "Хах, если так подумать, то место, где ты больше всего нужна - это эта темница"
     cedrick "Хах, если так подумать, то место, где ты больше всего нужна - это эта темница"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:687
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:674
 translate crowdin defeat_morpion_king_5290583c:
 
     # cornelia "Ч-что?.."
     cornelia "Ч-что?.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:688
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:675
 translate crowdin defeat_morpion_king_eedefd6d:
 
     # cedrick "А что? Здесь я всегда буду тебе рад и, честно говоря, пропади такая хорошая киска из моей темницы, я бы скучал по утрате"
     cedrick "А что? Здесь я всегда буду тебе рад и, честно говоря, пропади такая хорошая киска из моей темницы, я бы скучал по утрате"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:690
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:676
 translate crowdin defeat_morpion_king_13c717d6_3:
 
     # cornelia "..."
     cornelia "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:691
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:677
 translate crowdin defeat_morpion_king_6db2012c:
 
     # cedrick "Ч-черт... Я сейчас кончу.."
     cedrick "Ч-черт... Я сейчас кончу.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:693
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:678
 translate crowdin defeat_morpion_king_e985aff2:
 
     # cornelia "Мммв.. Я.. я тоже.."
     cornelia "Мммв.. Я.. я тоже.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:696
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:681
 translate crowdin defeat_morpion_king_f2fb34b7:
 
     # cedrick "Получай, чертовка!"
     cedrick "Получай, чертовка!"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:698
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:683
 translate crowdin defeat_morpion_king_37a35082:
 
     # cornelia "Аааах.."
     cornelia "Аааах.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:700
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:685
 translate crowdin defeat_morpion_king_49316299_6:
 
     # cedrick "..."
     cedrick "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:702
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:687
 translate crowdin defeat_morpion_king_8f69c0df:
 
     # cornelia "Т-так много кончил.. У меня аж голова кружится.."
     cornelia "Т-так много кончил.. У меня аж голова кружится.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:704
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:689
 translate crowdin defeat_morpion_king_12b39d54:
 
     # cedrick "Ч-черт, у меня тоже.. Что за.."
     cedrick "Ч-черт, у меня тоже.. Что за.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:706
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:691
 translate crowdin defeat_morpion_king_8a8cde56:
 
     # cedrick "С-стража!.."
     cedrick "С-стража!.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:708
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:693
 translate crowdin defeat_morpion_king_5f9b772e:
 
     # "...."
     "...."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:723
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:708
 translate crowdin defeat_morpion_king_69328ce1:
 
     # cedrick "Ч-что? Какого.. А, ясно, я снова отрубился.."
     cedrick "Ч-что? Какого.. А, ясно, я снова отрубился.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:727
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:712
 translate crowdin defeat_morpion_king_7f243eab:
 
     # miranda "Да, стражники принесли тебя. Как все прошло? Заметил какие-то изменения?"
     miranda "Да, стражники принесли тебя. Как все прошло? Заметил какие-то изменения?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:731
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:716
 translate crowdin defeat_morpion_king_f27f136f:
 
     # cedrick "Кроме того, что меня отрубило после секса? Да не особо"
     cedrick "Кроме того, что меня отрубило после секса? Да не особо"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:735
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:720
 translate crowdin defeat_morpion_king_b3d47571:
 
     # miranda "Тебя не просто отрубило. Объем твоей магической энергии резко сократился в несколько раз"
     miranda "Тебя не просто отрубило. Объем твоей магической энергии резко сократился в несколько раз"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:739
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:724
 translate crowdin defeat_morpion_king_204ecfa0:
 
     # cedrick "Что? С чего бы? Ты уверена?"
     cedrick "Что? С чего бы? Ты уверена?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:743
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:728
 translate crowdin defeat_morpion_king_36cac159:
 
     # miranda "Да, я на тебя 5 зелий восстановления магии потратила.."
     miranda "Да, я на тебя 5 зелий восстановления магии потратила.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:747
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:732
 translate crowdin defeat_morpion_king_5e0cc743:
 
     # cedrick "Хм, странно.."
     cedrick "Хм, странно.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:751
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:736
 translate crowdin defeat_morpion_king_2ee01fd4:
 
     # miranda "Нет, вполне закономерно. Я покопалась в архивах. Информация очень разрозненная, где-то взята из биологических сводок, где-то из народных сказаний"
     miranda "Нет, вполне закономерно. Я покопалась в архивах. Информация очень разрозненная, где-то взята из биологических сводок, где-то из народных сказаний"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:755
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:740
 translate crowdin defeat_morpion_king_fa034ac1:
 
     # miranda "Но в целом, кажется теперь я знаю почти все особенности половой жизни Короля и Королевы Морпионов"
     miranda "Но в целом, кажется теперь я знаю почти все особенности половой жизни Короля и Королевы Морпионов"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:759
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:744
 translate crowdin defeat_morpion_king_0368d92b:
 
     # cedrick "Радость то какая.. Говоришь прямо как человек без личной жизни.."
     cedrick "Радость то какая.. Говоришь прямо как человек без личной жизни.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:763
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:748
 translate crowdin defeat_morpion_king_10242dc1_4:
 
     # miranda "..."
     miranda "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:764
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:749
 translate crowdin defeat_morpion_king_13910a94:
 
     # cedrick "...Ладно, плохая шутка. Что ты узнала?"
     cedrick "...Ладно, плохая шутка. Что ты узнала?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:768
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:753
 translate crowdin defeat_morpion_king_3c1f72e6:
 
     # miranda "Что-ж, зачитаю тебе мои записи.. Кхм.."
     miranda "Что-ж, зачитаю тебе мои записи.. Кхм.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:772
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:757
 translate crowdin defeat_morpion_king_b6ad205c:
 
     # miranda "При введении полового члена любым индивидом в вагинальное отверстие Королевы Морпионов, ее организм вырабатывает огромное количество норадреналина"
     miranda "При введении полового члена любым индивидом в вагинальное отверстие Королевы Морпионов, ее организм вырабатывает огромное количество норадреналина"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:773
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:758
 translate crowdin defeat_morpion_king_172bd127:
 
     # miranda "Вследствие чего, после попадания семени в организм Королевы, ее агрессивность значительно повышается, а маточная микрофлора становится кислотной"
     miranda "Вследствие чего, после попадания семени в организм Королевы, ее агрессивность значительно повышается, а маточная микрофлора становится кислотной"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:774
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:759
 translate crowdin defeat_morpion_king_8e2a4fd7:
 
     # miranda "Из-за этого любая особь мужского пола, пытающаяся ее оплодотворить, сталкивается с ее чрезвычайно агрессивным поведением, а матка в свою очередь растворяет любую семенную жидкость"
     miranda "Из-за этого любая особь мужского пола, пытающаяся ее оплодотворить, сталкивается с ее чрезвычайно агрессивным поведением, а матка в свою очередь растворяет любую семенную жидкость"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:775
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:760
 translate crowdin defeat_morpion_king_74e99bce:
 
     # miranda "Этот механизм необходим Королеве, поскольку она становится полностью зависима от того, кто сможет наполнить ее семенной жидкостью и оплодотворить"
     miranda "Этот механизм необходим Королеве, поскольку она становится полностью зависима от того, кто сможет наполнить ее семенной жидкостью и оплодотворить"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:776
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:761
 translate crowdin defeat_morpion_king_7a267ff6:
 
     # miranda "В свою очередь Король Морпионов эволюционным путем выработал механизм гормонального подавления биологических механизмов Королевы Морпионов"
     miranda "В свою очередь Король Морпионов эволюционным путем выработал механизм гормонального подавления биологических механизмов Королевы Морпионов"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:777
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:762
 translate crowdin defeat_morpion_king_d1e115f5:
 
     # miranda "Семенная жидкость Короля Морпионов, в зависимости от внешних раздражителей, вырабатывает особый, если можно так выразиться, гормональный коктейль, изменяющий поведение Королевы"
     miranda "Семенная жидкость Короля Морпионов, в зависимости от внешних раздражителей, вырабатывает особый, если можно так выразиться, гормональный коктейль, изменяющий поведение Королевы"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:778
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:763
 translate crowdin defeat_morpion_king_b7d2e469:
 
     # miranda "Чтобы у Королевы Морпионов не выработался иммунитет в ходе многочисленных половых актов, гормональная комбинация меняется каждый раз в зависимости от ситуации"
     miranda "Чтобы у Королевы Морпионов не выработался иммунитет в ходе многочисленных половых актов, гормональная комбинация меняется каждый раз в зависимости от ситуации"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:779
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:764
 translate crowdin defeat_morpion_king_0a7ef4e6:
 
     # miranda "Гормональная смесь Короля Морпионов меняется не только его сознанием, но и настроением жертвы, подбирая нужную комбинацию гормонов под разный спектр эмоций"
     miranda "Гормональная смесь Короля Морпионов меняется не только его сознанием, но и настроением жертвы, подбирая нужную комбинацию гормонов под разный спектр эмоций"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:780
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:765
 translate crowdin defeat_morpion_king_8762602d:
 
     # miranda "В свою очередь сам Король Морпионов за подобные гормональные манипуляции платит тратой огромного количества магической энергии, вырабатываемой его железой"
     miranda "В свою очередь сам Король Морпионов за подобные гормональные манипуляции платит тратой огромного количества магической энергии, вырабатываемой его железой"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:781
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:766
 translate crowdin defeat_morpion_king_ce627275_2:
 
     # cedrick "Миранда.."
     cedrick "Миранда.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:782
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:767
 translate crowdin defeat_morpion_king_7cb01bc1:
 
     # miranda "Так же стоит подчеркнуть, что.."
     miranda "Так же стоит подчеркнуть, что.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:783
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:768
 translate crowdin defeat_morpion_king_f18fd514:
 
     # cedrick "Миранда!"
     cedrick "Миранда!"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:787
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:772
 translate crowdin defeat_morpion_king_4a67d4ae:
 
     # miranda "А? Седрик, что такое?"
     miranda "А? Седрик, что такое?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:788
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:773
 translate crowdin defeat_morpion_king_29018a46:
 
     # cedrick "..Я нихера не понял. Можешь двумя словами и понятным языком"
     cedrick "..Я нихера не понял. Можешь двумя словами и понятным языком"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:792
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:777
 translate crowdin defeat_morpion_king_baedf908:
 
     # miranda "Ох, обычно такие вещи давались тебе легко"
     miranda "Ох, обычно такие вещи давались тебе легко"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:796
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:781
 translate crowdin defeat_morpion_king_2ca82354:
 
     # cedrick "В меня сегодня швырялись огнем и водой, потом снесли пол головы, а затем я потерял почти всю свою магическую силу. Можно покороче.."
     cedrick "В меня сегодня швырялись огнем и водой, потом снесли пол головы, а затем я потерял почти всю свою магическую силу. Можно покороче.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:800
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:785
 translate crowdin defeat_morpion_king_a8cced53:
 
     # miranda "Короче. Теперь у тебя есть сила Короля Морпионов"
     miranda "Короче. Теперь у тебя есть сила Короля Морпионов"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:804
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:789
 translate crowdin defeat_morpion_king_8aceb0e8:
 
     # cedrick "..Это я понял. Но какая сила?"
     cedrick "..Это я понял. Но какая сила?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:808
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:793
 translate crowdin defeat_morpion_king_0fe4a6ef:
 
     # miranda "Если в двух словах - сила гормонов"
     miranda "Если в двух словах - сила гормонов"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:812
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:797
 translate crowdin defeat_morpion_king_49316299_7:
 
     # cedrick "..."
     cedrick "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:813
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:798
 translate crowdin defeat_morpion_king_3e38071c:
 
     # cedrick "Ты сказала это проще, но я все равно не понял.. Я превращусь в пубертатного подростка со спермотоксикозом?"
     cedrick "Ты сказала это проще, но я все равно не понял.. Я превращусь в пубертатного подростка со спермотоксикозом?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:817
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:802
 translate crowdin defeat_morpion_king_6944d02d:
 
     # miranda "Эх.. Ты можешь гормонально манипулировать другими людьми, если кончишь в них, Седрик!"
     miranda "Эх.. Ты можешь гормонально манипулировать другими людьми, если кончишь в них, Седрик!"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:821
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:806
 translate crowdin defeat_morpion_king_45571c85:
 
     # cedrick "Что!? Как?!"
     cedrick "Что!? Как?!"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:825
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:810
 translate crowdin defeat_morpion_king_9b9d58ae:
 
     # miranda "Основная сила Кроля Морпионов - гормональная настройка. Он настраивает свою семенную жидкость под жертву, чтобы частично изменить ее биологию"
     miranda "Основная сила Кроля Морпионов - гормональная настройка. Он настраивает свою семенную жидкость под жертву, чтобы частично изменить ее биологию"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:829
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:814
 translate crowdin defeat_morpion_king_313fb5a1:
 
     # cedrick "Так.. И как именно происходит это изменение сознания?"
     cedrick "Так.. И как именно происходит это изменение сознания?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:833
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:818
 translate crowdin defeat_morpion_king_f330d7f8:
 
     # miranda "Ну смотри.. Королева Морпионов готова всех убить и растворить сперму любого, кто в нее кончит"
     miranda "Ну смотри.. Королева Морпионов готова всех убить и растворить сперму любого, кто в нее кончит"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:834
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:819
 translate crowdin defeat_morpion_king_c30134c1:
 
     # miranda "Поэтому Король Морпионов своей спермой буквально убеждает ее этого не делать. Комбинация гормонов абсолютно разная, но это может быть, например, хм.."
     miranda "Поэтому Король Морпионов своей спермой буквально убеждает ее этого не делать. Комбинация гормонов абсолютно разная, но это может быть, например, хм.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:838
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:823
 translate crowdin defeat_morpion_king_9695c27d:
 
     # miranda "Например окситоцин для спокойствия, пролактин и эстроген для повышения либидо и эндорфин для более положительного настроя"
     miranda "Например окситоцин для спокойствия, пролактин и эстроген для повышения либидо и эндорфин для более положительного настроя"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:839
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:824
 translate crowdin defeat_morpion_king_27886518:
 
     # miranda "В итоге злобная и агрессивная сука-королева становится покладистой и хочет нашего Короля. А он в свою очередь тратит на это дофига магии"
     miranda "В итоге злобная и агрессивная сука-королева становится покладистой и хочет нашего Короля. А он в свою очередь тратит на это дофига магии"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:840
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:825
 translate crowdin defeat_morpion_king_4495caf7:
 
     # cedrick "Подожди-ка.."
     cedrick "Подожди-ка.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:844
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:829
 translate crowdin defeat_morpion_king_1b9f4889:
 
     # miranda "Да, ты все верно понял. Если после секса с Корнелией ты потерял почти всю магическую энергию, значит.."
     miranda "Да, ты все верно понял. Если после секса с Корнелией ты потерял почти всю магическую энергию, значит.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:848
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:833
 translate crowdin defeat_morpion_king_1b4fc0a3:
 
     # cedrick "Значит я поменял ее гормональный фон.."
     cedrick "Значит я поменял ее гормональный фон.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:852
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:837
 translate crowdin defeat_morpion_king_5e2de797:
 
     # miranda "Вот видишь, еще варят мозги. Самое интересное, что этот гормональный фон не разовое явление"
     miranda "Вот видишь, еще варят мозги. Самое интересное, что этот гормональный фон не разовое явление"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:853
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:838
 translate crowdin defeat_morpion_king_f55f18df:
 
     # miranda "Комбинация гормонов буквально встраивается в организм жертвы, словно так было всю ее жизнь. Ставшая покладистой Королева дальше сама будет поддерживать этот образ"
     miranda "Комбинация гормонов буквально встраивается в организм жертвы, словно так было всю ее жизнь. Ставшая покладистой Королева дальше сама будет поддерживать этот образ"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:857
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:842
 translate crowdin defeat_morpion_king_d5e1b5ac:
 
     # cedrick "Так.. Но в чем я убедил Корнелию?"
     cedrick "Так.. Но в чем я убедил Корнелию?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:861
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:846
 translate crowdin defeat_morpion_king_fb890cad:
 
     # miranda "А вот это, я думаю, тебе стоит самому проверить..."
     miranda "А вот это, я думаю, тебе стоит самому проверить..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:863
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:848
 translate crowdin defeat_morpion_king_49316299_8:
 
     # cedrick "..."
     cedrick "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:865
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:850
 translate crowdin defeat_morpion_king_a20cefa7_4:
 
     # "..."
     "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:871
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:856
 translate crowdin defeat_morpion_king_fc62e033:
 
     # cedrick "Эм.. Корнелия? Как ты.. Как ты себя чувствуешь?"
     cedrick "Эм.. Корнелия? Как ты.. Как ты себя чувствуешь?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:875
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:860
 translate crowdin defeat_morpion_king_e5f291b2:
 
     # cornelia "Что за странный вопрос, чертов змей? Как я еще могу чувствовать себя после того, как ты грубо меня трахал прямо на полу и ушел?"
     cornelia "Что за странный вопрос, чертов змей? Как я еще могу чувствовать себя после того, как ты грубо меня трахал прямо на полу и ушел?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:876
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:861
 translate crowdin defeat_morpion_king_2dc8ed88:
 
     # cedrick "Ну, я.. Кхм, просто хотел уточнить"
     cedrick "Ну, я.. Кхм, просто хотел уточнить"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:880
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:865
 translate crowdin defeat_morpion_king_69530f48:
 
     # cornelia "Пф.."
     cornelia "Пф.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:889
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:874
 translate crowdin q_dfk_cornelia_dialogs_a904ddf8:
 
     # cedrick "(Я должен понять, что изменилось. Нужно ее спровоцировать и сравнить с обычной реакцией)"
     cedrick "(Я должен понять, что изменилось. Нужно ее спровоцировать и сравнить с обычной реакцией)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:898
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:883
 translate crowdin q_dfk_cornelia_menu_48207be8:
 
     # cedrick "Знаешь, к нам тут поступило несколько повстанцев в качестве пленных. В ходе допроса оказалось, что у Калеба теперь появилась новая спутница-повстанец"
     cedrick "Знаешь, к нам тут поступило несколько повстанцев в качестве пленных. В ходе допроса оказалось, что у Калеба теперь появилась новая спутница-повстанец"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:903
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:888
 translate crowdin q_dfk_cornelia_menu_b54aa32a:
 
     # cedrick "Видимо я ошибался, когда говорил, что у них с девчонками туго. Одну Калеб себе все-же раздобыл"
     cedrick "Видимо я ошибался, когда говорил, что у них с девчонками туго. Одну Калеб себе все-же раздобыл"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:907
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:892
 translate crowdin q_dfk_cornelia_menu_48ad63bd:
 
     # cornelia "Меня это не волнует. Пусть Калеб развлекается с кем хочет"
     cornelia "Меня это не волнует. Пусть Калеб развлекается с кем хочет"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:909
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:894
 translate crowdin q_dfk_cornelia_menu_af1cc38b:
 
     # cedrick "(Черт.. Странно, тогда зайду с другой стороны)"
     cedrick "(Черт.. Странно, тогда зайду с другой стороны)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:919
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:904
 translate crowdin q_dfk_cornelia_menu_4f59e12c:
 
     # cedrick "Хм, довольно интересно. После того как пропали Брайан и Алхими, через пару дней уже весь город был в листовках о пропаже"
     cedrick "Хм, довольно интересно. После того как пропали Брайан и Алхими, через пару дней уже весь город был в листовках о пропаже"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:923
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:908
 translate crowdin q_dfk_cornelia_menu_c3c3b621:
 
     # cedrick "Но после того, как пропала ты, я не видел ни одной, это странно.. Может подруги все же как-то тебя прикрывают? Не могла же на тебя забить даже школа с полицией"
     cedrick "Но после того, как пропала ты, я не видел ни одной, это странно.. Может подруги все же как-то тебя прикрывают? Не могла же на тебя забить даже школа с полицией"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:927
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:912
 translate crowdin q_dfk_cornelia_menu_f513240d:
 
     # cornelia "Нет. Моим родителям просто плевать на меня. Как и подругам. Как и всему этому чертовому городу. Все, наверное, подумали, что я смоталась на Мальдивы или типо того"
     cornelia "Нет. Моим родителям просто плевать на меня. Как и подругам. Как и всему этому чертовому городу. Все, наверное, подумали, что я смоталась на Мальдивы или типо того"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:931
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:916
 translate crowdin q_dfk_cornelia_menu_87a923f6:
 
     # cedrick "(Черт, да она непробиваемая..)"
     cedrick "(Черт, да она непробиваемая..)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:944
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:929
 translate crowdin q_dfk_cornelia_dialogs_continue_40a1a490:
 
     # cornelia "Главное, что я нужна здесь."
     cornelia "Главное, что я нужна здесь."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:945
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:930
 translate crowdin q_dfk_cornelia_dialogs_continue_49316299:
 
     # cedrick "..."
     cedrick "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:946
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:931
 translate crowdin q_dfk_cornelia_dialogs_continue_e85db738:
 
     # cedrick "Стоп.. что?"
     cedrick "Стоп.. что?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:950
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:935
 translate crowdin q_dfk_cornelia_dialogs_continue_e7c4ae77:
 
     # cornelia "Седрик, ты тот еще мудак, ты это знаешь? Ты мудак, но ты прав.. Я просто девчонка с синдромом дефицита внимания, потому что на Земле я абсолютно никому не важна"
     cornelia "Седрик, ты тот еще мудак, ты это знаешь? Ты мудак, но ты прав.. Я просто девчонка с синдромом дефицита внимания, потому что на Земле я абсолютно никому не важна"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:954
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:939
 translate crowdin q_dfk_cornelia_dialogs_continue_3383a612:
 
     # cornelia "Я важна для кого-то только в качестве пленницы в гребаном подземелье. Но.. Но зато я нужна, черт.. Кажется.. Кажется это все, что мне нужно сейчас.."
     cornelia "Я важна для кого-то только в качестве пленницы в гребаном подземелье. Но.. Но зато я нужна, черт.. Кажется.. Кажется это все, что мне нужно сейчас.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:958
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:943
 translate crowdin q_dfk_cornelia_dialogs_continue_fe4c494e:
 
     # cedrick "Твою мать.."
     cedrick "Твою мать.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:962
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:947
 translate crowdin q_dfk_cornelia_dialogs_continue_826453e7:
 
     # cornelia "Что? Тебя что-то не устраивает!?"
     cornelia "Что? Тебя что-то не устраивает!?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:963
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:948
 translate crowdin q_dfk_cornelia_dialogs_continue_42d86dc0:
 
     # cedrick "Эм.. Нет.. Нет, я.. Мне нужно отойти"
     cedrick "Эм.. Нет.. Нет, я.. Мне нужно отойти"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:964
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:949
 translate crowdin q_dfk_cornelia_dialogs_continue_c25ec186:
 
     # cornelia "Ну так вали.."
     cornelia "Ну так вали.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:965
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:950
 translate crowdin q_dfk_cornelia_dialogs_continue_e167337e:
 
     # cornelia "Ты же все равно ко мне вернешься.. Это для меня главное.."
     cornelia "Ты же все равно ко мне вернешься.. Это для меня главное.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:966
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:951
 translate crowdin q_dfk_cornelia_dialogs_continue_af73512c:
 
     # cedrick "(Такие ее речи меня слегка напрягают..)"
     cedrick "(Такие ее речи меня слегка напрягают..)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:970
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:955
 translate crowdin q_dfk_cornelia_dialogs_continue_bc588c08:
 
     # centered "{size=37}Седрик рассказывает все Миранде {/size}"
     centered "{size=37}Седрик рассказывает все Миранде {/size}"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:975
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:960
 translate crowdin q_dfk_cornelia_dialogs_continue_3c8a3003:
 
     # miranda "Что ж, все произошло прямо как по методичке"
     miranda "Что ж, все произошло прямо как по методичке"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:979
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:964
 translate crowdin q_dfk_cornelia_dialogs_continue_01e4379d:
 
     # cedrick "Ты считаешь?"
     cedrick "Ты считаешь?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:983
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:968
 translate crowdin q_dfk_cornelia_dialogs_continue_899e9aef:
 
     # miranda "Да. Ты стал убеждать ее в том, что она никому не нужна, что, по сути, взыграло на ее реальных чувствах и сомнениях в себе"
     miranda "Да. Ты стал убеждать ее в том, что она никому не нужна, что, по сути, взыграло на ее реальных чувствах и сомнениях в себе"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:984
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:969
 translate crowdin q_dfk_cornelia_dialogs_continue_6cb8ac94:
 
     # miranda "А потом с помощью этой установки создал гормональный набор клеток, который убедил ее в том, что она нужна здесь как пленница. Стоило в нее кончить и все сработало"
     miranda "А потом с помощью этой установки создал гормональный набор клеток, который убедил ее в том, что она нужна здесь как пленница. Стоило в нее кончить и все сработало"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:988
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:973
 translate crowdin q_dfk_cornelia_dialogs_continue_9def42f7:
 
     # miranda "Причем ее остальные чувства не поменялись, ты для нее все такой же мудак. Но теперь ее держит чувство того, что она тебе нужна и что ей самой это нужно"
     miranda "Причем ее остальные чувства не поменялись, ты для нее все такой же мудак. Но теперь ее держит чувство того, что она тебе нужна и что ей самой это нужно"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:992
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:977
 translate crowdin q_dfk_cornelia_dialogs_continue_a0b91a28:
 
     # cedrick "Черт.. Получается я могу.."
     cedrick "Черт.. Получается я могу.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:996
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:981
 translate crowdin q_dfk_cornelia_dialogs_continue_7d0b2a2f:
 
     # miranda "Нет, не можешь, Седрик. Ты не можешь убедить кого угодно в чем угодно, просто кончив в него"
     miranda "Нет, не можешь, Седрик. Ты не можешь убедить кого угодно в чем угодно, просто кончив в него"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1000
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:985
 translate crowdin q_dfk_cornelia_dialogs_continue_ae1c06d4:
 
     # cedrick "Но ведь именно это и произошло.."
     cedrick "Но ведь именно это и произошло.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1004
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:989
 translate crowdin q_dfk_cornelia_dialogs_continue_c088e377:
 
     # miranda "Здесь множество разных переменных. Во-первых, ты не можешь сделать человека тем, чем он не является. Например, ты не мог бы убедить Корнелию в том, что она булыжник"
     miranda "Здесь множество разных переменных. Во-первых, ты не можешь сделать человека тем, чем он не является. Например, ты не мог бы убедить Корнелию в том, что она булыжник"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1008
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:993
 translate crowdin q_dfk_cornelia_dialogs_continue_2b8b3111:
 
     # cedrick "Так.."
     cedrick "Так.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1012
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:997
 translate crowdin q_dfk_cornelia_dialogs_continue_4358abb0:
 
     # miranda "Во-вторых, ты не можешь убедить в том, чего не может происходить в объективной реальности. Например, ты не смог бы убедить Корнелию, что она родилась из куриного яйца"
     miranda "Во-вторых, ты не можешь убедить в том, чего не может происходить в объективной реальности. Например, ты не смог бы убедить Корнелию, что она родилась из куриного яйца"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1016
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1001
 translate crowdin q_dfk_cornelia_dialogs_continue_b4f96dc9:
 
     # cedrick "Хм.."
     cedrick "Хм.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1020
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1005
 translate crowdin q_dfk_cornelia_dialogs_continue_2e096339:
 
     # miranda "В-третьих, ты не сможешь убедить человека в том, что противоречит его важной внутренней установке. Например, ты не сможешь убедить Корнелию в том, что она тебя искренне любит"
     miranda "В-третьих, ты не сможешь убедить человека в том, что противоречит его важной внутренней установке. Например, ты не сможешь убедить Корнелию в том, что она тебя искренне любит"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1021
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1006
 translate crowdin q_dfk_cornelia_dialogs_continue_8df93354:
 
     # miranda "Потому что она тебя уже всем сердцем ненавидит.."
     miranda "Потому что она тебя уже всем сердцем ненавидит.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1025
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1010
 translate crowdin q_dfk_cornelia_dialogs_continue_e000bfe2:
 
     # cedrick "Черт.. А ведь все хорошо начиналось.. Но как тогда я сделал то, что сделал?"
     cedrick "Черт.. А ведь все хорошо начиналось.. Но как тогда я сделал то, что сделал?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1029
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1014
 translate crowdin q_dfk_cornelia_dialogs_continue_3d66af15:
 
     # miranda "Королева Морпионов может отдаться только достойному самцу - это ее главная установка"
     miranda "Королева Морпионов может отдаться только достойному самцу - это ее главная установка"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1030
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1015
 translate crowdin q_dfk_cornelia_dialogs_continue_7327e3cc:
 
     # miranda "Король Морпионов не может убедить ее отдаться любому жалкому слизняку. Но он может убедить ее в том, что Король сам является достойным самцом"
     miranda "Король Морпионов не может убедить ее отдаться любому жалкому слизняку. Но он может убедить ее в том, что Король сам является достойным самцом"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1034
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1019
 translate crowdin q_dfk_cornelia_dialogs_continue_6d15286b:
 
     # cedrick "То есть то, в чем я убедил Корнелию, просто не противоречило ее внутренней установке"
     cedrick "То есть то, в чем я убедил Корнелию, просто не противоречило ее внутренней установке"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1038
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1023
 translate crowdin q_dfk_cornelia_dialogs_continue_7ad7e014:
 
     # miranda "Именно. Ей хотелось почувствовать себя нужной, и ты дал ей это. Видимо для нее не является противоречием то, что она нужна тому, кого ненавидит"
     miranda "Именно. Ей хотелось почувствовать себя нужной, и ты дал ей это. Видимо для нее не является противоречием то, что она нужна тому, кого ненавидит"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1042
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1027
 translate crowdin q_dfk_cornelia_dialogs_continue_6c82405c:
 
     # cedrick "Люди, в детстве обделенные вниманием, чаще становятся жертвами абьюзивных отношений, поскольку так компенсируют отсутствие внимания, несмотря на плохое к ним отношение"
     cedrick "Люди, в детстве обделенные вниманием, чаще становятся жертвами абьюзивных отношений, поскольку так компенсируют отсутствие внимания, несмотря на плохое к ним отношение"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1046
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1031
 translate crowdin q_dfk_cornelia_dialogs_continue_b79653f2:
 
     # miranda "...Что?"
     miranda "...Что?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1048
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1033
 translate crowdin q_dfk_cornelia_dialogs_continue_da73b829:
 
     # cedrick "Прочитал в книге по психологии для чайников"
     cedrick "Прочитал в книге по психологии для чайников"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1052
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1037
 translate crowdin q_dfk_cornelia_dialogs_continue_5524c2a1:
 
     # miranda "Ясно.."
     miranda "Ясно.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1056
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1041
 translate crowdin q_dfk_cornelia_dialogs_continue_db73d012:
 
     # cedrick "Хм... Так или иначе, эта новая способность - оружие. Сложное в использовании, но я могу его использовать. Потенциально можно восстановить свое старое положение на Земле.."
     cedrick "Хм... Так или иначе, эта новая способность - оружие. Сложное в использовании, но я могу его использовать. Потенциально можно восстановить свое старое положение на Земле.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1057
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1042
 translate crowdin q_dfk_cornelia_dialogs_continue_0bee2790:
 
     # cedrick "Хорошо.. Но прежде чем я уйду, мне нужен тот стражник со шрамами на лице"
     cedrick "Хорошо.. Но прежде чем я уйду, мне нужен тот стражник со шрамами на лице"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1061
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1046
 translate crowdin q_dfk_cornelia_dialogs_continue_bcb021f0:
 
     # miranda "..Почти у всех шрамы на лице"
     miranda "..Почти у всех шрамы на лице"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1065
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1050
 translate crowdin q_dfk_cornelia_dialogs_continue_4e26c250:
 
     # cedrick "Черт.. Эм.. У него горизонтальный шрам вдоль носа, вертикальный шрам на левом глазу.. Перебинтовано левое плечо.. В правой руке держит топор палача"
     cedrick "Черт.. Эм.. У него горизонтальный шрам вдоль носа, вертикальный шрам на левом глазу.. Перебинтовано левое плечо.. В правой руке держит топор палача"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1066
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1051
 translate crowdin q_dfk_cornelia_dialogs_continue_553712d5:
 
     # miranda "(Воу.. Его нейронные связи и вправду обновились..)"
     miranda "(Воу.. Его нейронные связи и вправду обновились..)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1070
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1055
 translate crowdin q_dfk_cornelia_dialogs_continue_962205f6:
 
     # miranda "Хорошо, мы найдем его"
     miranda "Хорошо, мы найдем его"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1072
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1057
 translate crowdin q_dfk_cornelia_dialogs_continue_462bd96e:
 
     # centered "{size=37}Седрику приводят побитого воина{/size}"
     centered "{size=37}Седрику приводят побитого воина{/size}"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1076
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1061
 translate crowdin q_dfk_cornelia_dialogs_continue_0a6593ad:
 
     # broken_warrior "Вы звали меня, Главнокомандующий Седрик?"
     broken_warrior "Вы звали меня, Главнокомандующий Седрик?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1080
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1065
 translate crowdin q_dfk_cornelia_dialogs_continue_98a67766:
 
     # cedrick "Да, у меня к тебе разговор. Для начала, как тебя зовут?"
     cedrick "Да, у меня к тебе разговор. Для начала, как тебя зовут?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1084
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1069
 translate crowdin q_dfk_cornelia_dialogs_continue_f9a60b84:
 
     # broken_warrior "Эм.. Вам интересно как меня зовут, сэр?"
     broken_warrior "Эм.. Вам интересно как меня зовут, сэр?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1088
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1073
 translate crowdin q_dfk_cornelia_dialogs_continue_1790cd26:
 
     # cedrick "Хах, да, знаю, не похоже на меня. Ну же, не тяни"
     cedrick "Хах, да, знаю, не похоже на меня. Ну же, не тяни"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1092
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1077
 translate crowdin q_dfk_cornelia_dialogs_continue_1edf5ee5:
 
     # broken_warrior "Булдж, сэр"
     broken_warrior "Булдж, сэр"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1096
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1081
 translate crowdin q_dfk_cornelia_dialogs_continue_695a897f:
 
     # cedrick "(Булдж? Ну и имена у этих стражников)"
     cedrick "(Булдж? Ну и имена у этих стражников)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1097
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1082
 translate crowdin q_dfk_cornelia_dialogs_continue_9f83cd77:
 
     # cedrick "Скажи мне, Булдж, почему ты приковал стражницу сегодня? Хотел с ней повеселиться?"
     cedrick "Скажи мне, Булдж, почему ты приковал стражницу сегодня? Хотел с ней повеселиться?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1101
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1086
 translate crowdin q_dfk_cornelia_dialogs_continue_7a40b1fc:
 
     # bulj "Никак нет, Главнокомандующий Седрик. Я сделал это, предположив, что повстанцы могут пробраться в замок во время шумихи и попытаться забрать ее, поскольку она ценный боевой юнит"
     bulj "Никак нет, Главнокомандующий Седрик. Я сделал это, предположив, что повстанцы могут пробраться в замок во время шумихи и попытаться забрать ее, поскольку она ценный боевой юнит"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1105
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1090
 translate crowdin q_dfk_cornelia_dialogs_continue_862ee1ec:
 
     # cedrick "Хах, ты понимаешь то, чего не понимают даже сами повстанцы, интересно. Скажи мне знаешь что, Булдж"
     cedrick "Хах, ты понимаешь то, чего не понимают даже сами повстанцы, интересно. Скажи мне знаешь что, Булдж"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1109
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1094
 translate crowdin q_dfk_cornelia_dialogs_continue_e1333b53:
 
     # bulj "Слушаю"
     bulj "Слушаю"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1113
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1098
 translate crowdin q_dfk_cornelia_dialogs_continue_987841f0:
 
     # cedrick "За что ты сражаешься?"
     cedrick "За что ты сражаешься?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1117
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1102
 translate crowdin q_dfk_cornelia_dialogs_continue_3b1d7768:
 
     # bulj "Ч-что, простите?"
     bulj "Ч-что, простите?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1121
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1106
 translate crowdin q_dfk_cornelia_dialogs_continue_b9cf7c29:
 
     # cedrick "Зачем тебе все это? Зачем служишь Фобосу?"
     cedrick "Зачем тебе все это? Зачем служишь Фобосу?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1125
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1110
 translate crowdin q_dfk_cornelia_dialogs_continue_3e832cf8:
 
     # bulj "Я пошел в солдаты не из-за Фобоса"
     bulj "Я пошел в солдаты не из-за Фобоса"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1129
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1114
 translate crowdin q_dfk_cornelia_dialogs_continue_49316299_1:
 
     # cedrick "..."
     cedrick "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1130
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1115
 translate crowdin q_dfk_cornelia_dialogs_continue_b13b6a54:
 
     # cedrick "А из-за чего?"
     cedrick "А из-за чего?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1134
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1119
 translate crowdin q_dfk_cornelia_dialogs_continue_41907d9a:
 
     # bulj "Когда-то давно вы спасли мою семью, Лорд Седрик. К тому же.. Такие полукровки, как я, никогда не вписывались ни в мир людей, ни в мир лурженов"
     bulj "Когда-то давно вы спасли мою семью, Лорд Седрик. К тому же.. Такие полукровки, как я, никогда не вписывались ни в мир людей, ни в мир лурженов"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1135
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1120
 translate crowdin q_dfk_cornelia_dialogs_continue_451ef162:
 
     # bulj "в Меридиане мы изгои..."
     bulj "в Меридиане мы изгои..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1136
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1121
 translate crowdin q_dfk_cornelia_dialogs_continue_c6133ffe:
 
     # bulj "Для Фобоса же мы пушечное мясо, простолюдины, он защищает лишь свои личные интересы"
     bulj "Для Фобоса же мы пушечное мясо, простолюдины, он защищает лишь свои личные интересы"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1137
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1122
 translate crowdin q_dfk_cornelia_dialogs_continue_823d96a6:
 
     # bulj "Но вы, Лорд Седрик, вы всегда считали, что даже мы, полукровки, лучше любого человека"
     bulj "Но вы, Лорд Седрик, вы всегда считали, что даже мы, полукровки, лучше любого человека"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1138
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1123
 translate crowdin q_dfk_cornelia_dialogs_continue_8251ee90:
 
     # bulj "И несмотря на ваше знатное происхождение, я понимал, что вы на нашей стороне и отстаиваете наши интересы"
     bulj "И несмотря на ваше знатное происхождение, я понимал, что вы на нашей стороне и отстаиваете наши интересы"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1139
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1124
 translate crowdin q_dfk_cornelia_dialogs_continue_96c2106a:
 
     # bulj "Я пришел сюда не чтобы служить Фобосу, а чтобы служить вам"
     bulj "Я пришел сюда не чтобы служить Фобосу, а чтобы служить вам"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1143
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1128
 translate crowdin q_dfk_cornelia_dialogs_continue_b708b3fb:
 
     # cedrick "(Все это.. Довольно странно слышать. Он словно рассказывает мне о другом человеке. О том, кем я когда-то был..)"
     cedrick "(Все это.. Довольно странно слышать. Он словно рассказывает мне о другом человеке. О том, кем я когда-то был..)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1144
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1129
 translate crowdin q_dfk_cornelia_dialogs_continue_e344383d:
 
     # cedrick "(Хах, забавно.. Раньше за мной и вправду шли толпы, я вел монстров за собой и мне было плевать на их происхождение. Но потом я забыл, за что сражался и кем хотел быть..)"
     cedrick "(Хах, забавно.. Раньше за мной и вправду шли толпы, я вел монстров за собой и мне было плевать на их происхождение. Но потом я забыл, за что сражался и кем хотел быть..)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1145
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1130
 translate crowdin q_dfk_cornelia_dialogs_continue_b47d4e63:
 
     # cedrick "(Итог этого спустя сотни лет - один единственный действительно верный стражник. Но, империи тоже не сразу строились)"
     cedrick "(Итог этого спустя сотни лет - один единственный действительно верный стражник. Но, империи тоже не сразу строились)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1149
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1134
 translate crowdin q_dfk_cornelia_dialogs_continue_59e06574:
 
     # bulj "Сэр?"
     bulj "Сэр?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1153
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1138
 translate crowdin q_dfk_cornelia_dialogs_continue_6f59bb9f:
 
     # cedrick "А? Хах, прости, просто посчитал забавным то, что из всей стражи ты единственный, кто остался верен именно мне"
     cedrick "А? Хах, прости, просто посчитал забавным то, что из всей стражи ты единственный, кто остался верен именно мне"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1157
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1142
 translate crowdin q_dfk_cornelia_dialogs_continue_feecde7a:
 
     # bulj "Я не единственный, главнокомандующий Седрик"
     bulj "Я не единственный, главнокомандующий Седрик"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1161
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1146
 translate crowdin q_dfk_cornelia_dialogs_continue_7b0d15d2:
 
     # cedrick "В каком смысле?"
     cedrick "В каком смысле?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1165
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1150
 translate crowdin q_dfk_cornelia_dialogs_continue_e13306be:
 
     # bulj "После битвы с Королем Морпионов все были поражены тем, как вы защитили стражу и решили выйти с Королем один на один"
     bulj "После битвы с Королем Морпионов все были поражены тем, как вы защитили стражу и решили выйти с Королем один на один"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1169
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1154
 translate crowdin q_dfk_cornelia_dialogs_continue_dd4edca5:
 
     # cedrick "Ах, это.."
     cedrick "Ах, это.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1173
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1158
 translate crowdin q_dfk_cornelia_dialogs_continue_baf3621b:
 
     # bulj "Многие из стражи всерьез поменяли мнение о вас и теперь они больше верят в вас, чем в Фобоса, который отправил нас в лес на убой, отсиживаясь в замке"
     bulj "Многие из стражи всерьез поменяли мнение о вас и теперь они больше верят в вас, чем в Фобоса, который отправил нас в лес на убой, отсиживаясь в замке"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1177
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1162
 translate crowdin q_dfk_cornelia_dialogs_continue_b3b85304:
 
     # cedrick "Хм, все даже лучше, чем я думал.. Я подозревал о твоих мотивах и быстро понял, что ты будешь на моей стороне. Поэтому я и позвал тебя сюда"
     cedrick "Хм, все даже лучше, чем я думал.. Я подозревал о твоих мотивах и быстро понял, что ты будешь на моей стороне. Поэтому я и позвал тебя сюда"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1178
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1163
 translate crowdin q_dfk_cornelia_dialogs_continue_49316299_2:
 
     # cedrick "..."
     cedrick "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1179
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1164
 translate crowdin q_dfk_cornelia_dialogs_continue_b5118f00:
 
     # cedrick "Я собираюсь свергнуть Фобоса"
     cedrick "Я собираюсь свергнуть Фобоса"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1183
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1168
 translate crowdin q_dfk_cornelia_dialogs_continue_3073060e:
 
     # bulj "В-вы серьезно!?"
     bulj "В-вы серьезно!?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1184
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1169
 translate crowdin q_dfk_cornelia_dialogs_continue_e4d448b5:
 
     # cedrick "Серьезен, как никогда. Мне нужна поддержка. Что за Лорд, устраивающий переворот в одиночку, согласен?"
     cedrick "Серьезен, как никогда. Мне нужна поддержка. Что за Лорд, устраивающий переворот в одиночку, согласен?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1188
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1173
 translate crowdin q_dfk_cornelia_dialogs_continue_3d84a614:
 
     # bulj "Хах.. Вы правы"
     bulj "Хах.. Вы правы"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1192
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1177
 translate crowdin q_dfk_cornelia_dialogs_continue_dfda41bf:
 
     # cedrick "Мне нужно, чтобы в мое отсутствие ты выполнил три моих поручения. Аккуратно. Никто не должен уличить тебя в подозрительной активности"
     cedrick "Мне нужно, чтобы в мое отсутствие ты выполнил три моих поручения. Аккуратно. Никто не должен уличить тебя в подозрительной активности"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1196
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1181
 translate crowdin q_dfk_cornelia_dialogs_continue_1ad3efae:
 
     # bulj "Я вас слушаю"
     bulj "Я вас слушаю"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1200
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1185
 translate crowdin q_dfk_cornelia_dialogs_continue_3678f302:
 
     # cedrick "Первое. Ты должен вербовать стражников на мою сторону. Подбирай правильные места и правильные мотивы"
     cedrick "Первое. Ты должен вербовать стражников на мою сторону. Подбирай правильные места и правильные мотивы"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1201
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1186
 translate crowdin q_dfk_cornelia_dialogs_continue_bbec9eed:
 
     # cedrick "Не используй рычаги давления. Шантаж рано или поздно спровоцирует на предательство, уж я-то знаю"
     cedrick "Не используй рычаги давления. Шантаж рано или поздно спровоцирует на предательство, уж я-то знаю"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1202
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1187
 translate crowdin q_dfk_cornelia_dialogs_continue_12c342f8:
 
     # cedrick "С мозгами у тебя все в порядке, ты умнее среднего стражника на несколько голов, думаю справишься"
     cedrick "С мозгами у тебя все в порядке, ты умнее среднего стражника на несколько голов, думаю справишься"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1203
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1188
 translate crowdin q_dfk_cornelia_dialogs_continue_71059d61:
 
     # cedrick "Второе. Узнай, что здесь забыли повстанцы. Они не могли знать о нападении Короля Морпионов заранее, а значит вынюхивали здесь что-то и ждали подходящего момента"
     cedrick "Второе. Узнай, что здесь забыли повстанцы. Они не могли знать о нападении Короля Морпионов заранее, а значит вынюхивали здесь что-то и ждали подходящего момента"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1204
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1189
 translate crowdin q_dfk_cornelia_dialogs_continue_71857197:
 
     # cedrick "Если это не была Корнелия, значит либо что-то пропало и мы этого не обнаружили, либо где-то должны быть следы взлома"
     cedrick "Если это не была Корнелия, значит либо что-то пропало и мы этого не обнаружили, либо где-то должны быть следы взлома"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1205
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1190
 translate crowdin q_dfk_cornelia_dialogs_continue_12641a41:
 
     # cedrick "Третье. Мне нужны будут зелья. Много зелий, восполняющих магию. И я не собираюсь вечно сам бегать по лесам в поисках ингредиентов"
     cedrick "Третье. Мне нужны будут зелья. Много зелий, восполняющих магию. И я не собираюсь вечно сам бегать по лесам в поисках ингредиентов"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1209
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1194
 translate crowdin q_dfk_cornelia_dialogs_continue_37d2587d:
 
     # bulj "Понимаю, сэр"
     bulj "Понимаю, сэр"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1213
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1198
 translate crowdin q_dfk_cornelia_dialogs_continue_01c38d04:
 
     # cedrick "В качестве проверки завербованных стражников можешь отправлять в лес монстров за составляющими зелья. Это будет тест на верность и подготовку"
     cedrick "В качестве проверки завербованных стражников можешь отправлять в лес монстров за составляющими зелья. Это будет тест на верность и подготовку"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1214
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1199
 translate crowdin q_dfk_cornelia_dialogs_continue_3e278bfa:
 
     # cedrick "Те стражники, что выживут в лесу монстров после постоянных походов, будут явно куда сильнее остальных. Именно они мне и нужны"
     cedrick "Те стражники, что выживут в лесу монстров после постоянных походов, будут явно куда сильнее остальных. Именно они мне и нужны"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1218
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1203
 translate crowdin q_dfk_cornelia_dialogs_continue_d01146e9:
 
     # bulj "Так точно, Главнокомандующий Седрик"
     bulj "Так точно, Главнокомандующий Седрик"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1219
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1204
 translate crowdin q_dfk_cornelia_dialogs_continue_fcc1ef23:
 
     # bulj "По моим подсчетам, мы сможем поставлять вам ингредиентов для пяти больших бутылок зелья восстановления раз в 3 дня"
     bulj "По моим подсчетам, мы сможем поставлять вам ингредиентов для пяти больших бутылок зелья восстановления раз в 3 дня"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1223
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1208
 translate crowdin q_dfk_cornelia_dialogs_continue_f03ca2a2:
 
     # cedrick "Отлично. Значит я смогу пополнять свои силы раз в три дня, мне подходит. Приносите ингредиенты Миранде, она сделает из них зелья"
     cedrick "Отлично. Значит я смогу пополнять свои силы раз в три дня, мне подходит. Приносите ингредиенты Миранде, она сделает из них зелья"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1224
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1209
 translate crowdin q_dfk_cornelia_dialogs_continue_9b22cc14:
 
     # cedrick "И еще кое-что"
     cedrick "И еще кое-что"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1228
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1213
 translate crowdin q_dfk_cornelia_dialogs_continue_f07323c7:
 
     # bulj "Что же?"
     bulj "Что же?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1232
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1217
 translate crowdin q_dfk_cornelia_dialogs_continue_68a93fa4:
 
     # cedrick "Проследите за Райтером. Фобос не должен знать о его сокрушительном поражении и побега с поле боя, иначе его казнят. Он нужен мне живым. Это все."
     cedrick "Проследите за Райтером. Фобос не должен знать о его сокрушительном поражении и побега с поле боя, иначе его казнят. Он нужен мне живым. Это все."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1236
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1221
 translate crowdin q_dfk_cornelia_dialogs_continue_716ae79e:
 
     # bulj "Есть, сэр!"
     bulj "Есть, сэр!"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1239
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1224
 translate crowdin q_dfk_cornelia_dialogs_continue_8523a0da:
 
     # "Булдж уходит"
     "Булдж уходит"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1241
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1226
 translate crowdin q_dfk_cornelia_dialogs_continue_503b5812:
 
     # cedrick "Отлично, первый завербованный уже есть"
     cedrick "Отлично, первый завербованный уже есть"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1244
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1229
 translate crowdin q_dfk_cornelia_dialogs_continue_e4b751b9:
 
     # miranda "Думаешь он надежен?"
     miranda "Думаешь он надежен?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1248
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1233
 translate crowdin q_dfk_cornelia_dialogs_continue_e815ad0a:
 
     # cedrick "Да, вполне. К тому же битву с Фобосом мне не выиграть, если я не буду доверять другим, а они не будут верить в меня"
     cedrick "Да, вполне. К тому же битву с Фобосом мне не выиграть, если я не буду доверять другим, а они не будут верить в меня"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1252
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1237
 translate crowdin q_dfk_cornelia_dialogs_continue_5bf8ffb5:
 
     # miranda "Ты и вправду изменился.."
     miranda "Ты и вправду изменился.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1256
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1241
 translate crowdin q_dfk_cornelia_dialogs_continue_9b1f4187:
 
     # cedrick "Не без твоей поддержки, Миранда.."
     cedrick "Не без твоей поддержки, Миранда.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1260
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1245
 translate crowdin q_dfk_cornelia_dialogs_continue_1778a53e:
 
     # miranda "Ох, как мило.. Только давай теперь без постоянных любовных соплей, мне больше нравится, когда ты жесткий.. Но совсем чуть-чуть любовных соплей все же можно"
     miranda "Ох, как мило.. Только давай теперь без постоянных любовных соплей, мне больше нравится, когда ты жесткий.. Но совсем чуть-чуть любовных соплей все же можно"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1264
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1249
 translate crowdin q_dfk_cornelia_dialogs_continue_4a2b51a2:
 
     # cedrick "Хах, я тебя понял.. Что ж, на Меридиане я прикрыл тылы, теперь главное разобраться с моим положением на Земле"
     cedrick "Хах, я тебя понял.. Что ж, на Меридиане я прикрыл тылы, теперь главное разобраться с моим положением на Земле"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1268
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1253
 translate crowdin q_dfk_cornelia_dialogs_continue_3700dccb:
 
     # miranda "У тебя есть план?"
     miranda "У тебя есть план?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1272
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1257
 translate crowdin q_dfk_cornelia_dialogs_continue_22d118ac:
 
     # cedrick "Да, есть. Особенности новой силы я понял. Это будет сложно, но я постараюсь применить ее точечно, как надо"
     cedrick "Да, есть. Особенности новой силы я понял. Это будет сложно, но я постараюсь применить ее точечно, как надо"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1273
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1258
 translate crowdin q_dfk_cornelia_dialogs_continue_5138322c:
 
     # cedrick "Кстати, мне нужно будет взять с собой те зелья, что у тебя остались"
     cedrick "Кстати, мне нужно будет взять с собой те зелья, что у тебя остались"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1277
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1262
 translate crowdin q_dfk_cornelia_dialogs_continue_33b91f76:
 
     # miranda "Конечно, держи.. Расплатишься за них позже, ахах"
     miranda "Конечно, держи.. Расплатишься за них позже, ахах"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1289
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1274
 translate crowdin q_dfk_cornelia_dialogs_continue_2046883d:
 
     # miranda "И еще одно, Седрик. Самое главное. Тогда при чтении конспекта ты меня перебил, я не описала всех деталей"
     miranda "И еще одно, Седрик. Самое главное. Тогда при чтении конспекта ты меня перебил, я не описала всех деталей"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1293
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1278
 translate crowdin q_dfk_cornelia_dialogs_continue_5af28669:
 
     # cedrick "Есть еще что-то?"
     cedrick "Есть еще что-то?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1297
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1282
 translate crowdin q_dfk_cornelia_dialogs_continue_c7235b00:
 
     # miranda "Да. Исходя из всех источников, Король меняет гормональный фон королевы лишь единожды"
     miranda "Да. Исходя из всех источников, Король меняет гормональный фон королевы лишь единожды"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1301
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1286
 translate crowdin q_dfk_cornelia_dialogs_continue_c35df110:
 
     # miranda "Это заставляет меня прийти к выводу о том, что повторное изменение в одном и том же индивиде может быть опасно"
     miranda "Это заставляет меня прийти к выводу о том, что повторное изменение в одном и том же индивиде может быть опасно"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1302
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1287
 translate crowdin q_dfk_cornelia_dialogs_continue_40c27768:
 
     # miranda "Посуди сам. Ты встраиваешь иной гормональный код в человека. Один раз это может сработать, но при повторе неизбежны ошибки и противоречия"
     miranda "Посуди сам. Ты встраиваешь иной гормональный код в человека. Один раз это может сработать, но при повторе неизбежны ошибки и противоречия"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1306
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1291
 translate crowdin q_dfk_cornelia_dialogs_continue_12ffce88:
 
     # cedrick "То есть, у меня только одна попытка на внесение изменений. С той же Корнелией я уже ничего поделать не смогу?"
     cedrick "То есть, у меня только одна попытка на внесение изменений. С той же Корнелией я уже ничего поделать не смогу?"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1310
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1295
 translate crowdin q_dfk_cornelia_dialogs_continue_5de6192e:
 
     # miranda "Получается так"
     miranda "Получается так"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1314
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1299
 translate crowdin q_dfk_cornelia_dialogs_continue_7c00fb51:
 
     # cedrick "Мда, не хилые ограничения. Но, с другой стороны, за любую силу приходится платить"
     cedrick "Мда, не хилые ограничения. Но, с другой стороны, за любую силу приходится платить"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1318
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1303
 translate crowdin q_dfk_cornelia_dialogs_continue_4776ba35:
 
     # miranda "Это верно.."
     miranda "Это верно.."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1322
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1307
 translate crowdin q_dfk_cornelia_dialogs_continue_b5ced7fb:
 
     # cedrick "Что ж.. Мне пора возвращаться на Землю. Я отправляюсь туда ночью. Фобос пока не вызывал меня на доклад, значит время есть"
     cedrick "Что ж.. Мне пора возвращаться на Землю. Я отправляюсь туда ночью. Фобос пока не вызывал меня на доклад, значит время есть"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1326
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1311
 translate crowdin q_dfk_cornelia_dialogs_continue_ae625137:
 
     # miranda "Удачи, Седрик. Возвращайся скорее"
     miranda "Удачи, Седрик. Возвращайся скорее"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1329
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1314
 translate crowdin q_dfk_cornelia_dialogs_continue_a20cefa7:
 
     # "..."
     "..."
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1332
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1317
 translate crowdin q_dfk_cornelia_dialogs_continue_bf164ccc:
 
     # cedrick "(Так, первым делом нужно разобраться с детективами. Ирма и Тарани, несмотря на всю свою силу, всего лишь две школьницы. С ними я справлюсь, а вот с розыском сложнее..)"
     cedrick "(Так, первым делом нужно разобраться с детективами. Ирма и Тарани, несмотря на всю свою силу, всего лишь две школьницы. С ними я справлюсь, а вот с розыском сложнее..)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1333
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1318
 translate crowdin q_dfk_cornelia_dialogs_continue_aed41212:
 
     # cedrick "(Там было два детектива. Медина и Мактиннен. Нужно провернуть с Мединой тот же фокус, что с Корнелией, но..)"
     cedrick "(Там было два детектива. Медина и Мактиннен. Нужно провернуть с Мединой тот же фокус, что с Корнелией, но..)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1334
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1319
 translate crowdin q_dfk_cornelia_dialogs_continue_24c6ccaa:
 
     # cedrick "(Я ничего не знаю о Медине.. С Корнелией было проще, я знал ее характер, а в случае Медины я даже не знаю, где она живет..)"
     cedrick "(Я ничего не знаю о Медине.. С Корнелией было проще, я знал ее характер, а в случае Медины я даже не знаю, где она живет..)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1335
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1320
 translate crowdin q_dfk_cornelia_dialogs_continue_d996c70f:
 
     # cedrick "(Единственная моя зацепка — это то, что они как-то связаны с тем комиссаром, к которому я приходил в обличие отца Ирмы)"
     cedrick "(Единственная моя зацепка — это то, что они как-то связаны с тем комиссаром, к которому я приходил в обличие отца Ирмы)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1336
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1321
 translate crowdin q_dfk_cornelia_dialogs_continue_f040d5c5:
 
     # cedrick "(Детективы как минимум должны быть в базе данных. Значит.. Если мне нужна информация о детективе Медине, я должен пробраться в полицейский участок)"
     cedrick "(Детективы как минимум должны быть в базе данных. Значит.. Если мне нужна информация о детективе Медине, я должен пробраться в полицейский участок)"
 
-# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1337
+# game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1322
 translate crowdin q_dfk_cornelia_dialogs_continue_15bd89e7:
 
     # cedrick "(Черт, это будет не просто. Но явно проще, чем свергнуть Фобоса, так что я обязан справиться с такой мелочью)"
@@ -2840,11 +2840,11 @@ translate crowdin q_dfk_cornelia_dialogs_continue_15bd89e7:
 
 translate crowdin strings:
 
-    # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:896
+    # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:881
     old "Сказать про повстанцев"
     new "Сказать про повстанцев"
 
-    # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:896
+    # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:881
     old "Спросить про подруг"
     new "Спросить про подруг"
 

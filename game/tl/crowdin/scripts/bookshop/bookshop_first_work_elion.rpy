@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:8
 translate crowdin bookshop_first_work_elion_b81ec53a:

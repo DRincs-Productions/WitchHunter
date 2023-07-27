@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:4
 translate crowdin give_miranda_shred_of_tom_lair_hair_e23f3887:

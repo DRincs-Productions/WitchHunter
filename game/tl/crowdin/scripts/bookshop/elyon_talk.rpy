@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/bookshop/elyon_talk.rpy:4
 translate crowdin d_elion_talk1_aaae6c1f:

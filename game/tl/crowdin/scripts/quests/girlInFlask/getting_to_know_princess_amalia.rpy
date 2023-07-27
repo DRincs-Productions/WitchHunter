@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/girlInFlask/getting_to_know_princess_amalia.rpy:3
 translate crowdin getting_to_know_princess_amalia_719fe2c6:

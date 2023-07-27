@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:4
 translate crowdin elyon_asks_for_help_with_studying_history_a236c3e0:

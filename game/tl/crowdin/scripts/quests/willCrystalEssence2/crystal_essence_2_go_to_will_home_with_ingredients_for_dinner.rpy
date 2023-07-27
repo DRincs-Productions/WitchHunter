@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:7
 translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_eddbb15e:

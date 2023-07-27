@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:5
 translate crowdin paizuriTarani_54173553:
@@ -192,7 +192,7 @@ translate crowdin paizuriTarani_8c6480e9:
     # cedrick "Привыкай, дорогая, это не последний раз, когда твое лицо заливается моей спермой"
     cedrick "Привыкай, дорогая, это не последний раз, когда твое лицо заливается моей спермой"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:73
+# game/scripts/quests/tarani/paizuriTarani.rpy:74
 translate crowdin paizuriTarani_a1eb2b24:
 
     # tarani "(Это мы еще посмотрим, засранец.. Я не могу позволить, чтобы это продолжалось.. Пока он не забрал мою девственность..)"

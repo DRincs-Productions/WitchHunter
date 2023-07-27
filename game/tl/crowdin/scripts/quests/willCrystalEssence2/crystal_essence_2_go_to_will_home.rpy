@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:3
 translate crowdin crystal_essence_2_go_to_will_home_8f648b59:
@@ -294,403 +294,403 @@ translate crowdin crystal_essence_2_go_to_will_home_a20cefa7_2:
     # "..."
     "..."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:82
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:83
 translate crowdin crystal_essence_2_go_to_will_home_a20cefa7_3:
 
     # "..."
     "..."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:85
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:86
 translate crowdin crystal_essence_2_go_to_will_home_b0c554cc:
 
     # susan "Ох, Рик, и что же нам с ней делать.. Она не должна была этого видеть"
     susan "Ох, Рик, и что же нам с ней делать.. Она не должна была этого видеть"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:86
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:87
 translate crowdin crystal_essence_2_go_to_will_home_b1e4dad5:
 
     # cedrick "Сьюзан, мы взрослые люди, я живу у вас в доме, Вилл знает, что мы встречаемся. Это рано или поздно произошло бы"
     cedrick "Сьюзан, мы взрослые люди, я живу у вас в доме, Вилл знает, что мы встречаемся. Это рано или поздно произошло бы"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:87
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:88
 translate crowdin crystal_essence_2_go_to_will_home_ceba5f58:
 
     # susan "Д-да.. Думаю, ты прав.. Но в любом случае, нужно с ней поговорить.."
     susan "Д-да.. Думаю, ты прав.. Но в любом случае, нужно с ней поговорить.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:88
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:89
 translate crowdin crystal_essence_2_go_to_will_home_fee3ea1a:
 
     # cedrick "Давай дадим ей немного времени. Ты пока доготовишь завтрак, а я отлучусь ненадолго. Посидим за общим столом и все обсудим, хорошо?"
     cedrick "Давай дадим ей немного времени. Ты пока доготовишь завтрак, а я отлучусь ненадолго. Посидим за общим столом и все обсудим, хорошо?"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:89
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:90
 translate crowdin crystal_essence_2_go_to_will_home_c691d9c8:
 
     # susan "Да, пожалуй так и поступим. Хорошо, что ты с нами, Рик"
     susan "Да, пожалуй так и поступим. Хорошо, что ты с нами, Рик"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:90
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:91
 translate crowdin crystal_essence_2_go_to_will_home_342c626d:
 
     # cedrick "Хорошо, что у меня есть вы"
     cedrick "Хорошо, что у меня есть вы"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:92
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:93
 translate crowdin crystal_essence_2_go_to_will_home_73c7decf:
 
     # cedrick "(Я должен проверить реакцию Вилл на произошедшее. Главное, чтобы она меня не заметила)"
     cedrick "(Я должен проверить реакцию Вилл на произошедшее. Главное, чтобы она меня не заметила)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:96
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:97
 translate crowdin crystal_essence_2_go_to_will_home_0ac00543:
 
     # cedrick "(О, она уже дошла до игрушек? Бедная девочка)"
     cedrick "(О, она уже дошла до игрушек? Бедная девочка)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:98
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:99
 translate crowdin crystal_essence_2_go_to_will_home_598acfd5:
 
     # will "(Чертов Рик.. Чертова Сьюзан.. Да как они вообще могли..)"
     will "(Чертов Рик.. Чертова Сьюзан.. Да как они вообще могли..)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:99
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:100
 translate crowdin crystal_essence_2_go_to_will_home_4a888ed1:
 
     # will "(..Мммв, просто как животные.. Прямо на кухне..)"
     will "(..Мммв, просто как животные.. Прямо на кухне..)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:101
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:102
 translate crowdin crystal_essence_2_go_to_will_home_dda1732a:
 
     # will "(Аааах.. Рик так взялся за нее, что она была полностью в его власти..)"
     will "(Аааах.. Рик так взялся за нее, что она была полностью в его власти..)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:102
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:103
 translate crowdin crystal_essence_2_go_to_will_home_18258539:
 
     # will "(Это выглядело так.. Возбуждающе..)"
     will "(Это выглядело так.. Возбуждающе..)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:103
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:104
 translate crowdin crystal_essence_2_go_to_will_home_9f771de7:
 
     # will "Оооох.. Р.. Рик.."
     will "Оооох.. Р.. Рик.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:104
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:105
 translate crowdin crystal_essence_2_go_to_will_home_0aa32ae5:
 
     # cedrick "(Хах, я так и знал. Она уже не может себя контролировать)"
     cedrick "(Хах, я так и знал. Она уже не может себя контролировать)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:105
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:106
 translate crowdin crystal_essence_2_go_to_will_home_03d82a82:
 
     # will "(Ммм.. Да, вставь его в мой рот, вот так..)"
     will "(Ммм.. Да, вставь его в мой рот, вот так..)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:106
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:107
 translate crowdin crystal_essence_2_go_to_will_home_0a2907df:
 
     # cedrick "(Стоит Вилл увидеть, как мы с Сьюзан трахаемся и ее тут же одолевает желание. Нет, стоит к ней просто прикоснуться, и она уже не может терпеть)"
     cedrick "(Стоит Вилл увидеть, как мы с Сьюзан трахаемся и ее тут же одолевает желание. Нет, стоит к ней просто прикоснуться, и она уже не может терпеть)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:107
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:108
 translate crowdin crystal_essence_2_go_to_will_home_a0827b30:
 
     # cedrick "(Отлично, зелье действует, ни к чему останавливаться)"
     cedrick "(Отлично, зелье действует, ни к чему останавливаться)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:108
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:109
 translate crowdin crystal_essence_2_go_to_will_home_f681c078:
 
     # will "(Аааах.. Почти кончаю, я так близко..)"
     will "(Аааах.. Почти кончаю, я так близко..)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:110
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:111
 translate crowdin crystal_essence_2_go_to_will_home_39b0ca78:
 
     # cedrick "(Пожалуй, мне пора уходить, она может меня заметить. Но она явно стала более раскрепощенной, отлично, значит есть прогресс.)"
     cedrick "(Пожалуй, мне пора уходить, она может меня заметить. Но она явно стала более раскрепощенной, отлично, значит есть прогресс.)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:113
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:114
 translate crowdin crystal_essence_2_go_to_will_home_a9265ce9:
 
     # centered "{size=37}ПОЗЖЕ НА КУХНЕ{/size}"
     centered "{size=37}ПОЗЖЕ НА КУХНЕ{/size}"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:116
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:117
 translate crowdin crystal_essence_2_go_to_will_home_ffd7540e:
 
     # susan "..."
     susan "..."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:117
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:118
 translate crowdin crystal_essence_2_go_to_will_home_bcd124bf:
 
     # will "..."
     will "..."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:119
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:120
 translate crowdin crystal_essence_2_go_to_will_home_ba5d4120:
 
     # susan "Что ж.. Вилл, о том, что ты видела сегодня.."
     susan "Что ж.. Вилл, о том, что ты видела сегодня.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:121
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:122
 translate crowdin crystal_essence_2_go_to_will_home_f47d220e:
 
     # will "Я.. Кхм.. Я не хочу об этом говорить.."
     will "Я.. Кхм.. Я не хочу об этом говорить.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:123
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:124
 translate crowdin crystal_essence_2_go_to_will_home_bf8cb937:
 
     # cedrick "Вилл, пойми.. Кхм, это вполне естественно, когда мы с твоей мамой.."
     cedrick "Вилл, пойми.. Кхм, это вполне естественно, когда мы с твоей мамой.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:125
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:126
 translate crowdin crystal_essence_2_go_to_will_home_bbe6fc9c:
 
     # will "...Что? Трахаетесь на кухне, как животные?"
     will "...Что? Трахаетесь на кухне, как животные?"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:127
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:128
 translate crowdin crystal_essence_2_go_to_will_home_c4707b76:
 
     # susan "Вилл!? Следи за языком"
     susan "Вилл!? Следи за языком"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:129
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:130
 translate crowdin crystal_essence_2_go_to_will_home_5c5d9205:
 
     # cedrick "Ну, у животных обычно не бывает кухни"
     cedrick "Ну, у животных обычно не бывает кухни"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:131
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:132
 translate crowdin crystal_essence_2_go_to_will_home_883c25ab:
 
     # susan "Рик! Ты не помогаешь.."
     susan "Рик! Ты не помогаешь.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:133
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:134
 translate crowdin crystal_essence_2_go_to_will_home_26ae8404:
 
     # cedrick "Кхм.."
     cedrick "Кхм.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:135
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:136
 translate crowdin crystal_essence_2_go_to_will_home_947bebc0:
 
     # will "Да вы хоть понимаете, как это эгоистично?! В-вы делаете это везде! На кухне, в спальне, во время просмотра кино! Вы не одни в доме живете!"
     will "Да вы хоть понимаете, как это эгоистично?! В-вы делаете это везде! На кухне, в спальне, во время просмотра кино! Вы не одни в доме живете!"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:137
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:138
 translate crowdin crystal_essence_2_go_to_will_home_7276caea:
 
     # susan "В-вилл.."
     susan "В-вилл.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:138
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:139
 translate crowdin crystal_essence_2_go_to_will_home_6aeb0e35:
 
     # cedrick "(О, она уже во время кино нас застукала.. Это многое объясняет)"
     cedrick "(О, она уже во время кино нас застукала.. Это многое объясняет)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:140
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:141
 translate crowdin crystal_essence_2_go_to_will_home_df1196da:
 
     # will "Вам стоит быть хоть немного, блин, скромнее! Не у всех в этом доме, как у вас, есть возможность заниматься всем, чем захочется и когда захочется.."
     will "Вам стоит быть хоть немного, блин, скромнее! Не у всех в этом доме, как у вас, есть возможность заниматься всем, чем захочется и когда захочется.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:141
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:142
 translate crowdin crystal_essence_2_go_to_will_home_2570e01a:
 
     # susan "Э-эм.. Ух, Вилл, дорогая, ты еще найдешь того самого, с кем сможешь.. Ну.."
     susan "Э-эм.. Ух, Вилл, дорогая, ты еще найдешь того самого, с кем сможешь.. Ну.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:143
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:144
 translate crowdin crystal_essence_2_go_to_will_home_93bebfbb:
 
     # will "То, что ты так легко смогла найти себе отличного парня не значит, что это так же легко для всех остальных, Сьюзан!"
     will "То, что ты так легко смогла найти себе отличного парня не значит, что это так же легко для всех остальных, Сьюзан!"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:145
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:146
 translate crowdin crystal_essence_2_go_to_will_home_f5db6cfb:
 
     # will "Во всей школе помимо Рика у нас есть только толстый физрук, задиры-извращенцы и плаксы-размазни!"
     will "Во всей школе помимо Рика у нас есть только толстый физрук, задиры-извращенцы и плаксы-размазни!"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:146
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:147
 translate crowdin crystal_essence_2_go_to_will_home_1c92d782:
 
     # cedrick "(О, последнее было явно про Мартина)"
     cedrick "(О, последнее было явно про Мартина)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:148
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:149
 translate crowdin crystal_essence_2_go_to_will_home_c62644f5:
 
     # susan "Д-да как ты разговариваешь с матерью.."
     susan "Д-да как ты разговариваешь с матерью.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:150
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:151
 translate crowdin crystal_essence_2_go_to_will_home_56d56aed:
 
     # cedrick "Кхм.. Так, дорогие мои дамы, давайте успокоимся. Ссоры здесь ни к чему"
     cedrick "Кхм.. Так, дорогие мои дамы, давайте успокоимся. Ссоры здесь ни к чему"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:151
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:152
 translate crowdin crystal_essence_2_go_to_will_home_80c47245:
 
     # cedrick "Вилл, не разговаривай так со своей матерью. Ты же сама говорила раньше, как ей тяжело одной. Разве теперь это не повод порадоваться за нее?"
     cedrick "Вилл, не разговаривай так со своей матерью. Ты же сама говорила раньше, как ей тяжело одной. Разве теперь это не повод порадоваться за нее?"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:153
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:154
 translate crowdin crystal_essence_2_go_to_will_home_745f6455:
 
     # will "Ну.."
     will "Ну.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:155
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:156
 translate crowdin crystal_essence_2_go_to_will_home_ec232516:
 
     # cedrick "Сьюзан, ты могла бы более понимающе и открыто говорить со своей дочерью"
     cedrick "Сьюзан, ты могла бы более понимающе и открыто говорить со своей дочерью"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:156
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:157
 translate crowdin crystal_essence_2_go_to_will_home_e8a5d7ba:
 
     # cedrick "Не стоит стесняться говорить прямо, что когда-нибудь Вилл найдет того, с кем сможет, кхм.. Проводить время так же хорошо, как мы с тобой"
     cedrick "Не стоит стесняться говорить прямо, что когда-нибудь Вилл найдет того, с кем сможет, кхм.. Проводить время так же хорошо, как мы с тобой"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:158
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:159
 translate crowdin crystal_essence_2_go_to_will_home_bb82fde7:
 
     # susan "Р-Рик!"
     susan "Р-Рик!"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:159
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:160
 translate crowdin crystal_essence_2_go_to_will_home_5143f23d:
 
     # cedrick "Ты же еще совсем недавно была в ее ситуации. Твоя дочь растет и у нее теперь тоже есть определенного рода.. потребности"
     cedrick "Ты же еще совсем недавно была в ее ситуации. Твоя дочь растет и у нее теперь тоже есть определенного рода.. потребности"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:160
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:161
 translate crowdin crystal_essence_2_go_to_will_home_6365eb4e:
 
     # susan "Рик.. Тебе не кажется, что это уже немного слишком.."
     susan "Рик.. Тебе не кажется, что это уже немного слишком.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:161
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:162
 translate crowdin crystal_essence_2_go_to_will_home_3cd35197:
 
     # will "(Кто бы говорил, Рик.. Именно из-за твоих прикосновений я все больше нуждаюсь в... уууух, да какого черта я опять думаю о его члене!..)"
     will "(Кто бы говорил, Рик.. Именно из-за твоих прикосновений я все больше нуждаюсь в... уууух, да какого черта я опять думаю о его члене!..)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:163
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:164
 translate crowdin crystal_essence_2_go_to_will_home_46f6665d:
 
     # will "Можно мы закроем тему.."
     will "Можно мы закроем тему.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:164
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:165
 translate crowdin crystal_essence_2_go_to_will_home_77fa34f8:
 
     # cedrick "(Да, моя теория верна. Ей уже от простых разговоров хочется члена, ее даже не смущает, что мы говорим об этом вместе с Сьюзан)"
     cedrick "(Да, моя теория верна. Ей уже от простых разговоров хочется члена, ее даже не смущает, что мы говорим об этом вместе с Сьюзан)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:165
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:166
 translate crowdin crystal_essence_2_go_to_will_home_b4d229d1:
 
     # cedrick "(Хм.. Из этого может получиться нечто интересное)"
     cedrick "(Хм.. Из этого может получиться нечто интересное)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:167
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:168
 translate crowdin crystal_essence_2_go_to_will_home_5aeece47:
 
     # susan "Да, давайте сменим тему.. Знаете, я давно хотела вам предложить вместе сходить куда-нибудь. А то мы то и дело сидим дома"
     susan "Да, давайте сменим тему.. Знаете, я давно хотела вам предложить вместе сходить куда-нибудь. А то мы то и дело сидим дома"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:168
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:169
 translate crowdin crystal_essence_2_go_to_will_home_9909e1ec:
 
     # will "(Хах, ты просто хочешь с Риком еще где-нибудь потрахаться..)"
     will "(Хах, ты просто хочешь с Риком еще где-нибудь потрахаться..)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:170
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:171
 translate crowdin crystal_essence_2_go_to_will_home_8a7e8b1c:
 
     # will "У меня же на днях плаванье, так что не выйдет"
     will "У меня же на днях плаванье, так что не выйдет"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:172
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:173
 translate crowdin crystal_essence_2_go_to_will_home_287f4765:
 
     # cedrick "Может быть, мы бы могли сходить в бассейн вместе с тобой?"
     cedrick "Может быть, мы бы могли сходить в бассейн вместе с тобой?"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:174
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:175
 translate crowdin crystal_essence_2_go_to_will_home_1e47c724:
 
     # will "Ч-что?.. Н-но у мамы даже нет подходящего купальника. У тебя, Рик, думаю тоже"
     will "Ч-что?.. Н-но у мамы даже нет подходящего купальника. У тебя, Рик, думаю тоже"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:176
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:177
 translate crowdin crystal_essence_2_go_to_will_home_d9930b45:
 
     # cedrick "Это не проблема, я все куплю"
     cedrick "Это не проблема, я все куплю"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:178
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:179
 translate crowdin crystal_essence_2_go_to_will_home_bfc3fece:
 
     # susan "Ох, Рик, ты такой заботливый. Это отличная идея"
     susan "Ох, Рик, ты такой заботливый. Это отличная идея"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:180
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:181
 translate crowdin crystal_essence_2_go_to_will_home_695dbea1:
 
     # will "Да уж.. Ладно, как хотите.."
     will "Да уж.. Ладно, как хотите.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:181
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:182
 translate crowdin crystal_essence_2_go_to_will_home_15c122a1:
 
     # cedrick "(Мда, она явно на нас взъелась за этот раз. Но ничего, это тоже можно использовать)"
     cedrick "(Мда, она явно на нас взъелась за этот раз. Но ничего, это тоже можно использовать)"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:185
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:186
 translate crowdin crystal_essence_2_go_to_will_home_fab7abb2:
 
     # will "Ладно, мне пора на уроки"
     will "Ладно, мне пора на уроки"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:186
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:187
 translate crowdin crystal_essence_2_go_to_will_home_4f2b66fb:
 
     # susan "До вечера, Вилл"
     susan "До вечера, Вилл"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:187
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:188
 translate crowdin crystal_essence_2_go_to_will_home_20701b26:
 
     # will "Ага.."
     will "Ага.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:188
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:189
 translate crowdin crystal_essence_2_go_to_will_home_e4169d8f:
 
     # cedrick "Что ж, а нам осталось купить нужный комплект одежды. Как раз займусь этим"
     cedrick "Что ж, а нам осталось купить нужный комплект одежды. Как раз займусь этим"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:189
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:190
 translate crowdin crystal_essence_2_go_to_will_home_e6551e0a:
 
     # susan "Ммм, думаю ты сможешь выбрать мне что-нибудь подходящее"
     susan "Ммм, думаю ты сможешь выбрать мне что-нибудь подходящее"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:190
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:191
 translate crowdin crystal_essence_2_go_to_will_home_bdb859a5:
 
     # cedrick "Хах, обязательно"

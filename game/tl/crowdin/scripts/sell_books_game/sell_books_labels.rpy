@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:39
 translate crowdin sell_books_new_customer_b19a31e4:

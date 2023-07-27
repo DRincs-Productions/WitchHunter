@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_bookshop_to_elyon.rpy:3
 translate crowdin crystal_essence_2_go_to_bookshop_to_elyon_c48c1cac:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:4
 translate crowdin get_rid_of_elyons_parents_go_to_jink_d30c0de9:

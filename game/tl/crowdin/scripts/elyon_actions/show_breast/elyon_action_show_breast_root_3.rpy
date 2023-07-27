@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_3.rpy:5
 translate crowdin elyon_action_show_breast_root_3_aebed1e4:

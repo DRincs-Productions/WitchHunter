@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/map/locations/tarani.rpy:19
 translate crowdin tarani_for_evening_quests_836c5db7:

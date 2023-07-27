@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:4
 translate crowdin remembered_about_the_alchemy_2e06d5bd:

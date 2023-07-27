@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/bookshop/thomas_comes_to_play.rpy:5
 translate crowdin thomas_comes_to_play_fa425594:

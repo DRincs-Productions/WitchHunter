@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/joiningsAfterMissingBryan/send_tom_lair_to_meridian.rpy:6
 translate crowdin send_tom_lair_to_meridian_0e1708c0:

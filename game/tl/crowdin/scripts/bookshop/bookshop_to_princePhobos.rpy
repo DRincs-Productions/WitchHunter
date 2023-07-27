@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/bookshop/bookshop_to_princePhobos.rpy:39
 translate crowdin bookshop_need_go_to_phobos_f092f9bb:

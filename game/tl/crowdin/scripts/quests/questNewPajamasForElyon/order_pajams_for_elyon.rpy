@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/questNewPajamasForElyon/order_pajams_for_elyon.rpy:3
 translate crowdin order_pajams_for_elyon_b03c4abd:

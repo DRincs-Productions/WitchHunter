@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/meridian/dungeon/dungeon_with_alchemy.rpy:14
 translate crowdin dungeon_with_alchemy_d2dc9934:

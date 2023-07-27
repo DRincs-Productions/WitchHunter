@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/bookshop/imagemaplabels/bookshop_work.rpy:3
 translate crowdin bookshop_work_e7de0611:

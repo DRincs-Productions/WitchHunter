@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:56
 
 translate crowdin strings:
 
@@ -11,8 +11,8 @@ translate crowdin strings:
     new "Купить кота у Бланка"
 
     # game/scripts/core/quests/QuestGiftForLilian.rpy:12
-    old "Дождаться когда Корнелия попросит посидеть с Лилиан"
-    new "Дождаться когда Корнелия попросит посидеть с Лилиан"
+    old "Написать сообщение Корнелии"
+    new "Написать сообщение Корнелии"
 
     # game/scripts/core/quests/QuestGiftForLilian.rpy:12
     old "Дождаться вечера и посидеть с Лилиан"

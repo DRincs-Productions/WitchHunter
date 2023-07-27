@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_dust_in_pajamas.rpy:5
 translate crowdin ask_elyon_to_dust_in_pajamas_1f8fc468:

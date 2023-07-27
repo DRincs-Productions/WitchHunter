@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:56
 
 translate crowdin strings:
 
@@ -321,4 +321,80 @@ translate crowdin strings:
     # game/scripts/sell_books_game/characters.rpy:711
     old "Заключенная"
     new "Заключенная"
+
+    # game/scripts/sell_books_game/characters.rpy:718
+    old "Пейн"
+    new "Пейн"
+
+    # game/scripts/sell_books_game/characters.rpy:735
+    old "Мужчина"
+    new "Мужчина"
+
+    # game/scripts/sell_books_game/characters.rpy:744
+    old "Охранник"
+    new "Охранник"
+
+    # game/scripts/sell_books_game/characters.rpy:752
+    old "Охранник 1"
+    new "Охранник 1"
+
+    # game/scripts/sell_books_game/characters.rpy:761
+    old "Охранник 2"
+    new "Охранник 2"
+
+    # game/scripts/sell_books_game/characters.rpy:769
+    old "Роб"
+    new "Роб"
+
+    # game/scripts/sell_books_game/characters.rpy:777
+    old "Боб"
+    new "Боб"
+
+    # game/scripts/sell_books_game/characters.rpy:785
+    old "Гордон в телефоне"
+    new "Гордон в телефоне"
+
+    # game/scripts/sell_books_game/characters.rpy:793
+    old "Тереза в телефоне"
+    new "Тереза в телефоне"
+
+    # game/scripts/sell_books_game/characters.rpy:801
+    old "Посетитель ресторана 1"
+    new "Посетитель ресторана 1"
+
+    # game/scripts/sell_books_game/characters.rpy:809
+    old "Посетитель ресторана 2"
+    new "Посетитель ресторана 2"
+
+    # game/scripts/sell_books_game/characters.rpy:817
+    old "Посетитель ресторана 3"
+    new "Посетитель ресторана 3"
+
+    # game/scripts/sell_books_game/characters.rpy:825
+    old "Посетитель ресторана 4"
+    new "Посетитель ресторана 4"
+
+    # game/scripts/sell_books_game/characters.rpy:833
+    old "Посетитель ресторана 5"
+    new "Посетитель ресторана 5"
+
+    # game/scripts/sell_books_game/characters.rpy:841
+    old "Посетитель ресторана 6"
+    new "Посетитель ресторана 6"
+
+    # game/scripts/sell_books_game/characters.rpy:849
+    old "Посетитель ресторана 7"
+    new "Посетитель ресторана 7"
+
+    # game/scripts/sell_books_game/characters.rpy:857
+    old "Посетитель ресторана 8"
+    new "Посетитель ресторана 8"
+
+    # game/scripts/sell_books_game/characters.rpy:864
+    old "Сильвио Данте"
+    new "Сильвио Данте"
+
+    # game/scripts/sell_books_game/characters.rpy:871
+    old "Лилит"
+    new "Лилит"
 

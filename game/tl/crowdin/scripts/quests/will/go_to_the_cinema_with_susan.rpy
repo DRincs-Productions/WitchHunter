@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:7
 translate crowdin go_to_the_cinema_with_susan_a8338db7:

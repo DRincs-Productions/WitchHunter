@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/tarani/dontGetPhotoOfNigel.rpy:4
 translate crowdin dontGetPhotoOfNigel_4e86a3e4:

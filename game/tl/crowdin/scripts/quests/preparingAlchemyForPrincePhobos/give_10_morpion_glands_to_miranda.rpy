@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:6
 translate crowdin give_10_morpion_glands_to_miranda_c1c2186f:

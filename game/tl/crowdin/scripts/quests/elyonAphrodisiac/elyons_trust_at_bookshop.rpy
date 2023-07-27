@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:4
 translate crowdin elyons_trust_at_bookshop_345ab3df:

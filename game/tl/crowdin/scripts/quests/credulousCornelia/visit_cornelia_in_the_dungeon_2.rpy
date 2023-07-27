@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:5
 translate crowdin visit_cornelia_in_the_dungeon_2_d2bda4ab:

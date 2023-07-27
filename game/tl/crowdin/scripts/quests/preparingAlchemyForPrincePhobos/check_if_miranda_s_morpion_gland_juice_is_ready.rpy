@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:6
 translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_38abe73f:

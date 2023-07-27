@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:6
 translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_28eb040c:

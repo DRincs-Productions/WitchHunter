@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/will/thomas_loose_poker.rpy:4
 translate crowdin thomas_loose_poker_73c76c52:

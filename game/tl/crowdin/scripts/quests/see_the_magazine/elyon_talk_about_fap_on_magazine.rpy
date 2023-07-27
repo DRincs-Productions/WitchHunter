@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:8
 translate crowdin elyon_talk_about_fap_on_magazine_4388583e:

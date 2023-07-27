@@ -1,18 +1,18 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
-# game/scripts/afterload.rpy:182
+# game/scripts/afterload.rpy:193
 translate crowdin after_load_79db8d33:
 
     # centered "Выбранное сохранение не поддерживается и вы не сможете получить новый контент."
     centered "Выбранное сохранение не поддерживается и вы не сможете получить новый контент."
 
-# game/scripts/afterload.rpy:183
+# game/scripts/afterload.rpy:194
 translate crowdin after_load_484e2123:
 
     # centered "Загрузка данного сохранения способна вызывать ошибки в игре."
     centered "Загрузка данного сохранения способна вызывать ошибки в игре."
 
-# game/scripts/afterload.rpy:188
+# game/scripts/afterload.rpy:199
 translate crowdin after_load_8db42109:
 
     # centered "Просьба, не сообщать разработчику о найденных ошибках после загрузки не поддерживаемого сохранения."
@@ -20,11 +20,11 @@ translate crowdin after_load_8db42109:
 
 translate crowdin strings:
 
-    # game/scripts/afterload.rpy:185
+    # game/scripts/afterload.rpy:196
     old "Вы уверены что хотите загрузить неподдерживаемое сохранение?"
     new "Вы уверены что хотите загрузить неподдерживаемое сохранение?"
 
-    # game/scripts/afterload.rpy:200
+    # game/scripts/afterload.rpy:211
     old "Брайан.. Это Элион.. мне очень плохо… Нам нужно срочно увидеться, ты можешь прийти?"
     new "Брайан.. Это Элион.. мне очень плохо… Нам нужно срочно увидеться, ты можешь прийти?"
 

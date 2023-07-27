@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/getConcertTickets/callToConcert.rpy:11
 translate crowdin callToConcert_6fef85ba:

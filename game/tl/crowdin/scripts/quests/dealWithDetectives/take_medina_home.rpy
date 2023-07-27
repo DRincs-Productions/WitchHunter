@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:3
 translate crowdin take_medina_home_74be0a74:
@@ -660,55 +660,55 @@ translate crowdin take_medina_home_3b127651:
     # elion "Аааааах!!"
     elion "Аааааах!!"
 
-# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:192
+# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:193
 translate crowdin take_medina_home_ecc1fdef:
 
     # elion "Это было прекрасно.."
     elion "Это было прекрасно.."
 
-# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:193
+# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:194
 translate crowdin take_medina_home_601ed0a8:
 
     # cedrick "Да, отлично расслабился.."
     cedrick "Да, отлично расслабился.."
 
-# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:194
+# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:195
 translate crowdin take_medina_home_9d24ff3e:
 
     # elion "Можно.. Я пока просто полежу рядом?"
     elion "Можно.. Я пока просто полежу рядом?"
 
-# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:195
+# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:196
 translate crowdin take_medina_home_81492a70:
 
     # cedrick "Да, без проблем, я пока подумаю о своем"
     cedrick "Да, без проблем, я пока подумаю о своем"
 
-# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:196
+# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:197
 translate crowdin take_medina_home_839627de:
 
     # elion "Хорошо.."
     elion "Хорошо.."
 
-# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:197
+# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:198
 translate crowdin take_medina_home_f5c04d54:
 
     # cedrick "(Хм.. Медина устроит все через два дня.. За это время я должен расправиться с Ирмой и Тарани. Они явно будут мне мешать наладить контакт с Вилл..)"
     cedrick "(Хм.. Медина устроит все через два дня.. За это время я должен расправиться с Ирмой и Тарани. Они явно будут мне мешать наладить контакт с Вилл..)"
 
-# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:198
+# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:199
 translate crowdin take_medina_home_2792c972:
 
     # cedrick "(Я мог бы вновь попробовать справиться с ними и сам, но, хм.. Время полагаться только на себя прошло.. Стоит признать, что в этом бою мне не помешала бы помощь)"
     cedrick "(Я мог бы вновь попробовать справиться с ними и сам, но, хм.. Время полагаться только на себя прошло.. Стоит признать, что в этом бою мне не помешала бы помощь)"
 
-# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:199
+# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:200
 translate crowdin take_medina_home_91e04819:
 
     # cedrick "(Они так жестоко обошлись с Мирандой в тот раз.. Я бы не хотел ее втягивать, но.. При правильном раскладе мы с Мирандой расправимся со стражницами в два счета)"
     cedrick "(Они так жестоко обошлись с Мирандой в тот раз.. Я бы не хотел ее втягивать, но.. При правильном раскладе мы с Мирандой расправимся со стражницами в два счета)"
 
-# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:200
+# game/scripts/quests/dealWithDetectives/take_medina_home.rpy:201
 translate crowdin take_medina_home_b9aad57f:
 
     # cedrick "(К тому же, уверен Миранда хотела бы отыграться за прошлый раз.. Решено, нужно отправиться на Меридиан)"

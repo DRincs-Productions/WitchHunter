@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:2
 translate crowdin elyons_musturbate_at_bookshop_cf58a5d1:

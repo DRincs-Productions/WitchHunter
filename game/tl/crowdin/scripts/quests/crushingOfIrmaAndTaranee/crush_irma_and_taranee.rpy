@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:8
 translate crowdin crush_irma_and_taranee_96c6aca9:

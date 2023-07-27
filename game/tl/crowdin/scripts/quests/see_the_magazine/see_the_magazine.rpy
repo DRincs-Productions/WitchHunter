@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:13
 translate crowdin see_the_magazine_7fa8e887:
@@ -486,55 +486,139 @@ translate crowdin journal_sletty_sluts_49316299_15:
     # cedrick "..."
     cedrick "..."
 
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:197
+translate crowdin journal_sletty_sluts_882bf569:
+
+    # cedrick "Ого, эта знойная красотка отлично подошла бы на роль матери рыженькой с предыдущей страницы"
+    cedrick "Ого, эта знойная красотка отлично подошла бы на роль матери рыженькой с предыдущей страницы"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:198
+translate crowdin journal_sletty_sluts_b1b06604:
+
+    # cedrick "Вот уж кто точно наслаждается процессом"
+    cedrick "Вот уж кто точно наслаждается процессом"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:199
+translate crowdin journal_sletty_sluts_caeb7486:
+
+    # cedrick "Выглядит так, словно она смотрит порно, пока ласкает себя, или же что-то представляет"
+    cedrick "Выглядит так, словно она смотрит порно, пока ласкает себя, или же что-то представляет"
+
 # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:200
+translate crowdin journal_sletty_sluts_3ed058ca:
+
+    # cedrick "Интересно, что происходит в ее голове. Определенно какие-нибудь жесткие непотребства"
+    cedrick "Интересно, что происходит в ее голове. Определенно какие-нибудь жесткие непотребства"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:201
+translate crowdin journal_sletty_sluts_cf00ef3a:
+
+    # cedrick "Так или иначе когда девушка так раздвигает ноги, ее киска так и просится получить члена"
+    cedrick "Так или иначе когда девушка так раздвигает ноги, ее киска так и просится получить члена"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:208
+translate crowdin journal_sletty_sluts_8578f38a:
+
+    # cedrick "Черлидерши явно знают толк в развлечениях"
+    cedrick "Черлидерши явно знают толк в развлечениях"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:209
+translate crowdin journal_sletty_sluts_1e7cbf38:
+
+    # cedrick "Видимо после тренировки так разгорячились, что не смогли сдержать себя"
+    cedrick "Видимо после тренировки так разгорячились, что не смогли сдержать себя"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:210
+translate crowdin journal_sletty_sluts_c915af27:
+
+    # cedrick "Интересно, рыжую девушку в центре принуждают к тому, что она делает?"
+    cedrick "Интересно, рыжую девушку в центре принуждают к тому, что она делает?"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:211
+translate crowdin journal_sletty_sluts_b151bd9d:
+
+    # cedrick "Если да, то она явно еще сама не определилась, как к этому относиться"
+    cedrick "Если да, то она явно еще сама не определилась, как к этому относиться"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:212
+translate crowdin journal_sletty_sluts_3a3cbda4:
+
+    # cedrick "Она одновременно смущена происходящим и наслаждается этим, горячо!"
+    cedrick "Она одновременно смущена происходящим и наслаждается этим, горячо!"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:219
+translate crowdin journal_sletty_sluts_9bed1da1:
+
+    # cedrick "Ого, вот это красотка. Вот они значит какие, земные пляжи? Определенно стоит посетить"
+    cedrick "Ого, вот это красотка. Вот они значит какие, земные пляжи? Определенно стоит посетить"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:220
+translate crowdin journal_sletty_sluts_0fa12540:
+
+    # cedrick "Не знаю какие девушки на здешних пляжах, но вот в ее свисток определенно посвистел"
+    cedrick "Не знаю какие девушки на здешних пляжах, но вот в ее свисток определенно посвистел"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:227
+translate crowdin journal_sletty_sluts_a4c53ddd:
+
+    # cedrick "Хах, а этот парень явно не знает, когда стоит остановиться. Взялся сразу за трех девчоенок. Хотя, не то что бы я так ни делал, у меня было даже больше"
+    cedrick "Хах, а этот парень явно не знает, когда стоит остановиться. Взялся сразу за трех девчоенок. Хотя, не то что бы я так ни делал, у меня было даже больше"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:228
+translate crowdin journal_sletty_sluts_922e81da:
+
+    # cedrick "Но в отличие от меня он с тремя не особо справляется, вон одной аж самой приходится себя ублажать. Пацану еще учиться и учиться"
+    cedrick "Но в отличие от меня он с тремя не особо справляется, вон одной аж самой приходится себя ублажать. Пацану еще учиться и учиться"
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:239
 translate crowdin journal_sletty_sluts_31c34095:
 
     # elion "Добрый вечер..."
     elion "Добрый вечер..."
 
-# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:202
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:241
 translate crowdin journal_sletty_sluts_19da4fe4:
 
     # cedrick_sprite "{i}(БЛЯТЬ){/i}"
     cedrick_sprite "{i}(БЛЯТЬ){/i}"
 
-# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:208
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:247
 translate crowdin journal_sletty_sluts_1a4184a8:
 
     # elion "Извините, я забыла ключи от..."
     elion "Извините, я забыла ключи от..."
 
-# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:214
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:253
 translate crowdin journal_sletty_sluts_f3392b28:
 
     # elion "{b}{size=25}Что ты делаешь?{/size}{/b}"
     elion "{b}{size=25}Что ты делаешь?{/size}{/b}"
 
-# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:215
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:254
 translate crowdin journal_sletty_sluts_f6ec421e:
 
     # cedrick_sprite "Я ... Я пытался немного прибраться..."
     cedrick_sprite "Я ... Я пытался немного прибраться..."
 
-# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:220
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:259
 translate crowdin journal_sletty_sluts_83f6da7d:
 
     # elion "Этот журнал..."
     elion "Этот журнал..."
 
-# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:225
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:264
 translate crowdin journal_sletty_sluts_814ba22e:
 
     # elion "Это омерзительно!!"
     elion "Это омерзительно!!"
 
-# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:231
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:270
 translate crowdin journal_sletty_sluts_ac35f2a2:
 
     # elion "Я..."
     elion "Я..."
 
-# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:237
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:276
 translate crowdin journal_sletty_sluts_b81f6da9:
 
     # elion "Я думаю мне лучше уйти.."
@@ -605,6 +689,22 @@ translate crowdin strings:
     # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
     old "Пятнадцатая страница"
     new "Пятнадцатая страница"
+
+    # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+    old "Шестнадцатая страница"
+    new "Шестнадцатая страница"
+
+    # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+    old "Семнадцатая страница"
+    new "Семнадцатая страница"
+
+    # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+    old "Восемнадцатая страница"
+    new "Восемнадцатая страница"
+
+    # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+    old "Девятнадцатая страница"
+    new "Девятнадцатая страница"
 
     # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
     old "Положить журнал"

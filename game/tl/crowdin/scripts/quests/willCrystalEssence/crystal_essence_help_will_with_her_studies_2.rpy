@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:4
 translate crowdin crystal_essence_help_will_with_her_studies_2_a9395fd6:

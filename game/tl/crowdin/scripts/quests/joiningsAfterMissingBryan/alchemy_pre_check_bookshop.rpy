@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:12
 translate crowdin alchemy_pre_check_bookshop_a20cefa7:

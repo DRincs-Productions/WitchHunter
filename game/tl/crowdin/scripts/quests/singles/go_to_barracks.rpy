@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/singles/go_to_barracks.rpy:6
 translate crowdin go_to_barracks_1d604acb:

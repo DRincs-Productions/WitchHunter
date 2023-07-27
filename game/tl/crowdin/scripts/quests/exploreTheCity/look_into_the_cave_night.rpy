@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:8
 translate crowdin look_into_the_cave_night_56bcbf25:

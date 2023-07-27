@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/exploreTheCity/look_into_shop.rpy:7
 translate crowdin look_into_shop_ac547774:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:8
 translate crowdin talk_with_elyon_about_bad_cornelia_5059e0a4:

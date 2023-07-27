@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:4
 translate crowdin exchange_flower_for_elf_7480efc6:

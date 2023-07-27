@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:7
 translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_babdf96a:
@@ -1566,67 +1566,67 @@ translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4b193e03:
     # susan "Уухххх... и я..."
     susan "Уухххх... и я..."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:657
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:658
 translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_49316299:
 
     # cedrick "..."
     cedrick "..."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:659
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:660
 translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ffd7540e_1:
 
     # susan "..."
     susan "..."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:660
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:661
 translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_9fc2cd58:
 
     # susan "Думаешь я и вправду была слишком громкой?"
     susan "Думаешь я и вправду была слишком громкой?"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:661
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:662
 translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_98fd6a15:
 
     # cedrick "Ну, несколько людей на нас пялились определенно не просто так"
     cedrick "Ну, несколько людей на нас пялились определенно не просто так"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:662
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:663
 translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_5bc9998c:
 
     # susan "Ох, черт.."
     susan "Ох, черт.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:663
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:664
 translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_412f3173:
 
     # cedrick "Ничего, пусть все знают, что теперь ты моя женщина и я могу тебя трахать, где захочу"
     cedrick "Ничего, пусть все знают, что теперь ты моя женщина и я могу тебя трахать, где захочу"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:664
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:665
 translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_c76796ed:
 
     # susan "Ооох, Рик, ты долбаный извращенец, но мне это нравится. Я и сама такая.."
     susan "Ооох, Рик, ты долбаный извращенец, но мне это нравится. Я и сама такая.."
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:665
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:666
 translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b8ff01d7:
 
     # susan "Что ж, давай найдем Вилл и отправимся домой"
     susan "Что ж, давай найдем Вилл и отправимся домой"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:666
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:667
 translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_faf6640a:
 
     # cedrick "Да, без проблем. Я немного задержусь, можете меня не ждать. Увидимся дома"
     cedrick "Да, без проблем. Я немного задержусь, можете меня не ждать. Увидимся дома"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:667
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:668
 translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_cc658496:
 
     # susan "Ох, хорошо. Тогда до скорого, Рик"
     susan "Ох, хорошо. Тогда до скорого, Рик"
 
-# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:669
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:670
 translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a20cefa7_4:
 
     # "..."

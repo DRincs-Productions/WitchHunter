@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/willCrystalEssence/get_crystal_essence_for_will.rpy:7
 translate crowdin get_crystal_essence_for_will_825983c1:

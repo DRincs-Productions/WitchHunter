@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:6
 translate crowdin elyon_blowjob_in_bookshop_380afb6d:
@@ -426,43 +426,43 @@ translate crowdin elyon_blowjob_in_bookshop_b32008db:
     # elion "Э-эм, ну... я..."
     elion "Э-эм, ну... я..."
 
-# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:131
+# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:132
 translate crowdin elyon_blowjob_in_bookshop_467ae9d7:
 
     # cedrick "(Она начинает втягиваться в процесс, это нужно поощрять)"
     cedrick "(Она начинает втягиваться в процесс, это нужно поощрять)"
 
-# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:132
+# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:133
 translate crowdin elyon_blowjob_in_bookshop_3ed30770:
 
     # cedrick "Это был отличный отличный минет, Элион"
     cedrick "Это был отличный отличный минет, Элион"
 
-# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:133
+# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:134
 translate crowdin elyon_blowjob_in_bookshop_97bc3510:
 
     # elion "П-правда?"
     elion "П-правда?"
 
-# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:134
+# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:135
 translate crowdin elyon_blowjob_in_bookshop_c798798a:
 
     # cedrick "Ага. Особенно для первого раза. И, надеюсь, не последнего"
     cedrick "Ага. Особенно для первого раза. И, надеюсь, не последнего"
 
-# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:135
+# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:136
 translate crowdin elyon_blowjob_in_bookshop_514d1ab3:
 
     # elion "Д-да, не последнего.."
     elion "Д-да, не последнего.."
 
-# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:136
+# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:137
 translate crowdin elyon_blowjob_in_bookshop_27014560:
 
     # cedrick "Что ж, это было хорошо, но теперь нам надо возвращаться к работе. Давай, вылезай из под стола, пока тебя никто не заметил"
     cedrick "Что ж, это было хорошо, но теперь нам надо возвращаться к работе. Давай, вылезай из под стола, пока тебя никто не заметил"
 
-# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:137
+# game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:138
 translate crowdin elyon_blowjob_in_bookshop_620f20d3:
 
     # elion "Х-хорошо, Рик"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:6
 translate crowdin ql_hayLin_help_in_restoran_3_a8c174e7:

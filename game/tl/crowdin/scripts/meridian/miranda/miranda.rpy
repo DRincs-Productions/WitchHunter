@@ -1,6 +1,10 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:56
 
 translate crowdin strings:
+
+    # game/scripts/meridian/miranda/miranda.rpy:12
+    old "Подчинение стражниц"
+    new "Подчинение стражниц"
 
     # game/scripts/meridian/miranda/miranda.rpy:12
     old "Зелье для Ян Лин"

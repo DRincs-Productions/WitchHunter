@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:8
 translate crowdin reiter_s_attempt_to_alchemy_a22a88bc:

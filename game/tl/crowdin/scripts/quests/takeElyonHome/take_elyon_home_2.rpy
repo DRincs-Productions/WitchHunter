@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/takeElyonHome/take_elyon_home_2.rpy:4
 translate crowdin take_elyon_home_2_47fdc3c7:

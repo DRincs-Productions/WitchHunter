@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/dealWithDetectives/q_dwd_need_infiltrate_police_station.rpy:2
 translate crowdin q_dwd_need_infiltrate_police_station_a28e9070:

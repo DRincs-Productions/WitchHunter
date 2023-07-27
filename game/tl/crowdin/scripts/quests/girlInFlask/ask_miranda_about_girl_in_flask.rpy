@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:3
 translate crowdin ask_miranda_about_girl_in_flask_7e5d7e5a:

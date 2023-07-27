@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/blank_shop/blank_shop.rpy:63
 translate crowdin blank_shop_menu_1f3a1671:

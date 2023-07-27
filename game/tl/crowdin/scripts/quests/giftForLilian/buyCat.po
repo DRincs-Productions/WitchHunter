@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/giftForLilian/buyCat.rpy:6 #-#-# translate crowdin buyCat_42bc4d4f:
+﻿# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/buyCat.rpy:6 #-#-# translate crowdin buyCat_42bc4d4f:
 msgid "[_cedrick_] Отдай кота"
 msgstr "[_cedrick_] Отдай кота"
 
@@ -14,11 +14,63 @@ msgstr "[_cedrick_] Еще нет"
 msgid "[_blank_] Тогда не отдам"
 msgstr "[_blank_] Тогда не отдам"
 
-# game/scripts/quests/giftForLilian/buyCat.rpy:13 #-#-# translate crowdin buyCat_5d217dfa:
-msgid "[_cedrick_] Вот тебе 100 баксов, теперь отдай мне кота"
-msgstr "[_cedrick_] Вот тебе 100 баксов, теперь отдай мне кота"
+# game/scripts/quests/giftForLilian/buyCat.rpy:16 #-#-# translate crowdin buyCat_fb26e09f:
+msgid "[_cedrick_] Вот сотня баксов. Отдавай кота"
+msgstr "[_cedrick_] Вот сотня баксов. Отдавай кота"
 
-# game/scripts/quests/giftForLilian/buyCat.rpy:14 #-#-# translate crowdin buyCat_472a1882:
-msgid "[_blank_] Забирай"
-msgstr "[_blank_] Забирай"
+# game/scripts/quests/giftForLilian/buyCat.rpy:20 #-#-# translate crowdin buyCat_6191a596:
+msgid "[_blank_] Какого кота"
+msgstr "[_blank_] Какого кота"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:21 #-#-# translate crowdin buyCat_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:22 #-#-# translate crowdin buyCat_9bc45015:
+msgid "[_cedrick_] Редкий крыса"
+msgstr "[_cedrick_] Редкий крыса"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:26 #-#-# translate crowdin buyCat_26e4c540:
+msgid "[_blank_] Ааа, наполеон. Так бы сразу и сказал"
+msgstr "[_blank_] Ааа, наполеон. Так бы сразу и сказал"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:27 #-#-# translate crowdin buyCat_49316299_1:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:28 #-#-# translate crowdin buyCat_b6f23bd3:
+msgid "[_blank_] Прощай, полководец. Бланк не забудет твою эпическую схватку возле мусорных баков за кусок колбасы"
+msgstr "[_blank_] Прощай, полководец. Бланк не забудет твою эпическую схватку возле мусорных баков за кусок колбасы"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:29 #-#-# translate crowdin buyCat_13d306e4:
+msgid "[_cedrick_] И с кем успел подраться этот комок шерсти?"
+msgstr "[_cedrick_] И с кем успел подраться этот комок шерсти?"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:30 #-#-# translate crowdin buyCat_6347db88:
+msgid "[_blank_] Со мной"
+msgstr "[_blank_] Со мной"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:31 #-#-# translate crowdin buyCat_fc10bb0d:
+msgid "[_cedrick_] Почему я не удивлен.."
+msgstr "[_cedrick_] Почему я не удивлен.."
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:32 #-#-# translate crowdin buyCat_0fd35541:
+msgid "[_blank_] Этот крыса сильнее, чем кажется"
+msgstr "[_blank_] Этот крыса сильнее, чем кажется"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:35 #-#-# translate crowdin buyCat_49316299_2:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:36 #-#-# translate crowdin buyCat_c9ce2c93:
+msgid "[_cedrick_] (Хм, раз уж я нашел кота Лилит, думаю стоит написать по этому поводу Корнелии)"
+msgstr "[_cedrick_] (Хм, раз уж я нашел кота Лилит, думаю стоит написать по этому поводу Корнелии)"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:37 #-#-# translate crowdin buyCat_cfe90a85:
+msgid "[_cedrick_] (Возможно я смогу как-то это использовать. Стоит использовать любую потенциальную возможность давления на стражниц)"
+msgstr "[_cedrick_] (Возможно я смогу как-то это использовать. Стоит использовать любую потенциальную возможность давления на стражниц)"
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/giftForLilian/buyCat.rpy:43
+msgid "Корнелия, привет."
+msgstr "Корнелия, привет."
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:6
 translate crowdin check_alchemy_in_dungeon_a20cefa7:

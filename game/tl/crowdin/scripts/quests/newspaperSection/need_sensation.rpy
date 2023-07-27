@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40
+﻿# TODO: Translation updated at 2023-07-25 15:55
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:6
 translate crowdin need_sensation_3a6e34d5:
@@ -888,79 +888,79 @@ translate crowdin need_sensation_5f9b772e_2:
     # "...."
     "...."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:408
+# game/scripts/quests/newspaperSection/need_sensation.rpy:409
 translate crowdin need_sensation_c90369a2:
 
     # cedrick "Салфетки в шкафу на верхней полке.. Вам нужно привести себя в порядок.."
     cedrick "Салфетки в шкафу на верхней полке.. Вам нужно привести себя в порядок.."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:409
+# game/scripts/quests/newspaperSection/need_sensation.rpy:410
 translate crowdin need_sensation_5f9b772e_3:
 
     # "...."
     "...."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:413
+# game/scripts/quests/newspaperSection/need_sensation.rpy:414
 translate crowdin need_sensation_b4dc801e:
 
     # bess "Ну так что насчет фотографий?"
     bess "Ну так что насчет фотографий?"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:417
+# game/scripts/quests/newspaperSection/need_sensation.rpy:418
 translate crowdin need_sensation_3d0b3828:
 
     # cedrick "Поговорим в другой раз, уже слишком поздно. Вам пора домой"
     cedrick "Поговорим в другой раз, уже слишком поздно. Вам пора домой"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:421
+# game/scripts/quests/newspaperSection/need_sensation.rpy:422
 translate crowdin need_sensation_7fc02278:
 
     # bess "Но..."
     bess "Но..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:425
+# game/scripts/quests/newspaperSection/need_sensation.rpy:426
 translate crowdin need_sensation_017eea1e:
 
     # martin "Наконец-то я вас нашел! Где вы были? Я такое видел!"
     martin "Наконец-то я вас нашел! Где вы были? Я такое видел!"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:426
+# game/scripts/quests/newspaperSection/need_sensation.rpy:427
 translate crowdin need_sensation_f25dbb2c:
 
     # cedrick "Расскажешь завтра, а теперь отправляйтесь домой"
     cedrick "Расскажешь завтра, а теперь отправляйтесь домой"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:430
+# game/scripts/quests/newspaperSection/need_sensation.rpy:431
 translate crowdin need_sensation_515d86dd:
 
     # martin "А как же Ирма с Тарани? Вы их нашли?"
     martin "А как же Ирма с Тарани? Вы их нашли?"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:434
+# game/scripts/quests/newspaperSection/need_sensation.rpy:435
 translate crowdin need_sensation_cf5dc892:
 
     # cedrick " Они уже ушли ..."
     cedrick " Они уже ушли ..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:435
+# game/scripts/quests/newspaperSection/need_sensation.rpy:436
 translate crowdin need_sensation_02b48282:
 
     # cedrick "А теперь отправляйтесь по домам. Если вы еще дольше здесь задержитесь, ваши родители будут волноваться..."
     cedrick "А теперь отправляйтесь по домам. Если вы еще дольше здесь задержитесь, ваши родители будут волноваться..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:439
+# game/scripts/quests/newspaperSection/need_sensation.rpy:440
 translate crowdin need_sensation_35734028:
 
     # martin "А как же газета?"
     martin "А как же газета?"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:440
+# game/scripts/quests/newspaperSection/need_sensation.rpy:441
 translate crowdin need_sensation_15a83848:
 
     # cedrick "Допишете завтра утром"
     cedrick "Допишете завтра утром"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:441
+# game/scripts/quests/newspaperSection/need_sensation.rpy:442
 translate crowdin need_sensation_a20cefa7_13:
 
     # "..."
