@@ -9,6 +9,7 @@ from glob import glob
 dict = {
     # search_text : replace_text
     # start
+    r'msgid ""\nmsgstr ""\n(.*)\n(.*)\n(.*)\n(.*)':         r'',
     r'\n"Plural-Forms(.*)':         r'',
     r'\n"X-Crowdin-Pr(.*)':         r'',
     r'\n"X-Crowdin-Pr(.*)':         r'',
@@ -18,10 +19,9 @@ dict = {
     r'\n"Project-Id-V(.*)':         r'',
     r'\n"Content-Type(.*)':         r'',
     r'\n"Language-Tea(.*)':         r'',
-    r'\n"Language:(.*)':         r'',
+    r'\n"Language:(.*)':            r'',
     r'\n"PO-Revision-(.*)':         r'',
-    r'\n"Большой(.*)':         r'',
-    r'msgid ""\nmsgstr ""':         r'',
+    r'\n"Большой(.*)':              r'',
     r'\\n"\n"':                     r'\\n',
     r'\\'+'"':                      r'§§§§§§§§',
     # Effect
@@ -33,18 +33,18 @@ dict = {
     r' \[withflash\]"':             r'" with flash',
     r' \[withvpunch\]"':            r'" with vpunch',
     r' \[withDissolve20\]"':        r'" with Dissolve(2.0)',
-    r' \[withDissolve1\]"':        r'" with Dissolve(1)',
+    r' \[withDissolve1\]"':         r'" with Dissolve(1)',
     r' \[withDissolvey3\]"':        r'" with Dissolve(.3)',
-    r' \[multiple2\]"':        r'" (multiple=2)',
+    r' \[multiple2\]"':             r'" (multiple=2)',
     r'msgid "\[nvl_clear\]"':       r'    # nvl clear',
     r'msgstr "\[nvl_clear\]"':      r'    nvl clear',
     # first
-    r'msgid "(.*?) \[special_delimiter\] (.*?)"':       r'    # "\1" "\2"',
-    r'msgstr "(.*?) \[special_delimiter\] (.*?)"':      r'    "\1" "\2"',
-    r':\nmsgid "(.*?)"':                                r':\n    # "\1"',
+    r'msgid "(.*?) \[special_delimiter\] (.*?)"':         r'    # "\1" "\2"',
+    r'msgstr "(.*?) \[special_delimiter\] (.*?)"':        r'    "\1" "\2"',
+    r':\nmsgid "(.*?)"':                                  r':\n    # "\1"',
     r'    #(.*?)\nmsgstr "\[_(.*?)\_] (.*?)"':            r'    #\1\n    \2 "\3"',
-    r'    #(.*?)\nmsgstr "\[_(.*?)\_](.*?)"':            r'    #\1\n    \2 "\3"',
-    r'    # (.*?)\nmsgstr "(.*?)"':                     r'    # \1\n    "\2"',
+    r'    #(.*?)\nmsgstr "\[_(.*?)\_](.*?)"':             r'    #\1\n    \2 "\3"',
+    r'    # (.*?)\nmsgstr "(.*?)"':                       r'    # \1\n    "\2"',
     # after
     r'    # "\[_(.*?)\_] (.*?)"':                         r'    # \1 "\2"',
     # Comment
@@ -145,5 +145,4 @@ def fileRename(pathFile, extension):
     return pre + extension
 
 
-potorpy("italian")
-potorpy("french")
+potorpy("crowdin")
