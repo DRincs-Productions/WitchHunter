@@ -1,7 +1,4 @@
-﻿msgid "cccc"
-msgstr "cccccccccccc"
-
-# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/interface/phone/labels/resotre_books.rpy:8 #-#-# translate crowdin restore_books_1c485c2e:
+﻿# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/interface/phone/labels/resotre_books.rpy:8 #-#-# translate crowdin restore_books_1c485c2e:
 msgid "Вы приобрели новые книги из тех что проданы или пропали, в количестве: \"[restored_books_length]\""
 msgstr "Вы приобрели новые книги из тех что проданы или пропали, в количестве: \"[restored_books_length]\""
 
