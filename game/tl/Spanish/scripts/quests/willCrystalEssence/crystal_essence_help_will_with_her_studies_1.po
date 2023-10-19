@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:17\n"
+"PO-Revision-Date: 2023-10-19 12:27\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:6 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_1_7db1050a:
 msgid "[_cedrick_] Сьюзан, привет, ну как ты?"
-msgstr ""
+msgstr "[_cedrick_] Susan, hola, ¿cómo estás?"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:10 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_1_35347334:
 msgid "[_susan_] Отлично, Рик. Готов к сегодняшнему вечеру?"
-msgstr ""
+msgstr "[_susan_] Muy bien, Rick. ¿Estás listo para esta noche?"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:11 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_1_a4bd666d:
 msgid "[_cedrick_] Более чем. Но сначала, нужно помочь Вилл с подготовкой"
