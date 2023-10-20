@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:55\n"
+"PO-Revision-Date: 2023-10-20 10:44\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:5 #-#-# translate crowdin will_crystal_essence_final_gentle_f319f51e:
 msgid "Принятые ранее Седриком решения сформировали к Вилл более нежное отношение"
@@ -78,7 +78,7 @@ msgstr "[_will_] Zitto, potresti svegliare la mamma"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:37 #-#-# translate crowdin will_crystal_essence_final_gentle_8f52ac0f:
 msgid "[_cedrick_] В-вилл, что ты здесь делаешь? Который час?"
-msgstr "[_cedrick_] B-ville, cosa ci fai qui? Che ora è?"
+msgstr "[_cedrick_] W-will, cosa ci fai qui? Che ora è?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:39 #-#-# translate crowdin will_crystal_essence_final_gentle_1e2a3464:
 msgid "[_will_] Сейчас поздняя ночь. Я дождалась, пока мама окончательно уснет, чтобы она точно не могла нам помешать"
