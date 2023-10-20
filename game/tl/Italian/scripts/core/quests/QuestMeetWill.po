@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:45\n"
+"PO-Revision-Date: 2023-10-20 09:13\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestMeetWill.rpy:3
 msgid "Сблизиться с семьей Вэндомов"
@@ -18,7 +18,7 @@ msgstr "Avvicinarsi alla famiglia Wendom"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Заказать игрушки лягушки для Вилл (при помощи телефона)"
-msgstr "Ordinare giocattoli a forma di rana per le Ville (per telefono)"
+msgstr "Ordinare giocattoli a forma di rana per Will (per telefono)"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Дождаться когда доставят игрушки лягушки в книжный магазин"
