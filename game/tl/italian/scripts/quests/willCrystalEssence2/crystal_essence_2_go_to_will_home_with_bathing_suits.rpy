@@ -118,7 +118,7 @@ translate italian crystal_essence_2_go_to_will_home_with_bathing_suits_1b5ad580:
 translate italian crystal_essence_2_go_to_will_home_with_bathing_suits_bf3a3265:
 
     # susan "Так она ведет себя только с тобой. Если бы я ее не знала, то даже сказала бы, что это похоже на ревность.. Но это так не похоже на мою Вилл"
-    susan "È l'unico modo in cui si comporta così con te. Se non la conoscessi, direi addirittura che sembra gelosia. Ma è così diverso dalla mia volontà."
+    susan "È l'unico modo in cui si comporta così con te. Se non la conoscessi, direi addirittura che sembra gelosia. Ma è così diverso dalla mia Will"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:111
 translate italian crystal_essence_2_go_to_will_home_with_bathing_suits_60e97510:
@@ -1312,7 +1312,7 @@ translate italian crystal_essence_2_go_to_will_home_with_bathing_suits_59dba450:
 translate italian crystal_essence_2_go_to_will_home_with_bathing_suits_f197d7e5:
 
     # "РИК ДОВОДИТ ВИЛЛ ДО БЕРЕГА"
-    "RICK PORTA LE VILLE SULLA COSTA"
+    "RICK PORTA WILL SULLA COSTA"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:563
 translate italian crystal_essence_2_go_to_will_home_with_bathing_suits_90523c8b:

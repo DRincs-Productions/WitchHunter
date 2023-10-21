@@ -4,13 +4,13 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestCrushingOfIrmaAndTaranee.rpy:3
     old "Сокрушение Ирмы и Тарани"
-    new "Schiacciare Irma e Tarani"
+    new "Schiacciare Irma e Taranee"
 
     # game/scripts/core/quests/QuestCrushingOfIrmaAndTaranee.rpy:17
     old "Запланировать с Мирандой сокрушение Ирмы и Тарани"
-    new "Piano con Miranda per distruggere Irma e Tarani"
+    new "Piano con Miranda per distruggere Irma e Taranee"
 
     # game/scripts/core/quests/QuestCrushingOfIrmaAndTaranee.rpy:17
     old "Сокрушить Ирму и Тарани"
-    new "Schiacciare Irma e Tarani"
+    new "Schiacciare Irma e Taranee"
 

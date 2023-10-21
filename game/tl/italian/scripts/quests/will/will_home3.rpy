@@ -46,7 +46,7 @@ translate italian will_home3_170abd3e:
 translate italian will_home3_018a60d7:
 
     # susan "Проходи вилл у себя в комнате..."
-    susan "Passate in rassegna le ville nella vostra stanza..."
+    susan "Passate in rassegna Will nella vostra stanza..."
 
 # game/scripts/quests/will/will_home3.rpy:35
 translate italian will_home3_5d9a7257:

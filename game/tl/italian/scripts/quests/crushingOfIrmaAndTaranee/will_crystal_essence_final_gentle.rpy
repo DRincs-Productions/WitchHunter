@@ -100,7 +100,7 @@ translate italian will_crystal_essence_final_gentle_9efcae9e:
 translate italian will_crystal_essence_final_gentle_8f52ac0f:
 
     # cedrick "В-вилл, что ты здесь делаешь? Который час?"
-    cedrick "B-ville, cosa ci fai qui? Che ora è?"
+    cedrick "W-will, cosa ci fai qui? Che ora è?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:39
 translate italian will_crystal_essence_final_gentle_1e2a3464:

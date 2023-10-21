@@ -256,13 +256,13 @@ translate italian conversation_with_miranda_b9acd1e1:
 translate italian conversation_with_miranda_968e38db:
 
     # cedrick "Хм, кстати об этом. Я знаю как поменять Хай Лин своей способностью. Но вот Тарани.. К ней мне не подобраться, я не знаю, на какой ее слабости сыграть"
-    cedrick "Hmm, a proposito di questo. So come cambiare Hai Ling con la mia abilità. Ma Tarani. Non riesco ad avvicinarmi a lei, non so su quale debolezza giocare."
+    cedrick "Hmm, a proposito di questo. So come cambiare Hay Ling con la mia abilità. Ma Taranee. Non riesco ad avvicinarmi a lei, non so su quale debolezza giocare."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:117
 translate italian conversation_with_miranda_5004b503:
 
     # cedrick "Вилл я развратил с помощью зелья, теперь ее голова заполнена мыслями о моем члене"
-    cedrick "La mia volontà è stata corrotta dalla pozione, ora la sua testa è piena di pensieri sul mio cazzo."
+    cedrick "Will è stata corrotta dalla pozione, ora la sua testa è piena di pensieri sul mio cazzo"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:121
 translate italian conversation_with_miranda_5b0a5e2f:
@@ -292,7 +292,7 @@ translate italian conversation_with_miranda_c60a15d6:
 translate italian conversation_with_miranda_f6c3bcdd:
 
     # cedrick "К Хай Лин я подберусь через ее семью. Ее мать и бабушка у меня в кармане. Но вот Тарани…"
-    cedrick "Arriverò ad Hai Ling attraverso la sua famiglia. Sua madre e sua nonna sono nella mia tasca. Ma Tarani…"
+    cedrick "Arriverò ad Hay Ling attraverso la sua famiglia. Sua madre e sua nonna sono nella mia tasca. Ma Taranee…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:132
 translate italian conversation_with_miranda_39de6b12:
@@ -310,7 +310,7 @@ translate italian conversation_with_miranda_0374ae70:
 translate italian conversation_with_miranda_5e369347:
 
     # miranda "Я говорю ни о Тарани. Речь про Вилл. С Ирмой уже ничего не поделаешь, потому что вмешиваться в сознание дважды очень опасно"
-    miranda "Non sto parlando di Taranis. Sto parlando di Will. Non si può fare nulla per Irma, perché è pericoloso manomettere la sua mente due volte."
+    miranda "Non sto parlando di Taranee. Sto parlando di Will. Non si può fare nulla per Irma, perché è pericoloso manomettere la sua mente due volte."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:143
 translate italian conversation_with_miranda_dc6a0ea9:
@@ -406,7 +406,7 @@ translate italian conversation_with_miranda_87cc3834:
 translate italian conversation_with_miranda_20da9447:
 
     # cedrick "Буду иметь ввиду. А что насчет Тарани? Нет ни каких идей? Может какое-то зелье может.."
-    cedrick "Lo terrò presente. E Taranis? Qualche idea? Forse una qualche pozione potrebbe..."
+    cedrick "Lo terrò presente. E Taranee? Qualche idea? Forse una qualche pozione potrebbe..."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:189
 translate italian conversation_with_miranda_8c83d4be:
@@ -502,7 +502,7 @@ translate italian conversation_with_miranda_fd1aba8f:
 translate italian conversation_with_miranda_6ea6f107:
 
     # cedrick "Хай Лин присоединится к нам позже. Как раз эта часть идет согласно моему плану"
-    cedrick "Hai Ling ci raggiungerà più tardi. Questa è la parte che sta andando secondo il mio piano."
+    cedrick "Hay Ling ci raggiungerà più tardi. Questa è la parte che sta andando secondo il mio piano."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:249
 translate italian conversation_with_miranda_c51de8ac:

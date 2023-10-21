@@ -34,7 +34,7 @@ translate italian crystal_essence_help_will_with_her_studies_1_91d5a55e:
 translate italian crystal_essence_help_will_with_her_studies_1_2a3769d6:
 
     # centered "{size=37}В КОМНАТЕ ВИЛЛ{/size}"
-    centered "{Nella stanza della villa"
+    centered "{size=37}NELLA STANZA DI WILL{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:24
 translate italian crystal_essence_help_will_with_her_studies_1_fabc31f8:
@@ -82,7 +82,7 @@ translate italian crystal_essence_help_will_with_her_studies_1_5a03f3fe:
 translate italian crystal_essence_help_will_with_her_studies_1_21dacb0b:
 
     # Somka108 "ДАЛЬНЕЙШИЙ ВЫБОР СФОРМИРУЕТ ПРЕДПОЧТЕНИЯ ВИЛЛ В БУДУЩИХ ОБНОВЛЕНИЯХ"
-    Somka108 "ULTERIORI SCELTE DETERMINERANNO LE PREFERENZE DELLA VILLA NEI FUTURI AGGIORNAMENTI"
+    Somka108 "ULTERIORI SCELTE DETERMINERANNO LE PREFERENZE DI WILL NEI FUTURI AGGIORNAMENTI"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:39
 translate italian crystal_essence_help_will_with_her_studies_1_57f476c5:

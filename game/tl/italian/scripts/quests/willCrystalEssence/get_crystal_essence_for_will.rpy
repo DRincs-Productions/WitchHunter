@@ -292,7 +292,7 @@ translate italian get_crystal_essence_for_will_12786eb3:
 translate italian get_crystal_essence_for_will_3a9443b7:
 
     # cedrick "Конечно. За все время, только одна стражница до сих пор не попалась мне на крючок, главная среди них.. Вилл"
-    cedrick "Naturalmente. In tutto questo tempo, solo un guardiano non mi ha ancora messo all'amo, primo fra tutti... Volontà"
+    cedrick "Naturalmente. In tutto questo tempo, solo un guardiano non mi ha ancora messo all'amo, primo fra tutti... Will"
 
 # game/scripts/quests/willCrystalEssence/get_crystal_essence_for_will.rpy:192
 translate italian get_crystal_essence_for_will_f77b1ec4:

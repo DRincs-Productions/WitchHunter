@@ -136,7 +136,7 @@ translate italian grade_guard_52ba64c1:
 translate italian dialog_captive_tarani_d63c9b96:
 
     # cedrick "Говоря о тебе, Тарани"
-    cedrick "A proposito di te, Tarani."
+    cedrick "A proposito di te, Taranee."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:68
 translate italian dialog_captive_tarani_c2f6b408:
@@ -160,7 +160,7 @@ translate italian dialog_captive_tarani_43bdaeb4:
 translate italian dialog_captive_tarani_515e6dd5:
 
     # cedrick "Нам с тобой предстоит особая работа, Тарани. Из всех учениц ты пока что самая проблематичная"
-    cedrick "Io e te abbiamo un compito speciale da svolgere, Tarani. Di tutti gli studenti, finora sei stato il più problematico."
+    cedrick "Io e te abbiamo un compito speciale da svolgere, Taranee. Di tutti gli studenti, finora sei stato il più problematico."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:76
 translate italian dialog_captive_tarani_6556101b:
@@ -454,7 +454,7 @@ translate italian itog_grade_b93c531d:
 translate italian itog_grade_4d27d41e:
 
     # cedrick "Отлично. Как раз успею закончить кое-какие дела на Земле и привести сюда Хай Лин"
-    cedrick "Oh, fantastico. Giusto in tempo per concludere alcuni affari sulla Terra e portare Hai Ling qui."
+    cedrick "Oh, fantastico. Giusto in tempo per concludere alcuni affari sulla Terra e portare Hay Ling qui."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:189
 translate italian itog_grade_c910ecfb:
@@ -538,7 +538,7 @@ translate italian itog_grade_b45e7811:
 translate italian itog_grade_6d4ec389:
 
     # cedrick "(Пожалуй из этого выйдет отличная показательная сцена для Ирмы и Тарани. Пусть в очередной раз убедятся, как низко пала их предводительница)"
-    cedrick "(Penso che questa sarebbe un'ottima scena dimostrativa per Irma e Tarani. Facciamogli vedere ancora una volta quanto è caduto in basso il loro leader)."
+    cedrick "(Penso che questa sarebbe un'ottima scena dimostrativa per Irma e Taranee. Facciamogli vedere ancora una volta quanto è caduto in basso il loro leader)."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:225
 translate italian itog_grade_acbdfb07:
@@ -688,7 +688,7 @@ translate italian itog_grade_eb0a6e37:
 translate italian itog_grade_42ae7144:
 
     # irma "(В-вилл готова на подобное, лишь бы изменить решение Рика.. Может, она боится наказания? Д-должна ли я последовать ее примеру..)"
-    irma "(B-ville farebbe di tutto per far cambiare idea a Rick. Forse ha paura della punizione. D-dovrei seguire il suo esempio?)"
+    irma "(W-will farebbe di tutto per far cambiare idea a Rick. Forse ha paura della punizione. D-dovrei seguire il suo esempio?)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:277
 translate italian itog_grade_a26eff4f:
@@ -1066,7 +1066,7 @@ translate italian accept_her_offer_5ac72e8f:
 translate italian accept_her_offer_f6479420:
 
     # cedrick "(Это должно быть хорошим примером для Ирмы и Тарани. Интересно, как они воспримут такой мой шаг)"
-    cedrick "(Questo dovrebbe essere un buon esempio per Irma e Tarani. Mi chiedo come percepiranno questa mia mossa)."
+    cedrick "(Questo dovrebbe essere un buon esempio per Irma e Taranee. Mi chiedo come percepiranno questa mia mossa)."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:401
 translate italian accept_her_offer_fd011589:
@@ -1084,7 +1084,7 @@ translate italian accept_her_offer_b7cf6ea1:
 translate italian accept_her_offer_6aa6e85e:
 
     # cedrick "(Таким будет наказание для Вилл и проверка реакции Тарани и Ирмы)"
-    cedrick "(Questa sarà la punizione per Will e un test delle reazioni di Tarani e Irma)."
+    cedrick "(Questa sarà la punizione per Will e un test delle reazioni di Taranee e Irma)."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:404
 translate italian accept_her_offer_50b14c0f:
@@ -1138,7 +1138,7 @@ translate italian accept_her_offer_344a32eb:
 translate italian accept_her_offer_4fbf68eb:
 
     # cedrick "(И так, кто же это будет? Тарани или Ирма)"
-    cedrick "(Allora, chi sarà? Tarani o Irma)"
+    cedrick "(Allora, chi sarà? Taranee o Irma)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:425
 translate italian cumshot_to_irma_efbdf396:
@@ -1282,7 +1282,7 @@ translate italian cumshot_to_tarani_d4d92310:
 translate italian cumshot_to_tarani_88d844ee:
 
     # cedrick "А тебя никто не спрашивает, Тарани. Делай что говорят, иначе твое наказание будет еще жестче"
-    cedrick "E nessuno te lo chiede, Tarani. Fai come ti è stato detto, o la tua punizione sarà ancora più dura."
+    cedrick "E nessuno te lo chiede, Taranee. Fai come ti è stato detto, o la tua punizione sarà ancora più dura."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:469
 translate italian cumshot_to_tarani_81d83f93:
@@ -1342,7 +1342,7 @@ translate italian cumshot_to_tarani_7bd05bdb:
 translate italian cumshot_to_tarani_8f5fe4c1:
 
     # will "Л-ладно Корнелия, но вот Тарани!! Она же постоянно ведет себя как сучка.."
-    will "Cornelia va bene, ma Taranis! Si comporta sempre come una stronza."
+    will "Cornelia va bene, ma Taranee! Si comporta sempre come una stronza."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:488
 translate italian end_conversation_with_guards_52b29d52:
@@ -1402,7 +1402,7 @@ translate italian epilog_f6cf374d:
 translate italian epilog_538cfbb3:
 
     # cedrick "(Сейчас мне особое внимание стоит уделить Хай Лин, давно я с ней не работал)"
-    cedrick "(Dovrei prestare particolare attenzione ad Hai Ling in questo momento, è passato un po' di tempo dall'ultima volta che ho lavorato con lei)."
+    cedrick "(Dovrei prestare particolare attenzione ad Hay Ling in questo momento, è passato un po' di tempo dall'ultima volta che ho lavorato con lei)."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:510
 translate italian epilog_964de117:
@@ -1432,5 +1432,5 @@ translate italian strings:
 
     # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:415
     old "Кончить на Тарани"
-    new "Sborra su Tarani"
+    new "Sborra su Taranee"
 

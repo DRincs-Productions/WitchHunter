@@ -22,7 +22,7 @@ translate italian will_home1_5c60f564:
 translate italian will_home1_6751b843:
 
     # "*В комнате вилл*"
-    "* Nella stanza della villa"
+    "* Nella stanza di Will"
 
 # game/scripts/quests/will/will_home1.rpy:21
 translate italian will_home1_e846e7f7:
