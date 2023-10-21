@@ -112,7 +112,7 @@ translate italian will_crystal_essence_final_tough_75379283:
 translate italian will_crystal_essence_final_tough_0d96e007:
 
     # centered "{size=37} НОЧЬЮ В КОМНАТЕ ВИЛЛ{/size}"
-    centered "{NOTTE NELLA CAMERA DELLA VILLA{/size}"
+    centered "{NOTTE NELLA CAMERA DI WILL{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_tough.rpy:61
 translate italian will_crystal_essence_final_tough_94366180:

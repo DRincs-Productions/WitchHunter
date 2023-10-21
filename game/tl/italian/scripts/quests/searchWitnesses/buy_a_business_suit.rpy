@@ -1522,7 +1522,7 @@ translate italian buy_a_business_suit_5ca268fc:
 translate italian buy_a_business_suit_4e0c8d16:
 
     # medina "Вилл руководствуется фактами и делает из них объективные выводы"
-    medina "La volontà è guidata dai fatti e ne trae conclusioni oggettive."
+    medina "Will è guidata dai fatti e ne trae conclusioni oggettive"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:495
 translate italian buy_a_business_suit_67799eaa:
@@ -3304,7 +3304,7 @@ translate italian buy_a_business_suit_a6a2cb66:
 translate italian buy_a_business_suit_706f127a:
 
     # cedrick "(Мда, что-то идет как надо, а что-то не очень, в случае с Ирмой.. Интересно, как с Тарани пойдет)"
-    cedrick "(Sì, alcune cose vanno bene e altre no, nel caso di Irma... Mi chiedo come andrà con Tarani)"
+    cedrick "(Sì, alcune cose vanno bene e altre no, nel caso di Irma... Mi chiedo come andrà con Taranee)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:995
 translate italian buy_a_business_suit_6c2b619c:

@@ -4,7 +4,7 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestTarani.rpy:3
     old "Тарани Кук"
-    new "Cuoco Tarani"
+    new "Taranee Cook"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Провести первый урок"
@@ -12,7 +12,7 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Провести урок и проверить контрольную работу занизив оценку Тарани"
-    new "Svolgere la lezione e controllare il lavoro di prova abbassando il voto di Tarani."
+    new "Svolgere la lezione e controllare il lavoro di prova abbassando il voto di Taranee"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Раздать контрольные работы на следующем уроке"
@@ -20,11 +20,11 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Занизить оценку домашней работы Тарани"
-    new "Abbassare il voto dei compiti di Tarani"
+    new "Abbassare il voto dei compiti di Taranee"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Поговорить с Тарани после урока"
-    new "Parlare con Tarani dopo la lezione"
+    new "Parlare con Taranee dopo la lezione"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Провести очередной урок"
@@ -32,7 +32,7 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Распросить о Тарани в школьном клубе журналистике"
-    new "Chiedere di Tarani al club di giornalismo della scuola"
+    new "Chiedere di Taranee al club di giornalismo della scuola"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Достать микрофон для клуба журналистики"
@@ -40,7 +40,7 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Отнести микрофон Бэсс и Кортни и разузнать о Тарани"
-    new "Porta il microfono a Bess e Courtney e scopri la storia di Tarani."
+    new "Porta il microfono a Bess e Courtney e scopri la storia di Taranee"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Попросить Бланка сделать фотографии Найджела"
@@ -68,19 +68,19 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Шантажировать Тарани фотографиями Найджела"
-    new "Ricattare Tarani con foto di Nigel"
+    new "Ricattare Taranee con foto di Nigel"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Попросить Тарани сделать нам приятное после урока"
-    new "Chiedere a Tarani di farci sentire bene dopo la lezione"
+    new "Chiedere a Taranee di farci sentire bene dopo la lezione"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Попросить Тарани поработать ртом"
-    new "Chiedere a Tarani di lavorare con la bocca"
+    new "Chiedere a Taranee di lavorare con la bocca"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Навестить Тарани у нее дома"
-    new "Visita a Tarani a casa sua"
+    new "Visita a Taranee a casa sua"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Попросить Бланка сделать новые фотографии Найджела"
@@ -92,9 +92,9 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Навестить Тарани у нее дома вечером и показать ей фотографии Найджела"
-    new "Stasera andate a trovare Tarani a casa sua e mostratele le foto di Nigel."
+    new "Stasera andate a trovare Taranee a casa sua e mostratele le foto di Nigel."
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Поговорить с Тарани в школе"
-    new "Parlare con Tarani a scuola"
+    new "Parlare con Taranee a scuola"
 

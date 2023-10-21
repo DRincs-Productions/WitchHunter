@@ -490,7 +490,7 @@ translate italian crystal_essence_2_go_to_will_home_947bebc0:
 translate italian crystal_essence_2_go_to_will_home_7276caea:
 
     # susan "В-вилл.."
-    susan "V-ville..."
+    susan "W-will.."
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:139
 translate italian crystal_essence_2_go_to_will_home_6aeb0e35:
