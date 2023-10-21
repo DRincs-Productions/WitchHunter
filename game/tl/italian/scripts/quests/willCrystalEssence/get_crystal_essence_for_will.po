@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:17\n"
+"PO-Revision-Date: 2023-10-20 10:44\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence/get_crystal_essence_for_will.rpy:7 #-#-# translate crowdin get_crystal_essence_for_will_825983c1:
 msgid "[_cedrick_] Хм, так, давай-ка еще раз. То есть, ты говоришь, что на стражницах зелье не сработает?"
@@ -206,7 +206,7 @@ msgstr "[_miranda_] A proposito, avete già scelto una pagina su cui utilizzare 
 
 # game/scripts/quests/willCrystalEssence/get_crystal_essence_for_will.rpy:187 #-#-# translate crowdin get_crystal_essence_for_will_3a9443b7:
 msgid "[_cedrick_] Конечно. За все время, только одна стражница до сих пор не попалась мне на крючок, главная среди них.. Вилл"
-msgstr "[_cedrick_] Naturalmente. In tutto questo tempo, solo un guardiano non mi ha ancora messo all'amo, primo fra tutti... Volontà"
+msgstr "[_cedrick_] Naturalmente. In tutto questo tempo, solo un guardiano non mi ha ancora messo all'amo, primo fra tutti... Will"
 
 # game/scripts/quests/willCrystalEssence/get_crystal_essence_for_will.rpy:192 #-#-# translate crowdin get_crystal_essence_for_will_f77b1ec4:
 msgid "[_miranda_] (..Бедная девочка, еще не знает, что ее ждет)"

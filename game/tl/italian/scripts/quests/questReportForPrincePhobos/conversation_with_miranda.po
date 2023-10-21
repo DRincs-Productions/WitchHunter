@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:09\n"
+"PO-Revision-Date: 2023-10-20 10:44\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:6 #-#-# translate crowdin conversation_with_miranda_ba12d053:
 msgid "[_miranda_] Седрик, ты здесь! Как все прошло?"
@@ -182,11 +182,11 @@ msgstr "[_miranda_] Oh, Cedric, sei davvero cambiato."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:116 #-#-# translate crowdin conversation_with_miranda_968e38db:
 msgid "[_cedrick_] Хм, кстати об этом. Я знаю как поменять Хай Лин своей способностью. Но вот Тарани.. К ней мне не подобраться, я не знаю, на какой ее слабости сыграть"
-msgstr "[_cedrick_] Hmm, a proposito di questo. So come cambiare Hai Ling con la mia abilità. Ma Tarani. Non riesco ad avvicinarmi a lei, non so su quale debolezza giocare."
+msgstr "[_cedrick_] Hmm, a proposito di questo. So come cambiare Hay Ling con la mia abilità. Ma Taranee. Non riesco ad avvicinarmi a lei, non so su quale debolezza giocare."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:117 #-#-# translate crowdin conversation_with_miranda_5004b503:
 msgid "[_cedrick_] Вилл я развратил с помощью зелья, теперь ее голова заполнена мыслями о моем члене"
-msgstr "[_cedrick_] La mia volontà è stata corrotta dalla pozione, ora la sua testa è piena di pensieri sul mio cazzo."
+msgstr "[_cedrick_] Will è stata corrotta dalla pozione, ora la sua testa è piena di pensieri sul mio cazzo"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:121 #-#-# translate crowdin conversation_with_miranda_5b0a5e2f:
 msgid "[_cedrick_] Поработал с сознанием Ирмы, сыграв на ее усталости от постоянной борьбы. Эффект получился неоднозначный, ее выступление в суде это четко показало"
@@ -206,7 +206,7 @@ msgstr "[_miranda_] Hmm."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:128 #-#-# translate crowdin conversation_with_miranda_f6c3bcdd:
 msgid "[_cedrick_] К Хай Лин я подберусь через ее семью. Ее мать и бабушка у меня в кармане. Но вот Тарани…"
-msgstr "[_cedrick_] Arriverò ad Hai Ling attraverso la sua famiglia. Sua madre e sua nonna sono nella mia tasca. Ma Tarani…"
+msgstr "[_cedrick_] Arriverò ad Hay Ling attraverso la sua famiglia. Sua madre e sua nonna sono nella mia tasca. Ma Taranee…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:132 #-#-# translate crowdin conversation_with_miranda_39de6b12:
 msgid "[_miranda_] По идее ее можно приструнить, также используя твою способность в изменении сознания"
@@ -218,7 +218,7 @@ msgstr "[_cedrick_] Miranda, ma mi stai ascoltando? L'avrei già fatto se fosse 
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:137 #-#-# translate crowdin conversation_with_miranda_5e369347:
 msgid "[_miranda_] Я говорю ни о Тарани. Речь про Вилл. С Ирмой уже ничего не поделаешь, потому что вмешиваться в сознание дважды очень опасно"
-msgstr "[_miranda_] Non sto parlando di Taranis. Sto parlando di Will. Non si può fare nulla per Irma, perché è pericoloso manomettere la sua mente due volte."
+msgstr "[_miranda_] Non sto parlando di Taranee. Sto parlando di Will. Non si può fare nulla per Irma, perché è pericoloso manomettere la sua mente due volte."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:143 #-#-# translate crowdin conversation_with_miranda_dc6a0ea9:
 msgid "[_miranda_] Но вот Вилл и ее вздорный характер. Ты же не использовал на ней силу Короля Морпионов. Ее развращенность - это результат эссенции королевы Морпионов"
@@ -282,7 +282,7 @@ msgstr "[_cedrick_] Hmm…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:185 #-#-# translate crowdin conversation_with_miranda_20da9447:
 msgid "[_cedrick_] Буду иметь ввиду. А что насчет Тарани? Нет ни каких идей? Может какое-то зелье может.."
-msgstr "[_cedrick_] Lo terrò presente. E Taranis? Qualche idea? Forse una qualche pozione potrebbe..."
+msgstr "[_cedrick_] Lo terrò presente. E Taranee? Qualche idea? Forse una qualche pozione potrebbe..."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:189 #-#-# translate crowdin conversation_with_miranda_8c83d4be:
 msgid "[_miranda_] Мои зелья не всесильны, Седрик! Сколько можно повторять.."
@@ -346,7 +346,7 @@ msgstr "[_bulj_] Ma per ora ce ne sono quattro, signore"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:245 #-#-# translate crowdin conversation_with_miranda_6ea6f107:
 msgid "[_cedrick_] Хай Лин присоединится к нам позже. Как раз эта часть идет согласно моему плану"
-msgstr "[_cedrick_] Hai Ling ci raggiungerà più tardi. Questa è la parte che sta andando secondo il mio piano."
+msgstr "[_cedrick_] Hay Ling ci raggiungerà più tardi. Questa è la parte che sta andando secondo il mio piano."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:249 #-#-# translate crowdin conversation_with_miranda_c51de8ac:
 msgid "[_bulj_] Хм. Интересно будет взглянуть на итог вашего плана, Лорд Седрик"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:10\n"
+"PO-Revision-Date: 2023-10-20 10:44\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:3 #-#-# translate crowdin buy_a_business_suit_cdeda416:
 msgid "У меня сейчас не хватает денег на деловой костюм"
@@ -1026,7 +1026,7 @@ msgstr "[_medina_] Obiezione, Vostro Onore! Non sono state fatte affermazioni pr
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:494 #-#-# translate crowdin buy_a_business_suit_4e0c8d16:
 msgid "[_medina_] Вилл руководствуется фактами и делает из них объективные выводы"
-msgstr "[_medina_] La volontà è guidata dai fatti e ne trae conclusioni oggettive."
+msgstr "[_medina_] Will è guidata dai fatti e ne trae conclusioni oggettive"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:495 #-#-# translate crowdin buy_a_business_suit_67799eaa:
 msgid "[_medina_] Человеку, находящемуся на трех работах, куда сложнее совершать регулярные похищения, к тому же такого количества людей"
@@ -2214,7 +2214,7 @@ msgstr "[_cedrick_] (Qui non ha assolutamente contraddizioni nella sua mente dop
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:994 #-#-# translate crowdin buy_a_business_suit_706f127a:
 msgid "[_cedrick_] (Мда, что-то идет как надо, а что-то не очень, в случае с Ирмой.. Интересно, как с Тарани пойдет)"
-msgstr "[_cedrick_] (Sì, alcune cose vanno bene e altre no, nel caso di Irma... Mi chiedo come andrà con Tarani)"
+msgstr "[_cedrick_] (Sì, alcune cose vanno bene e altre no, nel caso di Irma... Mi chiedo come andrà con Taranee)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:995 #-#-# translate crowdin buy_a_business_suit_6c2b619c:
 msgid "[_cornelia_] Аааах.. Дааа.. Продолжай.."
