@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:7 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_51e77407:
 msgid "[_physteacher_] Рик Хоффман! Дружище"
@@ -86,7 +86,7 @@ msgstr "[_cedrick_] (Putain d'ivrogne... Je ne pense pas que ce soit une bonne i
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:43 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_939fef8a:
 msgid "[_centered_] {size=37} Урок физкультуры {/size}"
-msgstr "[_centered_] {classe PE {/size}"
+msgstr "[_centered_] {size=37} classe PE {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:48 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_49279a30:
 msgid "[_cedrick_] И так, класс, сегодня у мистера Бартона возникли неотложные дела .."
@@ -110,7 +110,7 @@ msgstr "[_cedrick_] Fais un échauffement et tu peux jouer au volley-ball ou que
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:54 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_f1cbbdef:
 msgid "[_centered_] {size=37} Некоторое время спустя {/size}"
-msgstr "[_centered_] {Quelque temps plus tard..."
+msgstr "[_centered_] {size=37} Quelque temps plus tard {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:57 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_a20cefa7:
 msgid "..."
@@ -142,7 +142,7 @@ msgstr "[_cedrick_] (...je dirais même beaucoup de plus...il suffit de les rega
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:65 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_68c31ed4:
 msgid "[_centered_] {size=37} После урока {/size}"
-msgstr "[_centered_] {Après le cours..."
+msgstr "[_centered_] {size=37} Après le cours {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:68 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_7c75ccd5:
 msgid "[_cedrick_] На этом занятие окончено... Можете идти в раздевалку..."
