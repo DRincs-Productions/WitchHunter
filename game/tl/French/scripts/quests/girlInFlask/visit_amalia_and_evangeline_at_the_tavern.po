@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:00\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:4 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_bf69d8dd:
 msgid "Седрик подходит к двери комнаты и слышит разговор на повышенных тонах"
@@ -146,7 +146,7 @@ msgstr "..."
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:113 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_988d0c8b:
 msgid "[_centered_] {size=37} Спустя несколько минут Евангелина поддается вашим уговорам... {/size}"
-msgstr "[_centered_] {Quelques minutes plus tard, Evangeline succombe à vos supplications... {/size}"
+msgstr "[_centered_] {size=37} Quelques minutes plus tard, Evangeline succombe à vos supplications... {/size}"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:116 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_53959500:
 msgid "[_evangelin_] Какая гадость"
@@ -266,7 +266,7 @@ msgstr "[_evangelin_] Alors montrez le chemin. J'espère que nous la trouverons"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:187 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_ac07cbd7:
 msgid "[_centered_] {size=37}Некоторое время вы с Евангелиной занимаетесь поисками Амалии.. {/size}"
-msgstr "[_centered_] {Vous et Evangeline avez cherché Amalia pendant un certain temps... {/size}"
+msgstr "[_centered_] {size=37}Vous et Evangeline avez cherché Amalia pendant un certain temps.. {/size}"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:191 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_4b8d6f3c:
 msgid "[_cedrick_] Знаешь, а так даже лучше. Тебе так будет легче"
