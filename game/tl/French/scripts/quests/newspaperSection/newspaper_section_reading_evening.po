@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:06\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:6 #-#-# translate crowdin newspaper_section_reading_evening_f58b35e9:
 msgid "[_bess_] Мистер Хоффман... Наконец, вы решили нас навестить?"
@@ -178,7 +178,7 @@ msgstr "[_bess_] Attends que je t'aie nettoyé la bite... tu ne peux pas aller e
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:84 #-#-# translate crowdin newspaper_section_reading_evening_37f5c3ed:
 msgid "[_centered_] {size=36}Через пару минут..{/size}"
-msgstr "[_centered_] {size=36}"
+msgstr ""
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:88 #-#-# translate crowdin newspaper_section_reading_evening_a07a148f:
 msgid "[_cedrick_] Это ничего не меняет... я не могу показать вам эти фотографии..."
@@ -202,7 +202,7 @@ msgstr "[_cedrick_] (Non, il y a quelque chose qui ne va pas ici... Le télépho
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:100 #-#-# translate crowdin newspaper_section_reading_evening_463a5794:
 msgid "[_centered_] {size=36}ПОЗЖЕ, ВЕЧЕРОМ В КАБИНЕТЕ ЖУРНАЛИСТИКИ{/size}"
-msgstr "[_centered_] {Plus tard, le soir, dans le bureau du journaliste..."
+msgstr ""
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:103 #-#-# translate crowdin newspaper_section_reading_evening_44f35d59:
 msgid "[_cedrick_] (Так, что тут у нас.. Новый тираж распечатанных газет? Когда я был здесь днем, газет не было. Да и станок еще теплый)"
@@ -230,7 +230,7 @@ msgstr "[_cedrick_] (OK, je suis déjà assez en retard, je risque d'être un pe
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:115 #-#-# translate crowdin newspaper_section_reading_evening_65cd7d1f:
 msgid "[_centered_] {size=36}Седрик смывает в школьный унитаз все экземпляры школьной газеты, кроме одного и отправляется в книжный магазин на вечер чтений{/size}"
-msgstr "[_centered_] {Cédric jette tous les exemplaires du journal de l'école dans les toilettes, sauf un, et se rend à la librairie pour une soirée de lecture."
+msgstr "[_centered_] {size=36}Cédric jette tous les exemplaires du journal de l'école dans les toilettes, sauf un, et se rend à la librairie pour une soirée de lecture{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:125 #-#-# translate crowdin newspaper_section_reading_evening_cf3bf492:
 msgid "[_elion_] У нас не хватает стульев, пришло больше народу, чем мы ожидали..."
@@ -622,7 +622,7 @@ msgstr "[_cedrick_] Nettoie-toi... Et nous devons nous dépêcher, quelqu'un pou
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:363 #-#-# translate crowdin newspaper_section_reading_evening_30889e67:
 msgid "[_centered_] {size=36}В общем зале книжного магазина{/size}"
-msgstr "[_centered_] {Dans la salle commune d'une librairie..."
+msgstr "[_centered_] {size=36}Dans la salle commune d'une librairie{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:367 #-#-# translate crowdin newspaper_section_reading_evening_0eab2fd8:
 msgid "[_martin_] Ирма, ты где была??"
