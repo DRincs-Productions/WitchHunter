@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:56\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:4 #-#-# translate crowdin elyon_quarreled_with_her_parents_9522b460:
 msgid "[_cedrick_] Элион, что ты здесь делаешь? Уже довольно поздно..."
@@ -122,7 +122,7 @@ msgstr "[_cedrick_] (Ho fatto finta e li ho studiati abbastanza bene, dovrebbe f
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:59 #-#-# translate crowdin elyon_quarreled_with_her_parents_61ecaa91:
 msgid "[_centered_] {size=37}ЭТОЙ ЖЕ НОЧЬЮ В ДОМЕ БРАУНОВ{/size}"
-msgstr "[_centered_] {QUESTA NOTTE ALLA CASA BROWN{/size}"
+msgstr "[_centered_] {size=37}QUESTA NOTTE ALLA CASA BROWN{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:64 #-#-# translate crowdin elyon_quarreled_with_her_parents_67db9e64:
 msgid "[_cedrick_] (Все готово, нужно лишь вломиться так, чтобы они услышали, и, когда они спустятся, бросить звезду возле их ног. Дальше, магия спадет сама)"
@@ -134,7 +134,7 @@ msgstr "[_cedrick_] (Non credo che mi farò più vedere da loro. La stella farà
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:67 #-#-# translate crowdin elyon_quarreled_with_her_parents_78308d23:
 msgid "[_centered_] {size=37}СЕДРИК ВЛАМЫВАЕТСЯ В ДОМ{/size}"
-msgstr "[_centered_] {I SEDICI IN CASA{/size}"
+msgstr "[_centered_] {size=37}I SEDICI IN CASA{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:71 #-#-# translate crowdin elyon_quarreled_with_her_parents_a20cefa7:
 msgid "..."
@@ -274,7 +274,7 @@ msgstr "[_miriadel_] Sì... Tutto ruota intorno a lei. Ora dobbiamo lasciare la 
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:233 #-#-# translate crowdin elyon_quarreled_with_her_parents_123f66c0:
 msgid "[_centered_] {size=37}Альборн и Мирабель уходят в сторону магазина Седрика{/size}"
-msgstr "[_centered_] {Albourn e Mirabel si allontanano verso il negozio di Cedric."
+msgstr "[_centered_] {size=37}Albourn e Mirabel si allontanano verso il negozio di Cedric{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:236 #-#-# translate crowdin elyon_quarreled_with_her_parents_3b487e6b:
 msgid "[_cedrick_] (Что ж, звезда на месте, а значит все прошло согласно моему плану)"
@@ -290,7 +290,7 @@ msgstr "[_cedrick_] (Avrebbero dovuto cercare di far cambiare idea a Elion, anch
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:240 #-#-# translate crowdin elyon_quarreled_with_her_parents_d9cf32c7:
 msgid "[_centered_] {size=37}Седрик забирает звезду трибы и возвращается к себе в магазин{/size}"
-msgstr "[_centered_] {Cedric prende la stella della tribù e torna al suo negozio."
+msgstr "[_centered_] {size=37}Cedric prende la stella della tribù e torna al suo negozio{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:246 #-#-# translate crowdin elyon_quarreled_with_her_parents_f435ef5b:
 msgid "[_cedrick_] (Хм, они оставили письмо? Как трогательно.. Но, думаю, мне стоит его подправить, прежде чем отдавать Элион)"
@@ -302,7 +302,7 @@ msgstr "[_cedrick_] (Per fortuna, gli intrighi di palazzo mi hanno insegnato a f
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:249 #-#-# translate crowdin elyon_quarreled_with_her_parents_3ae3404e:
 msgid "[_centered_] {size=37}Утром на следующий день{/size}"
-msgstr "[_centered_] {Il mattino seguente."
+msgstr "[_centered_] {size=37}Il mattino seguente{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:254 #-#-# translate crowdin elyon_quarreled_with_her_parents_bc1b050a:
 msgid "[_cedrick_] Элион, доброе утро"
@@ -382,7 +382,7 @@ msgstr "[_cedrick_] Certo, corri..."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:292 #-#-# translate crowdin elyon_quarreled_with_her_parents_3c48e2b5:
 msgid "[_centered_] {size=37}Вечером того же дня{/size}"
-msgstr "[_centered_] {La sera dello stesso giorno."
+msgstr "[_centered_] {size=37}La sera dello stesso giorno{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:297 #-#-# translate crowdin elyon_quarreled_with_her_parents_87898073:
 msgid "[_elion_] Рик.. Рик, это правда.. Они, они просто уехали.. Дом пустой, машины нет.. Я не могу поверить.. Неужели это все из-за того, что я убежала.."
@@ -438,7 +438,7 @@ msgstr "[_cedrick_] (Hmmm... Si potrebbe avere un incidente d'auto mentre stanno
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:325 #-#-# translate crowdin elyon_quarreled_with_her_parents_54cf8e5f:
 msgid "[_cedrick_] (Обратиться к Бланку?.. Нет, этот вонючка слишком тесно связан со Стражницами, может взболтнуть лишнего.. Но если не Бланк, тогда..)"
-msgstr "[_cedrick_] (Girare a vuoto...? No, quel fetente è troppo vicino alle Sentinelle per dire troppo... Ma se non è Blank, allora...)."
+msgstr "[_cedrick_] (Girare a vuoto...? No, quel fetente è troppo vicino alle Sentinelle per dire troppo... Ma se non è Blunk, allora...)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:326 #-#-# translate crowdin elyon_quarreled_with_her_parents_21aa3267:
 msgid "[_cedrick_] (Точно, был же еще один уродец, который недавно приходил к Фобосу.. Джинк, кажется. Нужно поискать его в Таверне)"
