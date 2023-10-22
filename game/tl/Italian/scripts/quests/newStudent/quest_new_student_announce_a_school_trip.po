@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:4 #-#-# translate crowdin quest_new_student_announce_a_school_trip_85cabb3f:
 msgid "[_cedrick_] В следующие выходные состоится школьная поездка на горнолыжный курорт на горе Хезерфилд."
@@ -66,7 +66,7 @@ msgstr "[_cedrick_] Uriah Dunne?"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:18 #-#-# translate crowdin quest_new_student_announce_a_school_trip_86c4c8fc:
 msgid "[_centered_] {size=37}спустя несколько минут{/size}"
-msgstr "[_centered_] {size=37}{/size}"
+msgstr "[_centered_] {size=37}dopo pochi minuti{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:20 #-#-# translate crowdin quest_new_student_announce_a_school_trip_317e5819:
 msgid "[_cedrick_] Вилл Вандом?"
