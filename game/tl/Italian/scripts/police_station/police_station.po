@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:53\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/police_station/police_station.rpy:13 #-#-# translate crowdin police_station_inaccessible_door_ae1873e0:
 msgid "[_cedrick_] Заперто.. К тому же это явно не та дверь"
@@ -18,7 +18,7 @@ msgstr "[_cedrick_] E' chiuso a chiave... Inoltre, è chiaramente la porta sbagl
 
 # game/scripts/police_station/police_station.rpy:21 #-#-# translate crowdin police_station_lose_23632d6b:
 msgid "[_centered_] {size=37}В полицейском участке сработала сигнальная сирена, все выходы из здания перекрыты. Седрик в ловушке{/size}"
-msgstr "[_centered_] {La sirena della stazione di polizia è suonata e tutte le uscite sono bloccate. Cedric è in trappola{/size}"
+msgstr "[_centered_] {size=37}La sirena della stazione di polizia è suonata e tutte le uscite sono bloccate. Cedric è in trappola{/size}"
 
 # game/scripts/police_station/police_station.rpy:24 #-#-# translate crowdin police_station_lose_8d084e2b:
 msgid "[_cedrick_] (Черт, и угораздило же меня так попасться..)"
@@ -86,7 +86,7 @@ msgstr "[_cedrick_] Mi sembra di vedere una persona in lontananza."
 
 # game/scripts/police_station/police_station.rpy:121 #-#-# translate crowdin police_station_main_guards_1_354f327d:
 msgid "[_centered_] {size=37}Седрик сумел вырубить сержанта до того, как он успел поднять тревогу {/size}"
-msgstr "[_centered_] {Cedric riuscì a stendere il sergente prima che potesse dare l'allarme."
+msgstr "[_centered_] {size=37}Cedric riuscì a stendere il sergente prima che potesse dare l'allarme {/size}"
 
 # game/scripts/police_station/police_station.rpy:123 #-#-# translate crowdin police_station_main_guards_1_eb1f036e:
 msgid "[_cedrick_] (Фух, успел вырубить его.. Но в это крыло мне лучше не соваться...)"
