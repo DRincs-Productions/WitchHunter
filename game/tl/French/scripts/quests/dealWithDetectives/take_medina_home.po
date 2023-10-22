@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 20:55\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:3 #-#-# translate crowdin take_medina_home_74be0a74:
 msgid "[_centered_] {size=37}СЕДРИК ОТВОДИТ МЕДИНУ ДОМОЙ, В ВЫСОТКУ, В КОТОРОЙ ТАК ЖЕ ЖИВЕТ И КОРНЕЛИЯ{/size}"
@@ -242,7 +242,7 @@ msgstr "[_medina_] Uhhhh... Très bien, stud, je semble avoir repris mes esprits
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:68 #-#-# translate crowdin take_medina_home_2591e795:
 msgid "[_centered_] {size=37}МЕДИНА ДОВОЗИТ СЕДРИКА ДО КНИЖНОГО МАГАЗИНА{/size}"
-msgstr "[_centered_] {MEDINA Conduit CEDRIC AU MAGAZINE DE LIVRES{/size}"
+msgstr ""
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:73 #-#-# translate crowdin take_medina_home_e54fd4f2:
 msgid "[_medina_] Ну вот, мы здесь"
@@ -262,7 +262,7 @@ msgstr "[_medina_] Oui, oui. Je l'ai fait moi-même, je vais le nettoyer."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:83 #-#-# translate crowdin take_medina_home_3a877023:
 msgid "[_centered_] {size=37}Медина объясняет Элион ситуацию{/size}"
-msgstr "[_centered_] {Médine explique la situation d'Elion{/size}"
+msgstr "[_centered_] {size=37}Médine explique la situation d'Elion{/size}"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:87 #-#-# translate crowdin take_medina_home_a80d0f18:
 msgid "[_elion_] Рик - подставной подозреваемый.. Я.. Я так рада.."
