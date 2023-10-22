@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:02\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -62,7 +62,7 @@ msgstr "[_cedrick_] (Già, essere di nuovo soli con quella ragazza...)."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:22 #-#-# translate crowdin sitWithLilian2_aa3e213b:
 msgid "[_centered_] {size=37}позже в доме хейлов{/size}"
-msgstr "[_centered_] {più tardi nella casa di Hale{/size}"
+msgstr "[_centered_] {size=37}più tardi nella casa di Hale{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:26 #-#-# translate crowdin sitWithLilian2_b63eb2fb:
 msgid "[_cedrick_] Как твое самочувствие, Лилит?"
@@ -302,7 +302,7 @@ msgstr "[_cedrick_] (Ottimo, questa è la mia occasione)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:128 #-#-# translate crowdin sitWithLilian2_fe0192ff:
 msgid "[_centered_] {size=37}СПУСТЯ НЕСКОЛЬКО ДОЛГИХ ОТКРОВЕННЫХ РАЗГОВОРОВ{/size}"
-msgstr "[_centered_] {SENZA ALCUNA LUNGA DISCUSSIONE{/size}."
+msgstr "[_centered_] {size=37}SENZA ALCUNA LUNGA DISCUSSIONE{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:135 #-#-# translate crowdin sitWithLilian2_6eccb8b3:
 msgid "[_lilith_] Знаешь, основная проблема Корнелии в том, что она все еще видит во мне ребенка"
@@ -1030,7 +1030,7 @@ msgstr "[_cedrick_] (Cazzo... devo pulirla in fretta prima che si svegli)."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:532 #-#-# translate crowdin lilith_no_56e4dcf9:
 msgid "[_centered_] {size=37}Пока Лилит неспешно приходит в сознание, Седрик быстро набрасывает на нее одежду и одеяло{/size}"
-msgstr "[_centered_] {Mentre Lilith riprende tranquillamente conoscenza, Cedric le getta addosso vestiti e una coperta."
+msgstr "[_centered_] {size=37}Mentre Lilith riprende tranquillamente conoscenza, Cedric le getta addosso vestiti e una coperta{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:538 #-#-# translate crowdin lilith_no_2066a511:
 msgid "[_lilith_] Але? Д-да.."
@@ -1254,7 +1254,7 @@ msgstr "[_cedrick_] (Bisogna solo aspettarla)."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:710 #-#-# translate crowdin lilith_no_5e6330ce:
 msgid "[_centered_] {size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ, У ВХОДА В КВАРТИРУ{/size}"
-msgstr "[_centered_] {Dopo un po', all'ingresso dell'appartamento."
+msgstr "[_centered_] {size=37}QUALCHE TEMPO DOPO, ALL'INGRESSO DELL'APPARTAMENTO{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:717 #-#-# translate crowdin lilith_no_303b5b6a:
 msgid "[_cornelia_] (Боже, это был сущий ад..)"
