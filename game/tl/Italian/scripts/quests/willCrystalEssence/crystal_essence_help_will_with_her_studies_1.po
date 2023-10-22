@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-20 10:44\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:6 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_1_7db1050a:
 msgid "[_cedrick_] Сьюзан, привет, ну как ты?"
@@ -314,7 +314,7 @@ msgstr "[_susan_] Va bene."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:176 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_1_70cfdf98:
 msgid "[_centered_] {size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ{/size}"
-msgstr "[_centered_] {TEMPO SIMMARIO{/size}"
+msgstr "[_centered_] {size=37}DOPO UN PO' DI TEMPO{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:178 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_1_21206c3d:
 msgid "[_susan_] Отлично, Вилл уснула. Теперь нам ничто не помешает"
