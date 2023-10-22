@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:11\n"
+"PO-Revision-Date: 2023-10-22 15:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/singles/elyonFoundBooks.rpy:10 #-#-# translate crowdin elyonFoundBooks_bc5d1268:
 msgid "[_elion_] Эмм... Рик... Кажется я нашла нужные нам книги."
@@ -38,7 +38,7 @@ msgstr "..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:25 #-#-# translate crowdin elyonFoundBooks_cf01c344:
 msgid "[_centered_] {size=37}Спустя несколько минут{/size}"
-msgstr "[_centered_] {Pochi minuti dopo."
+msgstr "[_centered_] {size=37}Pochi minuti dopo{/size}"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:32 #-#-# translate crowdin elyonFoundBooks_5c32ff77:
 msgid "[_cedrick_] ... [withDissolvey3]"
@@ -110,7 +110,7 @@ msgstr "[_cornelia_] Non essere così modesto, Rick, entra."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:83 #-#-# translate crowdin elyonFoundBooks_cf01c344_1:
 msgid "[_centered_] {size=37}Спустя несколько минут{/size}"
-msgstr "[_centered_] {Pochi minuti dopo."
+msgstr "[_centered_] {size=37}Pochi minuti dopo{/size}"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:88 #-#-# translate crowdin elyonFoundBooks_1da9ee79:
 msgid "[_cedrick_] Ох, вы здесь не одна?"
