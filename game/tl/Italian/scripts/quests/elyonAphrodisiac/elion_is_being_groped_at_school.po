@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:56\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:4 #-#-# translate crowdin elion_is_being_groped_at_school_9c285532:
 msgid "[_centered_] {size=37}Тем временем в женском туалете{/size}"
-msgstr "[_centered_] {mentre si trovava nel bagno delle donne{/size}"
+msgstr "[_centered_] {size=37}Nel frattempo nel bagno delle donne{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:8 #-#-# translate crowdin elion_is_being_groped_at_school_ff781da1:
 msgid "[_uria_] Хей-хей, приветики, Элион.."
