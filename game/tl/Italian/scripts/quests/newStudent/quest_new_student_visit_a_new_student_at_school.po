@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:7 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_51e77407:
 msgid "[_physteacher_] Рик Хоффман! Дружище"
@@ -110,7 +110,7 @@ msgstr "[_cedrick_] Fate un riscaldamento e potete giocare a pallavolo o qualcos
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:54 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_f1cbbdef:
 msgid "[_centered_] {size=37} Некоторое время спустя {/size}"
-msgstr "[_centered_] {Qualche tempo dopo {/size}"
+msgstr "[_centered_] {size=37} Qualche tempo dopo {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:57 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_a20cefa7:
 msgid "..."
@@ -142,7 +142,7 @@ msgstr "[_cedrick_] (...direi anche molti plus...basta guardarli)"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:65 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_68c31ed4:
 msgid "[_centered_] {size=37} После урока {/size}"
-msgstr "[_centered_] {Dopo la classe {/size=37}"
+msgstr "[_centered_] {size=37} Dopo la classe {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:68 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_7c75ccd5:
 msgid "[_cedrick_] На этом занятие окончено... Можете идти в раздевалку..."
