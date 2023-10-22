@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 20:59\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:5 #-#-# translate crowdin getting_to_know_elyons_parents_ffa6edae:
 msgid "[_elion_] ..Рик, есть минутка?"
@@ -86,7 +86,7 @@ msgstr "[_elion_] Ahhhh, c'est vrai, désolé..."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:48 #-#-# translate crowdin getting_to_know_elyons_parents_a4e02cf2:
 msgid "[_centered_] {size=37}Вечером того же дня, в доме Браунов{/size}"
-msgstr "[_centered_] {Le soir du même jour, à la maison des Brown..."
+msgstr "[_centered_] {size=37}Le soir du même jour, à la maison des Brown{/size}"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:53 #-#-# translate crowdin getting_to_know_elyons_parents_97c599f7:
 msgid "[_elion_] Вот, Рик, это наш дом. Родители сейчас подойдут, а я пока переоденусь.."
@@ -270,7 +270,7 @@ msgstr "[_thomas_] Ahahaha..."
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:139 #-#-# translate crowdin getting_to_know_elyons_parents_92f622cd:
 msgid "[_centered_] {size=37}После долгих приятных разговоров за столом{/size}"
-msgstr "[_centered_] {Après une longue et agréable conversation autour de la table..."
+msgstr "[_centered_] {size=37}Après une longue et agréable conversation autour de la table{/size}"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:142 #-#-# translate crowdin getting_to_know_elyons_parents_c4d97223:
 msgid "[_thomas_] Ох, сколько уже времени.. Рик, кажется, вам пора домой"
