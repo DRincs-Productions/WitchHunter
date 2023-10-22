@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:12\n"
+"PO-Revision-Date: 2023-10-22 15:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:5 #-#-# translate crowdin take_elyon_home_b1056ea5:
 msgid "[_elion_] Рик, слушай.. Не мог бы ты меня сегодня проводить до дома?"
@@ -54,7 +54,7 @@ msgstr "[_cedrick_] (Naturalmente, io sono quel maniaco. Almeno l'hype mi ha aiu
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:31 #-#-# translate crowdin take_elyon_home_70f97116:
 msgid "[_centered_] {size=37}Позже вечером, в доме Браунов{/size}"
-msgstr "[_centered_] {Più tardi, in serata, a casa Brown."
+msgstr "[_centered_] {size=37}Più tardi, in serata, a casa Brown{/size}"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:34 #-#-# translate crowdin take_elyon_home_553a5159:
 msgid "[_elion_] Мы дома!"
@@ -98,7 +98,7 @@ msgstr "[_thomas_] Certo, Rick, nessun problema. In fondo al corridoio e a sinis
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:61 #-#-# translate crowdin take_elyon_home_f6d31b80:
 msgid "[_centered_] {size=37}Седрик, в поисках подозрительных вещей, натыкается на одну из комнат{/size}"
-msgstr "[_centered_] {Cedric, alla ricerca di cose sospette, si imbatte in una delle stanze{/size}."
+msgstr "[_centered_] {size=37}Cedric, alla ricerca di cose sospette, si imbatte in una delle stanze{/size}"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:65 #-#-# translate crowdin take_elyon_home_b0a4f8e5:
 msgid "[_cedrick_] (Черт, это же комната Элион..)"
