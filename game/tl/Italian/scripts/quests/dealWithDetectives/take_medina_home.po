@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:55\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:3 #-#-# translate crowdin take_medina_home_74be0a74:
 msgid "[_centered_] {size=37}СЕДРИК ОТВОДИТ МЕДИНУ ДОМОЙ, В ВЫСОТКУ, В КОТОРОЙ ТАК ЖЕ ЖИВЕТ И КОРНЕЛИЯ{/size}"
-msgstr "[_centered_] {SEDRICK PORTA A CASA MEDINA, IN CUI VIVE LA CORNELINA{/size}"
+msgstr "[_centered_] {size=37}SEDRICK PORTA A CASA MEDINA, IN CUI VIVE LA CORNELINA{/size}"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:5 #-#-# translate crowdin take_medina_home_a20cefa7:
 msgid "..."
@@ -138,7 +138,7 @@ msgstr "[_cedrick_] Giusto..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:38 #-#-# translate crowdin take_medina_home_0d6faf1e:
 msgid "[_cedrick_] (Черт, все же нужно будет использовать их.. Но это не вписывается в мои планы по сокрушению Ирмы и Тарани)"
-msgstr "[_cedrick_] (Diamine, alla fine dovremo usarli...). Ma questo non rientra nei miei piani di schiacciare Irma e Tarani)."
+msgstr "[_cedrick_] (Diamine, alla fine dovremo usarli...). Ma questo non rientra nei miei piani di schiacciare Irma e Taranee)."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:39 #-#-# translate crowdin take_medina_home_9c36ac73:
 msgid "[_cedrick_] Слушай, Медина.. А ты не могла бы мне помочь?"
@@ -242,7 +242,7 @@ msgstr "[_medina_] Uhhhh... Ok, stallone, credo di essere tornato in me. Possiam
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:68 #-#-# translate crowdin take_medina_home_2591e795:
 msgid "[_centered_] {size=37}МЕДИНА ДОВОЗИТ СЕДРИКА ДО КНИЖНОГО МАГАЗИНА{/size}"
-msgstr "[_centered_] {MEDINA GUIDA CEDRIC A BOOK MAGAZINE{/size}"
+msgstr "[_centered_] {size=37}MEDINA GUIDA CEDRIC A BOOK MAGAZINE{/size}"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:73 #-#-# translate crowdin take_medina_home_e54fd4f2:
 msgid "[_medina_] Ну вот, мы здесь"
@@ -474,7 +474,7 @@ msgstr "[_elion_] Ok, ehm..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:198 #-#-# translate crowdin take_medina_home_f5c04d54:
 msgid "[_cedrick_] (Хм.. Медина устроит все через два дня.. За это время я должен расправиться с Ирмой и Тарани. Они явно будут мне мешать наладить контакт с Вилл..)"
-msgstr "[_cedrick_] (Hmm... Medina sistemerà tutto in due giorni. In questo periodo devo occuparmi di Irma e Tarani. Ovviamente mi ostacoleranno nel prendere contatto con Will...)."
+msgstr "[_cedrick_] (Hmm... Medina sistemerà tutto in due giorni. In questo periodo devo occuparmi di Irma e Taranee. Ovviamente mi ostacoleranno nel prendere contatto con Will...)."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:199 #-#-# translate crowdin take_medina_home_2792c972:
 msgid "[_cedrick_] (Я мог бы вновь попробовать справиться с ними и сам, но, хм.. Время полагаться только на себя прошло.. Стоит признать, что в этом бою мне не помешала бы помощь)"
