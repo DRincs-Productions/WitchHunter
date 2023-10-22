@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:14\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/paizuriTarani.rpy:5 #-#-# translate crowdin paizuriTarani_54173553:
 msgid "[_cedrick_] И так, класс, сегодня вас ждет новая контрольная работа. Надеюсь все успели подготовиться"
@@ -38,7 +38,7 @@ msgstr "[_cedrick_] (Oh, comme il s'avère, pas à tout)"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:12 #-#-# translate crowdin paizuriTarani_d4706847:
 msgid "[_centered_] {size=37}После урока..{/size}"
-msgstr "[_centered_] {Après la leçon..."
+msgstr "[_centered_] {size=37}Après la leçon..{/size}"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:18 #-#-# translate crowdin paizuriTarani_36adae20:
 msgid "[_cedrick_] Тарани, не поможешь мне с проверкой контрольных?"
