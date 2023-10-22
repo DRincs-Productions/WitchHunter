@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:07\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:6 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_010d3f43:
 msgid "[_vanessa_] Ох, смотрю дела у тебя стали идти куда лучше, жеребец. Расцвел на глазах, стоило тебе трахнуть пару девиц в моем борделе"
@@ -558,7 +558,7 @@ msgstr "[_cedrick_] (Nous devrions aller la voir)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:444 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_3d518c3f:
 msgid "[_centered_] {size=37} СПУСТЯ НЕКОТОРОЕ ВРЕМЯ ПЕРЕСКАЗА ПРОИЗОШЕДШЕГО {/size}"
-msgstr "[_centered_] {size=37} Dernière heure pour parler de ce qui s'est passé {/size}"
+msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:448 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a13ba10a:
 msgid "[_miranda_] Да, именно это и происходит, когда человек выпивает эссенцию.."
