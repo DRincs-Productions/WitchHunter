@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:08\n"
+"PO-Revision-Date: 2023-10-22 15:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -762,7 +762,7 @@ msgstr "[_cedrick_] Sì, proprio così. Mi sto riprendendo più velocemente"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:539 #-#-# translate crowdin defeat_morpion_king_8a969932:
 msgid "[_centered_] {size=37}В ТЕМНИЦЕ КОРНЕЛИИ {/size}"
-msgstr "[_centered_] {Nell'oscurità della Cornelia."
+msgstr "[_centered_] {size=37}NELLA SEGRETA DI CORNELIA {/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:545 #-#-# translate crowdin defeat_morpion_king_3c3f83da:
 msgid "[_cedrick_] Хм, не помню, чтобы я тебя приковывал"
@@ -1438,7 +1438,7 @@ msgstr "[_cedrick_] (È il tipo di discorso che mi fa eccitare un po'...)."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:955 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_bc588c08:
 msgid "[_centered_] {size=37}Седрик рассказывает все Миранде {/size}"
-msgstr "[_centered_] {Cedric racconta tutto a Miranda."
+msgstr "[_centered_] {size=37}Cedric racconta tutto a Miranda {/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:960 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_3c8a3003:
 msgid "[_miranda_] Что ж, все произошло прямо как по методичке"
@@ -1558,7 +1558,7 @@ msgstr "[_miranda_] OK, lo troveremo"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1057 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_462bd96e:
 msgid "[_centered_] {size=37}Седрику приводят побитого воина{/size}"
-msgstr "[_centered_] {Cedric viene portato come un guerriero malconcio."
+msgstr "[_centered_] {size=37}Cedric viene portato come un guerriero malconcio{/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1061 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_0a6593ad:
 msgid "[_broken_warrior_] Вы звали меня, Главнокомандующий Седрик?"
@@ -1882,7 +1882,7 @@ msgstr "..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1317 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_bf164ccc:
 msgid "[_cedrick_] (Так, первым делом нужно разобраться с детективами. Ирма и Тарани, несмотря на всю свою силу, всего лишь две школьницы. С ними я справлюсь, а вот с розыском сложнее..)"
-msgstr "[_cedrick_] (OK, il primo ordine del giorno è quello di occuparsi dei detective. Irma e Tarani, con tutta la loro forza, sono solo due studentesse. Posso gestirli, ma la ricerca è più difficile...)."
+msgstr "[_cedrick_] (OK, il primo ordine del giorno è quello di occuparsi dei detective. Irma e Taranee, con tutta la loro forza, sono solo due studentesse. Posso gestirli, ma la ricerca è più difficile...)."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1318 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_aed41212:
 msgid "[_cedrick_] (Там было два детектива. Медина и Мактиннен. Нужно провернуть с Мединой тот же фокус, что с Корнелией, но..)"
