@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:56\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:5 #-#-# translate crowdin elion_sniff_dicks_in_school_6dcd3cb5:
 msgid "[_uria_] А вот и снова появилась наша извращенка"
@@ -158,7 +158,7 @@ msgstr "[_cedrick_] (Uriah probabilmente tiene il telefono nel suo armadietto...
 
 # game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:57 #-#-# translate crowdin elion_sniff_dicks_in_school_42957e3d:
 msgid "[_centered_] {size=37}Позже, в коридоре во время урока{/size}"
-msgstr "[_centered_] {Più tardi, nel corridoio, durante le lezioni."
+msgstr "[_centered_] {size=37}Più tardi, nel corridoio, durante le lezioni{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:59 #-#-# translate crowdin elion_sniff_dicks_in_school_36445bc1:
 msgid "[_cedrick_] (Пока никого нет, воспользуюсь своей силой, чтобы взломать ящик этого урода)"
@@ -174,7 +174,7 @@ msgstr "..."
 
 # game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:67 #-#-# translate crowdin elion_sniff_dicks_in_school_a671761e:
 msgid "[_centered_] {size=37}Позже в коридоре{/size}"
-msgstr "[_centered_] {Più tardi, nel corridoio{/size}"
+msgstr "[_centered_] {size=37}Più tardi, nel corridoio{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:71 #-#-# translate crowdin elion_sniff_dicks_in_school_a2acf706:
 msgid "[_uria_] Эй, ублюдки, кто сломал мой ящик? Где мой телефон?"
