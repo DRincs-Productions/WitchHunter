@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:14\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:5 #-#-# translate crowdin tryToBlowjobByTarani_8ee11483:
 msgid "[_cedrick_] Новый день – новый путь к знаниям. А то, как вы усвоили предыдущие знания на моем уроке, мы узнаем с помощью проверочной работы"
@@ -18,7 +18,7 @@ msgstr "[_cedrick_] Un nouveau jour est un nouveau chemin vers la connaissance. 
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:8 #-#-# translate crowdin tryToBlowjobByTarani_c1696a59:
 msgid "[_centered_] {size=37}после проведенной контрольной работы{/size}"
-msgstr "[_centered_] {size=37} après le test {/size}"
+msgstr "[_centered_] {size=37}après le test{/size}"
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:13 #-#-# translate crowdin tryToBlowjobByTarani_ee17437a:
 msgid "[_cedrick_] Тарани, не останешься помочь мне с проверкой?"
