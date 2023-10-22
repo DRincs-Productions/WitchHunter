@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:00\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:6 #-#-# translate crowdin get_a_flower_with_a_red_core_74ddd4ae:
 msgid "[_amalia_] Вы нашли ее? "
@@ -54,7 +54,7 @@ msgstr "[_amalia_] Je l'ai trouvée ! Je sais où se trouve cette fleur !"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:41 #-#-# translate crowdin get_a_flower_with_a_red_core_bbf43d2a:
 msgid "[_centered_] {size=37}Спустя некоторое время в лесу меридиана {/size}"
-msgstr "[_centered_] {Après un certain temps dans la forêt méridienne."
+msgstr "[_centered_] {size=37}Après un certain temps dans la forêt méridienne {/size}"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:47 #-#-# translate crowdin get_a_flower_with_a_red_core_b8b2302f:
 msgid "[_cedrick_] Что вас связывает с Евангелиной?"
