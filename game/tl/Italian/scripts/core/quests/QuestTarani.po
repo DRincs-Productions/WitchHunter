@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-20 10:44\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestTarani.rpy:3
 msgid "Тарани Кук"
@@ -54,11 +54,11 @@ msgstr "Porta il microfono a Bess e Courtney e scopri la storia di Taranee"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Попросить Бланка сделать фотографии Найджела"
-msgstr "Chiedete a Blank di fotografare Nigel"
+msgstr "Chiedete a Blunk di fotografare Nigel"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Достать фотоаппарат для Бланка"
-msgstr "Ottenere una fotocamera per Blank"
+msgstr "Ottenere una fotocamera per Blunk"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Узнать у миранды где достать Ноздрю дракона"
@@ -70,11 +70,11 @@ msgstr "Ottenere una zanna Larvek per Miranda in cambio della narice di drago."
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Отдать Бланку Ноздрю дракона и фотоаппарат"
-msgstr "Dare a Blanca la narice di drago e la macchina fotografica"
+msgstr "Dare a Blunk la narice di drago e la macchina fotografica"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Дождаться когда Бланк сделает фотографии Найджела и забрать их"
-msgstr "Attendiamo che Blank scatti le foto di Nigel e le ritiri."
+msgstr "Attendiamo che Blunk scatti le foto di Nigel e le ritiri"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Шантажировать Тарани фотографиями Найджела"
@@ -94,11 +94,11 @@ msgstr "Visita a Taranee a casa sua"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Попросить Бланка сделать новые фотографии Найджела"
-msgstr "Chiedere a Blank di scattare nuove foto di Nigel"
+msgstr "Chiedere a Blunk di scattare nuove foto di Nigel"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Добыть Бланку золотую цепочку либо найти ему девушку для секса"
-msgstr "Procurare a Blanca una catenina d'oro o trovargli una ragazza con cui fare sesso"
+msgstr "Procurare a Blunk una catenina d'oro o trovargli una ragazza con cui fare sesso"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Навестить Тарани у нее дома вечером и показать ей фотографии Найджела"
