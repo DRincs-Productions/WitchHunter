@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:18\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:3 #-#-# translate crowdin crystal_essence_2_go_to_will_home_8f648b59:
 msgid "[_centered_] {size=37}В ДОМЕ СЕМЕЙСТВА ВЭНДОМ{/size}"
-msgstr "[_centered_] {DANS LA MAISON DE WENDOM{/size}"
+msgstr "[_centered_] {size=37}DANS LA MAISON DE WENDOM{/size}"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:6 #-#-# translate crowdin crystal_essence_2_go_to_will_home_e0f1bceb:
 msgid "[_cedrick_] Хей, Сьюзан, Вилл, я дома!"
@@ -290,7 +290,7 @@ msgstr "[_cedrick_] (Je devrais probablement y aller, elle pourrait me remarquer
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:114 #-#-# translate crowdin crystal_essence_2_go_to_will_home_a9265ce9:
 msgid "[_centered_] {size=37}ПОЗЖЕ НА КУХНЕ{/size}"
-msgstr "[_centered_] {PLUS TARD DANS LA CUISINE{/size}"
+msgstr "[_centered_] {size=37}PLUS TARD DANS LA CUISINE{/size}"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:117 #-#-# translate crowdin crystal_essence_2_go_to_will_home_ffd7540e:
 msgid "[_susan_] ..."
