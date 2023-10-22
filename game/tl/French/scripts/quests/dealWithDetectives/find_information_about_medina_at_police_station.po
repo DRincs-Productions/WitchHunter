@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 20:55\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:6 #-#-# translate crowdin find_information_about_medina_at_police_station_64ccdda3:
 msgid "[_cedrick_] (Есть. Детектив Медина.. Ого, на нее здесь целый архив — это как раз то, что мне нужно)"
@@ -134,7 +134,7 @@ msgstr "[_cedrick_] (Je pense que ça pourrait me servir aussi, je vais le sauve
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:61 #-#-# translate crowdin find_information_about_medina_at_police_station_ddb35c30:
 msgid "[_centered_] {size=37}СЕДРИК УХОДИТ ИЗ ПОЛИЦЕЙСКОГО УЧАСТКА{/size}"
-msgstr "[_centered_] {SEDRICK SORT DU BUREAU DE POLICE{/size}"
+msgstr "[_centered_] {size=37}SEDRICK SORT DU BUREAU DE POLICE{/size}"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:64 #-#-# translate crowdin find_information_about_medina_at_police_station_ad12e0c3:
 msgid "[_cedrick_] (Стоп, кто это там идет к машине на парковке.. Это что.. Медина!?)"
@@ -170,7 +170,7 @@ msgstr "[_cedrick_] (Mais, quand même...)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:76 #-#-# translate crowdin find_information_about_medina_at_police_station_951a6c19:
 msgid "[_centered_] {size=37}Седрик принимает форму змея и быстро хватает Медину{/size}"
-msgstr "[_centered_] {Cedric prend la forme d'un cerf-volant et attrape rapidement Medina."
+msgstr "[_centered_] {size=37}Cedric prend la forme d'un cerf-volant et attrape rapidement Medina{/size}"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:81 #-#-# translate crowdin find_information_about_medina_at_police_station_3dd3f618:
 msgid "[_medina_] Ч-что!? Оооо боже, нет нет нет... ч-что ты за чудовище!?"
