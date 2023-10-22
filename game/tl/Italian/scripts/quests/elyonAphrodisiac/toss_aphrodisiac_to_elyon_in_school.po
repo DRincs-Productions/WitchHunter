@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:56\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:5 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_93f5b332:
 msgid "[_cedrick_] (осталось добавить афродизиак в кофе)"
@@ -38,7 +38,7 @@ msgstr "[_cedrick_] (Senza un insegnante a questo punto, gli studenti ed Elion n
 
 # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:23 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_d3204e6c:
 msgid "[_centered_] {size=37}Позже, после урока{/size}"
-msgstr "[_centered_] {Più tardi, dopo la lezione{/size}"
+msgstr "[_centered_] {size=37}Più tardi, dopo la lezione{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:27 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_6b14704b:
 msgid "[_cedrick_] И так, класс, первый урок закончен. Я ненадолго отлучусь, а после мы еще раз повторим основы Права Византийской империи 4 века нашей эры"
@@ -54,7 +54,7 @@ msgstr "[_haylin_] Almeno questa volta senza il test..."
 
 # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:34 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_576697a3:
 msgid "[_centered_] {size=37}На перемене{/size}"
-msgstr "[_centered_] {All'intervallo{/size}"
+msgstr "[_centered_] {size=37}All'intervallo{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:39 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_15f4035e:
 msgid "[_elion_] (Д-да что со мной такое.. Я весь урок не могла сосредоточиться, в голову все время лезли странные мысли..)"
@@ -134,7 +134,7 @@ msgstr "[_guy_] Ehi, Elyon, se sei così impaziente, possiamo andare a casa mia 
 
 # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:72 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_4a7238b2:
 msgid "[_centered_] {size=37}Элион выбегает из класса{/size}"
-msgstr "[_centered_] {Elion finisce la classe{/size}"
+msgstr "[_centered_] {size=37}Elion finisce la classe{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:76 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_f56b30c0:
 msgid "[_cedrick_] Так, что за хрень тут происходит? Почему Элион убежала из класса?"
@@ -154,5 +154,5 @@ msgstr "[_cedrick_] (A quanto pare l'afrodisiaco ha funzionato bene, alla grande
 
 # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:82 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_52227770:
 msgid "[_centered_] {size=37}По школе начали разноситься слухи о том, что Элион мастурбировала прямо во время перемены{/size}"
-msgstr "[_centered_] {Si diffuse la voce che Elion si masturbasse durante la ricreazione."
+msgstr "[_centered_] {size=37}Si diffuse la voce che Elion si masturbasse durante la ricreazione{/size}"
 
