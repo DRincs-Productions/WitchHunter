@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 20:58\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/goToConcert.rpy:5 #-#-# translate crowdin goToConcert_a20cefa7:
 msgid "..."
@@ -54,7 +54,7 @@ msgstr "[_cornelia_] Vous aussi..."
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:35 #-#-# translate crowdin goToConcert_cc1c311c:
 msgid "[_centered_] {size=37}Спустя 20 минут на концерте{/size}"
-msgstr "[_centered_] {20 minutes après le début du concert..."
+msgstr "[_centered_] {size=37}20 minutes après le début du concert{/size}"
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:42 #-#-# translate crowdin goToConcert_a20cefa7_2:
 msgid "..."
