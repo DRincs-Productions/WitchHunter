@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 20:54\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:8 #-#-# translate crowdin crush_irma_and_taranee_96c6aca9:
 msgid "[_tarani_] Н-нет, стой.. Как же.. Я не могла проиграть.. Ч-черт, ноги не слушаются.. Я слишком слаба.."
@@ -258,7 +258,7 @@ msgstr "[_cedrick_] D-damn... Nous avons besoin de potions..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:121 #-#-# translate crowdin crush_irma_and_taranee_42c7c647:
 msgid "[_centered_] {size=37}Рик принимает 5 зелий восстановления магической силы{/size}"
-msgstr "[_centered_] {Rick a besoin de 5 potions pour restaurer sa puissance magique."
+msgstr "[_centered_] {size=37}Rick a besoin de 5 potions pour restaurer sa puissance magique{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:125 #-#-# translate crowdin crush_irma_and_taranee_99cf4cf0:
 msgid "[_cedrick_] Миранда, не поможешь избавиться от паутины?"
