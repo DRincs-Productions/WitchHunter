@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:58\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:8 #-#-# translate crowdin askBlankGetTickets_8d5f0563:
 msgid "[_cedrick_] Эй, спекулянт!"
@@ -18,7 +18,7 @@ msgstr "[_cedrick_] Ehi, speculatore!"
 
 # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:12 #-#-# translate crowdin askBlankGetTickets_aa5a1186:
 msgid "[_blank_] Бланк не спекулянт! Бланк бизнесмен!"
-msgstr "[_blank_] Blank non è uno speculatore! Blank è un uomo d'affari!"
+msgstr "[_blank_] Blunk non è uno speculatore! Blunk è un uomo d'affari!"
 
 # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:16 #-#-# translate crowdin askBlankGetTickets_f56385c8:
 msgid "[_cedrick_] Не важно… Сможешь достать три билета на концерт Сортирного Союза?"
@@ -34,7 +34,7 @@ msgstr "[_cedrick_] È quando le persone si riuniscono per ascoltare musicisti c
 
 # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:19 #-#-# translate crowdin askBlankGetTickets_81e58b07:
 msgid "[_blank_] Аа, концерт! Бланк знать!"
-msgstr "[_blank_] Ah, il concerto! Modulo da conoscere!"
+msgstr "[_blank_] Ah, il concerto! Blunk da conoscere!"
 
 # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:20 #-#-# translate crowdin askBlankGetTickets_6d475842:
 msgid "[_cedrick_] Так ты сможешь достать мне билеты?"
@@ -42,7 +42,7 @@ msgstr "[_cedrick_] Allora, puoi procurarmi i biglietti?"
 
 # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:21 #-#-# translate crowdin askBlankGetTickets_42fd7efa:
 msgid "[_blank_] Бланк сможет! Бланк хочет модный футболка за концерт!"
-msgstr "[_blank_] Blank può farlo! Blank vuole una maglietta elegante per il concerto!"
+msgstr "[_blank_] Blunk può farlo! Blunk vuole una maglietta elegante per il concerto!"
 
 # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:22 #-#-# translate crowdin askBlankGetTickets_479f8dbd:
 msgid "[_cedrick_] Хорошо, будет тебе футболка..."
