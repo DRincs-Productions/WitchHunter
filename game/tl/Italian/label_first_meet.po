@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:38\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/label_first_meet.rpy:4 #-#-# translate crowdin first_meet_8bd86d07:
 msgid "[_cedrick_] Что-ж, пока никто сюда не явился, самое время начать изучать местные книги"
@@ -18,7 +18,7 @@ msgstr "[_cedrick_] Visto che non c'è nessuno, è ora di iniziare a studiare i 
 
 # game/label_first_meet.rpy:6 #-#-# translate crowdin first_meet_70cfdf98:
 msgid "[_centered_] {size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ{/size}"
-msgstr "[_centered_] {TEMPO SIMMARIO{/size}"
+msgstr "[_centered_] {size=37}DOPO UN PO' DI TEMPO{/size}"
 
 # game/label_first_meet.rpy:10 #-#-# translate crowdin first_meet_7d5cbc05:
 msgid "[_cedrick_] Хм, в целом, как я и предполагал, здешняя речь построена куда проще нашей, но при этом имеет куда больше простолюдинских слов и выражений"
