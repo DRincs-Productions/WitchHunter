@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:39\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/elion_get_job.rpy:3 #-#-# translate crowdin elion_get_job_1a809d14:
 msgid "Привет."
@@ -110,7 +110,7 @@ msgstr "[_elion_] Ok. Grazie per l'aiuto! Ci vediamo domani."
 
 # game/scripts/bookshop/elion_get_job.rpy:124 #-#-# translate crowdin menu2_next_060244a0:
 msgid "[_centered_] {size=37}На следующий день..{/size}"
-msgstr "[_centered_] {Il giorno dopo..."
+msgstr "[_centered_] {size=37}Il giorno dopo..{/size}"
 
 # §translate crowdin strings: #|#|# # game/scripts/bookshop/elion_get_job.rpy:14
 msgid "Конелия, Хелион"
