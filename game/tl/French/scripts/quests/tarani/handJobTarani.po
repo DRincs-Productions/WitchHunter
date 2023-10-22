@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:13\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/handJobTarani.rpy:7 #-#-# translate crowdin handJobTarani_210ec95d:
 msgid "[_cedrick_] Приветствую вас, ученики. Надеюсь вы хорошенько отдохнули на выходных!"
@@ -22,7 +22,7 @@ msgstr "[_cedrick_] Aujourd'hui, nous allons étudier...."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:12 #-#-# translate crowdin handJobTarani_052d0123:
 msgid "[_centered_] {size=37}Спустя некоторое время..{/size}"
-msgstr "[_centered_] {size=37}"
+msgstr ""
 
 # game/scripts/quests/tarani/handJobTarani.rpy:16 #-#-# translate crowdin handJobTarani_af7d75e7:
 msgid "[_cedrick_] На этом все! Не забудьте повторить пройденный материал..."
