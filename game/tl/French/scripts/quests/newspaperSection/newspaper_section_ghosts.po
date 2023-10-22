@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:5 #-#-# translate crowdin newspaper_section_ghosts_a20cefa7:
 msgid "..."
@@ -50,7 +50,7 @@ msgstr "[_cedrick_] (bien... On dirait que c'est bon, c'est l'heure de la leçon
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:31 #-#-# translate crowdin newspaper_section_ghosts_3fa7d135:
 msgid "[_centered_] {size=36}Через несколько минут на уроке{/size}"
-msgstr "[_centered_] {Quelques minutes après le début du cours..."
+msgstr "[_centered_] {size=36}Quelques minutes après le début du cours{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:34 #-#-# translate crowdin newspaper_section_ghosts_8e4c008d:
 msgid "[_cedrick_] Всем здравствуйте. Сегодня у нас новая тема. Мы начнем изучать события, которые происходили в Бронзовом Веке в Европе."
