@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/need_sensation.rpy:6 #-#-# translate crowdin need_sensation_3a6e34d5:
 msgid "[_bess_] А давайте напишем про, то что директриса завела роман с одним из учеников!"
@@ -202,7 +202,7 @@ msgstr "[_irma_] Allons-y. Nous devons le trouver, nous ne pouvons pas le laisse
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:177 #-#-# translate crowdin need_sensation_5f7c243f:
 msgid "[_centered_] {size=36}Через пару минут в столовой{/size}"
-msgstr "[_centered_] {Quelques minutes plus tard, dans la salle à manger..."
+msgstr "[_centered_] {size=36}Quelques minutes plus tard, dans la salle à manger{/size}"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:182 #-#-# translate crowdin need_sensation_a8f384ea:
 msgid "[_cedrick_] Чем ты тут занимаешься?"
