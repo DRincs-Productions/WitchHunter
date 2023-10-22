@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:17\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:6 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_1_7db1050a:
 msgid "[_cedrick_] Сьюзан, привет, ну как ты?"
@@ -34,7 +34,7 @@ msgstr "[_cedrick_] D’accord"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:18 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_1_2a3769d6:
 msgid "[_centered_] {size=37}В КОМНАТЕ ВИЛЛ{/size}"
-msgstr "[_centered_] {DANS LA CHAMBRE DE LA VILLA{/size}"
+msgstr "[_centered_] {size=37}DANS LA CHAMBRE DE LA VILLA{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:24 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_1_fabc31f8:
 msgid "[_will_] Рик, привет! А я как раз тебя ждала. Ну что, приступим к подготовке? Давай начнем быстрее, не хочу пропустить сериал сегодня вечером"
@@ -250,7 +250,7 @@ msgstr "[_cedrick_] Nous sommes en route !"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:146 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_1_96b5a3ea:
 msgid "[_centered_] {size=37}Чуть позже вечером...{/size}"
-msgstr "[_centered_] {Un peu plus tard dans la soirée...{/size}"
+msgstr "[_centered_] {size=37}Un peu plus tard dans la soirée...{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:150 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_1_ce055e80:
 msgid "[_cedrick_] (Воу, а этот Омнимен довольно крут. Жесткость, решительность, хладнокровие, четкость действий, скрытые манипуляции)"
