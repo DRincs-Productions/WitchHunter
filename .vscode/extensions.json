@@ -4,8 +4,6 @@
 	"recommendations": [
 		"luquedaniel.languague-renpy",
 		"ms-python.python",
-		"ms-vscode.powershell",
-		"mrorz.language-gettext",
-		"ms-python.black-formatter"
+		"mrorz.language-gettext"
 	]
 }

@@ -56,6 +56,7 @@ dict = {
     r'§§§§§§§§':                            r'\\'+'"',
     r'# TODO: Translation updated at (.*?)-(.*?)-(.*?) (.*?):(.*?) #\|#\|# # §translate ': r'# TODO: Translation updated at \1-\2-\3 \4:\5\n\ntranslate ',
     r'\n# §translate':                      r'\ntranslate',
+    r'\n#§translate':                       r'\ntranslate',
 }
 
 
