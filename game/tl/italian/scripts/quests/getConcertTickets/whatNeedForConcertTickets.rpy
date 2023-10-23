@@ -4,7 +4,7 @@
 translate italian whatNeedForConcertTickets_4b05d954:
 
     # blank "Ты принес модный футболка для бланк?"
-    blank "Hai portato una maglietta elegante per il modulo?"
+    blank "Hai portato una maglietta elegante per Blunk?"
 
 # game/scripts/quests/getConcertTickets/whatNeedForConcertTickets.rpy:8
 translate italian whatNeedForConcertTickets_b2bff8c9:

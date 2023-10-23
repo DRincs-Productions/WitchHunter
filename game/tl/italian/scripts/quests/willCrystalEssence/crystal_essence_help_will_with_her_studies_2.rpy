@@ -4,7 +4,7 @@
 translate italian crystal_essence_help_will_with_her_studies_2_a9395fd6:
 
     # centered "{size=37}НА СЛЕДУЮЩИЙ ДЕНЬ, УТРОМ{/size}"
-    centered "{L'indomani, al mattino, la mattina, il giorno dopo."
+    centered "{size=37}IL GIORNO DOPO, MATTINA{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:9
 translate italian crystal_essence_help_will_with_her_studies_2_5b016cc1:
@@ -148,7 +148,7 @@ translate italian crystal_essence_help_will_with_her_studies_2_0f8a9103:
 translate italian crystal_essence_help_will_with_her_studies_2_4ec9bbe2:
 
     # centered "{size=37}Позже на кухне{/size}"
-    centered "{Più tardi in cucina{/size}"
+    centered "{size=37}Più tardi in cucina{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:66
 translate italian crystal_essence_help_will_with_her_studies_2_c9023d23:
@@ -376,7 +376,7 @@ translate italian crystal_essence_help_will_with_her_studies_2_3f15ffcd:
 translate italian crystal_essence_help_will_with_her_studies_2_a1237172:
 
     # centered "{size=37}СПУСТЯ ПАРУ ЧАСОВ{/size}"
-    centered "{SOMMERSO UN PO' DI ORE{/size}"
+    centered "{size=37}SOMMERSO UN PO' DI ORE{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:152
 translate italian crystal_essence_help_will_with_her_studies_2_befe961d:

@@ -34,7 +34,7 @@ translate french crystal_essence_help_will_with_her_studies_1_91d5a55e:
 translate french crystal_essence_help_will_with_her_studies_1_2a3769d6:
 
     # centered "{size=37}В КОМНАТЕ ВИЛЛ{/size}"
-    centered "{DANS LA CHAMBRE DE LA VILLA{/size}"
+    centered "{size=37}DANS LA CHAMBRE DE LA VILLA{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:24
 translate french crystal_essence_help_will_with_her_studies_1_fabc31f8:
@@ -358,7 +358,7 @@ translate french crystal_essence_help_will_with_her_studies_1_32602dd2:
 translate french crystal_essence_help_will_with_her_studies_1_96b5a3ea:
 
     # centered "{size=37}Чуть позже вечером...{/size}"
-    centered "{Un peu plus tard dans la soirée...{/size}"
+    centered "{size=37}Un peu plus tard dans la soirée...{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:150
 translate french crystal_essence_help_will_with_her_studies_1_ce055e80:

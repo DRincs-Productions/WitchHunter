@@ -16,7 +16,7 @@ translate italian askBlankAboutSpyingOnNigel_7a5bcbb7:
 translate italian askBlankAboutSpyingOnNigel_233e2839:
 
     # blankChar "Бланк знает! Он видеть!"
-    blankChar "Blank lo sa! Lui vede!"
+    blankChar "Blunk lo sa! Lui vede!"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:13
 translate italian askBlankAboutSpyingOnNigel_4a4e8c2d:
@@ -46,7 +46,7 @@ translate italian askBlankAboutSpyingOnNigel_af8dfc9d:
 translate italian askBlankAboutSpyingOnNigel_4eb7c59a:
 
     # blankChar "Бланк хотеть за это награду!"
-    blankChar "Il modulo vuole una ricompensa per questo!"
+    blankChar "Blunk vuole una ricompensa per questo!"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:18
 translate italian askBlankAboutSpyingOnNigel_5c051e39:
@@ -58,7 +58,7 @@ translate italian askBlankAboutSpyingOnNigel_5c051e39:
 translate italian askBlankAboutSpyingOnNigel_2de0d10e:
 
     # blankChar "Бланку нужна ноздря дракона!"
-    blankChar "Blank ha bisogno di una narice di drago!"
+    blankChar "Blunk ha bisogno di una narice di drago!"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:20
 translate italian askBlankAboutSpyingOnNigel_0726e0c7:
@@ -70,7 +70,7 @@ translate italian askBlankAboutSpyingOnNigel_0726e0c7:
 translate italian askBlankAboutSpyingOnNigel_b3c58e7b:
 
     # blankChar "Это забота не Бланка! Принеси ноздрю дракона и Бланк сделает то, что ты просишь!"
-    blankChar "Non è un problema di Blank! Portate la narice del drago e Blanc farà ciò che chiedete!"
+    blankChar "Non è un problema di Blunk! Portate la narice del drago e Blunk farà ciò che chiedete!"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:23
 translate italian askBlankAboutSpyingOnNigel_a20cefa7:

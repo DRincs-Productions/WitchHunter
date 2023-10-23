@@ -148,7 +148,7 @@ translate italian quest_new_student_visit_a_new_student_at_school_cc29f09c:
 translate italian quest_new_student_visit_a_new_student_at_school_f1cbbdef:
 
     # centered "{size=37} Некоторое время спустя {/size}"
-    centered "{Qualche tempo dopo {/size}"
+    centered "{size=37} Qualche tempo dopo {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:57
 translate italian quest_new_student_visit_a_new_student_at_school_a20cefa7:
@@ -196,7 +196,7 @@ translate italian quest_new_student_visit_a_new_student_at_school_7b91a7c2:
 translate italian quest_new_student_visit_a_new_student_at_school_68c31ed4:
 
     # centered "{size=37} После урока {/size}"
-    centered "{Dopo la classe {/size=37}"
+    centered "{size=37} Dopo la classe {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:68
 translate italian quest_new_student_visit_a_new_student_at_school_7c75ccd5:

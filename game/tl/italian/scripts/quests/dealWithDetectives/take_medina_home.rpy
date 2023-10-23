@@ -4,7 +4,7 @@
 translate italian take_medina_home_74be0a74:
 
     # centered "{size=37}СЕДРИК ОТВОДИТ МЕДИНУ ДОМОЙ, В ВЫСОТКУ, В КОТОРОЙ ТАК ЖЕ ЖИВЕТ И КОРНЕЛИЯ{/size}"
-    centered "{SEDRICK PORTA A CASA MEDINA, IN CUI VIVE LA CORNELINA{/size}"
+    centered "{size=37}SEDRICK PORTA A CASA MEDINA, IN CUI VIVE LA CORNELINA{/size}"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:5
 translate italian take_medina_home_a20cefa7:
@@ -190,7 +190,7 @@ translate italian take_medina_home_d6c98e9e:
 translate italian take_medina_home_0d6faf1e:
 
     # cedrick "(Черт, все же нужно будет использовать их.. Но это не вписывается в мои планы по сокрушению Ирмы и Тарани)"
-    cedrick "(Diamine, alla fine dovremo usarli...). Ma questo non rientra nei miei piani di schiacciare Irma e Tarani)."
+    cedrick "(Diamine, alla fine dovremo usarli...). Ma questo non rientra nei miei piani di schiacciare Irma e Taranee)."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:39
 translate italian take_medina_home_9c36ac73:
@@ -346,7 +346,7 @@ translate italian take_medina_home_680b4163:
 translate italian take_medina_home_2591e795:
 
     # centered "{size=37}МЕДИНА ДОВОЗИТ СЕДРИКА ДО КНИЖНОГО МАГАЗИНА{/size}"
-    centered "{MEDINA GUIDA CEDRIC A BOOK MAGAZINE{/size}"
+    centered "{size=37}MEDINA GUIDA CEDRIC A BOOK MAGAZINE{/size}"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:73
 translate italian take_medina_home_e54fd4f2:
@@ -694,7 +694,7 @@ translate italian take_medina_home_839627de:
 translate italian take_medina_home_f5c04d54:
 
     # cedrick "(Хм.. Медина устроит все через два дня.. За это время я должен расправиться с Ирмой и Тарани. Они явно будут мне мешать наладить контакт с Вилл..)"
-    cedrick "(Hmm... Medina sistemerà tutto in due giorni. In questo periodo devo occuparmi di Irma e Tarani. Ovviamente mi ostacoleranno nel prendere contatto con Will...)."
+    cedrick "(Hmm... Medina sistemerà tutto in due giorni. In questo periodo devo occuparmi di Irma e Taranee. Ovviamente mi ostacoleranno nel prendere contatto con Will...)."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:199
 translate italian take_medina_home_2792c972:

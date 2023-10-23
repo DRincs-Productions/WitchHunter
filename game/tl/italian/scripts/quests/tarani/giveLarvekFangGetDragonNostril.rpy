@@ -214,7 +214,7 @@ translate italian giveLarvekFangGetDragonNostril_bd8c3f50_1:
 translate italian giveLarvekFangGetDragonNostril_d5491921:
 
     # cedrick "(Что ж я отлизал Миранде… И ушел неудовлетворенным… Но зато мне удалось добыть Ноздрю дракона и мне осталось только отдать ее Бланку.)"
-    cedrick "(Beh, ho leccato Miranda… e me ne sono andato insoddisfatto… Ma sono riuscito a prendere la narice del drago e tutto quello che dovevo fare era darla a Blanca)."
+    cedrick "(Beh, ho leccato Miranda… e me ne sono andato insoddisfatto… Ma sono riuscito a prendere la narice del drago e tutto quello che dovevo fare era darla a Blunk)"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:95
 translate italian giveLarvekFangGetDragonNostril_47d4b5d9:

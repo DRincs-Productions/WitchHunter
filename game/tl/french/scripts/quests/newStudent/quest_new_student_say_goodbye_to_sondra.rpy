@@ -118,7 +118,7 @@ translate french quest_new_student_say_goodbye_to_sondra_c499df9f:
 translate french quest_new_student_say_goodbye_to_sondra_4abd48c7:
 
     # centered "{size=37} После уроков в кабинете истории{/size}"
-    centered "{Après les cours, dans la salle d'histoire{/size}"
+    centered "{size=37} Après les cours, dans la salle d'histoire{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:53
 translate french quest_new_student_say_goodbye_to_sondra_a20cefa7:

@@ -64,7 +64,7 @@ translate italian buyCat_49316299_1:
 translate italian buyCat_b6f23bd3:
 
     # blank "Прощай, полководец. Бланк не забудет твою эпическую схватку возле мусорных баков за кусок колбасы"
-    blank "Addio, signore della guerra. Blank non dimenticherà la tua epica lotta accanto alle pattumiere per un pezzo di salsiccia."
+    blank "Addio, signore della guerra. Blunk non dimenticherà la tua epica lotta accanto alle pattumiere per un pezzo di salsiccia"
 
 # game/scripts/quests/giftForLilian/buyCat.rpy:29
 translate italian buyCat_13d306e4:

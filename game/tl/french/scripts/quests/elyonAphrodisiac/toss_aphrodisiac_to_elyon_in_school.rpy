@@ -184,7 +184,7 @@ translate french toss_aphrodisiac_to_elyon_in_school_5bc1f49e:
 translate french toss_aphrodisiac_to_elyon_in_school_4a7238b2:
 
     # centered "{size=37}Элион выбегает из класса{/size}"
-    centered "{Elion n'a plus de classe."
+    centered "{size=37}Elion n'a plus de classe{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:76
 translate french toss_aphrodisiac_to_elyon_in_school_f56b30c0:
@@ -214,5 +214,5 @@ translate french toss_aphrodisiac_to_elyon_in_school_34e02628:
 translate french toss_aphrodisiac_to_elyon_in_school_52227770:
 
     # centered "{size=37}По школе начали разноситься слухи о том, что Элион мастурбировала прямо во время перемены{/size}"
-    centered "{Des rumeurs ont commencé à circuler dans l'école disant qu'Elion se masturbait pendant la récréation."
+    centered "{size=37}Des rumeurs ont commencé à circuler dans l'école disant qu'Elion se masturbait pendant la récréation{/size}"
 

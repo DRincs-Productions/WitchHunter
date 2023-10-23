@@ -250,7 +250,7 @@ translate italian newspaper_section_reading_evening_d78fbae3:
 translate italian newspaper_section_reading_evening_37f5c3ed:
 
     # centered "{size=36}Через пару минут..{/size}"
-    centered "{size=36}"
+    centered "{size=36}Tra pochi minuti..{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:88
 translate italian newspaper_section_reading_evening_a07a148f:
@@ -286,7 +286,7 @@ translate italian newspaper_section_reading_evening_644deda6:
 translate italian newspaper_section_reading_evening_463a5794:
 
     # centered "{size=36}ПОЗЖЕ, ВЕЧЕРОМ В КАБИНЕТЕ ЖУРНАЛИСТИКИ{/size}"
-    centered "{Più tardi, la sera, nell'ufficio del giornalista."
+    centered "{size=36}PIÙ TARDA SERA NELLA SEDE DEL GIORNALISMO{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:103
 translate italian newspaper_section_reading_evening_44f35d59:
@@ -328,7 +328,7 @@ translate italian newspaper_section_reading_evening_eeb1f8c2:
 translate italian newspaper_section_reading_evening_65cd7d1f:
 
     # centered "{size=36}Седрик смывает в школьный унитаз все экземпляры школьной газеты, кроме одного и отправляется в книжный магазин на вечер чтений{/size}"
-    centered "{Cedric butta nel cesso tutte le copie del giornale scolastico, tranne una, e si dirige verso la libreria per una serata di lettura."
+    centered "{size=36}Cedric butta nel cesso tutte le copie del giornale scolastico, tranne una, e si dirige verso la libreria per una serata di lettura{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:125
 translate italian newspaper_section_reading_evening_cf3bf492:
@@ -490,7 +490,7 @@ translate italian newspaper_section_reading_evening_a20cefa7_6:
 translate italian newspaper_section_reading_evening_f7a8d2cf:
 
     # centered "{size=36}Спустя некоторое время{/size}"
-    centered "{Dopo un po' di tempo{/size}"
+    centered "{size=36}Dopo un po' di tempo{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:214
 translate italian newspaper_section_reading_evening_47f0bc83:
@@ -706,7 +706,7 @@ translate italian newspaper_section_reading_evening_154e4513:
 translate italian newspaper_section_reading_evening_66c459e1:
 
     # centered "{size=36}Спустя пять минут{/size}"
-    centered "{Cinque minuti più tardi."
+    centered "{size=36}Cinque minuti più tardi{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:311
 translate italian newspaper_section_reading_evening_78ec2351:
@@ -916,7 +916,7 @@ translate italian newspaper_section_reading_evening_05e03ccb:
 translate italian newspaper_section_reading_evening_30889e67:
 
     # centered "{size=36}В общем зале книжного магазина{/size}"
-    centered "{Nella sala comune di una libreria{/size}"
+    centered "{size=36}Nella sala comune di una libreria{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:367
 translate italian newspaper_section_reading_evening_0eab2fd8:

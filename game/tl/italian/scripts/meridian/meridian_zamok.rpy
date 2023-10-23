@@ -166,7 +166,7 @@ translate italian talk_with_prince_phobos_76009a7a:
 translate italian talk_with_prince_phobos_58b5bb17:
 
     # centered "{size=37}На следующий день в книжном магазине.{/size}"
-    centered "{Il giorno dopo in libreria."
+    centered "{size=37}Il giorno dopo in libreria.{/size}"
 
 # game/scripts/meridian/meridian_zamok.rpy:119
 translate italian talk_with_prince_phobos_b89c19ce:

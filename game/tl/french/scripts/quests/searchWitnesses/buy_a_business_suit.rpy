@@ -640,7 +640,7 @@ translate french buy_a_business_suit_632ad564:
 translate french buy_a_business_suit_2617aaa4:
 
     # centered "{size=37}В УБОРНОЙ{/size}" with Dissolve(1)
-    centered "[withDissolve1]{size=37}Dans la salle de nettoyage{/size}"
+    ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:243
 translate french buy_a_business_suit_9b16b258:
@@ -1600,7 +1600,7 @@ translate french buy_a_business_suit_aaa037a7:
 translate french buy_a_business_suit_e01f31fd:
 
     # centered "{size=37}В ТУАЛЕТЕ{/size}" with Dissolve(1)
-    centered "[withDissolve1]{Dans les toilettes{/size}"
+    ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:516
 translate french buy_a_business_suit_43c50e83:
@@ -2878,7 +2878,7 @@ translate french buy_a_business_suit_49316299_6:
 translate french buy_a_business_suit_75a0eb7b:
 
     # centered "{size=37}Позже в туалете{/size}" with Dissolve(1)
-    centered "[withDissolve1]{Plus tard dans les toilettes{/size}"
+    centered "{size=37}Plus tard dans les toilettes{/size}" with Dissolve(1)
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:870
 translate french buy_a_business_suit_f2530cd1:
@@ -3352,7 +3352,7 @@ translate french buy_a_business_suit_bdb859a5:
 translate french buy_a_business_suit_bc17dbe3:
 
     # centered "{size=37}В ЗАЛЕ СУДА{/size}" with Dissolve(1)
-    centered "[withDissolve1]{size=37}Dans la salle d'audience{/size}"
+    ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1008
 translate french buy_a_business_suit_d1f3f43d:
@@ -4390,7 +4390,7 @@ translate french buy_a_business_suit_07f5d605:
 translate french buy_a_business_suit_3aeb8b02:
 
     # centered "{size=37}СПУСТЯ НЕКОТОРОЕ ВРЕМЯ{/size}" with Dissolve(1)
-    centered "[withDissolve1]{size=37}DERNIÈRE FOIS{/size}"
+    centered "{size=37}DERNIÈRE FOIS{/size}" with Dissolve(1)
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1391
 translate french buy_a_business_suit_8d3dfc28:
@@ -4498,7 +4498,7 @@ translate french buy_a_business_suit_acea9252:
 translate french buy_a_business_suit_39ba4e36:
 
     # centered "{size=37}СПУСТЯ 5 МИНУТ{/size}" with Dissolve(1)
-    centered "[withDissolve1]{size=37}SIMMAIRE 5 MINUTES{/size}"
+    centered "{size=37}SIMMAIRE 5 MINUTES{/size}" with Dissolve(1)
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1470
 translate french buy_a_business_suit_318a6a90:
@@ -5578,7 +5578,7 @@ translate french buy_a_business_suit_0d870184:
 translate french buy_a_business_suit_c79b69df:
 
     # centered "{size=37}Через пару часов в зале суда{/size}" with Dissolve(1)
-    centered "[withDissolve1]{Quelques heures plus tard, dans la salle d'audience{/size}"
+    centered "{size=37}Quelques heures plus tard, dans la salle d'audience{/size}" with Dissolve(1)
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1870
 translate french buy_a_business_suit_cbacbf4d:

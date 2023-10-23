@@ -76,7 +76,7 @@ translate french sitWithLilian2_6adc8364:
 translate french sitWithLilian2_aa3e213b:
 
     # centered "{size=37}позже в доме хейлов{/size}"
-    centered "{Plus tard, dans la maison des Hale..."
+    centered "{size=37}plus tard, dans la maison des Hale{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:26
 translate french sitWithLilian2_b63eb2fb:
@@ -1528,7 +1528,7 @@ translate french lilith_no_a243b981:
 translate french lilith_no_56e4dcf9:
 
     # centered "{size=37}Пока Лилит неспешно приходит в сознание, Седрик быстро набрасывает на нее одежду и одеяло{/size}"
-    centered "{Alors que Lilith reprend tranquillement conscience, Cédric lui jette rapidement des vêtements et une couverture{/size}."
+    centered "{size=37}Alors que Lilith reprend tranquillement conscience, Cédric lui jette rapidement des vêtements et une couverture{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:538
 translate french lilith_no_2066a511:
@@ -1864,7 +1864,7 @@ translate french lilith_no_712e492a:
 translate french lilith_no_5e6330ce:
 
     # centered "{size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ, У ВХОДА В КВАРТИРУ{/size}"
-    centered "{Au bout d'un moment, à l'entrée de l'appartement."
+    ""
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:717
 translate french lilith_no_303b5b6a:

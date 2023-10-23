@@ -112,7 +112,7 @@ translate french will_crystal_essence_final_tough_75379283:
 translate french will_crystal_essence_final_tough_0d96e007:
 
     # centered "{size=37} НОЧЬЮ В КОМНАТЕ ВИЛЛ{/size}"
-    centered "{NUIT DANS LA CHAMBRE DE LA VILLA{/size}"
+    centered "{size=37} NUIT DANS LA CHAMBRE DE LA VILLA{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_tough.rpy:61
 translate french will_crystal_essence_final_tough_94366180:

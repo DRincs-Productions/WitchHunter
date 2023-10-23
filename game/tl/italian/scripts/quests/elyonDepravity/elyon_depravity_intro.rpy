@@ -70,5 +70,5 @@ translate italian elyon_depravity_intro_9cc91c12:
 translate italian elyon_depravity_intro_7b3847cf:
 
     # Somka108 "{size=16}Теперь вы можете делать различные вещи с Элион через кнопку действия, данные действия будут повышать развратность. Реакция Элион на просьбы будет изменяться в зависимости от количество развратности. Прохождение данных действий необходимо для продолжение сюжета игры, каждое из, действий нужно пройти несколько раз{/size}"
-    Somka108 "{Ora è possibile fare diverse cose a Elion tramite il pulsante azione, queste azioni aumenteranno la lascivia. La reazione di Elion alle richieste varierà a seconda della quantità di depravazione. Il passaggio di queste azioni è necessario per proseguire la trama del gioco; ognuna di queste azioni deve essere passata più volte{/size}"
+    Somka108 "{size=16}Ora è possibile fare diverse cose a Elion tramite il pulsante azione, queste azioni aumenteranno la lascivia. La reazione di Elion alle richieste varierà a seconda della quantità di depravazione. Il passaggio di queste azioni è necessario per proseguire la trama del gioco; ognuna di queste azioni deve essere passata più volte{/size}"
 

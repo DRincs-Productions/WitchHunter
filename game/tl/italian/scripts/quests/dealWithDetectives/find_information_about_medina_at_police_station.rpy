@@ -148,7 +148,7 @@ translate italian find_information_about_medina_at_police_station_c9a4dfd6:
 translate italian find_information_about_medina_at_police_station_0373e8e4:
 
     # cedrick "(С-стоп.. Это что, мать Тарани на фото? Она же, вроде как, главный судья в этом городе..)"
-    cedrick "(S-stop... Quella nella foto è la madre di Tarani? Insomma, è il capo della giustizia di questa città...)."
+    cedrick "(S-stop... Quella nella foto è la madre di Taranee? Insomma, è il capo della giustizia di questa città...)."
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:48
 translate italian find_information_about_medina_at_police_station_a20cefa7:
@@ -172,7 +172,7 @@ translate italian find_information_about_medina_at_police_station_00a9375a:
 translate italian find_information_about_medina_at_police_station_277eb69d:
 
     # cedrick "(Интересно, кто сосет лучше мама Вилл, мама Хай Лин или же мама Тарани? Возможно, мне еще удастся проверить. Но я здесь не за этим. Дела прежде всего)"
-    cedrick "(Mi chiedo chi faccia più schifo di mamma Will, mamma Hi Lin o mamma Tarani? Potrei ancora avere la possibilità di controllare. Ma non è per questo che sono qui. Prima gli affari)"
+    cedrick "(Mi chiedo chi faccia più schifo di mamma Will, mamma Hay Lin o mamma Taranee? Potrei ancora avere la possibilità di controllare. Ma non è per questo che sono qui. Prima gli affari)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:57
 translate italian find_information_about_medina_at_police_station_d42ae797:
@@ -184,7 +184,7 @@ translate italian find_information_about_medina_at_police_station_d42ae797:
 translate italian find_information_about_medina_at_police_station_ddb35c30:
 
     # centered "{size=37}СЕДРИК УХОДИТ ИЗ ПОЛИЦЕЙСКОГО УЧАСТКА{/size}"
-    centered "{SEDRICK ESCE DALL'UFFICIO DI POLIZIA{/size}"
+    centered "{size=37}SEDRICK ESCE DALL'UFFICIO DI POLIZIA{/size}"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:64
 translate italian find_information_about_medina_at_police_station_ad12e0c3:
@@ -238,7 +238,7 @@ translate italian find_information_about_medina_at_police_station_0aa4ff75:
 translate italian find_information_about_medina_at_police_station_951a6c19:
 
     # centered "{size=37}Седрик принимает форму змея и быстро хватает Медину{/size}"
-    centered "{Cedric prende la forma di un aquilone e afferra rapidamente Medina."
+    centered "{size=37}Cedric prende la forma di un aquilone e afferra rapidamente Medina{/size}"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:81
 translate italian find_information_about_medina_at_police_station_3dd3f618:
@@ -358,7 +358,7 @@ translate italian find_information_about_medina_at_police_station_864658b0:
 translate italian find_information_about_medina_at_police_station_ab549fbc:
 
     # centered "{size=37}СЕДРИК ИССЛЕДУЕТ БАРДАЧОК В МАШИНЕ И НАХОДИТ БАЛАКЛАВУ, ВИКОДИН И НАРУЧНИКИ{/size}"
-    centered "{SEDRICK CERCA IL BARDACH NELL'AUTO E TROVA LA BALACLAW, LA VICODINA E LE AVVERTENZE{/size}"
+    centered "{size=37}SEDRICK CERCA IL BARDACH NELL'AUTO E TROVA LA BALACLAW, LA VICODINA E LE AVVERTENZE{/size}"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:113
 translate italian find_information_about_medina_at_police_station_f19c3934:

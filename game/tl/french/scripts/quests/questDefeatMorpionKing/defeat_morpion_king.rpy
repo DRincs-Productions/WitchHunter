@@ -1126,7 +1126,7 @@ translate french defeat_morpion_king_068b1e5b:
 translate french defeat_morpion_king_8a969932:
 
     # centered "{size=37}В ТЕМНИЦЕ КОРНЕЛИИ {/size}"
-    centered "{Dans l'obscurité du Cornelia..."
+    ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:545
 translate french defeat_morpion_king_3c3f83da:
@@ -2140,7 +2140,7 @@ translate french q_dfk_cornelia_dialogs_continue_af73512c:
 translate french q_dfk_cornelia_dialogs_continue_bc588c08:
 
     # centered "{size=37}Седрик рассказывает все Миранде {/size}"
-    centered "{Cedric raconte tout à Miranda."
+    centered "{size=37}Cedric raconte tout à Miranda {/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:960
 translate french q_dfk_cornelia_dialogs_continue_3c8a3003:
@@ -2320,7 +2320,7 @@ translate french q_dfk_cornelia_dialogs_continue_962205f6:
 translate french q_dfk_cornelia_dialogs_continue_462bd96e:
 
     # centered "{size=37}Седрику приводят побитого воина{/size}"
-    centered "{Cedric est amené en tant que guerrier blessé."
+    centered "{size=37}Cedric est amené en tant que guerrier blessé{/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1061
 translate french q_dfk_cornelia_dialogs_continue_0a6593ad:

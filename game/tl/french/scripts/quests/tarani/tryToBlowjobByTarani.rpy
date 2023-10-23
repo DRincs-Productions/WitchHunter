@@ -10,7 +10,7 @@ translate french tryToBlowjobByTarani_8ee11483:
 translate french tryToBlowjobByTarani_c1696a59:
 
     # centered "{size=37}после проведенной контрольной работы{/size}"
-    centered "{size=37} après le test {/size}"
+    centered "{size=37}après le test{/size}"
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:13
 translate french tryToBlowjobByTarani_ee17437a:

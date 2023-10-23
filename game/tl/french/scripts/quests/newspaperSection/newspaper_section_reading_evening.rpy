@@ -250,7 +250,7 @@ translate french newspaper_section_reading_evening_d78fbae3:
 translate french newspaper_section_reading_evening_37f5c3ed:
 
     # centered "{size=36}Через пару минут..{/size}"
-    centered "{size=36}"
+    ""
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:88
 translate french newspaper_section_reading_evening_a07a148f:
@@ -286,7 +286,7 @@ translate french newspaper_section_reading_evening_644deda6:
 translate french newspaper_section_reading_evening_463a5794:
 
     # centered "{size=36}ПОЗЖЕ, ВЕЧЕРОМ В КАБИНЕТЕ ЖУРНАЛИСТИКИ{/size}"
-    centered "{Plus tard, le soir, dans le bureau du journaliste..."
+    ""
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:103
 translate french newspaper_section_reading_evening_44f35d59:
@@ -328,7 +328,7 @@ translate french newspaper_section_reading_evening_eeb1f8c2:
 translate french newspaper_section_reading_evening_65cd7d1f:
 
     # centered "{size=36}Седрик смывает в школьный унитаз все экземпляры школьной газеты, кроме одного и отправляется в книжный магазин на вечер чтений{/size}"
-    centered "{Cédric jette tous les exemplaires du journal de l'école dans les toilettes, sauf un, et se rend à la librairie pour une soirée de lecture."
+    centered "{size=36}Cédric jette tous les exemplaires du journal de l'école dans les toilettes, sauf un, et se rend à la librairie pour une soirée de lecture{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:125
 translate french newspaper_section_reading_evening_cf3bf492:
@@ -916,7 +916,7 @@ translate french newspaper_section_reading_evening_05e03ccb:
 translate french newspaper_section_reading_evening_30889e67:
 
     # centered "{size=36}В общем зале книжного магазина{/size}"
-    centered "{Dans la salle commune d'une librairie..."
+    centered "{size=36}Dans la salle commune d'une librairie{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:367
 translate french newspaper_section_reading_evening_0eab2fd8:

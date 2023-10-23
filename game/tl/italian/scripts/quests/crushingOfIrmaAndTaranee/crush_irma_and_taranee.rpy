@@ -34,7 +34,7 @@ translate italian crush_irma_and_taranee_a432e95d:
 translate italian crush_irma_and_taranee_2cfad58f:
 
     # cedrick "Что ж, думаю пока Тарани там отдыхает, самое время наконец заняться тобой"
-    cedrick "Beh, credo che mentre Tarani si riposa lì, sia ora di mettersi finalmente al lavoro su di te."
+    cedrick "Beh, credo che mentre Taranee si riposa lì, sia ora di mettersi finalmente al lavoro su di te."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:18
 translate italian crush_irma_and_taranee_c8d566e6:
@@ -52,7 +52,7 @@ translate italian crush_irma_and_taranee_26ad33f0:
 translate italian crush_irma_and_taranee_1c3e8727:
 
     # miranda "Без проблем. Свяжу ее и оставлю вас наедине. Присмотрю пока, чтобы Тарани тебе не мешала"
-    miranda "Nessun problema. La lego e vi lascio soli. Nel frattempo, terrò d'occhio Tarani in modo da non intralciarla."
+    miranda "Nessun problema. La lego e vi lascio soli. Nel frattempo, terrò d'occhio Taranee in modo da non intralciarla."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:22
 translate italian crush_irma_and_taranee_3d4d3f2a:
@@ -76,7 +76,7 @@ translate italian crush_irma_and_taranee_d46c57b8:
 translate italian crush_irma_and_taranee_ccd0d0e1:
 
     # cedrick "Ох ты ж.. Не ожидал от тебя такого. А Тарани еще считала, что я тебя еще не сломил.."
-    cedrick "Oh, cavolo. Non me lo aspettavo da te. E Tarani pensava che non ti avessi ancora spezzato..."
+    cedrick "Oh, cavolo. Non me lo aspettavo da te. E Taranee pensava che non ti avessi ancora spezzato..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:31
 translate italian crush_irma_and_taranee_795678bb:
@@ -94,7 +94,7 @@ translate italian crush_irma_and_taranee_bd720cb0:
 translate italian crush_irma_and_taranee_87144e8c:
 
     # irma "Я.. Я не такой боец, как Тарани.. Я очень хотела быть такой.. Но я так устала.. Устала сражаться.."
-    irma "Я.. Non sono un combattente come Tarani... Volevo davvero essere... Ma sono così stanca... Stanco di combattere..."
+    irma "Я.. Non sono un combattente come Taranee... Volevo davvero essere... Ma sono così stanca... Stanco di combattere..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:36
 translate italian crush_irma_and_taranee_4d2873fe:
@@ -118,7 +118,7 @@ translate italian crush_irma_and_taranee_c0f419b5:
 translate italian crush_irma_and_taranee_afb684c8:
 
     # irma "Тарани движет месть за своего парня, за свое унижения, она готова рвать и метать.. А я, а что я.."
-    irma "Tarani è spinta dalla vendetta per il suo fidanzato, per le sue umiliazioni, è pronta a strappare e gettare... E io, e io..."
+    irma "Taranee è spinta dalla vendetta per il suo fidanzato, per le sue umiliazioni, è pronta a strappare e gettare... E io, e io..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:41
 translate italian crush_irma_and_taranee_70c54cac:
@@ -370,7 +370,7 @@ translate italian crush_irma_and_taranee_5e63c793:
 translate italian crush_irma_and_taranee_42c7c647:
 
     # centered "{size=37}Рик принимает 5 зелий восстановления магической силы{/size}"
-    centered "{Rick ha bisogno di 5 pozioni per ripristinare il potere magico."
+    centered "{size=37}Rick ha bisogno di 5 pozioni per ripristinare il potere magico{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:125
 translate italian crush_irma_and_taranee_99cf4cf0:
@@ -388,7 +388,7 @@ translate italian crush_irma_and_taranee_54267892:
 translate italian crush_irma_and_taranee_f56c10f1:
 
     # cedrick "Да, она готова. Как там Тарани?"
-    cedrick "Sì, è pronta. Come sta Tarani?"
+    cedrick "Sì, è pronta. Come sta Taranee?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:128
 translate italian crush_irma_and_taranee_5c324d0f:
@@ -418,7 +418,7 @@ translate italian crush_irma_and_taranee_b54a7a27:
 translate italian crush_irma_and_taranee_6a1543f7:
 
     # "Тарани просыпается.."
-    "Tarani si sveglia..."
+    "Taranee si sveglia..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:133
 translate italian crush_irma_and_taranee_3bc36509:
@@ -436,7 +436,7 @@ translate italian crush_irma_and_taranee_7cfb00e1:
 translate italian crush_irma_and_taranee_89e0bc95:
 
     # irma "Прости, Тарани.."
-    irma "Mi dispiace, Tarani..."
+    irma "Mi dispiace, Taranee..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:139
 translate italian crush_irma_and_taranee_1089930a:
@@ -460,7 +460,7 @@ translate italian crush_irma_and_taranee_89a782ba:
 translate italian crush_irma_and_taranee_aa201b78:
 
     # cedrick "Хах, может так показаться, но нет, она в полном сознании и отдает себе отчет о своих действиях. Просто ты ошибалась, Тарани"
-    cedrick "Può sembrare così, ma no, è pienamente cosciente e consapevole delle sue azioni. Ti sei sbagliato, Tarani."
+    cedrick "Può sembrare così, ma no, è pienamente cosciente e consapevole delle sue azioni. Ti sei sbagliato, Taranee."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:145
 translate italian crush_irma_and_taranee_e40e1218:
@@ -490,7 +490,7 @@ translate italian crush_irma_and_taranee_915e83a1:
 translate italian crush_irma_and_taranee_717f24bf:
 
     # irma "Все так, Тарани.. Он не принуждал меня, просто.. Просто это единственный выход, при котором я останусь жива и меня больше не будет беспокоить эта вся беготня за справедливостью.."
-    irma "Esatto, Tarani. Non mi ha costretto, è solo che... È solo l'unico modo per rimanere vivo e non dovermi più preoccupare di correre in giro per la giustizia..."
+    irma "Esatto, Taranee. Non mi ha costretto, è solo che... È solo l'unico modo per rimanere vivo e non dovermi più preoccupare di correre in giro per la giustizia..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:155
 translate italian crush_irma_and_taranee_78b84f1b:
@@ -520,7 +520,7 @@ translate italian crush_irma_and_taranee_5f08f6a8:
 translate italian crush_irma_and_taranee_ae15d951:
 
     # cedrick "Ахаха, Тарани! Да ты та еще извращенка, сама во всю сопротивляешься, но при этом твоя киска все сильнее сжимает меня"
-    cedrick "Ahaha, Tarani! Sei un pervertito, resisti fino in fondo, ma la tua figa mi stringe sempre più forte."
+    cedrick "Ahaha, Taranee! Sei un pervertito, resisti fino in fondo, ma la tua figa mi stringe sempre più forte."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:164
 translate italian crush_irma_and_taranee_11f55de3:
@@ -1144,7 +1144,7 @@ translate italian crush_irma_and_taranee_fd115a09:
 translate italian crush_irma_and_taranee_d1f110cc:
 
     # cedrick "Особое внимание удели Тарани. Ирма не будет сопротивляться, а вот Тарани начнет вырываться при любой возможности"
-    cedrick "Prestare particolare attenzione a Tarani. Irma non reagirà, ma Tarani comincerà a infierire ad ogni occasione."
+    cedrick "Prestare particolare attenzione a Taranee. Irma non reagirà, ma Taranee comincerà a infierire ad ogni occasione."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:369
 translate italian crush_irma_and_taranee_df90b19a:

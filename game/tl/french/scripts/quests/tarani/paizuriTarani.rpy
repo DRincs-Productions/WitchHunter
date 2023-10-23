@@ -40,7 +40,7 @@ translate french paizuriTarani_c78b3858:
 translate french paizuriTarani_d4706847:
 
     # centered "{size=37}После урока..{/size}"
-    centered "{Après la leçon..."
+    centered "{size=37}Après la leçon..{/size}"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:18
 translate french paizuriTarani_36adae20:

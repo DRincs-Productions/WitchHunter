@@ -166,7 +166,7 @@ translate french talk_with_prince_phobos_76009a7a:
 translate french talk_with_prince_phobos_58b5bb17:
 
     # centered "{size=37}На следующий день в книжном магазине.{/size}"
-    centered "{Le lendemain, à la librairie."
+    centered "{size=37}Le lendemain, à la librairie.{/size}"
 
 # game/scripts/meridian/meridian_zamok.rpy:119
 translate french talk_with_prince_phobos_b89c19ce:

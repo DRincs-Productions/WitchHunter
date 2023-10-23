@@ -286,7 +286,7 @@ translate french need_sensation_c5fa6de0:
 translate french need_sensation_5f7c243f:
 
     # centered "{size=36}Через пару минут в столовой{/size}"
-    centered "{Quelques minutes plus tard, dans la salle à manger..."
+    centered "{size=36}Quelques minutes plus tard, dans la salle à manger{/size}"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:182
 translate french need_sensation_a8f384ea:

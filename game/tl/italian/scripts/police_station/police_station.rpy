@@ -10,7 +10,7 @@ translate italian police_station_inaccessible_door_ae1873e0:
 translate italian police_station_lose_23632d6b:
 
     # centered "{size=37}В полицейском участке сработала сигнальная сирена, все выходы из здания перекрыты. Седрик в ловушке{/size}"
-    centered "{La sirena della stazione di polizia è suonata e tutte le uscite sono bloccate. Cedric è in trappola{/size}"
+    centered "{size=37}La sirena della stazione di polizia è suonata e tutte le uscite sono bloccate. Cedric è in trappola{/size}"
 
 # game/scripts/police_station/police_station.rpy:24
 translate italian police_station_lose_8d084e2b:
@@ -112,7 +112,7 @@ translate italian police_station_main_guards_1_df8958e7:
 translate italian police_station_main_guards_1_354f327d:
 
     # centered "{size=37}Седрик сумел вырубить сержанта до того, как он успел поднять тревогу {/size}"
-    centered "{Cedric riuscì a stendere il sergente prima che potesse dare l'allarme."
+    centered "{size=37}Cedric riuscì a stendere il sergente prima che potesse dare l'allarme {/size}"
 
 # game/scripts/police_station/police_station.rpy:123
 translate italian police_station_main_guards_1_eb1f036e:

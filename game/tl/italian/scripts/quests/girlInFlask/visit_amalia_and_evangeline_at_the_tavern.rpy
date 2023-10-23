@@ -202,7 +202,7 @@ translate italian visit_amalia_and_evangeline_at_the_tavern_a20cefa7:
 translate italian visit_amalia_and_evangeline_at_the_tavern_988d0c8b:
 
     # centered "{size=37} Спустя несколько минут Евангелина поддается вашим уговорам... {/size}"
-    centered "{Pochi minuti dopo, Evangeline cede alle vostre suppliche... {\\an8}"
+    centered "{size=37} Pochi minuti dopo, Evangeline cede alle vostre suppliche... {/size}"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:116
 translate italian visit_amalia_and_evangeline_at_the_tavern_53959500:
@@ -382,7 +382,7 @@ translate italian visit_amalia_and_evangeline_at_the_tavern_05cdc11f:
 translate italian visit_amalia_and_evangeline_at_the_tavern_ac07cbd7:
 
     # centered "{size=37}Некоторое время вы с Евангелиной занимаетесь поисками Амалии.. {/size}"
-    centered "{Tu ed Evangeline state cercando Amalia da tempo... {\\an8}"
+    centered "{size=37}Tu ed Evangeline state cercando Amalia da tempo.. {/size}"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:191
 translate italian visit_amalia_and_evangeline_at_the_tavern_4b8d6f3c:

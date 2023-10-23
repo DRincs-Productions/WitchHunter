@@ -766,7 +766,7 @@ translate italian deny_her_5177ce06:
 translate italian deny_her_84cf9f57:
 
     # centered "{size=37} СЕДРИК ВЗЯЛ ВИЛЛ ЗА ГОЛОВУ, ОПУСТИЛ НА КОЛЕНИ И ДОСТАЛ ЧЛЕН{/size}" with dissolve
-    centered "{CEDRIC FA CADERE LA TESTA DI WILL SULLE SUE MANI E SI FA DARE IL SUO CAZZO{/size} [withdissolve]."
+    centered "{size=37} CEDRIC FA CADERE LA TESTA DI WILL SULLE SUE MANI E SI FA DARE IL SUO CAZZO{/size}" with dissolve
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:314
 translate italian deny_her_d674335f:
@@ -1012,7 +1012,7 @@ translate italian accept_her_offer_5177ce06:
 translate italian accept_her_offer_81cd6112:
 
     # centered "{size=37}Седрик поставил Вилл на колени и зажимает член между ее грудей{/size}" with dissolve
-    centered "{Cedric fa inginocchiare Will e incastra il suo cazzo tra i suoi seni{/size}" with dissolve
+    centered "{size=37}Cedric fa inginocchiare Will e incastra il suo cazzo tra i suoi seni{/size}" with dissolve
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:388
 translate italian accept_her_offer_bb48271b:

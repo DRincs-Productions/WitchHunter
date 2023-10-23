@@ -16,7 +16,7 @@ translate italian take_elyon_home_2_e90ca6f5:
 translate italian take_elyon_home_2_70f97116:
 
     # centered "{size=37}Позже вечером, в доме Браунов{/size}"
-    centered "{Più tardi, in serata, a casa Brown."
+    centered "{size=37}Più tardi, in serata, a casa Brown{/size}"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home_2.rpy:11
 translate italian take_elyon_home_2_bdcfbb46:
@@ -52,7 +52,7 @@ translate italian take_elyon_home_2_1e6bdc2b:
 translate italian take_elyon_home_2_40cae57d:
 
     # centered "{size=37}Позже, во время ужина{/size}"
-    centered "{Più tardi, durante la cena."
+    centered "{size=37}Più tardi, durante la cena{/size}"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home_2.rpy:29
 translate italian take_elyon_home_2_8ef051ce:
@@ -244,7 +244,7 @@ translate italian take_elyon_home_2_c9225385:
 translate italian take_elyon_home_2_04d32aaa:
 
     # centered "{size=37}Элион убегает в свою комнату{/size}"
-    centered "{Elion scappa nella sua stanza."
+    centered "{size=37}Elion scappa nella sua stanza{/size}"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home_2.rpy:69
 translate italian take_elyon_home_2_0ef699c6:

@@ -58,7 +58,7 @@ translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_df6f60
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_5580fa0a:
 
     # centered "{size=37}Через некоторое время у школы{/size}"
-    centered "{Dopo un po' di tempo fuori dalla scuola{/size}"
+    centered "{size=37}Dopo un po' di tempo fuori dalla scuola{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:36
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_50eb4847:
@@ -142,7 +142,7 @@ translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_8f85a4
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_496d3521:
 
     # centered "{size=37}Через некоторое продолжительное время. На горе Хезерфилд{/size}"
-    centered "{Dopo un periodo di tempo considerevole. Sul monte Heatherfield{/size}"
+    centered "{size=37}Dopo un periodo di tempo considerevole. Sul monte Heatherfield{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:74
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_19506776:
@@ -370,7 +370,7 @@ translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_df25e2
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_e5a7cd31:
 
     # centered "{size=37}вечером{/size}"
-    centered "{size=37}вечером{/size}"
+    centered "{size=37}In serata{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:224
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_11ed28fe:
@@ -748,7 +748,7 @@ translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cef
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_e9673c80:
 
     # centered "{size=37}Утром{/size}"
-    centered "{size=37}Утром{/size}"
+    centered "{size=37}La mattina{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:314
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_9cd66fbc:
@@ -958,7 +958,7 @@ translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_3e5272
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_dcde426c:
 
     # centered "{size=37}спустя какое-то время...{/size}"
-    centered "{size=37}"
+    centered "{size=37}dopo qualche tempo...{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:396
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_9f589483:
@@ -1192,7 +1192,7 @@ translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_24c659
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f68a538:
 
     # centered "{size=37} Спустя какое то время поиски выхода не к чему не привели {/size}"
-    centered "{Dopo un po' la ricerca di una via d'uscita non portò a nulla."
+    centered "{size=37} Dopo un po' la ricerca di una via d'uscita non portò a nulla {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:454
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_c987b9c8:
@@ -1348,7 +1348,7 @@ translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_284002
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_81645fc1:
 
     # centered "{size=37} Вечером{/size}"
-    centered "{In serata{/size}"
+    centered "{size=37} In serata{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:528
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_bddd00b0:
@@ -1654,7 +1654,7 @@ translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_7c4e2c
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_00e1c1e5:
 
     # centered "{size=37}Ночью{/size}"
-    centered "{size=37}Ночью{/size}"
+    centered "{size=37}Di notte{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:607
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_2ab4bf24:
@@ -1798,7 +1798,7 @@ translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_07bdde
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_0bca8504:
 
     # centered "{size=37}на следующие утро{/size}"
-    centered "{Il mattino dopo, la mattina dopo."
+    centered "{size=37}il mattino dopo, la mattina dopo{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:640
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_fc70fe0a:
@@ -1954,7 +1954,7 @@ translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f9b77
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_1a0397b4:
 
     # centered "{size=37}Через какое то время спасатели доставили Седрика и Вилл на лыжный курорт {/size}"
-    centered "{Dopo un po' i soccorritori portarono Cedric e Will alla stazione sciistica."
+    centered "{size=37}Dopo un po' i soccorritori portarono Cedric e Will alla stazione sciistica {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:686
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_670b2307:
@@ -2092,7 +2092,7 @@ translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_07bdde
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_228026ca:
 
     # centered "{size=37}На следующий день{/size}"
-    centered "{Il giorno dopo..."
+    centered "{size=37}Il giorno dopo{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:749
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_3e81b8b9:
@@ -2272,7 +2272,7 @@ translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_848bbb
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_9aee60b2:
 
     # centered "{size=37} В доме семейства Вэндом{/size}"
-    centered "{Nella casa della famiglia Vendome{/size}"
+    centered "{size=37} Nella casa della famiglia Vendome{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:824
 translate italian quest_new_student_wait_for_a_trip_to_mount_heatherfield_dcacfebf:

@@ -10,7 +10,7 @@ translate italian getPhotoOfNigel_2bbfeb2b:
 translate italian getPhotoOfNigel_6927b594:
 
     # blank "Бланк сделял!! бланк проследить!"
-    blank "Forma sdelal!!! forma tracciabile!"
+    blank "Blunk ce l'ha fatta!! traccia il modulo!"
 
 # game/scripts/quests/tarani/getPhotoOfNigel.rpy:9
 translate italian getPhotoOfNigel_656576f9:

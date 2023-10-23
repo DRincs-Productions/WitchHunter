@@ -220,7 +220,7 @@ translate italian elion_sniff_dicks_in_school_3c1743d1:
 translate italian elion_sniff_dicks_in_school_42957e3d:
 
     # centered "{size=37}Позже, в коридоре во время урока{/size}"
-    centered "{Più tardi, nel corridoio, durante le lezioni."
+    centered "{size=37}Più tardi, nel corridoio, durante le lezioni{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:59
 translate italian elion_sniff_dicks_in_school_36445bc1:
@@ -244,7 +244,7 @@ translate italian elion_sniff_dicks_in_school_a20cefa7_1:
 translate italian elion_sniff_dicks_in_school_a671761e:
 
     # centered "{size=37}Позже в коридоре{/size}"
-    centered "{Più tardi, nel corridoio{/size}"
+    centered "{size=37}Più tardi, nel corridoio{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:71
 translate italian elion_sniff_dicks_in_school_a2acf706:

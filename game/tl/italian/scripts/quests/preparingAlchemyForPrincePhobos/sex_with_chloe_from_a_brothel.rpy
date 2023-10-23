@@ -136,7 +136,7 @@ translate italian sex_with_chloe_from_a_brothel_b71d69a4:
 translate italian sex_with_chloe_from_a_brothel_70cfdf98:
 
     # centered "{size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ{/size}"
-    centered "{TEMPO SIMMARIO{/size}"
+    centered "{size=37}DOPO UN PO' DI TEMPO{/size}"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:81
 translate italian sex_with_chloe_from_a_brothel_de285007:

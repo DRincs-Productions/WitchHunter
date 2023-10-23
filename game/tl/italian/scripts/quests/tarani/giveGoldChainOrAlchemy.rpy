@@ -16,7 +16,7 @@ translate italian giveGoldChainOrAlchemy_bdf4a062:
 translate italian giveGoldChainOrAlchemy_9ff07a41:
 
     # blank "Ты принести золотую цепь для Бланка?"
-    blank "Porterai una catena d'oro per Blanc?"
+    blank "Porterai una catena d'oro per Blunk?"
 
 # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:15
 translate italian giveGoldChainOrAlchemy_6c6d60b0:
@@ -28,7 +28,7 @@ translate italian giveGoldChainOrAlchemy_6c6d60b0:
 translate italian giveGoldChainOrAlchemy_62f0b8d7:
 
     # cedrick "(Осталось только дождаться фотографий.. Надеюсь брат Найджела и в правду настолько плох, как говорила о нем мать Тарани.)"
-    cedrick "(Non ci resta che aspettare le foto...). Spero che il fratello di Nigel sia davvero così cattivo come ha detto la madre di Tarani)."
+    cedrick "(Non ci resta che aspettare le foto...). Spero che il fratello di Nigel sia davvero così cattivo come ha detto la madre di Taranee)."
 
 # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:25
 translate italian giveGoldChainOrAlchemy_ff72afdb:

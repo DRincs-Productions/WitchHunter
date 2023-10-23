@@ -58,7 +58,7 @@ translate french quest_new_student_wait_for_a_trip_to_mount_heatherfield_df6f601
 translate french quest_new_student_wait_for_a_trip_to_mount_heatherfield_5580fa0a:
 
     # centered "{size=37}Через некоторое время у школы{/size}"
-    centered "{Après un moment hors de l'école..."
+    centered "{size=37}Après un moment hors de l'école{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:36
 translate french quest_new_student_wait_for_a_trip_to_mount_heatherfield_50eb4847:
@@ -1192,7 +1192,7 @@ translate french quest_new_student_wait_for_a_trip_to_mount_heatherfield_24c6594
 translate french quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f68a538:
 
     # centered "{size=37} Спустя какое то время поиски выхода не к чему не привели {/size}"
-    centered "{Après un certain temps, la recherche d'une sortie n'a mené à rien."
+    centered "{size=37} Après un certain temps, la recherche d'une sortie n'a mené à rien {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:454
 translate french quest_new_student_wait_for_a_trip_to_mount_heatherfield_c987b9c8:
@@ -1954,7 +1954,7 @@ translate french quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f9b772
 translate french quest_new_student_wait_for_a_trip_to_mount_heatherfield_1a0397b4:
 
     # centered "{size=37}Через какое то время спасатели доставили Седрика и Вилл на лыжный курорт {/size}"
-    centered "{Après un moment, les sauveteurs ont emmené Cedric et Will à la station de ski."
+    centered "{size=37}Après un moment, les sauveteurs ont emmené Cedric et Will à la station de ski {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:686
 translate french quest_new_student_wait_for_a_trip_to_mount_heatherfield_670b2307:
@@ -2272,7 +2272,7 @@ translate french quest_new_student_wait_for_a_trip_to_mount_heatherfield_848bbb8
 translate french quest_new_student_wait_for_a_trip_to_mount_heatherfield_9aee60b2:
 
     # centered "{size=37} В доме семейства Вэндом{/size}"
-    centered "{Dans la maison de la famille Vendôme{/size}"
+    centered "{size=37} Dans la maison de la famille Vendôme{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:824
 translate french quest_new_student_wait_for_a_trip_to_mount_heatherfield_dcacfebf:

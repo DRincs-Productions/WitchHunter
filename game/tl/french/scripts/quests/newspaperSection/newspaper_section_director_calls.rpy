@@ -40,7 +40,7 @@ translate french newspaper_section_director_calls_66591ca7:
 translate french newspaper_section_director_calls_2a669677:
 
     # centered "{size=36}Через пять минут в кабинете директора{/size}"
-    centered "{Cinq minutes plus tard, dans le bureau du principal."
+    centered "{size=36}Cinq minutes plus tard, dans le bureau du principal{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:26
 translate french newspaper_section_director_calls_ac90e423:

@@ -16,7 +16,7 @@ translate french take_elyon_home_2_e90ca6f5:
 translate french take_elyon_home_2_70f97116:
 
     # centered "{size=37}Позже вечером, в доме Браунов{/size}"
-    centered "{Plus tard dans la soirée, chez les Brown..."
+    centered "{size=37}Plus tard dans la soirée, chez les Brown{/size}"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home_2.rpy:11
 translate french take_elyon_home_2_bdcfbb46:
@@ -52,7 +52,7 @@ translate french take_elyon_home_2_1e6bdc2b:
 translate french take_elyon_home_2_40cae57d:
 
     # centered "{size=37}Позже, во время ужина{/size}"
-    centered "{Plus tard, pendant le dîner..."
+    centered "{size=37}Plus tard, pendant le dîner{/size}"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home_2.rpy:29
 translate french take_elyon_home_2_8ef051ce:
@@ -244,7 +244,7 @@ translate french take_elyon_home_2_c9225385:
 translate french take_elyon_home_2_04d32aaa:
 
     # centered "{size=37}Элион убегает в свою комнату{/size}"
-    centered "{Elion s'enfuit dans sa chambre{/size}."
+    centered "{size=37}Elion s'enfuit dans sa chambre{/size}"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home_2.rpy:69
 translate french take_elyon_home_2_0ef699c6:

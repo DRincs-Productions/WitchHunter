@@ -136,7 +136,7 @@ translate french kidnapLilianToMeridianCastle_60f455fe:
 translate french kidnapLilianToMeridianCastle_7f2e60e0:
 
     # centered "{size=37}Позже в доме хейлов{/size}" with Dissolve(1)
-    centered "{Plus tard, à la maison Hale{/size}" with Dissolve(1)
+    centered "{size=37}Plus tard, à la maison Hale{/size}" with Dissolve(1)
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:51
 translate french kidnapLilianToMeridianCastle_4bed1894:

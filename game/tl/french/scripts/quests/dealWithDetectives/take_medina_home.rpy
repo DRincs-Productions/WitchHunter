@@ -346,7 +346,7 @@ translate french take_medina_home_680b4163:
 translate french take_medina_home_2591e795:
 
     # centered "{size=37}МЕДИНА ДОВОЗИТ СЕДРИКА ДО КНИЖНОГО МАГАЗИНА{/size}"
-    centered "{MEDINA Conduit CEDRIC AU MAGAZINE DE LIVRES{/size}"
+    ""
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:73
 translate french take_medina_home_e54fd4f2:
@@ -376,7 +376,7 @@ translate french take_medina_home_640ad564:
 translate french take_medina_home_3a877023:
 
     # centered "{size=37}Медина объясняет Элион ситуацию{/size}"
-    centered "{Médine explique la situation d'Elion{/size}"
+    centered "{size=37}Médine explique la situation d'Elion{/size}"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:87
 translate french take_medina_home_a80d0f18:

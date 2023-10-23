@@ -10,5 +10,5 @@ translate italian giveTshirtForBlank_a76fb0e0:
 translate italian giveTshirtForBlank_f5df145c:
 
     # blank "Бланк все сделать!"
-    blank "Il modulo è pronto!"
+    blank "Blunk è pronto!"
 

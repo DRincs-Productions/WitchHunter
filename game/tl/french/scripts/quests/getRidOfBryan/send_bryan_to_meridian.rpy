@@ -16,5 +16,5 @@ translate french send_bryan_to_meridian_2d12c5a7:
 translate french send_bryan_to_meridian_c6ec21bf:
 
     # centered "{size=37}Вы продаете Брайана в качестве раба на угольные шахты. Парень довольно хиленький и при том вы его изрядно избили.. В связи с этим, вам удается выручить лишь 50 золотых.{/size}" with Dissolve(1)
-    centered "{Vous vendez Brian comme esclave dans les mines de charbon. Le garçon est plutôt frêle et vous le battez assez violemment. A cause de cela, vous ne parvenez qu'à obtenir 50 pièces d'or. {/size}" with Dissolve(1)
+    centered "{size=37}Vous vendez Brian comme esclave dans les mines de charbon. Le garçon est plutôt frêle et vous le battez assez violemment. A cause de cela, vous ne parvenez qu'à obtenir 50 pièces d'or.{/size}" with Dissolve(1)
 

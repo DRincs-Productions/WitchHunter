@@ -44,11 +44,11 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Попросить Бланка сделать фотографии Найджела"
-    new "Chiedete a Blank di fotografare Nigel"
+    new "Chiedete a Blunk di fotografare Nigel"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Достать фотоаппарат для Бланка"
-    new "Ottenere una fotocamera per Blank"
+    new "Ottenere una fotocamera per Blunk"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Узнать у миранды где достать Ноздрю дракона"
@@ -60,11 +60,11 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Отдать Бланку Ноздрю дракона и фотоаппарат"
-    new "Dare a Blanca la narice di drago e la macchina fotografica"
+    new "Dare a Blunk la narice di drago e la macchina fotografica"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Дождаться когда Бланк сделает фотографии Найджела и забрать их"
-    new "Attendiamo che Blank scatti le foto di Nigel e le ritiri."
+    new "Attendiamo che Blunk scatti le foto di Nigel e le ritiri"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Шантажировать Тарани фотографиями Найджела"
@@ -84,11 +84,11 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Попросить Бланка сделать новые фотографии Найджела"
-    new "Chiedere a Blank di scattare nuove foto di Nigel"
+    new "Chiedere a Blunk di scattare nuove foto di Nigel"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Добыть Бланку золотую цепочку либо найти ему девушку для секса"
-    new "Procurare a Blanca una catenina d'oro o trovargli una ragazza con cui fare sesso"
+    new "Procurare a Blunk una catenina d'oro o trovargli una ragazza con cui fare sesso"
 
     # game/scripts/core/quests/QuestTarani.rpy:41
     old "Навестить Тарани у нее дома вечером и показать ей фотографии Найджела"

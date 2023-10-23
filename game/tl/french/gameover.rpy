@@ -16,5 +16,5 @@ translate french gameover_e94ac20d:
 translate french gameover_c7f7898a:
 
     # centered "{size=37} ИГРА ОКОНЧЕНА {/size}"
-    centered "{Fin de la partie."
+    centered "{size=37} FIN DE LA PARTIE {/size}"
 

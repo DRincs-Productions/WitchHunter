@@ -184,7 +184,7 @@ translate french find_information_about_medina_at_police_station_d42ae797:
 translate french find_information_about_medina_at_police_station_ddb35c30:
 
     # centered "{size=37}СЕДРИК УХОДИТ ИЗ ПОЛИЦЕЙСКОГО УЧАСТКА{/size}"
-    centered "{SEDRICK SORT DU BUREAU DE POLICE{/size}"
+    centered "{size=37}SEDRICK SORT DU BUREAU DE POLICE{/size}"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:64
 translate french find_information_about_medina_at_police_station_ad12e0c3:
@@ -238,7 +238,7 @@ translate french find_information_about_medina_at_police_station_0aa4ff75:
 translate french find_information_about_medina_at_police_station_951a6c19:
 
     # centered "{size=37}Седрик принимает форму змея и быстро хватает Медину{/size}"
-    centered "{Cedric prend la forme d'un cerf-volant et attrape rapidement Medina."
+    centered "{size=37}Cedric prend la forme d'un cerf-volant et attrape rapidement Medina{/size}"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:81
 translate french find_information_about_medina_at_police_station_3dd3f618:

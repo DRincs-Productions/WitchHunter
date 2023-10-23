@@ -166,7 +166,7 @@ translate french elyon_quarreled_with_her_parents_0fb586fb:
 translate french elyon_quarreled_with_her_parents_61ecaa91:
 
     # centered "{size=37}ЭТОЙ ЖЕ НОЧЬЮ В ДОМЕ БРАУНОВ{/size}"
-    centered "{CETTE NUIT À LA MAISON BRUNE{/size}"
+    centered "{size=37}CETTE NUIT À LA MAISON BRUNE{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:64
 translate french elyon_quarreled_with_her_parents_67db9e64:
@@ -184,7 +184,7 @@ translate french elyon_quarreled_with_her_parents_ed60833b:
 translate french elyon_quarreled_with_her_parents_78308d23:
 
     # centered "{size=37}СЕДРИК ВЛАМЫВАЕТСЯ В ДОМ{/size}"
-    centered "{SEDRICKS INTO THE HOUSE{/size}"
+    centered "{size=37}SEDRICKS INTO THE HOUSE{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:71
 translate french elyon_quarreled_with_her_parents_a20cefa7:
@@ -394,7 +394,7 @@ translate french elyon_quarreled_with_her_parents_b0cb999d:
 translate french elyon_quarreled_with_her_parents_123f66c0:
 
     # centered "{size=37}Альборн и Мирабель уходят в сторону магазина Седрика{/size}"
-    centered "{Albourn et Mirabel s'éloignent vers la boutique de Cédric{/size}."
+    centered "{size=37}Albourn et Mirabel s'éloignent vers la boutique de Cédric{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:236
 translate french elyon_quarreled_with_her_parents_3b487e6b:
@@ -418,7 +418,7 @@ translate french elyon_quarreled_with_her_parents_71f291bf:
 translate french elyon_quarreled_with_her_parents_d9cf32c7:
 
     # centered "{size=37}Седрик забирает звезду трибы и возвращается к себе в магазин{/size}"
-    centered "{Cedric prend l'étoile de la tribu et retourne à sa boutique."
+    centered "{size=37}Cedric prend l'étoile de la tribu et retourne à sa boutique{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:246
 translate french elyon_quarreled_with_her_parents_f435ef5b:
@@ -436,7 +436,7 @@ translate french elyon_quarreled_with_her_parents_c8756f1c:
 translate french elyon_quarreled_with_her_parents_3ae3404e:
 
     # centered "{size=37}Утром на следующий день{/size}"
-    centered "{Le lendemain matin..."
+    centered "{size=37}Le lendemain matin{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:254
 translate french elyon_quarreled_with_her_parents_bc1b050a:
@@ -556,7 +556,7 @@ translate french elyon_quarreled_with_her_parents_ffbcd8fd:
 translate french elyon_quarreled_with_her_parents_3c48e2b5:
 
     # centered "{size=37}Вечером того же дня{/size}"
-    centered "{Le soir du même jour."
+    centered "{size=37}Le soir du même jour{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:297
 translate french elyon_quarreled_with_her_parents_87898073:

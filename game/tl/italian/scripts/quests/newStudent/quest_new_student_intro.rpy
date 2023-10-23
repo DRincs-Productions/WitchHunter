@@ -160,7 +160,7 @@ translate italian quest_new_student_intro_4c4d5713:
 translate italian quest_new_student_intro_b0f4fcf1:
 
     # centered "{size=37}после урока.. {/size}"
-    centered "{dopo la lezione... {\\an8}"
+    centered "{size=37}dopo la lezione.. {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_intro.rpy:59
 translate italian quest_new_student_intro_1e8fc6de:

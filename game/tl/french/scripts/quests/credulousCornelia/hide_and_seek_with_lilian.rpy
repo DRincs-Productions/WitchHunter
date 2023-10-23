@@ -520,7 +520,7 @@ translate french hide_and_seek_with_lilian_a28946e4:
 translate french hide_and_seek_with_lilian_c82d4ed5:
 
     # centered "{size=37} Спустя некоторое время в замке{/size}"
-    centered "{Après un moment dans le château..."
+    centered "{size=37} Après un moment dans le château{/size}"
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:185
 translate french hide_and_seek_with_lilian_38e98034:
@@ -556,7 +556,7 @@ translate french hide_and_seek_with_lilian_56cf897d:
 translate french hide_and_seek_with_lilian_9ac59b59:
 
     # centered "{size=37}корнелия проследила за стражниками до комнаты с сундуком и дождалась, пока они уйдут, чтобы забрать ключ{/size}"
-    centered "{Cornelia a suivi les gardes jusqu'à la pièce avec le coffre et a attendu qu'ils partent pour récupérer la clé{/size}."
+    centered "{size=37}Cornelia a suivi les gardes jusqu'à la pièce avec le coffre et a attendu qu'ils partent pour récupérer la clé{/size}"
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:191
 translate french hide_and_seek_with_lilian_dc2cd39a:

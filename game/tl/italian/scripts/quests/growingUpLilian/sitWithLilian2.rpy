@@ -76,7 +76,7 @@ translate italian sitWithLilian2_6adc8364:
 translate italian sitWithLilian2_aa3e213b:
 
     # centered "{size=37}позже в доме хейлов{/size}"
-    centered "{più tardi nella casa di Hale{/size}"
+    centered "{size=37}più tardi nella casa di Hale{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:26
 translate italian sitWithLilian2_b63eb2fb:
@@ -436,7 +436,7 @@ translate italian sitWithLilian2_ce59d414:
 translate italian sitWithLilian2_fe0192ff:
 
     # centered "{size=37}СПУСТЯ НЕСКОЛЬКО ДОЛГИХ ОТКРОВЕННЫХ РАЗГОВОРОВ{/size}"
-    centered "{SENZA ALCUNA LUNGA DISCUSSIONE{/size}."
+    centered "{size=37}SENZA ALCUNA LUNGA DISCUSSIONE{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:135
 translate italian sitWithLilian2_6eccb8b3:
@@ -1528,7 +1528,7 @@ translate italian lilith_no_a243b981:
 translate italian lilith_no_56e4dcf9:
 
     # centered "{size=37}Пока Лилит неспешно приходит в сознание, Седрик быстро набрасывает на нее одежду и одеяло{/size}"
-    centered "{Mentre Lilith riprende tranquillamente conoscenza, Cedric le getta addosso vestiti e una coperta."
+    centered "{size=37}Mentre Lilith riprende tranquillamente conoscenza, Cedric le getta addosso vestiti e una coperta{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:538
 translate italian lilith_no_2066a511:
@@ -1864,7 +1864,7 @@ translate italian lilith_no_712e492a:
 translate italian lilith_no_5e6330ce:
 
     # centered "{size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ, У ВХОДА В КВАРТИРУ{/size}"
-    centered "{Dopo un po', all'ingresso dell'appartamento."
+    centered "{size=37}QUALCHE TEMPO DOPO, ALL'INGRESSO DELL'APPARTAMENTO{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:717
 translate italian lilith_no_303b5b6a:

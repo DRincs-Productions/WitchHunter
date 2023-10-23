@@ -220,7 +220,7 @@ translate french elion_sniff_dicks_in_school_3c1743d1:
 translate french elion_sniff_dicks_in_school_42957e3d:
 
     # centered "{size=37}Позже, в коридоре во время урока{/size}"
-    centered "{Plus tard, dans le couloir pendant le cours..."
+    centered "{size=37}Plus tard, dans le couloir pendant le cours{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:59
 translate french elion_sniff_dicks_in_school_36445bc1:

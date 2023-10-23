@@ -454,7 +454,7 @@ translate italian crystal_essence_help_will_with_her_studies_1_bae7f9f0:
 translate italian crystal_essence_help_will_with_her_studies_1_70cfdf98:
 
     # centered "{size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ{/size}"
-    centered "{TEMPO SIMMARIO{/size}"
+    centered "{size=37}DOPO UN PO' DI TEMPO{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:178
 translate italian crystal_essence_help_will_with_her_studies_1_21206c3d:

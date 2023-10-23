@@ -34,7 +34,7 @@ translate italian get_rid_of_elyons_get_panties_from_miranda_d383e8f8:
 translate italian get_rid_of_elyons_get_panties_from_miranda_f085799b:
 
     # centered "{size=37}МИРАНДА СНИМАЕТ ТРУСЫ{/size}"
-    centered "{Miranda si toglie i pantaloni."
+    centered "{size=37}MIRANDA SI TOGLIE LE MUTANDINE{/size}"
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:18
 translate italian get_rid_of_elyons_get_panties_from_miranda_ce2025c4:

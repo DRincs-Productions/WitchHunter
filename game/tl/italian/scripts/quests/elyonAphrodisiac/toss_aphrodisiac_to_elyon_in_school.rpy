@@ -40,7 +40,7 @@ translate italian toss_aphrodisiac_to_elyon_in_school_4ab00fb5:
 translate italian toss_aphrodisiac_to_elyon_in_school_d3204e6c:
 
     # centered "{size=37}Позже, после урока{/size}"
-    centered "{Più tardi, dopo la lezione{/size}"
+    centered "{size=37}Più tardi, dopo la lezione{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:27
 translate italian toss_aphrodisiac_to_elyon_in_school_6b14704b:
@@ -64,7 +64,7 @@ translate italian toss_aphrodisiac_to_elyon_in_school_6dff9d29:
 translate italian toss_aphrodisiac_to_elyon_in_school_576697a3:
 
     # centered "{size=37}На перемене{/size}"
-    centered "{All'intervallo{/size}"
+    centered "{size=37}All'intervallo{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:39
 translate italian toss_aphrodisiac_to_elyon_in_school_15f4035e:
@@ -184,7 +184,7 @@ translate italian toss_aphrodisiac_to_elyon_in_school_5bc1f49e:
 translate italian toss_aphrodisiac_to_elyon_in_school_4a7238b2:
 
     # centered "{size=37}Элион выбегает из класса{/size}"
-    centered "{Elion finisce la classe{/size}"
+    centered "{size=37}Elion finisce la classe{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:76
 translate italian toss_aphrodisiac_to_elyon_in_school_f56b30c0:
@@ -214,5 +214,5 @@ translate italian toss_aphrodisiac_to_elyon_in_school_34e02628:
 translate italian toss_aphrodisiac_to_elyon_in_school_52227770:
 
     # centered "{size=37}По школе начали разноситься слухи о том, что Элион мастурбировала прямо во время перемены{/size}"
-    centered "{Si diffuse la voce che Elion si masturbasse durante la ricreazione."
+    centered "{size=37}Si diffuse la voce che Elion si masturbasse durante la ricreazione{/size}"
 

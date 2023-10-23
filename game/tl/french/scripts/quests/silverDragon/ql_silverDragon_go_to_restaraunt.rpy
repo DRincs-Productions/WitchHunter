@@ -166,7 +166,7 @@ translate french ql_silverDragon_go_to_restaraunt_18068606:
 translate french ql_silverDragon_go_to_restaraunt_d9756c75:
 
     # centered "{size=37}В переулке у ресторана{/size}"
-    centered "{Dans une ruelle, devant un restaurant."
+    centered "{size=37}Dans une ruelle, devant un restaurant{/size}"
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:84
 translate french ql_silverDragon_go_to_restaraunt_62bb01a1:

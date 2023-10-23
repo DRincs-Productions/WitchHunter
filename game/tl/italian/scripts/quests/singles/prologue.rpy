@@ -274,7 +274,7 @@ translate italian prologue_8ce3802c:
 translate italian prologue_77ab8b26:
 
     # centered "{size=37}Некоторое время спустя, в Хезарфилде..{/size}"
-    centered "{Qualche tempo dopo, a Hezarfield..."
+    centered "{size=37}Qualche tempo dopo, a Hesarfield...{/size}"
 
 # game/scripts/quests/singles/prologue.rpy:171
 translate italian prologue_49316299_1:
@@ -364,13 +364,13 @@ translate italian prologue_a20cefa7_1:
 translate italian prologue_fc535157:
 
     # centered "{size=37}Спустя несколько дней…{/size}"
-    centered "{Pochi giorni dopo…{/size}"
+    centered "{size=37}Alcuni giorni dopo...{/size}"
 
 # game/scripts/quests/singles/prologue.rpy:200
 translate italian prologue_2e328cc3:
 
     # cedrick "({i}Что за жалкое место, какой бардак! И почему я должен прибираться здесь. Я {size=22}ЛОРД{/size}, а не какая-то служанка! У меня голубая кровь!{/i})"
-    cedrick "({i}Che posto miserabile, che casino! E perché devo pulire qui dentro. Io sono il Signore, non una serva! Ho il sangue blu!"
+    cedrick "({i}Che posto patetico, che caos! E perché dovrei pulire qui. IO {size=22}SONO UN SIGNORE{/size}, non una cameriera! Ho il sangue blu!{/i})"
 
 # game/scripts/quests/singles/prologue.rpy:201
 translate italian prologue_e28e9226:
