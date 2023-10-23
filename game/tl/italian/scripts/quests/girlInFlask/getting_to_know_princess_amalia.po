@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:00\n"
+"PO-Revision-Date: 2023-10-23 08:02\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/girlInFlask/getting_to_know_princess_amalia.rpy:3 #-#-# translate crowdin getting_to_know_princess_amalia_719fe2c6:
 msgid "[_amalia_] Вы не видели девушку-Кра?"
@@ -98,7 +98,7 @@ msgstr "[_amalia_] Beh... E come ti chiami?"
 
 # game/scripts/quests/girlInFlask/getting_to_know_princess_amalia.rpy:45 #-#-# translate crowdin getting_to_know_princess_amalia_d7142e0f:
 msgid "[_cedrick_] Седрик"
-msgstr "[_cedrick_] Cedro"
+msgstr "[_cedrick_] Cedric"
 
 # game/scripts/quests/girlInFlask/getting_to_know_princess_amalia.rpy:49 #-#-# translate crowdin getting_to_know_princess_amalia_30692337:
 msgid "[_amalia_] Вы сможете мне помочь, Седрик?! Я обязана найти Евангелину, мне необходима ваша помощь"
