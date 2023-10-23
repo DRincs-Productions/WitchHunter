@@ -16,7 +16,7 @@ translate italian taraniDidNotCome_a3305428:
 translate italian taraniDidNotCome_82837c08:
 
     # cedrick "(Похоже, что Тарани сегодня решила не посещать мой урок…)"
-    cedrick "(Sembra che Tarani abbia deciso di non frequentare la mia classe oggi…)"
+    cedrick "(Sembra che Taranee abbia deciso di non frequentare la mia classe oggi…)"
 
 # game/scripts/quests/tarani/taraniDidNotCome.rpy:12
 translate italian taraniDidNotCome_a20cefa7:

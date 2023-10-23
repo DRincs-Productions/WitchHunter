@@ -148,7 +148,7 @@ translate italian menu2_next_665c262f:
 translate italian menu2_next_060244a0:
 
     # centered "{size=37}На следующий день..{/size}"
-    centered "{Il giorno dopo..."
+    centered "{size=37}Il giorno dopo..{/size}"
 
 translate italian strings:
 

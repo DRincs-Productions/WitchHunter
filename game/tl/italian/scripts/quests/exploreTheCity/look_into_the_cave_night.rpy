@@ -22,7 +22,7 @@ translate italian look_into_the_cave_night_15263d34:
 translate italian look_into_the_cave_night_0c1cf74f:
 
     # blankChar "Да! Это дома бланка, приколись!"
-    blankChar "Sì! E' un modulo a casa, prendetelo in mano!"
+    blankChar "Sì! E' Blunk a casa, prendetelo in mano!"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:19
 translate italian look_into_the_cave_night_d3312491:
@@ -34,7 +34,7 @@ translate italian look_into_the_cave_night_d3312491:
 translate italian look_into_the_cave_night_6b032191:
 
     # blankChar "Убирайся! Бланк не хотеть мыться!"
-    blankChar "Fuori! Il vuoto non si vuole lavare!"
+    blankChar "Fuori! Blunk non si vuole lavare!"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:24
 translate italian look_into_the_cave_night_d9283c4c:
@@ -52,13 +52,13 @@ translate italian look_into_the_cave_night_8dc272a8:
 translate italian look_into_the_cave_night_a78279c4:
 
     # blankChar "Бланк пришлось покинуть уютный бак с кучей еды, она выгнать меня!"
-    blankChar "Blank ha dovuto lasciare l'accogliente vasca con la pila di cibo, mi ha cacciato!"
+    blankChar "Blunk ha dovuto lasciare l'accogliente vasca con la pila di cibo, mi ha cacciato!"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:27
 translate italian look_into_the_cave_night_95de2af7:
 
     # blankChar "Говорить, что бланк пугает клиентов! Мой аромат мешает кушац человекам!"
-    blankChar "Dire che il modulo spaventa i clienti! Il mio aroma disturba le abitudini alimentari delle persone!"
+    blankChar "Dire che Blunk spaventa i clienti! Il mio aroma disturba le abitudini alimentari delle persone!"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:28
 translate italian look_into_the_cave_night_5de7784c:
@@ -70,7 +70,7 @@ translate italian look_into_the_cave_night_5de7784c:
 translate italian look_into_the_cave_night_e6e67a16:
 
     # blankChar "Больше бланк туда не возвращаеца! К этим злым ведьмам!"
-    blankChar "Il modulo non torna lì! A quelle streghe malvagie!"
+    blankChar "Blunk non torna lì! A quelle streghe malvagie!"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:30
 translate italian look_into_the_cave_night_60c64cf5:
@@ -100,7 +100,7 @@ translate italian look_into_the_cave_night_811e09e7:
 translate italian look_into_the_cave_night_b09847a8:
 
     # blankChar "Бланк не контрбандист! Бланк бизнесмен!"
-    blankChar "Blank non è un contropoliziotto! Blank è un uomo d'affari!"
+    blankChar "Blunk non è un contropoliziotto! Blunk è un uomo d'affari!"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:38
 translate italian look_into_the_cave_night_dbcf998f:
@@ -154,7 +154,7 @@ translate italian look_into_the_cave_night_8595d9d0:
 translate italian look_into_the_cave_night_8eab897a:
 
     # blankChar "Бланк не крал! Одолжил по старой дружбе... "
-    blankChar "Non ho rubato il modulo! Preso in prestito da una vecchia amicizia... "
+    blankChar "Non ho rubato Blunk! Preso in prestito da una vecchia amicizia... "
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:59
 translate italian look_into_the_cave_night_04f3be58:
@@ -166,7 +166,7 @@ translate italian look_into_the_cave_night_04f3be58:
 translate italian look_into_the_cave_night_667ad927:
 
     # blankChar "Бланк хотеть 1000 золотых!"
-    blankChar "Il modulo vuole 1.000 pezzi d'oro!"
+    blankChar "Blunk vuole 1000 pezzi d'oro!"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:61
 translate italian look_into_the_cave_night_d39595ec:
@@ -190,7 +190,7 @@ translate italian look_into_the_cave_night_46f894c4:
 translate italian look_into_the_cave_night_7739b25e:
 
     # blankChar "А еще у бланка есть мясные бусы! 2000 золотых!"
-    blankChar "E il blanc ha anche le perle di carne! 2.000 oro!"
+    blankChar "E Blunk ha anche le perle di carne! 2000 oro!"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:68
 translate italian look_into_the_cave_night_b4b59138:

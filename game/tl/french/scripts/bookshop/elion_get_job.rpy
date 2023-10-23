@@ -148,7 +148,7 @@ translate french menu2_next_665c262f:
 translate french menu2_next_060244a0:
 
     # centered "{size=37}На следующий день..{/size}"
-    centered "{Le jour suivant..."
+    centered "{size=37}Le jour suivant..{/size}"
 
 translate french strings:
 

@@ -16,7 +16,7 @@ translate italian goToConcert_eafc550a:
 translate italian goToConcert_221be065:
 
     # centered "{size=37}Спустя некоторое время{/size}"
-    centered "{Dopo un po' di tempo"
+    centered "{size=37}Dopo un po' di tempo{/size}"
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:15
 translate italian goToConcert_7cbf0ac5:
@@ -64,7 +64,7 @@ translate italian goToConcert_27126a7f:
 translate italian goToConcert_cc1c311c:
 
     # centered "{size=37}Спустя 20 минут на концерте{/size}"
-    centered "{20 minuti di concerto{/size}"
+    centered "{size=37}20 minuti di concerto{/size}"
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:42
 translate italian goToConcert_a20cefa7_2:

@@ -4,7 +4,7 @@
 translate italian elion_is_being_groped_at_school_9c285532:
 
     # centered "{size=37}Тем временем в женском туалете{/size}"
-    centered "{mentre si trovava nel bagno delle donne{/size}"
+    centered "{size=37}Nel frattempo nel bagno delle donne{/size}"
 
 # game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:8
 translate italian elion_is_being_groped_at_school_ff781da1:

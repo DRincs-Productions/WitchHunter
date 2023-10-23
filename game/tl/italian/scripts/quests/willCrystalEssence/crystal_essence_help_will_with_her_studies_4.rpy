@@ -4,7 +4,7 @@
 translate italian crystal_essence_help_will_with_her_studies_4_8b9f713b:
 
     # centered "{size=37}ПОЗЖЕ, ВЕЧЕРОМ{/size}"
-    centered "{{size=37}A tarda notte{/size}"
+    centered "{size=37}A TARDA NOTTE{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:12
 translate italian crystal_essence_help_will_with_her_studies_4_30c9cc4a:
@@ -94,7 +94,7 @@ translate italian crystal_essence_help_will_with_her_studies_4_4f182ffa:
 translate italian crystal_essence_help_will_with_her_studies_4_51762836:
 
     # centered "{size=37}ПОЗЖЕ, НОЧЬЮ{/size}"
-    centered "{size=37}Tarda notte, {/size}"
+    centered "{size=37}A TARDA NOTTE{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:41
 translate italian crystal_essence_help_will_with_her_studies_4_bf526265:
@@ -160,7 +160,7 @@ translate italian crystal_essence_help_will_with_her_studies_4_5f9b772e:
 translate italian crystal_essence_help_will_with_her_studies_4_b7a0ecc4:
 
     # cedrick "Вилл, ты безумна.. Что бы сказала твоя мама? Что бы сказали Ирма, Тарани, Корнелия и Хай Лин?"
-    cedrick "Will, sei pazzo. Cosa direbbe tua madre? Cosa direbbero Irma, Tarani, Cornelia e Hai Lin?"
+    cedrick "Will, sei pazzo. Cosa direbbe tua madre? Cosa direbbero Irma, Taranee, Cornelia e Hay Lin?"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:60
 translate italian crystal_essence_help_will_with_her_studies_4_8a8a9b7f:
@@ -256,7 +256,7 @@ translate italian crystal_essence_help_will_with_her_studies_4_a272bb4a:
 translate italian crystal_essence_help_will_with_her_studies_4_643fb3a6:
 
     # centered "{size=37}В комнате Сьюзан{/size}"
-    centered "{Nella stanza di Susan."
+    centered "{size=37}Nella stanza di Susan{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:105
 translate italian crystal_essence_help_will_with_her_studies_4_49316299:

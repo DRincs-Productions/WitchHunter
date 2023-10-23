@@ -370,7 +370,7 @@ translate french crush_irma_and_taranee_5e63c793:
 translate french crush_irma_and_taranee_42c7c647:
 
     # centered "{size=37}Рик принимает 5 зелий восстановления магической силы{/size}"
-    centered "{Rick a besoin de 5 potions pour restaurer sa puissance magique."
+    centered "{size=37}Rick a besoin de 5 potions pour restaurer sa puissance magique{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:125
 translate french crush_irma_and_taranee_99cf4cf0:

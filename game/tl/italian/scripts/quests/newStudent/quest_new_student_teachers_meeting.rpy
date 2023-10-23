@@ -178,7 +178,7 @@ translate italian quest_new_student_teachers_meeting_3b919fa1:
 translate italian quest_new_student_teachers_meeting_5bb20f09:
 
     # centered "{size=37}спустя несколько минут на собрании учителей {/size}"
-    centered "{Pochi minuti in una riunione di insegnanti."
+    centered "{size=37}pochi minuti in una riunione di insegnanti {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:110
 translate italian quest_new_student_teachers_meeting_ca263fd0:

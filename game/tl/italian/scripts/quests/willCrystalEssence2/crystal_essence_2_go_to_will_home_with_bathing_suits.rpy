@@ -22,7 +22,7 @@ translate italian crystal_essence_2_go_to_will_home_with_bathing_suits_945a1206:
 translate italian crystal_essence_2_go_to_will_home_with_bathing_suits_183927f3:
 
     # centered "{size=37}СПУСТЯ НЕКОТОРОЕ ВРЕМЯ В БАССЕЙНЕ{/size}"
-    centered "{L'ULTIMA VOLTA NEL BACINO{/size}"
+    centered "{size=37}L'ULTIMA VOLTA NEL BACINO{/size}"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:36
 translate italian crystal_essence_2_go_to_will_home_with_bathing_suits_89ec3983:

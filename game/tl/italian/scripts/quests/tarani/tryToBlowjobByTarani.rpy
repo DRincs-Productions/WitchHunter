@@ -10,13 +10,13 @@ translate italian tryToBlowjobByTarani_8ee11483:
 translate italian tryToBlowjobByTarani_c1696a59:
 
     # centered "{size=37}после проведенной контрольной работы{/size}"
-    centered "{dopo il test {/size=37}"
+    centered "{size=37}dopo il test{/size}"
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:13
 translate italian tryToBlowjobByTarani_ee17437a:
 
     # cedrick "Тарани, не останешься помочь мне с проверкой?"
-    cedrick "Tarani, vuoi rimanere per aiutarmi a controllare?"
+    cedrick "Taranee, vuoi rimanere per aiutarmi a controllare?"
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:14
 translate italian tryToBlowjobByTarani_e46de5b2:
@@ -58,7 +58,7 @@ translate italian tryToBlowjobByTarani_bc745b02:
 translate italian tryToBlowjobByTarani_459fb041:
 
     # cedrick "(Это Тарани подменила его листок.. Она сделала работу за двоих. Чертовка, нашла способ, как меня обойти..)"
-    cedrick "(È stato Tarani a cambiare il suo foglio. Ha fatto il lavoro per due. Accidenti, ha trovato un modo per aggirarmi...)."
+    cedrick "(È stato Taranee a cambiare il suo foglio. Ha fatto il lavoro per due. Accidenti, ha trovato un modo per aggirarmi...)."
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:25
 translate italian tryToBlowjobByTarani_ed426cb8:

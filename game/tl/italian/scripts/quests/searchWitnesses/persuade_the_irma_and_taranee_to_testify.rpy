@@ -106,7 +106,7 @@ translate italian persuade_the_irma_and_taranee_to_testify_46557263:
 translate italian persuade_the_irma_and_taranee_to_testify_f99733ed:
 
     # cedrick "Ты видимо так и не поняла сути происходящего, Тарани"
-    cedrick "Sembra che tu non abbia ancora capito cosa sta succedendo, Tarani."
+    cedrick "Sembra che tu non abbia ancora capito cosa sta succedendo, Taranee."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:65
 translate italian persuade_the_irma_and_taranee_to_testify_ebde59ff:
@@ -166,7 +166,7 @@ translate italian persuade_the_irma_and_taranee_to_testify_ce623da9:
 translate italian persuade_the_irma_and_taranee_to_testify_d05f9b1a:
 
     # cedrick "(Видимо, это очередной результат моих старых просчетов. Я думал, что с Вилл будет сложнее, чем с Тарани)"
-    cedrick "(A quanto pare questo è un altro risultato dei miei vecchi errori di calcolo. Pensavo che sarebbe stato più difficile con Will che con Tarani)."
+    cedrick "(A quanto pare questo è un altro risultato dei miei vecchi errori di calcolo. Pensavo che sarebbe stato più difficile con Will che con Taranee)."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:85
 translate italian persuade_the_irma_and_taranee_to_testify_77b614e0:
@@ -190,7 +190,7 @@ translate italian persuade_the_irma_and_taranee_to_testify_280ee35b:
 translate italian persuade_the_irma_and_taranee_to_testify_4d107a8e:
 
     # cedrick "Ирма, я приду за тобой, как только все подготовлю. Тарани остается здесь"
-    cedrick "Irma, verrò a prenderti non appena avrò preparato tutto. Tarani rimane qui"
+    cedrick "Irma, verrò a prenderti non appena avrò preparato tutto. Taranee rimane qui"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:99
 translate italian persuade_the_irma_and_taranee_to_testify_541ea7a9:
@@ -226,7 +226,7 @@ translate italian persuade_the_irma_and_taranee_to_testify_a20d2c2d:
 translate italian persuade_the_irma_and_taranee_to_testify_1132dc60:
 
     # cedrick "Достойная победа для тебя? Как считаешь, Тарани?"
-    cedrick "Una vittoria degna di nota per voi? Cosa ne pensi, Tarani?"
+    cedrick "Una vittoria degna di nota per voi? Cosa ne pensi, Taranee?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:111
 translate italian persuade_the_irma_and_taranee_to_testify_e9ed610f:
@@ -238,7 +238,7 @@ translate italian persuade_the_irma_and_taranee_to_testify_e9ed610f:
 translate italian persuade_the_irma_and_taranee_to_testify_1e459619:
 
     # cedrick "Это правда. Но ты проиграешь мне со временем, Тарани. Будь уверена"
-    cedrick "È vero. Ma col tempo mi perderai, Tarani. Sii certo."
+    cedrick "È vero. Ma col tempo mi perderai, Taranee. Sii certo."
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:119
 translate italian persuade_the_irma_and_taranee_to_testify_2430b728:

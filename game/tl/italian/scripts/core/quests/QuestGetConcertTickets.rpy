@@ -12,19 +12,19 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
     old "Попросить Бланка достать билеты на концерт"
-    new "Chiedete a Blank di procurarvi i biglietti per i concerti"
+    new "Chiedete a Blunk di procurarvi i biglietti per i concerti"
 
     # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
     old "Добыть футболку для Бланка"
-    new "Ottenere una maglietta per Blank"
+    new "Ottenere una maglietta per Blunk"
 
     # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
     old "Отдать футболку Бланку"
-    new "Per dare la maglietta a Blank"
+    new "Per dare la maglietta a Blunk"
 
     # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
     old "Дождаться когда Бланк добудет билеты и забрать их"
-    new "Attendete che Blank riceva i biglietti e li ritiri."
+    new "Attendete che Blunk riceva i biglietti e li ritiri"
 
     # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
     old "Позвать Корнелию на концерт когда она заглянет в Букшоп"

@@ -58,7 +58,7 @@ translate french newspaper_section_ghosts_8663cba0:
 translate french newspaper_section_ghosts_3fa7d135:
 
     # centered "{size=36}Через несколько минут на уроке{/size}"
-    centered "{Quelques minutes après le début du cours..."
+    centered "{size=36}Quelques minutes après le début du cours{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:34
 translate french newspaper_section_ghosts_8e4c008d:

@@ -4,7 +4,7 @@
 translate french crystal_essence_2_go_to_will_home_8f648b59:
 
     # centered "{size=37}В ДОМЕ СЕМЕЙСТВА ВЭНДОМ{/size}"
-    centered "{DANS LA MAISON DE WENDOM{/size}"
+    centered "{size=37}DANS LA MAISON DE WENDOM{/size}"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:6
 translate french crystal_essence_2_go_to_will_home_e0f1bceb:
@@ -418,7 +418,7 @@ translate french crystal_essence_2_go_to_will_home_39b0ca78:
 translate french crystal_essence_2_go_to_will_home_a9265ce9:
 
     # centered "{size=37}ПОЗЖЕ НА КУХНЕ{/size}"
-    centered "{PLUS TARD DANS LA CUISINE{/size}"
+    centered "{size=37}PLUS TARD DANS LA CUISINE{/size}"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:117
 translate french crystal_essence_2_go_to_will_home_ffd7540e:

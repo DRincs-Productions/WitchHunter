@@ -40,7 +40,7 @@ translate italian elyonFoundBooks_a20cefa7:
 translate italian elyonFoundBooks_cf01c344:
 
     # centered "{size=37}Спустя несколько минут{/size}"
-    centered "{Pochi minuti dopo."
+    centered "{size=37}Pochi minuti dopo{/size}"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:32
 translate italian elyonFoundBooks_5c32ff77:
@@ -148,7 +148,7 @@ translate italian elyonFoundBooks_d9788188:
 translate italian elyonFoundBooks_cf01c344_1:
 
     # centered "{size=37}Спустя несколько минут{/size}"
-    centered "{Pochi minuti dopo."
+    centered "{size=37}Pochi minuti dopo{/size}"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:88
 translate italian elyonFoundBooks_1da9ee79:

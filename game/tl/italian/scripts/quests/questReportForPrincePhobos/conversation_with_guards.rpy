@@ -454,7 +454,7 @@ translate italian itog_grade_b93c531d:
 translate italian itog_grade_4d27d41e:
 
     # cedrick "Отлично. Как раз успею закончить кое-какие дела на Земле и привести сюда Хай Лин"
-    cedrick "Oh, fantastico. Giusto in tempo per concludere alcuni affari sulla Terra e portare Hay Ling qui."
+    cedrick "Oh, fantastico. Giusto in tempo per concludere alcuni affari sulla Terra e portare Hay Lin qui."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:189
 translate italian itog_grade_c910ecfb:
@@ -766,7 +766,7 @@ translate italian deny_her_5177ce06:
 translate italian deny_her_84cf9f57:
 
     # centered "{size=37} СЕДРИК ВЗЯЛ ВИЛЛ ЗА ГОЛОВУ, ОПУСТИЛ НА КОЛЕНИ И ДОСТАЛ ЧЛЕН{/size}" with dissolve
-    centered "{CEDRIC FA CADERE LA TESTA DI WILL SULLE SUE MANI E SI FA DARE IL SUO CAZZO{/size} [withdissolve]."
+    centered "{size=37} CEDRIC FA CADERE LA TESTA DI WILL SULLE SUE MANI E SI FA DARE IL SUO CAZZO{/size}" with dissolve
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:314
 translate italian deny_her_d674335f:
@@ -1012,7 +1012,7 @@ translate italian accept_her_offer_5177ce06:
 translate italian accept_her_offer_81cd6112:
 
     # centered "{size=37}Седрик поставил Вилл на колени и зажимает член между ее грудей{/size}" with dissolve
-    centered "{Cedric fa inginocchiare Will e incastra il suo cazzo tra i suoi seni{/size}" with dissolve
+    centered "{size=37}Cedric fa inginocchiare Will e incastra il suo cazzo tra i suoi seni{/size}" with dissolve
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:388
 translate italian accept_her_offer_bb48271b:
@@ -1402,7 +1402,7 @@ translate italian epilog_f6cf374d:
 translate italian epilog_538cfbb3:
 
     # cedrick "(Сейчас мне особое внимание стоит уделить Хай Лин, давно я с ней не работал)"
-    cedrick "(Dovrei prestare particolare attenzione ad Hay Ling in questo momento, è passato un po' di tempo dall'ultima volta che ho lavorato con lei)."
+    cedrick "(Dovrei prestare particolare attenzione ad Hay Lin in questo momento, è passato un po' di tempo dall'ultima volta che ho lavorato con lei)."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:510
 translate italian epilog_964de117:

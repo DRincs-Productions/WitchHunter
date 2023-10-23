@@ -4,7 +4,7 @@
 translate italian crystal_essence_help_will_with_her_studies_3_228026ca:
 
     # centered "{size=37}На следующий день{/size}"
-    centered "{Il giorno dopo..."
+    centered "{size=37}Il giorno dopo{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:9
 translate italian crystal_essence_help_will_with_her_studies_3_b4e4bd4c:

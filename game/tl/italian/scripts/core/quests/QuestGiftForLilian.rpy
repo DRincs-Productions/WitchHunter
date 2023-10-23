@@ -8,7 +8,7 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestGiftForLilian.rpy:12
     old "Купить кота у Бланка"
-    new "Comprare un gatto da Blank"
+    new "Comprare un gatto da Blunk"
 
     # game/scripts/core/quests/QuestGiftForLilian.rpy:12
     old "Написать сообщение Корнелии"

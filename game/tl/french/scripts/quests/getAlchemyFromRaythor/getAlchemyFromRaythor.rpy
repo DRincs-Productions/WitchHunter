@@ -88,7 +88,7 @@ translate french getAlchemyFromRaythor_fff6679e:
 translate french getAlchemyFromRaythor_b044bb4f:
 
     # centered "{size=37}ПРОХОДЯ МИМО КАЗАРМЫ СТРАЖНИКОВ, СЕДРИК ЗАМЕЧАЕТ, КАК ОНИ РАЗВЛЕКАЮТСЯ С КАКОЙ-ТО ДЕВОЧНКОЙ{/size}"
-    centered "{En passant devant un groupe de gardes, Cedric remarque qu'ils s'amusent avec une fille."
+    ""
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:53
 translate french getAlchemyFromRaythor_0b41ca7c:
@@ -214,7 +214,7 @@ translate french getAlchemyFromRaythor_c9da3aee:
 translate french getAlchemyFromRaythor_5f7367ee:
 
     # centered "{size=37}СЕДРИК ЗАБИРАЕТ АЛХИМИ С СОБОЙ{/size}"
-    centered "{SEDRICK PREND ALHIMI AVEC HISSELF{/size}"
+    centered "{size=37}SEDRICK PREND ALHIMI AVEC HISSELF{/size}"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:77
 translate french getAlchemyFromRaythor_0d16abb9:

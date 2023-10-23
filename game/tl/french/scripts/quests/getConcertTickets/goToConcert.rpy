@@ -64,7 +64,7 @@ translate french goToConcert_27126a7f:
 translate french goToConcert_cc1c311c:
 
     # centered "{size=37}Спустя 20 минут на концерте{/size}"
-    centered "{20 minutes après le début du concert..."
+    centered "{size=37}20 minutes après le début du concert{/size}"
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:42
 translate french goToConcert_a20cefa7_2:

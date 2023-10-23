@@ -10,7 +10,7 @@ translate italian getPhotoOfNigelAgain_50f6175c:
 translate italian getPhotoOfNigelAgain_260fc317:
 
     # blank "Бланк заснять! Бланк професси-анал!"
-    blank "Il modulo è stato filmato! La forma è professionale!"
+    blank "Blunk è stato filmato! La forma è professionale!"
 
 # game/scripts/quests/tarani/getPhotoOfNigelAgain.rpy:10
 translate italian getPhotoOfNigelAgain_a20cefa7:
@@ -34,17 +34,17 @@ translate italian getPhotoOfNigelAgain_7ce37a5e:
 translate italian getPhotoOfNigelAgain_fe7471d3:
 
     # cedrick "Бланк, а ты молодец!"
-    cedrick "Blank, sei bravo!"
+    cedrick "Blunk, sei bravo!"
 
 # game/scripts/quests/tarani/getPhotoOfNigelAgain.rpy:20
 translate italian getPhotoOfNigelAgain_78a63b7b:
 
     # blank "БЛАНК молодец!"
-    blank "BLANK ben fatto!"
+    blank "BLUNK ben fatto!"
 
 # game/scripts/quests/tarani/getPhotoOfNigelAgain.rpy:23
 translate italian getPhotoOfNigelAgain_5167f676:
 
     # cedrick "(Ну с этими фотографиями я теперь точно смогу заставить Тарани сделать все, что угодно..)"
-    cedrick "(Con queste foto posso sicuramente convincere Tarani a fare qualsiasi cosa...)"
+    cedrick "(Con queste foto posso sicuramente convincere Taranee a fare qualsiasi cosa...)"
 

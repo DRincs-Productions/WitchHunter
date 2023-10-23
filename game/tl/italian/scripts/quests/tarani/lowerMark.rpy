@@ -34,7 +34,7 @@ translate italian lowerMark_49316299:
 translate italian lowerMark_e7a74009:
 
     # cedrick "А вот и работа Тарани.. Как всегда на отлично...Чертова всезнайка."
-    cedrick "Ed ecco il lavoro di Tarani... Eccellente come sempre... Maledettamente saccente."
+    cedrick "Ed ecco il lavoro di Taranee... Eccellente come sempre... Maledettamente saccente."
 
 # game/scripts/quests/tarani/lowerMark.rpy:21
 translate italian lowerMark_a20cefa7_1:

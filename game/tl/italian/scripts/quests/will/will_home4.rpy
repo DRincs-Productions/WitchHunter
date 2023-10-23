@@ -88,7 +88,7 @@ translate italian will_home4_0005c88c:
 translate italian will_home4_6751b843:
 
     # "*В комнате вилл*"
-    "* Nella stanza della villa"
+    "* Nella stanza di Will"
 
 # game/scripts/quests/will/will_home4.rpy:48
 translate italian will_home4_cd7c6c01:

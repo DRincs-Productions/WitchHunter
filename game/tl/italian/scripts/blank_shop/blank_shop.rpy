@@ -10,13 +10,13 @@ translate italian blank_shop_menu_1f3a1671:
 translate italian blank_shop_menu_2b106eec:
 
     # blankChar "Бланк не притворяется. Бланк умственно отсталый."
-    blankChar "Blank non sta fingendo. Blank ha un ritardo mentale."
+    blankChar "Blunk non sta fingendo. Blunk ha un ritardo mentale."
 
 translate italian strings:
 
     # game/scripts/blank_shop/blank_shop.rpy:23
     old "Попросить бланка найти билеты на концерт"
-    new "Chiedi al modulo per trovare i biglietti per i concerti"
+    new "Chiedi a Blunk per trovare i biglietti per i concerti"
 
     # game/scripts/blank_shop/blank_shop.rpy:23
     old "Напомни, что тебе нужно в обмен на билеты"
@@ -24,7 +24,7 @@ translate italian strings:
 
     # game/scripts/blank_shop/blank_shop.rpy:23
     old "Отдать бланку футболку"
-    new "Dare al modulo una maglietta"
+    new "Dare a Blunk una maglietta"
 
     # game/scripts/blank_shop/blank_shop.rpy:23
     old "Забрать билеты для концерта"

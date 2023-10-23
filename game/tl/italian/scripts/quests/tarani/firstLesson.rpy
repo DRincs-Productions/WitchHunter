@@ -64,13 +64,13 @@ translate italian firstLesson_d86f52c0:
 translate italian firstLesson_05d16e7b:
 
     # haylin "Сейчас биология. Тарани, ты не идешь?"
-    haylin "Ora è biologia. Tarani, non vieni?"
+    haylin "Ora è biologia. Taranee, non vieni?"
 
 # game/scripts/quests/tarani/firstLesson.rpy:43
 translate italian firstLesson_9f97bdb3:
 
     # irma "Шутишь? Чтобы наша Тарани прогуляла урок?! Да не в жизнь!"
-    irma "Mi stai prendendo in giro? Quindi il nostro Tarani può saltare la lezione?! Non è possibile!"
+    irma "Mi stai prendendo in giro? Quindi il nostro Taranee può saltare la lezione?! Non è possibile!"
 
 # game/scripts/quests/tarani/firstLesson.rpy:49
 translate italian firstLesson_e3e6a377:

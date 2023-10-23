@@ -112,7 +112,7 @@ translate italian getting_to_know_elyons_parents_2b1e25eb:
 translate italian getting_to_know_elyons_parents_a4e02cf2:
 
     # centered "{size=37}Вечером того же дня, в доме Браунов{/size}"
-    centered "{La sera dello stesso giorno, nella casa dei Brown."
+    centered "{size=37}Più tardi quella sera, a casa dei Brown{/size}"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:53
 translate italian getting_to_know_elyons_parents_97c599f7:
@@ -244,7 +244,7 @@ translate italian getting_to_know_elyons_parents_c0a0cf6c:
 translate italian getting_to_know_elyons_parents_0dc4be04:
 
     # centered "{size=37}Спустя какое-то время на кухне{/size}"
-    centered "{Dopo un po' di tempo in cucina{/size}"
+    centered "{size=37}Dopo un po' di tempo in cucina{/size}"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:114
 translate italian getting_to_know_elyons_parents_dd7ce9c0:
@@ -388,7 +388,7 @@ translate italian getting_to_know_elyons_parents_3412653e:
 translate italian getting_to_know_elyons_parents_92f622cd:
 
     # centered "{size=37}После долгих приятных разговоров за столом{/size}"
-    centered "{Dopo una lunga e piacevole conversazione intorno al tavolo{/size}"
+    centered "{size=37}Dopo una lunga e piacevole conversazione intorno al tavolo{/size}"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:142
 translate italian getting_to_know_elyons_parents_c4d97223:

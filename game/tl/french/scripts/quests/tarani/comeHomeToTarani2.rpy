@@ -100,7 +100,7 @@ translate french comeHomeToTarani2_d2a9cd47:
 translate french comeHomeToTarani2_cf93af55:
 
     # centered "{size=37}тарани встает на колени, предварительно снимая трусы. Расстегнув ширинку седрика, она обхватывает его член своими трусами и начинает дрочить его{/size}"
-    centered "{Tarani s'agenouille et enlève sa culotte au préalable. Elle ouvre sa braguette, enroule sa culotte autour de sa queue et commence à le branler{/size}."
+    centered "{size=37}tarani s'agenouille et enlève sa culotte au préalable. Elle ouvre sa braguette, enroule sa culotte autour de sa queue et commence à le branler{/size}"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:61
 translate french comeHomeToTarani2_be35dbaa:
@@ -424,7 +424,7 @@ translate french comeHomeToTarani2_b9bdb90c:
 translate french comeHomeToTarani2_7969f9d8:
 
     # centered "{size=37}Найджел убегает не закрыв за собой дверь{/size}"
-    centered "{Nigel s'enfuit sans fermer la porte derrière lui."
+    centered "{size=37}Nigel s'enfuit sans fermer la porte derrière lui{/size}"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:204
 translate french comeHomeToTarani2_4057b087:

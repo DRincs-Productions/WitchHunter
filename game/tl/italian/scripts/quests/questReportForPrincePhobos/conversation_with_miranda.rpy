@@ -256,7 +256,7 @@ translate italian conversation_with_miranda_b9acd1e1:
 translate italian conversation_with_miranda_968e38db:
 
     # cedrick "Хм, кстати об этом. Я знаю как поменять Хай Лин своей способностью. Но вот Тарани.. К ней мне не подобраться, я не знаю, на какой ее слабости сыграть"
-    cedrick "Hmm, a proposito di questo. So come cambiare Hay Ling con la mia abilità. Ma Taranee. Non riesco ad avvicinarmi a lei, non so su quale debolezza giocare."
+    cedrick "Hmm, a proposito di questo. So come cambiare Hay Lin con la mia abilità. Ma Taranee. Non riesco ad avvicinarmi a lei, non so su quale debolezza giocare."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:117
 translate italian conversation_with_miranda_5004b503:
@@ -292,7 +292,7 @@ translate italian conversation_with_miranda_c60a15d6:
 translate italian conversation_with_miranda_f6c3bcdd:
 
     # cedrick "К Хай Лин я подберусь через ее семью. Ее мать и бабушка у меня в кармане. Но вот Тарани…"
-    cedrick "Arriverò ad Hay Ling attraverso la sua famiglia. Sua madre e sua nonna sono nella mia tasca. Ma Taranee…"
+    cedrick "Arriverò ad Hay Lin attraverso la sua famiglia. Sua madre e sua nonna sono nella mia tasca. Ma Taranee…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:132
 translate italian conversation_with_miranda_39de6b12:
@@ -502,7 +502,7 @@ translate italian conversation_with_miranda_fd1aba8f:
 translate italian conversation_with_miranda_6ea6f107:
 
     # cedrick "Хай Лин присоединится к нам позже. Как раз эта часть идет согласно моему плану"
-    cedrick "Hay Ling ci raggiungerà più tardi. Questa è la parte che sta andando secondo il mio piano."
+    cedrick "Hay Lin ci raggiungerà più tardi. Questa è la parte che sta andando secondo il mio piano."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:249
 translate italian conversation_with_miranda_c51de8ac:

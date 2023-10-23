@@ -940,19 +940,19 @@ translate italian crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_
 translate italian crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_c41b1e73:
 
     # cedrick "Ох, так беспокоитесь за своих подруг? А все ли разделяют ваше рвение? где же Хай Лин?"
-    cedrick "Oh, sei così preoccupato per le tue ragazze? Tutti condividono il tuo zelo? Dov'è Hai Ling?"
+    cedrick "Oh, sei così preoccupato per le tue ragazze? Tutti condividono il tuo zelo? Dov'è Hay Lin?"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:338
 translate italian crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_f3c2fca7:
 
     # irma "Хай Лин.. Она.. Она отказалась участвовать, боясь за своих родных…"
-    irma "Hai Lin... Lei... Si è rifiutata di partecipare, temendo per la sua famiglia…"
+    irma "Hay Lin... Lei... Si è rifiutata di partecipare, temendo per la sua famiglia…"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:342
 translate italian crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_539f960c:
 
     # tarani "Потому что ты шантажируешь Хай Лин смертью ее бабушки!"
-    tarani "Perché stai ricattando Hai Ling con la morte di sua nonna!"
+    tarani "Perché stai ricattando Hay Lin con la morte di sua nonna!"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:348
 translate italian crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_b3c62b92:

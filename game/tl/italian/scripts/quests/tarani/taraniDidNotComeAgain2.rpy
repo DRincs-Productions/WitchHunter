@@ -10,5 +10,5 @@ translate italian taraniDidNotComeAgain2_865c156a:
 translate italian taraniDidNotComeAgain2_d7e5b68f:
 
     # cedrick "(Тарани опять не пришла в школу… Надо бы ее навестить..)"
-    cedrick "(Tarani non è più venuta a scuola… Dovremmo farle visita...)"
+    cedrick "(Taranee non è più venuta a scuola… Dovremmo farle visita...)"
 

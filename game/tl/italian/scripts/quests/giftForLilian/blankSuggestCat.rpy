@@ -52,7 +52,7 @@ translate italian blankSuggestCat_2472d2d1:
 translate italian blankSuggestCat_ef27ee58:
 
     # blank "На бланк все смотреть как на говно"
-    blank "Tutti guardano il modulo come una merda."
+    blank "Tutti guardano Blunk come una merda"
 
 # game/scripts/quests/giftForLilian/blankSuggestCat.rpy:35
 translate italian blankSuggestCat_a7c65dc0:
@@ -64,7 +64,7 @@ translate italian blankSuggestCat_a7c65dc0:
 translate italian blankSuggestCat_4d0c387f:
 
     # cedrick "Бланк, отдай его мне"
-    cedrick "Il modulo, dammelo"
+    cedrick "Blunk, dammelo"
 
 # game/scripts/quests/giftForLilian/blankSuggestCat.rpy:37
 translate italian blankSuggestCat_e5f601a2:

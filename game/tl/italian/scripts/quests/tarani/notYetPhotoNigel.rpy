@@ -10,5 +10,5 @@ translate italian notYetPhotoNigel_2bbfeb2b:
 translate italian notYetPhotoNigel_eb1e4887:
 
     # blankChar "Еще нет, Бланк занятой! Приходи позже.."
-    blankChar "Non ancora, Blank è impegnato! Torna più tardi..."
+    blankChar "Non ancora, Blunk è impegnato! Torna più tardi.."
 

@@ -4,7 +4,7 @@
 translate italian comeHomeToTarani1_b4fbddde:
 
     # cedrick "Ну, если сестры Грампер дали мне верный адрес, то это должно быть дом Тарани..."
-    cedrick "Beh, se le sorelle Gramper mi hanno dato l'indirizzo giusto, deve essere la casa di Tarani..."
+    cedrick "Beh, se le sorelle Gramper mi hanno dato l'indirizzo giusto, deve essere la casa di Taranee..."
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:10
 translate italian comeHomeToTarani1_647a937c:
@@ -46,7 +46,7 @@ translate italian comeHomeToTarani1_a20cefa7:
 translate italian comeHomeToTarani1_21c79941:
 
     # "Тарани выбегает из дома и хлопает дверью."
-    "Tarani corre fuori di casa e sbatte la porta."
+    "Taranee corre fuori di casa e sbatte la porta."
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:25
 translate italian comeHomeToTarani1_87a437e6:
@@ -58,19 +58,19 @@ translate italian comeHomeToTarani1_87a437e6:
 translate italian comeHomeToTarani1_87882ed9:
 
     # woman "Тарани, постой!"
-    woman "Tarani, aspetta!"
+    woman "Taranee, aspetta!"
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:32
 translate italian comeHomeToTarani1_a583bacf:
 
     # cedrick "(Вот черт, эта женщина меня заметила. Теперь будет странно, если я побегу за Тарани.. Но, возможно, я смогу извлечь из этого выгоду)"
-    cedrick "(Oh merda, quella donna mi ha individuato. Sarebbe strano se corressi dietro a Tarani... Ma forse posso approfittarne)."
+    cedrick "(Oh merda, quella donna mi ha individuato. Sarebbe strano se corressi dietro a Taranee... Ma forse posso approfittarne)."
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:33
 translate italian comeHomeToTarani1_0be83ed7:
 
     # cedrick "Здравствуйте, я Рик Хоффман, школьный учитель истории у Тарани. Я так понимаю, она только что убежала.."
-    cedrick "Salve, sono Rick Hoffman, l'insegnante di storia della scuola di Tarani. Ho capito che è scappata via..."
+    cedrick "Salve, sono Rick Hoffman, l'insegnante di storia della scuola di Taranee. Ho capito che è scappata via..."
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:37
 translate italian comeHomeToTarani1_9e74711a:
@@ -82,13 +82,13 @@ translate italian comeHomeToTarani1_9e74711a:
 translate italian comeHomeToTarani1_43c73c52:
 
     # woman "Ох, простите за грубость. Здравствуйте, меня зовут Тереза Кук, я мама Тарани.. А вы, собственно, по какому делу решили к нам зайти?"
-    woman "Oh, mi dispiace essere scortese. Salve, mi chiamo Teresa Cook, sono la mamma di Tarani... E qual è, esattamente, il vostro lavoro qui?"
+    woman "Oh, mi dispiace essere scortese. Salve, mi chiamo Teresa Cook, sono la mamma di Taranee... E qual è, esattamente, il vostro lavoro qui?"
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:45
 translate italian comeHomeToTarani1_e41eae92:
 
     # cedrick "Опять этот Найджел.. Я как раз хотел с вами о нем поговорить. Я обеспокоен тем, как Найджел влияет на вашу Тарани"
-    cedrick "È di nuovo Nigel. Volevo parlarti di lui. Sono preoccupato per l'effetto di Nigel sul vostro Tarani."
+    cedrick "È di nuovo Nigel. Volevo parlarti di lui. Sono preoccupato per l'effetto di Nigel sul vostro Taranee."
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:49
 translate italian comeHomeToTarani1_26d81873:
@@ -172,5 +172,5 @@ translate italian comeHomeToTarani1_5f9b772e:
 translate italian comeHomeToTarani1_266846d5:
 
     # cedrick "(Так значит, у Найджела есть брат преступник, который недавно вышел из тюрьмы. Пожалуй, стоит снова попросить Бланка проследить за ним, возможно он сможет заснять более ценные кадры...)"
-    cedrick "(Nigel ha un fratello criminale che è uscito di recente di prigione. Forse dovremmo chiedere a Blank di seguirlo di nuovo, forse può catturare filmati più preziosi...)"
+    cedrick "(Nigel ha un fratello criminale che è uscito di recente di prigione. Forse dovremmo chiedere a Blunk di seguirlo di nuovo, forse può catturare filmati più preziosi...)"
 

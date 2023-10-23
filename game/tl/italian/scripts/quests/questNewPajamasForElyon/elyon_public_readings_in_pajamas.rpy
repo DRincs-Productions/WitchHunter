@@ -4,7 +4,7 @@
 translate italian elyon_public_readings_in_pajamas_ad1cadb7:
 
     # centered "{size=37} На вечере чтений {/size}"
-    centered "{Alla serata di lettura"
+    centered "{size=37} Alla serata di lettura {/size}"
 
 # game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:7
 translate italian elyon_public_readings_in_pajamas_6147dfa8:

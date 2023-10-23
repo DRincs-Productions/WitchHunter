@@ -4,5 +4,5 @@
 translate italian tarani_for_evening_quests_836c5db7:
 
     # cedrick "Мне стоит зайти к Тарани вечером"
-    cedrick "Dovrei passare da Tarani stasera"
+    cedrick "Dovrei passare da Taranee stasera"
 

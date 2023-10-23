@@ -166,7 +166,7 @@ translate italian elyon_quarreled_with_her_parents_0fb586fb:
 translate italian elyon_quarreled_with_her_parents_61ecaa91:
 
     # centered "{size=37}ЭТОЙ ЖЕ НОЧЬЮ В ДОМЕ БРАУНОВ{/size}"
-    centered "{QUESTA NOTTE ALLA CASA BROWN{/size}"
+    centered "{size=37}QUESTA NOTTE ALLA CASA BROWN{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:64
 translate italian elyon_quarreled_with_her_parents_67db9e64:
@@ -184,7 +184,7 @@ translate italian elyon_quarreled_with_her_parents_ed60833b:
 translate italian elyon_quarreled_with_her_parents_78308d23:
 
     # centered "{size=37}СЕДРИК ВЛАМЫВАЕТСЯ В ДОМ{/size}"
-    centered "{I SEDICI IN CASA{/size}"
+    centered "{size=37}I SEDICI IN CASA{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:71
 translate italian elyon_quarreled_with_her_parents_a20cefa7:
@@ -394,7 +394,7 @@ translate italian elyon_quarreled_with_her_parents_b0cb999d:
 translate italian elyon_quarreled_with_her_parents_123f66c0:
 
     # centered "{size=37}Альборн и Мирабель уходят в сторону магазина Седрика{/size}"
-    centered "{Albourn e Mirabel si allontanano verso il negozio di Cedric."
+    centered "{size=37}Albourn e Mirabel si allontanano verso il negozio di Cedric{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:236
 translate italian elyon_quarreled_with_her_parents_3b487e6b:
@@ -418,7 +418,7 @@ translate italian elyon_quarreled_with_her_parents_71f291bf:
 translate italian elyon_quarreled_with_her_parents_d9cf32c7:
 
     # centered "{size=37}Седрик забирает звезду трибы и возвращается к себе в магазин{/size}"
-    centered "{Cedric prende la stella della tribù e torna al suo negozio."
+    centered "{size=37}Cedric prende la stella della tribù e torna al suo negozio{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:246
 translate italian elyon_quarreled_with_her_parents_f435ef5b:
@@ -436,7 +436,7 @@ translate italian elyon_quarreled_with_her_parents_c8756f1c:
 translate italian elyon_quarreled_with_her_parents_3ae3404e:
 
     # centered "{size=37}Утром на следующий день{/size}"
-    centered "{Il mattino seguente."
+    centered "{size=37}Il mattino seguente{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:254
 translate italian elyon_quarreled_with_her_parents_bc1b050a:
@@ -556,7 +556,7 @@ translate italian elyon_quarreled_with_her_parents_ffbcd8fd:
 translate italian elyon_quarreled_with_her_parents_3c48e2b5:
 
     # centered "{size=37}Вечером того же дня{/size}"
-    centered "{La sera dello stesso giorno."
+    centered "{size=37}La sera dello stesso giorno{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:297
 translate italian elyon_quarreled_with_her_parents_87898073:
@@ -640,7 +640,7 @@ translate italian elyon_quarreled_with_her_parents_0da682e4:
 translate italian elyon_quarreled_with_her_parents_54cf8e5f:
 
     # cedrick "(Обратиться к Бланку?.. Нет, этот вонючка слишком тесно связан со Стражницами, может взболтнуть лишнего.. Но если не Бланк, тогда..)"
-    cedrick "(Girare a vuoto...? No, quel fetente è troppo vicino alle Sentinelle per dire troppo... Ma se non è Blank, allora...)."
+    cedrick "(Girare a vuoto...? No, quel fetente è troppo vicino alle Sentinelle per dire troppo... Ma se non è Blunk, allora...)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:326
 translate italian elyon_quarreled_with_her_parents_21aa3267:

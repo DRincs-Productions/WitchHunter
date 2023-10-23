@@ -82,5 +82,5 @@ translate italian ql_hayLin_help_in_restoran_1_6a648b41:
 translate italian ql_hayLin_help_in_restoran_1_f7f35501:
 
     # "Седрик работает в ресторане Серебряный дракон. Не все идет так гладко, как хотелось бы, но Хай Лин благодарна за вашу помощь…"
-    "Cedric lavora al ristorante Silver Dragon. Le cose non stanno andando bene come vorremmo, ma Hai Lin è grata per il vostro aiuto…"
+    "Cedric lavora al ristorante Silver Dragon. Le cose non stanno andando bene come vorremmo, ma Hay Lin è grata per il vostro aiuto…"
 

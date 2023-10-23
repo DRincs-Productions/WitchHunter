@@ -22,7 +22,7 @@ translate italian ql_silverDragon_go_to_restaraunt_79e549ef:
 translate italian ql_silverDragon_go_to_restaraunt_3045c1e9:
 
     # YanLin "К счастью, сегодня у нас много свободных столиков… Впрочем, в последнее время у нас всегда есть свободные места… Прошу, присаживайтесь, моя прекрасная внучка Хай Лин принесет вам меню…"
-    YanLin "Per fortuna stasera abbiamo molti tavoli vuoti… Tuttavia, ultimamente abbiamo sempre posti vuoti… Prego, si accomodi, la mia bellissima nipote Hai Lin le porterà il menu…"
+    YanLin "Per fortuna stasera abbiamo molti tavoli vuoti… Tuttavia, ultimamente abbiamo sempre posti vuoti… Prego, si accomodi, la mia bellissima nipote Hay Lin le porterà il menu…"
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:17
 translate italian ql_silverDragon_go_to_restaraunt_665cb7ca:
@@ -34,13 +34,13 @@ translate italian ql_silverDragon_go_to_restaraunt_665cb7ca:
 translate italian ql_silverDragon_go_to_restaraunt_c9b0796c:
 
     # cedrick "Вас зовут Хай Лин?"
-    cedrick "Il tuo nome è Hai Ling?"
+    cedrick "Il tuo nome è Hay Lin?"
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:22
 translate italian ql_silverDragon_go_to_restaraunt_f1af8244:
 
     # caleb "Эм... Я Калеб! Хай Лин сейчас занята на кухне..."
-    caleb "Ehm... Sono Caleb! Hai Lin è impegnata in cucina in questo momento..."
+    caleb "Ehm... Sono Caleb! Hay Lin è impegnata in cucina in questo momento..."
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:26
 translate italian ql_silverDragon_go_to_restaraunt_e0434b0a:
@@ -94,7 +94,7 @@ translate italian ql_silverDragon_go_to_restaraunt_f8b62f0b:
 translate italian ql_silverDragon_go_to_restaraunt_8726d567:
 
     # haylin "Извините, он новенький! Меня зовут Хай Лин и сегодня я буду вашей официанткой..."
-    haylin "Mi dispiace, è nuovo! Mi chiamo Hai Lin e oggi sarò la vostra cameriera..."
+    haylin "Mi dispiace, è nuovo! Mi chiamo Hay Lin e oggi sarò la vostra cameriera..."
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:50
 translate italian ql_silverDragon_go_to_restaraunt_d1583543:
@@ -166,7 +166,7 @@ translate italian ql_silverDragon_go_to_restaraunt_18068606:
 translate italian ql_silverDragon_go_to_restaraunt_d9756c75:
 
     # centered "{size=37}В переулке у ресторана{/size}"
-    centered "{In un vicolo fuori da un ristorante{/size}"
+    centered "{size=37}In un vicolo fuori da un ristorante{/size}"
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:84
 translate italian ql_silverDragon_go_to_restaraunt_62bb01a1:
@@ -178,7 +178,7 @@ translate italian ql_silverDragon_go_to_restaraunt_62bb01a1:
 translate italian ql_silverDragon_go_to_restaraunt_477653ae:
 
     # blank "Спасиба! Бланк стараться!"
-    blank "Grazie! Il modulo ci sta provando!"
+    blank "Grazie! Blunk ci sta provando!"
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:86
 translate italian ql_silverDragon_go_to_restaraunt_08426da2:

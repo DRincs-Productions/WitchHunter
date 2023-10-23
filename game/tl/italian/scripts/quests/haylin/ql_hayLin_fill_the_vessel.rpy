@@ -4,5 +4,5 @@
 translate italian ql_hayLin_fill_the_vessel_a026d133:
 
     # cedrick "Так, теперь нужно отдать это Хай Лин..."
-    cedrick "Ok, ora dobbiamo darla ad Hai Ling..."
+    cedrick "Ok, ora dobbiamo darla ad Hay Lin..."
 

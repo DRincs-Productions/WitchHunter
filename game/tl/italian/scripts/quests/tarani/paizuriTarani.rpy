@@ -16,7 +16,7 @@ translate italian paizuriTarani_e210dc2b:
 translate italian paizuriTarani_dfbdfe87:
 
     # cedrick "Мы лишь проверяем уровень ваших знаний, Хай Лин. В правильных руках любое знание превращается в силу, не стоит это недооценивать. Верно, Тарани?"
-    cedrick "Stiamo solo testando il tuo livello di conoscenza, Hai Lin. Nelle mani giuste ogni conoscenza si trasforma in potere, non sottovalutatelo. Giusto, Tarani?"
+    cedrick "Stiamo solo testando il tuo livello di conoscenza, Hay Lin. Nelle mani giuste ogni conoscenza si trasforma in potere, non sottovalutatelo. Giusto, Taranee?"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:8
 translate italian paizuriTarani_1e9e5a76:
@@ -28,7 +28,7 @@ translate italian paizuriTarani_1e9e5a76:
 translate italian paizuriTarani_0f374d4c:
 
     # haylin "Ну конечно, Тарани то всегда ко всему готова!"
-    haylin "Naturalmente, Tarani è sempre pronta a tutto!"
+    haylin "Naturalmente, Taranee è sempre pronta a tutto!"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:10
 translate italian paizuriTarani_c78b3858:
@@ -40,13 +40,13 @@ translate italian paizuriTarani_c78b3858:
 translate italian paizuriTarani_d4706847:
 
     # centered "{size=37}После урока..{/size}"
-    centered "{Dopo la lezione..."
+    centered "{size=37}Dopo la lezione..{/size}"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:18
 translate italian paizuriTarani_36adae20:
 
     # cedrick "Тарани, не поможешь мне с проверкой контрольных?"
-    cedrick "Tarani, puoi aiutarmi a controllare i controlli?"
+    cedrick "Taranee, puoi aiutarmi a controllare i controlli?"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:19
 translate italian paizuriTarani_4eda9780:
@@ -70,7 +70,7 @@ translate italian paizuriTarani_1ee5b6c4:
 translate italian paizuriTarani_42fdc3a9:
 
     # cedrick "Мда, парень ни на что негоден.. Надеюсь хоть ты за него постараешься, Тарани"
-    cedrick "Sì, il ragazzo non è bravo. Spero che almeno ci proverai, Tarani."
+    cedrick "Sì, il ragazzo non è bravo. Spero che almeno ci proverai, Taranee."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:29
 translate italian paizuriTarani_6431c766:

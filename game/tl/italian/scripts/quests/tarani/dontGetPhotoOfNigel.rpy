@@ -10,5 +10,5 @@ translate italian dontGetPhotoOfNigel_4e86a3e4:
 translate italian dontGetPhotoOfNigel_fc6c4c03:
 
     # blank "Еще нет. Бланк занятой"
-    blank "Non ancora. Il modulo è occupato"
+    blank "Non ancora. Blunk è occupato"
 

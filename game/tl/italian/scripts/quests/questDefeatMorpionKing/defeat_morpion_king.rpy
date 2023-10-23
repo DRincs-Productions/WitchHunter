@@ -1126,7 +1126,7 @@ translate italian defeat_morpion_king_068b1e5b:
 translate italian defeat_morpion_king_8a969932:
 
     # centered "{size=37}В ТЕМНИЦЕ КОРНЕЛИИ {/size}"
-    centered "{Nell'oscurità della Cornelia."
+    centered "{size=37}NELLA SEGRETA DI CORNELIA {/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:545
 translate italian defeat_morpion_king_3c3f83da:
@@ -2140,7 +2140,7 @@ translate italian q_dfk_cornelia_dialogs_continue_af73512c:
 translate italian q_dfk_cornelia_dialogs_continue_bc588c08:
 
     # centered "{size=37}Седрик рассказывает все Миранде {/size}"
-    centered "{Cedric racconta tutto a Miranda."
+    centered "{size=37}Cedric racconta tutto a Miranda {/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:960
 translate italian q_dfk_cornelia_dialogs_continue_3c8a3003:
@@ -2320,7 +2320,7 @@ translate italian q_dfk_cornelia_dialogs_continue_962205f6:
 translate italian q_dfk_cornelia_dialogs_continue_462bd96e:
 
     # centered "{size=37}Седрику приводят побитого воина{/size}"
-    centered "{Cedric viene portato come un guerriero malconcio."
+    centered "{size=37}Cedric viene portato come un guerriero malconcio{/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1061
 translate italian q_dfk_cornelia_dialogs_continue_0a6593ad:
@@ -2806,7 +2806,7 @@ translate italian q_dfk_cornelia_dialogs_continue_a20cefa7:
 translate italian q_dfk_cornelia_dialogs_continue_bf164ccc:
 
     # cedrick "(Так, первым делом нужно разобраться с детективами. Ирма и Тарани, несмотря на всю свою силу, всего лишь две школьницы. С ними я справлюсь, а вот с розыском сложнее..)"
-    cedrick "(OK, il primo ordine del giorno è quello di occuparsi dei detective. Irma e Tarani, con tutta la loro forza, sono solo due studentesse. Posso gestirli, ma la ricerca è più difficile...)."
+    cedrick "(OK, il primo ordine del giorno è quello di occuparsi dei detective. Irma e Taranee, con tutta la loro forza, sono solo due studentesse. Posso gestirli, ma la ricerca è più difficile...)."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1318
 translate italian q_dfk_cornelia_dialogs_continue_aed41212:

@@ -64,7 +64,7 @@ translate french get_a_flower_with_a_red_core_c3b589ea:
 translate french get_a_flower_with_a_red_core_bbf43d2a:
 
     # centered "{size=37}Спустя некоторое время в лесу меридиана {/size}"
-    centered "{Après un certain temps dans la forêt méridienne."
+    centered "{size=37}Après un certain temps dans la forêt méridienne {/size}"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:47
 translate french get_a_flower_with_a_red_core_b8b2302f:

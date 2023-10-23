@@ -46,7 +46,7 @@ translate italian strings:
 
     # game/scripts/map/map.rpy:10
     old "Пещера бланка"
-    new "Grotta Blanca"
+    new "Grotta Blunk"
 
     # game/scripts/map/map.rpy:10
     old "Полицейский участок"

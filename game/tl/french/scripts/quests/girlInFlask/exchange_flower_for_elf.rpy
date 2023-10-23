@@ -58,7 +58,7 @@ translate french exchange_flower_for_elf_8b1fda06:
 translate french exchange_flower_for_elf_1d458c43:
 
     # centered "{size=37}Cедрик осматривает вещи Евангелины и находит среди них странную голубую Каплю, которую он забирает себе. Миранда ставит Евангелину на ноги. Мутноватая жидкость каплями стекает с еe дрожащего тела, а глаза бешено рыскают по комнате, словно пытаясь найти кого-то{/size}" with Dissolve(1)
-    centered "{Cedric examine les affaires d'Evangeline et trouve parmi elles un étrange Blob bleu, qu'il prend pour lui. Miranda met Evangeline sur ses pieds. Le liquide trouble s'écoule de son corps tremblant et ses yeux parcourent frénétiquement la pièce comme s'ils essayaient de trouver quelqu'un{/size} [withDissolve1]."
+    centered "{size=37}Cedric examine les affaires d'Evangeline et trouve parmi elles un étrange Blob bleu, qu'il prend pour lui. Miranda met Evangeline sur ses pieds. Le liquide trouble s'écoule de son corps tremblant et ses yeux parcourent frénétiquement la pièce comme s'ils essayaient de trouver quelqu'un{/size}" with Dissolve(1)
 
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:43
 translate french exchange_flower_for_elf_a72e4ba0:

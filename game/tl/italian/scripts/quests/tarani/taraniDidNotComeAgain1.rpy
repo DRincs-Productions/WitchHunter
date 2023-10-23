@@ -40,7 +40,7 @@ translate italian taraniDidNotComeAgain1_b86705cd:
 translate italian taraniDidNotComeAgain1_b8144a93:
 
     # cedrick "(Хм, Тарани сегодня нет на уроке. Как и на прошлом... Такая зубрила не могла пропустить урок без причины)"
-    cedrick "(Tarani non è in classe oggi. E non c'era nemmeno nell'ultimo... Un tale crammer non poteva mancare alle lezioni senza un motivo)."
+    cedrick "(Taranee non è in classe oggi. E non c'era nemmeno nell'ultimo... Un tale crammer non poteva mancare alle lezioni senza un motivo)."
 
 # game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:16
 translate italian taraniDidNotComeAgain1_faa1176a:

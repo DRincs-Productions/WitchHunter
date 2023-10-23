@@ -10,7 +10,7 @@ translate italian gameower_410261a5:
 translate italian gameower_1521759a:
 
     # chenlin "Ч-черт, я так надеялся, что это Хай Лин.."
-    chenlin "Dannazione, speravo che fosse Hai Ling."
+    chenlin "Dannazione, speravo che fosse Hay Lin."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:170
 translate italian gameower_fecdf984:
@@ -46,13 +46,13 @@ translate italian gameower_52ba0c08:
 translate italian gameower_5f4f1ad3:
 
     # cedrick "(Черт, это рушит абсолютно все мои планы касательно Хай Лин.. Такую ситуацию я уже решить не смогу..)"
-    cedrick "(Dannazione, questo rovina assolutamente tutti i miei piani per Hai Ling.... Questa è una situazione che non riesco a risolvere...)"
+    cedrick "(Dannazione, questo rovina assolutamente tutti i miei piani per Hay Lin.... Questa è una situazione che non riesco a risolvere...)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:182
 translate italian gameower_96fbd5fa:
 
     # cedrick "(Для моих отношений с Хай Лин это конец..)"
-    cedrick "(Per quanto riguarda la mia relazione con Hai Ling, questa è la fine...)."
+    cedrick "(Per quanto riguarda la mia relazione con Hay Lin, questa è la fine...)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:201
 translate italian gamewin_d4fee99f:
@@ -190,7 +190,7 @@ translate italian d_01_080f10af:
 translate italian d_01_b3a30d87:
 
     # cedrick "(Возможно думает, что это Хай Лин и не хочет быть инициатором неловкой сцены..)"
-    cedrick "(Probabilmente pensa che sia Hai Ling e non vuole essere l'istigatore di una scena imbarazzante...)."
+    cedrick "(Probabilmente pensa che sia Hay Lin e non vuole essere l'istigatore di una scena imbarazzante...)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:246
 translate italian d_01_7b5009ba:

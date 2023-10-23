@@ -514,13 +514,13 @@ translate italian hide_and_seek_with_lilian_bd191809:
 translate italian hide_and_seek_with_lilian_a28946e4:
 
     # centered "{size=37}Корнелия побежала за Седриком через портал, но по пути в замок Фобоса, Седрик смог не на долго оторваться{/size}"
-    centered "{Cornelia corse dietro a Cedric attraverso il portale, ma mentre si dirigeva verso il castello di Phobos, Cedric riuscì ad allontanarsi per poco tempo."
+    centered "{size=37}Cornelia corse dietro a Cedric attraverso il portale, ma mentre si dirigeva verso il castello di Phobos, Cedric riuscì ad allontanarsi per poco tempo{/size}"
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:182
 translate italian hide_and_seek_with_lilian_c82d4ed5:
 
     # centered "{size=37} Спустя некоторое время в замке{/size}"
-    centered "{Dopo un po' di tempo nel castello{/size}"
+    centered "{size=37} Dopo un po' di tempo nel castello{/size}"
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:185
 translate italian hide_and_seek_with_lilian_38e98034:
@@ -556,7 +556,7 @@ translate italian hide_and_seek_with_lilian_56cf897d:
 translate italian hide_and_seek_with_lilian_9ac59b59:
 
     # centered "{size=37}корнелия проследила за стражниками до комнаты с сундуком и дождалась, пока они уйдут, чтобы забрать ключ{/size}"
-    centered "{Cornelia seguì le guardie fino alla stanza con il forziere e aspettò che se ne andassero per recuperare la chiave."
+    centered "{size=37}Cornelia seguì le guardie fino alla stanza con il forziere e aspettò che se ne andassero per recuperare la chiave{/size}"
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:191
 translate italian hide_and_seek_with_lilian_dc2cd39a:
@@ -700,7 +700,7 @@ translate italian hide_and_seek_with_lilian_551def29:
 translate italian hide_and_seek_with_lilian_a1237172:
 
     # centered "{size=37}СПУСТЯ ПАРУ ЧАСОВ{/size}"
-    centered "{SOMMERSO UN PO' DI ORE{/size}"
+    centered "{size=37}SOMMERSO UN PO' DI ORE{/size}"
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:234
 translate italian hide_and_seek_with_lilian_34432b8c:
@@ -730,5 +730,5 @@ translate italian hide_and_seek_with_lilian_8fce3d44:
 translate italian hide_and_seek_with_lilian_e200eea6:
 
     # centered "{size=37}СЕДРИК ДОСТАЕТ КОРНЕЛИЮ ИЗ СУНДУКА И ОТНОСИТ ЕЕ В ТЕМНИЦУ{/size}"
-    centered "{SEDRICK TOGLIE IL CORNELIO DAL SOLE e LO PORTA NELL'OSCURITA'{/size}"
+    centered "{size=37}CEDRIC TOGLIE IL CORNELIO DAL SOLE e LO PORTA NELL'OSCURITA'{/size}"
 

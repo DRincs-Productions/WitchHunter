@@ -100,5 +100,5 @@ translate italian persuade_the_cornelia_to_testify_9badc512:
 translate italian persuade_the_cornelia_to_testify_4e4d355b:
 
     # cedrick "(Так, Корнелия есть. Остались двое. Тарани и Ирма. С Ирмой не должно быть проблем, но вот Тарани..)"
-    cedrick "(Quindi, Cornelia è lì. Ne restano due. Tarani e Irma. Irma non dovrebbe essere un problema, ma Tarani...)"
+    cedrick "(Quindi, Cornelia è lì. Ne restano due. Taranee e Irma. Irma non dovrebbe essere un problema, ma Taranee...)"
 

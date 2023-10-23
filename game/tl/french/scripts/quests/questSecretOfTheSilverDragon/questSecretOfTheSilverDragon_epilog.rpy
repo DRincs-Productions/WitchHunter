@@ -4,7 +4,7 @@
 translate french questSecretOfTheSilverDragon_epilog_a6eb14d4:
 
     # centered "{size=37}Днем на следующий день{/size}" with Dissolve(1)
-    centered "{Le lendemain{/size}" with Dissolve(1)
+    centered "{size=37}Le lendemain{/size}" with Dissolve(1)
 
 # game/scripts/quests/questSecretOfTheSilverDragon/questSecretOfTheSilverDragon_epilog.rpy:11
 translate french questSecretOfTheSilverDragon_epilog_294eec35:

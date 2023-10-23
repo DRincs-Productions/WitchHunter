@@ -10,7 +10,7 @@ translate italian first_meet_8bd86d07:
 translate italian first_meet_70cfdf98:
 
     # centered "{size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ{/size}"
-    centered "{TEMPO SIMMARIO{/size}"
+    centered "{size=37}DOPO UN PO' DI TEMPO{/size}"
 
 # game/label_first_meet.rpy:10
 translate italian first_meet_7d5cbc05:

@@ -160,7 +160,7 @@ translate italian need_sensation_53489d87:
 translate italian need_sensation_a5f74d82:
 
     # centered "{size=36}Спустя еще какое-то время...{/size}"
-    centered "{Dopo un po' di tempo..."
+    centered "{size=36}Dopo un po' di tempo...{/size}"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:107
 translate italian need_sensation_821e639f:
@@ -232,7 +232,7 @@ translate italian need_sensation_38a7cef6:
 translate italian need_sensation_a5f74d82_1:
 
     # centered "{size=36}Спустя еще какое-то время...{/size}"
-    centered "{Dopo un po' di tempo..."
+    centered "{size=36}Dopo un po' di tempo...{/size}"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:145
 translate italian need_sensation_ac8a7f3d:
@@ -286,7 +286,7 @@ translate italian need_sensation_c5fa6de0:
 translate italian need_sensation_5f7c243f:
 
     # centered "{size=36}Через пару минут в столовой{/size}"
-    centered "{Un paio di minuti dopo, nella sala da pranzo."
+    centered "{size=36}Un paio di minuti dopo, nella sala da pranzo{/size}"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:182
 translate italian need_sensation_a8f384ea:
@@ -484,7 +484,7 @@ translate italian need_sensation_a20cefa7_5:
 translate italian need_sensation_5c3fb5d8:
 
     # courtney "А куда делись Ирма и Тарани?"
-    courtney "Dove sono finiti Irma e Tarani?"
+    courtney "Dove sono finiti Irma e Taranee?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:254
 translate italian need_sensation_721474a6:
@@ -580,7 +580,7 @@ translate italian need_sensation_a20cefa7_7:
 translate italian need_sensation_92f4a757:
 
     # irma "Мне нужно найти Тарани..."
-    irma "Devo trovare Tarani..."
+    irma "Devo trovare Taranee..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:290
 translate italian need_sensation_49846a9f:
@@ -934,7 +934,7 @@ translate italian need_sensation_f25dbb2c:
 translate italian need_sensation_515d86dd:
 
     # martin "А как же Ирма с Тарани? Вы их нашли?"
-    martin "E Irma e Tarani? Li avete trovati?"
+    martin "E Irma e Taranee? Li avete trovati?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:435
 translate italian need_sensation_cf5dc892:

@@ -64,7 +64,7 @@ translate italian take_elyon_home_cbf5f8b1:
 translate italian take_elyon_home_70f97116:
 
     # centered "{size=37}Позже вечером, в доме Браунов{/size}"
-    centered "{Più tardi, in serata, a casa Brown."
+    centered "{size=37}Più tardi, in serata, a casa Brown{/size}"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:34
 translate italian take_elyon_home_553a5159:
@@ -130,7 +130,7 @@ translate italian take_elyon_home_a31018de:
 translate italian take_elyon_home_f6d31b80:
 
     # centered "{size=37}Седрик, в поисках подозрительных вещей, натыкается на одну из комнат{/size}"
-    centered "{Cedric, alla ricerca di cose sospette, si imbatte in una delle stanze{/size}."
+    centered "{size=37}Cedric, alla ricerca di cose sospette, si imbatte in una delle stanze{/size}"
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:65
 translate italian take_elyon_home_b0a4f8e5:

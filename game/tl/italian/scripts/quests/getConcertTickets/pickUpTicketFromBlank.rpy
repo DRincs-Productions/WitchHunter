@@ -10,7 +10,7 @@ translate italian pickUpTicketFromBlank_267cf647:
 translate italian pickUpTicketFromBlank_efdc141c:
 
     # blank "Да, бланк достать!"
-    blank "Sì, prendete il modulo!"
+    blank "Sì, prendete Blunk!"
 
 # game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:13
 translate italian pickUpTicketFromBlank_868650e6:

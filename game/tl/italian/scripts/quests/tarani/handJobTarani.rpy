@@ -16,7 +16,7 @@ translate italian handJobTarani_20c7d43b:
 translate italian handJobTarani_052d0123:
 
     # centered "{size=37}Спустя некоторое время..{/size}"
-    centered "{size=37}"
+    centered "{size=37}Qualche tempo dopo..{/size}"
 
 # game/scripts/quests/tarani/handJobTarani.rpy:16
 translate italian handJobTarani_af7d75e7:
@@ -28,7 +28,7 @@ translate italian handJobTarani_af7d75e7:
 translate italian handJobTarani_e656cf0c:
 
     # cedrick "Эм.. Тарани, не могла бы ты задержаться?"
-    cedrick "Tarani, potresti aspettare?"
+    cedrick "Taranee, potresti aspettare?"
 
 # game/scripts/quests/tarani/handJobTarani.rpy:21
 translate italian handJobTarani_a20cefa7:
@@ -124,7 +124,7 @@ translate italian handJobTarani_b9bb71c7:
 translate italian handJobTarani_ecb08f1c:
 
     # cedrick "Тарани, я прекрасно понимаю. Он просто связался не с той компанией. Но таковы последствия его неправильных решений"
-    cedrick "Tarani, capisco perfettamente. Si è solo messo contro la società sbagliata. Ma queste sono le conseguenze delle sue decisioni sbagliate"
+    cedrick "Taranee, capisco perfettamente. Si è solo messo contro la società sbagliata. Ma queste sono le conseguenze delle sue decisioni sbagliate"
 
 # game/scripts/quests/tarani/handJobTarani.rpy:76
 translate italian handJobTarani_ca594820:
@@ -196,7 +196,7 @@ translate italian handJobTarani_6a605a5b:
 translate italian handJobTarani_39ed4670:
 
     # cedrick "Тарани, ты что, пытаешься меня купить?"
-    cedrick "Tarani, stai cercando di comprarmi?"
+    cedrick "Taranee, stai cercando di comprarmi?"
 
 # game/scripts/quests/tarani/handJobTarani.rpy:113
 translate italian handJobTarani_143c889f:
@@ -208,7 +208,7 @@ translate italian handJobTarani_143c889f:
 translate italian handJobTarani_14b0b2eb:
 
     # cedrick "Тарани.. Репутация школы стоит гораздо дороже, и Найджел уже неоднократно ставил ее под удар"
-    cedrick "Tarani... La reputazione della scuola vale molto di più e Nigel l'ha già messa a rischio più di una volta."
+    cedrick "Taranee... La reputazione della scuola vale molto di più e Nigel l'ha già messa a rischio più di una volta."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:121
 translate italian handJobTarani_06be9e70:
@@ -226,7 +226,7 @@ translate italian handJobTarani_5877783f:
 translate italian handJobTarani_7d510b69:
 
     # cedrick "Ты же умная девочка, Тарани, почему ты не помогала ему с учебой раньше?"
-    cedrick "Sei una ragazza intelligente, Tarani, perché non l'hai aiutato prima con i suoi studi?"
+    cedrick "Sei una ragazza intelligente, Taranee, perché non l'hai aiutato prima con i suoi studi?"
 
 # game/scripts/quests/tarani/handJobTarani.rpy:130
 translate italian handJobTarani_a75cbd52:
@@ -268,7 +268,7 @@ translate italian handJobTarani_8f349489:
 translate italian handJobTarani_385c5ad4:
 
     # cedrick "Я сказал, что ни к чему так заводиться, Тарани"
-    cedrick "Ho detto che non c'è bisogno di agitarsi tanto, Tarani."
+    cedrick "Ho detto che non c'è bisogno di agitarsi tanto, Taranee."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:149
 translate italian handJobTarani_cc65e6f5:
@@ -292,7 +292,7 @@ translate italian handJobTarani_a518ccbe:
 translate italian handJobTarani_7828be33:
 
     # cedrick "Что ты имеешь ввиду, Тарани? Не пойму, к чему ты клонишь"
-    cedrick "Cosa vuoi dire, Tarani? Non so dove vuoi andare a parare."
+    cedrick "Cosa vuoi dire, Taranee? Non so dove vuoi andare a parare."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:162
 translate italian handJobTarani_ef2140b2:
@@ -346,7 +346,7 @@ translate italian handJobTarani_911931b2:
 translate italian handJobTarani_dfaa5edf:
 
     # cedrick "(Ну же, Тарани, давай.. Останови меня)"
-    cedrick "(Dai, Tarani, dai... Fermami)"
+    cedrick "(Dai, Taranee, dai... Fermami)"
 
 # game/scripts/quests/tarani/handJobTarani.rpy:193
 translate italian handJobTarani_eb9c66fd:
@@ -364,7 +364,7 @@ translate italian handJobTarani_49592fe8:
 translate italian handJobTarani_355b2bbf:
 
     # centered "{size=37}Тарани резко бросается к штанам Седрика{/size}"
-    centered "{Tarani si precipita bruscamente verso i pantaloni di Cedric{/size}."
+    centered "{size=37}Taranee si precipita bruscamente verso i pantaloni di Cedric{/size}"
 
 # game/scripts/quests/tarani/handJobTarani.rpy:204
 translate italian handJobTarani_d461c445:
@@ -382,7 +382,7 @@ translate italian handJobTarani_07c396d5:
 translate italian handJobTarani_230b4c87:
 
     # cedrick "Да, Тарани, теперь я понимаю, почему вы с Найджелом спелись. С виду тихоня-отличница, а на деле готова мастурбировать учителю, чтобы достичь желаемого"
-    cedrick "Sì, Tarani, capisco perché tu e Nigel andate d'accordo. La ragazza tranquilla che sembra un'ottima studentessa, ma che è disposta a masturbarsi con il suo insegnante per ottenere ciò che vuole."
+    cedrick "Sì, Taranee, capisco perché tu e Nigel andate d'accordo. La ragazza tranquilla che sembra un'ottima studentessa, ma che è disposta a masturbarsi con il suo insegnante per ottenere ciò che vuole."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:213
 translate italian handJobTarani_2ce516e7:
@@ -472,7 +472,7 @@ translate italian handJobTarani_436dc294:
 translate italian handJobTarani_7ea73b3c:
 
     # cedrick "Ох, да, Тарани, продолжай.."
-    cedrick "Oh, sì, Tarani, continua..."
+    cedrick "Oh, sì, Taranee, continua..."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:261
 translate italian handJobTarani_9b4ad5d7:
@@ -532,7 +532,7 @@ translate italian handJobTarani_3e021a4b:
 translate italian handJobTarani_2a2160d6:
 
     # cedrick "Но Тарани, ты и вправду думаешь, что сделала для Найджела все, что нужно?"
-    cedrick "Ma Tarani, pensi davvero di aver fatto tutto quello che dovevi fare per Nigel?"
+    cedrick "Ma Taranee, pensi davvero di aver fatto tutto quello che dovevi fare per Nigel?"
 
 # game/scripts/quests/tarani/handJobTarani.rpy:294
 translate italian handJobTarani_bdbea2cd:
@@ -556,7 +556,7 @@ translate italian handJobTarani_c1dd1418:
 translate italian handJobTarani_ea8e778d:
 
     # cedrick "Ох, и в итоге снова возьмешься за его член? Тарани, если бы ты могла его хоть чему-то научить, он не оказался бы в подобной ситуации"
-    cedrick "Oh, e finirai per prendere di nuovo il suo cazzo? Tarani, se tu potessi insegnargli qualcosa, non si troverebbe in questa situazione."
+    cedrick "Oh, e finirai per prendere di nuovo il suo cazzo? Taranee, se tu potessi insegnargli qualcosa, non si troverebbe in questa situazione."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:310
 translate italian handJobTarani_3eb7f8ba:
@@ -592,7 +592,7 @@ translate italian handJobTarani_0bf552f6:
 translate italian handJobTarani_75ca9ee6:
 
     # cedrick "У тебя отличные сиськи, Тарани. Думаю они отлично скрасят мой досуг во время проверки контрольных работ"
-    cedrick "Hai delle belle tette, Tarani. Penso che saranno un ottimo modo per allietare il mio tempo libero con i quiz."
+    cedrick "Hai delle belle tette, Taranee. Penso che saranno un ottimo modo per allietare il mio tempo libero con i quiz."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:334
 translate italian handJobTarani_9bea826e:
@@ -616,7 +616,7 @@ translate italian handJobTarani_979d1098:
 translate italian handJobTarani_1373ef4c:
 
     # cedrick "Это не я набросился на тебя, оголив член, Тарани. Ты сама достала его у меня из штанов. Это единственное, что ты можешь мне предложить, ты сама прекрасно понимаешь"
-    cedrick "Non sono venuto da te con il cazzo scoperto, Tarani. L'hai tirato fuori dai miei pantaloni. È l'unica cosa che hai da offrirmi, lo sai."
+    cedrick "Non sono venuto da te con il cazzo scoperto, Taranee. L'hai tirato fuori dai miei pantaloni. È l'unica cosa che hai da offrirmi, lo sai."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:347
 translate italian handJobTarani_08a0dc52:
@@ -646,7 +646,7 @@ translate italian handJobTarani_a908861c:
 translate italian handJobTarani_e3bf007b:
 
     # cedrick "Тарани?"
-    cedrick "Tarani?"
+    cedrick "Taranee?"
 
 # game/scripts/quests/tarani/handJobTarani.rpy:358
 translate italian handJobTarani_1533e9f3:
@@ -664,7 +664,7 @@ translate italian handJobTarani_883436d1:
 translate italian handJobTarani_370ca7c3:
 
     # cedrick "Отлично, Тарани. Ты умная девочка. Тогда увидимся на следующих контрольных"
-    cedrick "Ben fatto, Tarani. Sei una ragazza intelligente. Ci vediamo al prossimo quiz, allora."
+    cedrick "Ben fatto, Taranee. Sei una ragazza intelligente. Ci vediamo al prossimo quiz, allora."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:367
 translate italian handJobTarani_ea5d92b9:

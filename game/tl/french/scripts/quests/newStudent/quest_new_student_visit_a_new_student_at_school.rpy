@@ -112,7 +112,7 @@ translate french quest_new_student_visit_a_new_student_at_school_e19e6587:
 translate french quest_new_student_visit_a_new_student_at_school_939fef8a:
 
     # centered "{size=37} Урок физкультуры {/size}"
-    centered "{classe PE {/size}"
+    centered "{size=37} classe PE {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:48
 translate french quest_new_student_visit_a_new_student_at_school_49279a30:
@@ -148,7 +148,7 @@ translate french quest_new_student_visit_a_new_student_at_school_cc29f09c:
 translate french quest_new_student_visit_a_new_student_at_school_f1cbbdef:
 
     # centered "{size=37} Некоторое время спустя {/size}"
-    centered "{Quelque temps plus tard..."
+    centered "{size=37} Quelque temps plus tard {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:57
 translate french quest_new_student_visit_a_new_student_at_school_a20cefa7:
@@ -196,7 +196,7 @@ translate french quest_new_student_visit_a_new_student_at_school_7b91a7c2:
 translate french quest_new_student_visit_a_new_student_at_school_68c31ed4:
 
     # centered "{size=37} После урока {/size}"
-    centered "{Après le cours..."
+    centered "{size=37} Après le cours {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:68
 translate french quest_new_student_visit_a_new_student_at_school_7c75ccd5:

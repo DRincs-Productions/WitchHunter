@@ -82,7 +82,7 @@ translate italian quest_new_student_announce_a_school_trip_9b6b2690:
 translate italian quest_new_student_announce_a_school_trip_86c4c8fc:
 
     # centered "{size=37}спустя несколько минут{/size}"
-    centered "{size=37}{/size}"
+    centered "{size=37}dopo pochi minuti{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:20
 translate italian quest_new_student_announce_a_school_trip_317e5819:

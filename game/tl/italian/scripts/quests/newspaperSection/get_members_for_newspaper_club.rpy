@@ -226,7 +226,7 @@ translate italian get_members_for_newspaper_club_5f9b772e:
 translate italian get_members_for_newspaper_club_cefef014:
 
     # irma "Вечера и субботы в школе! Молодец, Тарани!"
-    irma "Serate e sabati a scuola! Ben fatto, Tarani!"
+    irma "Serate e sabati a scuola! Ben fatto, Taranee!"
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:137
 translate italian get_members_for_newspaper_club_447bb3f7:

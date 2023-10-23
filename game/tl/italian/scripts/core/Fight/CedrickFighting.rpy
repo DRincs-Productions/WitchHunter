@@ -4,7 +4,7 @@ translate italian strings:
 
     # game/scripts/core/Fight/CedrickFighting.rpy:288
     old "Седрик"
-    new "Cedro"
+    new "Cedric"
 
     # game/scripts/core/Fight/CedrickFighting.rpy:351
     old "Удар змеиной рукой"

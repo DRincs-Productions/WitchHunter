@@ -820,7 +820,7 @@ translate italian pick_up_the_alchemy_from_the_brothel_a3bc3cb1:
 translate italian pick_up_the_alchemy_from_the_brothel_3d518c3f:
 
     # centered "{size=37} СПУСТЯ НЕКОТОРОЕ ВРЕМЯ ПЕРЕСКАЗА ПРОИЗОШЕДШЕГО {/size}"
-    centered "{L'ULTIMA VOLTA PER PARLARE DI QUELLO CHE E' SUCCESSO."
+    centered "{size=37} L'ULTIMA VOLTA PER PARLARE DI QUELLO CHE E' SUCCESSO {/size}"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:448
 translate italian pick_up_the_alchemy_from_the_brothel_a13ba10a:
@@ -916,7 +916,7 @@ translate italian pick_up_the_alchemy_from_the_brothel_34808934:
 translate italian pick_up_the_alchemy_from_the_brothel_8861d3ac:
 
     # centered "{size=37} СПУСТЯ НЕКОТОРОЕ ВРЕМЯ {/size}"
-    centered "{L'ULTIMA VOLTA {/size=37}"
+    centered "{size=37} L'ULTIMA VOLTA {/size}"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:498
 translate italian pick_up_the_alchemy_from_the_brothel_67d2ba6e:

@@ -112,7 +112,7 @@ translate french getting_to_know_elyons_parents_2b1e25eb:
 translate french getting_to_know_elyons_parents_a4e02cf2:
 
     # centered "{size=37}Вечером того же дня, в доме Браунов{/size}"
-    centered "{Le soir du même jour, à la maison des Brown..."
+    centered "{size=37}Le soir du même jour, à la maison des Brown{/size}"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:53
 translate french getting_to_know_elyons_parents_97c599f7:
@@ -388,7 +388,7 @@ translate french getting_to_know_elyons_parents_3412653e:
 translate french getting_to_know_elyons_parents_92f622cd:
 
     # centered "{size=37}После долгих приятных разговоров за столом{/size}"
-    centered "{Après une longue et agréable conversation autour de la table..."
+    centered "{size=37}Après une longue et agréable conversation autour de la table{/size}"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:142
 translate french getting_to_know_elyons_parents_c4d97223:

@@ -742,7 +742,7 @@ translate french minigame_3_375507c7:
 translate french minigame_3_7e4c255e:
 
     # centered "{size=37}Седрик все оставшееся утро простоял за прилавком{/size}" with Dissolve(1)
-    centered "{Cédric passa le reste de la matinée derrière le comptoir{/size} [withDissolve1]."
+    centered "{size=37}Cédric passa le reste de la matinée derrière le comptoir{/size}" with Dissolve(1)
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:443
 translate french minigame_3_debe30c7:
@@ -2266,7 +2266,7 @@ translate french minigame_3_f16b65a7:
 translate french minigame_3_a6d6ae99:
 
     # centered "{size=37}Поздно ночью{/size}" with Dissolve(1)
-    centered "{" with Dissolve(1)
+    ""
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1015
 translate french minigame_3_55925e47:

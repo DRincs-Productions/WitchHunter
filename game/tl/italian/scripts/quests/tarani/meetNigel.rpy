@@ -70,7 +70,7 @@ translate italian meetNigel_a20cefa7_1:
 translate italian meetNigel_cdacb2eb:
 
     # nigel "Тарани, привет!"
-    nigel "Tarani, ciao!"
+    nigel "Taranee, ciao!"
 
 # game/scripts/quests/tarani/meetNigel.rpy:33
 translate italian meetNigel_f5deb182:
@@ -106,7 +106,7 @@ translate italian meetNigel_249bb523:
 translate italian meetNigel_fc39600d:
 
     # cedrick "(но в отличии от остальных, Тарани единственная написала работу на отлично. Черт, эта стражница..)"
-    cedrick "(Ma a differenza degli altri, Tarani è stato l'unico a scrivere un elaborato perfetto. Accidenti, quel guardiano...)"
+    cedrick "(Ma a differenza degli altri, Taranee è stato l'unico a scrivere un elaborato perfetto. Accidenti, quel guardiano...)"
 
 # game/scripts/quests/tarani/meetNigel.rpy:43
 translate italian meetNigel_41d7b52e:

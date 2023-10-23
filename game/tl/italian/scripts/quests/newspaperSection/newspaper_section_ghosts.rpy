@@ -58,7 +58,7 @@ translate italian newspaper_section_ghosts_8663cba0:
 translate italian newspaper_section_ghosts_3fa7d135:
 
     # centered "{size=36}Через несколько минут на уроке{/size}"
-    centered "{Pochi minuti dopo l'inizio della lezione{/size}"
+    centered "{size=36}Pochi minuti dopo l'inizio della lezione{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:34
 translate italian newspaper_section_ghosts_8e4c008d:
@@ -166,7 +166,7 @@ translate italian newspaper_section_ghosts_c1e4a0c5:
 translate italian newspaper_section_ghosts_f7a8d2cf:
 
     # centered "{size=36}Спустя некоторое время{/size}"
-    centered "{Dopo un po' di tempo{/size}"
+    centered "{size=36}Dopo un po' di tempo{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:62
 translate italian newspaper_section_ghosts_021571a6:
