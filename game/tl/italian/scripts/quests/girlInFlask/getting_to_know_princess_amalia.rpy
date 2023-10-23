@@ -130,7 +130,7 @@ translate italian getting_to_know_princess_amalia_56abc24b:
 translate italian getting_to_know_princess_amalia_d7142e0f:
 
     # cedrick "Седрик"
-    cedrick "Cedro"
+    cedrick "Cedric"
 
 # game/scripts/quests/girlInFlask/getting_to_know_princess_amalia.rpy:49
 translate italian getting_to_know_princess_amalia_30692337:

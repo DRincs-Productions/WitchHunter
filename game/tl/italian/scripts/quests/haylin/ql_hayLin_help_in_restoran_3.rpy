@@ -280,7 +280,7 @@ translate italian ql_hayLin_help_in_restoran_3_87c5dd71:
 translate italian ql_hayLin_help_in_restoran_3_4f775e86:
 
     # "Хай Лин убегает молча, всеми силами сдерживая свои слезы..."
-    "Hai Ling scappa via in silenzio, facendo del suo meglio per trattenere le lacrime..."
+    "Hay Lin scappa via in silenzio, facendo del suo meglio per trattenere le lacrime..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:102
 translate italian ql_hayLin_help_in_restoran_3_32c00346:

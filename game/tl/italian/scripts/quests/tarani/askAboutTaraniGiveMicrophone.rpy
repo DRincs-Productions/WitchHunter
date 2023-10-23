@@ -16,7 +16,7 @@ translate italian askAboutTaraniGiveMicrophone_1cd5740d:
 translate italian askAboutTaraniGiveMicrophone_92f19ea3:
 
     # courtney " Так что именно ты хочешь узнать о Тарани?"
-    courtney " Cosa volete sapere esattamente su Tarani?"
+    courtney " Cosa volete sapere esattamente su Taranee?"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:12
 translate italian askAboutTaraniGiveMicrophone_40fb0bd3:
@@ -52,7 +52,7 @@ translate italian askAboutTaraniGiveMicrophone_0c348d56:
 translate italian askAboutTaraniGiveMicrophone_23354f34:
 
     # courtney " Еще она не так давно перевелась к нам в школу и быстро подружилась с одной компанией.. С Ирмой, Хай Лин и Корнелией..."
-    courtney " Anche lei si è trasferita nella nostra scuola poco tempo fa e ha subito stretto amicizia con un'azienda... Irma, Hai Lin e Cornelia..."
+    courtney " Anche lei si è trasferita nella nostra scuola poco tempo fa e ha subito stretto amicizia con un'azienda... Irma, Hay Lin e Cornelia..."
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:18
 translate italian askAboutTaraniGiveMicrophone_d7233ea5:
@@ -112,7 +112,7 @@ translate italian askAboutTaraniGiveMicrophone_f7cb7606:
 translate italian askAboutTaraniGiveMicrophone_8b4c7b8f:
 
     # courtney "А у него, в отличии от Тарани, есть проблемы с учебой, он вроде как связался с бандой подонков под предводительством Урии.."
-    courtney "E a differenza di Tarani, che ha problemi di apprendimento, è coinvolto in una sorta di banda di criminali guidata da Uriah."
+    courtney "E a differenza di Taranee, che ha problemi di apprendimento, è coinvolto in una sorta di banda di criminali guidata da Uriah."
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:28
 translate italian askAboutTaraniGiveMicrophone_f51833bf:
@@ -154,7 +154,7 @@ translate italian askAboutTaraniGiveMicrophone_12d0e072:
 translate italian askAboutTaraniGiveMicrophone_e63b3bb0:
 
     # "Получен Адрес Тарани!"
-    "Ricevuto l'indirizzo di Tarani!"
+    "Ricevuto l'indirizzo di Taranee!"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:35
 translate italian askAboutTaraniGiveMicrophone_a20cefa7:
@@ -172,7 +172,7 @@ translate italian askAboutTaraniGiveMicrophone_6a781b9b:
 translate italian askAboutTaraniGiveMicrophone_d120708a:
 
     # cedrick "(Значит Найджел Эшкрофт.. Нужно найти на него компромат, чтобы я смог шантажировать Тарани и тогда она будет делать все, что я ей скажу!)"
-    cedrick "(Così Nigel Ashcroft... Dobbiamo trovare del marcio su di lui, così potrò ricattare Tarani e lei farà tutto quello che le dico di fare)."
+    cedrick "(Così Nigel Ashcroft... Dobbiamo trovare del marcio su di lui, così potrò ricattare Taranee e lei farà tutto quello che le dico di fare)."
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:38
 translate italian askAboutTaraniGiveMicrophone_553ab2ef:

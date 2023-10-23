@@ -106,7 +106,7 @@ translate italian questSecretOfTheSilverDragon_epilog_2c595be4:
 translate italian questSecretOfTheSilverDragon_epilog_6c065667:
 
     # johnlin "Ох, чуть не забыла. Хай Лин, у меня для тебя есть подарок. Вот, держи"
-    johnlin "Oh, quasi dimenticavo. Hai Ling, ho un regalo per te. Ecco a voi"
+    johnlin "Oh, quasi dimenticavo. Hay Lin, ho un regalo per te. Ecco a voi"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/questSecretOfTheSilverDragon_epilog.rpy:36
 translate italian questSecretOfTheSilverDragon_epilog_d27fbe22:
@@ -184,7 +184,7 @@ translate italian questSecretOfTheSilverDragon_epilog_68a8264d:
 translate italian questSecretOfTheSilverDragon_epilog_e1c03a80:
 
     # "Седрик и Хай Лин уходят. Джоан и Чен провожают их вслед"
-    "Cedric e Hai Lin se ne vanno. Joan e Chen li accompagnano alla partenza"
+    "Cedric e Hay Lin se ne vanno. Joan e Chen li accompagnano alla partenza"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/questSecretOfTheSilverDragon_epilog.rpy:66
 translate italian questSecretOfTheSilverDragon_epilog_813dae41:
@@ -304,7 +304,7 @@ translate italian questSecretOfTheSilverDragon_epilog_d3a6f6dc:
 translate italian questSecretOfTheSilverDragon_epilog_a9b06c00:
 
     # johnlin "Ммм.. П-просто красивая одежда для Хай Лин.. Т-традиционный наряд"
-    johnlin "Mmm. P-un bel vestito per Hai Ling. T-abito tradizionale"
+    johnlin "Mmm. P-un bel vestito per Hay Lin. T-abito tradizionale"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/questSecretOfTheSilverDragon_epilog.rpy:86
 translate italian questSecretOfTheSilverDragon_epilog_4266863a:

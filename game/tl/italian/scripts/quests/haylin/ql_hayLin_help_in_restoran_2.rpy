@@ -28,7 +28,7 @@ translate italian ql_hayLin_help_in_restoran_2_6f4cbab2:
 translate italian ql_hayLin_help_in_restoran_2_5f2b31bd:
 
     # cedrick "Просто решил помочь Хай Лин в трудной ситуации..."
-    cedrick "Ha deciso di aiutare Hai Lin in una situazione difficile..."
+    cedrick "Ha deciso di aiutare Hay Lin in una situazione difficile..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:19
 translate italian ql_hayLin_help_in_restoran_2_bfb395e0:
@@ -40,7 +40,7 @@ translate italian ql_hayLin_help_in_restoran_2_bfb395e0:
 translate italian ql_hayLin_help_in_restoran_2_c80bd042:
 
     # will "А Хай Лин здесь?"
-    will "Hai Ling è qui?"
+    will "Hay Lin è qui?"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:24
 translate italian ql_hayLin_help_in_restoran_2_6efc5ce5:
@@ -76,7 +76,7 @@ translate italian ql_hayLin_help_in_restoran_2_a6f47658:
 translate italian ql_hayLin_help_in_restoran_2_708e9e22:
 
     # "Вы отправляетесь на кухню в поисках Хай Лин"
-    "Si dirige in cucina alla ricerca di Hai Ling."
+    "Si dirige in cucina alla ricerca di Hay Lin."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:37
 translate italian ql_hayLin_help_in_restoran_2_17dfeebb:
@@ -118,5 +118,5 @@ translate italian ql_hayLin_help_in_restoran_2_3e854889:
 translate italian ql_hayLin_help_in_restoran_2_75dc8672:
 
     # "Доработав остаток дня и поев вкусный ужин, которым вознаградила вас семья Лин за работу, вы отправляетесь в книжный магазин. Вы полны мыслей о том, как бы поскорей трахнуть Хай Лин..."
-    "Dopo aver lavorato per il resto della giornata e aver mangiato la deliziosa cena con cui la famiglia di Lin vi ha ricompensato per il vostro lavoro, vi recate in libreria. Sei pieno di pensieri di scopare con Hai Ling il prima possibile..."
+    "Dopo aver lavorato per il resto della giornata e aver mangiato la deliziosa cena con cui la famiglia di Lin vi ha ricompensato per il vostro lavoro, vi recate in libreria. Sei pieno di pensieri di scopare con Hay Lin il prima possibile..."
 

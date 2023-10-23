@@ -22,7 +22,7 @@ translate italian ql_hayLin_fuck_hay_lin_5239cd96:
 translate italian ql_hayLin_fuck_hay_lin_4519e682:
 
     # cedrick "А где Хай Лин?"
-    cedrick "Dov'è Hai Lin?"
+    cedrick "Dov'è Hay Lin?"
 
 # game/scripts/quests/haylin/ql_hayLin_fuck_hay_lin.rpy:13
 translate italian ql_hayLin_fuck_hay_lin_23110700:

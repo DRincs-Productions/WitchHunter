@@ -16,7 +16,7 @@ translate italian ql_hayLin_go_to_school_0_468c6ae5:
 translate italian ql_hayLin_go_to_school_0_08ba76bf:
 
     # haylin "Хай Лин…"
-    haylin "Hai Lin…"
+    haylin "Hay Lin…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:10
 translate italian ql_hayLin_go_to_school_0_f3c3ec6c:
@@ -112,7 +112,7 @@ translate italian ql_hayLin_go_to_school_0_2bfbdaef:
 translate italian ql_hayLin_go_to_school_0_4e791b44:
 
     # cedrick "Тебя ведь зовут Хай Лин, да? Ты как?"
-    cedrick "Il tuo nome è Hai Ling, vero? Come stai?"
+    cedrick "Il tuo nome è Hay Lin, vero? Come stai?"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:35
 translate italian ql_hayLin_go_to_school_0_67d2d4ba:
@@ -124,7 +124,7 @@ translate italian ql_hayLin_go_to_school_0_67d2d4ba:
 translate italian ql_hayLin_go_to_school_0_315f3c0b:
 
     # cedrick "Послушай меня, Хай Лин… Эти олухи не имеют какого-либо права унижать тебя. Почему ты это терпишь? В следующий раз ты должна будешь дать им сдачи! Будь сильной..."
-    cedrick "Ascoltami, Hai Lin… Questi zotici non hanno il diritto di umiliarti in alcun modo. Perché lo sopportate? La prossima volta dovrete colpirli a vostra volta! Siate forti..."
+    cedrick "Ascoltami, Hay Lin… Questi zotici non hanno il diritto di umiliarti in alcun modo. Perché lo sopportate? La prossima volta dovrete colpirli a vostra volta! Siate forti..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:37
 translate italian ql_hayLin_go_to_school_0_7ec3a7d1:
@@ -142,5 +142,5 @@ translate italian ql_hayLin_go_to_school_0_96db53eb:
 translate italian ql_hayLin_go_to_school_0_4e7a9137:
 
     # "Седрик утешает Хай Лин"
-    "Cedric conforta Hai Ling"
+    "Cedric conforta Hay Lin"
 

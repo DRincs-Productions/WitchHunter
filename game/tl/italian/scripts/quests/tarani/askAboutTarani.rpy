@@ -34,13 +34,13 @@ translate italian askAboutTarani_5d345a1d:
 translate italian askAboutTarani_96257d06:
 
     # cedrick "Что вы знаете об ученице по имени Тарани Кук?"
-    cedrick "Cosa sai di uno studente chiamato Tarani Cook?"
+    cedrick "Cosa sai di uno studente chiamato Taranee Cook?"
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:14
 translate italian askAboutTarani_1004b869:
 
     # bess "Тарани?"
-    bess "Tarani?"
+    bess "Taranee?"
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:15
 translate italian askAboutTarani_67cb21a1:
