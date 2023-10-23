@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:13\n"
+"PO-Revision-Date: 2023-10-23 08:12\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/firstLesson.rpy:10 #-#-# translate crowdin firstLesson_c00ee63f:
 msgid "[_cedrick_] Меня зовут Рик Хоффман и с этого дня я ваш новый учитель истории."
@@ -54,11 +54,11 @@ msgstr "[_cedrick_] (Questi tre... Guardiani del Velo!)."
 
 # game/scripts/quests/tarani/firstLesson.rpy:37 #-#-# translate crowdin firstLesson_05d16e7b:
 msgid "[_haylin_] Сейчас биология. Тарани, ты не идешь?"
-msgstr "[_haylin_] Ora è biologia. Tarani, non vieni?"
+msgstr "[_haylin_] Ora è biologia. Taranee, non vieni?"
 
 # game/scripts/quests/tarani/firstLesson.rpy:43 #-#-# translate crowdin firstLesson_9f97bdb3:
 msgid "[_irma_] Шутишь? Чтобы наша Тарани прогуляла урок?! Да не в жизнь!"
-msgstr "[_irma_] Mi stai prendendo in giro? Quindi il nostro Tarani può saltare la lezione?! Non è possibile!"
+msgstr "[_irma_] Mi stai prendendo in giro? Quindi il nostro Taranee può saltare la lezione?! Non è possibile!"
 
 # game/scripts/quests/tarani/firstLesson.rpy:49 #-#-# translate crowdin firstLesson_e3e6a377:
 msgid "[_tarani_] Не хочу.. Препарировать лягушек… Какая мерзость.."
