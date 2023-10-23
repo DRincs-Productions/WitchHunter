@@ -34,7 +34,7 @@ translate italian ql_silverDragon_go_to_restaraunt_665cb7ca:
 translate italian ql_silverDragon_go_to_restaraunt_c9b0796c:
 
     # cedrick "Вас зовут Хай Лин?"
-    cedrick "Il tuo nome è Hay Ling?"
+    cedrick "Il tuo nome è Hay Lin?"
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:22
 translate italian ql_silverDragon_go_to_restaraunt_f1af8244:

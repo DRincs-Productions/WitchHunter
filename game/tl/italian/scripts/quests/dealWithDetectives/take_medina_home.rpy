@@ -4,7 +4,7 @@
 translate italian take_medina_home_74be0a74:
 
     # centered "{size=37}СЕДРИК ОТВОДИТ МЕДИНУ ДОМОЙ, В ВЫСОТКУ, В КОТОРОЙ ТАК ЖЕ ЖИВЕТ И КОРНЕЛИЯ{/size}"
-    centered "{size=37}SEDRICK PORTA A CASA MEDINA, IN CUI VIVE LA CORNELINA{/size}"
+    centered "{size=37}CEDRIC PORTA A CASA MEDINA, IN CUI VIVE LA CORNELINA{/size}"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:5
 translate italian take_medina_home_a20cefa7:

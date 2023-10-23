@@ -184,7 +184,7 @@ translate italian find_information_about_medina_at_police_station_d42ae797:
 translate italian find_information_about_medina_at_police_station_ddb35c30:
 
     # centered "{size=37}СЕДРИК УХОДИТ ИЗ ПОЛИЦЕЙСКОГО УЧАСТКА{/size}"
-    centered "{size=37}SEDRICK ESCE DALL'UFFICIO DI POLIZIA{/size}"
+    centered "{size=37}CEDRIC ESCE DALL'UFFICIO DI POLIZIA{/size}"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:64
 translate italian find_information_about_medina_at_police_station_ad12e0c3:
@@ -358,7 +358,7 @@ translate italian find_information_about_medina_at_police_station_864658b0:
 translate italian find_information_about_medina_at_police_station_ab549fbc:
 
     # centered "{size=37}СЕДРИК ИССЛЕДУЕТ БАРДАЧОК В МАШИНЕ И НАХОДИТ БАЛАКЛАВУ, ВИКОДИН И НАРУЧНИКИ{/size}"
-    centered "{size=37}SEDRICK CERCA IL BARDACH NELL'AUTO E TROVA LA BALACLAW, LA VICODINA E LE AVVERTENZE{/size}"
+    centered "{size=37}CEDRIC CERCA IL BARDACH NELL'AUTO E TROVA LA BALACLAW, LA VICODINA E LE AVVERTENZE{/size}"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:113
 translate italian find_information_about_medina_at_police_station_f19c3934:

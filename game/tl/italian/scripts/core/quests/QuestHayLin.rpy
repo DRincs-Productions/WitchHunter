@@ -36,7 +36,7 @@ translate italian strings:
 
     # game/scripts/core/quests/QuestHayLin.rpy:29
     old "Отдать лекарство для Ян Лин, Хай Лин"
-    new "Dare la medicina a Yang Lin, Hai Ling"
+    new "Dare la medicina a Yang Lin, Hay Lin"
 
     # game/scripts/core/quests/QuestHayLin.rpy:29
     old "Наполнить волшебный сосуд в замке князя фобоса"

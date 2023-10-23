@@ -730,5 +730,5 @@ translate italian hide_and_seek_with_lilian_8fce3d44:
 translate italian hide_and_seek_with_lilian_e200eea6:
 
     # centered "{size=37}СЕДРИК ДОСТАЕТ КОРНЕЛИЮ ИЗ СУНДУКА И ОТНОСИТ ЕЕ В ТЕМНИЦУ{/size}"
-    centered "{size=37}SEDRICK TOGLIE IL CORNELIO DAL SOLE e LO PORTA NELL'OSCURITA'{/size}"
+    centered "{size=37}CEDRIC TOGLIE IL CORNELIO DAL SOLE e LO PORTA NELL'OSCURITA'{/size}"
 

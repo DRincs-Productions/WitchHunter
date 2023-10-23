@@ -10,7 +10,7 @@ translate italian ql_hayLin_give_potion_to_yan_lin_1_77013e39:
 translate italian ql_hayLin_give_potion_to_yan_lin_1_c8980c22:
 
     # cedrick "Нет, сегодня не смогу вам помочь, извините. Я хочу заскочить к Хай Лин, проведать ее..."
-    cedrick "No, oggi non posso aiutarla, mi dispiace. Voglio passare da Hay Ling per vedere come sta..."
+    cedrick "No, oggi non posso aiutarla, mi dispiace. Voglio passare da Hay Lin per vedere come sta..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:11
 translate italian ql_hayLin_give_potion_to_yan_lin_1_4c5684aa:
@@ -208,7 +208,7 @@ translate italian ql_hayLin_give_potion_to_yan_lin_1_fecfc850:
 translate italian ql_hayLin_give_potion_to_yan_lin_1_3699dc24:
 
     # cedrick "(Фух, я чуть не попался. Держу пари, она уже направлялась в комнату Хай Лин, чтобы проверить, что мы делаем)"
-    cedrick "(Uff, mi hanno quasi beccato. Scommetto che stava già andando nella stanza di Hay Ling per controllare cosa stavamo facendo)."
+    cedrick "(Uff, mi hanno quasi beccato. Scommetto che stava già andando nella stanza di Hay Lin per controllare cosa stavamo facendo)."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:105
 translate italian ql_hayLin_give_potion_to_yan_lin_1_779a8ff1:
@@ -268,7 +268,7 @@ translate italian ql_hayLin_give_potion_to_yan_lin_1_3c42351d:
 translate italian ql_hayLin_give_potion_to_yan_lin_1_487a2b9f:
 
     # johnlin "Так что, несмотря на то, что вы учитель и значительно старше Хай Лин, я была бы не против, если бы моя дочь была с таким человеком, как вы, Рик"
-    johnlin "Quindi, anche se sei un'insegnante e sei molto più grande di Hay Ling, non mi dispiacerebbe che mia figlia stesse con una persona come te, Rick."
+    johnlin "Quindi, anche se sei un'insegnante e sei molto più grande di Hay Lin, non mi dispiacerebbe che mia figlia stesse con una persona come te, Rick."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:142
 translate italian ql_hayLin_give_potion_to_yan_lin_1_13877006:
@@ -586,7 +586,7 @@ translate italian ql_hayLin_give_potion_to_yan_lin_1_2db9d88f:
 translate italian ql_hayLin_give_potion_to_yan_lin_1_df2e8be3:
 
     # centered "{size=36}СЕДРИК ДЕЛАЕТ ФОТО ДЖОАН ЛИН С ЧЛЕНОМ ВО РТУ НА ТЕЛЕФОН{/size}" with Dissolve(1)
-    centered "{size=36}SEDRICK FOTO DI JOAN LYN CON I MEMBRI SUL TELEFONO{/size}" with Dissolve(1)
+    centered "{size=36}CEDRIC FOTO DI JOAN LYN CON I MEMBRI SUL TELEFONO{/size}" with Dissolve(1)
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:288
 translate italian ql_hayLin_give_potion_to_yan_lin_1_78f12923:

@@ -214,7 +214,7 @@ translate italian getAlchemyFromRaythor_c9da3aee:
 translate italian getAlchemyFromRaythor_5f7367ee:
 
     # centered "{size=37}СЕДРИК ЗАБИРАЕТ АЛХИМИ С СОБОЙ{/size}"
-    centered "{size=37}SEDRICK PRENDE ALHIMI CON L'ASSALTO{/size}"
+    centered "{size=37}CEDRIC PRENDE ALHIMI CON L'ASSALTO{/size}"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:77
 translate italian getAlchemyFromRaythor_0d16abb9:

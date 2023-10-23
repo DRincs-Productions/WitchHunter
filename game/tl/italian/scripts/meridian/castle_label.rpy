@@ -56,5 +56,5 @@ translate italian strings:
 
     # game/scripts/meridian/castle_label.rpy:78
     old "Темница Ирмы и Тарани"
-    new "La prigione di Irma e Tarani"
+    new "La prigione di Irma e Taranee"
 
