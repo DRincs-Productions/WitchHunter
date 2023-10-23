@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-22 15:29\n"
+"PO-Revision-Date: 2023-10-23 07:44\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:4 #-#-# translate crowdin conversation_with_guards_edb4f255:
 msgid "[_cedrick_] Дальше я сам, Булдж, спасибо. Как закончу я тебя вызову"
@@ -314,7 +314,7 @@ msgstr "[_bulj_] Ok, e pozioni che ripristinano il potere magico. Presumo che te
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:188 #-#-# translate crowdin itog_grade_4d27d41e:
 msgid "[_cedrick_] Отлично. Как раз успею закончить кое-какие дела на Земле и привести сюда Хай Лин"
-msgstr "[_cedrick_] Oh, fantastico. Giusto in tempo per concludere alcuni affari sulla Terra e portare Hay Ling qui."
+msgstr "[_cedrick_] Oh, fantastico. Giusto in tempo per concludere alcuni affari sulla Terra e portare Hay Lin qui."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:189 #-#-# translate crowdin itog_grade_c910ecfb:
 msgid "[_cedrick_] Присмотри пока за стражницами. Никто не должен знать, что они здесь"
@@ -946,7 +946,7 @@ msgstr "[_cedrick_] (Penso che comprerò uno di questi e lo controllerò)."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:509 #-#-# translate crowdin epilog_538cfbb3:
 msgid "[_cedrick_] (Сейчас мне особое внимание стоит уделить Хай Лин, давно я с ней не работал)"
-msgstr "[_cedrick_] (Dovrei prestare particolare attenzione ad Hay Ling in questo momento, è passato un po' di tempo dall'ultima volta che ho lavorato con lei)."
+msgstr "[_cedrick_] (Dovrei prestare particolare attenzione ad Hay Lin in questo momento, è passato un po' di tempo dall'ultima volta che ho lavorato con lei)."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:510 #-#-# translate crowdin epilog_964de117:
 msgid "[_cedrick_] (Но стоит начать не с нее, а с ее слабостей, чтобы у меня был козырь. Думаю пора навестить ее дорогую маму)"
