@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:13\n"
+"PO-Revision-Date: 2023-10-23 08:12\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/lowerMark.rpy:8 #-#-# translate crowdin lowerMark_e15c779b:
 msgid "[_cedrick_] Надеюсь, что вы все принесли свои домашние работы.."
@@ -34,7 +34,7 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/tarani/lowerMark.rpy:20 #-#-# translate crowdin lowerMark_e7a74009:
 msgid "[_cedrick_] А вот и работа Тарани.. Как всегда на отлично...Чертова всезнайка."
-msgstr "[_cedrick_] Ed ecco il lavoro di Tarani... Eccellente come sempre... Maledettamente saccente."
+msgstr "[_cedrick_] Ed ecco il lavoro di Taranee... Eccellente come sempre... Maledettamente saccente."
 
 # game/scripts/quests/tarani/lowerMark.rpy:21 #-#-# translate crowdin lowerMark_a20cefa7_1:
 msgid "..."

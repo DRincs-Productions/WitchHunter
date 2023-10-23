@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:10\n"
+"PO-Revision-Date: 2023-10-23 08:10\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:168 #-#-# translate crowdin gameower_410261a5:
 msgid "[_chenlin_] Д-джоан? Э-это ты.."
@@ -18,7 +18,7 @@ msgstr "[_chenlin_] D-Joan? Sei tu."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:169 #-#-# translate crowdin gameower_1521759a:
 msgid "[_chenlin_] Ч-черт, я так надеялся, что это Хай Лин.."
-msgstr "[_chenlin_] Dannazione, speravo che fosse Hai Ling."
+msgstr "[_chenlin_] Dannazione, speravo che fosse Hay Lin."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:170 #-#-# translate crowdin gameower_fecdf984:
 msgid "[_chenlin_] Поэтому игнорировал звуки в темноте.."
@@ -42,11 +42,11 @@ msgstr "[_johnlin_] N-no, Chen, aspetta."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:181 #-#-# translate crowdin gameower_5f4f1ad3:
 msgid "[_cedrick_] (Черт, это рушит абсолютно все мои планы касательно Хай Лин.. Такую ситуацию я уже решить не смогу..)"
-msgstr "[_cedrick_] (Dannazione, questo rovina assolutamente tutti i miei piani per Hai Ling.... Questa è una situazione che non riesco a risolvere...)"
+msgstr "[_cedrick_] (Dannazione, questo rovina assolutamente tutti i miei piani per Hay Lin.... Questa è una situazione che non riesco a risolvere...)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:182 #-#-# translate crowdin gameower_96fbd5fa:
 msgid "[_cedrick_] (Для моих отношений с Хай Лин это конец..)"
-msgstr "[_cedrick_] (Per quanto riguarda la mia relazione con Hai Ling, questa è la fine...)."
+msgstr "[_cedrick_] (Per quanto riguarda la mia relazione con Hay Lin, questa è la fine...)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:201 #-#-# translate crowdin gamewin_d4fee99f:
 msgid "[_cedrick_] Ч-черт, я кончаю.."
@@ -138,7 +138,7 @@ msgstr "[_cedrick_] (Penso che sia meglio non chiamarla per nome. Anche se Chen 
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:245 #-#-# translate crowdin d_01_b3a30d87:
 msgid "[_cedrick_] (Возможно думает, что это Хай Лин и не хочет быть инициатором неловкой сцены..)"
-msgstr "[_cedrick_] (Probabilmente pensa che sia Hai Ling e non vuole essere l'istigatore di una scena imbarazzante...)."
+msgstr "[_cedrick_] (Probabilmente pensa che sia Hay Lin e non vuole essere l'istigatore di una scena imbarazzante...)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:246 #-#-# translate crowdin d_01_7b5009ba:
 msgid "[_cedrick_] (Все же застукать и попытаться остановить свою дочь во время секса - дело такое)"

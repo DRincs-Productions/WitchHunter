@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:12\n"
+"PO-Revision-Date: 2023-10-23 08:11\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:9 #-#-# translate crowdin askAboutTaraniGiveMicrophone_d811ca89:
 msgid "[_cedrick_] Я принес вам микрофон."
@@ -22,7 +22,7 @@ msgstr "[_courtney_]  E' un... Blue Yeti Pro! Non è male!"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:11 #-#-# translate crowdin askAboutTaraniGiveMicrophone_92f19ea3:
 msgid "[_courtney_]  Так что именно ты хочешь узнать о Тарани?"
-msgstr "[_courtney_]  Cosa volete sapere esattamente su Tarani?"
+msgstr "[_courtney_]  Cosa volete sapere esattamente su Taranee?"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:12 #-#-# translate crowdin askAboutTaraniGiveMicrophone_40fb0bd3:
 msgid "[_cedrick_] Любую имеющуюся у вас информацию: факты, сплетни и слухи."
@@ -46,7 +46,7 @@ msgstr "[_bess_] Ma anche se prende buoni voti in tutte le materie, ha difficolt
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:17 #-#-# translate crowdin askAboutTaraniGiveMicrophone_23354f34:
 msgid "[_courtney_]  Еще она не так давно перевелась к нам в школу и быстро подружилась с одной компанией.. С Ирмой, Хай Лин и Корнелией..."
-msgstr "[_courtney_]  Anche lei si è trasferita nella nostra scuola poco tempo fa e ha subito stretto amicizia con un'azienda... Irma, Hai Lin e Cornelia..."
+msgstr "[_courtney_]  Anche lei si è trasferita nella nostra scuola poco tempo fa e ha subito stretto amicizia con un'azienda... Irma, Hay Lin e Cornelia..."
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:18 #-#-# translate crowdin askAboutTaraniGiveMicrophone_d7233ea5:
 msgid "[_courtney_] Ах, да! И вроде как Вилл, которая тоже не так давно перевелась, теперь ее лучшая подруга или вроде того."
@@ -86,7 +86,7 @@ msgstr "[_cedrick_] Cosa mi può dire di lui?"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:27 #-#-# translate crowdin askAboutTaraniGiveMicrophone_8b4c7b8f:
 msgid "[_courtney_] А у него, в отличии от Тарани, есть проблемы с учебой, он вроде как связался с бандой подонков под предводительством Урии.."
-msgstr "[_courtney_] E a differenza di Tarani, che ha problemi di apprendimento, è coinvolto in una sorta di banda di criminali guidata da Uriah."
+msgstr "[_courtney_] E a differenza di Taranee, che ha problemi di apprendimento, è coinvolto in una sorta di banda di criminali guidata da Uriah."
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:28 #-#-# translate crowdin askAboutTaraniGiveMicrophone_f51833bf:
 msgid "[_bess_] Местные придурки.."
@@ -114,7 +114,7 @@ msgstr "[_cedrick_] Beh, credo che potrebbe essermi utile... non si sa mai..."
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:34 #-#-# translate crowdin askAboutTaraniGiveMicrophone_e63b3bb0:
 msgid "Получен Адрес Тарани!"
-msgstr "Ricevuto l'indirizzo di Tarani!"
+msgstr "Ricevuto l'indirizzo di Taranee!"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:35 #-#-# translate crowdin askAboutTaraniGiveMicrophone_a20cefa7:
 msgid "..."
@@ -126,7 +126,7 @@ msgstr "…."
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:37 #-#-# translate crowdin askAboutTaraniGiveMicrophone_d120708a:
 msgid "[_cedrick_] (Значит Найджел Эшкрофт.. Нужно найти на него компромат, чтобы я смог шантажировать Тарани и тогда она будет делать все, что я ей скажу!)"
-msgstr "[_cedrick_] (Così Nigel Ashcroft... Dobbiamo trovare del marcio su di lui, così potrò ricattare Tarani e lei farà tutto quello che le dico di fare)."
+msgstr "[_cedrick_] (Così Nigel Ashcroft... Dobbiamo trovare del marcio su di lui, così potrò ricattare Taranee e lei farà tutto quello che le dico di fare)."
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:38 #-#-# translate crowdin askAboutTaraniGiveMicrophone_553ab2ef:
 msgid "[_cedrick_] (Осталось только найти того, кому я смогу это поручить, не буду же я бегать за ним сам в конце концов. Это может вызвать подозрения.. Может быть стоит поручить это дело тому мерзкому и вонючему контрабандисту?)"
