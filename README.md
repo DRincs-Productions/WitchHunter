@@ -1,8 +1,9 @@
 ## Character
-| Russian  | Italian |
-| ------------- | ------------- |
-| [Бланк](https://witch.fandom.com/wiki/Blunk)  | Blunk  |
-| Content Cell  | Content Cell  |
+| Eng  | Russian  | Italian |
+| ------------- | ------------- | ------------- |
+| [Blunk](https://witch.fandom.com/wiki/Blunk) | Бланк | Blunk  |
+| [Lord_Cedric](https://witch.fandom.com/wiki/Lord_Cedric)  | Седрик | Cedric  |
+| [Taranee](https://witch.fandom.com/it/wiki/Taranee_Cook) | Тарани  | Taranee  |
 
 ## Insert Template in your Project
 
