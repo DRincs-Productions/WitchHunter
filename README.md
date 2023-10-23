@@ -5,6 +5,7 @@
 | [Lord_Cedric](https://witch.fandom.com/wiki/Lord_Cedric)  | Седрик | Cedric  |
 | [Taranee](https://witch.fandom.com/it/wiki/Taranee_Cook) | Тарани  | Taranee  |
 | [Hay Lin](https://witch.fandom.com/it/wiki/Hay_Lin) | Хай Лин  | Hay Lin  |
+| [Will](https://witch.fandom.com/it/wiki/Will_Vandom) | Вилл | Will |
 
 ## Insert Template in your Project
 
