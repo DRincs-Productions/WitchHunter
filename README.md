@@ -1,3 +1,8 @@
+## Character
+| Russian  | Italian |
+| ------------- | ------------- |
+| [Бланк](https://witch.fandom.com/wiki/Blunk)  | Blunk  |
+| Content Cell  | Content Cell  |
 
 ## Insert Template in your Project
 
