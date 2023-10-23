@@ -4,6 +4,7 @@
 | [Blunk](https://witch.fandom.com/wiki/Blunk) | Бланк | Blunk  |
 | [Lord_Cedric](https://witch.fandom.com/wiki/Lord_Cedric)  | Седрик | Cedric  |
 | [Taranee](https://witch.fandom.com/it/wiki/Taranee_Cook) | Тарани  | Taranee  |
+| [Hay Lin](https://witch.fandom.com/it/wiki/Hay_Lin) | Хай Лин  | Hay Lin  |
 
 ## Insert Template in your Project
 
