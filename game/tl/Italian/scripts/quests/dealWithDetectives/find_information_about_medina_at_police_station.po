@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-22 15:30\n"
+"PO-Revision-Date: 2023-10-23 07:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:6 #-#-# translate crowdin find_information_about_medina_at_police_station_64ccdda3:
 msgid "[_cedrick_] (Есть. Детектив Медина.. Ого, на нее здесь целый архив — это как раз то, что мне нужно)"
@@ -134,7 +134,7 @@ msgstr "[_cedrick_] (Penso che potrebbe servire anche a me, lo salverò sul mio 
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:61 #-#-# translate crowdin find_information_about_medina_at_police_station_ddb35c30:
 msgid "[_centered_] {size=37}СЕДРИК УХОДИТ ИЗ ПОЛИЦЕЙСКОГО УЧАСТКА{/size}"
-msgstr "[_centered_] {size=37}SEDRICK ESCE DALL'UFFICIO DI POLIZIA{/size}"
+msgstr "[_centered_] {size=37}CEDRIC ESCE DALL'UFFICIO DI POLIZIA{/size}"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:64 #-#-# translate crowdin find_information_about_medina_at_police_station_ad12e0c3:
 msgid "[_cedrick_] (Стоп, кто это там идет к машине на парковке.. Это что.. Медина!?)"
@@ -250,7 +250,7 @@ msgstr "[_cedrick_] (A quanto pare dovremo andare direttamente alla macchina... 
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:111 #-#-# translate crowdin find_information_about_medina_at_police_station_ab549fbc:
 msgid "[_centered_] {size=37}СЕДРИК ИССЛЕДУЕТ БАРДАЧОК В МАШИНЕ И НАХОДИТ БАЛАКЛАВУ, ВИКОДИН И НАРУЧНИКИ{/size}"
-msgstr "[_centered_] {size=37}SEDRICK CERCA IL BARDACH NELL'AUTO E TROVA LA BALACLAW, LA VICODINA E LE AVVERTENZE{/size}"
+msgstr "[_centered_] {size=37}CEDRIC CERCA IL BARDACH NELL'AUTO E TROVA LA BALACLAW, LA VICODINA E LE AVVERTENZE{/size}"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:113 #-#-# translate crowdin find_information_about_medina_at_police_station_f19c3934:
 msgid "[_cedrick_] (Наручники - часть полицейского снаряжения. Хм, к тому же под плащом у нее полицейская форма, интересно. Видимо оделась так, чтобы не выделяться в участке)"
