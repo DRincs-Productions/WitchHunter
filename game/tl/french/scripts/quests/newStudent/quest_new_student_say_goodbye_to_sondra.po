@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:4 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_f6c297fb:
 msgid "[_matt_] ну Вилл, дай мне еще один шанс..."
@@ -90,7 +90,7 @@ msgstr "[_cedrick_] Heureux de l'entendre, Mme Knickerbocker."
 
 # game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:50 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_4abd48c7:
 msgid "[_centered_] {size=37} После уроков в кабинете истории{/size}"
-msgstr "[_centered_] {Après les cours, dans la salle d'histoire{/size}"
+msgstr "[_centered_] {size=37} Après les cours, dans la salle d'histoire{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:53 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_a20cefa7:
 msgid "..."

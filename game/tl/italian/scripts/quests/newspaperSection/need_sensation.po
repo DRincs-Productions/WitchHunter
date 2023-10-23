@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-10-22 15:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/need_sensation.rpy:6 #-#-# translate crowdin need_sensation_3a6e34d5:
 msgid "[_bess_] А давайте напишем про, то что директриса завела роман с одним из учеников!"
@@ -118,7 +118,7 @@ msgstr "[_bess_] Eh ..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:102 #-#-# translate crowdin need_sensation_a5f74d82:
 msgid "[_centered_] {size=36}Спустя еще какое-то время...{/size}"
-msgstr "[_centered_] {Dopo un po' di tempo..."
+msgstr "[_centered_] {size=36}Dopo un po' di tempo...{/size}"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:107 #-#-# translate crowdin need_sensation_821e639f:
 msgid "[_courtney_] Грета Марена надела синюю юбку два раза за неделю!"
@@ -166,7 +166,7 @@ msgstr "[_cedrick_] Ok, ragazzi, dobbiamo accelerare la stesura dell'articolo. I
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:140 #-#-# translate crowdin need_sensation_a5f74d82_1:
 msgid "[_centered_] {size=36}Спустя еще какое-то время...{/size}"
-msgstr "[_centered_] {Dopo un po' di tempo..."
+msgstr "[_centered_] {size=36}Dopo un po' di tempo...{/size}"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:145 #-#-# translate crowdin need_sensation_ac8a7f3d:
 msgid "[_courtney_] А как вам такое - я видела, как Урия съел жвачку из под стола!"
@@ -202,7 +202,7 @@ msgstr "[_irma_] Andiamo. Dobbiamo trovarlo, non possiamo lasciarlo qui."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:177 #-#-# translate crowdin need_sensation_5f7c243f:
 msgid "[_centered_] {size=36}Через пару минут в столовой{/size}"
-msgstr "[_centered_] {Un paio di minuti dopo, nella sala da pranzo."
+msgstr "[_centered_] {size=36}Un paio di minuti dopo, nella sala da pranzo{/size}"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:182 #-#-# translate crowdin need_sensation_a8f384ea:
 msgid "[_cedrick_] Чем ты тут занимаешься?"
@@ -334,7 +334,7 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:250 #-#-# translate crowdin need_sensation_5c3fb5d8:
 msgid "[_courtney_] А куда делись Ирма и Тарани?"
-msgstr "[_courtney_] Dove sono finiti Irma e Tarani?"
+msgstr "[_courtney_] Dove sono finiti Irma e Taranee?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:254 #-#-# translate crowdin need_sensation_721474a6:
 msgid "[_cedrick_] Оставайтесь здесь. Я попробую их найти и вернусь к вам."
@@ -398,7 +398,7 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:287 #-#-# translate crowdin need_sensation_92f4a757:
 msgid "[_irma_] Мне нужно найти Тарани..."
-msgstr "[_irma_] Devo trovare Tarani..."
+msgstr "[_irma_] Devo trovare Taranee..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:290 #-#-# translate crowdin need_sensation_49846a9f:
 msgid "Ирма убегает"
@@ -634,7 +634,7 @@ msgstr "[_cedrick_] Dimmi domani, ora vai a casa"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:431 #-#-# translate crowdin need_sensation_515d86dd:
 msgid "[_martin_] А как же Ирма с Тарани? Вы их нашли?"
-msgstr "[_martin_] E Irma e Tarani? Li avete trovati?"
+msgstr "[_martin_] E Irma e Taranee? Li avete trovati?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:435 #-#-# translate crowdin need_sensation_cf5dc892:
 msgid "[_cedrick_]  Они уже ушли ..."

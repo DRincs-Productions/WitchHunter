@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:00\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:4 #-#-# translate crowdin exchange_flower_for_elf_7480efc6:
 msgid "[_cedrick_] Это тот самый цветок?"
@@ -50,7 +50,7 @@ msgstr "[_miranda_] Vous le saurez plus tard, Cédric. Avant de partir, il se pe
 
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:36 #-#-# translate crowdin exchange_flower_for_elf_1d458c43:
 msgid "[_centered_] {size=37}Cедрик осматривает вещи Евангелины и находит среди них странную голубую Каплю, которую он забирает себе. Миранда ставит Евангелину на ноги. Мутноватая жидкость каплями стекает с еe дрожащего тела, а глаза бешено рыскают по комнате, словно пытаясь найти кого-то{/size} [withDissolve1]"
-msgstr "[_centered_] {Cedric examine les affaires d'Evangeline et trouve parmi elles un étrange Blob bleu, qu'il prend pour lui. Miranda met Evangeline sur ses pieds. Le liquide trouble s'écoule de son corps tremblant et ses yeux parcourent frénétiquement la pièce comme s'ils essayaient de trouver quelqu'un{/size} [withDissolve1]."
+msgstr "[_centered_] {size=37}Cedric examine les affaires d'Evangeline et trouve parmi elles un étrange Blob bleu, qu'il prend pour lui. Miranda met Evangeline sur ses pieds. Le liquide trouble s'écoule de son corps tremblant et ses yeux parcourent frénétiquement la pièce comme s'ils essayaient de trouver quelqu'un{/size} [withDissolve1]"
 
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:43 #-#-# translate crowdin exchange_flower_for_elf_a72e4ba0:
 msgid "[_evangelin_] Где... Где я? Кто вы? Где Амалия?"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:14\n"
+"PO-Revision-Date: 2023-10-22 15:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/paizuriTarani.rpy:5 #-#-# translate crowdin paizuriTarani_54173553:
 msgid "[_cedrick_] И так, класс, сегодня вас ждет новая контрольная работа. Надеюсь все успели подготовиться"
@@ -22,7 +22,7 @@ msgstr "[_haylin_] Oh no, non di nuovo..."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:7 #-#-# translate crowdin paizuriTarani_dfbdfe87:
 msgid "[_cedrick_] Мы лишь проверяем уровень ваших знаний, Хай Лин. В правильных руках любое знание превращается в силу, не стоит это недооценивать. Верно, Тарани?"
-msgstr "[_cedrick_] Stiamo solo testando il tuo livello di conoscenza, Hai Lin. Nelle mani giuste ogni conoscenza si trasforma in potere, non sottovalutatelo. Giusto, Tarani?"
+msgstr "[_cedrick_] Stiamo solo testando il tuo livello di conoscenza, Hay Lin. Nelle mani giuste ogni conoscenza si trasforma in potere, non sottovalutatelo. Giusto, Taranee?"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:8 #-#-# translate crowdin paizuriTarani_1e9e5a76:
 msgid "[_tarani_] ..Верно"
@@ -30,7 +30,7 @@ msgstr "[_tarani_] ...Giusto."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:9 #-#-# translate crowdin paizuriTarani_0f374d4c:
 msgid "[_haylin_] Ну конечно, Тарани то всегда ко всему готова!"
-msgstr "[_haylin_] Naturalmente, Tarani è sempre pronta a tutto!"
+msgstr "[_haylin_] Naturalmente, Taranee è sempre pronta a tutto!"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:10 #-#-# translate crowdin paizuriTarani_c78b3858:
 msgid "[_cedrick_] (Ох, как оказалось, не ко всему)"
@@ -38,11 +38,11 @@ msgstr "[_cedrick_] (Oh, come si è scoperto, non a tutto)"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:12 #-#-# translate crowdin paizuriTarani_d4706847:
 msgid "[_centered_] {size=37}После урока..{/size}"
-msgstr "[_centered_] {Dopo la lezione..."
+msgstr "[_centered_] {size=37}Dopo la lezione..{/size}"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:18 #-#-# translate crowdin paizuriTarani_36adae20:
 msgid "[_cedrick_] Тарани, не поможешь мне с проверкой контрольных?"
-msgstr "[_cedrick_] Tarani, puoi aiutarmi a controllare i controlli?"
+msgstr "[_cedrick_] Taranee, puoi aiutarmi a controllare i controlli?"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:19 #-#-# translate crowdin paizuriTarani_4eda9780:
 msgid "[_tarani_] ..Ребят, не ждите меня, я должна помочь Профессору Рику.."
@@ -58,7 +58,7 @@ msgstr "[_tarani_] Cercherò di..."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:25 #-#-# translate crowdin paizuriTarani_42fdc3a9:
 msgid "[_cedrick_] Мда, парень ни на что негоден.. Надеюсь хоть ты за него постараешься, Тарани"
-msgstr "[_cedrick_] Sì, il ragazzo non è bravo. Spero che almeno ci proverai, Tarani."
+msgstr "[_cedrick_] Sì, il ragazzo non è bravo. Spero che almeno ci proverai, Taranee."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:29 #-#-# translate crowdin paizuriTarani_6431c766:
 msgid "[_tarani_] Хватит давить на меня.."

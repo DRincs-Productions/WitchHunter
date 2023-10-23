@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:57\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:5 #-#-# translate crowdin getAlchemyFromRaythor_2cc482bf:
 msgid "[_raythor_] О, снова ты, Седрик? Какими судьбами?"
@@ -70,7 +70,7 @@ msgstr "[_cedrick_] A presto. Godetevi il vostro status finché potete. Lo ripre
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:47 #-#-# translate crowdin getAlchemyFromRaythor_b044bb4f:
 msgid "[_centered_] {size=37}ПРОХОДЯ МИМО КАЗАРМЫ СТРАЖНИКОВ, СЕДРИК ЗАМЕЧАЕТ, КАК ОНИ РАЗВЛЕКАЮТСЯ С КАКОЙ-ТО ДЕВОЧНКОЙ{/size}"
-msgstr "[_centered_] {Passando accanto a un gruppo di guardie, Cedric le nota mentre si divertono con una ragazza."
+msgstr "[_centered_] {size=37}PASSANDO DAVANTI ALLA BARACCA DELLE GUARDIE, CEDRIC NOTA CHE SI DIVERTONO CON UNA RAGAZZA{/size}"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:53 #-#-# translate crowdin getAlchemyFromRaythor_0b41ca7c:
 msgid "[_str1_] О дааа, эта сука отлично сосет!"
@@ -154,7 +154,7 @@ msgstr "[_cedrick_] Porto la ragazza"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:76 #-#-# translate crowdin getAlchemyFromRaythor_5f7367ee:
 msgid "[_centered_] {size=37}СЕДРИК ЗАБИРАЕТ АЛХИМИ С СОБОЙ{/size}"
-msgstr "[_centered_] {SEDRICK PRENDE ALHIMI CON L'ASSALTO{/size}"
+msgstr "[_centered_] {size=37}SEDRICK PRENDE ALHIMI CON L'ASSALTO{/size}"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:77 #-#-# translate crowdin getAlchemyFromRaythor_0d16abb9:
 msgid "[_cedrick_] (Черт, девчонка отрубилась. Надо дать ей время оклематься после произошедшего. Пусть пока отдыхает в камере)"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:58\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/goToConcert.rpy:5 #-#-# translate crowdin goToConcert_a20cefa7:
 msgid "..."
@@ -22,7 +22,7 @@ msgstr "[_cedrick_] (Il concerto sta per iniziare, è ora di seguire Cornelia...
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:9 #-#-# translate crowdin goToConcert_221be065:
 msgid "[_centered_] {size=37}Спустя некоторое время{/size}"
-msgstr "[_centered_] {Dopo un po' di tempo"
+msgstr "[_centered_] {size=37}Dopo un po' di tempo{/size}"
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:15 #-#-# translate crowdin goToConcert_7cbf0ac5:
 msgid "Звонок в дверь"
@@ -54,7 +54,7 @@ msgstr "[_cornelia_] Anche tu..."
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:35 #-#-# translate crowdin goToConcert_cc1c311c:
 msgid "[_centered_] {size=37}Спустя 20 минут на концерте{/size}"
-msgstr "[_centered_] {20 minuti di concerto{/size}"
+msgstr "[_centered_] {size=37}20 minuti di concerto{/size}"
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:42 #-#-# translate crowdin goToConcert_a20cefa7_2:
 msgid "..."

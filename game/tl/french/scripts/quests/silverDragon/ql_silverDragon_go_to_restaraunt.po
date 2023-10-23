@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:11\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:9 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_9c4e2d11:
 msgid "[_YanLin_] Добро пожаловать в ресторан азиатской кухни Серебряный дракон!"
@@ -122,7 +122,7 @@ msgstr "[_cedrick_] Je vais aller la chercher..."
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:80 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_d9756c75:
 msgid "[_centered_] {size=37}В переулке у ресторана{/size}"
-msgstr "[_centered_] {Dans une ruelle, devant un restaurant."
+msgstr "[_centered_] {size=37}Dans une ruelle, devant un restaurant{/size}"
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:84 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_62bb01a1:
 msgid "[_haylin_] Сколько раз я тебе говорила, что ты не можешь здесь находиться! Из-за тебя в ресторане чудовищный запах!"

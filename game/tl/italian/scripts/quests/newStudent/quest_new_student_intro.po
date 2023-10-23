@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_intro.rpy:6 #-#-# translate crowdin quest_new_student_intro_e11e77a5:
 msgid "[_cedrick_] (Хм.. Что-то сегодня эти школьные сплетницы куда оживленнее, чем обычно)"
@@ -118,7 +118,7 @@ msgstr "[_cedrick_] Se si intende frequentare un'università più o meno decente
 
 # game/scripts/quests/newStudent/quest_new_student_intro.rpy:57 #-#-# translate crowdin quest_new_student_intro_b0f4fcf1:
 msgid "[_centered_] {size=37}после урока.. {/size}"
-msgstr "[_centered_] {dopo la lezione... {\\an8}"
+msgstr "[_centered_] {size=37}dopo la lezione.. {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_intro.rpy:59 #-#-# translate crowdin quest_new_student_intro_1e8fc6de:
 msgid "[_guy_] Сондра, пойдем вместе в столовую!"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-20 10:44\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:7 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_babdf96a:
 msgid "[_susan_] Ну что, ты купил нам костюмы для бассейна?"
@@ -26,7 +26,7 @@ msgstr "[_susan_] Oh, beh, aspetteremo"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:31 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_183927f3:
 msgid "[_centered_] {size=37}СПУСТЯ НЕКОТОРОЕ ВРЕМЯ В БАССЕЙНЕ{/size}"
-msgstr "[_centered_] {L'ULTIMA VOLTA NEL BACINO{/size}"
+msgstr "[_centered_] {size=37}L'ULTIMA VOLTA NEL BACINO{/size}"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:36 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_89ec3983:
 msgid "[_cedrick_] Ну что, вот мы и в бассейне. Хах, столько времени уже в этом городе, но в этом месте я впервые. Какое упущение"

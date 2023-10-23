@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 20:58\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:9 #-#-# translate crowdin pickUpTicketFromBlank_267cf647:
 msgid "[_cedrick_] Ты достал билеты?"
@@ -18,7 +18,7 @@ msgstr "[_cedrick_] Hai preso i biglietti?"
 
 # game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:10 #-#-# translate crowdin pickUpTicketFromBlank_efdc141c:
 msgid "[_blank_] Да, бланк достать!"
-msgstr "[_blank_] Sì, prendete il modulo!"
+msgstr "[_blank_] Sì, prendete Blunk!"
 
 # game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:13 #-#-# translate crowdin pickUpTicketFromBlank_868650e6:
 msgid "[_cedrick_] Наконец-то, молодец."

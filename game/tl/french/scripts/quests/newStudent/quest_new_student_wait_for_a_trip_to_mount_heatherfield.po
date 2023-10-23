@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:5 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d54f4eca:
 msgid "[_cedrick_] Элион, ты ведь не отправляешься школьную поездку?"
@@ -50,7 +50,7 @@ msgstr "[_cedrick_] (Bien, en route pour l'école)"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:33 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5580fa0a:
 msgid "[_centered_] {size=37}Через некоторое время у школы{/size}"
-msgstr "[_centered_] {Après un moment hors de l'école..."
+msgstr "[_centered_] {size=37}Après un moment hors de l'école{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:36 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_50eb4847:
 msgid "[_cedrick_] Так, кажется уже почти все собрались."
@@ -806,7 +806,7 @@ msgstr "[_cedrick_] Bien, laissez-moi vous aider dans votre recherche."
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:449 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f68a538:
 msgid "[_centered_] {size=37} Спустя какое то время поиски выхода не к чему не привели {/size}"
-msgstr "[_centered_] {Après un certain temps, la recherche d'une sortie n'a mené à rien."
+msgstr "[_centered_] {size=37} Après un certain temps, la recherche d'une sortie n'a mené à rien {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:454 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_c987b9c8:
 msgid "[_cedrick_] Не волнуйся, они точно рано или поздно заметят нашу пропажу и тогда отправят спасателей на наши поиски."
@@ -1314,7 +1314,7 @@ msgstr "...."
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:683 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_1a0397b4:
 msgid "[_centered_] {size=37}Через какое то время спасатели доставили Седрика и Вилл на лыжный курорт {/size}"
-msgstr "[_centered_] {Après un moment, les sauveteurs ont emmené Cedric et Will à la station de ski."
+msgstr "[_centered_] {size=37}Après un moment, les sauveteurs ont emmené Cedric et Will à la station de ski {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:686 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_670b2307:
 msgid "[_cedrick_] С учениками ничего не произошло? Никто не пропал кроме нас? Все целы?"
@@ -1526,7 +1526,7 @@ msgstr "[_will_] Pourquoi pas..."
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:820 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_9aee60b2:
 msgid "[_centered_] {size=37} В доме семейства Вэндом{/size}"
-msgstr "[_centered_] {Dans la maison de la famille Vendôme{/size}"
+msgstr "[_centered_] {size=37} Dans la maison de la famille Vendôme{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:824 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_dcacfebf:
 msgid "[_susan_] Вилл!"

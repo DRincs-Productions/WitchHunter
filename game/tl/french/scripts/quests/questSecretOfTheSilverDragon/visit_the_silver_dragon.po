@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:10\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:4 #-#-# translate crowdin visit_the_silver_dragon_ada0e601:
 msgid "[_haylin_] Р-рик!? Что ты.."
@@ -506,7 +506,7 @@ msgstr "[_haylin_] (Si cela continue, les clients pourraient avoir des soupçons
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:439 #-#-# translate crowdin minigame_3_7e4c255e:
 msgid "[_centered_] {size=37}Седрик все оставшееся утро простоял за прилавком{/size} [withDissolve1]"
-msgstr "[_centered_] {Cédric passa le reste de la matinée derrière le comptoir{/size} [withDissolve1]."
+msgstr "[_centered_] {size=37}Cédric passa le reste de la matinée derrière le comptoir{/size} [withDissolve1]"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:443 #-#-# translate crowdin minigame_3_debe30c7:
 msgid "[_chenlin_] Рик, ну как ты тут, справляешься?"
@@ -1522,7 +1522,7 @@ msgstr "[_chenlin_] Ok, Rick et moi allons faire la vaisselle, vous allez releve
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1012 #-#-# translate crowdin minigame_3_a6d6ae99:
 msgid "[_centered_] {size=37}Поздно ночью{/size} [withDissolve1]"
-msgstr "[_centered_] { [withDissolve1]"
+msgstr ""
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1015 #-#-# translate crowdin minigame_3_55925e47:
 msgid "[_cedrick_] (Черт, не думал, что это все так затянется.. Иметь свой книжный магазинчик явно лучше, чем ресторан..)"

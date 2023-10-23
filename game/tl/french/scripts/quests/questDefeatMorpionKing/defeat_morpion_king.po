@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:08\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -762,7 +762,7 @@ msgstr "[_cedrick_] Oui, tout à fait. En fait, je récupère plus vite"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:539 #-#-# translate crowdin defeat_morpion_king_8a969932:
 msgid "[_centered_] {size=37}В ТЕМНИЦЕ КОРНЕЛИИ {/size}"
-msgstr "[_centered_] {Dans l'obscurité du Cornelia..."
+msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:545 #-#-# translate crowdin defeat_morpion_king_3c3f83da:
 msgid "[_cedrick_] Хм, не помню, чтобы я тебя приковывал"
@@ -1438,7 +1438,7 @@ msgstr "[_cedrick_] (C'est le genre de discours qui me fait un peu bander...)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:955 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_bc588c08:
 msgid "[_centered_] {size=37}Седрик рассказывает все Миранде {/size}"
-msgstr "[_centered_] {Cedric raconte tout à Miranda."
+msgstr "[_centered_] {size=37}Cedric raconte tout à Miranda {/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:960 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_3c8a3003:
 msgid "[_miranda_] Что ж, все произошло прямо как по методичке"
@@ -1558,7 +1558,7 @@ msgstr "[_miranda_] OK, on va le trouver."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1057 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_462bd96e:
 msgid "[_centered_] {size=37}Седрику приводят побитого воина{/size}"
-msgstr "[_centered_] {Cedric est amené en tant que guerrier blessé."
+msgstr "[_centered_] {size=37}Cedric est amené en tant que guerrier blessé{/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1061 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_0a6593ad:
 msgid "[_broken_warrior_] Вы звали меня, Главнокомандующий Седрик?"

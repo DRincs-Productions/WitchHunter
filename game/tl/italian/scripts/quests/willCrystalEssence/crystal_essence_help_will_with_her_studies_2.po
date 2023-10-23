@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:17\n"
+"PO-Revision-Date: 2023-10-22 15:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:4 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_2_a9395fd6:
 msgid "[_centered_] {size=37}НА СЛЕДУЮЩИЙ ДЕНЬ, УТРОМ{/size}"
-msgstr "[_centered_] {L'indomani, al mattino, la mattina, il giorno dopo."
+msgstr "[_centered_] {size=37}IL GIORNO DOPO, MATTINA{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:9 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_2_5b016cc1:
 msgid "[_cedrick_] Ну что, Вилл. Как видишь, кхм, сегодня я остался у вас на ночь.."
@@ -110,7 +110,7 @@ msgstr "[_cedrick_] (Dannazione, è scappata così in fretta che non ho avuto il
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:62 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_2_4ec9bbe2:
 msgid "[_centered_] {size=37}Позже на кухне{/size}"
-msgstr "[_centered_] {Più tardi in cucina{/size}"
+msgstr "[_centered_] {size=37}Più tardi in cucina{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:66 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_2_c9023d23:
 msgid "[_cedrick_] (Отлично, она меня не заметила. Змеиная проворность дает о себе знать. Но что же я с ней сделаю)"
@@ -262,7 +262,7 @@ msgstr "[_will_] (K-che sensazione, aaah, grandiosa)"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:146 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_2_a1237172:
 msgid "[_centered_] {size=37}СПУСТЯ ПАРУ ЧАСОВ{/size}"
-msgstr "[_centered_] {SOMMERSO UN PO' DI ORE{/size}"
+msgstr "[_centered_] {size=37}SOMMERSO UN PO' DI ORE{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:152 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_2_befe961d:
 msgid "[_will_] (Какого черта.. П-почему.. я уже так долго стараюсь.. но я не могу больше кончить.. аааахх..)"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:11\n"
+"PO-Revision-Date: 2023-10-22 15:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/singles/prologue.rpy:10 #-#-# translate crowdin prologue_659381e6:
 msgid "[_centered_] {size=37}Меридиан\n"
@@ -196,7 +196,7 @@ msgstr "[_cedrick_] (Quel bastardo mi ha tolto la forza! Perché devo strisciare
 
 # game/scripts/quests/singles/prologue.rpy:166 #-#-# translate crowdin prologue_77ab8b26:
 msgid "[_centered_] {size=37}Некоторое время спустя, в Хезарфилде..{/size}"
-msgstr "[_centered_] {Qualche tempo dopo, a Hezarfield..."
+msgstr "[_centered_] {size=37}Qualche tempo dopo, a Hesarfield...{/size}"
 
 # game/scripts/quests/singles/prologue.rpy:171 #-#-# translate crowdin prologue_49316299_1:
 msgid "[_cedrick_] ..."
@@ -256,11 +256,11 @@ msgstr "..."
 
 # game/scripts/quests/singles/prologue.rpy:191 #-#-# translate crowdin prologue_fc535157:
 msgid "[_centered_] {size=37}Спустя несколько дней…{/size}"
-msgstr "[_centered_] {Pochi giorni dopo…{/size}"
+msgstr "[_centered_] {size=37}Alcuni giorni dopo...{/size}"
 
 # game/scripts/quests/singles/prologue.rpy:200 #-#-# translate crowdin prologue_2e328cc3:
 msgid "[_cedrick_] ({i}Что за жалкое место, какой бардак! И почему я должен прибираться здесь. Я {size=22}ЛОРД{/size}, а не какая-то служанка! У меня голубая кровь!{/i})"
-msgstr "[_cedrick_] ({i}Che posto miserabile, che casino! E perché devo pulire qui dentro. Io sono il Signore, non una serva! Ho il sangue blu!"
+msgstr "[_cedrick_] ({i}Che posto patetico, che caos! E perché dovrei pulire qui. IO {size=22}SONO UN SIGNORE{/size}, non una cameriera! Ho il sangue blu!{/i})"
 
 # game/scripts/quests/singles/prologue.rpy:201 #-#-# translate crowdin prologue_e28e9226:
 msgid "[_cedrick_] ({i}Этот старый торгаш заслужил оказаться у меня в желудке, он совсем не следил за порядком в магазине.{/i})"

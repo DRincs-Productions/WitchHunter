@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:17\n"
+"PO-Revision-Date: 2023-10-22 15:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:5 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_4_8b9f713b:
 msgid "[_centered_] {size=37}ПОЗЖЕ, ВЕЧЕРОМ{/size}"
-msgstr "[_centered_] {{size=37}A tarda notte{/size}"
+msgstr "[_centered_] {size=37}A TARDA NOTTE{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:12 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_4_30c9cc4a:
 msgid "[_cedrick_] Ох, Сьюзан, да у тебя оказывается, талант"
@@ -74,7 +74,7 @@ msgstr "[_will_] (Ma per ora... andrò a letto...)"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:35 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_4_51762836:
 msgid "[_centered_] {size=37}ПОЗЖЕ, НОЧЬЮ{/size}"
-msgstr "[_centered_] {size=37}Tarda notte, {/size}"
+msgstr "[_centered_] {size=37}A TARDA NOTTE{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:41 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_4_bf526265:
 msgid "[_cedrick_] Ч-что? Что это, блин, такое?"
@@ -118,7 +118,7 @@ msgstr "...."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:59 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_4_b7a0ecc4:
 msgid "[_cedrick_] Вилл, ты безумна.. Что бы сказала твоя мама? Что бы сказали Ирма, Тарани, Корнелия и Хай Лин?"
-msgstr "[_cedrick_] Will, sei pazzo. Cosa direbbe tua madre? Cosa direbbero Irma, Tarani, Cornelia e Hai Lin?"
+msgstr "[_cedrick_] Will, sei pazzo. Cosa direbbe tua madre? Cosa direbbero Irma, Taranee, Cornelia e Hay Lin?"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:60 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_4_8a8a9b7f:
 msgid "[_cedrick_] Разве это подобающее поведение для главной стражницы? Очнись, Вилл!"
@@ -182,7 +182,7 @@ msgstr "[_will_] Ahhhh..."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:102 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_4_643fb3a6:
 msgid "[_centered_] {size=37}В комнате Сьюзан{/size}"
-msgstr "[_centered_] {Nella stanza di Susan."
+msgstr "[_centered_] {size=37}Nella stanza di Susan{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:105 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_4_49316299:
 msgid "[_cedrick_] ..."

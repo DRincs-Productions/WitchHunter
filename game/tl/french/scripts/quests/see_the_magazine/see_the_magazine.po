@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:11\n"
+"PO-Revision-Date: 2023-10-22 15:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:13 #-#-# translate crowdin see_the_magazine_7fa8e887:
 msgid "[_cedrick_] Хм... Порнографический журнал... Я должен снять стресс, у меня так давно не было хорошей шлюхи..."
@@ -406,7 +406,7 @@ msgstr "[_elion_] Désolé, j'ai oublié mes clés de..."
 
 # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:253 #-#-# translate crowdin journal_sletty_sluts_f3392b28:
 msgid "[_elion_] {b}{size=25}Что ты делаешь?{/size}{/b}"
-msgstr "[_elion_] {b}{size=25}{/size}{/b}"
+msgstr ""
 
 # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:254 #-#-# translate crowdin journal_sletty_sluts_f6ec421e:
 msgid "[_cedrick_sprite_] Я ... Я пытался немного прибраться..."
