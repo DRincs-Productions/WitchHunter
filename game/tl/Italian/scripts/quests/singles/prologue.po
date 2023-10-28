@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-22 15:29\n"
+"PO-Revision-Date: 2023-10-28 10:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/singles/prologue.rpy:10 #-#-# translate crowdin prologue_659381e6:
 msgid "[_centered_] {size=37}Меридиан\n"
@@ -56,7 +56,7 @@ msgstr "[_phobos_] 18 anni fa... È scomparsa prima ancora di avere un nome..."
 
 # game/scripts/quests/singles/prologue.rpy:52 #-#-# translate crowdin prologue_dda7107c:
 msgid "[_phobos_] Для выполнения этого задания тебе придется побыть в человеческом обличии..."
-msgstr "[_phobos_] Per completare questo compito dovrete essere in forma umana..."
+msgstr "[_phobos_] Per completare questo compito dovrai essere in forma umana..."
 
 # game/scripts/quests/singles/prologue.rpy:53 #-#-# translate crowdin prologue_d865c0a9:
 msgid "[_cedrick_] Я могу попасть в Хезарфилд с помощью портала и найти ее, но это может занять какое-то время..."
@@ -100,7 +100,7 @@ msgstr "[_phobos_] E inoltre..."
 
 # game/scripts/quests/singles/prologue.rpy:63 #-#-# translate crowdin prologue_58528fd0:
 msgid "[_phobos_] Ты же не думал, что твой провал останется безнаказанным?"
-msgstr "[_phobos_] Non pensavate che il vostro fallimento sarebbe rimasto impunito, vero?"
+msgstr "[_phobos_] Non pensavi che il tuo fallimento sarebbe rimasto impunito, vero?"
 
 # game/scripts/quests/singles/prologue.rpy:64 #-#-# translate crowdin prologue_06eb20ff:
 msgid "[_phobos_] У нас осталось не так много воинов и отныне я не могу доверять тебе управление армией..."
