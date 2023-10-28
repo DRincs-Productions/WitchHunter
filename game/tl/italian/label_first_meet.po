@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-22 15:29\n"
+"PO-Revision-Date: 2023-10-28 12:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/label_first_meet.rpy:4 #-#-# translate crowdin first_meet_8bd86d07:
 msgid "[_cedrick_] Что-ж, пока никто сюда не явился, самое время начать изучать местные книги"
@@ -26,7 +26,7 @@ msgstr "[_cedrick_] Nel complesso, come mi aspettavo, la parlata locale è molto
 
 # game/label_first_meet.rpy:11 #-#-# translate crowdin first_meet_4056e326:
 msgid "[_cedrick_] Мудак. Гандон. Еблан. Столько одинаковых по смыслу, но разных по значению нецензурных слов… Интересно"
-msgstr "[_cedrick_] Stronzo. Testa di cazzo. Testa di cazzo. Tante parole simili nel significato ma diverse nel significato di fallo… Interessante"
+msgstr "[_cedrick_] Stronzo. Coglione. Figlio di puttana. Tante parole oscene che sono identiche nel significato ma hanno significati diversi… Interessante"
 
 # game/label_first_meet.rpy:14 #-#-# translate crowdin first_meet_cec43db9:
 msgid "[_cedrick_] Хах, а для здешнего мира Гитлер был тот еще мудак. На Меридиане его бы сделали одним из главных ораторов или полководцев.. Хотя в конечном итоге все равно повесили бы. Фобос бы его казнил только за одни эти усишки"
@@ -42,7 +42,7 @@ msgstr "[_cedrick_] In pratica, le persone lavorano senza sosta per la valuta mo
 
 # game/label_first_meet.rpy:19 #-#-# translate crowdin first_meet_d3b1fe87:
 msgid "[_cedrick_] И при этом никто не считает себя рабом, забавно. На Меридиане все куда честнее, ты либо властвуешь над всеми, либо о тебя вытирают ноги"
-msgstr "[_cedrick_] Eppure nessuno pensa di essere uno schiavo, è buffo. Su Meridian è più onesto, o si domina su tutti o ci si fa cancellare i piedi."
+msgstr "[_cedrick_] Eppure nessuno pensa di essere uno schiavo, è buffo. Su Meridian tutto è molto più onesto, o comandi su tutti, oppure ti si puliscono i piedi addosso"
 
 # game/label_first_meet.rpy:22 #-#-# translate crowdin first_meet_fcdbc8c1:
 msgid "[_cedrick_] Закон о нравственности, закон об оскорблениях, закон о домогательствах, закон об избиении.. Тут можно спокойно угодить под стражу за то, что на Меридиане считается абсолютной нормой, нужно быть осторожнее"
@@ -58,7 +58,7 @@ msgstr "[_cedrick_] Oh, questo è interessante. Ora capisco perché hanno così 
 
 # game/label_first_meet.rpy:29 #-#-# translate crowdin first_meet_6f6377bc:
 msgid "[_cedrick_] Фобос говорил, что эмоциональная нестабильность и подавленность влияют на использование магических сил. Значит, я могу использовать это на стражницах"
-msgstr "[_cedrick_] Phobos ha detto che l'instabilità emotiva e la depressione influiscono sull'uso dei poteri magici. Così posso usarlo sulle sentinelle."
+msgstr "[_cedrick_] Phobos ha detto che l'instabilità emotiva e la depressione influiscono sull'uso dei poteri magici. Così posso usarlo sulle guardiane"
 
 # game/label_first_meet.rpy:30 #-#-# translate crowdin first_meet_3afae274:
 msgid "[_cedrick_] Так-так-так, видим одним из самых сильных эмоциональных потрясений для здешних представительниц женского пола – это сексуальное домогательство и психологическое насилие"
@@ -70,11 +70,11 @@ msgstr "[_cedrick_] Sì, beh... Per la maggior parte delle donne di Meridian è 
 
 # game/label_first_meet.rpy:32 #-#-# translate crowdin first_meet_87bdfb72:
 msgid "[_cedrick_] Значит, мне не нужно использовать форму змея, чтобы победить стражниц. Я могу просто психологически ломать их и сексуально домогаться, так их магия станет слабее и они станут легкими жертвами"
-msgstr "[_cedrick_] Quindi non ho bisogno di usare la mia forma di serpente per sconfiggere le guardie. Posso semplicemente spezzarle psicologicamente e molestarle sessualmente, in modo che la loro magia si indebolisca e diventino facili vittime."
+msgstr "[_cedrick_] Quindi non ho bisogno di usare la mia forma di serpente per sconfiggere le guardiane. Posso semplicemente spezzarle psicologicamente e molestarle sessualmente, in modo che la loro magia si indebolisca e diventino facili vittime"
 
 # game/label_first_meet.rpy:33 #-#-# translate crowdin first_meet_814956f4:
 msgid "[_cedrick_] Что ж, таким и будет мой план действий. Нужно напасть на каждую из стражниц, но калеча не их тело, а их дух, так они со временем станут слабее и не смогут дать мне отпор"
-msgstr "[_cedrick_] Questo sarebbe il mio piano d'azione. Attaccate tutte le guardie, ma non i loro corpi, bensì i loro spiriti, in modo che col tempo si indeboliscano e non siano in grado di reagire."
+msgstr "[_cedrick_] Questo sarebbe il mio piano d'azione. Attaccare tutte le guardie, ma non i loro corpi, bensì i loro spiriti, in modo che col tempo si indeboliscano e non siano in grado di reagire"
 
 # game/label_first_meet.rpy:42 #-#-# translate crowdin first_meet_bcbbf6e5:
 msgid "[_cedrick_] ({i}Кажется кто-то идет..{/i})"
@@ -110,7 +110,7 @@ msgstr "[_elion_] Elyon Brown. Ciao."
 
 # game/label_first_meet.rpy:91 #-#-# translate crowdin first_meet_702f0926:
 msgid "[_cedrick_sprite_] (Корнелия? Кажется я уже видел ее, эта одна из Стражниц, что она здесь делает?)"
-msgstr "[_cedrick_sprite_] (Cornelia? Credo di averla già vista, quella dei Guardiani, cosa ci fa qui?)"
+msgstr "[_cedrick_sprite_] (Cornelia? Credo di averla già vista, una delle Guardiane, cosa ci fa qui?)"
 
 # game/label_first_meet.rpy:92 #-#-# translate crowdin first_meet_3fc2be54:
 msgid "[_cedrick_sprite_] Кхм.. Рик Хофман."
@@ -150,7 +150,7 @@ msgstr "[_elion_] Sento che è attratta da me, heh... Sciocco, vero?"
 
 # game/label_first_meet.rpy:132 #-#-# translate crowdin first_meet_20d88b75:
 msgid "[_cedrick_sprite_] ({i}Хм ...И это наследница Меридиана? И похоже, что она подруга одной из стражниц завесы... Интересно..{/i})"
-msgstr "[_cedrick_sprite_] ({i}Hm... E questa è l'ereditiera di Meridian? E sembra che sia un'amica di uno dei guardiani del velo... Mi chiedo...)"
+msgstr "[_cedrick_sprite_] ({i}Hm... E questa è l'ereditiera di Meridian? E sembra che sia un'amica di una delle guardiane di Kandrakar... Mi chiedo..{/i})"
 
 # game/label_first_meet.rpy:133 #-#-# translate crowdin first_meet_573ef631:
 msgid "[_cedrick_sprite_] Обычная безделушка, можешь оставить ее себе, если она тебе так приглянулась."
@@ -162,19 +162,19 @@ msgstr "[_elion_] No! Grazie per la tua generosità, ma questa cosa mi spaventa.
 
 # game/label_first_meet.rpy:154 #-#-# translate crowdin first_meet_bbddcdfd:
 msgid "[_cornelia_] К сожалению, Я не нашла нужную книгу... Элион, пошли посмотрим в другом месте.."
-msgstr "[_cornelia_] Purtroppo non sono riuscito a trovare il libro giusto... Elyon, andiamo a cercare altrove..."
+msgstr "[_cornelia_] Purtroppo non sono riuscita a trovare il libro giusto... Elyon, andiamo a cercare altrove.."
 
 # game/label_first_meet.rpy:155 #-#-# translate crowdin first_meet_37db0a62:
 msgid "[_cedrick_sprite_] Простите, я еще не успел все выставить... Вполне вероятно, что нужная вам книга находится где-то в коробках..."
-msgstr "[_cedrick_sprite_] Mi dispiace, non ho ancora avuto modo di mettere tutto fuori... È probabile che il libro desiderato si trovi da qualche parte nelle scatole..."
+msgstr "[_cedrick_sprite_] Mi dispiace, non ho ancora avuto il tempo di sistemare tutto.... È probabile che il libro di cui avete bisogno si trovi da qualche parte nelle scatole..."
 
 # game/label_first_meet.rpy:156 #-#-# translate crowdin first_meet_fad3e6b3:
 msgid "[_cedrick_sprite_] Вы можете оставить свои адреса и я доставлю эти книги прямо вам домой."
-msgstr "[_cedrick_sprite_] Potete lasciare i vostri indirizzi e io consegnerò i libri direttamente a casa vostra."
+msgstr "[_cedrick_sprite_] Potete lasciare i vostri indirizzi e consegnerò i libri direttamente a casa vostra."
 
 # game/label_first_meet.rpy:159 #-#-# translate crowdin first_meet_38164c3e:
 msgid "[_cornelia_] А может мы просто дадим вам наши мобильные номера и вы сообщите когда найдете книги?"
-msgstr "[_cornelia_] Che ne dite se vi diamo i nostri numeri di cellulare e ci fate sapere quando trovate i libri?"
+msgstr "[_cornelia_] Che ne dici se ti diamo i nostri numeri di cellulare e tu ci fai sapere quando trovi i libri?"
 
 # game/label_first_meet.rpy:160 #-#-# translate crowdin first_meet_e00b6067:
 msgid "[_cedrick_]  Эм... К сожалению, я недавно потерял свой телефон..."
@@ -182,7 +182,7 @@ msgstr "[_cedrick_]  Ehm... Purtroppo, di recente ho perso il mio telefono..."
 
 # game/label_first_meet.rpy:166 #-#-# translate crowdin first_meet_d6a93290:
 msgid "[_cornelia_] Вы потеряли свой мобильник? Ну вы даете..."
-msgstr "[_cornelia_] Avete perso il vostro cellulare? Mi stai prendendo in giro..."
+msgstr "[_cornelia_] Hai perso il cellulare? Oh, ma dai..."
 
 # game/label_first_meet.rpy:172 #-#-# translate crowdin first_meet_6c6af52e:
 msgid "[_cornelia_] Похоже, что вы слишком сильно отвлекаетесь на книги..."
@@ -194,7 +194,7 @@ msgstr "[_elion_] Cornelia... non è molto educato..."
 
 # game/label_first_meet.rpy:180 #-#-# translate crowdin first_meet_055d661a:
 msgid "[_cornelia_] Ой, простите..."
-msgstr "[_cornelia_] Oh, scusate..."
+msgstr "[_cornelia_] Oh, scusa..."
 
 # game/label_first_meet.rpy:184 #-#-# translate crowdin first_meet_54b90254:
 msgid "[_cedrick_] Хах, ничего страшного. Похоже я и вправду провожу слишком много времени с книгами..."
@@ -206,11 +206,11 @@ msgstr "[_cedrick_] Penso che dovrei prendere un nuovo telefono..."
 
 # game/label_first_meet.rpy:192 #-#-# translate crowdin first_meet_13734343:
 msgid "[_cornelia_] Ну, раз так... Мы оставим вам свои адреса..."
-msgstr "[_cornelia_] Beh, se è così... Vi lasciamo i nostri indirizzi..."
+msgstr "[_cornelia_] Beh, se è così... Ti lasciamo i nostri indirizzi..."
 
 # game/label_first_meet.rpy:193 #-#-# translate crowdin first_meet_dcd297c6:
 msgid "[_cedrick_] Хорошо "
-msgstr "[_cedrick_] Buono "
+msgstr "[_cedrick_] Va bene "
 
 # game/label_first_meet.rpy:194 #-#-# translate crowdin first_meet_a20cefa7:
 msgid "..."
@@ -226,11 +226,11 @@ msgstr "[_elion_] Ciao!"
 
 # game/label_first_meet.rpy:204 #-#-# translate crowdin first_meet_590b16b1:
 msgid "Вы получили адрес Корнелии."
-msgstr "Avete ricevuto l'indirizzo di Cornelia."
+msgstr "Hai ricevuto l'indirizzo di Cornelia."
 
 # game/label_first_meet.rpy:205 #-#-# translate crowdin first_meet_2fad7b0a:
 msgid "Вы получили адрес Элион."
-msgstr "Avete ricevuto l'indirizzo di Elion."
+msgstr "Hai ricevuto l'indirizzo di Elion."
 
 # game/label_first_meet.rpy:213 #-#-# translate crowdin first_meet_5e6a07aa:
 msgid "[_cedrick_] ({i}Похоже, что Звезда Трибы и вправду сработала... Нужно сообщить об этом принцу Фобосу.{/i})"

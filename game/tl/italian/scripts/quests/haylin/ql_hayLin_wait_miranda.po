@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:03\n"
+"PO-Revision-Date: 2023-10-28 12:49\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:6 #-#-# translate crowdin ql_hayLin_wait_miranda_6140d12b:
 msgid "[_miranda_] Седрик..."
@@ -186,7 +186,7 @@ msgstr "[_cedrick_] М?"
 
 # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:141 #-#-# translate crowdin ql_hayLin_wait_miranda_e7762d8d:
 msgid "[_miranda_] Не забывай все, что между нами было. Ты можешь спать со Стражницами сколько угодно, но..."
-msgstr "[_miranda_] Non dimenticare tutto quello che è successo tra noi. Puoi dormire con le Sentinelle quanto vuoi, ma..."
+msgstr "[_miranda_] Non dimenticare tutto quello che è successo tra noi. Puoi dormire con le Guardiane quanto vuoi, ma..."
 
 # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:145 #-#-# translate crowdin ql_hayLin_wait_miranda_f8abc6c5:
 msgid "[_cedrick_] ...Но это не сравнится с тем, что было между нами? Я знаю, Миранда, я же сплю с тобой уже ни одну сотню лет"

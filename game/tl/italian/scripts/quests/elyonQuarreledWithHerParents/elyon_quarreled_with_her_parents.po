@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-22 15:30\n"
+"PO-Revision-Date: 2023-10-28 12:32\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:4 #-#-# translate crowdin elyon_quarreled_with_her_parents_9522b460:
 msgid "[_cedrick_] Элион, что ты здесь делаешь? Уже довольно поздно..."
@@ -438,7 +438,7 @@ msgstr "[_cedrick_] (Hmmm... Si potrebbe avere un incidente d'auto mentre stanno
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:325 #-#-# translate crowdin elyon_quarreled_with_her_parents_54cf8e5f:
 msgid "[_cedrick_] (Обратиться к Бланку?.. Нет, этот вонючка слишком тесно связан со Стражницами, может взболтнуть лишнего.. Но если не Бланк, тогда..)"
-msgstr "[_cedrick_] (Girare a vuoto...? No, quel fetente è troppo vicino alle Sentinelle per dire troppo... Ma se non è Blunk, allora...)"
+msgstr "[_cedrick_] (Girare a vuoto...? No, quel fetente è troppo vicino alle Guardiane per dire troppo... Ma se non è Blunk, allora...)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:326 #-#-# translate crowdin elyon_quarreled_with_her_parents_21aa3267:
 msgid "[_cedrick_] (Точно, был же еще один уродец, который недавно приходил к Фобосу.. Джинк, кажется. Нужно поискать его в Таверне)"

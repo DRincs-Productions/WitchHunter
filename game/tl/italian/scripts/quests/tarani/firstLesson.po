@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-23 08:12\n"
+"PO-Revision-Date: 2023-10-28 11:42\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/firstLesson.rpy:10 #-#-# translate crowdin firstLesson_c00ee63f:
 msgid "[_cedrick_] Меня зовут Рик Хоффман и с этого дня я ваш новый учитель истории."
@@ -50,7 +50,7 @@ msgstr "* La lezione di storia è giunta al termine. Tutti gli studenti, tranne 
 
 # game/scripts/quests/tarani/firstLesson.rpy:31 #-#-# translate crowdin firstLesson_d86f52c0:
 msgid "[_cedrick_] (Эти трое.. Стражницы Завесы!)"
-msgstr "[_cedrick_] (Questi tre... Guardiani del Velo!)."
+msgstr "[_cedrick_] (Questi tre... Guardiane di Kandrakar!)"
 
 # game/scripts/quests/tarani/firstLesson.rpy:37 #-#-# translate crowdin firstLesson_05d16e7b:
 msgid "[_haylin_] Сейчас биология. Тарани, ты не идешь?"

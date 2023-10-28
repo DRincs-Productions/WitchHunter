@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-22 15:30\n"
+"PO-Revision-Date: 2023-10-28 13:51\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/meridian/meridian_zamok.rpy:22 #-#-# translate crowdin talk_with_prince_phobos_69113d3e:
 msgid "[_phobos_] Скажи мне, что Звезда Трибы нашла девчонку!"
@@ -18,7 +18,7 @@ msgstr "[_phobos_] Ditemi che la Stella della Tribù ha trovato la ragazza!"
 
 # game/scripts/meridian/meridian_zamok.rpy:28 #-#-# translate crowdin talk_with_prince_phobos_588e1805:
 msgid "[_cedrick_] Да, это действительно так! Мне удалось найти вашу сестру."
-msgstr "[_cedrick_] Sì, lo è davvero! Sono riuscito a trovare tua sorella."
+msgstr "[_cedrick_] Sì, è vero! Sono riuscito a trovare tua sorella."
 
 # game/scripts/meridian/meridian_zamok.rpy:37 #-#-# translate crowdin talk_with_prince_phobos_8659d677:
 msgid "[_phobos_] Отлично! Скоро вся сила Меридиана будет моей!"
@@ -38,11 +38,11 @@ msgstr "[_cedrick_] Un'altra cosa..."
 
 # game/scripts/meridian/meridian_zamok.rpy:46 #-#-# translate crowdin talk_with_prince_phobos_831e4b8a:
 msgid "[_cedrick_] Оказалось, что одна из подруг принцессы является Стражницей завесы"
-msgstr "[_cedrick_] Si scopre che uno degli amici della principessa è il Guardiano del Sipario."
+msgstr "[_cedrick_] Sembra che uno degli amici della principessa sia un Guardiana di Kandrakar"
 
 # game/scripts/meridian/meridian_zamok.rpy:55 #-#-# translate crowdin talk_with_prince_phobos_0c71bcfe:
 msgid "[_phobos_] Это может усложнить задачу. Помни, очень важно забрать силу принцессы, если я хочу сохранить власть."
-msgstr "[_phobos_] Questo potrebbe rendere le cose difficili. Ricordate, è molto importante prendere il potere della principessa se voglio mantenere il potere."
+msgstr "[_phobos_] Questo potrebbe rendere le cose più difficili. Ricorda che è importante prendere il potere della principessa se voglio mantenere il potere."
 
 # game/scripts/meridian/meridian_zamok.rpy:56 #-#-# translate crowdin talk_with_prince_phobos_c30adbf8:
 msgid "[_phobos_] Мы должны медленно и осторожно войти к ней в доверие, а затем направить ее прямиком в нашу ловушку!"
@@ -70,7 +70,7 @@ msgstr "[_cedrick_] Potrebbero esserci alcuni problemi..."
 
 # game/scripts/meridian/meridian_zamok.rpy:70 #-#-# translate crowdin talk_with_prince_phobos_80759cba:
 msgid "[_phobos_] Со стражницами Завесы тебе предстоит подобная задача..."
-msgstr "[_phobos_] Con i Guardiani del Velo avete un compito simile..."
+msgstr "[_phobos_] Con i guardiane di Kandrakar dovrete svolgere un compito simile..."
 
 # game/scripts/meridian/meridian_zamok.rpy:71 #-#-# translate crowdin talk_with_prince_phobos_c2f68387:
 msgid "[_phobos_] Твое Семя ядовито и попадая внутрь, сможет понизить их магическую силу, для того чтобы ты мог сражаться с ними на равных и избавится от них, либо взять в плен… Ха-ха!"
@@ -98,7 +98,7 @@ msgstr "[_phobos_] Non eri tu quello che si vantava di essere andato a letto con
 
 # game/scripts/meridian/meridian_zamok.rpy:86 #-#-# translate crowdin talk_with_prince_phobos_ef770abb:
 msgid "[_cedrick_] Но, они не были принцессами или стражницами завесы..."
-msgstr "[_cedrick_] Ma non erano principesse o guardiane del velo..."
+msgstr "[_cedrick_] Ma non erano principesse o guardiane di Kandrakar..."
 
 # game/scripts/meridian/meridian_zamok.rpy:87 #-#-# translate crowdin talk_with_prince_phobos_a55cf215:
 msgid "[_phobos_] Это не важно, глупец! Как я уже говорил, принцесса даже не подозревает, что является наследницей престола, а стражницы, как и обычные девушки, имеют свои слабости. Воспользуйся этим!"
