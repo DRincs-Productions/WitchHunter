@@ -9,6 +9,7 @@
 | [Will](https://witch.fandom.com/it/wiki/Will_Vandom) | Вилл | Will | |
 | [Guardians of Kandrakar](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | Стражницы завесы | Guardiane di Kandrakar | |
 | [Guardians](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | стражницах | guardiane | |
+| [Guardian of Kandrakar](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | Стражницей завесы | Guardiana di Kandrakar | |
 
 ## Insert Template in your Project
 
