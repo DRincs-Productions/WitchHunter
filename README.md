@@ -8,6 +8,7 @@
 | [Hay Lin](https://witch.fandom.com/it/wiki/Hay_Lin) | Хай Лин  | Hay Lin  | |
 | [Will](https://witch.fandom.com/it/wiki/Will_Vandom) | Вилл | Will | |
 | [Guardians of Kandrakar](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | Стражницы завесы | Guardiane di Kandrakar | |
+| [Guardians](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | стражницах | guardiane | |
 
 ## Insert Template in your Project
 
