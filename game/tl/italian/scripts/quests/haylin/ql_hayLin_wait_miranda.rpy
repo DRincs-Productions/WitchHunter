@@ -262,7 +262,7 @@ translate italian ql_hayLin_wait_miranda_dc7cf739:
 translate italian ql_hayLin_wait_miranda_e7762d8d:
 
     # miranda "Не забывай все, что между нами было. Ты можешь спать со Стражницами сколько угодно, но..."
-    miranda "Non dimenticare tutto quello che è successo tra noi. Puoi dormire con le Sentinelle quanto vuoi, ma..."
+    miranda "Non dimenticare tutto quello che è successo tra noi. Puoi dormire con le Guardiane quanto vuoi, ma..."
 
 # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:145
 translate italian ql_hayLin_wait_miranda_f8abc6c5:

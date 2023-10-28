@@ -58,7 +58,7 @@ translate italian firstLesson_58ff376b:
 translate italian firstLesson_d86f52c0:
 
     # cedrick "(Эти трое.. Стражницы Завесы!)"
-    cedrick "(Questi tre... Guardiani del Velo!)."
+    cedrick "(Questi tre... Guardiane di Kandrakar!)"
 
 # game/scripts/quests/tarani/firstLesson.rpy:37
 translate italian firstLesson_05d16e7b:

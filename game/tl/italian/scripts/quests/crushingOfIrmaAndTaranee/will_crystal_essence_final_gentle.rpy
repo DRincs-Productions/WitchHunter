@@ -382,7 +382,7 @@ translate italian will_crystal_essence_final_gentle_cdd17d39:
 translate italian will_crystal_essence_final_gentle_37aaf406:
 
     # cedrick "Хах, не самый достойные слова для стражницы завесы - признание в том, что быть насаженной на член это предел твоих мечтаний"
-    cedrick "Non sono le parole più dignitose per una guardiana del velo: ammettere che essere montata su un gallo è il limite dei propri sogni."
+    cedrick "Non sono le parole più dignitose per una guardiana di Kandrakar: ammettere che essere montata su un gallo è il limite dei propri sogni"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:108
 translate italian will_crystal_essence_final_gentle_db006ab5:

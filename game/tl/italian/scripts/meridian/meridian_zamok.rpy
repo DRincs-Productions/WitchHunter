@@ -10,7 +10,7 @@ translate italian talk_with_prince_phobos_69113d3e:
 translate italian talk_with_prince_phobos_588e1805:
 
     # cedrick "Да, это действительно так! Мне удалось найти вашу сестру."
-    cedrick "Sì, lo è davvero! Sono riuscito a trovare tua sorella."
+    cedrick "Sì, è vero! Sono riuscito a trovare tua sorella."
 
 # game/scripts/meridian/meridian_zamok.rpy:37
 translate italian talk_with_prince_phobos_8659d677:
@@ -40,13 +40,13 @@ translate italian talk_with_prince_phobos_bcf5b0a6:
 translate italian talk_with_prince_phobos_831e4b8a:
 
     # cedrick "Оказалось, что одна из подруг принцессы является Стражницей завесы"
-    cedrick "Si scopre che uno degli amici della principessa è il Guardiano del Sipario."
+    cedrick "Sembra che uno degli amici della principessa sia un Guardiana di Kandrakar"
 
 # game/scripts/meridian/meridian_zamok.rpy:55
 translate italian talk_with_prince_phobos_0c71bcfe:
 
     # phobos "Это может усложнить задачу. Помни, очень важно забрать силу принцессы, если я хочу сохранить власть."
-    phobos "Questo potrebbe rendere le cose difficili. Ricordate, è molto importante prendere il potere della principessa se voglio mantenere il potere."
+    phobos "Questo potrebbe rendere le cose più difficili. Ricorda che è importante prendere il potere della principessa se voglio mantenere il potere."
 
 # game/scripts/meridian/meridian_zamok.rpy:56
 translate italian talk_with_prince_phobos_c30adbf8:
@@ -88,7 +88,7 @@ translate italian talk_with_prince_phobos_ac5aa7ce:
 translate italian talk_with_prince_phobos_80759cba:
 
     # phobos "Со стражницами Завесы тебе предстоит подобная задача..."
-    phobos "Con i Guardiani del Velo avete un compito simile..."
+    phobos "Con i guardiane di Kandrakar dovrete svolgere un compito simile..."
 
 # game/scripts/meridian/meridian_zamok.rpy:71
 translate italian talk_with_prince_phobos_c2f68387:
@@ -130,7 +130,7 @@ translate italian talk_with_prince_phobos_5187a590:
 translate italian talk_with_prince_phobos_ef770abb:
 
     # cedrick "Но, они не были принцессами или стражницами завесы..."
-    cedrick "Ma non erano principesse o guardiane del velo..."
+    cedrick "Ma non erano principesse o guardiane di Kandrakar..."
 
 # game/scripts/meridian/meridian_zamok.rpy:87
 translate italian talk_with_prince_phobos_a55cf215:

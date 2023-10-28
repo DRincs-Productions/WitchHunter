@@ -640,7 +640,7 @@ translate italian elyon_quarreled_with_her_parents_0da682e4:
 translate italian elyon_quarreled_with_her_parents_54cf8e5f:
 
     # cedrick "(Обратиться к Бланку?.. Нет, этот вонючка слишком тесно связан со Стражницами, может взболтнуть лишнего.. Но если не Бланк, тогда..)"
-    cedrick "(Girare a vuoto...? No, quel fetente è troppo vicino alle Sentinelle per dire troppo... Ma se non è Blunk, allora...)"
+    cedrick "(Girare a vuoto...? No, quel fetente è troppo vicino alle Guardiane per dire troppo... Ma se non è Blunk, allora...)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:326
 translate italian elyon_quarreled_with_her_parents_21aa3267:
