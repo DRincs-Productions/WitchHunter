@@ -64,7 +64,7 @@ translate italian prologue_74cc0935:
 translate italian prologue_dda7107c:
 
     # phobos "Для выполнения этого задания тебе придется побыть в человеческом обличии..."
-    phobos "Per completare questo compito dovrete essere in forma umana..."
+    phobos "Per completare questo compito dovrai essere in forma umana..."
 
 # game/scripts/quests/singles/prologue.rpy:53
 translate italian prologue_d865c0a9:
@@ -130,7 +130,7 @@ translate italian prologue_cf382a4a:
 translate italian prologue_58528fd0:
 
     # phobos "Ты же не думал, что твой провал останется безнаказанным?"
-    phobos "Non pensavate che il vostro fallimento sarebbe rimasto impunito, vero?"
+    phobos "Non pensavi che il tuo fallimento sarebbe rimasto impunito, vero?"
 
 # game/scripts/quests/singles/prologue.rpy:64
 translate italian prologue_06eb20ff:
@@ -232,7 +232,7 @@ translate italian prologue_1ae229a6:
 translate italian prologue_6a027ea3:
 
     # phobos "А ты! Отправляйся на Землю... Найди мне мою сестру!"
-    phobos "E voi! Andare sulla Terra... Trovatemi mia sorella!"
+    phobos "E tu! Vai sulla Terra... Trova mia sorella!"
 
 # game/scripts/quests/singles/prologue.rpy:133
 translate italian prologue_e27a07a5:
@@ -250,13 +250,13 @@ translate italian prologue_76009a7a:
 translate italian prologue_81340d7b:
 
     # phobos "И последнее, Седрик. Стражницы завесы.. Они уже не раз рушили наши планы. В этот раз они не должны нам помешать"
-    phobos "Un'ultima cosa, Cedric. Le Sentinelle del velo... Hanno rovinato i nostri piani più di una volta. Questa volta non devono fermarci..."
+    phobos "Un'ultima cosa, Cedric. Le guardiane di Kandrakar.. Hanno rovinato i nostri piani più di una volta. Questa volta non devono fermarci"
 
 # game/scripts/quests/singles/prologue.rpy:150
 translate italian prologue_25c1be86:
 
     # phobos "Помни, их магия ничем не отличается от нашей и если они эмоционально неустойчивы, то не смогут использовать свою силу должным образом. Используй это. А теперь прочь с глаз моих!"
-    phobos "Ricordate che la loro magia non è diversa dalla nostra e se sono emotivamente instabili, non saranno in grado di usare il loro potere in modo corretto. Utilizzatelo. Ora sparisci dalla mia vista!"
+    phobos "Ricorda, la loro magia non è diversa dalla nostra e se sono emotivamente instabili, non saranno in grado di usare correttamente il loro potere. Usalo. Ora sparisci dalla mia vista!"
 
 # game/scripts/quests/singles/prologue.rpy:155
 translate italian prologue_2dda1fc4:
@@ -268,7 +268,7 @@ translate italian prologue_2dda1fc4:
 translate italian prologue_8ce3802c:
 
     # cedrick "(Этот ублюдок отнял мои силы! Почему я обязан пресмыкаться перед ним... Если бы он не был так силен, то я бы смог избавиться от него...)"
-    cedrick "(Quel bastardo mi ha tolto la forza! Perché devo strisciare davanti a lui... Se non fosse così forte, potrei sbarazzarmi di lui...)."
+    cedrick "(Quel bastardo mi ha tolto la forza! Perché devo strisciare davanti a lui... Se non fosse così forte, potrei sbarazzarmi di lui...)"
 
 # game/scripts/quests/singles/prologue.rpy:166
 translate italian prologue_77ab8b26:
@@ -316,7 +316,7 @@ translate italian prologue_448b6676:
 translate italian prologue_fb261672:
 
     # bernardblack "Ч-чу..ЧУДОВИЩЕ!…"
-    bernardblack "Ch-chu... DONNA!…"
+    bernardblack "Ch-chu... MOSTRO!…"
 
 # game/scripts/quests/singles/prologue.rpy:180
 translate italian prologue_ddca83ea:
@@ -328,7 +328,7 @@ translate italian prologue_ddca83ea:
 translate italian prologue_d54da9ef:
 
     # bernardblack "У…ум.. умоляю тебя! Не убивайте меня..."
-    bernardblack "…mente... per favore! Non uccidermi..."
+    bernardblack "U...um... ti prego! Non uccidermi..."
 
 # game/scripts/quests/singles/prologue.rpy:182
 translate italian prologue_fdf1065f:
@@ -376,19 +376,19 @@ translate italian prologue_2e328cc3:
 translate italian prologue_e28e9226:
 
     # cedrick "({i}Этот старый торгаш заслужил оказаться у меня в желудке, он совсем не следил за порядком в магазине.{/i})"
-    cedrick "({i}Quel vecchio ambulante meritava di finire nel mio stomaco, non teneva affatto in ordine il negozio."
+    cedrick "({i}ЭтотQuel vecchio ambulante meritava di finire nel mio stomaco, non teneva affatto in ordine il negozio.{/i})"
 
 # game/scripts/quests/singles/prologue.rpy:203
 translate italian prologue_7fb8889a:
 
     # cedrick "({i}На вкус как дерьмо, у меня от него изжога.{/i})"
-    cedrick "({i}Ha un sapore di merda, mi fa venire il bruciore di stomaco."
+    cedrick "({i}Ha un sapore di merda, mi fa venire il bruciore di stomaco.{/i})"
 
 # game/scripts/quests/singles/prologue.rpy:204
 translate italian prologue_4ae7f34a:
 
     # cedrick "({i}Я здесь уже несколько дней... Эта Звезда вообще работает? Почему принцесса еще не появилась?{/i})"
-    cedrick "({i}Sono qui da qualche giorno... Ma questa Stella funziona? Perché la principessa non si è ancora presentata?"
+    cedrick "({i}Sono qui da qualche giorno... Ma questa Stella funziona? Perché la principessa non si è ancora presentata?{/i})"
 
 # game/scripts/quests/singles/prologue.rpy:210
 translate italian prologue_db7baa18:

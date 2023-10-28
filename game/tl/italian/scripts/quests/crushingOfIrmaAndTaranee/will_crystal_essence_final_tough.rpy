@@ -904,7 +904,7 @@ translate italian will_crystal_essence_final_tough_cd90d4a5:
 translate italian will_crystal_essence_final_tough_c2c840d1:
 
     # will "(Так вот значит, какая я на самом деле.. Хах, а еще мнила себя стражницей завесы, сильным лидером..)"
-    will "(Quindi questo è ciò che sono veramente... Huh, e pensavo anche di essere un guardiano del velo, un leader forte...)"
+    will "(Quindi questo è ciò che sono veramente... Huh, e pensavo anche di essere un guardiana di Kandrakar, un leader forte...)"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_tough.rpy:246
 translate italian will_crystal_essence_final_tough_2d7b4575:

@@ -22,7 +22,7 @@ translate italian distract_cornelia_8659e329:
 translate italian distract_cornelia_0826bc77:
 
     # "Стражницы Завесы не заставили себя долго ждать.."
-    "Non ci volle molto perché le guardie del velo..."
+    "Non ci volle molto perché le guardiane di Kandrakar.."
 
 # game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:19
 translate italian distract_cornelia_56687713:
