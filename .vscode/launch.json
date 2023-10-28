@@ -5,52 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Ren'Py: Setup",
-            "type": "PowerShell",
+            "name": "Convet to Renpy file",
+            "type": "python",
             "request": "launch",
-            "script": "echo \"${input:RenPySdk}\" > .renpy-sdk",
+            "program": "translation_convertor_potorpy.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
         },
         {
-            "name": "Ren'Py: Run",
-            "type": "PowerShell",
+            "name": "Convet to Po file",
+            "type": "python",
             "request": "launch",
-            "script": "bin/renpy.ps1 run",
-            "cwd": "${workspaceFolder}"
-        },
-        {
-            "name": "Ren'Py: Recompile & Run",
-            "type": "PowerShell",
-            "request": "launch",
-            "script": "bin/renpy.ps1 compile; bin/renpy.ps1 run",
-            "cwd": "${workspaceFolder}"
-        },
-        {
-            "name": "Ren'Py: Delete Persistent",
-            "type": "PowerShell",
-            "request": "launch",
-            "script": "bin/renpy.ps1 rmpersistent",
-            "cwd": "${workspaceFolder}"
-        },
-        {
-            "name": "Ren'Py: Lint",
-            "type": "PowerShell",
-            "request": "launch",
-            "script": "bin/renpy.ps1 lint",
-            "cwd": "${workspaceFolder}"
-        },
-        {
-            "name": "Ren'Py: Distribute",
-            "type": "PowerShell",
-            "request": "launch",
-            "script": "bin/renpy.ps1 distribute",
-            "cwd": "${workspaceFolder}"
-        },
-    ],
-    "inputs": [
-        {
-            "id": "RenPySdk",
-            "description": "Paste the path to your Ren'Py SDK folder",
-            "type": "promptString",
+            "program": "translation_convertor_rpytopo.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
-    ]
+    ],
 }
