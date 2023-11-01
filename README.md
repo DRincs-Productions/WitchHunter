@@ -1,10 +1,3 @@
-## Character
-| Eng  | Russian  | Italian | French |
-| ------------- | ------------- | ------------- | ------------- |
-| [Guardians of Kandrakar](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | Стражницы завесы        !!!!or!!!!!      стражницами Завесы| Guardiane di Kandrakar | |
-| [Guardians](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | стражницах | guardiane | |
-| [Guardian of Kandrakar](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | Стражницей завесы | Guardiana di Kandrakar | |
-
 ## Insert Template in your Project
 
 ```shell
