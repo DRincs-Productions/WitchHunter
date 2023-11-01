@@ -1,12 +1,6 @@
 ## Character
 | Eng  | Russian  | Italian | French |
 | ------------- | ------------- | ------------- | ------------- |
-| [Blunk](https://witch.fandom.com/wiki/Blunk) | Бланк | Blunk  | |
-| [Lord_Cedric](https://witch.fandom.com/wiki/Lord_Cedric)  | Седрик | Cedric  | |
-| [Taranee](https://witch.fandom.com/wiki/Taranee_Cook) | Тарани  | Taranee  | |
-| [Taranee Cook](https://witch.fandom.com/wiki/Taranee_Cook) | Тарани Кук | Taranee Cook | |
-| [Hay Lin](https://witch.fandom.com/wiki/Hay_Lin) | Хай Лин  | Hay Lin  | |
-| [Will](https://witch.fandom.com/wiki/Will_Vandom) | Вилл | Will | |
 | [Guardians of Kandrakar](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | Стражницы завесы        !!!!or!!!!!      стражницами Завесы| Guardiane di Kandrakar | |
 | [Guardians](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | стражницах | guardiane | |
 | [Guardian of Kandrakar](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | Стражницей завесы | Guardiana di Kandrakar | |
