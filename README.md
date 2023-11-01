@@ -6,7 +6,7 @@
 | [Taranee](https://witch.fandom.com/wiki/Taranee_Cook) | Тарани  | Taranee  | |
 | [Taranee Cook](https://witch.fandom.com/wiki/Taranee_Cook) | Тарани Кук | Taranee Cook | |
 | [Hay Lin](https://witch.fandom.com/wiki/Hay_Lin) | Хай Лин  | Hay Lin  | |
-| [Will](https://witch.fandom.com/it/wiki/Will_Vandom) | Вилл | Will | |
+| [Will](https://witch.fandom.com/wiki/Will_Vandom) | Вилл | Will | |
 | [Guardians of Kandrakar](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | Стражницы завесы        !!!!or!!!!!      стражницами Завесы| Guardiane di Kandrakar | |
 | [Guardians](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | стражницах | guardiane | |
 | [Guardian of Kandrakar](https://disney.fandom.com/wiki/Guardians_of_Kandrakar) | Стражницей завесы | Guardiana di Kandrakar | |
