@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:11\n"
+"PO-Revision-Date: 2023-11-10 16:03\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/singles/elyonFoundBooks.rpy:10 #-#-# translate crowdin elyonFoundBooks_bc5d1268:
 msgid "[_elion_] Эмм... Рик... Кажется я нашла нужные нам книги."
@@ -311,4 +311,7 @@ msgstr "[_cornelia_] Rick, tu es tellement patient et sensible. J'espère que vo
 # game/scripts/quests/singles/elyonFoundBooks.rpy:199 #-#-# translate crowdin elyonFoundBooks_da7d93e4:
 msgid "[_cedrick_] Хах, я с радостью"
 msgstr "[_cedrick_] J'aimerais bien"
+
+msgid "Бланк"
+msgstr "Blunk"
 
