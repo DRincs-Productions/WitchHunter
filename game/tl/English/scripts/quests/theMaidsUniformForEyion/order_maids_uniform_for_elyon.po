@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:15\n"
+"PO-Revision-Date: 2023-11-10 16:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/theMaidsUniformForEyion/order_maids_uniform_for_elyon.rpy:4 #-#-# translate crowdin order_maids_uniform_for_elyon_8987ebf1:
 msgid "У вас не достаточно денег"
@@ -18,5 +18,8 @@ msgstr ""
 
 # game/scripts/quests/theMaidsUniformForEyion/order_maids_uniform_for_elyon.rpy:7 #-#-# translate crowdin order_maids_uniform_for_elyon_7879cb55:
 msgid "[_cedrick_] Отлично, осталось только дождаться доставки.."
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
