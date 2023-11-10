@@ -10,9 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:06\n"
+"PO-Revision-Date: 2023-11-10 15:57\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/phobosAskKillTwoMobs/killGargoyle.rpy:2 #-#-# translate crowdin killGargoyle_07b4468d:
 msgid "[_cedrick_] Я победил тебя и отныне ты будешь служить князю Фобосу или умрешь!"
 msgstr "[_cedrick_] Je vous ai vaincu et à partir de maintenant, vous servirez le Prince Phobos ou mourrez !"
+
+msgid "Бланк"
+msgstr "Blunk"
 
