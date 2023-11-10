@@ -10,9 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:08\n"
+"PO-Revision-Date: 2023-11-10 15:59\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questDefeatMorpionKing/recruit_rebels_to_overthrow_prince_phobos.rpy:2 #-#-# translate crowdin recruit_rebels_to_overthrow_prince_phobos_181f6e5e:
 msgid "recruit_rebels_to_overthrow_prince_phobos"
 msgstr ""
+
+msgid "Бланк"
+msgstr "Blunk"
 
