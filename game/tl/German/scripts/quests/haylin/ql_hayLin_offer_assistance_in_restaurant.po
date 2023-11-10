@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 21:03\n"
+"PO-Revision-Date: 2023-11-10 15:54\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:6 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_49316299:
 msgid "[_cedrick_] ..."
@@ -106,5 +106,8 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:54 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_92b612a2:
 msgid "Отведав китайское блюдо вы возвращаетесь в книжный магазин"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
