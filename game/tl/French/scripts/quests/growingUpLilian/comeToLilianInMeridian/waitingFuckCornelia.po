@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:01\n"
+"PO-Revision-Date: 2023-11-10 15:52\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/waitingFuckCornelia.rpy:8 #-#-# translate crowdin waitingFuckCornelia_d7652e8f:
 msgid "[_lilian_] Рик, ты пришел"
@@ -23,4 +23,7 @@ msgstr "[_cedrick_] Comment vas-tu ? Tu te sens déjà adulte ?"
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/waitingFuckCornelia.rpy:10 #-#-# translate crowdin waitingFuckCornelia_b5bb9966:
 msgid "[_lilian_] Еще как, спасибо тебе"
 msgstr "[_lilian_] Bien sûr, merci."
+
+msgid "Бланк"
+msgstr "Blunk"
 
