@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:14\n"
+"PO-Revision-Date: 2023-11-10 16:06\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/meetNigel.rpy:9 #-#-# translate crowdin meetNigel_f46288e5:
 msgid "[_cedrick_] Приветствую всех."
@@ -99,4 +99,7 @@ msgstr "[_cedrick_] (Ouais, il n'y a aucun moyen de l'accuser de vol. Et elle n'
 # game/scripts/quests/tarani/meetNigel.rpy:46 #-#-# translate crowdin meetNigel_55c36755:
 msgid "[_cedrick_] (Черт, где же твое слабое место, Тарани Кук… Рано или поздно я смогу это выяснить)"
 msgstr "[_cedrick_] (Merde, où est ton point faible, Tarany Cook… Tôt ou tard, je pourrais le découvrir)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
