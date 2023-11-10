@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:16\n"
+"PO-Revision-Date: 2023-11-10 16:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/thomas_poker_end.rpy:2 #-#-# translate crowdin thomas_poker_end_7b5de1d5:
 msgid "[_cedrick_] Можешь оставить свои номер, если вдруг захочешь отыграться, я тебе наберу"
@@ -23,4 +23,7 @@ msgstr "[_tomas_] ..."
 # game/scripts/quests/will/thomas_poker_end.rpy:7 #-#-# translate crowdin thomas_poker_end_9989263c:
 msgid "[_Somka108_] Теперь вы можете играть с Томасом Вендомом в покер на костях, стоит лишь позвать его на игру с помощью телефона"
 msgstr "[_Somka108_] Vous pouvez désormais jouer au poker avec Thomas Wendome en l'appelant simplement pour jouer avec votre téléphone."
+
+msgid "Бланк"
+msgstr "Blunk"
 
