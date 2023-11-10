@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:03\n"
+"PO-Revision-Date: 2023-11-10 15:54\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:7 #-#-# translate crowdin ql_hayLin_go_to_school_0_3b26d3ac:
 msgid "[_haylin_] Эм... Привет, Эрик!"
@@ -106,5 +106,8 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:40 #-#-# translate crowdin ql_hayLin_go_to_school_0_4e7a9137:
 msgid "Седрик утешает Хай Лин"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
