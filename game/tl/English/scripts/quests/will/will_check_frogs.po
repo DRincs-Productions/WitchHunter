@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:16\n"
+"PO-Revision-Date: 2023-11-10 16:09\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_check_frogs.rpy:13 #-#-# translate crowdin will_check_frogs_7fd3ab08:
 msgid "[_will_] Привет, Рик, верно?"
@@ -78,5 +78,8 @@ msgstr ""
 
 # game/scripts/quests/will/will_check_frogs.rpy:54 #-#-# translate crowdin will_check_frogs_9473ab28:
 msgid "[_cedrick_sprite_] (... Мне нужен телефон чтобы сделать заказ)"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
