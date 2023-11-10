@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:17\n"
+"PO-Revision-Date: 2023-11-10 16:10\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:5 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_ced621b1:
 msgid "[_miranda_] Рик! У меня срочное донесение от Фобо.."
@@ -111,4 +111,7 @@ msgstr "[_cedrick_] ........."
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:70 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_af327360:
 msgid "[_cedrick_] (И когда это вдруг моя жизнь повернула с развращения девиц и аристократических утех в этот кромешный кошмар?..)"
 msgstr "[_cedrick_] (Et quand est-ce que ma vie a soudainement basculé de l'attouchement des jeunes filles et des plaisirs aristocratiques à ce cauchemar total... ?)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
