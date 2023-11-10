@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:17\n"
+"PO-Revision-Date: 2023-11-10 16:09\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:4 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_a236c3e0:
 msgid "[_cedrick_] (Что ж, для начала, нужна причина для того, чтобы регулярно появляться рядом с Вилл у нее дома. Уверен, Сьюзан будет не против моих постоянных визитов, но для постоянного присутствия наедине с Вилл нужна достойная причина..)"
@@ -59,4 +59,7 @@ msgstr ""
 # §translate crowdin strings: #|#|# # game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:44
 msgid "Вилл, привет..."
 msgstr ""
+
+msgid "Бланк"
+msgstr "Blunk"
 
