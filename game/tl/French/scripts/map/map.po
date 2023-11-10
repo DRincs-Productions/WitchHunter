@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:41\n"
+"PO-Revision-Date: 2023-11-10 16:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/map/map.rpy:108 #-#-# translate crowdin map_59b5a4ee:
 msgid "[_cedrick_] (А теперь зайдем-ка в Серебряный дракон)"
@@ -18,7 +18,7 @@ msgstr "[_cedrick_] (Allons maintenant au Dragon d'argent.)"
 
 # §translate crowdin strings: #|#|# # game/scripts/map/map.rpy:10
 msgid "Дом Вилл"
-msgstr "Villa House"
+msgstr "Maison de Will"
 
 # game/scripts/map/map.rpy:10
 msgid "Дом Элион"
@@ -54,7 +54,7 @@ msgstr "Restaurant Silver Dragon"
 
 # game/scripts/map/map.rpy:10
 msgid "Пещера бланка"
-msgstr "Grotte Blanca"
+msgstr "Grotte Blunk"
 
 # game/scripts/map/map.rpy:10
 msgid "Полицейский участок"
