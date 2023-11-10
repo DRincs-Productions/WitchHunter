@@ -10,9 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:02\n"
+"PO-Revision-Date: 2023-11-10 15:53\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/loseGetIngredientForAgePotionForLilian.rpy:3 #-#-# translate crowdin loseGetIngredientForAgePotionForLilian_62965fea:
 msgid "[_herald_] Кажется, что сегодня не твой день... но если захочешь попробовать снова, то ты знаешь где меня найти..."
 msgstr "[_herald_] Il semble qu'aujourd'hui ne soit pas votre jour... mais si tu veux réessayer, tu sais où me trouver..."
+
+msgid "Бланк"
+msgstr "Blunk"
 
