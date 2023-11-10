@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-09-19 21:11\n"
+"PO-Revision-Date: 2023-11-10 16:03\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:5 #-#-# translate crowdin persuade_the_bryan_to_testify_cfdea0de:
 msgid "[_cedrick_] Здравствуй, Брайан. Смотрю ты немного подкачался, пахая на рудниках. Хотя нет, показалось"
@@ -150,5 +150,8 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/persuade_the_bryan_to_testify.rpy:100 #-#-# translate crowdin persuade_the_bryan_to_testify_6310e28c:
 msgid "[_cedrick_] Что ж, Брайн и Алхими есть. На очереди Корнелия"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
