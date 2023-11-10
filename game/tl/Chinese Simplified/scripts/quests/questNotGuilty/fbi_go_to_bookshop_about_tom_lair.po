@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-09-19 21:09\n"
+"PO-Revision-Date: 2023-11-10 16:01\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:6 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_33e12e8d:
 msgid "[_medina_] Добрый вечер"
@@ -78,5 +78,8 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:46 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_1dc146bb:
 msgid "[_cedrick_] (Возможно, Миранда сможет как-нибудь клонировать Тома Лэира для того, чтобы его клон показался в полицейском участке… Нужно поговорить с ней об этом… Хорошо, что я оставил его в живых…)"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
