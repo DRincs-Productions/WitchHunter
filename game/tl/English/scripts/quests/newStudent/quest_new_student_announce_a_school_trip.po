@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-11-10 15:56\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:4 #-#-# translate crowdin quest_new_student_announce_a_school_trip_85cabb3f:
 msgid "[_cedrick_] В следующие выходные состоится школьная поездка на горнолыжный курорт на горе Хезерфилд."
@@ -134,5 +134,8 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:37 #-#-# translate crowdin quest_new_student_announce_a_school_trip_36b208de:
 msgid "[_cedrick_] (Так нужно будет самому не забыть обзавестись теплой одеждой перед поездкой. Должно быть я смогу купить ее в волмарте)"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
