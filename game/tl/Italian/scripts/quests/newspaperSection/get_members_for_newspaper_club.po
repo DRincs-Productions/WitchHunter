@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-23 08:06\n"
+"PO-Revision-Date: 2023-11-10 15:57\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:5 #-#-# translate crowdin get_members_for_newspaper_club_7dd13b6d:
 msgid "[_elion_] Похоже школьная газета теперь выпускает полный отстой"
@@ -175,4 +175,7 @@ msgstr "[_irma_] Oh mio Dio..."
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:145 #-#-# translate crowdin get_members_for_newspaper_club_fa8527d6:
 msgid "[_cedrick_] Жду вас завтра, в клубе журналистики"
 msgstr "[_cedrick_] Ci vediamo domani, al club di giornalismo"
+
+msgid "Бланк"
+msgstr "Blunk"
 
