@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:04\n"
+"PO-Revision-Date: 2023-11-10 15:55\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/elyon_cry_about_bryan1.rpy:9 #-#-# translate crowdin elyon_cry_about_bryan1_034fb91f:
 msgid "[_elion_] Хнык... хнык..."
@@ -63,4 +63,7 @@ msgstr "[_cedrick_sprite_] Tu devrais peut-être prendre un jour de congé."
 # game/scripts/quests/joiningsAfterMissingBryan/elyon_cry_about_bryan1.rpy:49 #-#-# translate crowdin elyon_cry_about_bryan1_deaee34a:
 msgid "[_elion_] Нет, спасибо, работа поможет мне хоть как-то отвлечься.. Надеюсь, что с ним все хорошо..."
 msgstr "[_elion_] Non, merci, le travail m'aidera à me changer les idées... J'espère qu'il va bien..."
+
+msgid "Бланк"
+msgstr "Blunk"
 
