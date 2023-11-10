@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:07\n"
+"PO-Revision-Date: 2023-11-10 15:59\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:6 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_010d3f43:
 msgid "[_vanessa_] Ох, смотрю дела у тебя стали идти куда лучше, жеребец. Расцвел на глазах, стоило тебе трахнуть пару девиц в моем борделе"
@@ -698,5 +698,8 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:540 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_ccba9f74:
 msgid "[_medina_] (Рик Хоффман, чего бы ты не замышлял, я разрушу все твои планы и докопаюсь до правды!)"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
