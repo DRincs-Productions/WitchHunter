@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:15\n"
+"PO-Revision-Date: 2023-11-10 16:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/susan_restoran.rpy:9 #-#-# translate crowdin susan_restoran_f4884831:
 msgid "*Сьюзан открывает дверь*"
@@ -199,4 +199,7 @@ msgstr "*Après quelques minutes dans le parc*"
 # game/scripts/quests/will/susan_restoran.rpy:184 #-#-# translate crowdin susan_restoran_9a946446:
 msgid "[_cedrick_] (Ее муж вернулся и все мне обломал... Пожалуй зайду к ней завтра..)"
 msgstr "[_cedrick_] (Son mari est revenu et l'a soufflé pour moi... Je suppose que je vais aller la voir demain...)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
