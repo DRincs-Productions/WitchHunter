@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:09\n"
+"PO-Revision-Date: 2023-11-10 16:00\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:3 #-#-# translate crowdin cedric_monologue_in_the_bookshop_41c4e7ce:
 msgid "[_cedrick_] (Итак, я отдохнул и набрался сил. Теперь нужно спланировать свои дальнейшие действия..)"
@@ -71,4 +71,7 @@ msgstr "[_cedrick_] (Cette fois-ci, j'avais tout prévu à l'avance et anticipé
 # game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:17 #-#-# translate crowdin cedric_monologue_in_the_bookshop_37813957:
 msgid "[_cedrick_] (Пора выдвигаться)"
 msgstr "[_cedrick_] (Il est temps de déménager)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
