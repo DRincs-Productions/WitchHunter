@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:10\n"
+"PO-Revision-Date: 2023-11-10 16:01\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/rest_one_day.rpy:2 #-#-# translate crowdin rest_one_day_7192f0d0:
 msgid "[_cedrick_] Элион, сегодня я помогаю в Серебряном драконе. Присмотришь за магазином?"
@@ -39,4 +39,7 @@ msgstr "[_elion_] D'accord, j'ai compris. Bonne chance !"
 # game/scripts/quests/questSecretOfTheSilverDragon/rest_one_day.rpy:12 #-#-# translate crowdin rest_one_day_7126ec15:
 msgid "[_cedrick_] Спасибо"
 msgstr "[_cedrick_] Merci"
+
+msgid "Бланк"
+msgstr "Blunk"
 
