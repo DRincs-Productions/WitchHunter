@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:09\n"
+"PO-Revision-Date: 2023-11-10 16:01\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:4 #-#-# translate crowdin report_to_prince_phobos_71772b4c:
 msgid "[_phobos_] А вот и ты, Седрик. Как ты посмел опоздать на доклад!?"
@@ -291,4 +291,7 @@ msgstr "[_cedrick_] (Cela s'est passé presque exactement comme je l'avais prév
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:167 #-#-# translate crowdin report_to_prince_phobos_a6dfd37b:
 msgid "[_cedrick_] Нужно быть аккуратнее с этим"
 msgstr "[_cedrick_] Il faut être prudent avec cela"
+
+msgid "Бланк"
+msgstr "Blunk"
 
