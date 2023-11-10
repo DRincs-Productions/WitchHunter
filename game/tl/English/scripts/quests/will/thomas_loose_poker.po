@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:16\n"
+"PO-Revision-Date: 2023-11-10 16:08\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/thomas_loose_poker.rpy:4 #-#-# translate crowdin thomas_loose_poker_73c76c52:
 msgid "[_tomas_] Черт, как я мог проиграть! эти деньги сьюзан мне дала чтобы заплатить за квартиру"
@@ -30,5 +30,8 @@ msgstr ""
 
 # game/scripts/quests/will/thomas_loose_poker.rpy:8 #-#-# translate crowdin thomas_loose_poker_64215ec7:
 msgid "[_cedrick_] (Пологаю Сьюзан выгонит его как только узнает что он ввязался в азартные игры, и к тому же проиграл деньги)"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
