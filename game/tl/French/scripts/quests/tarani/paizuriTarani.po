@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-22 15:30\n"
+"PO-Revision-Date: 2023-11-10 15:25\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/paizuriTarani.rpy:5 #-#-# translate crowdin paizuriTarani_54173553:
 msgid "[_cedrick_] И так, класс, сегодня вас ждет новая контрольная работа. Надеюсь все успели подготовиться"
@@ -143,4 +143,7 @@ msgstr "[_cedrick_] Habitue-toi, chérie, ce ne sera pas la dernière fois que t
 # game/scripts/quests/tarani/paizuriTarani.rpy:74 #-#-# translate crowdin paizuriTarani_a1eb2b24:
 msgid "[_tarani_] (Это мы еще посмотрим, засранец.. Я не могу позволить, чтобы это продолжалось.. Пока он не забрал мою девственность..)"
 msgstr "[_tarani_] (On verra ça, connard. Je ne peux pas laisser faire ça... Jusqu'à ce qu'il prenne ma virginité...)"
+
+msgid "Бланк"
+msgstr "Formulaire"
 
