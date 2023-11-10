@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 21:06\n"
+"PO-Revision-Date: 2023-11-10 15:57\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:5 #-#-# translate crowdin newspaper_section_threesome_a20cefa7:
 msgid "..."
@@ -162,5 +162,8 @@ msgstr ""
 
 # game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:120 #-#-# translate crowdin newspaper_section_threesome_0d164313:
 msgid "[_cedrick_] (Фух.. Вся эта ситуация с газетой могла привести меня к провалу, не обыграй я все должным образом. Хорошо, что хватило мозгов почувствовать неладное..)"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
