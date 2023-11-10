@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:07\n"
+"PO-Revision-Date: 2023-11-10 15:58\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:6 #-#-# translate crowdin give_10_morpion_glands_to_miranda_c1c2186f:
 msgid "[_cedrick_] Миранда, где тебя носило? Почему у тебя было закрыто?"
@@ -47,4 +47,7 @@ msgstr "[_miranda_] (Oh, ¿se está preocupando por mí? Quizá debería haberle
 # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:35 #-#-# translate crowdin give_10_morpion_glands_to_miranda_1c8461f2:
 msgid "[_cedrick_] (Думаю самое время наведаться к Алхими)"
 msgstr "[_cedrick_] (Creo que ya va siendo hora de que haga una visita a Alchemy)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
