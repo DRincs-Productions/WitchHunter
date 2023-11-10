@@ -10,9 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 21:06\n"
+"PO-Revision-Date: 2023-11-10 15:57\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/phobosAskKillTwoMobs/killSandDemon.rpy:2 #-#-# translate crowdin killSandDemon_07b4468d:
 msgid "[_cedrick_] Я победил тебя и отныне ты будешь служить князю Фобосу или умрешь!"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
