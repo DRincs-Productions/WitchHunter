@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:06\n"
+"PO-Revision-Date: 2023-11-10 15:57\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/phobosAskKillTwoMobs/mirandaCallsCedrickToPhobos.rpy:8 #-#-# translate crowdin mirandaCallsCedrickToPhobos_a20cefa7:
 msgid "..."
@@ -51,4 +51,7 @@ msgstr "[_cedrick_] Como siempre."
 # game/scripts/quests/phobosAskKillTwoMobs/mirandaCallsCedrickToPhobos.rpy:25 #-#-# translate crowdin mirandaCallsCedrickToPhobos_a20cefa7_1:
 msgid "..."
 msgstr "..."
+
+msgid "Бланк"
+msgstr "Blunk"
 
