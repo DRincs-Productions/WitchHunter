@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-09-19 21:16\n"
+"PO-Revision-Date: 2023-11-10 16:09\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_home4.rpy:7 #-#-# translate crowdin will_home4_208e43d0:
 msgid "[_cedrick_sprite_] Сьюзан, здравствуй, как ты?"
@@ -142,5 +142,8 @@ msgstr ""
 
 # game/scripts/quests/will/will_home4.rpy:92 #-#-# translate crowdin will_home4_ce9dd92f:
 msgid "[_cedrick_sprite_] Спасибо за совет Вилл. Ну, еще увидимся"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
