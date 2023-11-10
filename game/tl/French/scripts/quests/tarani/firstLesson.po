@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:05\n"
+"PO-Revision-Date: 2023-11-10 16:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/firstLesson.rpy:10 #-#-# translate crowdin firstLesson_c00ee63f:
 msgid "[_cedrick_] Меня зовут Рик Хоффман и с этого дня я ваш новый учитель истории."
@@ -50,19 +50,19 @@ msgstr "* La leçon d'histoire est terminée. Tous les élèves, sauf trois, s'e
 
 # game/scripts/quests/tarani/firstLesson.rpy:31 #-#-# translate crowdin firstLesson_d86f52c0:
 msgid "[_cedrick_] (Эти трое.. Стражницы Завесы!)"
-msgstr "[_cedrick_] (Ces trois-là... Gardiens du Voile !)"
+msgstr "[_cedrick_] (Ces trois-là... Gardiens de Kandrakar !)"
 
 # game/scripts/quests/tarani/firstLesson.rpy:37 #-#-# translate crowdin firstLesson_05d16e7b:
 msgid "[_haylin_] Сейчас биология. Тарани, ты не идешь?"
-msgstr "[_haylin_] C'est de la biologie maintenant. Tarani, tu ne viens pas ?"
+msgstr "[_haylin_] C'est de la biologie maintenant. Taranee, tu ne viens pas ?"
 
 # game/scripts/quests/tarani/firstLesson.rpy:43 #-#-# translate crowdin firstLesson_9f97bdb3:
 msgid "[_irma_] Шутишь? Чтобы наша Тарани прогуляла урок?! Да не в жизнь!"
-msgstr "[_irma_] Vous vous moquez de moi ? Donc notre Tarani peut sécher les cours ?! Pas possible !"
+msgstr "[_irma_] Vous vous moquez de moi ? Donc notre Taranee peut sécher les cours ?! Pas possible !"
 
 # game/scripts/quests/tarani/firstLesson.rpy:49 #-#-# translate crowdin firstLesson_e3e6a377:
 msgid "[_tarani_] Не хочу.. Препарировать лягушек… Какая мерзость.."
-msgstr "[_tarani_] Je ne veux pas... Disséquer des grenouilles… Quelle abomination..."
+msgstr "[_Taranee_] Je ne veux pas... Disséquer des grenouilles… Quelle abomination..."
 
 # game/scripts/quests/tarani/firstLesson.rpy:55 #-#-# translate crowdin firstLesson_c646d24e:
 msgid "[_irma_] Если тебе сложно, я могу препарировать твою, но тебе придется притвориться, будто тебя тошнит."
@@ -70,11 +70,11 @@ msgstr "[_irma_] Si vous trouvez ça difficile, je peux disséquer le vôtre, ma
 
 # game/scripts/quests/tarani/firstLesson.rpy:61 #-#-# translate crowdin firstLesson_bd8e4135:
 msgid "[_tarani_] Кажется.. Притворяться мне не придется..."
-msgstr "[_tarani_] Il semble... que je n'aurai pas à faire semblant..."
+msgstr "[_Taranee_] Il semble... que je n'aurai pas à faire semblant..."
 
 # game/scripts/quests/tarani/firstLesson.rpy:62 #-#-# translate crowdin firstLesson_e209df35:
 msgid "[_tarani_] Эх ладно, пошли.."
-msgstr "[_tarani_] Très bien, allons-y..."
+msgstr "[_Taranee_] Très bien, allons-y..."
 
 # game/scripts/quests/tarani/firstLesson.rpy:67 #-#-# translate crowdin firstLesson_a20cefa7_1:
 msgid "..."
