@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:06\n"
+"PO-Revision-Date: 2023-11-10 15:57\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:4 #-#-# translate crowdin before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_a20cefa7:
 msgid "..."
@@ -27,4 +27,7 @@ msgstr "[_queenofmorpions_] Homme... Vous... allez... mourir."
 # game/scripts/quests/preparingAlchemyForPrincePhobos/before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:13 #-#-# translate crowdin before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_718713d8:
 msgid "[_cedrick_] Ты что, умеешь разговаривать? Черт, впервые встречаю разумного монстра в этом лесу. Но ты ошиблась, я не человек"
 msgstr "[_cedrick_] Tu peux vraiment parler ? Bon sang, c'est la première fois que je rencontre un monstre intelligent dans ces bois. Mais tu as tort, je ne suis pas humain."
+
+msgid "Бланк"
+msgstr "Blunk"
 
