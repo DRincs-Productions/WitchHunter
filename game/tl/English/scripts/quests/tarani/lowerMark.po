@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:13\n"
+"PO-Revision-Date: 2023-11-10 16:06\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/lowerMark.rpy:8 #-#-# translate crowdin lowerMark_e15c779b:
 msgid "[_cedrick_] Надеюсь, что вы все принесли свои домашние работы.."
@@ -39,4 +39,7 @@ msgstr ""
 # game/scripts/quests/tarani/lowerMark.rpy:21 #-#-# translate crowdin lowerMark_a20cefa7_1:
 msgid "..."
 msgstr "..."
+
+msgid "Бланк"
+msgstr ""
 
