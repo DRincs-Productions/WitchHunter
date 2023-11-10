@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:06\n"
+"PO-Revision-Date: 2023-11-10 15:57\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:9 #-#-# translate crowdin phobosAskKillTwoMobs_a20cefa7:
 msgid "..."
@@ -59,4 +59,7 @@ msgstr "[_cedrick_] Ce sera fait, mon prince."
 # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:26 #-#-# translate crowdin phobosAskKillTwoMobs_a20cefa7_1:
 msgid "..."
 msgstr "..."
+
+msgid "Бланк"
+msgstr "Blunk"
 
