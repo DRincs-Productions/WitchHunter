@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:15\n"
+"PO-Revision-Date: 2023-11-10 16:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:4 #-#-# translate crowdin elyon_public_readings_in_maids_uniform_3f79294a:
 msgid "[_cedrick_] Гарри взглянул на нее, рассеянно опустил руку и дотронулся до шрама на лбу."
@@ -151,4 +151,7 @@ msgstr "[_elion_] Ok... Puliamo questo posto in fretta, prima che arrivi qualcun
 # game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:62 #-#-# translate crowdin elyon_public_readings_in_maids_uniform_572dbb75:
 msgid "[_cedrick_] Да, давай я помогу"
 msgstr "[_cedrick_] Sì, lascia che ti aiuti."
+
+msgid "Бланк"
+msgstr "Blunk"
 
