@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:13\n"
+"PO-Revision-Date: 2023-11-10 16:05\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/getPhotoOfNigelAgain.rpy:6 #-#-# translate crowdin getPhotoOfNigelAgain_50f6175c:
 msgid "[_cedrick_] Ну ? Ты заснял что-нибудь?"
@@ -43,4 +43,7 @@ msgstr "[_blank_] BLANC : bien joué !"
 # game/scripts/quests/tarani/getPhotoOfNigelAgain.rpy:23 #-#-# translate crowdin getPhotoOfNigelAgain_5167f676:
 msgid "[_cedrick_] (Ну с этими фотографиями я теперь точно смогу заставить Тарани сделать все, что угодно..)"
 msgstr "[_cedrick_] (Avec ces photos, je peux certainement faire faire n'importe quoi à Tarani maintenant...)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
