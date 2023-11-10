@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:09\n"
+"PO-Revision-Date: 2023-11-10 16:00\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:4 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_e23f3887:
 msgid "[_miranda_] Ты достал образец волос твоего полицейского?"
@@ -535,4 +535,7 @@ msgstr "[_cedrick_] Ouf, j'ai failli me faire prendre !"
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:324 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_36374bb1:
 msgid "[_cedrick_] (Этого должно хватить. Теперь с меня снимут все подозрения в похищении Тома Леира, отлично!)"
 msgstr "[_cedrick_] (Cela devrait suffire. Maintenant, je vais être lavé de tout soupçon d'enlèvement de Tom Leir, génial !)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
