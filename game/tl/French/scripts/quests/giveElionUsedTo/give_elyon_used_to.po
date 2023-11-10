@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:00\n"
+"PO-Revision-Date: 2023-11-10 15:51\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giveElionUsedTo/give_elyon_used_to.rpy:4 #-#-# translate crowdin give_elyon_used_to_1580d417:
 msgid "[_cedrick_] (Думаю нужно дать ей время свыкнуться с произошедшим, прежде чем переходить к следующему этапу..)"
@@ -27,4 +27,7 @@ msgstr "[_cedrick_] (Oui, ce n'est pas un sort à envier, mais tout cela est li�
 # game/scripts/quests/giveElionUsedTo/give_elyon_used_to.rpy:7 #-#-# translate crowdin give_elyon_used_to_e830f7d9:
 msgid "[_cedrick_] (Чтобы она окончательно оказалась в моей власти и была готова к развращению, осталось последнее – лишить ее репутации в школе)"
 msgstr "[_cedrick_] (Pour qu'elle soit enfin en mon pouvoir et prête à être corrompue, il ne reste plus qu'à la priver de sa réputation à l'école)."
+
+msgid "Бланк"
+msgstr "Blunk"
 
