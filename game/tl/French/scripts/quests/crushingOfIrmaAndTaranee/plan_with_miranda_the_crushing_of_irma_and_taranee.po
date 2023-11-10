@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-22 15:29\n"
+"PO-Revision-Date: 2023-11-10 08:34\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:6 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_28eb040c:
 msgid "[_cedrick_] Миранда, за следующие два дня я планирую сокрушить Ирму и Тарани, но мне нужна твоя помощь. Хочешь матч-реванш?"
@@ -78,7 +78,7 @@ msgstr "[_miranda_] Excellent"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:62 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_81723162:
 msgid "[_centered_] {size=37}МИРАНДА ДЕЛАЕТ ВСЕ ТАК, КАК СКАЗАЛ СЕДРИК. ИРМА И ТАРАНИ РАЗДЕЛЯЮТСЯ. ПОКА ИРМА СРАЖАЕТСЯ С МИРАНДОЙ, СЕДРИК СРАЖАЕТСЯ С ТАРАНИ{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}MIRANDA FAIT EXACTEMENT CE QUE CÉDRIC A DIT. L'IRMA ET LE TARANIS SONT SÉPARÉS. PENDANT QU'IRMA SE BAT CONTRE MIRANDA, CÉDRIC SE BAT CONTRE TARANIS.{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:67 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_426314a4:
 msgid "[_tarani_] Чертов змей, как у тебя только смелости хватило вновь сюда явиться!? Мы уже думали, что ты сбежал на Меридиан поджав хвост"
