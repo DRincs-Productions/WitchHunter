@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 21:11\n"
+"PO-Revision-Date: 2023-11-10 16:03\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/skating/corneliaCallToSkating.rpy:12 #-#-# translate crowdin corneliaCallToSkating_d4c2dcac:
 msgid "[_cornelia_] Привет, Рик!"
@@ -82,5 +82,8 @@ msgstr ""
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:66 #-#-# translate crowdin corneliaCallToSkating_9566f82d:
 msgid "[_cornelia_] Договорились!"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
