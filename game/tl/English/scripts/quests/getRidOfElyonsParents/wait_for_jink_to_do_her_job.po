@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 20:59\n"
+"PO-Revision-Date: 2023-11-10 15:50\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getRidOfElyonsParents/wait_for_jink_to_do_her_job.rpy:4 #-#-# translate crowdin wait_for_jink_to_do_her_job_920d4243:
 msgid "[_elion_] Рик..... Мои родители... Они..."
@@ -42,5 +42,8 @@ msgstr ""
 
 # game/scripts/quests/getRidOfElyonsParents/wait_for_jink_to_do_her_job.rpy:16 #-#-# translate crowdin wait_for_jink_to_do_her_job_51ff4d12:
 msgid "[_elion_] Спасибо, Рик.. Что бы я без тебя делала.."
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
