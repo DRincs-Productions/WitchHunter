@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-22 15:29\n"
+"PO-Revision-Date: 2023-11-10 10:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:5 #-#-# translate crowdin getAlchemyFromRaythor_2cc482bf:
 msgid "[_raythor_] О, снова ты, Седрик? Какими судьбами?"
@@ -70,7 +70,7 @@ msgstr "[_cedrick_] A bientôt. Profitez de votre statut tant que vous le pouvez
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:47 #-#-# translate crowdin getAlchemyFromRaythor_b044bb4f:
 msgid "[_centered_] {size=37}ПРОХОДЯ МИМО КАЗАРМЫ СТРАЖНИКОВ, СЕДРИК ЗАМЕЧАЕТ, КАК ОНИ РАЗВЛЕКАЮТСЯ С КАКОЙ-ТО ДЕВОЧНКОЙ{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}EN PASSANT DEVANT LA CASERNE DES GARDES, CÉDRIC REMARQUE QU'ILS S'AMUSENT AVEC UNE FILLE.{/size}"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:53 #-#-# translate crowdin getAlchemyFromRaythor_0b41ca7c:
 msgid "[_str1_] О дааа, эта сука отлично сосет!"
