@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:04\n"
+"PO-Revision-Date: 2023-11-10 15:55\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/elyon_cry_about_alchemy.rpy:8 #-#-# translate crowdin elyon_cry_about_alchemy_daae4d98:
 msgid "[_elion_] ...."
@@ -67,4 +67,7 @@ msgstr "Cedric conforta ancora una volta Alyon."
 # game/scripts/quests/joiningsAfterMissingBryan/elyon_cry_about_alchemy.rpy:43 #-#-# translate crowdin elyon_cry_about_alchemy_1ca0a0be:
 msgid "[_cedrick_sprite_] (Пожалуй, стоит подождать какое-то время, пока она не отойдет от произошедшего, прежде чем предлагать ей запрыгнуть на мой член, хе-хе...)"
 msgstr "[_cedrick_sprite_] (Forse dovrei aspettare un po' che si riprenda da quello che è successo prima di proporle di saltare sul mio cazzo, hehe...)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
