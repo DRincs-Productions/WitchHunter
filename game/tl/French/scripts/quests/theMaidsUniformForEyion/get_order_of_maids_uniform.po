@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:15\n"
+"PO-Revision-Date: 2023-11-10 16:06\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:3 #-#-# translate crowdin get_order_of_maids_uniform_c0bc3184:
 msgid "[_cedrick_] Элион, твоя новая рабочая форма пришла, готова примерить?"
@@ -71,4 +71,7 @@ msgstr "[_elion_] Euh, bien, si tu le dis. Très bien, Rick, merci. Je vais essa
 # game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:35 #-#-# translate crowdin get_order_of_maids_uniform_142dc6eb:
 msgid "[_cedrick_] (Фух, выкрутился..)"
 msgstr "[_cedrick_] (Ouf, j'en suis sorti...)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
