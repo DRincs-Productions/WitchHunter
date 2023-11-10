@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:03\n"
+"PO-Revision-Date: 2023-11-10 16:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/singles/prologue.rpy:10 #-#-# translate crowdin prologue_659381e6:
 msgid "[_centered_] {size=37}Меридиан\n"
@@ -180,7 +180,7 @@ msgstr "[_cedrick_] Comme vous le dites, mon prince..."
 
 # game/scripts/quests/singles/prologue.rpy:146 #-#-# translate crowdin prologue_81340d7b:
 msgid "[_phobos_] И последнее, Седрик. Стражницы завесы.. Они уже не раз рушили наши планы. В этот раз они не должны нам помешать"
-msgstr "[_phobos_] Une dernière chose, Cédric. Les gardiens du voile... Ils ont gâché nos projets plus d'une fois. Cette fois, ils ne doivent pas nous arrêter"
+msgstr "[_phobos_] Une dernière chose, Cédric. Les gardiens de Kandrakar... Ils ont gâché nos projets plus d'une fois. Cette fois, ils ne doivent pas nous arrêter"
 
 # game/scripts/quests/singles/prologue.rpy:150 #-#-# translate crowdin prologue_25c1be86:
 msgid "[_phobos_] Помни, их магия ничем не отличается от нашей и если они эмоционально неустойчивы, то не смогут использовать свою силу должным образом. Используй это. А теперь прочь с глаз моих!"
