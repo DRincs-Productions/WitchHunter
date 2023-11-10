@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-09-19 21:12\n"
+"PO-Revision-Date: 2023-11-10 16:04\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/askAboutTarani.rpy:8 #-#-# translate crowdin askAboutTarani_ad7961fb:
 msgid "[_bess_] А, это опять ты... Мы же сказали только для членов клуба..."
@@ -78,5 +78,8 @@ msgstr ""
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:24 #-#-# translate crowdin askAboutTarani_d25f00c2:
 msgid "[_cedrick_] (Что ж, микрофоны должны продаваться в супермаркете у вокзала..)"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
