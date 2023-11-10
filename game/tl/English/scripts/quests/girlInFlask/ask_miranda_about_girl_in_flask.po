@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:00\n"
+"PO-Revision-Date: 2023-11-10 15:51\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:3 #-#-# translate crowdin ask_miranda_about_girl_in_flask_7e5d7e5a:
 msgid "[_cedrick_] Миранда, а что это за девушка в колбе?"
@@ -74,5 +74,8 @@ msgstr ""
 
 # game/scripts/quests/girlInFlask/ask_miranda_about_girl_in_flask.rpy:60 #-#-# translate crowdin ask_miranda_about_girl_in_flask_69d8008c:
 msgid "[_miranda_] У этого цветка красная сердцевина и белые лепестки. В нашем мире их мало, поэтому не перепутаешь. Когда найдешь, принеси его мне, и эльфийка твоя"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
