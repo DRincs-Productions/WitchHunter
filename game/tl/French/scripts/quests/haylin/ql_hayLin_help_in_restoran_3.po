@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:03\n"
+"PO-Revision-Date: 2023-11-10 15:54\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:6 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a8c174e7:
 msgid "[_cedrick_] Ну... Как у вас дела?"
@@ -203,4 +203,7 @@ msgstr "Hai Ling s'enfuit en silence, faisant de son mieux pour retenir ses larm
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:102 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_32c00346:
 msgid "[_cedrick_] Наконец-то! Теперь я смогу поразвлечься с ней вдоволь... Пожалуй, стоит заглянуть завтра... Ей нужно свыкнутся с мыслью, что теперь я могу делать с ней все, что захочу"
 msgstr "[_cedrick_] Enfin ! Maintenant je peux m'amuser avec elle... Je devrais probablement revenir demain... Elle doit se faire à l'idée que je peux faire ce que je veux avec elle maintenant."
+
+msgid "Бланк"
+msgstr "Blunk"
 
