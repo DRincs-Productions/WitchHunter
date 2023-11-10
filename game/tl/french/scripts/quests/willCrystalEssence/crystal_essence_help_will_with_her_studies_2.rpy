@@ -4,7 +4,7 @@
 translate french crystal_essence_help_will_with_her_studies_2_a9395fd6:
 
     # centered "{size=37}НА СЛЕДУЮЩИЙ ДЕНЬ, УТРОМ{/size}"
-    ""
+    centered "{size=37}LE LENDEMAIN, DANS LA MATINÉE.{/size}"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:9
 translate french crystal_essence_help_will_with_her_studies_2_5b016cc1:

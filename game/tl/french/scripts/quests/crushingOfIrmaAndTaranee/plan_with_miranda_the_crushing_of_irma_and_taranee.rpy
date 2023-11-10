@@ -100,7 +100,7 @@ translate french plan_with_miranda_the_crushing_of_irma_and_taranee_eb1409b7:
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_81723162:
 
     # centered "{size=37}МИРАНДА ДЕЛАЕТ ВСЕ ТАК, КАК СКАЗАЛ СЕДРИК. ИРМА И ТАРАНИ РАЗДЕЛЯЮТСЯ. ПОКА ИРМА СРАЖАЕТСЯ С МИРАНДОЙ, СЕДРИК СРАЖАЕТСЯ С ТАРАНИ{/size}"
-    ""
+    centered "{size=37}MIRANDA FAIT EXACTEMENT CE QUE CÉDRIC A DIT. L'IRMA ET LE TARANIS SONT SÉPARÉS. PENDANT QU'IRMA SE BAT CONTRE MIRANDA, CÉDRIC SE BAT CONTRE TARANIS.{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:67
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_426314a4:

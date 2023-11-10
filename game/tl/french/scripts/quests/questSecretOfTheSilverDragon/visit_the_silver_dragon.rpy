@@ -2266,7 +2266,7 @@ translate french minigame_3_f16b65a7:
 translate french minigame_3_a6d6ae99:
 
     # centered "{size=37}Поздно ночью{/size}" with Dissolve(1)
-    ""
+    centered "{size=37}Tard dans la nuit.{/size}" with Dissolve(1)
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1015
 translate french minigame_3_55925e47:

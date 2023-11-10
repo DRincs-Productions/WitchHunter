@@ -10,7 +10,7 @@ translate french blank_shop_menu_1f3a1671:
 translate french blank_shop_menu_2b106eec:
 
     # blankChar "Бланк не притворяется. Бланк умственно отсталый."
-    blankChar "Blank ne fait pas semblant. Blank est mentalement retardé."
+    blankChar "Blunk ne fait pas semblant. Blunk est mentalement retardé."
 
 translate french strings:
 

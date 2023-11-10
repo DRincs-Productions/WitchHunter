@@ -4,5 +4,5 @@
 translate italian errors_80e08436:
 
     # error "`[key]` label is not exist"
-    error "[key]` l'etichetta non esiste"
+    error "`[key]` l'etichetta non esiste"
 

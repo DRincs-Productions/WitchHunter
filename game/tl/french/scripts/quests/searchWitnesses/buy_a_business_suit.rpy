@@ -640,7 +640,7 @@ translate french buy_a_business_suit_632ad564:
 translate french buy_a_business_suit_2617aaa4:
 
     # centered "{size=37}В УБОРНОЙ{/size}" with Dissolve(1)
-    ""
+    centered "{size=37}DANS LA SALLE DE NETTOYAGE{/size}" with Dissolve(1)
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:243
 translate french buy_a_business_suit_9b16b258:
@@ -1600,7 +1600,7 @@ translate french buy_a_business_suit_aaa037a7:
 translate french buy_a_business_suit_e01f31fd:
 
     # centered "{size=37}В ТУАЛЕТЕ{/size}" with Dissolve(1)
-    ""
+    centered "{size=37}DANS LES TOILETTES{/size}" with Dissolve(1)
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:516
 translate french buy_a_business_suit_43c50e83:
@@ -3352,7 +3352,7 @@ translate french buy_a_business_suit_bdb859a5:
 translate french buy_a_business_suit_bc17dbe3:
 
     # centered "{size=37}В ЗАЛЕ СУДА{/size}" with Dissolve(1)
-    ""
+    centered "{size=37}DANS LA SALLE D'AUDIENCE{/size}" with Dissolve(1)
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1008
 translate french buy_a_business_suit_d1f3f43d:

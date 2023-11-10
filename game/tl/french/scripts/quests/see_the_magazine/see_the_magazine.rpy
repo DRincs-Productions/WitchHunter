@@ -592,7 +592,7 @@ translate french journal_sletty_sluts_1a4184a8:
 translate french journal_sletty_sluts_f3392b28:
 
     # elion "{b}{size=25}Что ты делаешь?{/size}{/b}"
-    ""
+    elion "{b}{size=25}Que faites-vous ?{/size}{/b}"
 
 # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:254
 translate french journal_sletty_sluts_f6ec421e:

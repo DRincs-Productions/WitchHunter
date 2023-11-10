@@ -1126,7 +1126,7 @@ translate french defeat_morpion_king_068b1e5b:
 translate french defeat_morpion_king_8a969932:
 
     # centered "{size=37}В ТЕМНИЦЕ КОРНЕЛИИ {/size}"
-    ""
+    centered "{size=37}DANS LE DONJON DE CORNELIA {/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:545
 translate french defeat_morpion_king_3c3f83da:

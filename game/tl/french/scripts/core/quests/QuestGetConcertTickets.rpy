@@ -16,7 +16,7 @@ translate french strings:
 
     # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
     old "Добыть футболку для Бланка"
-    new "Obtention d'un T-shirt pour Blank"
+    new "Obtention d'un T-shirt pour Blunk"
 
     # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
     old "Отдать футболку Бланку"

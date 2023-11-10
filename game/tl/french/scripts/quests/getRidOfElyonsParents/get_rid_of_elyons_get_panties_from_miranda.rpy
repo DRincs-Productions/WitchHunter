@@ -34,7 +34,7 @@ translate french get_rid_of_elyons_get_panties_from_miranda_d383e8f8:
 translate french get_rid_of_elyons_get_panties_from_miranda_f085799b:
 
     # centered "{size=37}МИРАНДА СНИМАЕТ ТРУСЫ{/size}"
-    ""
+    centered "{size=37}MIRANDA ENLÈVE SES SOUS-VÊTEMENTS{/size}"
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:18
 translate french get_rid_of_elyons_get_panties_from_miranda_ce2025c4:

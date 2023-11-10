@@ -346,7 +346,7 @@ translate french take_medina_home_680b4163:
 translate french take_medina_home_2591e795:
 
     # centered "{size=37}МЕДИНА ДОВОЗИТ СЕДРИКА ДО КНИЖНОГО МАГАЗИНА{/size}"
-    ""
+    centered "{size=37}MEDINA EMMÈNE CÉDRIC À LA LIBRAIRIE.{/size}"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:73
 translate french take_medina_home_e54fd4f2:

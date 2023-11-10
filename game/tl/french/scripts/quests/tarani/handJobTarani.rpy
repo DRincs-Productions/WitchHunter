@@ -16,7 +16,7 @@ translate french handJobTarani_20c7d43b:
 translate french handJobTarani_052d0123:
 
     # centered "{size=37}Спустя некоторое время..{/size}"
-    ""
+    centered "{size=37}Au bout d'un moment..{/size}"
 
 # game/scripts/quests/tarani/handJobTarani.rpy:16
 translate french handJobTarani_af7d75e7:
