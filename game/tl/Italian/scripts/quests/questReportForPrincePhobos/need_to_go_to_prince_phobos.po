@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:09\n"
+"PO-Revision-Date: 2023-11-10 16:01\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:2 #-#-# translate crowdin need_to_go_to_prince_phobos_364c73cd:
 msgid "[_cedrick_] (Сейчас я должен выступить с докладом перед Фобосом)"
@@ -103,4 +103,7 @@ msgstr "[_cedrick_] Devo andare da Miranda. Presto Bulge condurrà i Guardiani n
 # game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:50 #-#-# translate crowdin need_to_go_to_prince_phobos_lateness_0119f74b:
 msgid "[_cedrick_] Мне нужно отправляться к стражницам"
 msgstr "[_cedrick_] Devo andare dalle guardie"
+
+msgid "Бланк"
+msgstr "Blunk"
 
