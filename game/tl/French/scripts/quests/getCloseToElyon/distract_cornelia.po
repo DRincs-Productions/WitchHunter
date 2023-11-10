@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:47\n"
+"PO-Revision-Date: 2023-11-10 16:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:4 #-#-# translate crowdin distract_cornelia_2bfb5cc7:
 msgid "[_cedrick_sprite_] (Самое время отвлечь Корнелию от похода в кино.. Мне необходимо быть в форме змея, чтобы они меня не узнали..)"
@@ -26,7 +26,7 @@ msgstr "Cedric, sous sa forme de serpent, attaque le village de Meridian, détru
 
 # game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:12 #-#-# translate crowdin distract_cornelia_0826bc77:
 msgid "Стражницы Завесы не заставили себя долго ждать.."
-msgstr "Il n'a pas fallu longtemps pour que les gardes du voile..."
+msgstr "Il n'a pas fallu longtemps pour que les gardiens de Kandrakar.."
 
 # game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:19 #-#-# translate crowdin distract_cornelia_56687713:
 msgid "[_will_] Похоже, что этого змея следует отучить нападать на мирных жителей..."
