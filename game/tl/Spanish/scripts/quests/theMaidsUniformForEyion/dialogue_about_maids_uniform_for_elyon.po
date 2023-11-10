@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:14\n"
+"PO-Revision-Date: 2023-11-10 16:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/theMaidsUniformForEyion/dialogue_about_maids_uniform_for_elyon.rpy:3 #-#-# translate crowdin dialogue_about_maids_uniform_for_elyon_39163069:
 msgid "[_cedrick_] Элион, я тут недавно подумал, а не заказать ли тебе рабочую форму?"
@@ -47,4 +47,7 @@ msgstr ""
 # game/scripts/quests/theMaidsUniformForEyion/dialogue_about_maids_uniform_for_elyon.rpy:19 #-#-# translate crowdin dialogue_about_maids_uniform_for_elyon_560340f2:
 msgid "[_cedrick_] С этой формой точно не напутаю"
 msgstr ""
+
+msgid "Бланк"
+msgstr "Blunk"
 
