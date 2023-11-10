@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:07\n"
+"PO-Revision-Date: 2023-11-10 15:58\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/check_out_the_alchemy_in_the_brothel.rpy:7 #-#-# translate crowdin check_out_the_alchemy_in_the_brothel_ceb42b27:
 msgid "[_vanessa_] Ох, не уж то ты так быстро соскучился по мне? Или тебя сюда привел твой дружок?"
@@ -215,4 +215,7 @@ msgstr "[_alchemy_] Digas lo que digas... No voy a retroceder, ¿¡me oyes!?"
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_out_the_alchemy_in_the_brothel.rpy:159 #-#-# translate crowdin check_out_the_alchemy_in_the_brothel_6a3a5eaf:
 msgid "[_cedrick_] В этом упорстве все твое очарование, Алхими"
 msgstr "[_cedrick_] En esta terquedad está todo tu encanto, Alchemy"
+
+msgid "Бланк"
+msgstr "Blunk"
 
