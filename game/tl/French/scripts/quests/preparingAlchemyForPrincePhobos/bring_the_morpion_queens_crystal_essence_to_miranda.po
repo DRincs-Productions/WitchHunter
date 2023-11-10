@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:06\n"
+"PO-Revision-Date: 2023-11-10 15:57\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.rpy:6 #-#-# translate crowdin bring_the_morpion_queens_crystal_essence_to_miranda_2dd79b24:
 msgid "[_cedrick_] Я вернулся.. Черт, не думал, что бой с ней закончится так.. И еще не ожидал, что ее железы будут похожи на кристаллы"
@@ -51,4 +51,7 @@ msgstr "[_miranda_] Alors, pouvez-vous me laisser tranquille ? Revenez quand l'e
 # game/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.rpy:39 #-#-# translate crowdin bring_the_morpion_queens_crystal_essence_to_miranda_ebcc0b6f:
 msgid "[_cedrick_] Хорошо, займусь пока другими делами в городе. Самое время забрать Алхими"
 msgstr "[_cedrick_] Très bien, je vais m'occuper d'autres affaires en ville en attendant. Il est temps que nous ayons l'Alchimie"
+
+msgid "Бланк"
+msgstr "Blunk"
 
