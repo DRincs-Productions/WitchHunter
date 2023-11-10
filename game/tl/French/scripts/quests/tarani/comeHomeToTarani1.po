@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:12\n"
+"PO-Revision-Date: 2023-11-10 16:04\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/comeHomeToTarani1.rpy:7 #-#-# translate crowdin comeHomeToTarani1_b4fbddde:
 msgid "[_cedrick_] Ну, если сестры Грампер дали мне верный адрес, то это должно быть дом Тарани..."
@@ -126,5 +126,8 @@ msgstr "...."
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:81 #-#-# translate crowdin comeHomeToTarani1_266846d5:
 msgid "[_cedrick_] (Так значит, у Найджела есть брат преступник, который недавно вышел из тюрьмы. Пожалуй, стоит снова попросить Бланка проследить за ним, возможно он сможет заснять более ценные кадры...)"
-msgstr "[_cedrick_] (Donc Nigel a un frère criminel qui est récemment sorti de prison. Nous devrions peut-être demander à Blank de le suivre à nouveau, il pourra peut-être capturer des images plus intéressantes...)"
+msgstr "[_cedrick_] (Donc Nigel a un frère criminel qui est récemment sorti de prison. Nous devrions peut-être demander à Blunk de le suivre à nouveau, il pourra peut-être capturer des images plus intéressantes...)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
