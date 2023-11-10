@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:36\n"
+"PO-Revision-Date: 2023-11-10 16:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestTarani.rpy:3
 msgid "Тарани Кук"
-msgstr "Tarani Cook"
+msgstr "Taranee Cook"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Провести первый урок"
@@ -22,7 +22,7 @@ msgstr "Organiser la première leçon"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Провести урок и проверить контрольную работу занизив оценку Тарани"
-msgstr "Diriger la leçon et vérifier le travail du test en diminuant la note de Tarani."
+msgstr "Diriger la leçon et vérifier le travail du test en diminuant la note de Taranee."
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Раздать контрольные работы на следующем уроке"
@@ -30,11 +30,11 @@ msgstr "Distribuez les tests de la prochaine leçon"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Занизить оценку домашней работы Тарани"
-msgstr "Baisser la note des devoirs de Tarani"
+msgstr "Baisser la note des devoirs de Taranee"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Поговорить с Тарани после урока"
-msgstr "Parlez à Tarani après le cours"
+msgstr "Parlez à Taranee après le cours"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Провести очередной урок"
@@ -42,7 +42,7 @@ msgstr "Organiser une autre leçon"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Распросить о Тарани в школьном клубе журналистике"
-msgstr "Posez des questions sur Tarani au club de journalisme de l'école."
+msgstr "Posez des questions sur Taranee au club de journalisme de l'école."
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Достать микрофон для клуба журналистики"
@@ -50,7 +50,7 @@ msgstr "Obtenir un microphone pour le club de journalisme"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Отнести микрофон Бэсс и Кортни и разузнать о Тарани"
-msgstr "Prends le micro pour Bess et Courtney et renseigne-toi sur Tarani."
+msgstr "Prends le micro pour Bess et Courtney et renseigne-toi sur Taranee."
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Попросить Бланка сделать фотографии Найджела"
@@ -78,19 +78,19 @@ msgstr "Attendez que Blunk prenne les photos de Nigel et récupérez-les"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Шантажировать Тарани фотографиями Найджела"
-msgstr "Faire chanter Tarani avec des photos de Nigel"
+msgstr "Faire chanter Taranee avec des photos de Nigel"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Попросить Тарани сделать нам приятное после урока"
-msgstr "Demander à Tarani de nous faire sentir bien après le cours."
+msgstr "Demander à Taranee de nous faire sentir bien après le cours."
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Попросить Тарани поработать ртом"
-msgstr "Demander à Tarani de travailler avec sa bouche"
+msgstr "Demander à Taranee de travailler avec sa bouche"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Навестить Тарани у нее дома"
-msgstr "Visite de Tarani à son domicile"
+msgstr "Visite de Taranee à son domicile"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Попросить Бланка сделать новые фотографии Найджела"
@@ -102,11 +102,11 @@ msgstr "Offrez à Blunk une chaîne en or ou trouvez-lui une fille avec qui fair
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Навестить Тарани у нее дома вечером и показать ей фотографии Найджела"
-msgstr "Rendez visite à Tarani chez elle ce soir et montrez-lui des photos de Nigel."
+msgstr "Rendez visite à Taranee chez elle ce soir et montrez-lui des photos de Nigel."
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Поговорить с Тарани в школе"
-msgstr "Parlez à Tarani à l'école"
+msgstr "Parlez à Taranee à l'école"
 
 msgid "Бланк"
 msgstr "Blunk"
