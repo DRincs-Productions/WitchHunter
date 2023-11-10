@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:19\n"
+"PO-Revision-Date: 2023-11-10 16:12\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/splashscreen.rpy:85 #-#-# translate crowdin splashscreen_f3db2f9c:
 msgid "[_attention_] {size=80}{color=#f00}ВНИМАНИЕ!{/color}{/size}\n"
@@ -47,4 +47,7 @@ msgstr "[_attention_] {size=80}{color=#f00}ATTENZIONE!{/color}{/size}\n"
 "TUTTI I PERSONAGGI DEL GIOCO HANNO ALMENO 18 ANNI.\n"
 "HAI PIÙ DI 18 ANNI?\n"
 "{/size}"
+
+msgid "Бланк"
+msgstr "Blunk"
 
