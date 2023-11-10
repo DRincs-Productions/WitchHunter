@@ -11,9 +11,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:15\n"
+"PO-Revision-Date: 2023-11-10 16:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/get_frogs_for_will.rpy:6 #-#-# translate crowdin get_frogs_for_will_6c665689:
 msgid "Вам было доставлено: Лягушка пеппа"
 msgstr "Se entregó a: Peppa Frog"
+
+msgid "Бланк"
+msgstr "Blunk"
 
