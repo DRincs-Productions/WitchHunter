@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 20:44\n"
+"PO-Revision-Date: 2023-11-01 16:54\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestGetConcertTickets.rpy:3
 msgid "Музыкальная группа Сортирный союз"
@@ -26,7 +26,7 @@ msgstr "Demander à Blank d'obtenir des billets de concert"
 
 # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
 msgid "Добыть футболку для Бланка"
-msgstr "Obtention d'un T-shirt pour Blank"
+msgstr "Obtention d'un T-shirt pour Blunk"
 
 # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
 msgid "Отдать футболку Бланку"

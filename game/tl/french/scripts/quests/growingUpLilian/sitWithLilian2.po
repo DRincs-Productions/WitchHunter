@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-22 15:29\n"
+"PO-Revision-Date: 2023-11-10 10:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -1254,7 +1254,7 @@ msgstr "[_cedrick_] (Il suffit de l'attendre.)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:710 #-#-# translate crowdin lilith_no_5e6330ce:
 msgid "[_centered_] {size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ, У ВХОДА В КВАРТИРУ{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}QUELQUE TEMPS PLUS TARD, À L'ENTRÉE DE L'APPARTEMENT{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:717 #-#-# translate crowdin lilith_no_303b5b6a:
 msgid "[_cornelia_] (Боже, это был сущий ад..)"

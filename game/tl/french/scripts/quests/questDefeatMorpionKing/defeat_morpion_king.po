@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-22 15:30\n"
+"PO-Revision-Date: 2023-11-10 10:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -762,7 +762,7 @@ msgstr "[_cedrick_] Oui, tout à fait. En fait, je récupère plus vite"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:539 #-#-# translate crowdin defeat_morpion_king_8a969932:
 msgid "[_centered_] {size=37}В ТЕМНИЦЕ КОРНЕЛИИ {/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}DANS LE DONJON DE CORNELIA {/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:545 #-#-# translate crowdin defeat_morpion_king_3c3f83da:
 msgid "[_cedrick_] Хм, не помню, чтобы я тебя приковывал"

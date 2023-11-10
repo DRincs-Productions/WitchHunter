@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-22 15:29\n"
+"PO-Revision-Date: 2023-11-10 10:13\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_tough.rpy:4 #-#-# translate crowdin will_crystal_essence_final_tough_069152b1:
 msgid "Принятые ранее Седриком решения сформировали к Вилл жесткое отношение"
@@ -86,7 +86,7 @@ msgstr "[_will_] J'ai compris, Rick."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_tough.rpy:58 #-#-# translate crowdin will_crystal_essence_final_tough_0d96e007:
 msgid "[_centered_] {size=37} НОЧЬЮ В КОМНАТЕ ВИЛЛ{/size}"
-msgstr "[_centered_] {size=37} NUIT DANS LA CHAMBRE DE LA VILLA{/size}"
+msgstr "[_centered_] {size=37} LA NUIT DANS LA CHAMBRE DE LA VILLA{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_tough.rpy:61 #-#-# translate crowdin will_crystal_essence_final_tough_94366180:
 msgid "[_will_] Ммм, я купила все, что ты просил. Тебе нравится?"
