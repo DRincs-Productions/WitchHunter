@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:07\n"
+"PO-Revision-Date: 2023-11-10 15:58\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:6 #-#-# translate crowdin check_alchemy_in_dungeon_a20cefa7:
 msgid "..."
@@ -130,5 +130,8 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:99 #-#-# translate crowdin check_alchemy_in_dungeon_9898dc61:
 msgid "[_raythor_] Смотрю после понижения по службе дела у тебя совсем плохи. Может, я сам отведу девушку? Не волнуйся, я передам Лорду Фобосу, что она от тебя"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
