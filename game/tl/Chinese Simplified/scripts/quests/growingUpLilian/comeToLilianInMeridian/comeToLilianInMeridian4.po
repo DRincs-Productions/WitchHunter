@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-09-19 21:01\n"
+"PO-Revision-Date: 2023-11-10 15:52\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian4.rpy:9 #-#-# translate crowdin comeToLilianInMeridian4_cd3d8a16:
 msgid "[_lilian_] Рик... А когда ты научишь меня... Новым умениям... Я хочу поскорее стать такой же, как и моя сестра..."
@@ -162,5 +162,8 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian4.rpy:78 #-#-# translate crowdin comeToLilianInMeridian4_3931dc34:
 msgid "[_cedrick_] В следующий раз я постараюсь побыть немного аккуратнее... Вскоре я вернусь и мы продолжим наши уроки... А пока что мне нужно восстановить... свои силы.."
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
