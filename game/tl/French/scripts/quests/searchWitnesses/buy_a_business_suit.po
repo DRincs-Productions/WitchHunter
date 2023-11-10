@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-22 15:30\n"
+"PO-Revision-Date: 2023-11-10 10:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:3 #-#-# translate crowdin buy_a_business_suit_cdeda416:
 msgid "У меня сейчас не хватает денег на деловой костюм"
@@ -438,7 +438,7 @@ msgstr "[_theresa_] Le tribunal est ajourné pour une pause programmée, comme l
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:240 #-#-# translate crowdin buy_a_business_suit_2617aaa4:
 msgid "[_centered_] {size=37}В УБОРНОЙ{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {size=37}DANS LA SALLE DE NETTOYAGE{/size} [withDissolve1]"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:243 #-#-# translate crowdin buy_a_business_suit_9b16b258:
 msgid "[_cedrick_] (Чертов Брайан.. Этому говнюку лучше не попадаться мне на глаза. Если из-за его вялых показаний меня в итоге признают виновным..)"
@@ -1078,7 +1078,7 @@ msgstr "[_cedrick_] (Elle a mémorisé la phrase mot pour mot...). Mais je pense
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:512 #-#-# translate crowdin buy_a_business_suit_e01f31fd:
 msgid "[_centered_] {size=37}В ТУАЛЕТЕ{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {size=37}DANS LES TOILETTES{/size} [withDissolve1]"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:516 #-#-# translate crowdin buy_a_business_suit_43c50e83:
 msgid "[_cedrick_] (Хм, вроде бы мое положение в суде улучшилось. Но сколько все это еще будет продолжаться. Суды довольно утомительны..)"
@@ -2246,7 +2246,7 @@ msgstr "[_cedrick_] Huh, je le ferai."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1005 #-#-# translate crowdin buy_a_business_suit_bc17dbe3:
 msgid "[_centered_] {size=37}В ЗАЛЕ СУДА{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {size=37}DANS LA SALLE D'AUDIENCE{/size} [withDissolve1]"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1008 #-#-# translate crowdin buy_a_business_suit_d1f3f43d:
 msgid "[_theresa_] Вы снова опоздали, Мистер Рик!"
