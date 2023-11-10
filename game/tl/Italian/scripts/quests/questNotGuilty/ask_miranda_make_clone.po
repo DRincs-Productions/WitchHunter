@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:09\n"
+"PO-Revision-Date: 2023-11-10 16:01\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:4 #-#-# translate crowdin ask_miranda_make_clone_2a014d11:
 msgid "[_cedrick_] Мне нужна твоя помощь, Миранда…"
@@ -131,4 +131,7 @@ msgstr "[_cedrick_] (Beh, dovremo fare visita al nostro curioso amico nella mini
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:93 #-#-# translate crowdin ask_miranda_make_clone_749924d9:
 msgid "[_cedrick_] (Одежду я смогу купить в магазине Хитерфилда)"
 msgstr "[_cedrick_] (Posso comprare vestiti nel negozio di Heatherfield)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
