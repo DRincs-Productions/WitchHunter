@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-11-10 15:57\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:6 #-#-# translate crowdin newspaper_section_director_calls_534a0246:
 msgid "[_martin_]  Ах, вот вы где, мистер Хоффман! Я вас обыскался"
@@ -95,4 +95,7 @@ msgstr ""
 # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:70 #-#-# translate crowdin newspaper_section_director_calls_1ea3799c:
 msgid "[_cedrick_] (Отлично! На меня снова повесили никому ненужную работу. Вот и где мне искать еще двух участников?)"
 msgstr ""
+
+msgid "Бланк"
+msgstr "Blunk"
 
