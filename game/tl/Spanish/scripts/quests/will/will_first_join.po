@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:16\n"
+"PO-Revision-Date: 2023-11-10 16:08\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_first_join.rpy:10 #-#-# translate crowdin will_first_join_e5ef2ecb:
 msgid "[_girl_] ..."
@@ -203,4 +203,7 @@ msgstr "[_cedrick_sprite_] (Así que hace un mes se mudó a esta ciudad e inmedi
 # game/scripts/quests/will/will_first_join.rpy:176 #-#-# translate crowdin will_first_join_11d7c7d1:
 msgid "[_cedrick_sprite_] (И помимо этого хранительница Сердца Кондракара и стражницы земли знакомы с Наследницей престола, интересно, знают ли они кем она является на самом деле?)"
 msgstr "[_cedrick_sprite_] (Y encima el guardián del Corazón de Kandrakar y los guardianes de la tierra conocen a la Heredera al trono, me pregunto si sabrán quién es en realidad)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
