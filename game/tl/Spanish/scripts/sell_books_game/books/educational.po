@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:19\n"
+"PO-Revision-Date: 2023-11-10 16:11\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Анатомия человека. Том 1"
@@ -159,4 +159,7 @@ msgstr "Diversidad de especies populares"
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Джон Смит"
 msgstr "John Smith"
+
+msgid "Бланк"
+msgstr "Blunk"
 
