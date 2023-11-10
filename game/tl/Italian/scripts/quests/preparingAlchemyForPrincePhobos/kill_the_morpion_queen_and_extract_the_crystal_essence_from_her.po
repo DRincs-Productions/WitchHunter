@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 21:07\n"
+"PO-Revision-Date: 2023-11-10 15:59\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:7 #-#-# translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_6665365f:
 msgid "[_cedrick_] Да, а я сегодня на взводе.. Не могу отказать себе в удовольствии трахнуть столь сочного монстра. К тому же, как не воспользоваться тем, что ты еще жива"
@@ -51,4 +51,7 @@ msgstr "[_cedrick_] Beh... Ho avuto tutto quello che volevo da te. Ora è il mom
 # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:23 #-#-# translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_bd09e38d:
 msgid "[_queenofmorpions_] Забрать.."
 msgstr "[_queenofmorpions_] Togliere..."
+
+msgid "Бланк"
+msgstr "Blunk"
 
