@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-01 16:54\n"
+"PO-Revision-Date: 2023-11-10 15:34\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestGetConcertTickets.rpy:3
 msgid "Музыкальная группа Сортирный союз"
@@ -22,7 +22,7 @@ msgstr "Obtenir des billets pour le concert de l'Union des Branleurs (par télé
 
 # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
 msgid "Попросить Бланка достать билеты на концерт"
-msgstr "Demander à Blank d'obtenir des billets de concert"
+msgstr "Demander à Blunk d'obtenir des billets de concert"
 
 # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
 msgid "Добыть футболку для Бланка"
@@ -43,4 +43,7 @@ msgstr "Appelez Cornelia pour un concert lorsqu'elle s'arrêtera à la librairie
 # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
 msgid "Сходить на концерт с Корнелией вечером, дождавшись ее в Букшопе"
 msgstr "Aller à un concert avec Cornelia le soir, en l'attendant à la librairie."
+
+msgid "Бланк"
+msgstr "Blunk"
 
