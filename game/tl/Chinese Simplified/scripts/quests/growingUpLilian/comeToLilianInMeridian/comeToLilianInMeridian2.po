@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-09-19 21:01\n"
+"PO-Revision-Date: 2023-11-10 15:52\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:9 #-#-# translate crowdin comeToLilianInMeridian2_0f3dc7b1:
 msgid "[_lilian_] Риик! Я выросла, Рик! Я и в правду выросла!"
@@ -62,5 +62,8 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:32 #-#-# translate crowdin comeToLilianInMeridian2_8ab2bd5a:
 msgid "[_cedrick_] В другой раз, Лилиан... "
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
