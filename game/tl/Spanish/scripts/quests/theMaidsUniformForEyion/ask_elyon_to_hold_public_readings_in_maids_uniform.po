@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:14\n"
+"PO-Revision-Date: 2023-11-10 16:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:3 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_db823e8f:
 msgid "[_cedrick_] Я уже предложил Элион провести вечер чтения в форме служанки"
@@ -27,4 +27,7 @@ msgstr ""
 # §translate crowdin strings: #|#|# # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:16
 msgid "У меня пока есть дела, подойду ближе к вечеру в книжный магазин"
 msgstr ""
+
+msgid "Бланк"
+msgstr "Blunk"
 
