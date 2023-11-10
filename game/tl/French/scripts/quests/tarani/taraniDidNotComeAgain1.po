@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:14\n"
+"PO-Revision-Date: 2023-11-10 16:06\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:8 #-#-# translate crowdin taraniDidNotComeAgain1_a4164703:
 msgid "[_cedrick_] Добрый день, ученики!"
@@ -43,4 +43,7 @@ msgstr "[_cedrick_] (Um, Tarani n'est pas en classe aujourd'hui. Elle n'était p
 # game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:16 #-#-# translate crowdin taraniDidNotComeAgain1_faa1176a:
 msgid "[_cedrick_] (Может, за этим скрывается то, что мне нужно. Надо разузнать в клубе журналистики, как я понял, они здесь собирают все школьные сплетни)"
 msgstr "[_cedrick_] (Peut-être que c'est ce que je cherche. Je vais devoir vérifier avec le club de journalisme, car je crois savoir qu'ils collectent tous les potins de l'école ici)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
