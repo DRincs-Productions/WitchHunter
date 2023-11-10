@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:12\n"
+"PO-Revision-Date: 2023-11-10 16:04\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:11 #-#-# translate crowdin askMirandaDragonNostril_c8d2151d:
 msgid "[_cedrick_] Миранда.. Ты случайно не знаешь… Где можно достать Ноздрю Дракона?..."
@@ -43,4 +43,7 @@ msgstr "[_miranda_] Solo te daré la fosa nasal del dragón si me consigues el c
 # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:36 #-#-# translate crowdin askMirandaDragonNostril_cf79059c:
 msgid "[_cedrick_] Что ж.. Договорились."
 msgstr "[_cedrick_] Bueno... Trato hecho."
+
+msgid "Бланк"
+msgstr "Blunk"
 
