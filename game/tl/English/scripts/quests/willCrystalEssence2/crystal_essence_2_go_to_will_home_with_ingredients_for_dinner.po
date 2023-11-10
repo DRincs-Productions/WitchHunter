@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:18\n"
+"PO-Revision-Date: 2023-11-10 16:11\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:7 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_eddbb15e:
 msgid "[_susan_] Спасибо, что помог с готовкой, Рик, это было так мило с твоей стороны"
@@ -702,5 +702,8 @@ msgstr ""
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:408 #-#-# translate crowdin dialoigs_in_fight_with_tarani_and_irma_1a37bafa:
 msgid "[_cedrick_] (Черт... Эти мелкие сучки из меня весь дух выбили, я остался без сил.. Не думал, что без своей силы я и двух стражниц не потяну..)"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
