@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 20:59\n"
+"PO-Revision-Date: 2023-11-10 15:51\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:3 #-#-# translate crowdin corneliaCallToSitWithLilian_9449d1fb:
 msgid "[_cedrick_] Лучше будет написать Корнелии утром или днем."
@@ -90,5 +90,8 @@ msgstr ""
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:84
 msgid "Супер. Спасибо тебе, Рик <3 <3 <3"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
