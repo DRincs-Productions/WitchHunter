@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 21:04\n"
+"PO-Revision-Date: 2023-11-10 15:55\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:18 #-#-# translate crowdin alchemy_teleport_to_meridian_a20cefa7:
 msgid "..."
@@ -279,5 +279,8 @@ msgstr ""
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:62
 msgid "Смотреть, что будет дальше"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
