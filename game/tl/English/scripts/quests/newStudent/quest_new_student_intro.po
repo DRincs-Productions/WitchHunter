@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:05\n"
+"PO-Revision-Date: 2023-11-10 15:56\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_intro.rpy:6 #-#-# translate crowdin quest_new_student_intro_e11e77a5:
 msgid "[_cedrick_] (Хм.. Что-то сегодня эти школьные сплетницы куда оживленнее, чем обычно)"
@@ -214,5 +214,8 @@ msgstr "..."
 
 # game/scripts/quests/newStudent/quest_new_student_intro.rpy:117 #-#-# translate crowdin quest_new_student_intro_6bc39ddd:
 msgid "[_cedrick_] (Мне показалось или... она хотела чего то большего..)"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
