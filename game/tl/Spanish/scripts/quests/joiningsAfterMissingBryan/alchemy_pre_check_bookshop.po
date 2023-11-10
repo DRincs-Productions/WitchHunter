@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-19 21:04\n"
+"PO-Revision-Date: 2023-11-10 15:55\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:12 #-#-# translate crowdin alchemy_pre_check_bookshop_a20cefa7:
 msgid "..."
@@ -67,4 +67,7 @@ msgstr "[_cedrick_] Adiós..."
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:33 #-#-# translate crowdin alchemy_pre_check_bookshop_33ee59a4:
 msgid "[_cedrick_] (Эта мелкая... Она создает мне проблемы.. Похоже у них с братом это семейное...)"
 msgstr "[_cedrick_] (Esta pequeña... Me está dando problemas... Ella y su hermano en verdad son familia...)"
+
+msgid "Бланк"
+msgstr "Blunk"
 
