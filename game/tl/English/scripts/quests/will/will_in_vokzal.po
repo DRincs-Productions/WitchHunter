@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:17\n"
+"PO-Revision-Date: 2023-11-10 16:09\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_in_vokzal.rpy:11 #-#-# translate crowdin will_in_vokzal_fc70fe0a:
 msgid "[_will_] Рик!?"
@@ -218,5 +218,8 @@ msgstr ""
 
 # game/scripts/quests/will/will_in_vokzal.rpy:151 #-#-# translate crowdin will_in_vokzal_96c2b21c:
 msgid "[_cedrick_sprite_] (Хм.. прежде чем начать преподавать Вилл, мне нужно поднять навык знания истории, вроде бы в книжном магазине были нужные книги"
+msgstr ""
+
+msgid "Бланк"
 msgstr ""
 
