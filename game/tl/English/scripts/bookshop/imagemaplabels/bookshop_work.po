@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 15:28\n"
+"PO-Revision-Date: 2023-11-11 09:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/imagemaplabels/bookshop_work.rpy:3 #-#-# translate crowdin bookshop_work_e7de0611:
 msgid "[_cedrick_sprite_] (Не думаю, что кто-нибудь пойдет в книжный магазин ночью.)"
@@ -18,8 +18,5 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/scripts/bookshop/imagemaplabels/bookshop_work.rpy:7
 msgid "Начать работать"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
