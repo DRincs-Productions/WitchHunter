@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:49\n"
+"PO-Revision-Date: 2023-11-11 09:33\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/getTickets.rpy:5 #-#-# translate crowdin getTickets_10e6a552:
 msgid "[_cedrick_] Три билета на концерт Сортирного Союза..."
@@ -31,7 +31,4 @@ msgstr "[_cashier_] Non capisci? I biglietti sono finiti da tempo..."
 # game/scripts/quests/getConcertTickets/getTickets.rpy:9 #-#-# translate crowdin getTickets_62cc54d4:
 msgid "[_cedrick_] (Вот же старая пизда! Придется поискать билеты в другом месте...)"
 msgstr "[_cedrick_] (Che vecchio coglione! Dovrò cercare altrove i biglietti...)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
