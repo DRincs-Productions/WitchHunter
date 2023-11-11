@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:53\n"
+"PO-Revision-Date: 2023-11-11 09:37\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -1495,7 +1495,4 @@ msgstr ""
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:507
 msgid "Перепройти фрагмент"
 msgstr ""
-
-msgid "Бланк"
-msgstr "Blunk"
 
