@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-11 08:50\n"
+"PO-Revision-Date: 2023-11-11 09:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:8 #-#-# translate crowdin crush_irma_and_taranee_96c6aca9:
 msgid "[_tarani_] Н-нет, стой.. Как же.. Я не могла проиграть.. Ч-черт, ноги не слушаются.. Я слишком слаба.."
-msgstr "[_Taranee_] N-non, attendez... Comment pourrais-je... Je n'ai pas pu perdre... Merde, je n'entends pas mes jambes... Je suis trop faible..."
+msgstr "[_tarani_] N-non, attendez... Comment pourrais-je... Je n'ai pas pu perdre... Merde, je n'entends pas mes jambes... Je suis trop faible..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:9 #-#-# translate crowdin crush_irma_and_taranee_d34a09bc:
 msgid "[_cedrick_] И все же проиграла. Ты держалась достойно, стоит признать. Из всех стражниц только твой дух я все еще но смог сломить"
@@ -22,7 +22,7 @@ msgstr "[_cedrick_] Et pourtant vous avez perdu. Tu as bien résisté, je dois l
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:10 #-#-# translate crowdin crush_irma_and_taranee_533082e8:
 msgid "[_tarani_] Т-только мой? Ты все еще самоуверен.. Есть еще Ирма.. И Вилл.."
-msgstr "[_Taranee_] C'est juste moi ? Tu es toujours aussi arrogant... Il y a Irma... Et Will..."
+msgstr "[_tarani_] C'est juste moi ? Tu es toujours aussi arrogant... Il y a Irma... Et Will..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:11 #-#-# translate crowdin crush_irma_and_taranee_92edc05d:
 msgid "[_cedrick_] Хах, Вилл? Ты явно всего не знаешь. Что же касается Ирмы, то давай посмотрим как она там"
@@ -294,11 +294,11 @@ msgstr "Taranee se réveille..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:133 #-#-# translate crowdin crush_irma_and_taranee_3bc36509:
 msgid "[_tarani_] Мхх.. Ч-что.. Моя голова.. Что случилось.."
-msgstr "[_Taranee_] Mhhh... Qu-Quoi... Ma tête... Ce qui s'est passé..."
+msgstr "[_tarani_] Mhhh... Qu-Quoi... Ma tête... Ce qui s'est passé..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:137 #-#-# translate crowdin crush_irma_and_taranee_7cfb00e1:
 msgid "[_tarani_] Ах!? Ч-что!?"
-msgstr "[_Taranee_] Ah !? Q-Quoi !?"
+msgstr "[_tarani_] Ah !? Q-Quoi !?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:138 #-#-# translate crowdin crush_irma_and_taranee_89e0bc95:
 msgid "[_irma_] Прости, Тарани.."
@@ -306,7 +306,7 @@ msgstr "[_irma_] Je suis désolé, Taranee..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:139 #-#-# translate crowdin crush_irma_and_taranee_1089930a:
 msgid "[_tarani_] Ирма.. Ч-что ты делаешь.. Отпусти меня!? Что на тебя нашло!?"
-msgstr "[_Taranee_] Irma... Qu'est-ce que vous faites... Lâche-moi ! ? Qu'est-ce qui te prend ?"
+msgstr "[_tarani_] Irma... Qu'est-ce que vous faites... Lâche-moi ! ? Qu'est-ce qui te prend ?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:140 #-#-# translate crowdin crush_irma_and_taranee_1999e42f:
 msgid "[_irma_] Я больше не могу ему перечить.. Это единственный способ перестать бороться.. Теперь я просто делаю то, что мне скажут.. Это успокаивает.."
@@ -314,7 +314,7 @@ msgstr "[_irma_] Je ne peux plus le défier... C'est le seul moyen pour moi d'ar
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:142 #-#-# translate crowdin crush_irma_and_taranee_89a782ba:
 msgid "[_tarani_] Ирма, чтоб тебя, очнись! Т-тебе промыли мозги.."
-msgstr "[_Taranee_] Irma, bon sang, réveille-toi ! On t'a fait un lavage de cerveau..."
+msgstr "[_tarani_] Irma, bon sang, réveille-toi ! On t'a fait un lavage de cerveau..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:143 #-#-# translate crowdin crush_irma_and_taranee_aa201b78:
 msgid "[_cedrick_] Хах, может так показаться, но нет, она в полном сознании и отдает себе отчет о своих действиях. Просто ты ошибалась, Тарани"
@@ -322,7 +322,7 @@ msgstr "[_cedrick_] Huh, ça peut sembler comme ça, mais non, elle est pleineme
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:145 #-#-# translate crowdin crush_irma_and_taranee_e40e1218:
 msgid "[_tarani_] Ч-что.. Ааахх.. Что ты несешь.."
-msgstr "[_Taranee_] Q-Quoi... Aaahhh... Qu'est-ce que tu racontes..."
+msgstr "[_tarani_] Q-Quoi... Aaahhh... Qu'est-ce que tu racontes..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:146 #-#-# translate crowdin crush_irma_and_taranee_766efe0d:
 msgid "[_cedrick_] Я говорю о том, что Ирма никакой не боец.. Она старалась казаться очень сильной, но в итоге вся эта борьба ей осточертела"
@@ -330,7 +330,7 @@ msgstr "[_cedrick_] Ce que je veux dire, c'est qu'Irma n'est pas une battante. E
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:148 #-#-# translate crowdin crush_irma_and_taranee_f7d2657f:
 msgid "[_tarani_] Э-это ложь.. Уууух.. Черт, хватит так грубо долбить меня, чертов змей! Я никогда не приму то, что Ирма сдалась.."
-msgstr "[_Taranee_] C'est un mensonge... Oooh... Putain, arrête de me frapper si fort, espèce de serpent ! Je n'accepterai jamais qu'Irma ait abandonné..."
+msgstr "[_tarani_] C'est un mensonge... Oooh... Putain, arrête de me frapper si fort, espèce de serpent ! Je n'accepterai jamais qu'Irma ait abandonné..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:150 #-#-# translate crowdin crush_irma_and_taranee_915e83a1:
 msgid "[_cedrick_] Ууух, можешь думать что хочешь, но это так.. Она выбрала самый безопасный путь для себя и сохранения своей безопасности"
@@ -342,7 +342,7 @@ msgstr "[_irma_] C'est vrai, Taranee. Il ne m'a pas forcé, c'est juste... C'est
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:155 #-#-# translate crowdin crush_irma_and_taranee_78b84f1b:
 msgid "[_tarani_] И-ирма.. Ааах, ч-черт, как грубо.. Мммв.."
-msgstr "[_Taranee_] I-irma... Aaah, w-damn, quelle grossièreté... Mmm..."
+msgstr "[_tarani_] I-irma... Aaah, w-damn, quelle grossièreté... Mmm..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:157 #-#-# translate crowdin crush_irma_and_taranee_ffd922af:
 msgid "[_cedrick_] А ты хорошо ее держишь, Ирма, у нее и вправду не получается вырваться"
@@ -354,7 +354,7 @@ msgstr "[_irma_] Tu m'as demandé de le tenir serré, c'est ce que je fais."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:160 #-#-# translate crowdin crush_irma_and_taranee_5f08f6a8:
 msgid "[_tarani_] Ч-чееерт.. Ааах.. Аааааах..."
-msgstr "[_Taranee_] Ch-chairt... Aaah... Aaahhhh..."
+msgstr "[_tarani_] Ch-chairt... Aaah... Aaahhhh..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:161 #-#-# translate crowdin crush_irma_and_taranee_ae15d951:
 msgid "[_cedrick_] Ахаха, Тарани! Да ты та еще извращенка, сама во всю сопротивляешься, но при этом твоя киска все сильнее сжимает меня"
@@ -366,7 +366,7 @@ msgstr "[_cedrick_] Je ne pourrais probablement pas me retirer même si je le vo
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:166 #-#-# translate crowdin crush_irma_and_taranee_9d8500dc:
 msgid "[_tarani_] Аааахх.. П-пошел ты.. Это просто естественная реакция организма.."
-msgstr "[_Taranee_] Aaahhhh... Va te faire foutre. C'est juste la réaction naturelle du corps..."
+msgstr "[_tarani_] Aaahhhh... Va te faire foutre. C'est juste la réaction naturelle du corps..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:167 #-#-# translate crowdin crush_irma_and_taranee_20abd6e4:
 msgid "[_cedrick_] О, уж я то знаю.. И это точно не естественная реакция, это реакция долбаной извращенки"
@@ -374,7 +374,7 @@ msgstr "[_cedrick_] Oh, je sais. Et ce n'est certainement pas une réaction natu
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:169 #-#-# translate crowdin crush_irma_and_taranee_f8c8d5f0:
 msgid "[_tarani_] Ммммв.. Ч-черт, я кончаю.. Н-нет.. Аааааах.."
-msgstr "[_Taranee_] Mmmm... Merde, je viens... N-non... Aaahhhh..."
+msgstr "[_tarani_] Mmmm... Merde, je viens... N-non... Aaahhhh..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:172 #-#-# translate crowdin crush_irma_and_taranee_15b21867:
 msgid "[_cedrick_] Ууух, т-ты так сжимаешь меня, что я уже и сам не могу сдержаться.. К-кончаю"
@@ -402,7 +402,7 @@ msgstr "[_will_] Rick... C'est vrai ? Es-tu Cedric ?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:194 #-#-# translate crowdin crush_irma_and_taranee_b22180a1:
 msgid "[_tarani_] В-вилл, давай! Наподдай ему, ты наша последняя надежда!"
-msgstr "[_Taranee_] V-ville, allez ! Donne-le lui, tu es notre dernier espoir !"
+msgstr "[_tarani_] V-ville, allez ! Donne-le lui, tu es notre dernier espoir !"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:195 #-#-# translate crowdin crush_irma_and_taranee_ee352811:
 msgid "[_cedrick_] (Черт, меня зажали в угол.. Тут уже никак не отвертишься, и никакая магия не поможет..)"
@@ -462,7 +462,7 @@ msgstr "[_will_] ........."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:220 #-#-# translate crowdin crush_irma_and_taranee_7025b4a2:
 msgid "[_tarani_] Вилл, ну же, давай!"
-msgstr "[_Taranee_] Will, allez, allez !"
+msgstr "[_tarani_] Will, allez, allez !"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:222 #-#-# translate crowdin crush_irma_and_taranee_b29a3134:
 msgid "[_will_] ............"
@@ -474,7 +474,7 @@ msgstr "[_will_] N-non... Je... Je ne peux pas..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:229 #-#-# translate crowdin crush_irma_and_taranee_541ea7a9:
 msgid "[_tarani_] Ч-что!?"
-msgstr "[_Taranee_] Qu... quoi ?"
+msgstr "[_tarani_] Qu... quoi ?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:230 #-#-# translate crowdin crush_irma_and_taranee_49316299_1:
 msgid "[_cedrick_] ..."
@@ -510,7 +510,7 @@ msgstr "[_will_] Nous nous occuperons de tout le reste plus tard... Prends-moi e
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:246 #-#-# translate crowdin crush_irma_and_taranee_b8bc7fbd:
 msgid "[_tarani_] Вилл.. Нет.. Только не ты.."
-msgstr "[_Taranee_] Will... Non... Pas toi..."
+msgstr "[_tarani_] Will... Non... Pas toi..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:247 #-#-# translate crowdin crush_irma_and_taranee_f89f7db9:
 msgid "[_cedrick_] ....."
@@ -931,7 +931,4 @@ msgstr "[_cedrick_] ..."
 # game/scripts/quests/crushingOfIrmaAndTaranee/crush_irma_and_taranee.rpy:465 #-#-# translate crowdin crush_irma_and_taranee_bcd124bf_3:
 msgid "[_will_] ..."
 msgstr "[_will_] ..."
-
-msgid "Бланк"
-msgstr "Blunk"
 
