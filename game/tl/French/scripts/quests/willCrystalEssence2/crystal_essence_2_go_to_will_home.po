@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:20\n"
+"PO-Revision-Date: 2023-11-11 10:19\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:3 #-#-# translate crowdin crystal_essence_2_go_to_will_home_8f648b59:
 msgid "[_centered_] {size=37}В ДОМЕ СЕМЕЙСТВА ВЭНДОМ{/size}"
@@ -475,7 +475,4 @@ msgstr "[_susan_] Mmm, je pense que vous serez capable de choisir quelque chose 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:191 #-#-# translate crowdin crystal_essence_2_go_to_will_home_bdb859a5:
 msgid "[_cedrick_] Хах, обязательно"
 msgstr "[_cedrick_] Huh, je le ferai."
-
-msgid "Бланк"
-msgstr "Blunk"
 
