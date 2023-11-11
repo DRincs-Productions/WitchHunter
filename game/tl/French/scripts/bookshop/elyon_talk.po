@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:27\n"
+"PO-Revision-Date: 2023-11-11 09:13\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/elyon_talk.rpy:4 #-#-# translate crowdin d_elion_talk1_aaae6c1f:
 msgid "[_cedrick_sprite_] Элион"
@@ -115,7 +115,4 @@ msgstr "[_cedrick_] Quoi que tu dises, sache que si tu veux parler de quelque ch
 # game/scripts/bookshop/elyon_talk.rpy:80 #-#-# translate crowdin d_elyon_after_loss_parents_648cd8c0:
 msgid "[_elion_] спасибо рик"
 msgstr "[_elion_] Merci, Rick."
-
-msgid "Бланк"
-msgstr "Blunk"
 
