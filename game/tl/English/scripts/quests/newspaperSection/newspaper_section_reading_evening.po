@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 15:57\n"
+"PO-Revision-Date: 2023-11-11 09:41\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:6 #-#-# translate crowdin newspaper_section_reading_evening_f58b35e9:
 msgid "[_bess_] Мистер Хоффман... Наконец, вы решили нас навестить?"
@@ -654,8 +654,5 @@ msgstr ""
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:395 #-#-# translate crowdin newspaper_section_reading_evening_d6c4b376:
 msgid "[_martin_] Спасибо, Профессор!"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
