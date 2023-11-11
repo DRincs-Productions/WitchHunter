@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 16:04\n"
+"PO-Revision-Date: 2023-11-11 09:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/badMark.rpy:9 #-#-# translate crowdin badMark_d859416a:
 msgid "Начало урока."
@@ -46,8 +46,5 @@ msgstr ""
 
 # game/scripts/quests/tarani/badMark.rpy:24 #-#-# translate crowdin badMark_399cecd4:
 msgid "[_cedrick_] На этом наш урок окончен. Не забудьте сделать домашнее задание к завтрашнему дню."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
