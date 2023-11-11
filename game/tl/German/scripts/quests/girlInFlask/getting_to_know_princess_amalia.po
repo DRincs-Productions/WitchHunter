@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:50\n"
+"PO-Revision-Date: 2023-11-11 09:35\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/girlInFlask/getting_to_know_princess_amalia.rpy:3 #-#-# translate crowdin getting_to_know_princess_amalia_719fe2c6:
 msgid "[_amalia_] Вы не видели девушку-Кра?"
@@ -142,8 +142,5 @@ msgstr ""
 
 # game/scripts/quests/girlInFlask/getting_to_know_princess_amalia.rpy:85 #-#-# translate crowdin getting_to_know_princess_amalia_fb22e231:
 msgid "[_cedrick_] (Теперь стоит наведаться к Миранде)"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
