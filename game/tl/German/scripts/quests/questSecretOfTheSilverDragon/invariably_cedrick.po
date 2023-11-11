@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 16:01\n"
+"PO-Revision-Date: 2023-11-11 09:45\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:2 #-#-# translate crowdin invariably_cedrick_1_63272ad7:
 msgid "[_cedrick_] Добрый вечер. У вас заказан столик?"
@@ -258,8 +258,5 @@ msgstr ""
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:120 #-#-# translate crowdin proverka_haaylin_vibro_64b31956:
 msgid "[_haylin_] Р-рик, что ты наделал.."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
