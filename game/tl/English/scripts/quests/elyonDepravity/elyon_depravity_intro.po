@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 15:47\n"
+"PO-Revision-Date: 2023-11-11 09:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:4 #-#-# translate crowdin elyon_depravity_intro_f8d988aa:
 msgid "[_cedrick_] (Что ж, думаю, настало время для развращения нашей дорогой Элион. После всего, что произошло, она попросту не сможет мне отказать)"
@@ -58,8 +58,5 @@ msgstr ""
 
 # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:25 #-#-# translate crowdin elyon_depravity_intro_7b3847cf:
 msgid "[_Somka108_] {size=16}Теперь вы можете делать различные вещи с Элион через кнопку действия, данные действия будут повышать развратность. Реакция Элион на просьбы будет изменяться в зависимости от количество развратности. Прохождение данных действий необходимо для продолжение сюжета игры, каждое из, действий нужно пройти несколько раз{/size}"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
