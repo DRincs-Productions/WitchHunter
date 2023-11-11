@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:46\n"
+"PO-Revision-Date: 2023-11-11 09:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:4 #-#-# translate crowdin ask_elyon_remove_dust_0268f40c:
 msgid "[_cedrick_] Элион, можешь подойти на Минутку?"
@@ -107,7 +107,4 @@ msgstr "[_cedrick_] (Uff, per poco non mi beccano...)"
 # game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:64 #-#-# translate crowdin ask_elyon_remove_dust_942bf6ee:
 msgid "[_cedrick_] (Нужно будет написать этому мелкому паршивцу и разобраться с ним прежде чем он не стал большей помехой)"
 msgstr "[_cedrick_] (Dovremo scrivere a quel piccolo bastardo e occuparci di lui prima che diventi un fastidio maggiore)."
-
-msgid "Бланк"
-msgstr "Blunk"
 
