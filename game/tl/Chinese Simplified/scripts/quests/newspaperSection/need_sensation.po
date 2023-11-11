@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 15:57\n"
+"PO-Revision-Date: 2023-11-11 09:40\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/need_sensation.rpy:6 #-#-# translate crowdin need_sensation_3a6e34d5:
 msgid "[_bess_] А давайте напишем про, то что директриса завела роман с одним из учеников!"
@@ -654,8 +654,5 @@ msgstr ""
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:442 #-#-# translate crowdin need_sensation_a20cefa7_13:
 msgid "..."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
