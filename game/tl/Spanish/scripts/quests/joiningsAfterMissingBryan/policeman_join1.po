@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:55\n"
+"PO-Revision-Date: 2023-11-11 09:39\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:10 #-#-# translate crowdin policeman_join1_baeae049:
 msgid "[_tomlair_] Добрый вечер."
@@ -119,7 +119,4 @@ msgstr "[_cedrick_sprite_] Le deseo suerte."
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:54 #-#-# translate crowdin policeman_join1_99534c08:
 msgid "[_cedrick_sprite_] (Кажется, что он меня подозревает.. Нужно быть осторожнее.. Если он снова начнет выяснять о пропаже владельца возможно придется от него избавится...)"
 msgstr "[_cedrick_sprite_] (Parece que sospecha de mí... Tengo que tener cuidado... Si empieza a averiguar otra vez lo del dueño desaparecido, puede que tenga que deshacerme de él...)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
