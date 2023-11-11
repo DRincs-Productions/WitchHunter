@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:26\n"
+"PO-Revision-Date: 2023-11-11 10:15\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:7 #-#-# translate crowdin giveLarvekFangGetDragonNostril_780643a3:
 msgid "[_miranda_] Ты принес Клык Лаврека?"
@@ -159,7 +159,4 @@ msgstr "[_cedrick_] (Beh, ho leccato Miranda… e me ne sono andato insoddisfatt
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:95 #-#-# translate crowdin giveLarvekFangGetDragonNostril_47d4b5d9:
 msgid "[_miranda_] В таком случае рекомендую тебе заняться ее поисками"
 msgstr "[_miranda_] In questo caso, vi raccomando di cercarla"
-
-msgid "Бланк"
-msgstr "Blunk"
 
