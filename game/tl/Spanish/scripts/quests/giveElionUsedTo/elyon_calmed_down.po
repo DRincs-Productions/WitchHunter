@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:50\n"
+"PO-Revision-Date: 2023-11-11 09:35\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giveElionUsedTo/elyon_calmed_down.rpy:5 #-#-# translate crowdin elyon_calmed_down_8ef3f6b1:
 msgid "[_cedrick_] (Что ж, самое время заняться понижением репутации Элион. Но как это сделать.. Может слить ее интимные фото?)"
@@ -27,7 +27,4 @@ msgstr "[_cedrick_] (¿Quizá usar una poción de afrodisiaca con ella en la esc
 # game/scripts/quests/giveElionUsedTo/elyon_calmed_down.rpy:8 #-#-# translate crowdin elyon_calmed_down_55ac00da:
 msgid "[_cedrick_] (Да, в целом, это может сработать. Если ее застукают за мастурбацией в школе, слухи распустятся сами собой.. Надо обратиться за помощью к Миранде)"
 msgstr "[_cedrick_] (Sí, en general, podría funcionar. Si la pillan masturbándose la escuela, los rumores se extenderán solos... Debería conseguir la ayuda de Miranda)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
