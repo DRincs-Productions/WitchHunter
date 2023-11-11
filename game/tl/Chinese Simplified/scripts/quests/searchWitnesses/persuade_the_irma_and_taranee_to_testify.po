@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 16:03\n"
+"PO-Revision-Date: 2023-11-11 09:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:5 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_6bff2d15:
 msgid "[_cedrick_] Ну как вы тут, девочки? Смотрю отдельные спальные номера вам еще не выделили. Да, с бюджетом у нас нынче туго"
@@ -214,8 +214,5 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:138 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_f61aa893:
 msgid "[_cedrick_] (Сестры Грампер, вот кто мне нужен. Я должен отправиться в школу)"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
