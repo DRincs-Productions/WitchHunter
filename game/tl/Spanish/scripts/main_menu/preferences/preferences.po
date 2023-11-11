@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:41\n"
+"PO-Revision-Date: 2023-11-11 09:25\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/main_menu/preferences/preferences.rpy:7
 msgid "Русский"
@@ -111,7 +111,4 @@ msgstr "Velocidad del texto"
 # game/scripts/main_menu/preferences/preferences.rpy:280
 msgid "Время автоматического пропуска"
 msgstr "Tiempo de salto automático"
-
-msgid "Бланк"
-msgstr "Blunk"
 
