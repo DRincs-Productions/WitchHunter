@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:34\n"
+"PO-Revision-Date: 2023-11-11 09:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestGiveElyonUsedTo.rpy:4
 msgid "Дать Элион время свыкнуться с произошедшим"
@@ -19,7 +19,4 @@ msgstr "Donnez à Elion le temps d'accepter ce qui s'est passé."
 # game/scripts/core/quests/QuestGiveElyonUsedTo.rpy:11
 msgid "Поднять Элион настроение, дарив подарки"
 msgstr "Remonter le moral d'Elion en lui offrant des cadeaux"
-
-msgid "Бланк"
-msgstr "Blunk"
 
