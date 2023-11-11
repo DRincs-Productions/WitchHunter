@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:25\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:5 #-#-# translate crowdin getting_to_know_elyons_parents_ffa6edae:
 msgid "[_elion_] ..Рик, есть минутка?"
@@ -323,7 +323,4 @@ msgstr "[_cedrick_] (Anche se bisogna fare attenzione a Thomas. Non credo che so
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:167 #-#-# translate crowdin getting_to_know_elyons_parents_8c192c6d:
 msgid "[_cedrick_] (В первую очередь нужно завоевать их доверие, потом разберусь, что с ними делать дальше...)"
 msgstr "[_cedrick_] (Prima devo conquistare la loro fiducia, poi deciderò cosa fare con loro...)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
