@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 16:03\n"
+"PO-Revision-Date: 2023-11-11 09:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:6 #-#-# translate crowdin persuade_the_cornelia_to_testify_299f9a94:
 msgid "[_cornelia_] Снова ты, змей? Я как раз думала, когда ты снова зайдешь. В темнице довольно скучно, знаешь ли"
@@ -78,8 +78,5 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:56 #-#-# translate crowdin persuade_the_cornelia_to_testify_4e4d355b:
 msgid "[_cedrick_] (Так, Корнелия есть. Остались двое. Тарани и Ирма. С Ирмой не должно быть проблем, но вот Тарани..)"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
