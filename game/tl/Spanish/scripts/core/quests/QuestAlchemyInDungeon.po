@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:32\n"
+"PO-Revision-Date: 2023-11-11 09:18\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestAlchemyInDungeon.rpy:3
 msgid "Алхими в темнице"
@@ -31,7 +31,4 @@ msgstr "Haz que Alchemy se quite la ropa"
 # game/scripts/core/quests/QuestAlchemyInDungeon.rpy:15
 msgid "Развлечься с Алхими"
 msgstr "Diviértete con Alchemy"
-
-msgid "Бланк"
-msgstr "Blunk"
 
