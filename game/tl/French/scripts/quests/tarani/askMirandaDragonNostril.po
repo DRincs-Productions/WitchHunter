@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:04\n"
+"PO-Revision-Date: 2023-11-11 10:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:11 #-#-# translate crowdin askMirandaDragonNostril_c8d2151d:
 msgid "[_cedrick_] Миранда.. Ты случайно не знаешь… Где можно достать Ноздрю Дракона?..."
@@ -43,7 +43,4 @@ msgstr "[_miranda_] Je ne vous donnerai la narine du dragon que si vous me procu
 # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:36 #-#-# translate crowdin askMirandaDragonNostril_cf79059c:
 msgid "[_cedrick_] Что ж.. Договорились."
 msgstr "[_cedrick_] Eh bien... C'est un marché."
-
-msgid "Бланк"
-msgstr "Blunk"
 
