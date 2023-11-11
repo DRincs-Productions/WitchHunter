@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 20:38\n"
+"PO-Revision-Date: 2023-11-11 09:12\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/label_first_meet.rpy:4 #-#-# translate crowdin first_meet_8bd86d07:
 msgid "[_cedrick_] Что-ж, пока никто сюда не явился, самое время начать изучать местные книги"
@@ -58,7 +58,7 @@ msgstr "[_cedrick_] Oh, maintenant c'est intéressant. Maintenant je comprends p
 
 # game/label_first_meet.rpy:29 #-#-# translate crowdin first_meet_6f6377bc:
 msgid "[_cedrick_] Фобос говорил, что эмоциональная нестабильность и подавленность влияют на использование магических сил. Значит, я могу использовать это на стражницах"
-msgstr "[_cedrick_] Phobos a dit que l'instabilité émotionnelle et la dépression affectent l'utilisation des pouvoirs magiques. Donc je peux l'utiliser sur les sentinelles"
+msgstr "[_cedrick_] Phobos a dit que l'instabilité émotionnelle et la dépression affectent l'utilisation des pouvoirs magiques. Donc je peux l'utiliser sur les gardiens"
 
 # game/label_first_meet.rpy:30 #-#-# translate crowdin first_meet_3afae274:
 msgid "[_cedrick_] Так-так-так, видим одним из самых сильных эмоциональных потрясений для здешних представительниц женского пола – это сексуальное домогательство и психологическое насилие"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:02\n"
+"PO-Revision-Date: 2023-11-11 09:37\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:11 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_0_4d328d30:
 msgid "[_haylin_] Ну и?"
@@ -142,7 +142,7 @@ msgstr "[_cedrick_] Dépêchez-vous avant que je ne change d'avis..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:108 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_0_42da0066:
 msgid "Хай Лин забирается под стол..."
-msgstr "Hai Lin rampe sous la table..."
+msgstr "Hay Lin rampe sous la table..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:113 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_0_283b6298:
 msgid "[_cedrick_] (О да... Я долго ждал этого...)"
@@ -154,7 +154,7 @@ msgstr "[_cedrick_] Tu vois, et tu étais inquiet... Je t'ai dit que personne ne
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:131 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_0_dfd6ea54:
 msgid "[_johnlin_] Ох, Рик! А я и не заметила как ты пришел... Не видел Хай Лин?"
-msgstr "[_johnlin_] Oh, Rick ! Je ne t'ai pas vu arriver... Tu n'as pas vu Hai Ling ?"
+msgstr "[_johnlin_] Oh, Rick ! Je ne t'ai pas vu arriver... Tu n'as pas vu Hay Lin ?"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:132 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_0_771ce3c0:
 msgid "[_cedrick_] Да, кажется она была где-то здесь..."
@@ -230,7 +230,7 @@ msgstr "..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:174 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_0_cf864fb6:
 msgid "Хай Лин незаметно вылезает из под стола"
-msgstr "Hai Lin sort furtivement de sous la table."
+msgstr "Hay Lin sort furtivement de sous la table."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:179 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_0_c0a2a4f2:
 msgid "[_haylin_] Когда ты принесешь еще лекарства для бабушки?"

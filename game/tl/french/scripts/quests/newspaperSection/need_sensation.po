@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-22 15:29\n"
+"PO-Revision-Date: 2023-11-11 09:40\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/need_sensation.rpy:6 #-#-# translate crowdin need_sensation_3a6e34d5:
 msgid "[_bess_] А давайте напишем про, то что директриса завела роман с одним из учеников!"
@@ -334,7 +334,7 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:250 #-#-# translate crowdin need_sensation_5c3fb5d8:
 msgid "[_courtney_] А куда делись Ирма и Тарани?"
-msgstr "[_courtney_] Où sont passées Irma et Tarani ?"
+msgstr "[_courtney_] Où sont passées Irma et Taranee ?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:254 #-#-# translate crowdin need_sensation_721474a6:
 msgid "[_cedrick_] Оставайтесь здесь. Я попробую их найти и вернусь к вам."
@@ -398,7 +398,7 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:287 #-#-# translate crowdin need_sensation_92f4a757:
 msgid "[_irma_] Мне нужно найти Тарани..."
-msgstr "[_irma_] Je dois trouver Tarani..."
+msgstr "[_irma_] Je dois trouver Taranee..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:290 #-#-# translate crowdin need_sensation_49846a9f:
 msgid "Ирма убегает"
@@ -634,7 +634,7 @@ msgstr "[_cedrick_] Dis-moi demain, maintenant rentre chez toi"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:431 #-#-# translate crowdin need_sensation_515d86dd:
 msgid "[_martin_] А как же Ирма с Тарани? Вы их нашли?"
-msgstr "[_martin_] Et Irma et Tarani ? Vous les avez trouvées ?"
+msgstr "[_martin_] Et Irma et Taranee ? Vous les avez trouvées ?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:435 #-#-# translate crowdin need_sensation_cf5dc892:
 msgid "[_cedrick_]  Они уже ушли ..."

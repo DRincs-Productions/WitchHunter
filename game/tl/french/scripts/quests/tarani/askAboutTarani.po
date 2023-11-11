@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:12\n"
+"PO-Revision-Date: 2023-11-11 10:13\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/askAboutTarani.rpy:8 #-#-# translate crowdin askAboutTarani_ad7961fb:
 msgid "[_bess_] А, это опять ты... Мы же сказали только для членов клуба..."
@@ -34,11 +34,11 @@ msgstr "[_cedrick_] Et j'ai décidé qu'un club de journalisme scolaire aussi me
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:13 #-#-# translate crowdin askAboutTarani_96257d06:
 msgid "[_cedrick_] Что вы знаете об ученице по имени Тарани Кук?"
-msgstr "[_cedrick_] Que savez-vous d'un étudiant appelé Tarani Cook ?"
+msgstr "[_cedrick_] Que savez-vous d'un étudiant appelé Taranee Cook ?"
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:14 #-#-# translate crowdin askAboutTarani_1004b869:
 msgid "[_bess_] Тарани?"
-msgstr "[_bess_] Tarani ?"
+msgstr "[_bess_] Taranee ?"
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:15 #-#-# translate crowdin askAboutTarani_67cb21a1:
 msgid "[_courtney_] Та зубрилка..."

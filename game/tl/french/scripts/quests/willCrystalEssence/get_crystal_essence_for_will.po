@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:17\n"
+"PO-Revision-Date: 2023-11-11 10:19\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence/get_crystal_essence_for_will.rpy:7 #-#-# translate crowdin get_crystal_essence_for_will_825983c1:
 msgid "[_cedrick_] Хм, так, давай-ка еще раз. То есть, ты говоришь, что на стражницах зелье не сработает?"
-msgstr "[_cedrick_] Hum, alors, revoyons tout ça. Donc vous dites que la potion ne fonctionnera pas sur les gardes ?"
+msgstr "[_cedrick_] Hum, alors, revoyons tout ça. Donc vous dites que la potion ne fonctionnera pas sur les gardiens ?"
 
 # game/scripts/quests/willCrystalEssence/get_crystal_essence_for_will.rpy:11 #-#-# translate crowdin get_crystal_essence_for_will_c3b3df82:
 msgid "[_miranda_] Это ты так это воспринял.. Я сказала, что им не снесет крышу так же сильно, как Алхими"

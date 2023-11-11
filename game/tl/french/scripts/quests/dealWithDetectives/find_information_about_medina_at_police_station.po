@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-22 15:29\n"
+"PO-Revision-Date: 2023-11-11 09:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:6 #-#-# translate crowdin find_information_about_medina_at_police_station_64ccdda3:
 msgid "[_cedrick_] (Есть. Детектив Медина.. Ого, на нее здесь целый архив — это как раз то, что мне нужно)"
@@ -110,7 +110,7 @@ msgstr "[_cedrick_] (Whoa, le dossier personnel de Gordon ?)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:44 #-#-# translate crowdin find_information_about_medina_at_police_station_0373e8e4:
 msgid "[_cedrick_] (С-стоп.. Это что, мать Тарани на фото? Она же, вроде как, главный судья в этом городе..)"
-msgstr "[_cedrick_] (S-stop... Est-ce la mère de Tarani sur la photo ? Je veux dire, elle est, comme, le chef de la justice dans cette ville ...)"
+msgstr "[_cedrick_] (S-stop... Est-ce la mère de Taranee sur la photo ? Je veux dire, elle est, comme, le chef de la justice dans cette ville ...)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:48 #-#-# translate crowdin find_information_about_medina_at_police_station_a20cefa7:
 msgid "..."
@@ -126,7 +126,7 @@ msgstr "[_cedrick_] (Mince, cette juge a des squelettes dans sa garde-robe. Au m
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:56 #-#-# translate crowdin find_information_about_medina_at_police_station_277eb69d:
 msgid "[_cedrick_] (Интересно, кто сосет лучше мама Вилл, мама Хай Лин или же мама Тарани? Возможно, мне еще удастся проверить. Но я здесь не за этим. Дела прежде всего)"
-msgstr "[_cedrick_] (Je me demande qui suce le mieux Mama Will, Mama Hi Lin ou Mama Tarani ? J'aurai peut-être l'occasion de vérifier. Mais ce n'est pas pour ça que je suis là. Les affaires d'abord)"
+msgstr "[_cedrick_] (Je me demande qui suce le mieux Mama Will, Mama Hay Lin ou Mama Taranee ? J'aurai peut-être l'occasion de vérifier. Mais ce n'est pas pour ça que je suis là. Les affaires d'abord)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:57 #-#-# translate crowdin find_information_about_medina_at_police_station_d42ae797:
 msgid "[_cedrick_] (Думаю мне это тоже пригодится, сохраню себе на телефон. Я бы еще покопался в его папках, уверен там много интересного, но я уже играюсь с огнем, пора уходить)"

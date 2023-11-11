@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:12\n"
+"PO-Revision-Date: 2023-11-11 10:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:10 #-#-# translate crowdin askBlankAboutSpyingOnNigel_1913d733:
 msgid "[_cedrick_sprite_] У меня опять к тебе дело, челядь!"
@@ -22,7 +22,7 @@ msgstr "[_cedrick_sprite_] Tu connais un gars du coin qui s'appelle Nigel Ashcro
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:12 #-#-# translate crowdin askBlankAboutSpyingOnNigel_233e2839:
 msgid "[_blankChar_] Бланк знает! Он видеть!"
-msgstr "[_blankChar_] Blank sait ! Il voit !"
+msgstr "[_blankChar_] Blunk sait ! Il voit !"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:13 #-#-# translate crowdin askBlankAboutSpyingOnNigel_4a4e8c2d:
 msgid "[_cedrick_sprite_] Мне нужно, чтобы ты проследил за ним и фотографировал все подозрительное!"
@@ -42,7 +42,7 @@ msgstr "[_cedrick_] Je vais vous donner un appareil photo pour cette affaire."
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:17 #-#-# translate crowdin askBlankAboutSpyingOnNigel_4eb7c59a:
 msgid "[_blankChar_] Бланк хотеть за это награду!"
-msgstr "[_blankChar_] Le formulaire veut une récompense pour cela !"
+msgstr "[_blankChar_] Blunk veut une récompense pour cela !"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:18 #-#-# translate crowdin askBlankAboutSpyingOnNigel_5c051e39:
 msgid "[_cedrick_sprite_] Чего ты хочешь?"
@@ -50,7 +50,7 @@ msgstr "[_cedrick_sprite_] Que voulez-vous ?"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:19 #-#-# translate crowdin askBlankAboutSpyingOnNigel_2de0d10e:
 msgid "[_blankChar_] Бланку нужна ноздря дракона!"
-msgstr "[_blankChar_] Blank a besoin d'une narine de dragon !"
+msgstr "[_blankChar_] Blunk a besoin d'une narine de dragon !"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:20 #-#-# translate crowdin askBlankAboutSpyingOnNigel_0726e0c7:
 msgid "[_cedrick_sprite_] Ноздря… Дракона?? Зачем она тебе и где я ее достану!? Ты сдурел?"
@@ -58,7 +58,7 @@ msgstr "[_cedrick_sprite_] Nostril… Dragon ?? Pourquoi en avez-vous besoin et 
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:21 #-#-# translate crowdin askBlankAboutSpyingOnNigel_b3c58e7b:
 msgid "[_blankChar_] Это забота не Бланка! Принеси ноздрю дракона и Бланк сделает то, что ты просишь!"
-msgstr "[_blankChar_] Ce n'est pas le problème de Blank ! Apporte la narine du dragon et Blank fera ce que tu demandes !"
+msgstr "[_blankChar_] Ce n'est pas le problème de Blunk ! Apporte la narine du dragon et Blunk fera ce que tu demandes !"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:23 #-#-# translate crowdin askBlankAboutSpyingOnNigel_a20cefa7:
 msgid "..."

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:09\n"
+"PO-Revision-Date: 2023-11-11 09:44\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:4 #-#-# translate crowdin conversation_with_guards_edb4f255:
 msgid "[_cedrick_] Дальше я сам, Булдж, спасибо. Как закончу я тебя вызову"
@@ -102,7 +102,7 @@ msgstr "[_cedrick_] (Qui devrait être le prochain à annoncer sa note ?)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:66 #-#-# translate crowdin dialog_captive_tarani_d63c9b96:
 msgid "[_cedrick_] Говоря о тебе, Тарани"
-msgstr "[_cedrick_] En parlant de vous, Tarani."
+msgstr "[_cedrick_] En parlant de vous, Taranee."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:68 #-#-# translate crowdin dialog_captive_tarani_c2f6b408:
 msgid "[_tarani_] А что я.. Меня на твоем гребаном суде не было.."
@@ -118,7 +118,7 @@ msgstr "[_tarani_] Quelle connerie !"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:74 #-#-# translate crowdin dialog_captive_tarani_515e6dd5:
 msgid "[_cedrick_] Нам с тобой предстоит особая работа, Тарани. Из всех учениц ты пока что самая проблематичная"
-msgstr "[_cedrick_] Toi et moi avons un travail spécial à faire, Tarani. De tous les élèves, tu as été le plus problématique jusqu'à présent."
+msgstr "[_cedrick_] Toi et moi avons un travail spécial à faire, Taranee. De tous les élèves, tu as été le plus problématique jusqu'à présent."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:76 #-#-# translate crowdin dialog_captive_tarani_6556101b:
 msgid "[_tarani_] Как будто меня парит твое мнение, придурок.."
@@ -314,7 +314,7 @@ msgstr "[_bulj_] D'accord, et les potions qui restaurent la puissance magique. J
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:188 #-#-# translate crowdin itog_grade_4d27d41e:
 msgid "[_cedrick_] Отлично. Как раз успею закончить кое-какие дела на Земле и привести сюда Хай Лин"
-msgstr "[_cedrick_] Oh, super. Juste à temps pour finir quelques affaires sur Terre et faire venir Hai Ling."
+msgstr "[_cedrick_] Oh, super. Juste à temps pour finir quelques affaires sur Terre et faire venir Hay Lin."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:189 #-#-# translate crowdin itog_grade_c910ecfb:
 msgid "[_cedrick_] Присмотри пока за стражницами. Никто не должен знать, что они здесь"
@@ -370,7 +370,7 @@ msgstr "[_cedrick_] (Je ne sais pas ce que Will prépare, mais je ne l'approuve 
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:224 #-#-# translate crowdin itog_grade_6d4ec389:
 msgid "[_cedrick_] (Пожалуй из этого выйдет отличная показательная сцена для Ирмы и Тарани. Пусть в очередной раз убедятся, как низко пала их предводительница)"
-msgstr "[_cedrick_] (Je pense que cela ferait une excellente scène de démonstration pour Irma et Tarani. Qu'ils voient une fois de plus à quel point leur chef est tombé bas)."
+msgstr "[_cedrick_] (Je pense que cela ferait une excellente scène de démonstration pour Irma et Taranee. Qu'ils voient une fois de plus à quel point leur chef est tombé bas)."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:225 #-#-# translate crowdin itog_grade_acbdfb07:
 msgid "[_cedrick_] Вы с Ирмой пока останьтесь здесь"
@@ -722,7 +722,7 @@ msgstr "[_cedrick_] Continuez à faire du bon travail"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:400 #-#-# translate crowdin accept_her_offer_f6479420:
 msgid "[_cedrick_] (Это должно быть хорошим примером для Ирмы и Тарани. Интересно, как они воспримут такой мой шаг)"
-msgstr "[_cedrick_] (Cela devrait être un bon exemple pour Irma et Tarani. Je me demande comment ils percevront un tel geste de ma part)"
+msgstr "[_cedrick_] (Cela devrait être un bon exemple pour Irma et Taranee. Je me demande comment ils percevront un tel geste de ma part)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:401 #-#-# translate crowdin accept_her_offer_fd011589:
 msgid "[_cedrick_] (Пожалуй, сейчас и стоит проверить)"
@@ -734,7 +734,7 @@ msgstr "[_cedrick_] (Will n'aura pas ce qu'il veut et même s'il me fait jouir, 
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:403 #-#-# translate crowdin accept_her_offer_6aa6e85e:
 msgid "[_cedrick_] (Таким будет наказание для Вилл и проверка реакции Тарани и Ирмы)"
-msgstr "[_cedrick_] (Ce sera la punition de Will et un test pour les réactions de Tarani et d'Irma)."
+msgstr "[_cedrick_] (Ce sera la punition de Will et un test pour les réactions de Taranee et d'Irma)."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:404 #-#-# translate crowdin accept_her_offer_50b14c0f:
 msgid "[_will_] Ммммввв.. Правда мои губы очень мягкие?"
@@ -770,7 +770,7 @@ msgstr "[_will_] Qu... quoi ?"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:414 #-#-# translate crowdin accept_her_offer_4fbf68eb:
 msgid "[_cedrick_] (И так, кто же это будет? Тарани или Ирма)"
-msgstr "[_cedrick_] (Alors, qui sera Tarani ou Irma)"
+msgstr "[_cedrick_] (Alors, qui sera Taranee ou Irma)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:425 #-#-# translate crowdin cumshot_to_irma_efbdf396:
 msgid "[_cedrick_] И-ирма, приготовься принять на себя результат трудов Вилл"
@@ -846,7 +846,7 @@ msgstr "[_will_] D'abord Cornelia et maintenant Irma."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:455 #-#-# translate crowdin cumshot_to_tarani_07da8738:
 msgid "[_cedrick_] Т-тарани, сейчас ты получишь свою порцию спермы..."
-msgstr "[_cedrick_] T-tarani, tu es sur le point d'obtenir ton cum...."
+msgstr "[_cedrick_] T-Taranee, tu es sur le point d'obtenir ton cum...."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:456 #-#-# translate crowdin cumshot_to_tarani_44645d7c:
 msgid "[_will_] Ч-что!? Н-нет..."
@@ -866,7 +866,7 @@ msgstr "[_tarani_] Pourquoi diable pointes-tu ta bite vers moi ? J'ai failli l'a
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:467 #-#-# translate crowdin cumshot_to_tarani_88d844ee:
 msgid "[_cedrick_] А тебя никто не спрашивает, Тарани. Делай что говорят, иначе твое наказание будет еще жестче"
-msgstr "[_cedrick_] Et personne ne te le demande, Tarani. Fais ce qu'on te dit, ou ta punition sera encore plus sévère."
+msgstr "[_cedrick_] Et personne ne te le demande, Taranee. Fais ce qu'on te dit, ou ta punition sera encore plus sévère."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:469 #-#-# translate crowdin cumshot_to_tarani_81d83f93:
 msgid "[_tarani_] Пф, думаешь мне не плевать? Что еще такого ты не делал с моим телом?"
@@ -906,7 +906,7 @@ msgstr "[_tarani_] (Je pense que je supporterais mieux la bite de Cédric...)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:481 #-#-# translate crowdin cumshot_to_tarani_8f5fe4c1:
 msgid "[_will_] Л-ладно Корнелия, но вот Тарани!! Она же постоянно ведет себя как сучка.."
-msgstr "[_will_] Cornelia va bien, mais Taranis ! Elle se comporte toujours comme une garce."
+msgstr "[_will_] Cornelia va bien, mais Taranees ! Elle se comporte toujours comme une garce."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:488 #-#-# translate crowdin end_conversation_with_guards_52b29d52:
 msgid "[_will_] Почему они забирают то, что должно было быть моим.."
@@ -946,7 +946,7 @@ msgstr "[_cedrick_] (Je pense que je vais en acheter un pour vérifier)."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:509 #-#-# translate crowdin epilog_538cfbb3:
 msgid "[_cedrick_] (Сейчас мне особое внимание стоит уделить Хай Лин, давно я с ней не работал)"
-msgstr "[_cedrick_] (Je devrais accorder une attention particulière à Hai Ling en ce moment, cela fait un moment que je n'ai pas travaillé avec elle)"
+msgstr "[_cedrick_] (Je devrais accorder une attention particulière à Hay Lin en ce moment, cela fait un moment que je n'ai pas travaillé avec elle)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:510 #-#-# translate crowdin epilog_964de117:
 msgid "[_cedrick_] (Но стоит начать не с нее, а с ее слабостей, чтобы у меня был козырь. Думаю пора навестить ее дорогую маму)"
@@ -970,5 +970,5 @@ msgstr "Éjaculation sur Irma"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:415
 msgid "Кончить на Тарани"
-msgstr "Cum on Tarani"
+msgstr "Jouir sur Taranee"
 

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 20:59\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/buyCat.rpy:6 #-#-# translate crowdin buyCat_42bc4d4f:
 msgid "[_cedrick_] Отдай кота"
@@ -54,7 +54,7 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/giftForLilian/buyCat.rpy:28 #-#-# translate crowdin buyCat_b6f23bd3:
 msgid "[_blank_] Прощай, полководец. Бланк не забудет твою эпическую схватку возле мусорных баков за кусок колбасы"
-msgstr "[_blank_] Adieu, commandant. Blank n'oubliera pas votre combat épique dans les poubelles pour un morceau de saucisse"
+msgstr "[_blank_] Adieu, commandant. Blunk n'oubliera pas votre combat épique dans les poubelles pour un morceau de saucisse"
 
 # game/scripts/quests/giftForLilian/buyCat.rpy:29 #-#-# translate crowdin buyCat_13d306e4:
 msgid "[_cedrick_] И с кем успел подраться этот комок шерсти?"

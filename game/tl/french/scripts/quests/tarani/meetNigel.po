@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:14\n"
+"PO-Revision-Date: 2023-11-11 10:15\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/meetNigel.rpy:9 #-#-# translate crowdin meetNigel_f46288e5:
 msgid "[_cedrick_] Приветствую всех."
@@ -58,7 +58,7 @@ msgstr "..."
 
 # game/scripts/quests/tarani/meetNigel.rpy:32 #-#-# translate crowdin meetNigel_cdacb2eb:
 msgid "[_nigel_] Тарани, привет!"
-msgstr "[_nigel_] Tarani, salut !"
+msgstr "[_nigel_] Taranee, salut !"
 
 # game/scripts/quests/tarani/meetNigel.rpy:33 #-#-# translate crowdin meetNigel_f5deb182:
 msgid "[_nigel_] Пойдем вместе обедать?"
@@ -82,7 +82,7 @@ msgstr "[_cedrick_] (Hmmm, je n'ai donné à chacun qu'une soirée pour se prép
 
 # game/scripts/quests/tarani/meetNigel.rpy:42 #-#-# translate crowdin meetNigel_fc39600d:
 msgid "[_cedrick_] (но в отличии от остальных, Тарани единственная написала работу на отлично. Черт, эта стражница..)"
-msgstr "[_cedrick_] (Mais contrairement aux autres, Tarani était la seule à avoir écrit un devoir parfait. Mince, ce gardien...)"
+msgstr "[_cedrick_] (Mais contrairement aux autres, Taranee était la seule à avoir écrit un devoir parfait. Mince, ce gardien...)"
 
 # game/scripts/quests/tarani/meetNigel.rpy:43 #-#-# translate crowdin meetNigel_41d7b52e:
 msgid "[_cedrick_] (Почему эта девчонка вообще такая умная? С ней не пройдут мои обычные трюки, она раскусит меня в два счета)"

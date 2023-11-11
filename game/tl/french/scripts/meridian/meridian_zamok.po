@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-22 15:29\n"
+"PO-Revision-Date: 2023-11-11 09:27\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/meridian/meridian_zamok.rpy:22 #-#-# translate crowdin talk_with_prince_phobos_69113d3e:
 msgid "[_phobos_] Скажи мне, что Звезда Трибы нашла девчонку!"
@@ -38,7 +38,7 @@ msgstr "[_cedrick_] Encore une chose..."
 
 # game/scripts/meridian/meridian_zamok.rpy:46 #-#-# translate crowdin talk_with_prince_phobos_831e4b8a:
 msgid "[_cedrick_] Оказалось, что одна из подруг принцессы является Стражницей завесы"
-msgstr "[_cedrick_] Il s'avère que l'un des amis de la princesse est le Gardien du Rideau."
+msgstr "[_cedrick_] Il s'avère que l'un des amis de la princesse est gardien de Kandrakar"
 
 # game/scripts/meridian/meridian_zamok.rpy:55 #-#-# translate crowdin talk_with_prince_phobos_0c71bcfe:
 msgid "[_phobos_] Это может усложнить задачу. Помни, очень важно забрать силу принцессы, если я хочу сохранить власть."

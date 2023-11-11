@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 08:34\n"
+"PO-Revision-Date: 2023-11-11 09:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:3 #-#-# translate crowdin take_medina_home_74be0a74:
 msgid "[_centered_] {size=37}СЕДРИК ОТВОДИТ МЕДИНУ ДОМОЙ, В ВЫСОТКУ, В КОТОРОЙ ТАК ЖЕ ЖИВЕТ И КОРНЕЛИЯ{/size}"
@@ -138,7 +138,7 @@ msgstr "[_cedrick_] Exactement.."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:38 #-#-# translate crowdin take_medina_home_0d6faf1e:
 msgid "[_cedrick_] (Черт, все же нужно будет использовать их.. Но это не вписывается в мои планы по сокрушению Ирмы и Тарани)"
-msgstr "[_cedrick_] (Bon sang, nous allons devoir les utiliser après tout... Mais cela ne cadre pas avec mes plans pour écraser Irma et Tarani)"
+msgstr "[_cedrick_] (Bon sang, nous allons devoir les utiliser après tout... Mais cela ne cadre pas avec mes plans pour écraser Irma et Taranee)"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:39 #-#-# translate crowdin take_medina_home_9c36ac73:
 msgid "[_cedrick_] Слушай, Медина.. А ты не могла бы мне помочь?"
@@ -474,7 +474,7 @@ msgstr "[_elion_] D’accord.."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:198 #-#-# translate crowdin take_medina_home_f5c04d54:
 msgid "[_cedrick_] (Хм.. Медина устроит все через два дня.. За это время я должен расправиться с Ирмой и Тарани. Они явно будут мне мешать наладить контакт с Вилл..)"
-msgstr "[_cedrick_] (Hmm... Medina aura tout arrangé dans deux jours. Pendant ce temps, je dois m'occuper d'Irma et de Tarani. Elles vont évidemment m'empêcher d'entrer en contact avec Will...)"
+msgstr "[_cedrick_] (Hmm... Medina aura tout arrangé dans deux jours. Pendant ce temps, je dois m'occuper d'Irma et de Taranee. Elles vont évidemment m'empêcher d'entrer en contact avec Will...)"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:199 #-#-# translate crowdin take_medina_home_2792c972:
 msgid "[_cedrick_] (Я мог бы вновь попробовать справиться с ними и сам, но, хм.. Время полагаться только на себя прошло.. Стоит признать, что в этом бою мне не помешала бы помощь)"

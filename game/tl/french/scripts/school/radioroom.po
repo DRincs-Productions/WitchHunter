@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:18\n"
+"PO-Revision-Date: 2023-11-11 09:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/school/radioroom.rpy:27 #-#-# translate crowdin radioroom_c8f725d2:
 msgid "[_courtney_] Что ты здесь делаешь, эта комната только для персонала"
@@ -34,7 +34,7 @@ msgstr "Contenu en cours de développement"
 
 # §translate crowdin strings: #|#|# # game/scripts/school/radioroom.rpy:13
 msgid "Распросить о тарани"
-msgstr "Demande de renseignements sur Taranja"
+msgstr "Demande de renseignements sur Taranee"
 
 # game/scripts/school/radioroom.rpy:13
 msgid "Сенсация"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 20:45\n"
+"PO-Revision-Date: 2023-11-11 09:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestHayLin.rpy:3
 msgid "Стражница Воздуха"
@@ -38,7 +38,7 @@ msgstr "Aide au restaurant pour la famille de Lin. Troisième jour"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Прийти в ресторан и как следует развлечься с Хайлин"
-msgstr "Aller au restaurant et passer un bon moment avec Heylin"
+msgstr "Aller au restaurant et passer un bon moment avec Hay Lin"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Попросить Миранду приготовить лекарство для Ян Лин"
@@ -46,7 +46,7 @@ msgstr "Demandez à Miranda de préparer un remède pour Yang Lin."
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Отдать лекарство для Ян Лин, Хай Лин"
-msgstr "Donnez le médicament à Yang Lin, Hai Ling."
+msgstr "Donnez le médicament à Hay Lin"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Наполнить волшебный сосуд в замке князя фобоса"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-22 15:29\n"
+"PO-Revision-Date: 2023-11-11 09:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:4 #-#-# translate crowdin elyon_quarreled_with_her_parents_9522b460:
 msgid "[_cedrick_] Элион, что ты здесь делаешь? Уже довольно поздно..."
@@ -134,7 +134,7 @@ msgstr "[_cedrick_] (Je ne pense pas que je vais leur montrer mon visage à nouv
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:67 #-#-# translate crowdin elyon_quarreled_with_her_parents_78308d23:
 msgid "[_centered_] {size=37}СЕДРИК ВЛАМЫВАЕТСЯ В ДОМ{/size}"
-msgstr "[_centered_] {size=37}SEDRICKS INTO THE HOUSE{/size}"
+msgstr "[_centered_] {size=37}DANS LA MAISON DE CEDRIC{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:71 #-#-# translate crowdin elyon_quarreled_with_her_parents_a20cefa7:
 msgid "..."

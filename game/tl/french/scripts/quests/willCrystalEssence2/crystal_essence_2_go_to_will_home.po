@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-22 15:30\n"
+"PO-Revision-Date: 2023-11-11 10:19\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:3 #-#-# translate crowdin crystal_essence_2_go_to_will_home_8f648b59:
 msgid "[_centered_] {size=37}В ДОМЕ СЕМЕЙСТВА ВЭНДОМ{/size}"
@@ -318,7 +318,7 @@ msgstr "[_will_] ...Quoi ? Baiser dans la cuisine comme des animaux ?"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:128 #-#-# translate crowdin crystal_essence_2_go_to_will_home_c4707b76:
 msgid "[_susan_] Вилл!? Следи за языком"
-msgstr "[_susan_] Will ! Surveillez votre bouche !"
+msgstr "[_susan_] Will ! Surveillez votre langue"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:130 #-#-# translate crowdin crystal_essence_2_go_to_will_home_5c5d9205:
 msgid "[_cedrick_] Ну, у животных обычно не бывает кухни"
@@ -338,7 +338,7 @@ msgstr "[_will_] Est-ce que tu as la moindre idée de combien c'est égoïste ? 
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:138 #-#-# translate crowdin crystal_essence_2_go_to_will_home_7276caea:
 msgid "[_susan_] В-вилл.."
-msgstr "[_susan_] V-ville..."
+msgstr "[_susan_] W-will.."
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:139 #-#-# translate crowdin crystal_essence_2_go_to_will_home_6aeb0e35:
 msgid "[_cedrick_] (О, она уже во время кино нас застукала.. Это многое объясняет)"

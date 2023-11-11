@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:10\n"
+"PO-Revision-Date: 2023-11-11 09:45\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:2 #-#-# translate crowdin invariably_cedrick_1_63272ad7:
 msgid "[_cedrick_] Добрый вечер. У вас заказан столик?"
@@ -102,7 +102,7 @@ msgstr "[_haylin_] (Mmmff. Qu'est-ce qu'il se passe ici. Client émeutier...)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:34 #-#-# translate crowdin invariably_cedrick_4_cc2e9b4d:
 msgid "[_cedrick_] (Думаю это надолго. Хай Лин, придется потерпеть..)"
-msgstr "[_cedrick_] (Je pense que cela va prendre beaucoup de temps. Hi Lin, nous devrons être patients...)."
+msgstr "[_cedrick_] (Je pense que cela va prendre beaucoup de temps. Hay Lin, nous devrons être patients...)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:43 #-#-# translate crowdin invariably_cedrick_4_ade8cdbc:
 msgid "[_cedrick_] Никак нет, можете сами посмотреть. Вы уверены, что заказывали столик именно в этом ресторане?"

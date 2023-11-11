@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:14\n"
+"PO-Revision-Date: 2023-11-11 10:16\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:8 #-#-# translate crowdin taraniDidNotComeAgain1_a4164703:
 msgid "[_cedrick_] Добрый день, ученики!"
@@ -22,7 +22,7 @@ msgstr "[_cedrick_] Tout le monde est là aujourd'hui ?"
 
 # game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:10 #-#-# translate crowdin taraniDidNotComeAgain1_ee968481:
 msgid "[_haylin_] Тарани нет!"
-msgstr "[_haylin_] Pas de tarani !"
+msgstr "[_haylin_] Pas de Taranee !"
 
 # game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:11 #-#-# translate crowdin taraniDidNotComeAgain1_033dec81:
 msgid "[_cedrick_] Никто не знает что с ней?"
@@ -38,7 +38,7 @@ msgstr "[_cedrick_] Je vois... Eh bien, continuons avec la leçon..."
 
 # game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:15 #-#-# translate crowdin taraniDidNotComeAgain1_b8144a93:
 msgid "[_cedrick_] (Хм, Тарани сегодня нет на уроке. Как и на прошлом... Такая зубрила не могла пропустить урок без причины)"
-msgstr "[_cedrick_] (Um, Tarani n'est pas en classe aujourd'hui. Elle n'était pas non plus en cours la dernière fois... Une telle bachoteuse ne pourrait pas manquer la classe sans raison)"
+msgstr "[_cedrick_] (Um, Taranee n'est pas en classe aujourd'hui. Elle n'était pas non plus en cours la dernière fois... Une telle bachoteuse ne pourrait pas manquer la classe sans raison)"
 
 # game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:16 #-#-# translate crowdin taraniDidNotComeAgain1_faa1176a:
 msgid "[_cedrick_] (Может, за этим скрывается то, что мне нужно. Надо разузнать в клубе журналистики, как я понял, они здесь собирают все школьные сплетни)"

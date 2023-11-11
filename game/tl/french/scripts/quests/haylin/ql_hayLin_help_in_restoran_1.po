@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:03\n"
+"PO-Revision-Date: 2023-11-11 09:38\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:6 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_d6feab25:
 msgid "[_haylin_] Эй, Рик! Пришел помочь?"
@@ -66,5 +66,5 @@ msgstr "[_cedrick_] Oui, en quelque sorte..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_1.rpy:50 #-#-# translate crowdin ql_hayLin_help_in_restoran_1_f7f35501:
 msgid "Седрик работает в ресторане Серебряный дракон. Не все идет так гладко, как хотелось бы, но Хай Лин благодарна за вашу помощь…"
-msgstr "Cedric travaille au restaurant Silver Dragon. Les choses ne se passent pas aussi bien que nous le voudrions, mais Hai Lin vous est reconnaissant de votre aide.…"
+msgstr "Cedric travaille au restaurant Silver Dragon. Les choses ne se passent pas aussi bien que nous le voudrions, mais Hay Lin vous est reconnaissant de votre aide.…"
 

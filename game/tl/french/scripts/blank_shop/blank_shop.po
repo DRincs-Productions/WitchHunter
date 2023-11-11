@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-01 16:54\n"
+"PO-Revision-Date: 2023-11-11 09:13\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/blank_shop/blank_shop.rpy:63 #-#-# translate crowdin blank_shop_menu_1f3a1671:
 msgid "[_cedrick_sprite_] Интересно, в твоей семье все притворяются слабоумными?"
@@ -22,7 +22,7 @@ msgstr "[_blankChar_] Blunk ne fait pas semblant. Blunk est mentalement retardé
 
 # §translate crowdin strings: #|#|# # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Попросить бланка найти билеты на концерт"
-msgstr "Demandez le formulaire pour trouver des billets de concert"
+msgstr "Demander à Blunk pour trouver des billets de concert"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Напомни, что тебе нужно в обмен на билеты"
@@ -30,7 +30,7 @@ msgstr "Rappelle-moi ce dont tu as besoin en échange des billets."
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Отдать бланку футболку"
-msgstr "Donnez un T-shirt au formulaire"
+msgstr "Donnez un T-shirt au Blunk"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Забрать билеты для концерта"

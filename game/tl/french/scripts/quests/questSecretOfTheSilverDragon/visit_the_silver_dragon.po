@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 10:14\n"
+"PO-Revision-Date: 2023-11-11 09:45\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:4 #-#-# translate crowdin visit_the_silver_dragon_ada0e601:
 msgid "[_haylin_] Р-рик!? Что ты.."
@@ -42,7 +42,7 @@ msgstr "[_haylin_] ..."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:22 #-#-# translate crowdin visit_the_silver_dragon_72358297:
 msgid "[_centered_] {size=37}В КОМНАТЕ ХАЙ ЛИН{/size} [withDissolve1]"
-msgstr "[_centered_] {size=37} DANS LA SALLE Hai Ling{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37} DANS LA CHAMBRE DE HAY LIN{/size} [withDissolve1]"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:26 #-#-# translate crowdin visit_the_silver_dragon_cf555ccd:
 msgid "[_haylin_] И что на этот раз ты собрался со мной делать.."
@@ -58,7 +58,7 @@ msgstr "[_haylin_] Et deuxièmement."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:38 #-#-# translate crowdin visit_the_silver_dragon_c93d80e0:
 msgid "[_cedrick_] Ирма и Тарани ведь просили твоей помощи, когда планировали напасть на меня?"
-msgstr "[_cedrick_] Irma et Tarani ont demandé votre aide lorsqu'ils voulaient m'attaquer, n'est-ce pas ?"
+msgstr "[_cedrick_] Irma et Taranee ont demandé votre aide lorsqu'ils voulaient m'attaquer, n'est-ce pas ?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:42 #-#-# translate crowdin visit_the_silver_dragon_8d1c0a42:
 msgid "[_haylin_] Да, они приходили.."
@@ -114,7 +114,7 @@ msgstr "[_haylin_] Assez de mots, vous ne faites que profiter de moi."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:85 #-#-# translate crowdin visit_the_silver_dragon_5abadbb5:
 msgid "[_cedrick_] Все так. А еще, теперь Ирма и Тарани заточены в темнице замка Фобоса. Как и Вилл"
-msgstr "[_cedrick_] C'est vrai. Irma et Tarani sont maintenant emprisonnés dans le donjon du château de Phobos. Tout comme Will."
+msgstr "[_cedrick_] C'est vrai. Irma et Taranee sont maintenant emprisonnés dans le donjon du château de Phobos. Tout comme Will."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:89 #-#-# translate crowdin visit_the_silver_dragon_62590884:
 msgid "[_haylin_] Ч-что.. Н-нет.."
@@ -130,7 +130,7 @@ msgstr "[_haylin_] ..."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:95 #-#-# translate crowdin visit_the_silver_dragon_2a4021d4:
 msgid "[_cedrick_] Но ты не помогла им. Потому что семья важнее. Хорошая девочка, Хай Лин"
-msgstr "[_cedrick_] Mais vous ne les avez pas aidés. Parce que la famille est plus importante. Bonne fille, Hai Ling"
+msgstr "[_cedrick_] Mais vous ne les avez pas aidés. Parce que la famille est plus importante. Bonne fille, Hay Lin"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:99 #-#-# translate crowdin visit_the_silver_dragon_1af5fb72:
 msgid "[_haylin_] Я.."
@@ -202,7 +202,7 @@ msgstr "[_haylin_] Très bien, amenez-la ici."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:153 #-#-# translate crowdin visit_the_silver_dragon_4cfc95ba:
 msgid "[_centered_] {size=37}Хай Лин вставляет виброяйцо{/size} [withDissolve1]"
-msgstr "[_centered_] {size=37}Hai Ling insère un œuf vibrant{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Hay Lin insère un œuf vibrant{/size} [withDissolve1]"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:155 #-#-# translate crowdin visit_the_silver_dragon_4b5b9ed1:
 msgid "[_haylin_] Уххх.. Чувствую, как оно меня заполняет.."
@@ -298,7 +298,7 @@ msgstr "[_cedrick_] Bonjour, Madame Joan, Monsieur Chen."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:252 #-#-# translate crowdin visit_the_silver_dragon_5eeebcad:
 msgid "[_johnlin_] Хай Лин, ты сегодня рано"
-msgstr "[_johnlin_] Hai Lin, tu es en avance aujourd'hui."
+msgstr "[_johnlin_] Hay Lin, tu es en avance aujourd'hui."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:261 #-#-# translate crowdin visit_the_silver_dragon_eb283bd1:
 msgid "[_haylin_] Д-да, я пораньше освободилась со школы сегодня.."
@@ -342,7 +342,7 @@ msgstr "[_cedrick_] Quoi qu'il en soit, Joan"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:334 #-#-# translate crowdin visit_the_silver_dragon_f4666174:
 msgid "[_johnlin_] Хай Лин, ты пока принимаешь заказы. Я буду относить еду гостям. Чен, ты на кухне"
-msgstr "[_johnlin_] Hai Ling, tu prends les commandes pour l'instant. Je vais porter la nourriture aux invités. Chen, tu es dans la cuisine"
+msgstr "[_johnlin_] Hay Lin, tu prends les commandes pour l'instant. Je vais porter la nourriture aux invités. Chen, tu es dans la cuisine"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:343 #-#-# translate crowdin visit_the_silver_dragon_02b8b7df:
 msgid "[_chenlin_] Хорошо, дорогая"
@@ -362,7 +362,7 @@ msgstr "[_cedrick_] (Si Joan s'en aperçoit, je ne pense pas qu'il y aura beauco
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:355 #-#-# translate crowdin minigame_3_c179811b:
 msgid "[_cedrick_] (Я должен слегка развратить Хай Лин перед финальным ужином, но нужно знать меру)"
-msgstr "[_cedrick_] (Je dois corrompre Hai Ling un peu avant le dîner final, mais il faut connaître la mesure)."
+msgstr "[_cedrick_] (Je dois corrompre Hay Lin un peu avant le dîner final, mais il faut connaître la mesure)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:359 #-#-# translate crowdin minigame_3_d077a124:
 msgid "[_haylin_] Добрый день, что будете заказывать?"
@@ -538,7 +538,7 @@ msgstr "[_cedrick_] Oui, je l'espère aussi."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:468 #-#-# translate crowdin minigame_3_1cbb1bc3:
 msgid "[_chenlin_] Кхм.. эм.. Давай днем Хай Лин подменит тебя за прилавком. А ты поможешь мне на кухне. Х-хорошо?"
-msgstr "[_chenlin_] Ahem. Erm. Pourquoi ne laisseriez-vous pas Hai Ling vous remplacer au comptoir cet après-midi. Et vous pourrez m'aider dans la cuisine. D'accord ?"
+msgstr "[_chenlin_] Ahem. Erm. Pourquoi ne laisseriez-vous pas Hay Lin vous remplacer au comptoir cet après-midi. Et vous pourrez m'aider dans la cuisine. D'accord ?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:472 #-#-# translate crowdin minigame_3_ff17d692:
 msgid "[_cedrick_] Да, почему бы и нет. С ножами я тоже умею обращаться"
@@ -570,7 +570,7 @@ msgstr "[_chenlin_] (Plus j'en apprends sur ce Rick, plus il semble dangereux. P
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:497 #-#-# translate crowdin minigame_3_1084a21c:
 msgid "[_chenlin_] (Надеюсь моя Хай Лин не будет водиться с подобными парнями..)"
-msgstr "[_chenlin_] (J'espère que ma Hai Ling ne sera pas mêlée à des types comme ça...)."
+msgstr "[_chenlin_] (J'espère que ma Hay Lin ne sera pas mêlée à des types comme ça...)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:498 #-#-# translate crowdin minigame_3_8afc36ea:
 msgid "[_chenlin_] (Хотя, если ее вкус к парням такой же, как у ее матери в том же возрасте.. Боже, боюсь даже представить..)"
@@ -582,7 +582,7 @@ msgstr "[_chenlin_] (Calme-toi, Chen, ne pense pas à ça.... Va à la cuisine e
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:503 #-#-# translate crowdin minigame_3_d21974df:
 msgid "[_centered_] {size=37}Днем Хай Лин встает за кассу, Рик готовит на кухне{/size} [withDissolve1]"
-msgstr "[_centered_] {size=37}Hi Lin se tient derrière la caisse l'après-midi, Rick cuisine{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Hay Lin se tient derrière la caisse l'après-midi, Rick cuisine{/size} [withDissolve1]"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:508 #-#-# translate crowdin minigame_3_97d78f4b:
 msgid "[_haylin_] Добрый день! У вас забронирован столик?"
@@ -838,7 +838,7 @@ msgstr "[_haylin_] (Et c'est ainsi que je devrai passer la journée... Oh, mon D
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:620 #-#-# translate crowdin minigame_3_78ec18f0:
 msgid "[_centered_] {size=37}Хай Лин простояла за прилавком до второй половины дня{/size} [withDissolve1]"
-msgstr "[_centered_] {size=37}Hai Ling est restée derrière le comptoir jusqu'à l'après-midi{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Hay Lin est restée derrière le comptoir jusqu'à l'après-midi{/size} [withDissolve1]"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:624 #-#-# translate crowdin minigame_3_3debc480:
 msgid "[_haylin_] М-мам, можешь меня подменить.. Я, кхм, мне что-то стало тяжеловато стоять за кассой.."
@@ -878,7 +878,7 @@ msgstr "[_chenlin_] Il faisait tout avec un hachoir de chef, Joan. Je lui ai dit
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:665 #-#-# translate crowdin minigame_3_36e12531:
 msgid "[_johnlin_] Я рада, что ты так высоко ценишь работу Рика на кухне, дорогой, но ему нужно заменить Хай Лин за прилавком, ей нездоровится"
-msgstr "[_johnlin_] Je suis ravie que tu apprécies tant le travail de Rick dans la cuisine, mais il doit remplacer Hai Lin derrière le comptoir, elle ne se sent pas bien."
+msgstr "[_johnlin_] Je suis ravie que tu apprécies tant le travail de Rick dans la cuisine, mais il doit remplacer Hay Lin derrière le comptoir, elle ne se sent pas bien."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:666 #-#-# translate crowdin minigame_3_315cc156:
 msgid "[_chenlin_] (Джоан не видела того, что видел я..)"
@@ -918,7 +918,7 @@ msgstr "[_haylin_] X-good."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:704 #-#-# translate crowdin minigame_3_4f80ba82:
 msgid "[_centered_] {size=37}Вечером Рик стоит за прилавком с Хай Лин{/size} [withDissolve1]"
-msgstr "[_centered_] {size=37}Le soir, Rick se tient derrière le comptoir avec Hai Ling{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Le soir, Rick se tient derrière le comptoir avec Hay Lin{/size} [withDissolve1]"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:714 #-#-# translate crowdin minigame_3_0169f066:
 msgid "[_haylin_] (Ааххх.. Т-так и знала, что если у прилавка будет Рик, то все станет только хуже..)"
@@ -1090,7 +1090,7 @@ msgstr "[_haylin_] Non, non, non, non, non, non."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:819 #-#-# translate crowdin minigame_3_1b5131a0:
 msgid "[_cedrick_] Хах, я скорее беспокоюсь за Хай Лин. Она же у нас скромница, сами знаете.."
-msgstr "[_cedrick_] Huh, je suis plus inquiet pour Hai Ling. Elle est un peu modeste, tu sais."
+msgstr "[_cedrick_] Huh, je suis plus inquiet pour Hay Lin. Elle est un peu modeste, tu sais."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:821 #-#-# translate crowdin minigame_3_7cace218:
 msgid "[_chenlin_] Т-так, я.. кхм.. я протестую.. Моя дочь слишком юна чтобы, эм.. чтобы встречаться с вами!"
@@ -1106,7 +1106,7 @@ msgstr "[_chenlin_] А.. Euh, oui."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:827 #-#-# translate crowdin minigame_3_8c7f4411:
 msgid "[_johnlin_] Хай Лин уже давно не маленькая и сама решает, с кем встречаться а с кем нет"
-msgstr "[_johnlin_] Hai Ling n'est plus une petite fille et décide qui elle veut fréquenter et qui elle ne veut pas."
+msgstr "[_johnlin_] Hay Lin n'est plus une petite fille et décide qui elle veut fréquenter et qui elle ne veut pas."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:829 #-#-# translate crowdin minigame_3_87c5dd71:
 msgid "[_haylin_] ..."
@@ -1138,7 +1138,7 @@ msgstr "[_johnlin_] Sans parler de l'âge que tu avais quand nous avons commenc�
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:840 #-#-# translate crowdin minigame_3_a6100df7:
 msgid "[_johnlin_] Если я правильно понимаю, между тобой и мной разница в возрасте даже больше, чем между Хай Лин и Риком"
-msgstr "[_johnlin_] Si je comprends bien, il y a encore plus de différence d'âge entre vous et moi qu'entre Hai Ling et Rick"
+msgstr "[_johnlin_] Si je comprends bien, il y a encore plus de différence d'âge entre vous et moi qu'entre Hay Lin et Rick"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:842 #-#-# translate crowdin minigame_3_567bdd5c:
 msgid "[_chenlin_] Н-нет, это другое.. Джоан, тогда были совсем другие времена.. Другие нравы.."
@@ -1162,7 +1162,7 @@ msgstr "[_chenlin_] Non, Joan, maintenant que tu as commencé, vas-y et finis l'
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:851 #-#-# translate crowdin minigame_3_f9008c15:
 msgid "[_cedrick_] (Ого, его это явно задело за живое.. Возможно за этим конфликтом скрывается нечто большее, чем наши с Хай Лин так называемые отношения)"
-msgstr "[_cedrick_] (Wow, il est visiblement blessé par ça... Peut-être qu'il y a plus dans ce conflit que ma soi-disant relation avec Hai Ling)."
+msgstr "[_cedrick_] (Wow, il est visiblement blessé par ça... Peut-être qu'il y a plus dans ce conflit que ma soi-disant relation avec Hay Lin)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:853 #-#-# translate crowdin minigame_3_431ec325:
 msgid "[_haylin_] М-мам, пап, я.."
@@ -1174,7 +1174,7 @@ msgstr "[_haylin_] JE... Aaahhhh. Ahem."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:861 #-#-# translate crowdin minigame_3_a5bd5dba:
 msgid "[_chenlin_] Х-хай Лин, все впорядке?"
-msgstr "[_chenlin_] H-hai Lin, tout va bien ?"
+msgstr "[_chenlin_] H-Hay Lin, tout va bien ?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:863 #-#-# translate crowdin minigame_3_c483dd21:
 msgid "[_haylin_] (Ч-черт, Рик.. П-пытается меня заткнуть.. А я только расслабилась..)"
@@ -1266,7 +1266,7 @@ msgstr "[_chenlin_] (Je ne veux pas que ma fille fréquente un tel homme. Après
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:902 #-#-# translate crowdin minigame_3_8a304010:
 msgid "[_chenlin_] (Но.. Возможно Хай Лин счастлива с ним.. Я давно ее такой не видел.. Прямо на месте усидеть не может, щеки красные..)"
-msgstr "[_chenlin_] (Mais... Hai Ling est probablement heureuse avec lui. Je ne l'ai pas vue comme ça depuis longtemps. Elle ne peut pas rester assise, ses joues sont rouges...)"
+msgstr "[_chenlin_] (Mais... Hay Lin est probablement heureuse avec lui. Je ne l'ai pas vue comme ça depuis longtemps. Elle ne peut pas rester assise, ses joues sont rouges...)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:903 #-#-# translate crowdin minigame_3_52e32b52:
 msgid "[_chenlin_] (Мда.. Она и вправду пошла в мать.. Та тоже по молодости западала на таких вот плохих парней..)"
@@ -1278,7 +1278,7 @@ msgstr "[_chenlin_] (Merde...)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:907 #-#-# translate crowdin minigame_3_760030a9:
 msgid "[_chenlin_] Хай Лин.. Как ответственный отец, который любит свою дочь, я обязан принять твой выбор"
-msgstr "[_chenlin_] Hai Ling... En tant que père responsable qui aime sa fille, je suis obligé d'accepter ton choix."
+msgstr "[_chenlin_] Hay Lin... En tant que père responsable qui aime sa fille, je suis obligé d'accepter ton choix."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:909 #-#-# translate crowdin minigame_3_417c1430:
 msgid "[_chenlin_] Если так ты будешь счастлива.. Я.. Я не против"
@@ -1290,7 +1290,7 @@ msgstr "[_haylin_] P-papa, je..."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:912 #-#-# translate crowdin minigame_3_49784d8f:
 msgid "[_cedrick_] (Отлично. Самое время для финального аккорда в этой похоронной для семейной жизни Хай Лин мелодии)"
-msgstr "[_cedrick_] (Génial. Il est temps de passer au dernier accord de cet air funèbre pour la vie de famille de Hai Ling)"
+msgstr "[_cedrick_] (Génial. Il est temps de passer au dernier accord de cet air funèbre pour la vie de famille de Hay Lin)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:917 #-#-# translate crowdin minigame_3_a20cefa7:
 msgid "..."
@@ -1302,7 +1302,7 @@ msgstr "Le son d'un message entrant sur votre téléphone"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:922 #-#-# translate crowdin minigame_3_230803b4:
 msgid "[_chenlin_] М? Хай Лин, по моему это твой телефон"
-msgstr "[_chenlin_] М ? Hai Ling, je pense que c'est ton téléphone."
+msgstr "[_chenlin_] М ? Hay Lin, je pense que c'est ton téléphone."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:924 #-#-# translate crowdin minigame_3_db38acf7:
 msgid "[_haylin_] Д-да, это мой.. я посмотрю что там.."
@@ -1398,7 +1398,7 @@ msgstr "[_cedrick_] (Mais quand vous avez quelque chose à perdre... Quand vos b
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:958 #-#-# translate crowdin minigame_3_05f1c90e:
 msgid "[_cedrick_] (Вот тогда приходит отчаяние.. И сейчас Хай Лин накрывает именно оно..)"
-msgstr "[_cedrick_] (C'est alors que le désespoir s'installe, et c'est ce que ressent Hai Ling en ce moment)."
+msgstr "[_cedrick_] (C'est alors que le désespoir s'installe, et c'est ce que ressent Hay Lin en ce moment)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:959 #-#-# translate crowdin minigame_3_a523b9b7:
 msgid "[_cedrick_] (Мда.. Из всех стражниц она самая безобидная, не хотел я для нее такой судьбы)"
@@ -1410,7 +1410,7 @@ msgstr "[_cedrick_] (Si cela ne tenait qu'à moi, je lui aurais dit que je ne d�
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:961 #-#-# translate crowdin minigame_3_96ca7b7e:
 msgid "[_cedrick_] (Но.. тогда я не добьюсь желаемого.. Поэтому, прости, Хай Лин..)"
-msgstr "[_cedrick_] (Mais... je n'obtiendrai pas ce que je veux... Alors, je suis désolée, Hai Ling...)."
+msgstr "[_cedrick_] (Mais... je n'obtiendrai pas ce que je veux... Alors, je suis désolée, Hay Lin...)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:962 #-#-# translate crowdin minigame_3_fe83084b:
 msgid "[_cedrick_] (Я развею твое отчаянье.. Но позже.. Когда ты встанешь на мою сторону..)"
@@ -1418,7 +1418,7 @@ msgstr "[_cedrick_] (Je dissiperai ton désespoir, mais plus tard, quand tu sera
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:967 #-#-# translate crowdin minigame_3_9b87d99c:
 msgid "[_chenlin_] Хай Лин, все хорошо?"
-msgstr "[_chenlin_] Hai Ling, tout va bien ?"
+msgstr "[_chenlin_] Hay Lin, tout va bien ?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:969 #-#-# translate crowdin minigame_3_6ceb6f11:
 msgid "[_haylin_] Д-да.."
@@ -1450,7 +1450,7 @@ msgstr "[_johnlin_] Heureux que tout soit rentré dans l'ordre"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:981 #-#-# translate crowdin minigame_3_c2e3d896:
 msgid "[_johnlin_] И мы правда рады вашим отношениям с Хай Лин, Рик"
-msgstr "[_johnlin_] Et nous sommes très heureux de votre relation avec Hai Ling, Rick."
+msgstr "[_johnlin_] Et nous sommes très heureux de votre relation avec Hay Lin, Rick."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:982 #-#-# translate crowdin minigame_3_69cf9cf6:
 msgid "[_cedrick_] Ох, вы даже не представляете, как я рад, Джоан"
@@ -1630,7 +1630,7 @@ msgstr "[_johnlin_] De plus, je veux en profiter tant que je le peux."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1102 #-#-# translate crowdin minigame_3_1344d068:
 msgid "[_johnlin_] Думаю чем серьезнее будут ваши с Хай Лин отношения, тем меньше у нас будет возможности заниматься подобным"
-msgstr "[_johnlin_] Je pense que plus vous et Hai Ling serez sérieux, moins nous pourrons faire ce genre de choses."
+msgstr "[_johnlin_] Je pense que plus vous et Hay Lin serez sérieux, moins nous pourrons faire ce genre de choses."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1106 #-#-# translate crowdin minigame_3_e620f099:
 msgid "[_cedrick_] Знаешь, я бы не.."

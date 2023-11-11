@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 08:34\n"
+"PO-Revision-Date: 2023-11-11 09:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:6 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_28eb040c:
 msgid "[_cedrick_] Миранда, за следующие два дня я планирую сокрушить Ирму и Тарани, но мне нужна твоя помощь. Хочешь матч-реванш?"
-msgstr "[_cedrick_] Miranda, dans les deux prochains jours, je compte écraser Irma et Tarani, mais j'ai besoin de ton aide. Vous voulez une revanche ?"
+msgstr "[_cedrick_] Miranda, dans les deux prochains jours, je compte écraser Irma et Taranee, mais j'ai besoin de ton aide. Vous voulez une revanche ?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:12 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_e0ea1ec7:
 msgid "[_miranda_] С этими мелкими стервами? Конечно!"
@@ -30,11 +30,11 @@ msgstr "[_cedrick_] Amenez-les dans la ruelle où nous nous sommes battus la der
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:18 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_42a885b3:
 msgid "[_cedrick_] Не вздумай сражаться с Тарани, она с легкостью сожжет твою паутину, для тебя это не лучший соперник"
-msgstr "[_cedrick_] N'osez pas combattre Tarani, elle brûlera facilement votre toile, ce n'est pas un bon parti pour vous."
+msgstr "[_cedrick_] N'osez pas combattre Taranee, elle brûlera facilement votre toile, ce n'est pas un bon parti pour vous."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:19 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_38c20cfd:
 msgid "[_cedrick_] Лучше сосредоточься на Ирме, с Тарани я разберусь"
-msgstr "[_cedrick_] Mieux vaut se concentrer sur Irma, je m'occupe de Tarani."
+msgstr "[_cedrick_] Mieux vaut se concentrer sur Irma, je m'occupe de Taranee."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:23 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_e1d2de82:
 msgid "[_miranda_] Я поняла тебя, Седрик. Последуем твоему плану. Не думал использовать твою способность на ком-то из них?"
@@ -58,11 +58,11 @@ msgstr "[_miranda_] N'oubliez pas que vous devez réfléchir clairement à ce qu
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:44 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_419b999e:
 msgid "[_cedrick_] Точно.. Хм.. Тарани более опасный противник, но выбрать придется Ирму"
-msgstr "[_cedrick_] Bien, hum... Hmm... Tarani est l'adversaire le plus dangereux, mais vous devrez choisir Irma."
+msgstr "[_cedrick_] Bien, hum... Hmm... Taranee est l'adversaire le plus dangereux, mais vous devrez choisir Irma."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:45 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_87fcd056:
 msgid "[_cedrick_] Тарани так и не поддалась мне, пока что она для меня не расколотый орешек, а вот слабые места Ирмы я знаю и примерно представляю, в чем ее можно убедить"
-msgstr "[_cedrick_] Tarani ne m'a jamais cédé, jusqu'à présent, elle n'est pas un casse-tête pour moi, mais je connais les faiblesses d'Irma et j'ai une idée approximative de ce qu'elle peut être persuadée de faire."
+msgstr "[_cedrick_] Taranee ne m'a jamais cédé, jusqu'à présent, elle n'est pas un casse-tête pour moi, mais je connais les faiblesses d'Irma et j'ai une idée approximative de ce qu'elle peut être persuadée de faire."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:49 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_f47caea5:
 msgid "[_miranda_] Хорошо, тогда я свяжу Ирму"
@@ -70,7 +70,7 @@ msgstr "[_miranda_] Très bien, alors, je vais lier Irma."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:53 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_72d08a74:
 msgid "[_cedrick_] А я сделаю так, чтобы Тарани не смогла нам помешать"
-msgstr "[_cedrick_] Et je vais m'assurer que Tarani ne puisse pas nous arrêter."
+msgstr "[_cedrick_] Et je vais m'assurer que Taranee ne puisse pas nous arrêter."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:57 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_eb1409b7:
 msgid "[_miranda_] Отлично"
@@ -78,7 +78,7 @@ msgstr "[_miranda_] Excellent"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:62 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_81723162:
 msgid "[_centered_] {size=37}МИРАНДА ДЕЛАЕТ ВСЕ ТАК, КАК СКАЗАЛ СЕДРИК. ИРМА И ТАРАНИ РАЗДЕЛЯЮТСЯ. ПОКА ИРМА СРАЖАЕТСЯ С МИРАНДОЙ, СЕДРИК СРАЖАЕТСЯ С ТАРАНИ{/size}"
-msgstr "[_centered_] {size=37}MIRANDA FAIT EXACTEMENT CE QUE CÉDRIC A DIT. L'IRMA ET LE TARANIS SONT SÉPARÉS. PENDANT QU'IRMA SE BAT CONTRE MIRANDA, CÉDRIC SE BAT CONTRE TARANIS.{/size}"
+msgstr "[_centered_] {size=37}MIRANDA FAIT EXACTEMENT CE QUE CÉDRIC A DIT. L'IRMA ET LE TaraneeS SONT SÉPARÉS. PENDANT QU'IRMA SE BAT CONTRE MIRANDA, CÉDRIC SE BAT CONTRE TaraneeS.{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:67 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_426314a4:
 msgid "[_tarani_] Чертов змей, как у тебя только смелости хватило вновь сюда явиться!? Мы уже думали, что ты сбежал на Меридиан поджав хвост"
@@ -94,7 +94,7 @@ msgstr "[_tarani_] Pfft... Tu penses que parce que tu as amené ta femme araign�
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:76 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_8ee80237:
 msgid "[_cedrick_] Ну давай проверим, Тарани"
-msgstr "[_cedrick_] Eh bien, allons voir ça, Tarani."
+msgstr "[_cedrick_] Eh bien, allons voir ça, Taranee."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:101 #-#-# translate crowdin cedrick_looses_to_taranee_348d58b1:
 msgid "[_tarani_] Я тебя поджарю, змееныш!"

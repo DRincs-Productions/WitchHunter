@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 21:16\n"
+"PO-Revision-Date: 2023-11-11 10:18\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_home4.rpy:7 #-#-# translate crowdin will_home4_208e43d0:
 msgid "[_cedrick_sprite_] Сьюзан, здравствуй, как ты?"
@@ -70,7 +70,7 @@ msgstr "[_susan_] Elle est dans sa chambre, entrez."
 
 # game/scripts/quests/will/will_home4.rpy:44 #-#-# translate crowdin will_home4_6751b843:
 msgid "*В комнате вилл*"
-msgstr "* Dans la chambre de la villa *"
+msgstr "* Dans la chambre de Will *"
 
 # game/scripts/quests/will/will_home4.rpy:48 #-#-# translate crowdin will_home4_cd7c6c01:
 msgid "[_cedrick_sprite_] Ну как, ты настроилась на учебу? "

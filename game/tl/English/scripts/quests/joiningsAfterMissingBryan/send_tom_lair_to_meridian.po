@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-09-19 21:04\n"
+"PO-Revision-Date: 2023-11-11 09:40\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/send_tom_lair_to_meridian.rpy:6 #-#-# translate crowdin send_tom_lair_to_meridian_0e1708c0:
 msgid "[_centered_] {size=37}Вы отправляете тома леира в качестве раба на подводную шахту и получаете за это 50 золотых монет{/size} [withDissolve1]"
