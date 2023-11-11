@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:52\n"
+"PO-Revision-Date: 2023-11-11 09:37\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:10 #-#-# translate crowdin getAgePotionForLilian_f55bb8cf:
 msgid "[_cedrick_] Я принес тебе цветок..."
@@ -46,8 +46,5 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:41 #-#-# translate crowdin getAgePotionForLilian_a4a8100a:
 msgid "[_cedrick_] Благодарю."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
