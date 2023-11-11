@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 16:11\n"
+"PO-Revision-Date: 2023-11-11 10:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_read_message_by_susan.rpy:16 #-#-# translate crowdin crystal_essence_2_read_message_by_susan_c29ee380:
 msgid "[_cedrick_] (Вот черт, теперь и за продуктами посылают как лакея. Так вот она какая эта семейная жизнь?)"
@@ -26,8 +26,5 @@ msgstr ""
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_read_message_by_susan.rpy:9
 msgid "<3 <3 <3"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
