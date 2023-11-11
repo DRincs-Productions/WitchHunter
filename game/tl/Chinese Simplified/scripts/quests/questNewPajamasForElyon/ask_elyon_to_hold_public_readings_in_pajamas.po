@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 16:00\n"
+"PO-Revision-Date: 2023-11-11 09:43\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_hold_public_readings_in_pajamas.rpy:3 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_pajamas_7b273e3d:
 msgid "[_cedrick_] Я уже предложил Элион провести вечер чтения в пижаме"
@@ -30,8 +30,5 @@ msgstr ""
 
 # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_hold_public_readings_in_pajamas.rpy:19
 msgid "У меня пока есть дела, подойду вечером в книжный магазин"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
