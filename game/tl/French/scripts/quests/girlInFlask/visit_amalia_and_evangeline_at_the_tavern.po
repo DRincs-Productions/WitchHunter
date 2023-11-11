@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:24\n"
+"PO-Revision-Date: 2023-11-11 08:50\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:4 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_bf69d8dd:
 msgid "Седрик подходит к двери комнаты и слышит разговор на повышенных тонах"
@@ -445,5 +445,5 @@ msgid "[_cedrick_] Хорошо. Вот ваша Капля, можете ухо
 msgstr "[_cedrick_] Très bien. Voici votre Blob, vous pouvez partir. Mais si vous revenez, j'aimerais vous voir."
 
 msgid "Бланк"
-msgstr "Formulaire"
+msgstr "Blunk"
 
