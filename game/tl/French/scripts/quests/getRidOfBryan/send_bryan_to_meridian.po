@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-11 08:50\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getRidOfBryan/send_bryan_to_meridian.rpy:2 #-#-# translate crowdin send_bryan_to_meridian_669e932f:
 msgid "Теперь нужно избавится от него."
@@ -23,7 +23,4 @@ msgstr "Je suppose qu'il pourrait être vendu avec profit comme esclave dans les
 # game/scripts/quests/getRidOfBryan/send_bryan_to_meridian.rpy:9 #-#-# translate crowdin send_bryan_to_meridian_c6ec21bf:
 msgid "[_centered_] {size=37}Вы продаете Брайана в качестве раба на угольные шахты. Парень довольно хиленький и при том вы его изрядно избили.. В связи с этим, вам удается выручить лишь 50 золотых.{/size} [withDissolve1]"
 msgstr "[_centered_] {size=37}Vous vendez Brian comme esclave dans les mines de charbon. Le garçon est plutôt frêle et vous le battez assez violemment. A cause de cela, vous ne parvenez qu'à obtenir 50 pièces d'or.{/size} [withDissolve1]"
-
-msgid "Бланк"
-msgstr "Blunk"
 
