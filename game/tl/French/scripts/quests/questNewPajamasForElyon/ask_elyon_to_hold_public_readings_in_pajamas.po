@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:59\n"
+"PO-Revision-Date: 2023-11-11 09:43\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_hold_public_readings_in_pajamas.rpy:3 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_pajamas_7b273e3d:
 msgid "[_cedrick_] Я уже предложил Элион провести вечер чтения в пижаме"
@@ -31,7 +31,4 @@ msgstr "OK, alors j'attendrai jusqu'au soir et nous commencerons."
 # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_hold_public_readings_in_pajamas.rpy:19
 msgid "У меня пока есть дела, подойду вечером в книжный магазин"
 msgstr "J'ai des choses à faire en attendant, je vais aller à la librairie ce soir."
-
-msgid "Бланк"
-msgstr "Blunk"
 
