@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:37\n"
+"PO-Revision-Date: 2023-11-11 09:22\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:5 #-#-# translate crowdin elyon_action_show_breast_root_1_52b54768:
 msgid "[_cedrick_] Отлично. Тогда, покажи мне свою грудь"
@@ -106,8 +106,5 @@ msgstr ""
 
 # game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:67 #-#-# translate crowdin elyon_action_show_breast_enough_1_ae587a8c:
 msgid "[_elion_] Д-до следующего раза, агам.."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
