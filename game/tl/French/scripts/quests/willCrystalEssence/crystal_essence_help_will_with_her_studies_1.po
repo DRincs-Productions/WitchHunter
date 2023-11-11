@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:25\n"
+"PO-Revision-Date: 2023-11-11 08:50\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_1.rpy:6 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_1_7db1050a:
 msgid "[_cedrick_] Сьюзан, привет, ну как ты?"
@@ -529,5 +529,5 @@ msgid "[_cedrick_] Доброй ночи, Сьюзан"
 msgstr "[_cedrick_] Bonne nuit, Susan."
 
 msgid "Бланк"
-msgstr "Formulaire"
+msgstr "Blunk"
 
