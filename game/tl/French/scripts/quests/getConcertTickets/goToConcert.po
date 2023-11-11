@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-11 08:50\n"
+"PO-Revision-Date: 2023-11-11 09:33\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/goToConcert.rpy:5 #-#-# translate crowdin goToConcert_a20cefa7:
 msgid "..."
@@ -255,7 +255,4 @@ msgstr "[_cedrick_] (Je ne savais même pas qu'elle avait un petit ami. Ça pour
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:129 #-#-# translate crowdin goToConcert_a20cefa7_10:
 msgid "..."
 msgstr "..."
-
-msgid "Бланк"
-msgstr "Blunk"
 
