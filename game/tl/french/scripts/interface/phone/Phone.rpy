@@ -72,7 +72,7 @@ translate french strings:
 
     # game/scripts/interface/phone/Phone.rpy:23
     old "Привет! Как насчет того, чтобы мой жезл любви вошел в твою шоколадную фабрику Вилли Вонки и тысячи Умпа-Лумпов ласкали его! А, сучка?)"
-    new "Hey ! Et si mon bâton d'amour allait dans votre usine de chocolat Willy Wonka et que des milliers d'Oompa-Loompas le caressaient ! Hein, salope ?)"
+    new "Hey ! Et si mon bâton d'amour allait dans votre usine de chocolat Will Wonka et que des milliers d'Oompa-Loompas le caressaient ! Hein, salope ?)"
 
     # game/scripts/interface/phone/Phone.rpy:23
     old "Хах, Кен… Ты такой извращенец)) Я сегодня допоздна на работе… давай в четверг)"

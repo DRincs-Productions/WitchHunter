@@ -148,7 +148,7 @@ translate french find_information_about_medina_at_police_station_c9a4dfd6:
 translate french find_information_about_medina_at_police_station_0373e8e4:
 
     # cedrick "(С-стоп.. Это что, мать Тарани на фото? Она же, вроде как, главный судья в этом городе..)"
-    cedrick "(S-stop... Est-ce la mère de Tarani sur la photo ? Je veux dire, elle est, comme, le chef de la justice dans cette ville ...)"
+    cedrick "(S-stop... Est-ce la mère de Taranee sur la photo ? Je veux dire, elle est, comme, le chef de la justice dans cette ville ...)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:48
 translate french find_information_about_medina_at_police_station_a20cefa7:
@@ -172,7 +172,7 @@ translate french find_information_about_medina_at_police_station_00a9375a:
 translate french find_information_about_medina_at_police_station_277eb69d:
 
     # cedrick "(Интересно, кто сосет лучше мама Вилл, мама Хай Лин или же мама Тарани? Возможно, мне еще удастся проверить. Но я здесь не за этим. Дела прежде всего)"
-    cedrick "(Je me demande qui suce le mieux Mama Will, Mama Hi Lin ou Mama Tarani ? J'aurai peut-être l'occasion de vérifier. Mais ce n'est pas pour ça que je suis là. Les affaires d'abord)"
+    cedrick "(Je me demande qui suce le mieux Mama Will, Mama Hay Lin ou Mama Taranee ? J'aurai peut-être l'occasion de vérifier. Mais ce n'est pas pour ça que je suis là. Les affaires d'abord)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:57
 translate french find_information_about_medina_at_police_station_d42ae797:

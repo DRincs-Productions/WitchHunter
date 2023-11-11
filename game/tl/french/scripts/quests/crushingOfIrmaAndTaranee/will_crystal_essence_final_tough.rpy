@@ -112,7 +112,7 @@ translate french will_crystal_essence_final_tough_75379283:
 translate french will_crystal_essence_final_tough_0d96e007:
 
     # centered "{size=37} НОЧЬЮ В КОМНАТЕ ВИЛЛ{/size}"
-    centered "{size=37} NUIT DANS LA CHAMBRE DE LA VILLA{/size}"
+    centered "{size=37} LA NUIT DANS LA CHAMBRE DE LA VILLA{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_tough.rpy:61
 translate french will_crystal_essence_final_tough_94366180:
@@ -904,7 +904,7 @@ translate french will_crystal_essence_final_tough_cd90d4a5:
 translate french will_crystal_essence_final_tough_c2c840d1:
 
     # will "(Так вот значит, какая я на самом деле.. Хах, а еще мнила себя стражницей завесы, сильным лидером..)"
-    will "(C'est donc ce que je suis vraiment... Huh, et je pensais aussi que j'étais un gardien du voile, un leader fort...)"
+    will "(C'est donc ce que je suis vraiment... Huh, et je pensais aussi que j'étais un gardien de Kandrakar, un leader fort...)"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_tough.rpy:246
 translate french will_crystal_essence_final_tough_2d7b4575:

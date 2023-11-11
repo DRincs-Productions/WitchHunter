@@ -70,7 +70,7 @@ translate french first_meet_5f4309e4:
 translate french first_meet_6f6377bc:
 
     # cedrick "Фобос говорил, что эмоциональная нестабильность и подавленность влияют на использование магических сил. Значит, я могу использовать это на стражницах"
-    cedrick "Phobos a dit que l'instabilité émotionnelle et la dépression affectent l'utilisation des pouvoirs magiques. Donc je peux l'utiliser sur les sentinelles"
+    cedrick "Phobos a dit que l'instabilité émotionnelle et la dépression affectent l'utilisation des pouvoirs magiques. Donc je peux l'utiliser sur les gardiens"
 
 # game/label_first_meet.rpy:30
 translate french first_meet_3afae274:

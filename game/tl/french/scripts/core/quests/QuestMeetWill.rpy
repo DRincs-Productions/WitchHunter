@@ -8,7 +8,7 @@ translate french strings:
 
     # game/scripts/core/quests/QuestMeetWill.rpy:28
     old "Заказать игрушки лягушки для Вилл (при помощи телефона)"
-    new "Commande de jouets grenouilles pour les Villas (par téléphone)"
+    new "Commande de jouets grenouilles pour Will (par téléphone)"
 
     # game/scripts/core/quests/QuestMeetWill.rpy:28
     old "Дождаться когда доставят игрушки лягушки в книжный магазин"

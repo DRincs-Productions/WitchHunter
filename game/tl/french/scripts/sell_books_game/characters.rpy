@@ -44,7 +44,7 @@ translate french strings:
 
     # game/scripts/sell_books_game/characters.rpy:139
     old "Бланк"
-    new "Formulaire"
+    new "Blunk"
 
     # game/scripts/sell_books_game/characters.rpy:155
     old "Ян Лин"
@@ -132,7 +132,7 @@ translate french strings:
 
     # game/scripts/sell_books_game/characters.rpy:371
     old "Хай Лин"
-    new "Hai Lin"
+    new "Hay Lin"
 
     # game/scripts/sell_books_game/characters.rpy:377
     old "Класс"

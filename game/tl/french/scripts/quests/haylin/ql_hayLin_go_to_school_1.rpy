@@ -16,7 +16,7 @@ translate french ql_hayLin_go_to_school_1_a20cefa7:
 translate french ql_hayLin_go_to_school_1_1ac016c9:
 
     # cedrick "(Хай Лин?)"
-    cedrick "(Hai Ling ?)"
+    cedrick "(Hay Lin ?)"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_1.rpy:11
 translate french ql_hayLin_go_to_school_1_78f68010:

@@ -46,7 +46,7 @@ translate french will_home3_170abd3e:
 translate french will_home3_018a60d7:
 
     # susan "Проходи вилл у себя в комнате..."
-    susan "Passez en revue les villas dans votre chambre..."
+    susan "Passez en revue Will dans votre chambre..."
 
 # game/scripts/quests/will/will_home3.rpy:35
 translate french will_home3_5d9a7257:

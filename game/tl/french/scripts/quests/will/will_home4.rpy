@@ -88,7 +88,7 @@ translate french will_home4_0005c88c:
 translate french will_home4_6751b843:
 
     # "*В комнате вилл*"
-    "* Dans la chambre de la villa *"
+    "* Dans la chambre de Will *"
 
 # game/scripts/quests/will/will_home4.rpy:48
 translate french will_home4_cd7c6c01:

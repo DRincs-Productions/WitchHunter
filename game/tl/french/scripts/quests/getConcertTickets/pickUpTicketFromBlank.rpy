@@ -10,7 +10,7 @@ translate french pickUpTicketFromBlank_267cf647:
 translate french pickUpTicketFromBlank_efdc141c:
 
     # blank "Да, бланк достать!"
-    blank "Oui, prenez le formulaire !"
+    blank "Oui, prenez le Blunk !"
 
 # game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:13
 translate french pickUpTicketFromBlank_868650e6:

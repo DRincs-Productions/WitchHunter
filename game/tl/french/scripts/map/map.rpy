@@ -10,7 +10,7 @@ translate french strings:
 
     # game/scripts/map/map.rpy:10
     old "Дом Вилл"
-    new "Villa House"
+    new "Maison de Will"
 
     # game/scripts/map/map.rpy:10
     old "Дом Элион"
@@ -46,7 +46,7 @@ translate french strings:
 
     # game/scripts/map/map.rpy:10
     old "Пещера бланка"
-    new "Grotte Blanca"
+    new "Grotte Blunk"
 
     # game/scripts/map/map.rpy:10
     old "Полицейский участок"

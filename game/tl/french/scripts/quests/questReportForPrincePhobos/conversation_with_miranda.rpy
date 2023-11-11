@@ -46,7 +46,7 @@ translate french conversation_with_miranda_6f6f426a:
 translate french conversation_with_miranda_aebbbf04:
 
     # cedrick "В любом случае, я не сказал ему о стражницах. Булдж и ты должны держать это в секрете и проследить за тем, чтобы эта информация не всплыла"
-    cedrick "Quoi qu'il en soit, je ne lui ai pas parlé des gardes. Bulge et toi devez garder le secret et faire en sorte que ça ne se sache pas."
+    cedrick "Quoi qu'il en soit, je ne lui ai pas parlé des gardiens. Bulge et toi devez garder le secret et faire en sorte que ça ne se sache pas"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:23
 translate french conversation_with_miranda_d1bace58:
@@ -256,7 +256,7 @@ translate french conversation_with_miranda_b9acd1e1:
 translate french conversation_with_miranda_968e38db:
 
     # cedrick "Хм, кстати об этом. Я знаю как поменять Хай Лин своей способностью. Но вот Тарани.. К ней мне не подобраться, я не знаю, на какой ее слабости сыграть"
-    cedrick "Hmm, en parlant de ça. Je sais comment changer Hai Ling avec mon pouvoir. Mais Tarani. Je ne peux pas l'approcher, je ne sais pas sur quelle faiblesse jouer."
+    cedrick "Hmm, en parlant de ça. Je sais comment changer Hay Lin avec mon pouvoir. Mais Taranee. Je ne peux pas l'approcher, je ne sais pas sur quelle faiblesse jouer."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:117
 translate french conversation_with_miranda_5004b503:
@@ -292,7 +292,7 @@ translate french conversation_with_miranda_c60a15d6:
 translate french conversation_with_miranda_f6c3bcdd:
 
     # cedrick "К Хай Лин я подберусь через ее семью. Ее мать и бабушка у меня в кармане. Но вот Тарани…"
-    cedrick "Je rencontrerai Hai Ling par l'intermédiaire de sa famille. Sa mère et sa grand-mère sont dans ma poche. Mais Tarani…"
+    cedrick "Je rencontrerai Hay Lin par l'intermédiaire de sa famille. Sa mère et sa grand-mère sont dans ma poche. Mais Taranee…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:132
 translate french conversation_with_miranda_39de6b12:
@@ -310,7 +310,7 @@ translate french conversation_with_miranda_0374ae70:
 translate french conversation_with_miranda_5e369347:
 
     # miranda "Я говорю ни о Тарани. Речь про Вилл. С Ирмой уже ничего не поделаешь, потому что вмешиваться в сознание дважды очень опасно"
-    miranda "Je ne parle pas de Taranis. Je parle de Will. Tu ne peux rien faire pour Irma, car il est dangereux d'altérer son esprit deux fois."
+    miranda "Je ne parle pas de Taranees. Je parle de Will. Tu ne peux rien faire pour Irma, car il est dangereux d'altérer son esprit deux fois."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:143
 translate french conversation_with_miranda_dc6a0ea9:
@@ -406,7 +406,7 @@ translate french conversation_with_miranda_87cc3834:
 translate french conversation_with_miranda_20da9447:
 
     # cedrick "Буду иметь ввиду. А что насчет Тарани? Нет ни каких идей? Может какое-то зелье может.."
-    cedrick "Je m'en souviendrai. Qu'en est-il de Taranis ? Des idées ? Peut-être qu'une sorte de potion pourrait..."
+    cedrick "Je m'en souviendrai. Qu'en est-il de Taranees ? Des idées ? Peut-être qu'une sorte de potion pourrait..."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:189
 translate french conversation_with_miranda_8c83d4be:
@@ -502,7 +502,7 @@ translate french conversation_with_miranda_fd1aba8f:
 translate french conversation_with_miranda_6ea6f107:
 
     # cedrick "Хай Лин присоединится к нам позже. Как раз эта часть идет согласно моему плану"
-    cedrick "Hai Ling nous rejoindra plus tard. C'est la partie qui se déroule selon mon plan."
+    cedrick "Hay Lin nous rejoindra plus tard. C'est la partie qui se déroule selon mon plan."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:249
 translate french conversation_with_miranda_c51de8ac:

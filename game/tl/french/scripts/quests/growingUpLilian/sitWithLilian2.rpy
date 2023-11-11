@@ -1864,7 +1864,7 @@ translate french lilith_no_712e492a:
 translate french lilith_no_5e6330ce:
 
     # centered "{size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ, У ВХОДА В КВАРТИРУ{/size}"
-    ""
+    centered "{size=37}QUELQUE TEMPS PLUS TARD, À L'ENTRÉE DE L'APPARTEMENT{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:717
 translate french lilith_no_303b5b6a:

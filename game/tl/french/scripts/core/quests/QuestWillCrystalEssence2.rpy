@@ -4,7 +4,7 @@ translate french strings:
 
     # game/scripts/core/quests/QuestWillCrystalEssence2.rpy:8
     old "Кристаллическая эссенция для Вилл. Часть II"
-    new "Essence de cristal pour les villas. Partie II"
+    new "Essence de cristal pour Will. Partie II"
 
     # game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
     old "Проведать Элион в книжном магазине"

@@ -226,7 +226,7 @@ translate french get_members_for_newspaper_club_5f9b772e:
 translate french get_members_for_newspaper_club_cefef014:
 
     # irma "Вечера и субботы в школе! Молодец, Тарани!"
-    irma "Les soirs et les samedis à l'école ! Bravo, Tarani !"
+    irma "Les soirs et les samedis à l'école ! Bravo, Taranee !"
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:137
 translate french get_members_for_newspaper_club_447bb3f7:

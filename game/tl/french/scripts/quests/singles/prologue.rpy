@@ -250,7 +250,7 @@ translate french prologue_76009a7a:
 translate french prologue_81340d7b:
 
     # phobos "И последнее, Седрик. Стражницы завесы.. Они уже не раз рушили наши планы. В этот раз они не должны нам помешать"
-    phobos "Une dernière chose, Cédric. Les gardiens du voile... Ils ont gâché nos projets plus d'une fois. Cette fois, ils ne doivent pas nous arrêter"
+    phobos "Une dernière chose, Cédric. Les gardiens de Kandrakar... Ils ont gâché nos projets plus d'une fois. Cette fois, ils ne doivent pas nous arrêter"
 
 # game/scripts/quests/singles/prologue.rpy:150
 translate french prologue_25c1be86:

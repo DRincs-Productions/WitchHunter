@@ -10,7 +10,7 @@ translate french ql_hayLin_go_to_restoran_0_ee0ae87e:
 translate french ql_hayLin_go_to_restoran_0_428c446a:
 
     # cedrick "Ну да... А Хай Лин здесь?"
-    cedrick "Bien... Hai Ling est là ?"
+    cedrick "Bien... Hay Lin est là ?"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:10
 translate french ql_hayLin_go_to_restoran_0_b89e74b9:
@@ -82,7 +82,7 @@ translate french ql_hayLin_go_to_restoran_0_497fdf48:
 translate french ql_hayLin_go_to_restoran_0_72bb880a:
 
     # cedrick "Извините, я случайно услышал ваш разговор... Я бы мог мог сходить с Хай Лин, если вы боитесь отпускать ее одну..."
-    cedrick "Désolé, j'ai entendu votre conversation par accident... Je pourrais aller avec Hai Ling si vous avez peur de la laisser partir seule..."
+    cedrick "Désolé, j'ai entendu votre conversation par accident... Je pourrais aller avec Hay Lin si vous avez peur de la laisser partir seule..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:50
 translate french ql_hayLin_go_to_restoran_0_f14624c6:
@@ -118,7 +118,7 @@ translate french ql_hayLin_go_to_restoran_0_a79621fb:
 translate french ql_hayLin_go_to_restoran_0_b3cb7b93:
 
     # johnlin "Хай Лин, а ты уверена в порядочности этого человека? Он выглядит довольно молодо для учителя..."
-    johnlin "Hai Lin, êtes-vous sûr de l'intégrité de cet homme ? Il a l'air plutôt jeune pour un professeur..."
+    johnlin "Hay Lin, êtes-vous sûr de l'intégrité de cet homme ? Il a l'air plutôt jeune pour un professeur..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:74
 translate french ql_hayLin_go_to_restoran_0_74d7cbf0:
@@ -160,7 +160,7 @@ translate french ql_hayLin_go_to_restoran_0_5ad4956c:
 translate french ql_hayLin_go_to_restoran_0_173b157e:
 
     # chenlin "Но Хай Лин должна быть дома не позже полуночи, вам ясно!?"
-    chenlin "Mais Hai Lin doit être à la maison au plus tard à minuit, vous comprenez ?"
+    chenlin "Mais Hay Lin doit être à la maison au plus tard à minuit, vous comprenez ?"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:99
 translate french ql_hayLin_go_to_restoran_0_75d52a7e:
@@ -262,7 +262,7 @@ translate french ql_hayLin_go_to_restoran_0_63c35754:
 translate french ql_hayLin_go_to_restoran_0_1b43d2d1:
 
     # "Отстояв огромную очередь, вы попадаете в холл кинотеатра. Вы купили билеты и наткнулись на подруг Хай Лин"
-    "Après avoir fait une énorme queue, vous vous retrouvez dans le hall d'un cinéma. Vous avez acheté des tickets et vous rencontrez les amis de Hai Ling."
+    "Après avoir fait une énorme queue, vous vous retrouvez dans le hall d'un cinéma. Vous avez acheté des tickets et vous rencontrez les amis de Hay Lin."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:147
 translate french ql_hayLin_go_to_restoran_0_84328f49:
@@ -400,5 +400,5 @@ translate french ql_hayLin_go_to_restoran_0_5f17434a:
 translate french ql_hayLin_go_to_restoran_0_96483234:
 
     # "Отведя Хай Лин домой, седрик возвращается в книжный магазин"
-    "Après avoir ramené Hai Ling chez elle, Cédric retourne à la librairie."
+    "Après avoir ramené Hay Lin chez elle, Cédric retourne à la librairie."
 

@@ -34,13 +34,13 @@ translate french cedric_monologue_in_the_bookshop_2a66d640:
 translate french cedric_monologue_in_the_bookshop_db3513a3:
 
     # cedrick "(Основная проблема - Тарани и Хай Лин)"
-    cedrick "(Le principal problème est Tarani et Hai Ling)"
+    cedrick "(Le principal problème est Taranee et Hay Lin)"
 
 # game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:9
 translate french cedric_monologue_in_the_bookshop_f0162614:
 
     # cedrick "(С Хай Лин я давно не пересекался, она не ходила на мои уроки и не присоединилась к совместной атаке Ирмы и Тарани)"
-    cedrick "(Je n'ai pas croisé Hai Lin depuis longtemps, elle n'a pas suivi mes cours et n'a pas participé à l'attaque conjointe d'Irma et de Tarani)."
+    cedrick "(Je n'ai pas croisé Hay Lin depuis longtemps, elle n'a pas suivi mes cours et n'a pas participé à l'attaque conjointe d'Irma et de Taranee)."
 
 # game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:10
 translate french cedric_monologue_in_the_bookshop_760157bc:
@@ -58,7 +58,7 @@ translate french cedric_monologue_in_the_bookshop_c12307c6:
 translate french cedric_monologue_in_the_bookshop_ec0b5776:
 
     # cedrick "(Другая проблема - Тарани. Если рычаги давления на Хай Лин я знаю и поработать с ее сознанием не будет большой проблемой. То вот Тарани..)"
-    cedrick "(L'autre problème est Tarani. Si je connais l'effet de levier sur Hai Ling et que je travaille sur son esprit, ce ne sera pas un gros problème. Mais Tarani.)"
+    cedrick "(L'autre problème est Taranee. Si je connais l'effet de levier sur Hay Lin et que je travaille sur son esprit, ce ne sera pas un gros problème. Mais Taranee.)"
 
 # game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:13
 translate french cedric_monologue_in_the_bookshop_8fbc0d66:

@@ -8,7 +8,7 @@ translate french strings:
 
     # game/scripts/core/quests/QuestGiftForLilian.rpy:12
     old "Купить кота у Бланка"
-    new "Acheter un chat de Blank"
+    new "Acheter un chat à Blunk"
 
     # game/scripts/core/quests/QuestGiftForLilian.rpy:12
     old "Написать сообщение Корнелии"

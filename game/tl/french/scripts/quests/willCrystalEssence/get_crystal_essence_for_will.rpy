@@ -4,7 +4,7 @@
 translate french get_crystal_essence_for_will_825983c1:
 
     # cedrick "Хм, так, давай-ка еще раз. То есть, ты говоришь, что на стражницах зелье не сработает?"
-    cedrick "Hum, alors, revoyons tout ça. Donc vous dites que la potion ne fonctionnera pas sur les gardes ?"
+    cedrick "Hum, alors, revoyons tout ça. Donc vous dites que la potion ne fonctionnera pas sur les gardiens ?"
 
 # game/scripts/quests/willCrystalEssence/get_crystal_essence_for_will.rpy:11
 translate french get_crystal_essence_for_will_c3b3df82:

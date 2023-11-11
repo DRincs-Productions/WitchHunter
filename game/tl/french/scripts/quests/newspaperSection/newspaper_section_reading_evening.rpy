@@ -250,7 +250,7 @@ translate french newspaper_section_reading_evening_d78fbae3:
 translate french newspaper_section_reading_evening_37f5c3ed:
 
     # centered "{size=36}Через пару минут..{/size}"
-    ""
+    centered "{size=36}Dans quelques minutes...{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:88
 translate french newspaper_section_reading_evening_a07a148f:
@@ -286,7 +286,7 @@ translate french newspaper_section_reading_evening_644deda6:
 translate french newspaper_section_reading_evening_463a5794:
 
     # centered "{size=36}ПОЗЖЕ, ВЕЧЕРОМ В КАБИНЕТЕ ЖУРНАЛИСТИКИ{/size}"
-    ""
+    centered "{size=36}PLUS TARD DANS LA SOIRÉE, DANS LA SALLE DE JOURNALISME{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:103
 translate french newspaper_section_reading_evening_44f35d59:

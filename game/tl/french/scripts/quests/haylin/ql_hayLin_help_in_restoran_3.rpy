@@ -280,7 +280,7 @@ translate french ql_hayLin_help_in_restoran_3_87c5dd71:
 translate french ql_hayLin_help_in_restoran_3_4f775e86:
 
     # "Хай Лин убегает молча, всеми силами сдерживая свои слезы..."
-    "Hai Ling s'enfuit en silence, faisant de son mieux pour retenir ses larmes..."
+    "Hay Lin s'enfuit en silence, faisant de son mieux pour retenir ses larmes..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:102
 translate french ql_hayLin_help_in_restoran_3_32c00346:

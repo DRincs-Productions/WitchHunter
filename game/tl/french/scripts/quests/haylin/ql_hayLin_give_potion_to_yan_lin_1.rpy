@@ -10,7 +10,7 @@ translate french ql_hayLin_give_potion_to_yan_lin_1_77013e39:
 translate french ql_hayLin_give_potion_to_yan_lin_1_c8980c22:
 
     # cedrick "Нет, сегодня не смогу вам помочь, извините. Я хочу заскочить к Хай Лин, проведать ее..."
-    cedrick "Non, je ne peux pas vous aider aujourd'hui, je suis désolé. Je veux passer chez Hai Ling pour voir comment elle va..."
+    cedrick "Non, je ne peux pas vous aider aujourd'hui, je suis désolé. Je veux passer chez Hay Lin pour voir comment elle va..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:11
 translate french ql_hayLin_give_potion_to_yan_lin_1_4c5684aa:
@@ -190,7 +190,7 @@ translate french ql_hayLin_give_potion_to_yan_lin_1_5de55156:
 translate french ql_hayLin_give_potion_to_yan_lin_1_40644dca:
 
     # centered "{size=36}СЕДРИК ВЫХОДИТ ИЗ КОМНАТЫ ХАЙ ЛИН, НЕДАЛЕКО ОТ ВХОДНОЙ ДВЕРИ ОН ВСТРЕЧАЕТ ДЖОАН ЛИН{/size}"
-    centered "{size=36}CEDRIC QUITTE LA CHAMBRE DE HAI LIN ET RETROUVE JOAN LIN PRÈS DE LA PORTE D'ENTRÉE{/size}"
+    centered "{size=36}CEDRIC QUITTE LA CHAMBRE DE Hay Lin ET RETROUVE JOAN LIN PRÈS DE LA PORTE D'ENTRÉE{/size}"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:96
 translate french ql_hayLin_give_potion_to_yan_lin_1_7a1debb9:
@@ -202,13 +202,13 @@ translate french ql_hayLin_give_potion_to_yan_lin_1_7a1debb9:
 translate french ql_hayLin_give_potion_to_yan_lin_1_fecfc850:
 
     # cedrick "А, д-да, мы с Хай Лин уже сделали все, что планировали, так что я ухожу. Не хочу ее задерживать"
-    cedrick "Ah, oui, Hai Lin et moi avons déjà fait tout ce que nous avions prévu, alors je m'en vais. Je ne veux pas la garder"
+    cedrick "Ah, oui, Hay Lin et moi avons déjà fait tout ce que nous avions prévu, alors je m'en vais. Je ne veux pas la garder"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:101
 translate french ql_hayLin_give_potion_to_yan_lin_1_3699dc24:
 
     # cedrick "(Фух, я чуть не попался. Держу пари, она уже направлялась в комнату Хай Лин, чтобы проверить, что мы делаем)"
-    cedrick "(Ouf, j'ai failli me faire prendre. Je parie qu'elle était déjà en route vers la chambre de Hai Ling pour vérifier ce que nous faisions)"
+    cedrick "(Ouf, j'ai failli me faire prendre. Je parie qu'elle était déjà en route vers la chambre de Hay Lin pour vérifier ce que nous faisions)"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:105
 translate french ql_hayLin_give_potion_to_yan_lin_1_779a8ff1:
@@ -232,7 +232,7 @@ translate french ql_hayLin_give_potion_to_yan_lin_1_9daa7071:
 translate french ql_hayLin_give_potion_to_yan_lin_1_9d3d41de:
 
     # johnlin "..Вы что, встречаетесь с Хай Лин?"
-    johnlin "..Quoi, tu sors avec Hai Lin ?"
+    johnlin "..Quoi, tu sors avec Hay Lin ?"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:121
 translate french ql_hayLin_give_potion_to_yan_lin_1_d3dfd0c8:
@@ -244,7 +244,7 @@ translate french ql_hayLin_give_potion_to_yan_lin_1_d3dfd0c8:
 translate french ql_hayLin_give_potion_to_yan_lin_1_fb46fc06:
 
     # johnlin "Я могу понять, если вы это скрываете.. Все же Хай Лин считает меня через чур опекающей.. Возможно, иногда даже деспотичной матерью.."
-    johnlin "Je peux comprendre que vous le cachiez... Pourtant, Hai Lin pense que je suis trop protecteur... Peut-être même une mère oppressive à certains moments.."
+    johnlin "Je peux comprendre que vous le cachiez... Pourtant, Hay Lin pense que je suis trop protecteur... Peut-être même une mère oppressive à certains moments.."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:129
 translate french ql_hayLin_give_potion_to_yan_lin_1_38bf0862:
@@ -268,7 +268,7 @@ translate french ql_hayLin_give_potion_to_yan_lin_1_3c42351d:
 translate french ql_hayLin_give_potion_to_yan_lin_1_487a2b9f:
 
     # johnlin "Так что, несмотря на то, что вы учитель и значительно старше Хай Лин, я была бы не против, если бы моя дочь была с таким человеком, как вы, Рик"
-    johnlin "Même si vous êtes enseignante et beaucoup plus âgée que Hai Ling, cela ne me dérangerait pas que ma fille soit avec quelqu'un comme vous, Rick"
+    johnlin "Même si vous êtes enseignante et beaucoup plus âgée que Hay Lin, cela ne me dérangerait pas que ma fille soit avec quelqu'un comme vous, Rick"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:142
 translate french ql_hayLin_give_potion_to_yan_lin_1_13877006:
@@ -334,7 +334,7 @@ translate french ql_hayLin_give_potion_to_yan_lin_1_be4dcd43:
 translate french ql_hayLin_give_potion_to_yan_lin_1_48dae285:
 
     # johnlin "Я уже взяла номера у всех новых подруг Хай Лин, чтобы всегда знать где она, если вдруг что-то случится. Раз вы так много времени проводите с моей дочерью, я должна взять и ваш номер"
-    johnlin "J'ai déjà pris les numéros de tous les nouveaux amis de Hai Lin donc je saurai toujours où elle est si quelque chose arrive. Puisque vous passez tellement de temps avec ma fille, je devrais aussi prendre votre numéro"
+    johnlin "J'ai déjà pris les numéros de tous les nouveaux amis de Hay Lin donc je saurai toujours où elle est si quelque chose arrive. Puisque vous passez tellement de temps avec ma fille, je devrais aussi prendre votre numéro"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:180
 translate french ql_hayLin_give_potion_to_yan_lin_1_c99a0813:
@@ -358,7 +358,7 @@ translate french ql_hayLin_give_potion_to_yan_lin_1_5aa5f7c0:
 translate french ql_hayLin_give_potion_to_yan_lin_1_b9829505:
 
     # cedrick "(Не хочу, чтобы она звонила мне каждый раз, когда я трахаюсь с Хай Лин..)"
-    cedrick "(Je ne veux pas qu'elle m'appelle à chaque fois que je baise avec Hai Lin..)"
+    cedrick "(Je ne veux pas qu'elle m'appelle à chaque fois que je baise avec Hay Lin..)"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:187
 translate french ql_hayLin_give_potion_to_yan_lin_1_ae3343f9:

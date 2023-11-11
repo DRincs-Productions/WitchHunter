@@ -52,7 +52,7 @@ translate french blankSuggestCat_2472d2d1:
 translate french blankSuggestCat_ef27ee58:
 
     # blank "На бланк все смотреть как на говно"
-    blank "Tout le monde regarde le formulaire comme une merde"
+    blank "Tout le monde regarde le Blunk comme une merde"
 
 # game/scripts/quests/giftForLilian/blankSuggestCat.rpy:35
 translate french blankSuggestCat_a7c65dc0:
@@ -64,7 +64,7 @@ translate french blankSuggestCat_a7c65dc0:
 translate french blankSuggestCat_4d0c387f:
 
     # cedrick "Бланк, отдай его мне"
-    cedrick "Le formulaire, donnez-le moi"
+    cedrick "Le Blunk, donnez-le moi"
 
 # game/scripts/quests/giftForLilian/blankSuggestCat.rpy:37
 translate french blankSuggestCat_e5f601a2:

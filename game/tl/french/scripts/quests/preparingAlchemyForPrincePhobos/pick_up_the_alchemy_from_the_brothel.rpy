@@ -820,7 +820,7 @@ translate french pick_up_the_alchemy_from_the_brothel_a3bc3cb1:
 translate french pick_up_the_alchemy_from_the_brothel_3d518c3f:
 
     # centered "{size=37} СПУСТЯ НЕКОТОРОЕ ВРЕМЯ ПЕРЕСКАЗА ПРОИЗОШЕДШЕГО {/size}"
-    ""
+    centered "{size=37} APRÈS AVOIR RACONTÉ CE QUI S'EST PASSÉ {/size}"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:448
 translate french pick_up_the_alchemy_from_the_brothel_a13ba10a:

@@ -136,7 +136,7 @@ translate french grade_guard_52ba64c1:
 translate french dialog_captive_tarani_d63c9b96:
 
     # cedrick "Говоря о тебе, Тарани"
-    cedrick "En parlant de vous, Tarani."
+    cedrick "En parlant de vous, Taranee."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:68
 translate french dialog_captive_tarani_c2f6b408:
@@ -160,7 +160,7 @@ translate french dialog_captive_tarani_43bdaeb4:
 translate french dialog_captive_tarani_515e6dd5:
 
     # cedrick "Нам с тобой предстоит особая работа, Тарани. Из всех учениц ты пока что самая проблематичная"
-    cedrick "Toi et moi avons un travail spécial à faire, Tarani. De tous les élèves, tu as été le plus problématique jusqu'à présent."
+    cedrick "Toi et moi avons un travail spécial à faire, Taranee. De tous les élèves, tu as été le plus problématique jusqu'à présent."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:76
 translate french dialog_captive_tarani_6556101b:
@@ -454,7 +454,7 @@ translate french itog_grade_b93c531d:
 translate french itog_grade_4d27d41e:
 
     # cedrick "Отлично. Как раз успею закончить кое-какие дела на Земле и привести сюда Хай Лин"
-    cedrick "Oh, super. Juste à temps pour finir quelques affaires sur Terre et faire venir Hai Ling."
+    cedrick "Oh, super. Juste à temps pour finir quelques affaires sur Terre et faire venir Hay Lin."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:189
 translate french itog_grade_c910ecfb:
@@ -538,7 +538,7 @@ translate french itog_grade_b45e7811:
 translate french itog_grade_6d4ec389:
 
     # cedrick "(Пожалуй из этого выйдет отличная показательная сцена для Ирмы и Тарани. Пусть в очередной раз убедятся, как низко пала их предводительница)"
-    cedrick "(Je pense que cela ferait une excellente scène de démonstration pour Irma et Tarani. Qu'ils voient une fois de plus à quel point leur chef est tombé bas)."
+    cedrick "(Je pense que cela ferait une excellente scène de démonstration pour Irma et Taranee. Qu'ils voient une fois de plus à quel point leur chef est tombé bas)."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:225
 translate french itog_grade_acbdfb07:
@@ -1066,7 +1066,7 @@ translate french accept_her_offer_5ac72e8f:
 translate french accept_her_offer_f6479420:
 
     # cedrick "(Это должно быть хорошим примером для Ирмы и Тарани. Интересно, как они воспримут такой мой шаг)"
-    cedrick "(Cela devrait être un bon exemple pour Irma et Tarani. Je me demande comment ils percevront un tel geste de ma part)"
+    cedrick "(Cela devrait être un bon exemple pour Irma et Taranee. Je me demande comment ils percevront un tel geste de ma part)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:401
 translate french accept_her_offer_fd011589:
@@ -1084,7 +1084,7 @@ translate french accept_her_offer_b7cf6ea1:
 translate french accept_her_offer_6aa6e85e:
 
     # cedrick "(Таким будет наказание для Вилл и проверка реакции Тарани и Ирмы)"
-    cedrick "(Ce sera la punition de Will et un test pour les réactions de Tarani et d'Irma)."
+    cedrick "(Ce sera la punition de Will et un test pour les réactions de Taranee et d'Irma)."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:404
 translate french accept_her_offer_50b14c0f:
@@ -1138,7 +1138,7 @@ translate french accept_her_offer_344a32eb:
 translate french accept_her_offer_4fbf68eb:
 
     # cedrick "(И так, кто же это будет? Тарани или Ирма)"
-    cedrick "(Alors, qui sera Tarani ou Irma)"
+    cedrick "(Alors, qui sera Taranee ou Irma)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:425
 translate french cumshot_to_irma_efbdf396:
@@ -1252,7 +1252,7 @@ translate french cumshot_to_irma_7ff75c80:
 translate french cumshot_to_tarani_07da8738:
 
     # cedrick "Т-тарани, сейчас ты получишь свою порцию спермы..."
-    cedrick "T-tarani, tu es sur le point d'obtenir ton cum...."
+    cedrick "T-Taranee, tu es sur le point d'obtenir ton cum...."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:456
 translate french cumshot_to_tarani_44645d7c:
@@ -1282,7 +1282,7 @@ translate french cumshot_to_tarani_d4d92310:
 translate french cumshot_to_tarani_88d844ee:
 
     # cedrick "А тебя никто не спрашивает, Тарани. Делай что говорят, иначе твое наказание будет еще жестче"
-    cedrick "Et personne ne te le demande, Tarani. Fais ce qu'on te dit, ou ta punition sera encore plus sévère."
+    cedrick "Et personne ne te le demande, Taranee. Fais ce qu'on te dit, ou ta punition sera encore plus sévère."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:469
 translate french cumshot_to_tarani_81d83f93:
@@ -1342,7 +1342,7 @@ translate french cumshot_to_tarani_7bd05bdb:
 translate french cumshot_to_tarani_8f5fe4c1:
 
     # will "Л-ладно Корнелия, но вот Тарани!! Она же постоянно ведет себя как сучка.."
-    will "Cornelia va bien, mais Taranis ! Elle se comporte toujours comme une garce."
+    will "Cornelia va bien, mais Taranees ! Elle se comporte toujours comme une garce."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:488
 translate french end_conversation_with_guards_52b29d52:
@@ -1402,7 +1402,7 @@ translate french epilog_f6cf374d:
 translate french epilog_538cfbb3:
 
     # cedrick "(Сейчас мне особое внимание стоит уделить Хай Лин, давно я с ней не работал)"
-    cedrick "(Je devrais accorder une attention particulière à Hai Ling en ce moment, cela fait un moment que je n'ai pas travaillé avec elle)"
+    cedrick "(Je devrais accorder une attention particulière à Hay Lin en ce moment, cela fait un moment que je n'ai pas travaillé avec elle)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:510
 translate french epilog_964de117:
@@ -1432,5 +1432,5 @@ translate french strings:
 
     # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:415
     old "Кончить на Тарани"
-    new "Cum on Tarani"
+    new "Jouir sur Taranee"
 

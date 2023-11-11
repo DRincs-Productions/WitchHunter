@@ -22,7 +22,7 @@ translate french ql_hayLin_fuck_hay_lin_5239cd96:
 translate french ql_hayLin_fuck_hay_lin_4519e682:
 
     # cedrick "А где Хай Лин?"
-    cedrick "Où est Hai Lin ?"
+    cedrick "Où est Hay Lin ?"
 
 # game/scripts/quests/haylin/ql_hayLin_fuck_hay_lin.rpy:13
 translate french ql_hayLin_fuck_hay_lin_23110700:

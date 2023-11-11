@@ -4,7 +4,7 @@
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_28eb040c:
 
     # cedrick "Миранда, за следующие два дня я планирую сокрушить Ирму и Тарани, но мне нужна твоя помощь. Хочешь матч-реванш?"
-    cedrick "Miranda, dans les deux prochains jours, je compte écraser Irma et Tarani, mais j'ai besoin de ton aide. Vous voulez une revanche ?"
+    cedrick "Miranda, dans les deux prochains jours, je compte écraser Irma et Taranee, mais j'ai besoin de ton aide. Vous voulez une revanche ?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:12
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_e0ea1ec7:
@@ -28,13 +28,13 @@ translate french plan_with_miranda_the_crushing_of_irma_and_taranee_eb99a6ba:
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_42a885b3:
 
     # cedrick "Не вздумай сражаться с Тарани, она с легкостью сожжет твою паутину, для тебя это не лучший соперник"
-    cedrick "N'osez pas combattre Tarani, elle brûlera facilement votre toile, ce n'est pas un bon parti pour vous."
+    cedrick "N'osez pas combattre Taranee, elle brûlera facilement votre toile, ce n'est pas un bon parti pour vous."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:19
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_38c20cfd:
 
     # cedrick "Лучше сосредоточься на Ирме, с Тарани я разберусь"
-    cedrick "Mieux vaut se concentrer sur Irma, je m'occupe de Tarani."
+    cedrick "Mieux vaut se concentrer sur Irma, je m'occupe de Taranee."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:23
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_e1d2de82:
@@ -70,13 +70,13 @@ translate french plan_with_miranda_the_crushing_of_irma_and_taranee_d535b83d:
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_419b999e:
 
     # cedrick "Точно.. Хм.. Тарани более опасный противник, но выбрать придется Ирму"
-    cedrick "Bien, hum... Hmm... Tarani est l'adversaire le plus dangereux, mais vous devrez choisir Irma."
+    cedrick "Bien, hum... Hmm... Taranee est l'adversaire le plus dangereux, mais vous devrez choisir Irma."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:45
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_87fcd056:
 
     # cedrick "Тарани так и не поддалась мне, пока что она для меня не расколотый орешек, а вот слабые места Ирмы я знаю и примерно представляю, в чем ее можно убедить"
-    cedrick "Tarani ne m'a jamais cédé, jusqu'à présent, elle n'est pas un casse-tête pour moi, mais je connais les faiblesses d'Irma et j'ai une idée approximative de ce qu'elle peut être persuadée de faire."
+    cedrick "Taranee ne m'a jamais cédé, jusqu'à présent, elle n'est pas un casse-tête pour moi, mais je connais les faiblesses d'Irma et j'ai une idée approximative de ce qu'elle peut être persuadée de faire."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:49
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_f47caea5:
@@ -88,7 +88,7 @@ translate french plan_with_miranda_the_crushing_of_irma_and_taranee_f47caea5:
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_72d08a74:
 
     # cedrick "А я сделаю так, чтобы Тарани не смогла нам помешать"
-    cedrick "Et je vais m'assurer que Tarani ne puisse pas nous arrêter."
+    cedrick "Et je vais m'assurer que Taranee ne puisse pas nous arrêter."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:57
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_eb1409b7:
@@ -100,7 +100,7 @@ translate french plan_with_miranda_the_crushing_of_irma_and_taranee_eb1409b7:
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_81723162:
 
     # centered "{size=37}МИРАНДА ДЕЛАЕТ ВСЕ ТАК, КАК СКАЗАЛ СЕДРИК. ИРМА И ТАРАНИ РАЗДЕЛЯЮТСЯ. ПОКА ИРМА СРАЖАЕТСЯ С МИРАНДОЙ, СЕДРИК СРАЖАЕТСЯ С ТАРАНИ{/size}"
-    ""
+    centered "{size=37}MIRANDA FAIT EXACTEMENT CE QUE CÉDRIC A DIT. L'IRMA ET LE TaraneeS SONT SÉPARÉS. PENDANT QU'IRMA SE BAT CONTRE MIRANDA, CÉDRIC SE BAT CONTRE TaraneeS.{/size}"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:67
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_426314a4:
@@ -124,7 +124,7 @@ translate french plan_with_miranda_the_crushing_of_irma_and_taranee_d504dad7:
 translate french plan_with_miranda_the_crushing_of_irma_and_taranee_8ee80237:
 
     # cedrick "Ну давай проверим, Тарани"
-    cedrick "Eh bien, allons voir ça, Tarani."
+    cedrick "Eh bien, allons voir ça, Taranee."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:101
 translate french cedrick_looses_to_taranee_348d58b1:

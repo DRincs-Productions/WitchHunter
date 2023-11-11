@@ -58,19 +58,19 @@ translate french firstLesson_58ff376b:
 translate french firstLesson_d86f52c0:
 
     # cedrick "(Эти трое.. Стражницы Завесы!)"
-    cedrick "(Ces trois-là... Gardiens du Voile !)"
+    cedrick "(Ces trois-là... Gardiens de Kandrakar !)"
 
 # game/scripts/quests/tarani/firstLesson.rpy:37
 translate french firstLesson_05d16e7b:
 
     # haylin "Сейчас биология. Тарани, ты не идешь?"
-    haylin "C'est de la biologie maintenant. Tarani, tu ne viens pas ?"
+    haylin "C'est de la biologie maintenant. Taranee, tu ne viens pas ?"
 
 # game/scripts/quests/tarani/firstLesson.rpy:43
 translate french firstLesson_9f97bdb3:
 
     # irma "Шутишь? Чтобы наша Тарани прогуляла урок?! Да не в жизнь!"
-    irma "Vous vous moquez de moi ? Donc notre Tarani peut sécher les cours ?! Pas possible !"
+    irma "Vous vous moquez de moi ? Donc notre Taranee peut sécher les cours ?! Pas possible !"
 
 # game/scripts/quests/tarani/firstLesson.rpy:49
 translate french firstLesson_e3e6a377:

@@ -10,5 +10,5 @@ translate french giveTshirtForBlank_a76fb0e0:
 translate french giveTshirtForBlank_f5df145c:
 
     # blank "Бланк все сделать!"
-    blank "Le formulaire est terminé !"
+    blank "Blunk a terminé !"
 

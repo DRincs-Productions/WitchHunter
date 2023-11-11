@@ -4,7 +4,7 @@ translate french strings:
 
     # game/scripts/core/Fight/enemies/Taranee.rpy:57
     old "Тарани"
-    new "Tarani"
+    new "Taranee"
 
     # game/scripts/core/Fight/enemies/Taranee.rpy:108
     old "Горение"

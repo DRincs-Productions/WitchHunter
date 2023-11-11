@@ -22,7 +22,7 @@ translate french giveAlchemyForBlank_e6e16c17:
 translate french giveAlchemyForBlank_a2c3de76:
 
     # blank "Хе-хе, Бланк будет секс!"
-    blank "Hehe, Blank va faire l'amour !"
+    blank "Hehe, Blunk va faire l'amour !"
 
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:17
 translate french giveAlchemyForBlank_c5c0cd05:
@@ -34,7 +34,7 @@ translate french giveAlchemyForBlank_c5c0cd05:
 translate french giveAlchemyForBlank_b7614c42:
 
     # blank "Бланк пахнет мужчиной!"
-    blank "Blank sent comme un homme !"
+    blank "Blunk sent comme un homme !"
 
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:23
 translate french giveAlchemyForBlank_d6626bce:
@@ -82,13 +82,13 @@ translate french giveAlchemyForBlank_8dabefc6:
 translate french giveAlchemyForBlank_92890a1b:
 
     # blank "Бланк стал мужчиной!"
-    blank "Blank est devenu un homme !"
+    blank "Blunk est devenu un homme !"
 
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:49
 translate french giveAlchemyForBlank_ffe22964:
 
     # blank "Бланк кончатть…."
-    blank "Le formulaire conchat…."
+    blank "Le Blunk conchat…."
 
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:51
 translate french giveAlchemyForBlank_86774ec3:
@@ -112,11 +112,11 @@ translate french giveAlchemyForBlank_3b971b59:
 translate french giveAlchemyForBlank_bd7e0b95:
 
     # blank "Бланк все сделать в худшем виде!"
-    blank "Blank pour tout faire de la pire façon possible !"
+    blank "Blunk pour tout faire de la pire façon possible !"
 
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:57
 translate french giveAlchemyForBlank_f5eb8118:
 
     # cedrick "( Осталось только дождаться фотографий.. Надеюсь брат Найджела и в правду настолько плох, как говорила о нем мать Тарани.)"
-    cedrick "( Je n'ai plus qu'à attendre les photos. J'espère que le frère de Nigel est vraiment aussi mauvais que la mère de Tarani l'a dit)."
+    cedrick "( Je n'ai plus qu'à attendre les photos. J'espère que le frère de Nigel est vraiment aussi mauvais que la mère de Taranee l'a dit)."
 

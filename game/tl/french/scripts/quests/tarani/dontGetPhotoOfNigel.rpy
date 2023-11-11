@@ -10,5 +10,5 @@ translate french dontGetPhotoOfNigel_4e86a3e4:
 translate french dontGetPhotoOfNigel_fc6c4c03:
 
     # blank "Еще нет. Бланк занятой"
-    blank "Pas encore. Le formulaire est occupé"
+    blank "Pas encore. Le Blunk est occupé"
 

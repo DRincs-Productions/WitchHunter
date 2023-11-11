@@ -190,7 +190,7 @@ translate french take_medina_home_d6c98e9e:
 translate french take_medina_home_0d6faf1e:
 
     # cedrick "(Черт, все же нужно будет использовать их.. Но это не вписывается в мои планы по сокрушению Ирмы и Тарани)"
-    cedrick "(Bon sang, nous allons devoir les utiliser après tout... Mais cela ne cadre pas avec mes plans pour écraser Irma et Tarani)"
+    cedrick "(Bon sang, nous allons devoir les utiliser après tout... Mais cela ne cadre pas avec mes plans pour écraser Irma et Taranee)"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:39
 translate french take_medina_home_9c36ac73:
@@ -346,7 +346,7 @@ translate french take_medina_home_680b4163:
 translate french take_medina_home_2591e795:
 
     # centered "{size=37}МЕДИНА ДОВОЗИТ СЕДРИКА ДО КНИЖНОГО МАГАЗИНА{/size}"
-    ""
+    centered "{size=37}MEDINA EMMÈNE CÉDRIC À LA LIBRAIRIE.{/size}"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:73
 translate french take_medina_home_e54fd4f2:
@@ -694,7 +694,7 @@ translate french take_medina_home_839627de:
 translate french take_medina_home_f5c04d54:
 
     # cedrick "(Хм.. Медина устроит все через два дня.. За это время я должен расправиться с Ирмой и Тарани. Они явно будут мне мешать наладить контакт с Вилл..)"
-    cedrick "(Hmm... Medina aura tout arrangé dans deux jours. Pendant ce temps, je dois m'occuper d'Irma et de Tarani. Elles vont évidemment m'empêcher d'entrer en contact avec Will...)"
+    cedrick "(Hmm... Medina aura tout arrangé dans deux jours. Pendant ce temps, je dois m'occuper d'Irma et de Taranee. Elles vont évidemment m'empêcher d'entrer en contact avec Will...)"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:199
 translate french take_medina_home_2792c972:

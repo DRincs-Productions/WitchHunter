@@ -64,7 +64,7 @@ translate french buyCat_49316299_1:
 translate french buyCat_b6f23bd3:
 
     # blank "Прощай, полководец. Бланк не забудет твою эпическую схватку возле мусорных баков за кусок колбасы"
-    blank "Adieu, commandant. Blank n'oubliera pas votre combat épique dans les poubelles pour un morceau de saucisse"
+    blank "Adieu, commandant. Blunk n'oubliera pas votre combat épique dans les poubelles pour un morceau de saucisse"
 
 # game/scripts/quests/giftForLilian/buyCat.rpy:29
 translate french buyCat_13d306e4:

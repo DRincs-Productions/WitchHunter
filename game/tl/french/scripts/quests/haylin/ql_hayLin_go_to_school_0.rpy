@@ -16,7 +16,7 @@ translate french ql_hayLin_go_to_school_0_468c6ae5:
 translate french ql_hayLin_go_to_school_0_08ba76bf:
 
     # haylin "Хай Лин…"
-    haylin "Hai Lin…"
+    haylin "Hay Lin…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:10
 translate french ql_hayLin_go_to_school_0_f3c3ec6c:
@@ -112,7 +112,7 @@ translate french ql_hayLin_go_to_school_0_2bfbdaef:
 translate french ql_hayLin_go_to_school_0_4e791b44:
 
     # cedrick "Тебя ведь зовут Хай Лин, да? Ты как?"
-    cedrick "Tu t'appelles Hai Ling, n'est-ce pas ? Et toi, comment vas-tu ?"
+    cedrick "Tu t'appelles Hay Lin, n'est-ce pas ? Et toi, comment vas-tu ?"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:35
 translate french ql_hayLin_go_to_school_0_67d2d4ba:
@@ -124,7 +124,7 @@ translate french ql_hayLin_go_to_school_0_67d2d4ba:
 translate french ql_hayLin_go_to_school_0_315f3c0b:
 
     # cedrick "Послушай меня, Хай Лин… Эти олухи не имеют какого-либо права унижать тебя. Почему ты это терпишь? В следующий раз ты должна будешь дать им сдачи! Будь сильной..."
-    cedrick "Écoutez-moi, Hai Lin… Ces lourdauds n'ont pas le droit de vous humilier de quelque façon que ce soit. Pourquoi tu supportes ça ? La prochaine fois, tu devras leur rendre la monnaie de leur pièce ! Sois fort..."
+    cedrick "Écoutez-moi, Hay Lin… Ces lourdauds n'ont pas le droit de vous humilier de quelque façon que ce soit. Pourquoi tu supportes ça ? La prochaine fois, tu devras leur rendre la monnaie de leur pièce ! Sois fort..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:37
 translate french ql_hayLin_go_to_school_0_7ec3a7d1:
@@ -142,5 +142,5 @@ translate french ql_hayLin_go_to_school_0_96db53eb:
 translate french ql_hayLin_go_to_school_0_4e7a9137:
 
     # "Седрик утешает Хай Лин"
-    "Cedric réconforte Hai Ling"
+    "Cedric réconforte Hay Lin"
 

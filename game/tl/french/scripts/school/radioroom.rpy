@@ -34,7 +34,7 @@ translate french strings:
 
     # game/scripts/school/radioroom.rpy:13
     old "Распросить о тарани"
-    new "Demande de renseignements sur Taranja"
+    new "Demande de renseignements sur Taranee"
 
     # game/scripts/school/radioroom.rpy:13
     old "Сенсация"
