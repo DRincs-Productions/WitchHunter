@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:38\n"
+"PO-Revision-Date: 2023-11-11 09:23\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/fight/fight.rpy:219 #-#-# translate crowdin fight_transform_68f2a4d6:
 msgid "[_cedrick_sprite_] (Я не могу выдавать свою личность.)"
@@ -47,7 +47,4 @@ msgstr "{player_name} ¡Golpe crítico!"
 # game/scripts/fight/fight.rpy:360
 msgid " использует "
 msgstr " usar "
-
-msgid "Бланк"
-msgstr "Blunk"
 
