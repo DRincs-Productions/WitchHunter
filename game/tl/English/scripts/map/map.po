@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 15:42\n"
+"PO-Revision-Date: 2023-11-11 09:26\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/map/map.rpy:108 #-#-# translate crowdin map_59b5a4ee:
 msgid "[_cedrick_] (А теперь зайдем-ка в Серебряный дракон)"
@@ -66,8 +66,5 @@ msgstr ""
 
 # game/scripts/map/map.rpy:10
 msgid "Парк"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
