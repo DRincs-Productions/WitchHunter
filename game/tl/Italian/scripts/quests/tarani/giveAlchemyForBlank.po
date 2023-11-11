@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:26\n"
+"PO-Revision-Date: 2023-11-11 10:15\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:7 #-#-# translate crowdin giveAlchemyForBlank_e1f6e456:
 msgid "Спустя некоторое время в темнице меридиана"
@@ -91,7 +91,4 @@ msgstr "[_blank_] Blunk per fare tutto nel peggiore dei modi!"
 # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:57 #-#-# translate crowdin giveAlchemyForBlank_f5eb8118:
 msgid "[_cedrick_] ( Осталось только дождаться фотографий.. Надеюсь брат Найджела и в правду настолько плох, как говорила о нем мать Тарани.)"
 msgstr "[_cedrick_] ( Non mi resta che aspettare le foto. Spero che il fratello di Nigel sia davvero così cattivo come ha detto la madre di Taranee)."
-
-msgid "Бланк"
-msgstr "Blunk"
 
