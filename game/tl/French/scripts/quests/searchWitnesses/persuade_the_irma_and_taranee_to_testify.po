@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:02\n"
+"PO-Revision-Date: 2023-11-11 09:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:5 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_6bff2d15:
 msgid "[_cedrick_] Ну как вы тут, девочки? Смотрю отдельные спальные номера вам еще не выделили. Да, с бюджетом у нас нынче туго"
@@ -82,7 +82,7 @@ msgstr "[_tarani_] Irma, qu'est-ce qui ne va pas chez toi ? Arrêtez de vous com
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:61 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_f99733ed:
 msgid "[_cedrick_] Ты видимо так и не поняла сути происходящего, Тарани"
-msgstr "[_cedrick_] Vous ne semblez toujours pas comprendre ce qui se passe, Tarani"
+msgstr "[_cedrick_] Vous ne semblez toujours pas comprendre ce qui se passe, Taranee"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:65 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_ebde59ff:
 msgid "[_cedrick_] Ты взываешь к человеку, который уже давно сдался и выбрал для себя самую комфортную позицию"
@@ -122,7 +122,7 @@ msgstr "[_cedrick_] (Cette fille s'est transformée en une forteresse imprenable
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:84 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_d05f9b1a:
 msgid "[_cedrick_] (Видимо, это очередной результат моих старых просчетов. Я думал, что с Вилл будет сложнее, чем с Тарани)"
-msgstr "[_cedrick_] (Apparemment, il s'agit d'un autre résultat de mes anciennes erreurs. Je pensais que ce serait plus difficile avec Will qu'avec Tarani.)"
+msgstr "[_cedrick_] (Apparemment, il s'agit d'un autre résultat de mes anciennes erreurs. Je pensais que ce serait plus difficile avec Will qu'avec Taranee.)"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:85 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_77b614e0:
 msgid "[_cedrick_] (В итоге теперь я не могу ее сломать, потому что слишком мало уделял ей времени)"
@@ -138,7 +138,7 @@ msgstr "[_tarani_] As-tu avalé ta langue, serpent ?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:95 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_4d107a8e:
 msgid "[_cedrick_] Ирма, я приду за тобой, как только все подготовлю. Тарани остается здесь"
-msgstr "[_cedrick_] Irma, je viendrai te chercher dès que tout sera prêt. Tarani reste ici"
+msgstr "[_cedrick_] Irma, je viendrai te chercher dès que tout sera prêt. Taranee reste ici"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:99 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_541ea7a9:
 msgid "[_tarani_] Ч-что!?"
@@ -162,7 +162,7 @@ msgstr "[_cedrick_] Rester seul dans une cellule alors qu'Irma peut, ne serait-c
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:107 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_1132dc60:
 msgid "[_cedrick_] Достойная победа для тебя? Как считаешь, Тарани?"
-msgstr "[_cedrick_] Une victoire méritée pour vous ? Qu'en pensez-vous, Tarani ?"
+msgstr "[_cedrick_] Une victoire méritée pour vous ? Qu'en pensez-vous, Taranee ?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:111 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_e9ed610f:
 msgid "[_tarani_] Пф.. Это не важно. Не важно где я. Пока ты меня не сломил, стражницы еще не проиграли"
@@ -170,7 +170,7 @@ msgstr "[_tarani_] Pfft... Cela n'a pas d'importance. Peu importe où je me trou
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:115 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_1e459619:
 msgid "[_cedrick_] Это правда. Но ты проиграешь мне со временем, Тарани. Будь уверена"
-msgstr "[_cedrick_] C'est vrai. Mais tu perdras contre moi avec le temps, Tarani. Assurez-en vous"
+msgstr "[_cedrick_] C'est vrai. Mais tu perdras contre moi avec le temps, Taranee. Assurez-en vous"
 
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:119 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_2430b728:
 msgid "[_tarani_] Этому.. Этому никогда не бывать.."
@@ -215,7 +215,4 @@ msgstr "[_cedrick_] (Exactement..)"
 # game/scripts/quests/searchWitnesses/persuade_the_irma_and_taranee_to_testify.rpy:138 #-#-# translate crowdin persuade_the_irma_and_taranee_to_testify_f61aa893:
 msgid "[_cedrick_] (Сестры Грампер, вот кто мне нужен. Я должен отправиться в школу)"
 msgstr "[_cedrick_] (Les sœurs Gramper, c'est elles que je veux. Je dois aller à l'école)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
