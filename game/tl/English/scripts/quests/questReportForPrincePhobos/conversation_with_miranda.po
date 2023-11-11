@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 16:02\n"
+"PO-Revision-Date: 2023-11-11 09:45\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:6 #-#-# translate crowdin conversation_with_miranda_ba12d053:
 msgid "[_miranda_] Седрик, ты здесь! Как все прошло?"
@@ -378,8 +378,5 @@ msgstr ""
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:271 #-#-# translate crowdin conversation_with_miranda_388c19ae:
 msgid "[_cedrick_] И так, думаю не стоит больше заставлять ждать наших заключенных"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
