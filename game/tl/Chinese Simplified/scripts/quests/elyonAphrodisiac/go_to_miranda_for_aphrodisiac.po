@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 15:47\n"
+"PO-Revision-Date: 2023-11-11 09:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:5 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_008d63ae:
 msgid "[_cedrick_] Миранда, я снова на счет поручения Фобоса"
@@ -94,8 +94,5 @@ msgstr ""
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:62 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_3b54079b:
 msgid "[_miranda_] Да.. Не за что…"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
