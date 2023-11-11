@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:44\n"
+"PO-Revision-Date: 2023-11-11 09:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:7 #-#-# translate crowdin hide_and_seek_with_lilian_471e6c98:
 msgid "[_cedrick_] Твоя сестра на Меридиане.."
@@ -498,8 +498,5 @@ msgstr ""
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:240 #-#-# translate crowdin hide_and_seek_with_lilian_e200eea6:
 msgid "[_centered_] {size=37}СЕДРИК ДОСТАЕТ КОРНЕЛИЮ ИЗ СУНДУКА И ОТНОСИТ ЕЕ В ТЕМНИЦУ{/size}"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
