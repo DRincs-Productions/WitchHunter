@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:46\n"
+"PO-Revision-Date: 2023-11-11 09:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:4 #-#-# translate crowdin elion_is_being_groped_at_school_9c285532:
 msgid "[_centered_] {size=37}Тем временем в женском туалете{/size}"
@@ -159,7 +159,4 @@ msgstr "[_elion_] O-oui..."
 # game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:67 #-#-# translate crowdin elion_is_being_groped_at_school_dcda2f79:
 msgid "[_uria_] Вот и славно. Увидимся, Элион"
 msgstr "[_uria_] C'est bien. A bientôt, Elyon."
-
-msgid "Бланк"
-msgstr "Blunk"
 
