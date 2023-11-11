@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 15:26\n"
+"PO-Revision-Date: 2023-11-11 09:12\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/label_first_meet.rpy:4 #-#-# translate crowdin first_meet_8bd86d07:
 msgid "[_cedrick_] Что-ж, пока никто сюда не явился, самое время начать изучать местные книги"
@@ -235,7 +235,4 @@ msgstr "你有伊利昂的地址"
 # game/label_first_meet.rpy:213 #-#-# translate crowdin first_meet_5e6a07aa:
 msgid "[_cedrick_] ({i}Похоже, что Звезда Трибы и вправду сработала... Нужно сообщить об этом принцу Фобосу.{/i})"
 msgstr "[_cedrick_] ({i}看来部落之星真的起作用了....。我们必须通知火卫一王子。)"
-
-msgid "Бланк"
-msgstr ""
 
