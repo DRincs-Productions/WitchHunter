@@ -10,12 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:41\n"
+"PO-Revision-Date: 2023-11-11 09:26\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/map/locations/railway_station/railway_station_check_quests.rpy:7 #-#-# translate crowdin railway_station_check_quests_7a735d94:
 msgid "[_cedrick_sprite_] Мне тут нечего делать"
 msgstr "[_cedrick_sprite_] Je n'ai rien à faire ici."
-
-msgid "Бланк"
-msgstr "Blunk"
 
