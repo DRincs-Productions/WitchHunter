@@ -10,12 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:41\n"
+"PO-Revision-Date: 2023-11-11 09:26\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/map/locations/police/police_check_quests.rpy:9 #-#-# translate crowdin police_check_quests_7a735d94:
 msgid "[_cedrick_sprite_] Мне тут нечего делать"
 msgstr "[_cedrick_sprite_] Non ho niente da fare qui"
-
-msgid "Бланк"
-msgstr "Blunk"
 
