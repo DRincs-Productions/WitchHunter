@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:37\n"
+"PO-Revision-Date: 2023-11-11 09:22\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/stats/WillStats.rpy:8
 msgid "Примененные капли эссенции"
@@ -35,7 +35,4 @@ msgstr "Will tiene una gran preferencia por la gentileza"
 # game/scripts/core/stats/WillStats.rpy:51
 msgid "У Вилл повышено предпочтение жестко"
 msgstr "Will tiene una mayor preferencia por la rudeza"
-
-msgid "Бланк"
-msgstr "Blunk"
 
