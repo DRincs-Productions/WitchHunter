@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 16:07\n"
+"PO-Revision-Date: 2023-11-11 10:17\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/order_frogs_for_will.rpy:3 #-#-# translate crowdin order_frogs_for_will_f0ec319a:
 msgid "Вам не хватает денег"
@@ -27,7 +27,4 @@ msgstr "No tienes suficiente dinero"
 # §translate crowdin strings: #|#|# # game/scripts/quests/will/order_frogs_for_will.rpy:5
 msgid "Вы уверены что хотите заказать Лягушки пеппа"
 msgstr "¿Seguro que quieres pedir Ranas Peppa?"
-
-msgid "Бланк"
-msgstr "Blunk"
 
