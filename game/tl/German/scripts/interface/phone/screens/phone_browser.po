@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:40\n"
+"PO-Revision-Date: 2023-11-11 09:25\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/interface/phone/screens/phone_browser.rpy:27
 msgid "Купить билеты"
@@ -30,8 +30,5 @@ msgstr ""
 
 # game/scripts/interface/phone/screens/phone_browser.rpy:61
 msgid "Заказать форму служанки (500$)"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
