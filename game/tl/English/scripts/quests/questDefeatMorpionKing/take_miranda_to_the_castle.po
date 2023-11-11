@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 16:00\n"
+"PO-Revision-Date: 2023-11-11 09:43\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questDefeatMorpionKing/take_miranda_to_the_castle.rpy:4 #-#-# translate crowdin take_miranda_to_the_castle_64af8a0d:
 msgid "[_cedrick_] Побудь пока здесь, Миранда. Не думаю, что это чудовище дойдет до глубин замка. Даже если я против него не выстою, замок сможет отстоять Фобос, так что ты в безопасности"
@@ -42,8 +42,5 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/take_miranda_to_the_castle.rpy:19 #-#-# translate crowdin take_miranda_to_the_castle_d08d6a69:
 msgid "[_cedrick_] Это было ожидаемо, солдат. Еще повезло, что они не бьют нас в спины. Плевать на повстанцев, с ними мы разберемся позже. А пока.."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
