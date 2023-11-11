@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:40\n"
+"PO-Revision-Date: 2023-11-11 09:25\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/interface/phone/labels/resotre_books.rpy:8 #-#-# translate crowdin restore_books_1c485c2e:
 msgid "Вы приобрели новые книги из тех что проданы или пропали, в количестве: \"[restored_books_length]\""
@@ -28,7 +28,4 @@ msgstr "Non avendo denaro a sufficienza, non ha potuto acquistare i libri rimane
 # game/scripts/interface/phone/labels/resotre_books.rpy:14 #-#-# translate crowdin restore_books_556c0c8b:
 msgid "Вам не хватает денег, чтобы запастись хотя бы одной книгой"
 msgstr "Non avete abbastanza soldi per fare scorta di almeno un libro"
-
-msgid "Бланк"
-msgstr "Blunk"
 
