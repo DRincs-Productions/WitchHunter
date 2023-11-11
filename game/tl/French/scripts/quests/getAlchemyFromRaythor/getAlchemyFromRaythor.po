@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:24\n"
+"PO-Revision-Date: 2023-11-11 08:50\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:5 #-#-# translate crowdin getAlchemyFromRaythor_2cc482bf:
 msgid "[_raythor_] О, снова ты, Седрик? Какими судьбами?"
@@ -161,5 +161,5 @@ msgid "[_cedrick_] (Черт, девчонка отрубилась. Надо д
 msgstr "[_cedrick_] (Merde, la fille s'est évanouie. Nous devrions lui laisser le temps de se remettre de ce qui s'est passé. Laissez-la se reposer dans sa cellule pour le moment)."
 
 msgid "Бланк"
-msgstr "Formulaire"
+msgstr "Blunk"
 
