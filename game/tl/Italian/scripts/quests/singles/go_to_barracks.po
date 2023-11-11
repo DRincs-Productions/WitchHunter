@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 16:03\n"
+"PO-Revision-Date: 2023-11-11 10:13\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/singles/go_to_barracks.rpy:6 #-#-# translate crowdin go_to_barracks_1d604acb:
 msgid "[_raythor_] Оу! Вы только посмотрите... Кто же к нам пожаловал... Какая честь, сам лорд Седрик!"
@@ -35,7 +35,4 @@ msgstr "[_raythor_] A proposito, se le cose si mettono male per voi, potete iniz
 # game/scripts/quests/singles/go_to_barracks.rpy:11 #-#-# translate crowdin go_to_barracks_5ba7e34e:
 msgid "[_raythor_] Нашивки тоже сойдут..."
 msgstr "[_raythor_] Le patch faranno anche..."
-
-msgid "Бланк"
-msgstr "Blunk"
 
