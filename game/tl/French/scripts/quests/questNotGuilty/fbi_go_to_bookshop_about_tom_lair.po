@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:00\n"
+"PO-Revision-Date: 2023-11-11 09:44\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:6 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_33e12e8d:
 msgid "[_medina_] Добрый вечер"
@@ -79,7 +79,4 @@ msgstr "[_cedrick_] (Ouf… C'est raté... On dirait qu'ils n'ont aucune preuve�
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:46 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_1dc146bb:
 msgid "[_cedrick_] (Возможно, Миранда сможет как-нибудь клонировать Тома Лэира для того, чтобы его клон показался в полицейском участке… Нужно поговорить с ней об этом… Хорошо, что я оставил его в живых…)"
 msgstr "[_cedrick_] (Peut-être que Miranda peut cloner Tom Lair pour que son clone se présente au poste de police… Il faut lui en parler… Heureusement que je l'ai gardé en vie…)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
