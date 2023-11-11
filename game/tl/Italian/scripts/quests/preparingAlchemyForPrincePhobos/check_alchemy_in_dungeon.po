@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:58\n"
+"PO-Revision-Date: 2023-11-11 09:42\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:6 #-#-# translate crowdin check_alchemy_in_dungeon_a20cefa7:
 msgid "..."
@@ -131,7 +131,4 @@ msgstr "[_raythor_] Ahem... A proposito, Cedric, cos'hai che non va? Non hai un 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:99 #-#-# translate crowdin check_alchemy_in_dungeon_9898dc61:
 msgid "[_raythor_] Смотрю после понижения по службе дела у тебя совсем плохи. Может, я сам отведу девушку? Не волнуйся, я передам Лорду Фобосу, что она от тебя"
 msgstr "[_raythor_] Vedo che non te la passi bene dopo la tua retrocessione. Perché non prendo io la ragazza? Non preoccuparti, dirò a Lord Phobos che è da parte tua."
-
-msgid "Бланк"
-msgstr "Blunk"
 
