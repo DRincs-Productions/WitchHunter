@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:43\n"
+"PO-Revision-Date: 2023-11-11 09:28\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:81 #-#-# translate crowdin poker_dice_game_b4e4591c:
 msgid "Седрик бросил кости"
@@ -110,8 +110,5 @@ msgstr ""
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:351
 msgid "Продолжить играть"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
