@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 15:27\n"
+"PO-Revision-Date: 2023-11-11 09:13\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/afterload.rpy:193 #-#-# translate crowdin after_load_79db8d33:
 msgid "[_centered_] Выбранное сохранение не поддерживается и вы не сможете получить новый контент."
@@ -31,7 +31,4 @@ msgstr "您确定要加载不支持的保存吗？"
 # game/scripts/afterload.rpy:211
 msgid "Брайан.. Это Элион.. мне очень плохо… Нам нужно срочно увидеться, ты можешь прийти?"
 msgstr "布莱恩我是伊利昂，我真的病了… 我们急需见你，你能来吗？"
-
-msgid "Бланк"
-msgstr ""
 
