@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:44\n"
+"PO-Revision-Date: 2023-11-11 09:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/boxWithBooks/bryan_coming.rpy:4 #-#-# translate crowdin bryan_coming_bdc90698:
 msgid "[_elion_] Ладно, Рик. Мне уже пора идти"
@@ -95,7 +95,4 @@ msgstr "[_cedrick_sprite_zol_] (Será un fastidio para mí, ¡tengo que encontra
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:47 #-#-# translate crowdin bryan_coming_4fbaecac:
 msgid "[_cedrick_sprite_zol_] (На Меридиане этот хлипкий уродец наверняка бы выступал в качестве шута или в поисках пропитания давал бы в задницу Лурденам за булку хлеба...)"
 msgstr "[_cedrick_sprite_zol_] (En Meridian, este endeble engendro probablemente actuaría como un bufón o le daría una patada en el culo a Lourdain por una barra de pan en busca de sustento...)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
