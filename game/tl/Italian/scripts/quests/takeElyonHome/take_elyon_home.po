@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:26\n"
+"PO-Revision-Date: 2023-11-11 10:13\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:5 #-#-# translate crowdin take_elyon_home_b1056ea5:
 msgid "[_elion_] Рик, слушай.. Не мог бы ты меня сегодня проводить до дома?"
@@ -211,7 +211,4 @@ msgstr "[_eleanor_] È un piacere vederti"
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:102 #-#-# translate crowdin take_elyon_home_d1335afa:
 msgid "[_elion_] До завтра, Рик!"
 msgstr "[_elion_] Ci vediamo domani, Rick!"
-
-msgid "Бланк"
-msgstr "Blunk"
 
