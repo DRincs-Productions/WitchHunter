@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:49\n"
+"PO-Revision-Date: 2023-11-11 09:33\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/giveTshirtForBlank.rpy:10 #-#-# translate crowdin giveTshirtForBlank_a76fb0e0:
 msgid "[_cedrick_] Вот твоя футболка, теперь займись поиском билетов!"
@@ -18,8 +18,5 @@ msgstr ""
 
 # game/scripts/quests/getConcertTickets/giveTshirtForBlank.rpy:11 #-#-# translate crowdin giveTshirtForBlank_f5df145c:
 msgid "[_blank_] Бланк все сделать!"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
