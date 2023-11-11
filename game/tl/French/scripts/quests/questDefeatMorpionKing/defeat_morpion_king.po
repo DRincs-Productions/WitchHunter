@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:24\n"
+"PO-Revision-Date: 2023-11-11 08:50\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -1882,7 +1882,7 @@ msgstr "..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1317 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_bf164ccc:
 msgid "[_cedrick_] (Так, первым делом нужно разобраться с детективами. Ирма и Тарани, несмотря на всю свою силу, всего лишь две школьницы. С ними я справлюсь, а вот с розыском сложнее..)"
-msgstr "[_cedrick_] (OK, le premier ordre du jour est de s'occuper des détectives. Irma et Tarani, malgré toute leur puissance, ne sont que deux écolières. Je peux m'occuper d'elles, mais la recherche est plus difficile...)"
+msgstr "[_cedrick_] (OK, le premier ordre du jour est de s'occuper des détectives. Irma et Taranee, malgré toute leur puissance, ne sont que deux écolières. Je peux m'occuper d'elles, mais la recherche est plus difficile...)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1318 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_aed41212:
 msgid "[_cedrick_] (Там было два детектива. Медина и Мактиннен. Нужно провернуть с Мединой тот же фокус, что с Корнелией, но..)"
@@ -1913,5 +1913,5 @@ msgid "Спросить про подруг"
 msgstr "Demande de renseignements sur les petites amies"
 
 msgid "Бланк"
-msgstr "Formulaire"
+msgstr "Blunk"
 
