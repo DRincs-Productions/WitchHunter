@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:42\n"
+"PO-Revision-Date: 2023-11-11 09:27\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/meridian/dungeon/dungeon_with_cornelia.rpy:14 #-#-# translate crowdin dungeon_with_cornelia_998e1cd0:
 msgid "[_cedrick_] Мне стоит навестить Корнелию в другой день."
@@ -19,7 +19,4 @@ msgstr "[_cedrick_] Dovrei andare a trovare Cornelia un altro giorno."
 # game/scripts/meridian/dungeon/dungeon_with_cornelia.rpy:20 #-#-# translate crowdin dungeon_with_cornelia_3167f288:
 msgid "[_cedrick_] Мне здесь нечего делать."
 msgstr "[_cedrick_] Non ho nulla da fare qui."
-
-msgid "Бланк"
-msgstr "Blunk"
 
