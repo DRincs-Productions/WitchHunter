@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 15:56\n"
+"PO-Revision-Date: 2023-11-11 09:40\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:8 #-#-# translate crowdin quest_new_student_teachers_meeting_d9616179:
 msgid "[_physteacher_] Рик! Дружище, спасибо, что выручил в тот раз. Знатно я тогда перебрал.."
@@ -230,8 +230,5 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:178 #-#-# translate crowdin quest_new_student_teachers_meeting_88e2a6dc:
 msgid "[_cedrick_] (Удачи, Бартон)"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
