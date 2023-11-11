@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:56\n"
+"PO-Revision-Date: 2023-11-11 09:40\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/meetReadings/meetReadings.rpy:11 #-#-# translate crowdin meetReadings_0222616b:
 msgid "[_cedrick_] ... Я открыл дверь и вышел на крыльцо. Там сидел незнакомый кот."
@@ -43,7 +43,4 @@ msgstr "[_cedrick_] (Bueno, parece que organizar una lectura pública fue realme
 # game/scripts/quests/meetReadings/meetReadings.rpy:29 #-#-# translate crowdin no_meetReadings_03346fe8:
 msgid "[_cedrick_sprite_] Эти встречи лучше всего проводить днем"
 msgstr "[_cedrick_sprite_] Estas reuniones se realizan mejor durante el día"
-
-msgid "Бланк"
-msgstr "Blunk"
 
