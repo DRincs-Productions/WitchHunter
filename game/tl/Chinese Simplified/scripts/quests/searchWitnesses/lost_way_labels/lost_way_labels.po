@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 16:03\n"
+"PO-Revision-Date: 2023-11-11 09:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/lost_way_labels/lost_way_labels.rpy:2 #-#-# translate crowdin lost_way_persuade_the_bryan_to_testify_c6423e0b:
 msgid "[_cedrick_] Мне нужно отправляться в шахты за Брайаном"
@@ -22,8 +22,5 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/lost_way_labels/lost_way_labels.rpy:12 #-#-# translate crowdin lost_way_persuade_the_irma_and_taranee_to_testify_c3b89587:
 msgid "[_cedrick_] Мне нужно отправляться в замок и поговорить с Ирмой и Тарани"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
