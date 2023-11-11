@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:47\n"
+"PO-Revision-Date: 2023-11-11 09:32\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:8 #-#-# translate crowdin talk_with_elyon_about_bad_cornelia_5059e0a4:
 msgid "[_cedrick_] Что стряслось, элион? У тебя хмурый вид."
@@ -43,7 +43,4 @@ msgstr "[_cedrick_] Tu peux toujours me parler, Elion. De tout..."
 # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:25 #-#-# translate crowdin talk_with_elyon_about_bad_cornelia_cd201c19:
 msgid "[_elion_] Спасибо, Рик... ты очень добр ко мне..."
 msgstr "[_elion_] Merci, Rick... tu es très gentil avec moi..."
-
-msgid "Бланк"
-msgstr "Blunk"
 
