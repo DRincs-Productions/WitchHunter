@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:55\n"
+"PO-Revision-Date: 2023-11-11 09:39\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/irma/fuckIrma.rpy:13 #-#-# translate crowdin fuckIrma_df80b5ca:
 msgid "[_irma_] Профессор Хоффман! Здравствуйте, я пришла помочь.."
@@ -554,8 +554,5 @@ msgstr ""
 
 # game/scripts/quests/irma/fuckIrma.rpy:361 #-#-# translate crowdin fuckIrma_a20cefa7_10:
 msgid "..."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
