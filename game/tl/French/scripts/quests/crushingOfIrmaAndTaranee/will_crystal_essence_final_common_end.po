@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:45\n"
+"PO-Revision-Date: 2023-11-11 09:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:3 #-#-# translate crowdin will_crystal_essence_final_common_end_a20cefa7:
 msgid "..."
@@ -59,7 +59,4 @@ msgstr "[_centered_] {size=37}CÉDRIC TROUVE UNE CASQUETTE ET DES LUNETTES DE SO
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:20 #-#-# translate crowdin will_crystal_essence_final_common_end_28265236:
 msgid "[_cedrick_] (Ну.. По крайней мере в фильмах это всегда работает..)"
 msgstr "[_cedrick_] (Eh bien... Au moins, dans les films, cela fonctionne toujours...)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
