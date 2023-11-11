@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:49\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/buyCat.rpy:6 #-#-# translate crowdin buyCat_42bc4d4f:
 msgid "[_cedrick_] Отдай кота"
@@ -87,7 +87,4 @@ msgstr ""
 # §translate crowdin strings: #|#|# # game/scripts/quests/giftForLilian/buyCat.rpy:43
 msgid "Корнелия, привет."
 msgstr ""
-
-msgid "Бланк"
-msgstr "Blunk"
 
