@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:47\n"
+"PO-Revision-Date: 2023-11-11 09:32\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/exploreTheCity/look_into_railway_station.rpy:3 #-#-# translate crowdin look_into_railway_station_7ddefe38:
 msgid "[_cedrick_] А это, как я полагаю, так называемый Вокзал — место, откуда можно быстро добраться до другой отдаленной точки земли на механическом средстве передвижения…"
@@ -23,7 +23,4 @@ msgstr "[_cedrick_] Sin embargo, por lo que he leído, debe de ser una forma bas
 # game/scripts/quests/exploreTheCity/look_into_railway_station.rpy:5 #-#-# translate crowdin look_into_railway_station_bd43a099:
 msgid "[_cedrick_] Еще ни разу не пробовал прокатиться… впрочем… навряд-ли мне понадобится пользоваться этим в ближайшее время…"
 msgstr "[_cedrick_] Aún no lo he probado… sin embargo… no creo que necesite usarlo pronto…"
-
-msgid "Бланк"
-msgstr "Blunk"
 
