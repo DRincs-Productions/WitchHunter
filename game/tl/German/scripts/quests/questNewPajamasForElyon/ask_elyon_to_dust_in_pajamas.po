@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:59\n"
+"PO-Revision-Date: 2023-11-11 09:43\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_dust_in_pajamas.rpy:5 #-#-# translate crowdin ask_elyon_to_dust_in_pajamas_1f8fc468:
 msgid "[_cedrick_] Элион, настало время для рутинной работы в библиотеке"
@@ -138,8 +138,5 @@ msgstr ""
 
 # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_dust_in_pajamas.rpy:22
 msgid "Шлепнуть"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
