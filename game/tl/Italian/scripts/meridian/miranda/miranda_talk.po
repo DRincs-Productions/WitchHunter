@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:43\n"
+"PO-Revision-Date: 2023-11-11 09:27\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/meridian/miranda/miranda_talk.rpy:8 #-#-# translate crowdin miranda_talk_bbbe53fc:
 msgid "[_cedrick_sprite_] Чем ты здесь занимаешься?"
@@ -43,7 +43,4 @@ msgstr "[_miranda_] Non siamo mai riusciti a stabilire a quale razza appartenga.
 # game/scripts/meridian/miranda/miranda_talk.rpy:35 #-#-# translate crowdin miranda_talk_641ad2e7:
 msgid "[_cedrick_sprite_] Ясно..."
 msgstr "[_cedrick_sprite_] Capisco..."
-
-msgid "Бланк"
-msgstr "Blunk"
 
