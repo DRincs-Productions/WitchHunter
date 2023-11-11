@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:39\n"
+"PO-Revision-Date: 2023-11-11 09:24\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/interface/phone/labels/phone_buy_items.rpy:10 #-#-# translate crowdin phone_buy_items_39a338e3:
 msgid "вы приобрели \"[item_name]\""
@@ -23,7 +23,4 @@ msgstr "siete a corto di denaro"
 # §translate crowdin strings: #|#|# # game/scripts/interface/phone/labels/phone_buy_items.rpy:5
 msgid "Вы уверены что хотите купить \"[item_name]\" за [item_cost] $ ?"
 msgstr "Sei sicuro di voler acquistare \"[item_name]\" per [item_cost] $ ?"
-
-msgid "Бланк"
-msgstr "Blunk"
 
