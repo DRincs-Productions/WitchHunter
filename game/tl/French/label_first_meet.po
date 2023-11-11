@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:20\n"
+"PO-Revision-Date: 2023-11-11 09:12\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/label_first_meet.rpy:4 #-#-# translate crowdin first_meet_8bd86d07:
 msgid "[_cedrick_] Что-ж, пока никто сюда не явился, самое время начать изучать местные книги"
@@ -235,7 +235,4 @@ msgstr "Vous avez reçu l'adresse d'Elion."
 # game/label_first_meet.rpy:213 #-#-# translate crowdin first_meet_5e6a07aa:
 msgid "[_cedrick_] ({i}Похоже, что Звезда Трибы и вправду сработала... Нужно сообщить об этом принцу Фобосу.{/i})"
 msgstr "[_cedrick_] ({i}On dirait que l'étoile de la tribu a vraiment fonctionné... Nous devons le faire savoir au Prince Phobos."
-
-msgid "Бланк"
-msgstr "Blunk"
 
