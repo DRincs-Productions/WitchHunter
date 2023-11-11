@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 15:32\n"
+"PO-Revision-Date: 2023-11-11 09:17\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/core/UpdateInfo.rpy:272 #-#-# translate crowdin update_info_end_label_ab20a80b:
 msgid "Конец версии [config.version]"
@@ -26,8 +26,5 @@ msgstr ""
 
 # game/scripts/core/UpdateInfo.rpy:199
 msgid "Не удалось получить информацию о новом обновлении. В этом случае вы можете получить информацию о всех обновлениях на наших страницах:"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
