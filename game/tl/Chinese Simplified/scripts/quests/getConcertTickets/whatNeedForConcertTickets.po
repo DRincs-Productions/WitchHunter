@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 15:49\n"
+"PO-Revision-Date: 2023-11-11 09:33\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/whatNeedForConcertTickets.rpy:7 #-#-# translate crowdin whatNeedForConcertTickets_4b05d954:
 msgid "[_blank_] Ты принес модный футболка для бланк?"
@@ -18,8 +18,5 @@ msgstr ""
 
 # game/scripts/quests/getConcertTickets/whatNeedForConcertTickets.rpy:8 #-#-# translate crowdin whatNeedForConcertTickets_b2bff8c9:
 msgid "[_cedrick_] еще нет"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
