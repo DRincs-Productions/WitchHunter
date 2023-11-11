@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 16:02\n"
+"PO-Revision-Date: 2023-11-11 09:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:6 #-#-# translate crowdin persuade_the_cornelia_to_testify_299f9a94:
 msgid "[_cornelia_] Снова ты, змей? Я как раз думала, когда ты снова зайдешь. В темнице довольно скучно, знаешь ли"
@@ -79,7 +79,4 @@ msgstr "[_cedrick_] Vedremo."
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:56 #-#-# translate crowdin persuade_the_cornelia_to_testify_4e4d355b:
 msgid "[_cedrick_] (Так, Корнелия есть. Остались двое. Тарани и Ирма. С Ирмой не должно быть проблем, но вот Тарани..)"
 msgstr "[_cedrick_] (Quindi, Cornelia è lì. Ne restano due. Taranee e Irma. Irma non dovrebbe essere un problema, ma Taranee...)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
