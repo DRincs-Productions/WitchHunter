@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:20\n"
+"PO-Revision-Date: 2023-11-11 10:13\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/singles/prologue.rpy:10 #-#-# translate crowdin prologue_659381e6:
 msgid "[_centered_] {size=37}Меридиан\n"
@@ -277,7 +277,4 @@ msgstr "[_cedrick_] ({i}Je suis ici depuis quelques jours... Cette étoile fonct
 # game/scripts/quests/singles/prologue.rpy:210 #-#-# translate crowdin prologue_db7baa18:
 msgid "[_cedrick_] ({i}Нужно осмотреться...{/i})"
 msgstr "[_cedrick_] ({i}Nous devons jeter un coup d'œil...{/i})"
-
-msgid "Бланк"
-msgstr "Blunk"
 
