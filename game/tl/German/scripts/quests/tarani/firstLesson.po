@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 16:05\n"
+"PO-Revision-Date: 2023-11-11 10:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/firstLesson.rpy:10 #-#-# translate crowdin firstLesson_c00ee63f:
 msgid "[_cedrick_] Меня зовут Рик Хоффман и с этого дня я ваш новый учитель истории."
@@ -82,8 +82,5 @@ msgstr ""
 
 # game/scripts/quests/tarani/firstLesson.rpy:68 #-#-# translate crowdin firstLesson_b4f220ba:
 msgid "[_cedrick_] (Несколько Стражниц учатся в моем классе… Какое удивительное совпадение… Что ж, это мне только на руку.)"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
