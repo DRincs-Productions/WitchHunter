@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:08\n"
+"PO-Revision-Date: 2023-11-11 10:18\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_home5.rpy:8 #-#-# translate crowdin will_home5_5a4eb973:
 msgid "[_cedrick_] Привет"
@@ -51,7 +51,4 @@ msgstr "[_cedrick_] (Ce... bâtard sanglant...)"
 # game/scripts/quests/will/will_home5.rpy:45 #-#-# translate crowdin will_home5_46bb023d:
 msgid "[_cedrick_] (Говоришь он исправился, нужно найти способ доказать ей обратное...)"
 msgstr "[_cedrick_] (Vous dites qu'il est réformé, vous devez trouver un moyen de lui prouver qu'elle a tort...)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
