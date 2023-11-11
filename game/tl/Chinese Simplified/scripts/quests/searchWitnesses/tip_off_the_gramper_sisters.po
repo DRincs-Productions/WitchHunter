@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 16:03\n"
+"PO-Revision-Date: 2023-11-11 10:12\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:11 #-#-# translate crowdin tip_off_the_gramper_sisters_e69c7f7f:
 msgid "[_cedrick_] Девочки, привет"
@@ -358,8 +358,5 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:217 #-#-# translate crowdin tip_off_the_gramper_sisters_7e56f820:
 msgid "[_medina_] Дата уже назначена. Не забудь купить подходящий костюм. Это будет очень важный для тебя день"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
