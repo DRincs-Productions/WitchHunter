@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:54\n"
+"PO-Revision-Date: 2023-11-11 09:38\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_go_to_school_1.rpy:6 #-#-# translate crowdin ql_hayLin_go_to_school_1_bc6f83aa:
 msgid "[_cedrick_] (Хм, кто-то оставил кабинет открытым?)"
@@ -115,7 +115,4 @@ msgstr "[_cedrick_] No te preocupes. ¡Estoy seguro de que ganarás el concurso 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_1.rpy:39 #-#-# translate crowdin ql_hayLin_go_to_school_1_b4ab83fa:
 msgid "[_cedrick_] Ну, что ж... Я бы с радостью еще поболтал с тобой, но не хочу тебя отвлекать и у меня еще есть незаконченные дела..."
 msgstr "[_cedrick_] Oh, bueno... Me encantaría seguir hablando contigo, pero no quiero distraerte y aún tengo asuntos pendientes..."
-
-msgid "Бланк"
-msgstr "Blunk"
 
