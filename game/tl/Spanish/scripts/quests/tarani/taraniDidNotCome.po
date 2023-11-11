@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 16:06\n"
+"PO-Revision-Date: 2023-11-11 10:16\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/taraniDidNotCome.rpy:7 #-#-# translate crowdin taraniDidNotCome_ca4eb251:
 msgid "[_cedrick_] Какой замечательный день для урока истории, не правда ли?"
@@ -27,7 +27,4 @@ msgstr "[_cedrick_] (Parece que Taranee decidió no asistir a mi clase de hoy…
 # game/scripts/quests/tarani/taraniDidNotCome.rpy:12 #-#-# translate crowdin taraniDidNotCome_a20cefa7:
 msgid "..."
 msgstr "..."
-
-msgid "Бланк"
-msgstr "Blunk"
 
