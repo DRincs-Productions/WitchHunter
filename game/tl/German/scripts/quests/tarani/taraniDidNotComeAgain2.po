@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 16:06\n"
+"PO-Revision-Date: 2023-11-11 10:16\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/taraniDidNotComeAgain2.rpy:8 #-#-# translate crowdin taraniDidNotComeAgain2_865c156a:
 msgid "[_cedrick_] Приветствую всех! Сегодня мы приступим к изучению новой темы!"
@@ -18,8 +18,5 @@ msgstr ""
 
 # game/scripts/quests/tarani/taraniDidNotComeAgain2.rpy:11 #-#-# translate crowdin taraniDidNotComeAgain2_d7e5b68f:
 msgid "[_cedrick_] (Тарани опять не пришла в школу… Надо бы ее навестить..)"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
