@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 15:40\n"
+"PO-Revision-Date: 2023-11-11 09:24\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/interface/phone/labels/call_bryan.rpy:2 #-#-# translate crowdin subscriber_is_not_responding_86f95c52:
 msgid "гудки"
@@ -22,8 +22,5 @@ msgstr "..."
 
 # game/scripts/interface/phone/labels/call_bryan.rpy:4 #-#-# translate crowdin subscriber_is_not_responding_524e39e6:
 msgid "Абонент не отвечает, оставьте сообщение после сигнала."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
