@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:53\n"
+"PO-Revision-Date: 2023-11-11 09:38\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:6 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_77013e39:
 msgid "[_johnlin_] Рик! Привет! Снова пришел поработать?"
@@ -475,7 +475,4 @@ msgstr "[_centered_] {size=36}EL NÚMERO DE JOAN LIN SE MUESTRA EN TU TELÉFONO.
 # §translate crowdin strings: #|#|# # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:329
 msgid "Джоан Лин"
 msgstr "Joan Lin"
-
-msgid "Бланк"
-msgstr "Blunk"
 
