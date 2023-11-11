@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:26\n"
+"PO-Revision-Date: 2023-11-11 10:21\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/characters.rpy:9
 msgid "Продавец"
@@ -407,7 +407,4 @@ msgstr "Silvio Dante"
 # game/scripts/sell_books_game/characters.rpy:871
 msgid "Лилит"
 msgstr "Lilith"
-
-msgid "Бланк"
-msgstr "Blunk"
 
