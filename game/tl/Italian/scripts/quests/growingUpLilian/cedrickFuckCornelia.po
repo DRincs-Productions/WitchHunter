@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:51\n"
+"PO-Revision-Date: 2023-11-11 09:36\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:8 #-#-# translate crowdin cedrickFuckCornelia_6c4d8c0d:
 msgid "[_cedrick_] Корнелия! Подойди ко мне, есть разговор."
@@ -215,7 +215,4 @@ msgstr "[_cornelia_] Spero che manterrà il segreto."
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:85 #-#-# translate crowdin cedrickFuckCornelia_00d2a8e0:
 msgid "[_cedrick_] Посмотрим на твое поведение, а теперь иди на урок."
 msgstr "[_cedrick_] Vediamo come ti comporti, ora vai in classe."
-
-msgid "Бланк"
-msgstr "Blunk"
 
