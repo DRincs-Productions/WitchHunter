@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:20\n"
+"PO-Revision-Date: 2023-11-11 10:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/firstLesson.rpy:10 #-#-# translate crowdin firstLesson_c00ee63f:
 msgid "[_cedrick_] Меня зовут Рик Хоффман и с этого дня я ваш новый учитель истории."
@@ -62,7 +62,7 @@ msgstr "[_irma_] Vous vous moquez de moi ? Donc notre Taranee peut sécher les c
 
 # game/scripts/quests/tarani/firstLesson.rpy:49 #-#-# translate crowdin firstLesson_e3e6a377:
 msgid "[_tarani_] Не хочу.. Препарировать лягушек… Какая мерзость.."
-msgstr "[_Taranee_] Je ne veux pas... Disséquer des grenouilles… Quelle abomination..."
+msgstr "[_tarani_] Je ne veux pas... Disséquer des grenouilles… Quelle abomination..."
 
 # game/scripts/quests/tarani/firstLesson.rpy:55 #-#-# translate crowdin firstLesson_c646d24e:
 msgid "[_irma_] Если тебе сложно, я могу препарировать твою, но тебе придется притвориться, будто тебя тошнит."
@@ -70,11 +70,11 @@ msgstr "[_irma_] Si vous trouvez ça difficile, je peux disséquer le vôtre, ma
 
 # game/scripts/quests/tarani/firstLesson.rpy:61 #-#-# translate crowdin firstLesson_bd8e4135:
 msgid "[_tarani_] Кажется.. Притворяться мне не придется..."
-msgstr "[_Taranee_] Il semble... que je n'aurai pas à faire semblant..."
+msgstr "[_tarani_] Il semble... que je n'aurai pas à faire semblant..."
 
 # game/scripts/quests/tarani/firstLesson.rpy:62 #-#-# translate crowdin firstLesson_e209df35:
 msgid "[_tarani_] Эх ладно, пошли.."
-msgstr "[_Taranee_] Très bien, allons-y..."
+msgstr "[_tarani_] Très bien, allons-y..."
 
 # game/scripts/quests/tarani/firstLesson.rpy:67 #-#-# translate crowdin firstLesson_a20cefa7_1:
 msgid "..."
@@ -83,7 +83,4 @@ msgstr "..."
 # game/scripts/quests/tarani/firstLesson.rpy:68 #-#-# translate crowdin firstLesson_b4f220ba:
 msgid "[_cedrick_] (Несколько Стражниц учатся в моем классе… Какое удивительное совпадение… Что ж, это мне только на руку.)"
 msgstr "[_cedrick_] (Plusieurs des Gardiens sont dans ma classe… Quelle incroyable coïncidence… Bien, cela ne profite qu'à moi)."
-
-msgid "Бланк"
-msgstr "Blunk"
 
