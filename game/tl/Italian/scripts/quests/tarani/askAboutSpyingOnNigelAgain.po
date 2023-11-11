@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:26\n"
+"PO-Revision-Date: 2023-11-11 10:13\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:6 #-#-# translate crowdin askAboutSpyingOnNigelAgain_307948ad:
 msgid "[_cedrick_] Мне нужно чтобы ты снова проследил за Найджелом!"
@@ -59,7 +59,4 @@ msgstr "[_cedrick_] Vedrò cosa posso fare..."
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:23 #-#-# translate crowdin askAboutSpyingOnNigelAgain_dadf60c6:
 msgid "[_cedrick_] (Что ж, теперь мне нужно найти золотую цепь для этого дебила-имбецила, вероятно я смогу купить краденую цепь у вокзала..)"
 msgstr "[_cedrick_] (Beh, ora devo trovare una catena d'oro per questo imbecille ritardato, probabilmente posso comprare una catena rubata fuori dalla stazione ferroviaria...)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
