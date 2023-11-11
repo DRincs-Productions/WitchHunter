@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-11 08:50\n"
+"PO-Revision-Date: 2023-11-11 09:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:3 #-#-# translate crowdin buy_a_business_suit_cdeda416:
 msgid "У меня сейчас не хватает денег на деловой костюм"
@@ -3831,7 +3831,4 @@ msgstr "[_cedrick_] (Renverser Phobos. Et pour cela, je dois travailler avec les
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1917 #-#-# translate crowdin buy_a_business_suit_f590ec32:
 msgid "[_cedrick_] (Но для начала.. Я должен вернуться в магазинчик и отдохнуть.. Эта судебная рутина чертовски выматывающая..)"
 msgstr "[_cedrick_] (Mais d'abord... Je dois retourner à l'atelier et me reposer... Cette routine de procès est épuisante comme l'enfer...)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
