@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:35\n"
+"PO-Revision-Date: 2023-11-11 09:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestNewPajamasForElyon.rpy:4
 msgid "Пижама для Элион"
@@ -31,7 +31,4 @@ msgstr ""
 # game/scripts/core/quests/QuestNewPajamasForElyon.rpy:16
 msgid "Попросить Элион провести публичные чтения в пижаме"
 msgstr ""
-
-msgid "Бланк"
-msgstr "Blunk"
 
