@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:25\n"
+"PO-Revision-Date: 2023-11-11 08:50\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:3 #-#-# translate crowdin buy_a_business_suit_cdeda416:
 msgid "У меня сейчас не хватает денег на деловой костюм"
@@ -2214,7 +2214,7 @@ msgstr "[_cedrick_] (Ici, elle n'a absolument aucune contradiction dans son espr
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:994 #-#-# translate crowdin buy_a_business_suit_706f127a:
 msgid "[_cedrick_] (Мда, что-то идет как надо, а что-то не очень, в случае с Ирмой.. Интересно, как с Тарани пойдет)"
-msgstr "[_cedrick_] (Oui, il y a des choses qui marchent et d'autres qui ne marchent pas, dans le cas d'Irma...). Je me demande comment cela va se passer avec Tarani)"
+msgstr "[_cedrick_] (Oui, il y a des choses qui marchent et d'autres qui ne marchent pas, dans le cas d'Irma...). Je me demande comment cela va se passer avec Taranee)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:995 #-#-# translate crowdin buy_a_business_suit_6c2b619c:
 msgid "[_cornelia_] Аааах.. Дааа.. Продолжай.."
@@ -3833,5 +3833,5 @@ msgid "[_cedrick_] (Но для начала.. Я должен вернутьс�
 msgstr "[_cedrick_] (Mais d'abord... Je dois retourner à l'atelier et me reposer... Cette routine de procès est épuisante comme l'enfer...)"
 
 msgid "Бланк"
-msgstr "Formulaire"
+msgstr "Blunk"
 
