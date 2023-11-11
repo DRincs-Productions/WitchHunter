@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:25\n"
+"PO-Revision-Date: 2023-11-11 08:50\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:5 #-#-# translate crowdin tryToBlowjobByTarani_8ee11483:
 msgid "[_cedrick_] Новый день – новый путь к знаниям. А то, как вы усвоили предыдущие знания на моем уроке, мы узнаем с помощью проверочной работы"
@@ -22,11 +22,11 @@ msgstr "[_centered_] {size=37}après le test{/size}"
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:13 #-#-# translate crowdin tryToBlowjobByTarani_ee17437a:
 msgid "[_cedrick_] Тарани, не останешься помочь мне с проверкой?"
-msgstr "[_cedrick_] Tarani, pouvez-vous rester et m'aider à vérifier ?"
+msgstr "[_cedrick_] Taranee, pouvez-vous rester et m'aider à vérifier ?"
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:14 #-#-# translate crowdin tryToBlowjobByTarani_e46de5b2:
 msgid "[_tarani_] Я так не думаю.. Пойдемте, девочки"
-msgstr "[_tarani_] Je ne pense pas. Allez, les filles."
+msgstr "[_Taranee_] Je ne pense pas. Allez, les filles."
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:15 #-#-# translate crowdin tryToBlowjobByTarani_6abc4931:
 msgid "[_cedrick_] (..Что за? Что она себе позволяет?)"
@@ -50,12 +50,12 @@ msgstr "[_cedrick_] (Non, le travail est trop bien conçu, donc on ne peut pas v
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:22 #-#-# translate crowdin tryToBlowjobByTarani_459fb041:
 msgid "[_cedrick_] (Это Тарани подменила его листок.. Она сделала работу за двоих. Чертовка, нашла способ, как меня обойти..)"
-msgstr "[_cedrick_] (C'est Tarani qui a échangé sa feuille. Elle a fait le travail pour deux. Merde, elle a trouvé un moyen de me contourner...)"
+msgstr "[_cedrick_] (C'est Taranee qui a échangé sa feuille. Elle a fait le travail pour deux. Merde, elle a trouvé un moyen de me contourner...)"
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:25 #-#-# translate crowdin tryToBlowjobByTarani_ed426cb8:
 msgid "[_cedrick_] (Мне придется найти новый способ, как ее шантажировать!.. Возможно, стоит начать с ее дома?)"
 msgstr "[_cedrick_] (Je vais devoir trouver un nouveau moyen de la faire chanter ... ! Peut-être devrions-nous commencer par sa maison ?)"
 
 msgid "Бланк"
-msgstr "Formulaire"
+msgstr "Blunk"
 
