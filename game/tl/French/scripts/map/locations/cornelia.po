@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:41\n"
+"PO-Revision-Date: 2023-11-11 09:26\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/map/locations/cornelia.rpy:8 #-#-# translate crowdin cornelia_5ef2d669:
 msgid "Неподходящее время для похода на каток. Мне нужно дождаться дня."
@@ -19,7 +19,4 @@ msgstr "Ce n'est pas le bon moment pour aller à la patinoire. Je dois attendre 
 # game/scripts/map/locations/cornelia.rpy:10 #-#-# translate crowdin cornelia_0163065e:
 msgid "[_cedrick_] Мне нечего там делать."
 msgstr "[_cedrick_] Je n'ai rien à faire là."
-
-msgid "Бланк"
-msgstr "Blunk"
 
