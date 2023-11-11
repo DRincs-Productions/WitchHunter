@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:20\n"
+"PO-Revision-Date: 2023-11-11 09:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestMeetWill.rpy:3
 msgid "Сблизиться с семьей Вэндомов"
@@ -71,7 +71,4 @@ msgstr "En attente d'une rencontre fortuite avec Thomas Wendome"
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Сводить Сьюзан в кино"
 msgstr "Emmener Susan au cinéma"
-
-msgid "Бланк"
-msgstr "Blunk"
 
