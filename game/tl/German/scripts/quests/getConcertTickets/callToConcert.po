@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:48\n"
+"PO-Revision-Date: 2023-11-11 09:33\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/callToConcert.rpy:11 #-#-# translate crowdin callToConcert_6fef85ba:
 msgid "[_cornelia_] Элион, пойдем в школу вместе?"
@@ -74,8 +74,5 @@ msgstr ""
 
 # game/scripts/quests/getConcertTickets/callToConcert.rpy:57 #-#-# translate crowdin callToConcert_a20cefa7_1:
 msgid "..."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
