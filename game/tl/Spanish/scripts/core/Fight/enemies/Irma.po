@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:29\n"
+"PO-Revision-Date: 2023-11-11 09:15\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Fight/enemies/Irma.rpy:57
 msgid "Ирма"
@@ -19,7 +19,4 @@ msgstr "Irma"
 # game/scripts/core/Fight/enemies/Irma.rpy:109
 msgid "Водяной выстрел"
 msgstr "Proyectil de agua"
-
-msgid "Бланк"
-msgstr "Blunk"
 
