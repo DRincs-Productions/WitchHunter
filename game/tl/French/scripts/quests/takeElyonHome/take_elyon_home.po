@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:25\n"
+"PO-Revision-Date: 2023-11-11 08:50\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:5 #-#-# translate crowdin take_elyon_home_b1056ea5:
 msgid "[_elion_] Рик, слушай.. Не мог бы ты меня сегодня проводить до дома?"
@@ -213,5 +213,5 @@ msgid "[_elion_] До завтра, Рик!"
 msgstr "[_elion_] A demain, Rick !"
 
 msgid "Бланк"
-msgstr "Formulaire"
+msgstr "Blunk"
 
