@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:27\n"
+"PO-Revision-Date: 2023-11-11 09:12\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/afterload.rpy:193 #-#-# translate crowdin after_load_79db8d33:
 msgid "[_centered_] Выбранное сохранение не поддерживается и вы не сможете получить новый контент."
@@ -31,7 +31,4 @@ msgstr "Etes-vous sûr de vouloir charger une sauvegarde non supportée ?"
 # game/scripts/afterload.rpy:211
 msgid "Брайан.. Это Элион.. мне очень плохо… Нам нужно срочно увидеться, ты можешь прийти?"
 msgstr "Brian... C'est Elyon... Je me sens vraiment mal… Nous devons vous voir d'urgence, pouvez-vous venir ?"
-
-msgid "Бланк"
-msgstr "Blunk"
 
