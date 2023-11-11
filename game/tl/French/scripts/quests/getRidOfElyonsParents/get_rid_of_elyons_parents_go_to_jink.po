@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:49\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:4 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_d30c0de9:
 msgid "[_cedrick_] Эй, ты, уродец, у меня к тебе есть поручение"
@@ -55,7 +55,4 @@ msgstr "[_jink1_] Comme vous le dites, monseigneur."
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:14 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_c991ba21:
 msgid "[_cedrick_] (Мне срочно нужно отправиться к Миранде)"
 msgstr "[_cedrick_] (Je dois aller à Miranda tout de suite)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
