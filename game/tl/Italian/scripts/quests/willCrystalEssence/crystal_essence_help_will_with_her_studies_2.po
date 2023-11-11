@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:26\n"
+"PO-Revision-Date: 2023-11-11 10:19\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:4 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_2_a9395fd6:
 msgid "[_centered_] {size=37}НА СЛЕДУЮЩИЙ ДЕНЬ, УТРОМ{/size}"
@@ -307,7 +307,4 @@ msgstr "..."
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:170 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_2_35b9a600:
 msgid "[_will_] (н-но почему.. только начав о нем я смогла кончить.. п-почему!)"
 msgstr "[_will_] (n-perché... solo iniziando a parlare di lui potrei finire... n-perché!)."
-
-msgid "Бланк"
-msgstr "Blunk"
 
