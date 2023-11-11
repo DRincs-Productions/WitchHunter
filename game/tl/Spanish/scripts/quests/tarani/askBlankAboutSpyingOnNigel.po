@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 16:04\n"
+"PO-Revision-Date: 2023-11-11 10:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:10 #-#-# translate crowdin askBlankAboutSpyingOnNigel_1913d733:
 msgid "[_cedrick_sprite_] У меня опять к тебе дело, челядь!"
@@ -71,7 +71,4 @@ msgstr "[_cedrick_sprite_] (Puedo comprar una cámara en la tienda que hay junto
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:25 #-#-# translate crowdin askBlankAboutSpyingOnNigel_7ad42174:
 msgid "[_cedrick_sprite_] (А вот с ноздрей дракона сложнее… нужно будет попросить помощи у Миранды. Наверное только она знает, где можно найти эту ноздрю..)"
 msgstr "[_cedrick_sprite_] (La fosa nasal del dragón es más complicado, aunque…. Tendré que pedirle ayuda a Miranda. Probablemente sea la única que sepa dónde encontrar una fosa nasal de Dragón...)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
