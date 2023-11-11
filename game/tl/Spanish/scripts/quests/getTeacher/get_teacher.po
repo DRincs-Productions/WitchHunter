@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:49\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getTeacher/get_teacher.rpy:8 #-#-# translate crowdin get_teacher_b110a719:
 msgid "Седрик заходит в комнату журналистики"
@@ -79,7 +79,4 @@ msgstr "[_directris_] Puedes empezar mañana"
 # game/scripts/quests/getTeacher/get_teacher.rpy:51 #-#-# translate crowdin get_teacher_eb2f1b2b:
 msgid "[_directris_] Так как вы подменный учитель, то зарплату будете получать каждую неделю в зависимости от количества проведенных вами уроков."
 msgstr "[_directris_] Al ser profesor sustituto, recibirá un salario cada semana en función del número de clases que imparta."
-
-msgid "Бланк"
-msgstr "Blunk"
 
