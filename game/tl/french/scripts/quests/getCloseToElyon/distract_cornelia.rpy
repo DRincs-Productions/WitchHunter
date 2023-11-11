@@ -22,7 +22,7 @@ translate french distract_cornelia_8659e329:
 translate french distract_cornelia_0826bc77:
 
     # "Стражницы Завесы не заставили себя долго ждать.."
-    "Il n'a pas fallu longtemps pour que les gardes du voile..."
+    "Il n'a pas fallu longtemps pour que les gardiens de Kandrakar.."
 
 # game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:19
 translate french distract_cornelia_56687713:

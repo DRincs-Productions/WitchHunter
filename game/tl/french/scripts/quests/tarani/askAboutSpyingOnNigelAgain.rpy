@@ -22,7 +22,7 @@ translate french askAboutSpyingOnNigelAgain_111d5d64:
 translate french askAboutSpyingOnNigelAgain_f89bf498:
 
     # blank "Найджид! Бланк знает!"
-    blank "Naijid ! Blank sait !"
+    blank "Naijid ! Blunk sait !"
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:10
 translate french askAboutSpyingOnNigelAgain_a20cefa7:
@@ -40,13 +40,13 @@ translate french askAboutSpyingOnNigelAgain_5db1ee42:
 translate french askAboutSpyingOnNigelAgain_cebf9608:
 
     # blank "Бланк хочет за это..."
-    blank "Blank en veut..."
+    blank "Blunk en veut..."
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:13
 translate french askAboutSpyingOnNigelAgain_cfff9180:
 
     # blank "Бланк хочет совокупиться с женщиной! Бланк хочет секс!"
-    blank "Blank veut faire l'amour avec une femme ! Blank veut du sexe !"
+    blank "Blunk veut faire l'amour avec une femme ! Blunk veut du sexe !"
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:14
 translate french askAboutSpyingOnNigelAgain_4609137c:
@@ -58,7 +58,7 @@ translate french askAboutSpyingOnNigelAgain_4609137c:
 translate french askAboutSpyingOnNigelAgain_30dcedb8:
 
     # blank "Тогда Бланк хотеть золотую цепь!"
-    blank "Alors Blank veut une chaîne en or !"
+    blank "Alors Blunk veut une chaîne en or !"
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:16
 translate french askAboutSpyingOnNigelAgain_2825d1fd:

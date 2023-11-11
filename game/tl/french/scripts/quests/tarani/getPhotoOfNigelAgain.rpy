@@ -46,5 +46,5 @@ translate french getPhotoOfNigelAgain_78a63b7b:
 translate french getPhotoOfNigelAgain_5167f676:
 
     # cedrick "(Ну с этими фотографиями я теперь точно смогу заставить Тарани сделать все, что угодно..)"
-    cedrick "(Avec ces photos, je peux certainement faire faire n'importe quoi à Tarani maintenant...)"
+    cedrick "(Avec ces photos, je peux certainement faire faire n'importe quoi à Taranee maintenant...)"
 

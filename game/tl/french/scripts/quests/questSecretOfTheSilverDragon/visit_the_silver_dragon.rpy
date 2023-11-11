@@ -46,7 +46,7 @@ translate french visit_the_silver_dragon_87c5dd71_1:
 translate french visit_the_silver_dragon_72358297:
 
     # centered "{size=37}В КОМНАТЕ ХАЙ ЛИН{/size}" with Dissolve(1)
-    centered "{size=37} DANS LA SALLE Hai Ling{/size}" with Dissolve(1)
+    centered "{size=37} DANS LA CHAMBRE DE HAY LIN{/size}" with Dissolve(1)
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:26
 translate french visit_the_silver_dragon_cf555ccd:
@@ -70,7 +70,7 @@ translate french visit_the_silver_dragon_079fa205:
 translate french visit_the_silver_dragon_c93d80e0:
 
     # cedrick "Ирма и Тарани ведь просили твоей помощи, когда планировали напасть на меня?"
-    cedrick "Irma et Tarani ont demandé votre aide lorsqu'ils voulaient m'attaquer, n'est-ce pas ?"
+    cedrick "Irma et Taranee ont demandé votre aide lorsqu'ils voulaient m'attaquer, n'est-ce pas ?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:42
 translate french visit_the_silver_dragon_8d1c0a42:
@@ -154,7 +154,7 @@ translate french visit_the_silver_dragon_c3f8d9b4:
 translate french visit_the_silver_dragon_5abadbb5:
 
     # cedrick "Все так. А еще, теперь Ирма и Тарани заточены в темнице замка Фобоса. Как и Вилл"
-    cedrick "C'est vrai. Irma et Tarani sont maintenant emprisonnés dans le donjon du château de Phobos. Tout comme Will."
+    cedrick "C'est vrai. Irma et Taranee sont maintenant emprisonnés dans le donjon du château de Phobos. Tout comme Will."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:89
 translate french visit_the_silver_dragon_62590884:
@@ -178,7 +178,7 @@ translate french visit_the_silver_dragon_87c5dd71_3:
 translate french visit_the_silver_dragon_2a4021d4:
 
     # cedrick "Но ты не помогла им. Потому что семья важнее. Хорошая девочка, Хай Лин"
-    cedrick "Mais vous ne les avez pas aidés. Parce que la famille est plus importante. Bonne fille, Hai Ling"
+    cedrick "Mais vous ne les avez pas aidés. Parce que la famille est plus importante. Bonne fille, Hay Lin"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:99
 translate french visit_the_silver_dragon_1af5fb72:
@@ -286,7 +286,7 @@ translate french visit_the_silver_dragon_cf23cb85:
 translate french visit_the_silver_dragon_4cfc95ba:
 
     # centered "{size=37}Хай Лин вставляет виброяйцо{/size}" with Dissolve(1)
-    centered "{size=37}Hai Ling insère un œuf vibrant{/size}" with Dissolve(1)
+    centered "{size=37}Hay Lin insère un œuf vibrant{/size}" with Dissolve(1)
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:155
 translate french visit_the_silver_dragon_4b5b9ed1:
@@ -430,7 +430,7 @@ translate french visit_the_silver_dragon_5ab120de:
 translate french visit_the_silver_dragon_5eeebcad:
 
     # johnlin "Хай Лин, ты сегодня рано"
-    johnlin "Hai Lin, tu es en avance aujourd'hui."
+    johnlin "Hay Lin, tu es en avance aujourd'hui."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:261
 translate french visit_the_silver_dragon_eb283bd1:
@@ -496,7 +496,7 @@ translate french visit_the_silver_dragon_315c4cc3:
 translate french visit_the_silver_dragon_f4666174:
 
     # johnlin "Хай Лин, ты пока принимаешь заказы. Я буду относить еду гостям. Чен, ты на кухне"
-    johnlin "Hai Ling, tu prends les commandes pour l'instant. Je vais porter la nourriture aux invités. Chen, tu es dans la cuisine"
+    johnlin "Hay Lin, tu prends les commandes pour l'instant. Je vais porter la nourriture aux invités. Chen, tu es dans la cuisine"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:343
 translate french visit_the_silver_dragon_02b8b7df:
@@ -526,7 +526,7 @@ translate french minigame_3_856ffef8:
 translate french minigame_3_c179811b:
 
     # cedrick "(Я должен слегка развратить Хай Лин перед финальным ужином, но нужно знать меру)"
-    cedrick "(Je dois corrompre Hai Ling un peu avant le dîner final, mais il faut connaître la mesure)."
+    cedrick "(Je dois corrompre Hay Lin un peu avant le dîner final, mais il faut connaître la mesure)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:359
 translate french minigame_3_d077a124:
@@ -790,7 +790,7 @@ translate french minigame_3_0eff90f9:
 translate french minigame_3_1cbb1bc3:
 
     # chenlin "Кхм.. эм.. Давай днем Хай Лин подменит тебя за прилавком. А ты поможешь мне на кухне. Х-хорошо?"
-    chenlin "Ahem. Erm. Pourquoi ne laisseriez-vous pas Hai Ling vous remplacer au comptoir cet après-midi. Et vous pourrez m'aider dans la cuisine. D'accord ?"
+    chenlin "Ahem. Erm. Pourquoi ne laisseriez-vous pas Hay Lin vous remplacer au comptoir cet après-midi. Et vous pourrez m'aider dans la cuisine. D'accord ?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:472
 translate french minigame_3_ff17d692:
@@ -838,7 +838,7 @@ translate french minigame_3_69a06f42:
 translate french minigame_3_1084a21c:
 
     # chenlin "(Надеюсь моя Хай Лин не будет водиться с подобными парнями..)"
-    chenlin "(J'espère que ma Hai Ling ne sera pas mêlée à des types comme ça...)."
+    chenlin "(J'espère que ma Hay Lin ne sera pas mêlée à des types comme ça...)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:498
 translate french minigame_3_8afc36ea:
@@ -856,7 +856,7 @@ translate french minigame_3_b3333963:
 translate french minigame_3_d21974df:
 
     # centered "{size=37}Днем Хай Лин встает за кассу, Рик готовит на кухне{/size}" with Dissolve(1)
-    centered "{size=37}Hi Lin se tient derrière la caisse l'après-midi, Rick cuisine{/size}" with Dissolve(1)
+    centered "{size=37}Hay Lin se tient derrière la caisse l'après-midi, Rick cuisine{/size}" with Dissolve(1)
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:508
 translate french minigame_3_97d78f4b:
@@ -1240,7 +1240,7 @@ translate french minigame_3_fe7f2d93:
 translate french minigame_3_78ec18f0:
 
     # centered "{size=37}Хай Лин простояла за прилавком до второй половины дня{/size}" with Dissolve(1)
-    centered "{size=37}Hai Ling est restée derrière le comptoir jusqu'à l'après-midi{/size}" with Dissolve(1)
+    centered "{size=37}Hay Lin est restée derrière le comptoir jusqu'à l'après-midi{/size}" with Dissolve(1)
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:624
 translate french minigame_3_3debc480:
@@ -1300,7 +1300,7 @@ translate french minigame_3_2a5b2d08:
 translate french minigame_3_36e12531:
 
     # johnlin "Я рада, что ты так высоко ценишь работу Рика на кухне, дорогой, но ему нужно заменить Хай Лин за прилавком, ей нездоровится"
-    johnlin "Je suis ravie que tu apprécies tant le travail de Rick dans la cuisine, mais il doit remplacer Hai Lin derrière le comptoir, elle ne se sent pas bien."
+    johnlin "Je suis ravie que tu apprécies tant le travail de Rick dans la cuisine, mais il doit remplacer Hay Lin derrière le comptoir, elle ne se sent pas bien."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:666
 translate french minigame_3_315cc156:
@@ -1360,7 +1360,7 @@ translate french minigame_3_89951a3a:
 translate french minigame_3_4f80ba82:
 
     # centered "{size=37}Вечером Рик стоит за прилавком с Хай Лин{/size}" with Dissolve(1)
-    centered "{size=37}Le soir, Rick se tient derrière le comptoir avec Hai Ling{/size}" with Dissolve(1)
+    centered "{size=37}Le soir, Rick se tient derrière le comptoir avec Hay Lin{/size}" with Dissolve(1)
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:714
 translate french minigame_3_0169f066:
@@ -1618,7 +1618,7 @@ translate french minigame_3_3f4acf79:
 translate french minigame_3_1b5131a0:
 
     # cedrick "Хах, я скорее беспокоюсь за Хай Лин. Она же у нас скромница, сами знаете.."
-    cedrick "Huh, je suis plus inquiet pour Hai Ling. Elle est un peu modeste, tu sais."
+    cedrick "Huh, je suis plus inquiet pour Hay Lin. Elle est un peu modeste, tu sais."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:821
 translate french minigame_3_7cace218:
@@ -1642,7 +1642,7 @@ translate french minigame_3_607a8546:
 translate french minigame_3_8c7f4411:
 
     # johnlin "Хай Лин уже давно не маленькая и сама решает, с кем встречаться а с кем нет"
-    johnlin "Hai Ling n'est plus une petite fille et décide qui elle veut fréquenter et qui elle ne veut pas."
+    johnlin "Hay Lin n'est plus une petite fille et décide qui elle veut fréquenter et qui elle ne veut pas."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:829
 translate french minigame_3_87c5dd71:
@@ -1690,7 +1690,7 @@ translate french minigame_3_af25a5c9:
 translate french minigame_3_a6100df7:
 
     # johnlin "Если я правильно понимаю, между тобой и мной разница в возрасте даже больше, чем между Хай Лин и Риком"
-    johnlin "Si je comprends bien, il y a encore plus de différence d'âge entre vous et moi qu'entre Hai Ling et Rick"
+    johnlin "Si je comprends bien, il y a encore plus de différence d'âge entre vous et moi qu'entre Hay Lin et Rick"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:842
 translate french minigame_3_567bdd5c:
@@ -1726,7 +1726,7 @@ translate french minigame_3_04b92600:
 translate french minigame_3_f9008c15:
 
     # cedrick "(Ого, его это явно задело за живое.. Возможно за этим конфликтом скрывается нечто большее, чем наши с Хай Лин так называемые отношения)"
-    cedrick "(Wow, il est visiblement blessé par ça... Peut-être qu'il y a plus dans ce conflit que ma soi-disant relation avec Hai Ling)."
+    cedrick "(Wow, il est visiblement blessé par ça... Peut-être qu'il y a plus dans ce conflit que ma soi-disant relation avec Hay Lin)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:853
 translate french minigame_3_431ec325:
@@ -1744,7 +1744,7 @@ translate french minigame_3_b89a679d:
 translate french minigame_3_a5bd5dba:
 
     # chenlin "Х-хай Лин, все впорядке?"
-    chenlin "H-hai Lin, tout va bien ?"
+    chenlin "H-Hay Lin, tout va bien ?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:863
 translate french minigame_3_c483dd21:
@@ -1882,7 +1882,7 @@ translate french minigame_3_763d3a67:
 translate french minigame_3_8a304010:
 
     # chenlin "(Но.. Возможно Хай Лин счастлива с ним.. Я давно ее такой не видел.. Прямо на месте усидеть не может, щеки красные..)"
-    chenlin "(Mais... Hai Ling est probablement heureuse avec lui. Je ne l'ai pas vue comme ça depuis longtemps. Elle ne peut pas rester assise, ses joues sont rouges...)"
+    chenlin "(Mais... Hay Lin est probablement heureuse avec lui. Je ne l'ai pas vue comme ça depuis longtemps. Elle ne peut pas rester assise, ses joues sont rouges...)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:903
 translate french minigame_3_52e32b52:
@@ -1900,7 +1900,7 @@ translate french minigame_3_f3dd60f0:
 translate french minigame_3_760030a9:
 
     # chenlin "Хай Лин.. Как ответственный отец, который любит свою дочь, я обязан принять твой выбор"
-    chenlin "Hai Ling... En tant que père responsable qui aime sa fille, je suis obligé d'accepter ton choix."
+    chenlin "Hay Lin... En tant que père responsable qui aime sa fille, je suis obligé d'accepter ton choix."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:909
 translate french minigame_3_417c1430:
@@ -1918,7 +1918,7 @@ translate french minigame_3_a0c04d7a:
 translate french minigame_3_49784d8f:
 
     # cedrick "(Отлично. Самое время для финального аккорда в этой похоронной для семейной жизни Хай Лин мелодии)"
-    cedrick "(Génial. Il est temps de passer au dernier accord de cet air funèbre pour la vie de famille de Hai Ling)"
+    cedrick "(Génial. Il est temps de passer au dernier accord de cet air funèbre pour la vie de famille de Hay Lin)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:917
 translate french minigame_3_a20cefa7:
@@ -1936,7 +1936,7 @@ translate french minigame_3_5f38d999:
 translate french minigame_3_230803b4:
 
     # chenlin "М? Хай Лин, по моему это твой телефон"
-    chenlin "М ? Hai Ling, je pense que c'est ton téléphone."
+    chenlin "М ? Hay Lin, je pense que c'est ton téléphone."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:924
 translate french minigame_3_db38acf7:
@@ -2080,7 +2080,7 @@ translate french minigame_3_0f3c21da:
 translate french minigame_3_05f1c90e:
 
     # cedrick "(Вот тогда приходит отчаяние.. И сейчас Хай Лин накрывает именно оно..)"
-    cedrick "(C'est alors que le désespoir s'installe, et c'est ce que ressent Hai Ling en ce moment)."
+    cedrick "(C'est alors que le désespoir s'installe, et c'est ce que ressent Hay Lin en ce moment)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:959
 translate french minigame_3_a523b9b7:
@@ -2098,7 +2098,7 @@ translate french minigame_3_9900afde:
 translate french minigame_3_96ca7b7e:
 
     # cedrick "(Но.. тогда я не добьюсь желаемого.. Поэтому, прости, Хай Лин..)"
-    cedrick "(Mais... je n'obtiendrai pas ce que je veux... Alors, je suis désolée, Hai Ling...)."
+    cedrick "(Mais... je n'obtiendrai pas ce que je veux... Alors, je suis désolée, Hay Lin...)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:962
 translate french minigame_3_fe83084b:
@@ -2110,7 +2110,7 @@ translate french minigame_3_fe83084b:
 translate french minigame_3_9b87d99c:
 
     # chenlin "Хай Лин, все хорошо?"
-    chenlin "Hai Ling, tout va bien ?"
+    chenlin "Hay Lin, tout va bien ?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:969
 translate french minigame_3_6ceb6f11:
@@ -2158,7 +2158,7 @@ translate french minigame_3_e5231ea2:
 translate french minigame_3_c2e3d896:
 
     # johnlin "И мы правда рады вашим отношениям с Хай Лин, Рик"
-    johnlin "Et nous sommes très heureux de votre relation avec Hai Ling, Rick."
+    johnlin "Et nous sommes très heureux de votre relation avec Hay Lin, Rick."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:982
 translate french minigame_3_69cf9cf6:
@@ -2428,7 +2428,7 @@ translate french minigame_3_73cbaeb8:
 translate french minigame_3_1344d068:
 
     # johnlin "Думаю чем серьезнее будут ваши с Хай Лин отношения, тем меньше у нас будет возможности заниматься подобным"
-    johnlin "Je pense que plus vous et Hai Ling serez sérieux, moins nous pourrons faire ce genre de choses."
+    johnlin "Je pense que plus vous et Hay Lin serez sérieux, moins nous pourrons faire ce genre de choses."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1106
 translate french minigame_3_e620f099:

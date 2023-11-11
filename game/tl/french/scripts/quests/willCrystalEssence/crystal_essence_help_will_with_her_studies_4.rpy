@@ -160,7 +160,7 @@ translate french crystal_essence_help_will_with_her_studies_4_5f9b772e:
 translate french crystal_essence_help_will_with_her_studies_4_b7a0ecc4:
 
     # cedrick "Вилл, ты безумна.. Что бы сказала твоя мама? Что бы сказали Ирма, Тарани, Корнелия и Хай Лин?"
-    cedrick "Will, tu es fou. Que dirait votre mère ? Que diraient Irma, Tarani, Cornelia et Hai Lin ?"
+    cedrick "Will, tu es fou. Que dirait votre mère ? Que diraient Irma, Taranee, Cornelia et Hay Lin ?"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:60
 translate french crystal_essence_help_will_with_her_studies_4_8a8a9b7f:

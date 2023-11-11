@@ -34,7 +34,7 @@ translate french lowerMark_49316299:
 translate french lowerMark_e7a74009:
 
     # cedrick "А вот и работа Тарани.. Как всегда на отлично...Чертова всезнайка."
-    cedrick "Et voici le travail de Tarani... Excellent comme toujours... Putain de je-sais-tout."
+    cedrick "Et voici le travail de Taranee... Excellent comme toujours... Putain de je-sais-tout."
 
 # game/scripts/quests/tarani/lowerMark.rpy:21
 translate french lowerMark_a20cefa7_1:

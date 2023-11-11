@@ -196,7 +196,7 @@ translate french ql_hayLin_give_potion_to_yan_lin_0_f204a517:
 translate french ql_hayLin_give_potion_to_yan_lin_0_42da0066:
 
     # "Хай Лин забирается под стол..."
-    "Hai Lin rampe sous la table..."
+    "Hay Lin rampe sous la table..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:113
 translate french ql_hayLin_give_potion_to_yan_lin_0_283b6298:
@@ -214,7 +214,7 @@ translate french ql_hayLin_give_potion_to_yan_lin_0_fa303f84:
 translate french ql_hayLin_give_potion_to_yan_lin_0_dfd6ea54:
 
     # johnlin "Ох, Рик! А я и не заметила как ты пришел... Не видел Хай Лин?"
-    johnlin "Oh, Rick ! Je ne t'ai pas vu arriver... Tu n'as pas vu Hai Ling ?"
+    johnlin "Oh, Rick ! Je ne t'ai pas vu arriver... Tu n'as pas vu Hay Lin ?"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:132
 translate french ql_hayLin_give_potion_to_yan_lin_0_771ce3c0:
@@ -328,7 +328,7 @@ translate french ql_hayLin_give_potion_to_yan_lin_0_a20cefa7_2:
 translate french ql_hayLin_give_potion_to_yan_lin_0_cf864fb6:
 
     # "Хай Лин незаметно вылезает из под стола"
-    "Hai Lin sort furtivement de sous la table."
+    "Hay Lin sort furtivement de sous la table."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:179
 translate french ql_hayLin_give_potion_to_yan_lin_0_c0a2a4f2:

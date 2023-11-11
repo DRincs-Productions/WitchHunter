@@ -3304,7 +3304,7 @@ translate french buy_a_business_suit_a6a2cb66:
 translate french buy_a_business_suit_706f127a:
 
     # cedrick "(Мда, что-то идет как надо, а что-то не очень, в случае с Ирмой.. Интересно, как с Тарани пойдет)"
-    cedrick "(Oui, il y a des choses qui marchent et d'autres qui ne marchent pas, dans le cas d'Irma...). Je me demande comment cela va se passer avec Tarani)"
+    cedrick "(Oui, il y a des choses qui marchent et d'autres qui ne marchent pas, dans le cas d'Irma...). Je me demande comment cela va se passer avec Taranee)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:995
 translate french buy_a_business_suit_6c2b619c:

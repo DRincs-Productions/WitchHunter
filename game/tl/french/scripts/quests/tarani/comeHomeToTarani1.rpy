@@ -4,7 +4,7 @@
 translate french comeHomeToTarani1_b4fbddde:
 
     # cedrick "Ну, если сестры Грампер дали мне верный адрес, то это должно быть дом Тарани..."
-    cedrick "Eh bien, si les sœurs Gramper m'ont donné la bonne adresse, ça doit être la maison de Tarani..."
+    cedrick "Eh bien, si les sœurs Gramper m'ont donné la bonne adresse, ça doit être la maison de Taranee..."
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:10
 translate french comeHomeToTarani1_647a937c:
@@ -46,7 +46,7 @@ translate french comeHomeToTarani1_a20cefa7:
 translate french comeHomeToTarani1_21c79941:
 
     # "Тарани выбегает из дома и хлопает дверью."
-    "Tarani sort en courant de la maison et claque la porte."
+    "Taranee sort en courant de la maison et claque la porte."
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:25
 translate french comeHomeToTarani1_87a437e6:
@@ -58,19 +58,19 @@ translate french comeHomeToTarani1_87a437e6:
 translate french comeHomeToTarani1_87882ed9:
 
     # woman "Тарани, постой!"
-    woman "Tarani, attendez !"
+    woman "Taranee, attendez !"
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:32
 translate french comeHomeToTarani1_a583bacf:
 
     # cedrick "(Вот черт, эта женщина меня заметила. Теперь будет странно, если я побегу за Тарани.. Но, возможно, я смогу извлечь из этого выгоду)"
-    cedrick "(Oh merde, cette femme m'a repéré. Maintenant ça serait bizarre si je courrais après Tarani... Mais peut-être que je peux en tirer le meilleur parti.)"
+    cedrick "(Oh merde, cette femme m'a repéré. Maintenant ça serait bizarre si je courrais après Taranee... Mais peut-être que je peux en tirer le meilleur parti.)"
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:33
 translate french comeHomeToTarani1_0be83ed7:
 
     # cedrick "Здравствуйте, я Рик Хоффман, школьный учитель истории у Тарани. Я так понимаю, она только что убежала.."
-    cedrick "Bonjour, je suis Rick Hoffman, le professeur d'histoire de l'école de Tarani. Je comprends qu'elle s'est enfuie..."
+    cedrick "Bonjour, je suis Rick Hoffman, le professeur d'histoire de l'école de Taranee. Je comprends qu'elle s'est enfuie..."
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:37
 translate french comeHomeToTarani1_9e74711a:
@@ -82,13 +82,13 @@ translate french comeHomeToTarani1_9e74711a:
 translate french comeHomeToTarani1_43c73c52:
 
     # woman "Ох, простите за грубость. Здравствуйте, меня зовут Тереза Кук, я мама Тарани.. А вы, собственно, по какому делу решили к нам зайти?"
-    woman "Oh, je suis désolé d'être impoli. Bonjour, mon nom est Teresa Cook, je suis la maman de Tarani ... Et qu'est-ce que vous faites ici, exactement ?"
+    woman "Oh, je suis désolé d'être impoli. Bonjour, mon nom est Teresa Cook, je suis la maman de Taranee ... Et qu'est-ce que vous faites ici, exactement ?"
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:45
 translate french comeHomeToTarani1_e41eae92:
 
     # cedrick "Опять этот Найджел.. Я как раз хотел с вами о нем поговорить. Я обеспокоен тем, как Найджел влияет на вашу Тарани"
-    cedrick "C'est encore Nigel. Je voulais vous parler de lui. Je suis préoccupé par l'effet de Nigel sur votre Tarani."
+    cedrick "C'est encore Nigel. Je voulais vous parler de lui. Je suis préoccupé par l'effet de Nigel sur votre Taranee."
 
 # game/scripts/quests/tarani/comeHomeToTarani1.rpy:49
 translate french comeHomeToTarani1_26d81873:
@@ -172,5 +172,5 @@ translate french comeHomeToTarani1_5f9b772e:
 translate french comeHomeToTarani1_266846d5:
 
     # cedrick "(Так значит, у Найджела есть брат преступник, который недавно вышел из тюрьмы. Пожалуй, стоит снова попросить Бланка проследить за ним, возможно он сможет заснять более ценные кадры...)"
-    cedrick "(Donc Nigel a un frère criminel qui est récemment sorti de prison. Nous devrions peut-être demander à Blank de le suivre à nouveau, il pourra peut-être capturer des images plus intéressantes...)"
+    cedrick "(Donc Nigel a un frère criminel qui est récemment sorti de prison. Nous devrions peut-être demander à Blunk de le suivre à nouveau, il pourra peut-être capturer des images plus intéressantes...)"
 

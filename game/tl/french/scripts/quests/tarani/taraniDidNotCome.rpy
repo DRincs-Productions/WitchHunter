@@ -16,7 +16,7 @@ translate french taraniDidNotCome_a3305428:
 translate french taraniDidNotCome_82837c08:
 
     # cedrick "(Похоже, что Тарани сегодня решила не посещать мой урок…)"
-    cedrick "(On dirait que Tarani a décidé de ne pas assister à mon cours aujourd'hui…)"
+    cedrick "(On dirait que Taranee a décidé de ne pas assister à mon cours aujourd'hui…)"
 
 # game/scripts/quests/tarani/taraniDidNotCome.rpy:12
 translate french taraniDidNotCome_a20cefa7:

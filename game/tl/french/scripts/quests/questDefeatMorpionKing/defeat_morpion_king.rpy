@@ -2806,7 +2806,7 @@ translate french q_dfk_cornelia_dialogs_continue_a20cefa7:
 translate french q_dfk_cornelia_dialogs_continue_bf164ccc:
 
     # cedrick "(Так, первым делом нужно разобраться с детективами. Ирма и Тарани, несмотря на всю свою силу, всего лишь две школьницы. С ними я справлюсь, а вот с розыском сложнее..)"
-    cedrick "(OK, le premier ordre du jour est de s'occuper des détectives. Irma et Tarani, malgré toute leur puissance, ne sont que deux écolières. Je peux m'occuper d'elles, mais la recherche est plus difficile...)"
+    cedrick "(OK, le premier ordre du jour est de s'occuper des détectives. Irma et Taranee, malgré toute leur puissance, ne sont que deux écolières. Je peux m'occuper d'elles, mais la recherche est plus difficile...)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1318
 translate french q_dfk_cornelia_dialogs_continue_aed41212:

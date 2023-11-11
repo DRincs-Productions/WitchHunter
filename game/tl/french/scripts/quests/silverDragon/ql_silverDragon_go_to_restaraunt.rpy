@@ -22,7 +22,7 @@ translate french ql_silverDragon_go_to_restaraunt_79e549ef:
 translate french ql_silverDragon_go_to_restaraunt_3045c1e9:
 
     # YanLin "К счастью, сегодня у нас много свободных столиков… Впрочем, в последнее время у нас всегда есть свободные места… Прошу, присаживайтесь, моя прекрасная внучка Хай Лин принесет вам меню…"
-    YanLin "Heureusement, nous avons beaucoup de tables vides ce soir… Cependant, nous avons toujours des sièges vides ces derniers temps… Veuillez vous asseoir, ma belle petite-fille Hai Lin va vous apporter le menu…."
+    YanLin "Heureusement, nous avons beaucoup de tables vides ce soir… Cependant, nous avons toujours des sièges vides ces derniers temps… Veuillez vous asseoir, ma belle petite-fille Hay Lin va vous apporter le menu…."
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:17
 translate french ql_silverDragon_go_to_restaraunt_665cb7ca:
@@ -34,13 +34,13 @@ translate french ql_silverDragon_go_to_restaraunt_665cb7ca:
 translate french ql_silverDragon_go_to_restaraunt_c9b0796c:
 
     # cedrick "Вас зовут Хай Лин?"
-    cedrick "Vous vous appelez Hai Ling ?"
+    cedrick "Vous vous appelez Hay Lin ?"
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:22
 translate french ql_silverDragon_go_to_restaraunt_f1af8244:
 
     # caleb "Эм... Я Калеб! Хай Лин сейчас занята на кухне..."
-    caleb "Hum... Je suis Caleb ! Hai Lin est occupé dans la cuisine en ce moment..."
+    caleb "Hum... Je suis Caleb ! Hay Lin est occupé dans la cuisine en ce moment..."
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:26
 translate french ql_silverDragon_go_to_restaraunt_e0434b0a:
@@ -94,7 +94,7 @@ translate french ql_silverDragon_go_to_restaraunt_f8b62f0b:
 translate french ql_silverDragon_go_to_restaraunt_8726d567:
 
     # haylin "Извините, он новенький! Меня зовут Хай Лин и сегодня я буду вашей официанткой..."
-    haylin "Désolé, il est nouveau ! Je m'appelle Hai Lin et je serai votre serveuse aujourd'hui..."
+    haylin "Désolé, il est nouveau ! Je m'appelle Hay Lin et je serai votre serveuse aujourd'hui..."
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:50
 translate french ql_silverDragon_go_to_restaraunt_d1583543:
@@ -178,7 +178,7 @@ translate french ql_silverDragon_go_to_restaraunt_62bb01a1:
 translate french ql_silverDragon_go_to_restaraunt_477653ae:
 
     # blank "Спасиба! Бланк стараться!"
-    blank "Merci ! Le formulaire est en train d'essayer !"
+    blank "Merci ! Blunk est en train d'essayer !"
 
 # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:86
 translate french ql_silverDragon_go_to_restaraunt_08426da2:

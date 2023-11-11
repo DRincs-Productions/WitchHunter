@@ -56,5 +56,5 @@ translate french strings:
 
     # game/scripts/meridian/castle_label.rpy:78
     old "Темница Ирмы и Тарани"
-    new "Le donjon d'Irma et Tarani"
+    new "Le donjon d'Irma et Taranee"
 

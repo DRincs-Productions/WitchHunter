@@ -16,7 +16,7 @@ translate french askBlankAboutSpyingOnNigel_7a5bcbb7:
 translate french askBlankAboutSpyingOnNigel_233e2839:
 
     # blankChar "Бланк знает! Он видеть!"
-    blankChar "Blank sait ! Il voit !"
+    blankChar "Blunk sait ! Il voit !"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:13
 translate french askBlankAboutSpyingOnNigel_4a4e8c2d:
@@ -46,7 +46,7 @@ translate french askBlankAboutSpyingOnNigel_af8dfc9d:
 translate french askBlankAboutSpyingOnNigel_4eb7c59a:
 
     # blankChar "Бланк хотеть за это награду!"
-    blankChar "Le formulaire veut une récompense pour cela !"
+    blankChar "Blunk veut une récompense pour cela !"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:18
 translate french askBlankAboutSpyingOnNigel_5c051e39:
@@ -58,7 +58,7 @@ translate french askBlankAboutSpyingOnNigel_5c051e39:
 translate french askBlankAboutSpyingOnNigel_2de0d10e:
 
     # blankChar "Бланку нужна ноздря дракона!"
-    blankChar "Blank a besoin d'une narine de dragon !"
+    blankChar "Blunk a besoin d'une narine de dragon !"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:20
 translate french askBlankAboutSpyingOnNigel_0726e0c7:
@@ -70,7 +70,7 @@ translate french askBlankAboutSpyingOnNigel_0726e0c7:
 translate french askBlankAboutSpyingOnNigel_b3c58e7b:
 
     # blankChar "Это забота не Бланка! Принеси ноздрю дракона и Бланк сделает то, что ты просишь!"
-    blankChar "Ce n'est pas le problème de Blank ! Apporte la narine du dragon et Blank fera ce que tu demandes !"
+    blankChar "Ce n'est pas le problème de Blunk ! Apporte la narine du dragon et Blunk fera ce que tu demandes !"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:23
 translate french askBlankAboutSpyingOnNigel_a20cefa7:

@@ -16,7 +16,7 @@ translate french strings:
 
     # game/scripts/blank_shop/blank_shop.rpy:23
     old "Попросить бланка найти билеты на концерт"
-    new "Demandez le formulaire pour trouver des billets de concert"
+    new "Demander à Blunk pour trouver des billets de concert"
 
     # game/scripts/blank_shop/blank_shop.rpy:23
     old "Напомни, что тебе нужно в обмен на билеты"
@@ -24,7 +24,7 @@ translate french strings:
 
     # game/scripts/blank_shop/blank_shop.rpy:23
     old "Отдать бланку футболку"
-    new "Donnez un T-shirt au formulaire"
+    new "Donnez un T-shirt au Blunk"
 
     # game/scripts/blank_shop/blank_shop.rpy:23
     old "Забрать билеты для концерта"

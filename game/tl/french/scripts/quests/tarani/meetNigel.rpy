@@ -70,7 +70,7 @@ translate french meetNigel_a20cefa7_1:
 translate french meetNigel_cdacb2eb:
 
     # nigel "Тарани, привет!"
-    nigel "Tarani, salut !"
+    nigel "Taranee, salut !"
 
 # game/scripts/quests/tarani/meetNigel.rpy:33
 translate french meetNigel_f5deb182:
@@ -106,7 +106,7 @@ translate french meetNigel_249bb523:
 translate french meetNigel_fc39600d:
 
     # cedrick "(но в отличии от остальных, Тарани единственная написала работу на отлично. Черт, эта стражница..)"
-    cedrick "(Mais contrairement aux autres, Tarani était la seule à avoir écrit un devoir parfait. Mince, ce gardien...)"
+    cedrick "(Mais contrairement aux autres, Taranee était la seule à avoir écrit un devoir parfait. Mince, ce gardien...)"
 
 # game/scripts/quests/tarani/meetNigel.rpy:43
 translate french meetNigel_41d7b52e:

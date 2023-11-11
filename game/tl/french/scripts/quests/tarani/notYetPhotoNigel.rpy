@@ -10,5 +10,5 @@ translate french notYetPhotoNigel_2bbfeb2b:
 translate french notYetPhotoNigel_eb1e4887:
 
     # blankChar "Еще нет, Бланк занятой! Приходи позже.."
-    blankChar "Pas encore, Blank est occupé ! Reviens plus tard..."
+    blankChar "Pas encore, Blunk est occupé ! Reviens plus tard..."
 

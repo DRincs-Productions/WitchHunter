@@ -484,7 +484,7 @@ translate french need_sensation_a20cefa7_5:
 translate french need_sensation_5c3fb5d8:
 
     # courtney "А куда делись Ирма и Тарани?"
-    courtney "Où sont passées Irma et Tarani ?"
+    courtney "Où sont passées Irma et Taranee ?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:254
 translate french need_sensation_721474a6:
@@ -580,7 +580,7 @@ translate french need_sensation_a20cefa7_7:
 translate french need_sensation_92f4a757:
 
     # irma "Мне нужно найти Тарани..."
-    irma "Je dois trouver Tarani..."
+    irma "Je dois trouver Taranee..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:290
 translate french need_sensation_49846a9f:
@@ -934,7 +934,7 @@ translate french need_sensation_f25dbb2c:
 translate french need_sensation_515d86dd:
 
     # martin "А как же Ирма с Тарани? Вы их нашли?"
-    martin "Et Irma et Tarani ? Vous les avez trouvées ?"
+    martin "Et Irma et Taranee ? Vous les avez trouvées ?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:435
 translate french need_sensation_cf5dc892:

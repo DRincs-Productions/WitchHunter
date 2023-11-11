@@ -16,7 +16,7 @@ translate french paizuriTarani_e210dc2b:
 translate french paizuriTarani_dfbdfe87:
 
     # cedrick "Мы лишь проверяем уровень ваших знаний, Хай Лин. В правильных руках любое знание превращается в силу, не стоит это недооценивать. Верно, Тарани?"
-    cedrick "Nous ne faisons que tester votre niveau de connaissance, Hai Lin. Dans les bonnes mains, toute connaissance se transforme en pouvoir, ne la sous-estimez pas. N'est-ce pas, Tarani ?"
+    cedrick "Nous ne faisons que tester votre niveau de connaissance, Hay Lin. Dans les bonnes mains, toute connaissance se transforme en pouvoir, ne la sous-estimez pas. N'est-ce pas, Taranee ?"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:8
 translate french paizuriTarani_1e9e5a76:
@@ -28,7 +28,7 @@ translate french paizuriTarani_1e9e5a76:
 translate french paizuriTarani_0f374d4c:
 
     # haylin "Ну конечно, Тарани то всегда ко всему готова!"
-    haylin "Bien sûr, Tarani est toujours prêt à tout !"
+    haylin "Bien sûr, Taranee est toujours prêt à tout !"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:10
 translate french paizuriTarani_c78b3858:
@@ -46,7 +46,7 @@ translate french paizuriTarani_d4706847:
 translate french paizuriTarani_36adae20:
 
     # cedrick "Тарани, не поможешь мне с проверкой контрольных?"
-    cedrick "Tarani, pouvez-vous m'aider à vérifier les contrôles ?"
+    cedrick "Taranee, pouvez-vous m'aider à vérifier les contrôles ?"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:19
 translate french paizuriTarani_4eda9780:
@@ -70,7 +70,7 @@ translate french paizuriTarani_1ee5b6c4:
 translate french paizuriTarani_42fdc3a9:
 
     # cedrick "Мда, парень ни на что негоден.. Надеюсь хоть ты за него постараешься, Тарани"
-    cedrick "Oui, ce type n'est pas bon. J'espère que vous allez au moins essayer pour lui, Tarani."
+    cedrick "Oui, ce type n'est pas bon. J'espère que vous allez au moins essayer pour lui, Taranee."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:29
 translate french paizuriTarani_6431c766:

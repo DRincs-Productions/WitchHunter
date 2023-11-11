@@ -16,7 +16,7 @@ translate french taraniDidNotComeAgain1_a1831e9c:
 translate french taraniDidNotComeAgain1_ee968481:
 
     # haylin "Тарани нет!"
-    haylin "Pas de tarani !"
+    haylin "Pas de Taranee !"
 
 # game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:11
 translate french taraniDidNotComeAgain1_033dec81:
@@ -40,7 +40,7 @@ translate french taraniDidNotComeAgain1_b86705cd:
 translate french taraniDidNotComeAgain1_b8144a93:
 
     # cedrick "(Хм, Тарани сегодня нет на уроке. Как и на прошлом... Такая зубрила не могла пропустить урок без причины)"
-    cedrick "(Um, Tarani n'est pas en classe aujourd'hui. Elle n'était pas non plus en cours la dernière fois... Une telle bachoteuse ne pourrait pas manquer la classe sans raison)"
+    cedrick "(Um, Taranee n'est pas en classe aujourd'hui. Elle n'était pas non plus en cours la dernière fois... Une telle bachoteuse ne pourrait pas manquer la classe sans raison)"
 
 # game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:16
 translate french taraniDidNotComeAgain1_faa1176a:

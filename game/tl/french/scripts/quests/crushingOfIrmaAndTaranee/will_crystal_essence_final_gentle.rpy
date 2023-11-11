@@ -382,7 +382,7 @@ translate french will_crystal_essence_final_gentle_cdd17d39:
 translate french will_crystal_essence_final_gentle_37aaf406:
 
     # cedrick "Хах, не самый достойные слова для стражницы завесы - признание в том, что быть насаженной на член это предел твоих мечтаний"
-    cedrick "Huh, ce ne sont pas les mots les plus dignes pour une gardienne du voile - admettre qu'être montée sur une bite est la limite de ses rêves..."
+    cedrick "Huh, ce ne sont pas les mots les plus dignes pour gardiens de Kandrakar - admettre qu'être montée sur une bite est la limite de ses rêves"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:108
 translate french will_crystal_essence_final_gentle_db006ab5:

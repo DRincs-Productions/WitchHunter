@@ -4,7 +4,7 @@ translate french strings:
 
     # game/scripts/core/quests/QuestWillCrystalEssence.rpy:3
     old "Кристаллическая эссенция для Вилл. Часть I"
-    new "Essence de cristal pour les villas. Partie I"
+    new "Essence de cristal pour Will. Partie I"
 
     # game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
     old "Забрать кристаллическую эссенцию у Миранды"

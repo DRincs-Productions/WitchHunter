@@ -10,7 +10,7 @@ translate french askBlankGetTickets_8d5f0563:
 translate french askBlankGetTickets_aa5a1186:
 
     # blank "Бланк не спекулянт! Бланк бизнесмен!"
-    blank "Blank n'est pas un spéculateur ! Blank est un homme d'affaires !"
+    blank "Blunk n'est pas un spéculateur ! Blunk est un homme d'affaires !"
 
 # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:16
 translate french askBlankGetTickets_f56385c8:
@@ -34,7 +34,7 @@ translate french askBlankGetTickets_3fc63059:
 translate french askBlankGetTickets_81e58b07:
 
     # blank "Аа, концерт! Бланк знать!"
-    blank "Ah, le concert ! Forme à connaître !"
+    blank "Ah, le concert ! Blunk à connaître !"
 
 # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:20
 translate french askBlankGetTickets_6d475842:
@@ -46,7 +46,7 @@ translate french askBlankGetTickets_6d475842:
 translate french askBlankGetTickets_42fd7efa:
 
     # blank "Бланк сможет! Бланк хочет модный футболка за концерт!"
-    blank "Blank peut le faire ! Blank veut un T-shirt fantaisie pour le concert !"
+    blank "Blunk peut le faire ! Blunk veut un T-shirt fantaisie pour le concert !"
 
 # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:22
 translate french askBlankGetTickets_479f8dbd:

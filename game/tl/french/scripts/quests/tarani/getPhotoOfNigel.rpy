@@ -10,7 +10,7 @@ translate french getPhotoOfNigel_2bbfeb2b:
 translate french getPhotoOfNigel_6927b594:
 
     # blank "Бланк сделял!! бланк проследить!"
-    blank "Le formulaire a été envoyé ! !! Le formulaire a été tracé !"
+    blank "Le Blunk a été envoyé ! !! Le Blunk a été tracé !"
 
 # game/scripts/quests/tarani/getPhotoOfNigel.rpy:9
 translate french getPhotoOfNigel_656576f9:

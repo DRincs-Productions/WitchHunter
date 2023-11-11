@@ -10,7 +10,7 @@ translate french comeHomeToTarani2_d77d1415:
 translate french comeHomeToTarani2_26924555:
 
     # "Седрик стучит в дверь и через некоторое время Тарани открывает дверь"
-    "Cédric frappe à la porte et après un moment, Tarani l'ouvre."
+    "Cédric frappe à la porte et après un moment, Taranee l'ouvre."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:12
 translate french comeHomeToTarani2_d3bd5634:
@@ -88,7 +88,7 @@ translate french comeHomeToTarani2_334e57fc:
 translate french comeHomeToTarani2_7da63bf5:
 
     # centered "{size=37}В доме Тарани Кук{/size}"
-    centered "{size=37}Dans la maison de Tarany Cook{/size}"
+    centered "{size=37}Dans la maison de Taranee Cook{/size}"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:54
 translate french comeHomeToTarani2_d2a9cd47:
@@ -100,7 +100,7 @@ translate french comeHomeToTarani2_d2a9cd47:
 translate french comeHomeToTarani2_cf93af55:
 
     # centered "{size=37}тарани встает на колени, предварительно снимая трусы. Расстегнув ширинку седрика, она обхватывает его член своими трусами и начинает дрочить его{/size}"
-    centered "{size=37}tarani s'agenouille et enlève sa culotte au préalable. Elle ouvre sa braguette, enroule sa culotte autour de sa queue et commence à le branler{/size}"
+    centered "{size=37}Taranee s'agenouille et enlève sa culotte au préalable. Elle ouvre sa braguette, enroule sa culotte autour de sa queue et commence à le branler{/size}"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:61
 translate french comeHomeToTarani2_be35dbaa:
@@ -166,7 +166,7 @@ translate french comeHomeToTarani2_48051049:
 translate french comeHomeToTarani2_55f9d2e0:
 
     # cedrick "Ты меня услышала, Тарани. Лижи."
-    cedrick "Tu m'as entendu, Tarani. Lèche."
+    cedrick "Tu m'as entendu, Taranee. Lèche."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:94
 translate french comeHomeToTarani2_98f84176_1:
@@ -256,7 +256,7 @@ translate french comeHomeToTarani2_4169f59d:
 translate french comeHomeToTarani2_052fd048:
 
     # cedrick "Тарани, ты по собственной воле решила мне вздрочнуть за фото, где твой Найджел курит возле школы"
-    cedrick "Tarani, vous avez volontairement décidé de me branler pour une photo de votre Nigel en train de fumer devant l'école."
+    cedrick "Taranee, vous avez volontairement décidé de me branler pour une photo de votre Nigel en train de fumer devant l'école."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:129
 translate french comeHomeToTarani2_9773da5b:
@@ -478,7 +478,7 @@ translate french comeHomeToTarani2_b5251b3d:
 translate french comeHomeToTarani2_e3ad6e9b:
 
     # cedrick "(Пусть дальше живет своей жизнью наркомана и преступника. Так он все равно рано или поздно помрет, Тарани не сможет вытащить его из этого дерьма)"
-    cedrick "(Laissez-le continuer à vivre sa vie de drogué et de criminel. De cette façon, il mourra tôt ou tard de toute façon, Tarani ne sera pas en mesure de le sortir de cette merde)"
+    cedrick "(Laissez-le continuer à vivre sa vie de drogué et de criminel. De cette façon, il mourra tôt ou tard de toute façon, Taranee ne sera pas en mesure de le sortir de cette merde)"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:219
 translate french comeHomeToTarani2_215cdae8:
@@ -496,7 +496,7 @@ translate french comeHomeToTarani2_c5f84e98:
 translate french comeHomeToTarani2_d3de86e1:
 
     # cedrick "(Песенка этого пацана давно уже спета и без моего участия. Ситуация с Тарани лишь ускорит неизбежное)"
-    cedrick "(La chanson de cet enfant a été chantée depuis longtemps et sans ma participation. La situation de Tarani ne fera que précipiter l'inévitable)"
+    cedrick "(La chanson de cet enfant a été chantée depuis longtemps et sans ma participation. La situation de Taranee ne fera que précipiter l'inévitable)"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:223
 translate french comeHomeToTarani2_a20cefa7_3:
@@ -514,19 +514,19 @@ translate french comeHomeToTarani2_224e1437:
 translate french comeHomeToTarani2_bf7632cd:
 
     # cedrick "(Думаю, ему не повредит отсидеть в тюрьме, вместе со своим братом. Он все равно оказался бы там рано или поздно, Тарани никак не могла ему помочь)"
-    cedrick "(Je suppose que cela ne lui ferait pas de mal de purger une peine en prison, avec son frère. Il y aurait fini tôt ou tard de toute façon, il n'y avait aucun moyen pour Tarani de l'aider)."
+    cedrick "(Je suppose que cela ne lui ferait pas de mal de purger une peine en prison, avec son frère. Il y aurait fini tôt ou tard de toute façon, il n'y avait aucun moyen pour Taranee de l'aider)."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:232
 translate french comeHomeToTarani2_41052c6b:
 
     # cedrick "(В тюрьме за ним присмотрят лучше, чем на свободе. Мама Тарани скоро вернется. Думаю, я могу просто оставить фото на кофейном столике и уйти)"
-    cedrick "(Il sera mieux soigné en prison qu'à l'extérieur. La mère de Tarani sera bientôt de retour. Je suppose que je pourrais laisser la photo sur la table basse et partir)."
+    cedrick "(Il sera mieux soigné en prison qu'à l'extérieur. La mère de Taranee sera bientôt de retour. Je suppose que je pourrais laisser la photo sur la table basse et partir)."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:235
 translate french comeHomeToTarani2_012ad8eb:
 
     # cedrick "(Так будет лучше и для Тарани, и для Найджела)"
-    cedrick "(C'est mieux pour Tarani et Nigel)"
+    cedrick "(C'est mieux pour Taranee et Nigel)"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:237
 translate french comeHomeToTarani2_a20cefa7_4:

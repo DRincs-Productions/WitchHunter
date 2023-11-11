@@ -12,7 +12,7 @@ translate french strings:
 
     # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
     old "Попросить Бланка достать билеты на концерт"
-    new "Demander à Blank d'obtenir des billets de concert"
+    new "Demander à Blunk d'obtenir des billets de concert"
 
     # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
     old "Добыть футболку для Бланка"
@@ -24,7 +24,7 @@ translate french strings:
 
     # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
     old "Дождаться когда Бланк добудет билеты и забрать их"
-    new "Attendez que Blank obtienne les billets et récupérez-les."
+    new "Attendez que Blunk obtienne les billets et récupérez-les."
 
     # game/scripts/core/quests/QuestGetConcertTickets.rpy:22
     old "Позвать Корнелию на концерт когда она заглянет в Букшоп"

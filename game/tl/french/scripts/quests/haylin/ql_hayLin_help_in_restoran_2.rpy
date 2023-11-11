@@ -28,7 +28,7 @@ translate french ql_hayLin_help_in_restoran_2_6f4cbab2:
 translate french ql_hayLin_help_in_restoran_2_5f2b31bd:
 
     # cedrick "Просто решил помочь Хай Лин в трудной ситуации..."
-    cedrick "J'ai juste décidé d'aider Hai Lin dans une situation difficile..."
+    cedrick "J'ai juste décidé d'aider Hay Lin dans une situation difficile..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:19
 translate french ql_hayLin_help_in_restoran_2_bfb395e0:
@@ -40,7 +40,7 @@ translate french ql_hayLin_help_in_restoran_2_bfb395e0:
 translate french ql_hayLin_help_in_restoran_2_c80bd042:
 
     # will "А Хай Лин здесь?"
-    will "Hai Ling est là ?"
+    will "Hay Lin est là ?"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:24
 translate french ql_hayLin_help_in_restoran_2_6efc5ce5:
@@ -76,7 +76,7 @@ translate french ql_hayLin_help_in_restoran_2_a6f47658:
 translate french ql_hayLin_help_in_restoran_2_708e9e22:
 
     # "Вы отправляетесь на кухню в поисках Хай Лин"
-    "Tu te diriges vers la cuisine à la recherche de Hai Ling."
+    "Tu te diriges vers la cuisine à la recherche de Hay Lin."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:37
 translate french ql_hayLin_help_in_restoran_2_17dfeebb:
@@ -118,5 +118,5 @@ translate french ql_hayLin_help_in_restoran_2_3e854889:
 translate french ql_hayLin_help_in_restoran_2_75dc8672:
 
     # "Доработав остаток дня и поев вкусный ужин, которым вознаградила вас семья Лин за работу, вы отправляетесь в книжный магазин. Вы полны мыслей о том, как бы поскорей трахнуть Хай Лин..."
-    "Après avoir travaillé le reste de la journée et mangé le délicieux dîner dont la famille de Lin vous a récompensé pour votre travail, vous vous rendez à la librairie. Vous êtes plein de pensées pour baiser Hai Ling dès que possible..."
+    "Après avoir travaillé le reste de la journée et mangé le délicieux dîner dont la famille de Lin vous a récompensé pour votre travail, vous vous rendez à la librairie. Vous êtes plein de pensées pour baiser Hay Lin dès que possible..."
 

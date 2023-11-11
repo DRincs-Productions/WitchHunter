@@ -136,7 +136,7 @@ translate french invariably_cedrick_4_2e62511c:
 translate french invariably_cedrick_4_cc2e9b4d:
 
     # cedrick "(Думаю это надолго. Хай Лин, придется потерпеть..)"
-    cedrick "(Je pense que cela va prendre beaucoup de temps. Hi Lin, nous devrons être patients...)."
+    cedrick "(Je pense que cela va prendre beaucoup de temps. Hay Lin, nous devrons être patients...)."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:43
 translate french invariably_cedrick_4_ade8cdbc:

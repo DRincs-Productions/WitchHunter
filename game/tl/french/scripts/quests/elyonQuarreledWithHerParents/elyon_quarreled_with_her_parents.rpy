@@ -184,7 +184,7 @@ translate french elyon_quarreled_with_her_parents_ed60833b:
 translate french elyon_quarreled_with_her_parents_78308d23:
 
     # centered "{size=37}СЕДРИК ВЛАМЫВАЕТСЯ В ДОМ{/size}"
-    centered "{size=37}SEDRICKS INTO THE HOUSE{/size}"
+    centered "{size=37}DANS LA MAISON DE CEDRIC{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:71
 translate french elyon_quarreled_with_her_parents_a20cefa7:

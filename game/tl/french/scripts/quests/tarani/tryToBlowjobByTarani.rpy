@@ -16,7 +16,7 @@ translate french tryToBlowjobByTarani_c1696a59:
 translate french tryToBlowjobByTarani_ee17437a:
 
     # cedrick "Тарани, не останешься помочь мне с проверкой?"
-    cedrick "Tarani, pouvez-vous rester et m'aider à vérifier ?"
+    cedrick "Taranee, pouvez-vous rester et m'aider à vérifier ?"
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:14
 translate french tryToBlowjobByTarani_e46de5b2:
@@ -58,7 +58,7 @@ translate french tryToBlowjobByTarani_bc745b02:
 translate french tryToBlowjobByTarani_459fb041:
 
     # cedrick "(Это Тарани подменила его листок.. Она сделала работу за двоих. Чертовка, нашла способ, как меня обойти..)"
-    cedrick "(C'est Tarani qui a échangé sa feuille. Elle a fait le travail pour deux. Merde, elle a trouvé un moyen de me contourner...)"
+    cedrick "(C'est Taranee qui a échangé sa feuille. Elle a fait le travail pour deux. Merde, elle a trouvé un moyen de me contourner...)"
 
 # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:25
 translate french tryToBlowjobByTarani_ed426cb8:

@@ -22,7 +22,7 @@ translate french look_into_the_cave_night_15263d34:
 translate french look_into_the_cave_night_0c1cf74f:
 
     # blankChar "Да! Это дома бланка, приколись!"
-    blankChar "Oui ! C'est un formulaire à la maison, faites-en l'expérience !"
+    blankChar "Oui ! C'est un Blunk à la maison, faites-en l'expérience !"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:19
 translate french look_into_the_cave_night_d3312491:
@@ -52,13 +52,13 @@ translate french look_into_the_cave_night_8dc272a8:
 translate french look_into_the_cave_night_a78279c4:
 
     # blankChar "Бланк пришлось покинуть уютный бак с кучей еды, она выгнать меня!"
-    blankChar "Blank a dû quitter le réservoir douillet avec le tas de nourriture, elle m'a jeté dehors !"
+    blankChar "Blunk a dû quitter le réservoir douillet avec le tas de nourriture, elle m'a jeté dehors !"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:27
 translate french look_into_the_cave_night_95de2af7:
 
     # blankChar "Говорить, что бланк пугает клиентов! Мой аромат мешает кушац человекам!"
-    blankChar "Dire le formulaire effraie les clients ! Mon arôme perturbe les habitudes alimentaires des gens !"
+    blankChar "Dire le Blunk effraie les clients ! Mon arôme perturbe les habitudes alimentaires des gens !"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:28
 translate french look_into_the_cave_night_5de7784c:
@@ -70,7 +70,7 @@ translate french look_into_the_cave_night_5de7784c:
 translate french look_into_the_cave_night_e6e67a16:
 
     # blankChar "Больше бланк туда не возвращаеца! К этим злым ведьмам!"
-    blankChar "Le formulaire ne retournera pas là-bas ! Vers ces méchantes sorcières !"
+    blankChar "Le Blunk ne retournera pas là-bas ! Vers ces méchantes sorcières !"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:30
 translate french look_into_the_cave_night_60c64cf5:
@@ -100,7 +100,7 @@ translate french look_into_the_cave_night_811e09e7:
 translate french look_into_the_cave_night_b09847a8:
 
     # blankChar "Бланк не контрбандист! Бланк бизнесмен!"
-    blankChar "Blank n'est pas un contre-gangster ! Blank est un homme d'affaires !"
+    blankChar "Blunk n'est pas un contre-gangster ! Blunk est un homme d'affaires !"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:38
 translate french look_into_the_cave_night_dbcf998f:
@@ -154,7 +154,7 @@ translate french look_into_the_cave_night_8595d9d0:
 translate french look_into_the_cave_night_8eab897a:
 
     # blankChar "Бланк не крал! Одолжил по старой дружбе... "
-    blankChar "Je n'ai pas volé le formulaire ! Je l'ai emprunté à une vieille amitié... "
+    blankChar "Je n'ai pas volé le Blunk ! Je l'ai emprunté à une vieille amitié... "
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:59
 translate french look_into_the_cave_night_04f3be58:
@@ -166,7 +166,7 @@ translate french look_into_the_cave_night_04f3be58:
 translate french look_into_the_cave_night_667ad927:
 
     # blankChar "Бланк хотеть 1000 золотых!"
-    blankChar "Le formulaire veut 1 000 pièces d'or !"
+    blankChar "Le Blunk veut 1 000 pièces d'or !"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:61
 translate french look_into_the_cave_night_d39595ec:

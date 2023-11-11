@@ -10,7 +10,7 @@ translate french gameower_410261a5:
 translate french gameower_1521759a:
 
     # chenlin "Ч-черт, я так надеялся, что это Хай Лин.."
-    chenlin "Mince, j'espérais que ce soit Hai Ling.."
+    chenlin "Mince, j'espérais que ce soit Hay Lin.."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:170
 translate french gameower_fecdf984:
@@ -46,13 +46,13 @@ translate french gameower_52ba0c08:
 translate french gameower_5f4f1ad3:
 
     # cedrick "(Черт, это рушит абсолютно все мои планы касательно Хай Лин.. Такую ситуацию я уже решить не смогу..)"
-    cedrick "(Bon sang, cela ruine tous mes plans pour Hai Ling.... C'est une situation que je ne peux pas résoudre...)"
+    cedrick "(Bon sang, cela ruine tous mes plans pour Hay Lin.... C'est une situation que je ne peux pas résoudre...)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:182
 translate french gameower_96fbd5fa:
 
     # cedrick "(Для моих отношений с Хай Лин это конец..)"
-    cedrick "(Pour ma relation avec Hai Ling, c'est fini...)"
+    cedrick "(Pour ma relation avec Hay Lin, c'est fini...)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:201
 translate french gamewin_d4fee99f:
@@ -190,7 +190,7 @@ translate french d_01_080f10af:
 translate french d_01_b3a30d87:
 
     # cedrick "(Возможно думает, что это Хай Лин и не хочет быть инициатором неловкой сцены..)"
-    cedrick "(Il pense probablement que c'est Hai Ling et ne veut pas être l'instigateur d'une scène gênante...)"
+    cedrick "(Il pense probablement que c'est Hay Lin et ne veut pas être l'instigateur d'une scène gênante...)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:246
 translate french d_01_7b5009ba:

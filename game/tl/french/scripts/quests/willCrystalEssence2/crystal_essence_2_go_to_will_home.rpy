@@ -460,7 +460,7 @@ translate french crystal_essence_2_go_to_will_home_bbe6fc9c:
 translate french crystal_essence_2_go_to_will_home_c4707b76:
 
     # susan "Вилл!? Следи за языком"
-    susan "Will ! Surveillez votre bouche !"
+    susan "Will ! Surveillez votre langue"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:130
 translate french crystal_essence_2_go_to_will_home_5c5d9205:
@@ -490,7 +490,7 @@ translate french crystal_essence_2_go_to_will_home_947bebc0:
 translate french crystal_essence_2_go_to_will_home_7276caea:
 
     # susan "В-вилл.."
-    susan "V-ville..."
+    susan "W-will.."
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:139
 translate french crystal_essence_2_go_to_will_home_6aeb0e35:

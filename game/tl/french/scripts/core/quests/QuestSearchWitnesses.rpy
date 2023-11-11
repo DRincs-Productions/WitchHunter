@@ -20,7 +20,7 @@ translate french strings:
 
     # game/scripts/core/quests/QuestSearchWitnesses.rpy:14
     old "Уговорить Ирму и Тарани дать показания в пользу Седрика в суде"
-    new "Persuadez Irma et Tarani de témoigner en faveur de Cédric au tribunal"
+    new "Persuadez Irma et Taranee de témoigner en faveur de Cédric au tribunal"
 
     # game/scripts/core/quests/QuestSearchWitnesses.rpy:14
     old "Дать наводку сестрам Грампер"

@@ -28,7 +28,7 @@ translate french strings:
 
     # game/scripts/core/quests/QuestHayLin.rpy:29
     old "Прийти в ресторан и как следует развлечься с Хайлин"
-    new "Aller au restaurant et passer un bon moment avec Heylin"
+    new "Aller au restaurant et passer un bon moment avec Hay Lin"
 
     # game/scripts/core/quests/QuestHayLin.rpy:29
     old "Попросить Миранду приготовить лекарство для Ян Лин"
@@ -36,7 +36,7 @@ translate french strings:
 
     # game/scripts/core/quests/QuestHayLin.rpy:29
     old "Отдать лекарство для Ян Лин, Хай Лин"
-    new "Donnez le médicament à Yang Lin, Hai Ling."
+    new "Donnez le médicament à Hay Lin"
 
     # game/scripts/core/quests/QuestHayLin.rpy:29
     old "Наполнить волшебный сосуд в замке князя фобоса"

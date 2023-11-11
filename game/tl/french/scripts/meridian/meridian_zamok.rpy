@@ -40,7 +40,7 @@ translate french talk_with_prince_phobos_bcf5b0a6:
 translate french talk_with_prince_phobos_831e4b8a:
 
     # cedrick "Оказалось, что одна из подруг принцессы является Стражницей завесы"
-    cedrick "Il s'avère que l'un des amis de la princesse est le Gardien du Rideau."
+    cedrick "Il s'avère que l'un des amis de la princesse est gardien de Kandrakar"
 
 # game/scripts/meridian/meridian_zamok.rpy:55
 translate french talk_with_prince_phobos_0c71bcfe:
