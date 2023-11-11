@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 16:12\n"
+"PO-Revision-Date: 2023-11-11 10:21\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/splashscreen.rpy:85 #-#-# translate crowdin splashscreen_f3db2f9c:
 msgid "[_attention_] {size=80}{color=#f00}ВНИМАНИЕ!{/color}{/size}\n"
@@ -30,8 +30,5 @@ msgid "[_attention_] {size=80}{color=#f00}ВНИМАНИЕ!{/color}{/size}\n"
 "ВСЕМ ПЕРСОНАЖАМ В ИГРЕ НЕ МЕНЕЕ 18 ЛЕТ.\n"
 "ВАМ УЖЕ ИСПОЛНИЛОСЬ 18 ЛЕТ?\n"
 "{/size}"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
