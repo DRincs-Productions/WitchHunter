@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:54\n"
+"PO-Revision-Date: 2023-11-11 09:38\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:6 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_ee19bdf0:
 msgid "[_haylin_] Хех, смотрю работа официантом не отпугнула тебя..."
@@ -30,7 +30,7 @@ msgstr "[_will_] Rick ! ? Salut ! Je ne savais pas que tu travaillais ici…"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:14 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_5f2b31bd:
 msgid "[_cedrick_] Просто решил помочь Хай Лин в трудной ситуации..."
-msgstr "[_cedrick_] J'ai juste décidé d'aider Hai Lin dans une situation difficile..."
+msgstr "[_cedrick_] J'ai juste décidé d'aider Hay Lin dans une situation difficile..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:19 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_bfb395e0:
 msgid "[_will_] Оу... Это так... благородно…"
@@ -38,7 +38,7 @@ msgstr "[_will_] Oh... C'est tellement... noble…"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:23 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_c80bd042:
 msgid "[_will_] А Хай Лин здесь?"
-msgstr "[_will_] Hai Ling est là ?"
+msgstr "[_will_] Hay Lin est là ?"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:24 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_6efc5ce5:
 msgid "[_cedrick_] Эм..."
@@ -62,7 +62,7 @@ msgstr "[_cedrick_] Bien sûr!"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:33 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_708e9e22:
 msgid "Вы отправляетесь на кухню в поисках Хай Лин"
-msgstr "Tu te diriges vers la cuisine à la recherche de Hai Ling."
+msgstr "Tu te diriges vers la cuisine à la recherche de Hay Lin."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:37 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_17dfeebb:
 msgid "[_cedrick_] (Оу..)"
@@ -90,8 +90,5 @@ msgstr "[_haylin_] Oui ? Je vais m'occuper d'elle, merci..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:44 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_75dc8672:
 msgid "Доработав остаток дня и поев вкусный ужин, которым вознаградила вас семья Лин за работу, вы отправляетесь в книжный магазин. Вы полны мыслей о том, как бы поскорей трахнуть Хай Лин..."
-msgstr "Après avoir travaillé le reste de la journée et mangé le délicieux dîner dont la famille de Lin vous a récompensé pour votre travail, vous vous rendez à la librairie. Vous êtes plein de pensées pour baiser Hai Ling dès que possible..."
-
-msgid "Бланк"
-msgstr "Blunk"
+msgstr "Après avoir travaillé le reste de la journée et mangé le délicieux dîner dont la famille de Lin vous a récompensé pour votre travail, vous vous rendez à la librairie. Vous êtes plein de pensées pour baiser Hay Lin dès que possible..."
 
