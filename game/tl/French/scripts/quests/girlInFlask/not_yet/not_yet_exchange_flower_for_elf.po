@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:50\n"
+"PO-Revision-Date: 2023-11-11 09:35\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/girlInFlask/not_yet/not_yet_exchange_flower_for_elf.rpy:5 #-#-# translate crowdin not_yet_exchange_flower_for_elf_90884ceb:
 msgid "[_amalia_] Ты отдал цветок Евангелине? Ей стало лучше?"
@@ -19,7 +19,4 @@ msgstr "[_amalia_] As-tu donné la fleur à Evangeline ? Est-ce qu'elle s'est se
 # game/scripts/quests/girlInFlask/not_yet/not_yet_exchange_flower_for_elf.rpy:6 #-#-# translate crowdin not_yet_exchange_flower_for_elf_25bf4ac9:
 msgid "[_cedrick_] Еще нет, я в процессе, не беспокойся"
 msgstr "[_cedrick_] Pas encore, je suis en train de le faire, ne vous inquiétez pas."
-
-msgid "Бланк"
-msgstr "Blunk"
 
