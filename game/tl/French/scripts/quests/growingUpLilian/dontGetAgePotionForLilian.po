@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:52\n"
+"PO-Revision-Date: 2023-11-11 09:37\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/dontGetAgePotionForLilian.rpy:10 #-#-# translate crowdin dontGetAgePotionForLilian_6d7479d3:
 msgid "[_lilian_] Рик!"
@@ -39,7 +39,4 @@ msgstr "[_cedrick_] Ne t'inquiète pas, je pourrai bientôt faire de toi un vrai
 # game/scripts/quests/growingUpLilian/dontGetAgePotionForLilian.rpy:21 #-#-# translate crowdin dontGetAgePotionForLilian_a20cefa7:
 msgid "..."
 msgstr "..."
-
-msgid "Бланк"
-msgstr "Blunk"
 
