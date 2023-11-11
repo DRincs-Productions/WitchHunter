@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:55\n"
+"PO-Revision-Date: 2023-11-11 09:39\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:18 #-#-# translate crowdin alchemy_teleport_to_meridian_a20cefa7:
 msgid "..."
@@ -281,7 +281,4 @@ msgstr "Detenerlos"
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:62
 msgid "Смотреть, что будет дальше"
 msgstr "Ver lo que ocurre a continuación"
-
-msgid "Бланк"
-msgstr "Blunk"
 
