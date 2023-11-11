@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:48\n"
+"PO-Revision-Date: 2023-11-11 09:33\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:8 #-#-# translate crowdin askBlankGetTickets_8d5f0563:
 msgid "[_cedrick_] Эй, спекулянт!"
@@ -51,7 +51,4 @@ msgstr "[_cedrick_] Vale, tendrás una camiseta..."
 # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:23 #-#-# translate crowdin askBlankGetTickets_a20cefa7:
 msgid "..."
 msgstr "..."
-
-msgid "Бланк"
-msgstr "Blunk"
 
