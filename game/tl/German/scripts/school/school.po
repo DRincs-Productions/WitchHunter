@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 16:11\n"
+"PO-Revision-Date: 2023-11-11 10:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/school/school.rpy:13 #-#-# translate crowdin school_2ff9a1c5:
 msgid "[_cedrick_] Пожалуй.. Не стоит взрослому мужику ошиваться в школе..."
@@ -70,8 +70,5 @@ msgstr ""
 
 # game/scripts/school/school.rpy:66
 msgid "Комната журналистики"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
