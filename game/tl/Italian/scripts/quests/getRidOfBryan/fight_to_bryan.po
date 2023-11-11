@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:49\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getRidOfBryan/fight_to_bryan.rpy:5 #-#-# translate crowdin fight_to_bryan_16e750bc:
 msgid "[_cedrick_sprite_] Что-же, пора встретиться и наконец разобраться с Брайаном."
@@ -31,7 +31,4 @@ msgstr "[_brayan_]  Dov'è Elion!? Così mi hai scritto!?"
 # game/scripts/quests/getRidOfBryan/fight_to_bryan.rpy:25 #-#-# translate crowdin fight_to_bryan_f39cbd2f:
 msgid "[_cedrick_] Она сегодня не сможет встретиться с тобой..."
 msgstr "[_cedrick_] Non potrà incontrarti oggi..."
-
-msgid "Бланк"
-msgstr "Blunk"
 
