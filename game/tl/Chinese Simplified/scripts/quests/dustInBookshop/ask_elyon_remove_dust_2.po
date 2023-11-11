@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 15:46\n"
+"PO-Revision-Date: 2023-11-11 09:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/dustInBookshop/ask_elyon_remove_dust_2.rpy:2 #-#-# translate crowdin ask_elyon_remove_dust_2_b6682e92:
 msgid "[_cedrick_] Элион, не могла бы ты протереть пыль с верхних полок?"
@@ -54,8 +54,5 @@ msgstr ""
 
 # game/scripts/quests/dustInBookshop/ask_elyon_remove_dust_2.rpy:20 #-#-# translate crowdin ask_elyon_remove_dust_2_183daa33:
 msgid "[_elion_] Спасибо, Рик!"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
