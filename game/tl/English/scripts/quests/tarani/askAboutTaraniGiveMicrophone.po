@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 16:05\n"
+"PO-Revision-Date: 2023-11-11 10:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:9 #-#-# translate crowdin askAboutTaraniGiveMicrophone_d811ca89:
 msgid "[_cedrick_] Я принес вам микрофон."
@@ -142,8 +142,5 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:4
 msgid "Ты принес микрофон?"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
