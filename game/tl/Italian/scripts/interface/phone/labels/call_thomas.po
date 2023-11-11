@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:39\n"
+"PO-Revision-Date: 2023-11-11 09:24\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/interface/phone/labels/call_thomas.rpy:3 #-#-# translate crowdin call_thomas_f6a091b6:
 msgid "Вам нужно минимум 100$ чтобы предложить ему поиграть."
@@ -35,7 +35,4 @@ msgstr "Sì, certo."
 # game/scripts/interface/phone/labels/call_thomas.rpy:9 #-#-# translate crowdin call_thomas_78698471:
 msgid "[_cedrick_sprite_] Тогда встретимся у меня вечером."
 msgstr "[_cedrick_sprite_] Allora incontriamoci a casa mia stasera."
-
-msgid "Бланк"
-msgstr "Blunk"
 
