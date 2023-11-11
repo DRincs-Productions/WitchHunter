@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:44\n"
+"PO-Revision-Date: 2023-11-11 09:28\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/meridian/tavern/labels/herald.rpy:21 #-#-# translate crowdin herald_78013ee1:
 msgid "[_cedrick_] Я принес тебе золото!"
@@ -75,7 +75,4 @@ msgstr "gioca per 200 oro"
 # game/scripts/meridian/tavern/labels/herald.rpy:40
 msgid "Извини пока нету такой суммы"
 msgstr "Mi spiace, non ho ancora quella cifra."
-
-msgid "Бланк"
-msgstr "Blunk"
 
