@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 16:08\n"
+"PO-Revision-Date: 2023-11-11 10:17\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/susan_restoran.rpy:9 #-#-# translate crowdin susan_restoran_f4884831:
 msgid "*Сьюзан открывает дверь*"
@@ -198,8 +198,5 @@ msgstr ""
 
 # game/scripts/quests/will/susan_restoran.rpy:184 #-#-# translate crowdin susan_restoran_9a946446:
 msgid "[_cedrick_] (Ее муж вернулся и все мне обломал... Пожалуй зайду к ней завтра..)"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
