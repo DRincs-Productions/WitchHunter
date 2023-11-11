@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:56\n"
+"PO-Revision-Date: 2023-11-11 09:40\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:5 #-#-# translate crowdin get_members_for_newspaper_club_7dd13b6d:
 msgid "[_elion_] Похоже школьная газета теперь выпускает полный отстой"
@@ -162,7 +162,7 @@ msgstr "...."
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:133 #-#-# translate crowdin get_members_for_newspaper_club_cefef014:
 msgid "[_irma_] Вечера и субботы в школе! Молодец, Тарани!"
-msgstr "[_irma_] Les soirs et les samedis à l'école ! Bravo, Tarani !"
+msgstr "[_irma_] Les soirs et les samedis à l'école ! Bravo, Taranee !"
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:137 #-#-# translate crowdin get_members_for_newspaper_club_447bb3f7:
 msgid "[_martin_] Привет, Леди-Босс ! Теперь мы всегда будем вместе!"
@@ -175,7 +175,4 @@ msgstr "[_irma_] Oh mon Dieu..."
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:145 #-#-# translate crowdin get_members_for_newspaper_club_fa8527d6:
 msgid "[_cedrick_] Жду вас завтра, в клубе журналистики"
 msgstr "[_cedrick_] On se voit demain, au club de journalisme"
-
-msgid "Бланк"
-msgstr "Blunk"
 
