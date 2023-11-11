@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:24\n"
+"PO-Revision-Date: 2023-11-11 08:50\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:6 #-#-# translate crowdin newspaper_section_director_calls_534a0246:
 msgid "[_martin_]  Ах, вот вы где, мистер Хоффман! Я вас обыскался"
@@ -97,5 +97,5 @@ msgid "[_cedrick_] (Отлично! На меня снова повесили н
 msgstr "[_cedrick_] (Super ! On m'a encore épinglé un travail inutile. Maintenant, où dois-je chercher deux autres participants ?)"
 
 msgid "Бланк"
-msgstr "Formulaire"
+msgstr "Blunk"
 
