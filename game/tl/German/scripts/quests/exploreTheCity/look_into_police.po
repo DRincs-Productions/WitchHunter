@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:47\n"
+"PO-Revision-Date: 2023-11-11 09:32\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/exploreTheCity/look_into_police.rpy:3 #-#-# translate crowdin look_into_police_eafb3d46:
 msgid "[_cedrick_] Полицейский участок… полный служителями закона, которые призваны защищать беззащитных людишек от тех, кто не признает правила и порядки установленные обществом и делает все, что хочет…"
@@ -22,8 +22,5 @@ msgstr ""
 
 # game/scripts/quests/exploreTheCity/look_into_police.rpy:5 #-#-# translate crowdin look_into_police_c897bc2e:
 msgid "[_cedrick_] Но все же… пока я здесь, мне не стоит привлекать их внимание… они могут доставить мне немало проблем…"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
