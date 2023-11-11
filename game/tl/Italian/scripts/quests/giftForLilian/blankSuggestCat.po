@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:25\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/blankSuggestCat.rpy:9 #-#-# translate crowdin blankSuggestCat_a20cefa7:
 msgid "..."
@@ -83,7 +83,4 @@ msgstr "[_cedrick_] Rospo viscido e scivoloso."
 # game/scripts/quests/giftForLilian/blankSuggestCat.rpy:43 #-#-# translate crowdin blankSuggestCat_f830a2b0:
 msgid "[_blank_] Комплиментами меня не задобрить.. Тащи 100 баксов"
 msgstr "[_blank_] I complimenti non mi fanno sentire meglio. Porta 100 dollari."
-
-msgid "Бланк"
-msgstr "Blunk"
 
