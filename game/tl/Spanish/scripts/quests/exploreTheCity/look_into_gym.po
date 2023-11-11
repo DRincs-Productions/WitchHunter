@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:47\n"
+"PO-Revision-Date: 2023-11-11 09:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/exploreTheCity/look_into_gym.rpy:3 #-#-# translate crowdin look_into_gym_e6fa0d91:
 msgid "[_cedrick_] Спортивный центр… Теннисный корт, бассейн, футбольное поле, каток и все в таком духе…"
@@ -19,7 +19,4 @@ msgstr "[_cedrick_] Polideportivo… Pista de tenis, piscina, campo de fútbol, 
 # game/scripts/quests/exploreTheCity/look_into_gym.rpy:4 #-#-# translate crowdin look_into_gym_4daf3689:
 msgid "[_cedrick_] Местные людишки совсем избалованы, им приходится искусственно создавать себе физические нагрузки, чтобы растрясти жирок со своих обрюзгших тел… Выглядит жалко…"
 msgstr "[_cedrick_] Los lugareños están completamente mimados, tienen que hacer ejercicio artificialmente para sacudir la grasa de sus cuerpos flácidos… Parece patético…"
-
-msgid "Бланк"
-msgstr "Blunk"
 
