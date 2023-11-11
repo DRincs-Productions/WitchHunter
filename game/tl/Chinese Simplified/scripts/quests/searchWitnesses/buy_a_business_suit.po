@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 16:03\n"
+"PO-Revision-Date: 2023-11-11 09:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:3 #-#-# translate crowdin buy_a_business_suit_cdeda416:
 msgid "У меня сейчас не хватает денег на деловой костюм"
@@ -3830,8 +3830,5 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1917 #-#-# translate crowdin buy_a_business_suit_f590ec32:
 msgid "[_cedrick_] (Но для начала.. Я должен вернуться в магазинчик и отдохнуть.. Эта судебная рутина чертовски выматывающая..)"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
