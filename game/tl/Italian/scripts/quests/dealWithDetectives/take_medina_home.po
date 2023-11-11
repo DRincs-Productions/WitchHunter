@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:25\n"
+"PO-Revision-Date: 2023-11-11 09:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:3 #-#-# translate crowdin take_medina_home_74be0a74:
 msgid "[_centered_] {size=37}СЕДРИК ОТВОДИТ МЕДИНУ ДОМОЙ, В ВЫСОТКУ, В КОТОРОЙ ТАК ЖЕ ЖИВЕТ И КОРНЕЛИЯ{/size}"
@@ -487,7 +487,4 @@ msgstr "[_cedrick_] (Quella volta furono così crudeli con Miranda. Non vorrei c
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:201 #-#-# translate crowdin take_medina_home_b9aad57f:
 msgid "[_cedrick_] (К тому же, уверен Миранда хотела бы отыграться за прошлый раз.. Решено, нужно отправиться на Меридиан)"
 msgstr "[_cedrick_] (Inoltre, sono sicuro che Miranda vorrebbe vendicarsi per l'ultima volta...). Si decide di andare a Meridian)."
-
-msgid "Бланк"
-msgstr "Blunk"
 
