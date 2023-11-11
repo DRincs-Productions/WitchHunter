@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:03\n"
+"PO-Revision-Date: 2023-11-11 09:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/skating/skating.rpy:8 #-#-# translate crowdin skating_4bf2aa0a:
 msgid "[_cedrick_] Ты готова?"
@@ -115,7 +115,4 @@ msgstr "[_cornelia_] Donnez-moi votre numéro de téléphone et quand j'en aurai
 # game/scripts/quests/skating/skating.rpy:44 #-#-# translate crowdin skating_06a95c70:
 msgid "[_cedrick_]  Договорились."
 msgstr "[_cedrick_]  C'est un marché."
-
-msgid "Бланк"
-msgstr "Blunk"
 
