@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-11 08:50\n"
+"PO-Revision-Date: 2023-11-11 09:35\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:4 #-#-# translate crowdin exchange_flower_for_elf_7480efc6:
 msgid "[_cedrick_] Это тот самый цветок?"
@@ -263,7 +263,4 @@ msgstr "[_amalia_] Evangeline et moi allons prendre une chambre, elle a besoin d
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:144 #-#-# translate crowdin exchange_flower_for_elf_73a386d3:
 msgid "[_cedrick_] Конечно, отдыхайте"
 msgstr "[_cedrick_] Bien sûr, le reste"
-
-msgid "Бланк"
-msgstr "Blunk"
 
