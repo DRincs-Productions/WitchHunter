@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 16:02\n"
+"PO-Revision-Date: 2023-11-11 09:45\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:4 #-#-# translate crowdin pre_visit_the_silver_dragon_939eea21:
 msgid "[_johnlin_] Р-рик!? Ч-что ты здесь делаешь.."
@@ -190,8 +190,5 @@ msgstr ""
 
 # game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:99 #-#-# translate crowdin pre_visit_the_silver_dragon_93627fab:
 msgid "[_johnlin_] Д-да, я поняла.. До завтра.."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
