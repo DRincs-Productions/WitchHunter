@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 16:02\n"
+"PO-Revision-Date: 2023-11-11 09:45\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:168 #-#-# translate crowdin gameower_410261a5:
 msgid "[_chenlin_] Д-джоан? Э-это ты.."
@@ -171,7 +171,4 @@ msgstr "[_cedrick_] Sdraiati sul divano, lo sentirai fino all'utero!"
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:282 #-#-# translate crowdin d_02_d557226e:
 msgid "[_johnlin_] Ооо дааа"
 msgstr "[_johnlin_] Oh, sì."
-
-msgid "Бланк"
-msgstr "Blunk"
 
