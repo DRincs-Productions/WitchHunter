@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:29\n"
+"PO-Revision-Date: 2023-11-11 09:16\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Fight/enemies/Jagnomorph.rpy:45
 msgid "Джагноморф"
@@ -19,7 +19,4 @@ msgstr "Jagnomorphe"
 # game/scripts/core/Fight/enemies/Jagnomorph.rpy:85
 msgid "Усыпление"
 msgstr "Endormir"
-
-msgid "Бланк"
-msgstr "Blunk"
 
