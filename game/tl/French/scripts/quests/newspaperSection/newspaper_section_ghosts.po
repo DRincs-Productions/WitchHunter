@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-11 08:50\n"
+"PO-Revision-Date: 2023-11-11 09:41\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:5 #-#-# translate crowdin newspaper_section_ghosts_a20cefa7:
 msgid "..."
@@ -278,7 +278,7 @@ msgstr "[_martin_] Je vais prendre la photo d'un fantôme et devenir célèbre !
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:129 #-#-# translate crowdin newspaper_section_ghosts_f6b4bcbf:
 msgid "[_tarani_] Ирма, давай отойдем на минутку..."
-msgstr "[_Taranee_] Irma, prenons un peu de recul..."
+msgstr "[_tarani_] Irma, prenons un peu de recul..."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:133 #-#-# translate crowdin newspaper_section_ghosts_b11cfbe6:
 msgid "[_irma_] Да.. конечно..."
@@ -307,7 +307,4 @@ msgstr "[_cedrick_] ( Il ne semble pas utile de continuer la leçon plus longtem
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:148 #-#-# translate crowdin newspaper_section_ghosts_a20cefa7_3:
 msgid "..."
 msgstr "..."
-
-msgid "Бланк"
-msgstr "Blunk"
 
