@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 15:57\n"
+"PO-Revision-Date: 2023-11-11 09:41\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:3 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_15da6b72:
 msgid "[_cedrick_] (Нужно сходить в школу, проверить, все ли в порядке. Надеюсь они сумели закрыть портал и избавится от вепря Герментуия. Из учителей я был в школе последним, и если там что-то произошло - меня могут обвинить в этом)"
@@ -50,8 +50,5 @@ msgstr ""
 
 # game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:30 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_3e67203f:
 msgid "[_cedrick_] Хорошо, я приду "
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
