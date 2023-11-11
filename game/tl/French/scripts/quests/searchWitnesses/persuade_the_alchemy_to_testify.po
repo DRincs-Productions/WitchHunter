@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:02\n"
+"PO-Revision-Date: 2023-11-11 09:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:6 #-#-# translate crowdin persuade_the_alchemy_to_testify_4813c441:
 msgid "[_cedrick_] Хей, давно не виделись, Алхими. Как тебе новые покои?"
@@ -163,7 +163,4 @@ msgstr "[_alchemy_] Alors c'est bon. Je me ferai passer pour un otage devant mon
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:100 #-#-# translate crowdin persuade_the_alchemy_to_testify_bf04a064:
 msgid "[_cedrick_] Отлично. Тогда идем в подводные шахты"
 msgstr "[_cedrick_] Très bien. Ensuite, nous irons dans les mines sous-marines"
-
-msgid "Бланк"
-msgstr "Blunk"
 
