@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:49\n"
+"PO-Revision-Date: 2023-11-11 09:33\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/willBeConcert.rpy:14 #-#-# translate crowdin willBeConcert_1a064a8d:
 msgid "[_alchemy_] Элион! Пойдем, скорее, в школу! Мы же опоздаем..."
@@ -47,7 +47,4 @@ msgstr "[_cedrick_] (Hmmm... ¡Esto podría ser útil!)"
 # game/scripts/quests/getConcertTickets/willBeConcert.rpy:41 #-#-# translate crowdin willBeConcert_f52066bd:
 msgid "[_cedrick_] (Возможно мне стоит позвать Корнелию на этот концерт. Это поможет мне сблизиться с ней...)"
 msgstr "[_cedrick_] (Quizá debería invitar a Cornelia a este concierto. Me ayudaría a acercarme a ella...)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
