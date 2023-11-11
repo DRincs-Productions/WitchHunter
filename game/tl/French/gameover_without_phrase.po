@@ -10,12 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:24\n"
+"PO-Revision-Date: 2023-11-11 09:12\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/gameover_without_phrase.rpy:6 #-#-# translate crowdin gameover_without_phrase_c7f7898a:
 msgid "[_centered_] {size=37} ИГРА ОКОНЧЕНА {/size}"
 msgstr "[_centered_] {size=37} FIN DE LA PARTIE {/size}"
-
-msgid "Бланк"
-msgstr "Blunk"
 
