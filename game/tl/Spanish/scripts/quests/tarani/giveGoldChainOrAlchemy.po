@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 16:05\n"
+"PO-Revision-Date: 2023-11-11 10:15\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:5 #-#-# translate crowdin giveGoldChainOrAlchemy_97a4e5a0:
 msgid "[_cedrick_] (Что ж, пожалуй я могу устроить ему секс с Алхими..)"
@@ -47,7 +47,4 @@ msgstr "Entrega la cadena"
 # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:3
 msgid "У меня ничего нет"
 msgstr "No tengo nada"
-
-msgid "Бланк"
-msgstr "Blunk"
 
