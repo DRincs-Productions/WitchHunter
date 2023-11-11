@@ -10,12 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:40\n"
+"PO-Revision-Date: 2023-11-11 09:25\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/interface/phone/screens/phone.rpy:52 #-#-# translate crowdin phone_no_signal_ac135db3:
 msgid "[_cedrick_] Нет связи... Не думаю что на Меридиане вообще связь возможна, мне придется вернуться в Хитерфилд"
 msgstr "[_cedrick_] Nessuna comunicazione... Non credo che ci sia alcuna comunicazione su Meridian, dovrò tornare a Heatherfield."
-
-msgid "Бланк"
-msgstr "Blunk"
 
