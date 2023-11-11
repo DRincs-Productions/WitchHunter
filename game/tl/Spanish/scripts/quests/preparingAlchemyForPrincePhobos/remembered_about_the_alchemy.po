@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:58\n"
+"PO-Revision-Date: 2023-11-11 09:43\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:4 #-#-# translate crowdin remembered_about_the_alchemy_2e06d5bd:
 msgid "[_cedrick_] (Черт, все эти горнолыжные приключения изрядно меня утомили..)"
@@ -107,7 +107,4 @@ msgstr "[_elion_] No hay de qué. Siempre me alegra ayudarte, después de todo l
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:40 #-#-# translate crowdin remembered_about_the_alchemy_00a240a4:
 msgid "[_cedrick_] Так, она ушла. Теперь срочно на Меридиан"
 msgstr "[_cedrick_] Bien, se ha ido. Ahora, urgente a Meridian"
-
-msgid "Бланк"
-msgstr "Blunk"
 
