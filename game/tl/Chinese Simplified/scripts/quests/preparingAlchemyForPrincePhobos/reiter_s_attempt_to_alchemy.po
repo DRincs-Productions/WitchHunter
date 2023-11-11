@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 15:59\n"
+"PO-Revision-Date: 2023-11-11 09:43\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:8 #-#-# translate crowdin reiter_s_attempt_to_alchemy_a22a88bc:
 msgid "[_cedrick_] (Решил надо мной насмехаться, плебей? Что ж, ни я это начал, Рейтер)"
@@ -774,8 +774,5 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:230
 msgid "Всего немного, ну как тут можно было устоять?"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
