@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:50\n"
+"PO-Revision-Date: 2023-11-11 09:35\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/sitWithLilian.rpy:10 #-#-# translate crowdin sitWithLilian_cdd6670c:
 msgid "Звук дверного звонка"
@@ -507,7 +507,4 @@ msgstr "[_cedrick_] (A un moment donné, j'ai cru que nous nous entendions bien.
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:276 #-#-# translate crowdin sitWithLilian_7edf9517:
 msgid "[_cedrick_] (Странная девчонка..)"
 msgstr "[_cedrick_] (Fille bizarre...)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
