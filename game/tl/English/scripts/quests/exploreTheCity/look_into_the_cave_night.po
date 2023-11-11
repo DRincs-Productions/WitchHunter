@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 15:48\n"
+"PO-Revision-Date: 2023-11-11 09:32\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:8 #-#-# translate crowdin look_into_the_cave_night_56bcbf25:
 msgid "[_cedrick_sprite_] Ах... Здесь так темно, я ни черта не вижу! Нужно немного времени, чтобы мои глаза смогли привыкнуть к этой темноте…"
@@ -146,8 +146,5 @@ msgstr ""
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:69 #-#-# translate crowdin look_into_the_cave_night_0897b038:
 msgid "[_cedrick_] (нужно будет потыкаться и разобраться в телефоне)"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
