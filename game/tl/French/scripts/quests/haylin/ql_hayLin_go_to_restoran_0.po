@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:53\n"
+"PO-Revision-Date: 2023-11-11 09:38\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:8 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_ee0ae87e:
 msgid "[_YanLin_] Добро пожаловать в ресторан азиатской кухни Серебряный дракон! Ах, это вы! Решили снова нас посетить?"
@@ -18,7 +18,7 @@ msgstr "[_YanLin_] Bienvenue au restaurant asiatique Silver Dragon ! Ah, c'est v
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:9 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_428c446a:
 msgid "[_cedrick_] Ну да... А Хай Лин здесь?"
-msgstr "[_cedrick_] Bien... Hai Ling est là ?"
+msgstr "[_cedrick_] Bien... Hay Lin est là ?"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:10 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_b89e74b9:
 msgid "[_YanLin_] Хо-хо-хо! Вам понравилась моя внучка? Она о вас тоже очень хорошего мнения..."
@@ -66,7 +66,7 @@ msgstr "[_haylin_] Rrrrr !!!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:46 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_72bb880a:
 msgid "[_cedrick_] Извините, я случайно услышал ваш разговор... Я бы мог мог сходить с Хай Лин, если вы боитесь отпускать ее одну..."
-msgstr "[_cedrick_] Désolé, j'ai entendu votre conversation par accident... Je pourrais aller avec Hai Ling si vous avez peur de la laisser partir seule..."
+msgstr "[_cedrick_] Désolé, j'ai entendu votre conversation par accident... Je pourrais aller avec Hay Lin si vous avez peur de la laisser partir seule..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:50 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_f14624c6:
 msgid "[_haylin_] Рик?"
@@ -90,7 +90,7 @@ msgstr "[_chenlin_] Chen Lin, un plaisir... Et voici ma femme, Joan Lin."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:70 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_b3cb7b93:
 msgid "[_johnlin_] Хай Лин, а ты уверена в порядочности этого человека? Он выглядит довольно молодо для учителя..."
-msgstr "[_johnlin_] Hai Lin, êtes-vous sûr de l'intégrité de cet homme ? Il a l'air plutôt jeune pour un professeur..."
+msgstr "[_johnlin_] Hay Lin, êtes-vous sûr de l'intégrité de cet homme ? Il a l'air plutôt jeune pour un professeur..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:74 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_74d7cbf0:
 msgid "[_haylin_] Ну ма-а-ам! Конечно! Рик хороший человек"
@@ -118,7 +118,7 @@ msgstr "[_chenlin_] Eh bien, dans ce cas... Pourquoi pas."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:96 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_173b157e:
 msgid "[_chenlin_] Но Хай Лин должна быть дома не позже полуночи, вам ясно!?"
-msgstr "[_chenlin_] Mais Hai Lin doit être à la maison au plus tard à minuit, vous comprenez ?"
+msgstr "[_chenlin_] Mais Hay Lin doit être à la maison au plus tard à minuit, vous comprenez ?"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:99 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_75d52a7e:
 msgid "[_haylin_] Хорошо!"
@@ -186,7 +186,7 @@ msgstr "[_cedrick_] Eh bien, si tu le dis..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:145 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_1b43d2d1:
 msgid "Отстояв огромную очередь, вы попадаете в холл кинотеатра. Вы купили билеты и наткнулись на подруг Хай Лин"
-msgstr "Après avoir fait une énorme queue, vous vous retrouvez dans le hall d'un cinéma. Vous avez acheté des tickets et vous rencontrez les amis de Hai Ling."
+msgstr "Après avoir fait une énorme queue, vous vous retrouvez dans le hall d'un cinéma. Vous avez acheté des tickets et vous rencontrez les amis de Hay Lin."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:147 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_84328f49:
 msgid "[_cedrick_] Привет, девочки"
@@ -278,8 +278,5 @@ msgstr "[_cedrick_] Eh bien, je pense qu'il est temps de te ramener à la maison
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:210 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_96483234:
 msgid "Отведя Хай Лин домой, седрик возвращается в книжный магазин"
-msgstr "Après avoir ramené Hai Ling chez elle, Cédric retourne à la librairie."
-
-msgid "Бланк"
-msgstr "Blunk"
+msgstr "Après avoir ramené Hay Lin chez elle, Cédric retourne à la librairie."
 
