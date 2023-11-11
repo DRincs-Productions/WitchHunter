@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 15:44\n"
+"PO-Revision-Date: 2023-11-11 09:28\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon1.rpy:7 #-#-# translate crowdin visit_alchemy_in_dungeon1_b93e1f5e:
 msgid "[_alchemy_] Ах ты ублюдок, что ты сделал с моим братом?!!"
@@ -74,8 +74,5 @@ msgstr ""
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon1.rpy:47 #-#-# translate crowdin visit_alchemy_in_dungeon1_0bdd8331:
 msgid "[_cedrick_sprite_] Посмотрим как ты заговоришь после того как просидишь несколько дней голодом..."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
