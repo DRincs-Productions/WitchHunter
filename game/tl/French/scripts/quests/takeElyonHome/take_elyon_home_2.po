@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:25\n"
+"PO-Revision-Date: 2023-11-11 08:50\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/takeElyonHome/take_elyon_home_2.rpy:4 #-#-# translate crowdin take_elyon_home_2_47fdc3c7:
 msgid "[_elion_] Рик, ну что, проводишь меня сегодня?"
@@ -205,5 +205,5 @@ msgid "[_cedrick_] (Что ж, семя раздора посажено.. Ост
 msgstr "[_cedrick_] (Eh bien, la graine de la discorde a été plantée... Il faut juste attendre un peu plus longtemps...)"
 
 msgid "Бланк"
-msgstr "Formulaire"
+msgstr "Blunk"
 
