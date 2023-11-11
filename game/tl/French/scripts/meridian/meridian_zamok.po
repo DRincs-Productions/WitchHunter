@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:20\n"
+"PO-Revision-Date: 2023-11-11 09:27\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/meridian/meridian_zamok.rpy:22 #-#-# translate crowdin talk_with_prince_phobos_69113d3e:
 msgid "[_phobos_] Скажи мне, что Звезда Трибы нашла девчонку!"
@@ -139,7 +139,4 @@ msgstr "[_phobos_] Alors ne teste pas ma patience."
 # game/scripts/meridian/meridian_zamok.rpy:132 #-#-# translate crowdin talk_with_prince_phobos_f1cdf5d6:
 msgid "[_cedrick_] Простите мой Князь, я пойду .."
 msgstr "[_cedrick_] Pardonnez-moi, mon Prince, je vais aller..."
-
-msgid "Бланк"
-msgstr "Blunk"
 
