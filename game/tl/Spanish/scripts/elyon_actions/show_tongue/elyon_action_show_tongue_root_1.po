@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:38\n"
+"PO-Revision-Date: 2023-11-11 09:23\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:5 #-#-# translate crowdin elyon_action_show_tongue_root_1_4a6d3f35:
 msgid "[_cedrick_] Отлично, тогда начнем с малого. Покажи мне свой язык"
@@ -107,7 +107,4 @@ msgstr ""
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:54 #-#-# translate crowdin elyon_action_show_tongue_enough_1_d231aab0:
 msgid "[_elion_] И-и я, Рик, спасибо"
 msgstr ""
-
-msgid "Бланк"
-msgstr "Blunk"
 
