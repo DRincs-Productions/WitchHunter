@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:24\n"
+"PO-Revision-Date: 2023-11-11 08:50\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:5 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d54f4eca:
 msgid "[_cedrick_] Элион, ты ведь не отправляешься школьную поездку?"
@@ -1585,5 +1585,5 @@ msgid "[_cedrick_] И тебе.. Хорошо, что все обошлось."
 msgstr "[_cedrick_] Et toi... C'est une bonne chose que tout se soit arrangé."
 
 msgid "Бланк"
-msgstr "Formulaire"
+msgstr "Blunk"
 
