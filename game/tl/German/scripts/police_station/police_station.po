@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:44\n"
+"PO-Revision-Date: 2023-11-11 09:28\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/police_station/police_station.rpy:13 #-#-# translate crowdin police_station_inaccessible_door_ae1873e0:
 msgid "[_cedrick_] Заперто.. К тому же это явно не та дверь"
@@ -310,8 +310,5 @@ msgstr ""
 
 # game/scripts/police_station/police_station.rpy:552
 msgid "Бэтгерл"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
