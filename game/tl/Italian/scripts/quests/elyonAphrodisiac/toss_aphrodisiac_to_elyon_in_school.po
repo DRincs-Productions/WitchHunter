@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:25\n"
+"PO-Revision-Date: 2023-11-11 09:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:5 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_93f5b332:
 msgid "[_cedrick_] (осталось добавить афродизиак в кофе)"
@@ -155,7 +155,4 @@ msgstr "[_cedrick_] (A quanto pare l'afrodisiaco ha funzionato bene, alla grande
 # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:82 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_52227770:
 msgid "[_centered_] {size=37}По школе начали разноситься слухи о том, что Элион мастурбировала прямо во время перемены{/size}"
 msgstr "[_centered_] {size=37}Si diffuse la voce che Elion si masturbasse durante la ricreazione{/size}"
-
-msgid "Бланк"
-msgstr "Blunk"
 
