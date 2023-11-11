@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-10 15:27\n"
+"PO-Revision-Date: 2023-11-11 09:13\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/bookshop_to_princePhobos.rpy:39 #-#-# translate crowdin bookshop_need_go_to_phobos_f092f9bb:
 msgid "Мне срочно нужно поговорить с Князем Фобосом!"
@@ -19,7 +19,4 @@ msgstr "¡Necesito hablar urgentemente con el Príncipe Phobos!"
 # §translate crowdin strings: #|#|# # game/scripts/bookshop/bookshop_to_princePhobos.rpy:44
 msgid "Вы уверены что хотите телепортироваться на Меридиан?"
 msgstr "¿Seguro que quieres teletransportarte a Meridian?"
-
-msgid "Бланк"
-msgstr "Blunk"
 
