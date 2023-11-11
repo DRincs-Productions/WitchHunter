@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:47\n"
+"PO-Revision-Date: 2023-11-11 09:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:4 #-#-# translate crowdin elyon_quarreled_with_her_parents_9522b460:
 msgid "[_cedrick_] Элион, что ты здесь делаешь? Уже довольно поздно..."
@@ -450,8 +450,5 @@ msgstr ""
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:47
 msgid "Устранить"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
