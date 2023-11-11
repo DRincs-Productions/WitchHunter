@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 16:10\n"
+"PO-Revision-Date: 2023-11-11 10:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/restaurant/restaurant.rpy:7 #-#-# translate crowdin restoran_123d8f3f:
 msgid "[_cedrick_sprite_] Ресторан закрыт."
@@ -23,7 +23,4 @@ msgstr "[_YanLin_] Abbiamo avuto così pochi clienti ultimamente... Spero che la
 # §translate crowdin strings: #|#|# # game/scripts/restaurant/restaurant.rpy:23
 msgid "Как насчет отсоса?"
 msgstr "Che ne dite di un po' di aspirazione?"
-
-msgid "Бланк"
-msgstr "Blunk"
 
