@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:20\n"
+"PO-Revision-Date: 2023-11-11 09:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:4 #-#-# translate crowdin elyon_quarreled_with_her_parents_9522b460:
 msgid "[_cedrick_] Элион, что ты здесь делаешь? Уже довольно поздно..."
@@ -451,7 +451,4 @@ msgstr "Pour découvrir leur véritable nature"
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:47
 msgid "Устранить"
 msgstr "Éliminez"
-
-msgid "Бланк"
-msgstr "Blunk"
 
