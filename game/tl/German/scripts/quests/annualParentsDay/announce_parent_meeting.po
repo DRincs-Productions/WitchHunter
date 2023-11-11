@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:44\n"
+"PO-Revision-Date: 2023-11-11 09:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/annualParentsDay/announce_parent_meeting.rpy:4 #-#-# translate crowdin announce_parent_meeting_905dba6c:
 msgid "[_cedrick_] Так, кто из вас еще не слышал, на этой неделе будет проходить ежегодный родительский день и вам всем необходимо заполнить родословное древо и приклеить фотографии своих родственников в соответствующей анкете..."
@@ -26,8 +26,5 @@ msgstr ""
 
 # game/scripts/quests/annualParentsDay/announce_parent_meeting.rpy:7 #-#-# translate crowdin announce_parent_meeting_10a94d5a:
 msgid "[_cedrick_] А теперь начнем наш урок..."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
