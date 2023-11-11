@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-10 15:43\n"
+"PO-Revision-Date: 2023-11-11 09:27\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/meridian/forests/forest_of_mobs.rpy:60 #-#-# translate crowdin forest_of_mobs_ce5f6a3a:
 msgid "[_cedrick_] Я не могу сражаться c Королем Морпионов с Мирандой на руках. Нужно отнести ее в замок"
@@ -30,8 +30,5 @@ msgstr ""
 
 # game/scripts/meridian/forests/forest_of_mobs.rpy:4
 msgid "Конец леса (10 уровень)"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
