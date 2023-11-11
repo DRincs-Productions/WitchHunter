@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-10 15:44\n"
+"PO-Revision-Date: 2023-11-11 09:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:6 #-#-# translate crowdin visit_alchemy_in_dungeon4_f33715a6:
 msgid "[_cedrick_sprite_] Ну здравствуй"
@@ -222,8 +222,5 @@ msgstr ""
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:55
 msgid "Отсоси мне"
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
