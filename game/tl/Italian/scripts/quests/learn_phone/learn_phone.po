@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:56\n"
+"PO-Revision-Date: 2023-11-11 09:40\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/learn_phone/learn_phone.rpy:7 #-#-# translate crowdin learn_phone_8e758cfd:
 msgid "[_cedrick_] Так, а здесь у нас хранятся сообщения..."
@@ -183,7 +183,4 @@ msgstr "Volete fare una rapida panoramica delle funzionalità del telefono?"
 # game/scripts/quests/learn_phone/learn_phone.rpy:37
 msgid "Нет(пропустить)"
 msgstr "No(salta)"
-
-msgid "Бланк"
-msgstr "Blunk"
 
