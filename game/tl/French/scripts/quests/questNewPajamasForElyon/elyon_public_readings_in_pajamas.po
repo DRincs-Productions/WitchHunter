@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:24\n"
+"PO-Revision-Date: 2023-11-11 08:50\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:3 #-#-# translate crowdin elyon_public_readings_in_pajamas_ad1cadb7:
 msgid "[_centered_] {size=37} На вечере чтений {/size}"
@@ -161,5 +161,5 @@ msgid "[_cedrick_] Хех, да, давай, а то уже темнеет"
 msgstr "[_cedrick_] Heh, ouais, allez, il fait nuit."
 
 msgid "Бланк"
-msgstr "Formulaire"
+msgstr "Blunk"
 
