@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-10 15:27\n"
+"PO-Revision-Date: 2023-11-11 09:13\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/bookshop_first.rpy:34 #-#-# translate crowdin bookshop_first_93d6c9e2:
 msgid "[_cedrick_sprite_] Кажется, что в Хезерфилде люди используют такие устройства для хранения своего рода бумажных денег. Как наивно ... Гораздо надежнее хранить золото под охраной в подземельях."
@@ -58,8 +58,5 @@ msgstr ""
 
 # game/scripts/bookshop/bookshop_first.rpy:64 #-#-# translate crowdin bookshop_first_59b43306:
 msgid "[_cedrick_sprite_] Звезда трибы, она должна привести ко мне наследницу трона."
-msgstr ""
-
-msgid "Бланк"
 msgstr ""
 
