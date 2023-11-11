@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 15:59\n"
+"PO-Revision-Date: 2023-11-11 09:42\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/inform_miranda_of_prince_phobos_errand.rpy:7 #-#-# translate crowdin inform_miranda_of_prince_phobos_errand_ce627275:
 msgid "[_cedrick_] Миранда.."
@@ -143,7 +143,4 @@ msgstr "[_miranda_] Oh... Un'altra volta, allora."
 # game/scripts/quests/preparingAlchemyForPrincePhobos/inform_miranda_of_prince_phobos_errand.rpy:112 #-#-# translate crowdin inform_miranda_of_prince_phobos_errand_07a26262:
 msgid "[_miranda_] (А я уж надеялась, что ты поможешь мне в приготовлениях..)"
 msgstr "[_miranda_] (E speravo che tu potessi aiutarmi con i preparativi...)."
-
-msgid "Бланк"
-msgstr "Blunk"
 
