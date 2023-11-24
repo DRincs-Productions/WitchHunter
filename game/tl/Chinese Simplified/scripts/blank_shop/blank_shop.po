@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-11 09:13\n"
+"PO-Revision-Date: 2023-11-24 14:06\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/blank_shop/blank_shop.rpy:63 #-#-# translate crowdin blank_shop_menu_1f3a1671:
 msgid "[_cedrick_sprite_] Интересно, в твоей семье все притворяются слабоумными?"
@@ -26,11 +26,11 @@ msgstr "索取表格以查找音乐会门票"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Напомни, что тебе нужно в обмен на билеты"
-msgstr ""
+msgstr "提醒我你需要什么来换取门票。"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Отдать бланку футболку"
-msgstr ""
+msgstr "给 Blunk 一件T 恤"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Забрать билеты для концерта"
@@ -38,7 +38,7 @@ msgstr "领取音乐会门票"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Попросить проследить за Найджелом"
-msgstr ""
+msgstr "请 Blunk 跟随 Nigel"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Купить кота"
