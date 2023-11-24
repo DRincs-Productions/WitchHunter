@@ -10,33 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-11 09:13\n"
+"PO-Revision-Date: 2023-11-24 15:18\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/bookshop/bookshop.rpy:11
 msgid "{size=37}Спустя некоторое время в книжном магазине{/size}"
-msgstr ""
+msgstr "{size=37}一段时间后，在书店里{/size}。"
 
 # game/scripts/bookshop/bookshop.rpy:43
 msgid "Прогуляться"
-msgstr ""
+msgstr "散步"
 
 # game/scripts/bookshop/bookshop.rpy:43
 msgid "Работать"
-msgstr ""
+msgstr "工作"
 
 # game/scripts/bookshop/bookshop.rpy:43
 msgid "Телепортироваться на меридиан"
-msgstr ""
+msgstr "传送到Meridian"
 
 # game/scripts/bookshop/bookshop.rpy:43
 msgid "Посмотреть порножурнал"
-msgstr ""
+msgstr "看看色情杂志"
 
 # game/scripts/bookshop/bookshop.rpy:69
 msgid "Изучить историю"
-msgstr ""
+msgstr "研究历史"
 
 # game/scripts/bookshop/bookshop.rpy:81
 msgid "Подойти к Элион"
-msgstr ""
+msgstr "接近伊利昂"
 
