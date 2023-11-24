@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-11 09:13\n"
+"PO-Revision-Date: 2023-11-24 15:18\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/blank_shop/blank_shop_need_join_to_restaurant.rpy:4 #-#-# translate crowdin blank_shop_need_join_to_restaurant_29dd188d:
 msgid "[_cedrick_] Опять никого!"
-msgstr ""
+msgstr "[_cedrick_] 又没人！"
 
 # game/scripts/blank_shop/blank_shop_need_join_to_restaurant.rpy:5 #-#-# translate crowdin blank_shop_need_join_to_restaurant_85a869df:
 msgid "[_cedrick_] Но судя по вещам и мусору оставленным здесь, тут определенно кто-то живет..."
-msgstr ""
+msgstr "[_cedrick_] 但从这里留下的东西和垃圾来看，肯定有人住在这里.....。"
 
 # game/scripts/blank_shop/blank_shop_need_join_to_restaurant.rpy:6 #-#-# translate crowdin blank_shop_need_join_to_restaurant_0729214a:
 msgid "[_cedrick_] Нужно будет заглянуть в другой раз"
-msgstr ""
+msgstr "[_cedrick_] 我们下次再来吧"
 
