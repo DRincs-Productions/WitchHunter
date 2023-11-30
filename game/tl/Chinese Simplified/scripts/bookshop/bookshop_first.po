@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-24 15:18\n"
+"PO-Revision-Date: 2023-11-30 12:27\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/bookshop_first.rpy:34 #-#-# translate crowdin bookshop_first_93d6c9e2:
 msgid "[_cedrick_sprite_] Кажется, что в Хезерфилде люди используют такие устройства для хранения своего рода бумажных денег. Как наивно ... Гораздо надежнее хранить золото под охраной в подземельях."
@@ -50,7 +50,7 @@ msgstr "[_cedrick_sprite_] 字数太多一言以蔽之，一本无用的书.....
 
 # game/scripts/bookshop/bookshop_first.rpy:58 #-#-# translate crowdin bookshop_first_6c0936dd:
 msgid "[_cedrick_sprite_] Статуэтка черепахи мутанта, похожа на тех вонючих воришек называющих себя контрабандистами с Меридиана."
-msgstr ""
+msgstr "[_cedrick_sprite_] 变异乌龟雕像，就像那些自称子午线走私犯的臭贼。"
 
 # game/scripts/bookshop/bookshop_first.rpy:61 #-#-# translate crowdin bookshop_first_ae9ed8fb:
 msgid "[_cedrick_sprite_] Первая книга из серии {i}Песнь пламени и льда{/i}, автор Дж. Мортин"
