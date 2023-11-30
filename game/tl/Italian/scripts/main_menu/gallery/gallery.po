@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/main_menu/gallery/gallery.po\n"
+"X-Crowdin-File-ID: 8209\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-11-11 09:25\n"
+
+# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/main_menu/gallery/gallery.rpy:1759
+msgid "Предыдущая страница"
+msgstr "Pagina precedente"
+
+# game/scripts/main_menu/gallery/gallery.rpy:1796
+msgid "Следующая страница"
+msgstr "Pagina successiva"
+

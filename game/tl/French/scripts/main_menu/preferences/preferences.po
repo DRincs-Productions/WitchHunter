@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/main_menu/preferences/preferences.po\n"
+"X-Crowdin-File-ID: 8211\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-11-11 09:25\n"
+
+# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/main_menu/preferences/preferences.rpy:7
+msgid "Русский"
+msgstr "Russe"
+
+# game/scripts/main_menu/preferences/preferences.rpy:7
+msgid "Английский"
+msgstr "Anglais"
+
+# game/scripts/main_menu/preferences/preferences.rpy:33
+msgid "Режим экрана"
+msgstr "Mode d'affichage"
+
+# game/scripts/main_menu/preferences/preferences.rpy:45
+msgid "Оконный"
+msgstr "Fenêtre"
+
+# game/scripts/main_menu/preferences/preferences.rpy:46
+msgid "Полноэкранный"
+msgstr "Plein écran"
+
+# game/scripts/main_menu/preferences/preferences.rpy:52
+msgid "Плавные переходы сцен"
+msgstr "Transitions de scènes fluides"
+
+# game/scripts/main_menu/preferences/preferences.rpy:64
+msgid "Включить"
+msgstr "Allumer"
+
+# game/scripts/main_menu/preferences/preferences.rpy:65
+msgid "Выключить"
+msgstr "Éteindre"
+
+# game/scripts/main_menu/preferences/preferences.rpy:71
+msgid "Пропускать"
+msgstr "Skip"
+
+# game/scripts/main_menu/preferences/preferences.rpy:72
+msgid "Прочитанные сообщения"
+msgstr "Messages lus"
+
+# game/scripts/main_menu/preferences/preferences.rpy:73
+msgid "Все сообщения"
+msgstr "Tous les messages"
+
+# game/scripts/main_menu/preferences/preferences.rpy:89
+msgid "После выбора"
+msgstr "Après avoir sélectionné"
+
+# game/scripts/main_menu/preferences/preferences.rpy:90
+msgid "Остановить пропуск"
+msgstr "Arrêtez la benne"
+
+# game/scripts/main_menu/preferences/preferences.rpy:91
+msgid "Продолжить пропуск"
+msgstr "Continuer à sauter"
+
+# game/scripts/main_menu/preferences/preferences.rpy:99
+msgid "Язык"
+msgstr "Langue"
+
+# game/scripts/main_menu/preferences/preferences.rpy:197
+msgid "Громкость музыки"
+msgstr "Volume de la musique"
+
+# game/scripts/main_menu/preferences/preferences.rpy:204
+msgid "Громкость звуков"
+msgstr "Volume des sons du jeu"
+
+# game/scripts/main_menu/preferences/preferences.rpy:208
+msgid "Test"
+msgstr "Test"
+
+# game/scripts/main_menu/preferences/preferences.rpy:218
+msgid "Voice volume"
+msgstr "Volume de la voix"
+
+# game/scripts/main_menu/preferences/preferences.rpy:221
+msgid "Voice sustain"
+msgstr "Soutien vocal"
+
+# game/scripts/main_menu/preferences/preferences.rpy:233
+msgid "FPS анимаций ([fps])"
+msgstr "Animations FPS ([fps])"
+
+# game/scripts/main_menu/preferences/preferences.rpy:238
+msgid "Применить"
+msgstr "Appliquer"
+
+# game/scripts/main_menu/preferences/preferences.rpy:252
+msgid "Ожидать загрузку боя"
+msgstr "Attendre que la bataille se charge"
+
+# game/scripts/main_menu/preferences/preferences.rpy:273
+msgid "Скорость текста"
+msgstr "Vitesse du texte"
+
+# game/scripts/main_menu/preferences/preferences.rpy:280
+msgid "Время автоматического пропуска"
+msgstr "Temps de saut automatique"
+

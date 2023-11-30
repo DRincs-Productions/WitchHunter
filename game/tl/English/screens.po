@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 7923\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2023-11-11 09:12\n"
+
+# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:71
+msgid "[tooltip]"
+msgstr "[tooltip]"
+
+# game/screens.rpy:92
+msgid "Нашел опечатку"
+msgstr "Typo found"
+
+# game/screens.rpy:203
+msgid "Пропуск"
+msgstr "Skip"
+
+# game/screens.rpy:439
+msgid "Начать"
+msgstr "Start"
+
+# game/screens.rpy:440
+msgid "Загрузить"
+msgstr "Load game"
+
+# game/screens.rpy:441
+msgid "Настройки"
+msgstr "Settings"
+
+# game/screens.rpy:442
+msgid "Галерея"
+msgstr "Gallery"
+
+# game/screens.rpy:443
+msgid "Поддержать"
+msgstr "Donate"
+
+# game/screens.rpy:444
+msgid "Титры"
+msgstr "Credits"
+
+# game/screens.rpy:445
+msgid "Выйти"
+msgstr "Quit"
+
+# game/screens.rpy:482
+msgid "Вернуться в игру"
+msgstr "Back to the game"
+
+# game/screens.rpy:485
+msgid "Сохранить"
+msgstr "Save"
+
+# game/screens.rpy:493
+msgid "Главное меню"
+msgstr "Main Menu"
+
+# game/screens.rpy:584
+msgid "Empty Slot."
+msgstr "Empty Slot."
+
+# game/screens.rpy:621
+msgid "Это сохранение не поддерживает текущую версию игры [game_version]. Загрузка этого сохранения может привести к ошибкам!"
+msgstr "This save file does not support the current game version: [game_version]. Loading this save file may lead to errors!"
+
+# game/screens.rpy:661
+msgid "Авто"
+msgstr "Auto"
+
+# game/screens.rpy:666
+msgid "Быстро"
+msgstr "Fast"
+
+# game/screens.rpy:687
+msgid "Далее"
+msgstr "Next"
+
+# game/screens.rpy:799
+msgid "Да"
+msgstr "Yes"
+
+# game/screens.rpy:803
+msgid "Нет"
+msgstr "No"
+
+# game/screens.rpy:835
+msgid "Меню"
+msgstr "Menu"
+
+# game/screens.rpy:836
+msgid "Быстрое сохранение"
+msgstr "Quick Save"
+
+# game/screens.rpy:837
+msgid "Быстрая Загрузка"
+msgstr "Quick Load"
+
+# game/screens.rpy:839
+msgid "Быстрый пропуск"
+msgstr "Fast Skip"
+
+# game/screens.rpy:840
+msgid "Авто пропуск"
+msgstr "Auto Skip"
+
+# game/screens.rpy:841
+msgid "Скрыть"
+msgstr "Hide"
+

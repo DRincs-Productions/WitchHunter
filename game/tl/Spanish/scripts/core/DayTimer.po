@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/core/DayTimer.po\n"
+"X-Crowdin-File-ID: 7965\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-11-11 09:14\n"
+
+# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/DayTimer.rpy:7
+msgid "Пн"
+msgstr "Lu"
+
+# game/scripts/core/DayTimer.rpy:7
+msgid "Вт"
+msgstr "Mar"
+
+# game/scripts/core/DayTimer.rpy:7
+msgid "Ср"
+msgstr "Mi"
+
+# game/scripts/core/DayTimer.rpy:7
+msgid "Чт"
+msgstr "Ju"
+
+# game/scripts/core/DayTimer.rpy:7
+msgid "Пт"
+msgstr "Vie"
+
+# game/scripts/core/DayTimer.rpy:7
+msgid "Сб"
+msgstr "Sab"
+
+# game/scripts/core/DayTimer.rpy:7
+msgid "Вс"
+msgstr "Do"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Понедельник"
+msgstr "Lunes"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Вторник"
+msgstr "Martes"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Среда"
+msgstr "Miércoles"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Четверг"
+msgstr "Jueves"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Пятница"
+msgstr "Viernes"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Суббота"
+msgstr "Sábado"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Воскресенье"
+msgstr "Domingo"
+
+# game/scripts/core/DayTimer.rpy:103
+msgid "Утро"
+msgstr "Mañana"
+
+# game/scripts/core/DayTimer.rpy:105
+msgid "День"
+msgstr "Día"
+
+# game/scripts/core/DayTimer.rpy:107
+msgid "Ночь"
+msgstr "Noche"
+

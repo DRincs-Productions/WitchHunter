@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/blank_shop/blank_shop.po\n"
+"X-Crowdin-File-ID: 7929\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2023-11-24 14:06\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/blank_shop/blank_shop.rpy:63 #-#-# translate crowdin blank_shop_menu_1f3a1671:
+msgid "[_cedrick_sprite_] Интересно, в твоей семье все притворяются слабоумными?"
+msgstr "[_cedrick_sprite_] 不知道你们家是不是每个人都假装有痴呆症。"
+
+# game/scripts/blank_shop/blank_shop.rpy:64 #-#-# translate crowdin blank_shop_menu_2b106eec:
+msgid "[_blankChar_] Бланк не притворяется. Бланк умственно отсталый."
+msgstr "[_blankChar_] 布兰克不是装的布兰克是弱智"
+
+# §translate crowdin strings: #|#|# # game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Попросить бланка найти билеты на концерт"
+msgstr "索取表格以查找音乐会门票"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Напомни, что тебе нужно в обмен на билеты"
+msgstr "提醒我你需要什么来换取门票。"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Отдать бланку футболку"
+msgstr "给 Blunk 一件T 恤"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Забрать билеты для концерта"
+msgstr "领取音乐会门票"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Попросить проследить за Найджелом"
+msgstr "请 Blunk 跟随 Nigel"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Купить кота"
+msgstr "买只猫"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Поговорить с ним"
+msgstr "跟他说话"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Ничего"
+msgstr "没有什么"
+

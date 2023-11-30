@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/core/inventory/inventory.po\n"
+"X-Crowdin-File-ID: 8025\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-11-11 09:17\n"
+
+# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/inventory.rpy:2
+msgid "Золотых"
+msgstr "Dorado"
+
+# game/scripts/core/inventory/inventory.rpy:3
+msgid "Вы уверены что хотите купить "
+msgstr "¿Está seguro que desea comprar? "
+
+# game/scripts/core/inventory/inventory.rpy:31
+msgid "Золото"
+msgstr "Oro"
+
+# game/scripts/core/inventory/inventory.rpy:127
+msgid "Получен новый предмет:"
+msgstr "Recibes un nuevo artículo:"
+
+# game/scripts/core/inventory/inventory.rpy:148
+msgid "Произведен обмен:"
+msgstr "Se ha realizado un intercambio:"
+
+# game/scripts/core/inventory/inventory.rpy:148
+msgid "на"
+msgstr "en"
+
+# game/scripts/core/inventory/inventory.rpy:201
+msgid "Все"
+msgstr "Todos"
+
+# game/scripts/core/inventory/inventory.rpy:201
+msgid "Квестовые"
+msgstr "Búsqueda"
+
+# game/scripts/core/inventory/inventory.rpy:201
+msgid "Для боя"
+msgstr "De batalla"
+
+# game/scripts/core/inventory/inventory.rpy:201
+msgid "Подарки"
+msgstr "Regalos"
+
+# game/scripts/core/inventory/inventory.rpy:201
+msgid "Ингредиенты"
+msgstr "Ingredientes"
+
+# game/scripts/core/inventory/inventory.rpy:201
+msgid "Мусор"
+msgstr "Basura"
+
+# game/scripts/core/inventory/inventory.rpy:245
+msgid "Приобретен новый предмет:"
+msgstr "Adquieres un nuevo artículo:"
+
+# game/scripts/core/inventory/inventory.rpy:271
+msgid "Проданы предметы:"
+msgstr "Artículos vendidos:"
+
+# game/scripts/core/inventory/inventory.rpy:301
+msgid "Продан предмет:"
+msgstr "Artículo vendido:"
+
+# game/scripts/core/inventory/inventory.rpy:319
+msgid "из"
+msgstr "de"
+
+# game/scripts/core/inventory/inventory.rpy:332
+msgid "Убран предмет из инвентаря:"
+msgstr "Elemento eliminado del inventario:"
+
+# game/scripts/core/inventory/inventory.rpy:381
+msgid "Заработок:"
+msgstr "Ganancias:"
+
+# game/scripts/core/inventory/inventory.rpy:393
+msgid "Затраты:"
+msgstr "Costos:"
+
+# game/scripts/core/inventory/inventory.rpy:456
+msgid "Вам не хватает денег"
+msgstr "No tienes suficiente dinero"
+
+# game/scripts/core/inventory/inventory.rpy:458
+msgid "Вам не хватает золота"
+msgstr "No tienes suficiente oro"
+
+# game/scripts/core/inventory/inventory.rpy:504
+msgid "{prefix}{name} (кол-во: {quantity})\n"
+" Вы получите: {{color=ffc600}}{cost} {currency}{{/color}}"
+msgstr "{prefix}{name} (cantidad: {quantity})\n"
+" Recibirá {{color=ffc600}}{cost} {currency}{{/color}}"
+
+# game/scripts/core/inventory/inventory.rpy:504
+msgid "Продать все предметы:\n"
+msgstr "Vender todos los objetos:\n"
+

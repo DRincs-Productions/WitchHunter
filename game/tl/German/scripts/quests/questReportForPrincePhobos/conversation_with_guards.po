@@ -1,0 +1,974 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questReportForPrincePhobos/conversation_with_guards.po\n"
+"X-Crowdin-File-ID: 8613\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-11-11 09:44\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:4 #-#-# translate crowdin conversation_with_guards_edb4f255:
+msgid "[_cedrick_] Дальше я сам, Булдж, спасибо. Как закончу я тебя вызову"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:5 #-#-# translate crowdin conversation_with_guards_24ffe9ee:
+msgid "[_bulj_] Как скажете, главнокомандующий"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:9 #-#-# translate crowdin conversation_with_guards_9fa17a84:
+msgid "[_will_] Р-рик, наконец-то!"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:14 #-#-# translate crowdin conversation_with_guards_49b98e8b:
+msgid "[_cornelia_] Хах, наконец явился"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:19 #-#-# translate crowdin conversation_with_guards_795678bb:
+msgid "[_irma_] ..."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:23 #-#-# translate crowdin conversation_with_guards_5e872f95:
+msgid "[_tarani_] Ублюдок, теперь и Вилл с Корнелией привел.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:31 #-#-# translate crowdin conversation_with_guards_1ab43a93:
+msgid "[_cedrick_] Так, всем тихо!"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:32 #-#-# translate crowdin conversation_with_guards_fc410bc3:
+msgid "[_cedrick_] Для начала, девочки, расположимся должным образом и подведем итоги прошедшего суда"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:33 #-#-# translate crowdin conversation_with_guards_632e5a95:
+msgid "[_cedrick_] Я же в конце-концов ваш преподаватель, вы ведь не забыли? Считайте что суд был зачетом и самое время озвучить ваши оценки. Присаживайтесь"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:36 #-#-# translate crowdin conversation_with_guards_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:37 #-#-# translate crowdin conversation_with_guards_07bdde05:
+msgid "....."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:38 #-#-# translate crowdin conversation_with_guards_3928a113:
+msgid "......."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:41 #-#-# translate crowdin conversation_with_guards_e6eb6843:
+msgid "[_will_] Р-рик, что происходит!? П-почему.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:43 #-#-# translate crowdin conversation_with_guards_04aafa07:
+msgid "[_cedrick_] Тише, Вилл. Сейчас я все объясню"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:45 #-#-# translate crowdin conversation_with_guards_0c97b537:
+msgid "[_cedrick_] Каждая из вас справилась с поставленной в суде задачей абсолютно по-разному"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:47 #-#-# translate crowdin conversation_with_guards_209410ac:
+msgid "[_cedrick_] И лучше всего выступила, как вы могли догадаться, Корнелия. Поэтому она получает оценку отлично и занимает почетное место"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:49 #-#-# translate crowdin conversation_with_guards_82c31eca:
+msgid "[_will_] Н-несправедливо!!"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:51 #-#-# translate crowdin conversation_with_guards_78882055:
+msgid "[_cedrick_] Без Корнелии, возможно, этот суд и вовсе провалился бы. Она очень мне помогла"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:53 #-#-# translate crowdin conversation_with_guards_eb29f59e:
+msgid "[_cornelia_] Мммвв.. Так пвиятно, когда твою ваботу ценят.. Ммхх.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:55 #-#-# translate crowdin conversation_with_guards_a442f232:
+msgid "[_cedrick_] Тише, Вилл. За выкрики во время объявления оценок можно и выгнать из класса"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:57 #-#-# translate crowdin conversation_with_guards_23406dcf:
+msgid "[_will_] Пф.. Я поняла"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:61 #-#-# translate crowdin grade_guard_52ba64c1:
+msgid "[_cedrick_] (Чью оценку стоит объявить следующей?)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:66 #-#-# translate crowdin dialog_captive_tarani_d63c9b96:
+msgid "[_cedrick_] Говоря о тебе, Тарани"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:68 #-#-# translate crowdin dialog_captive_tarani_c2f6b408:
+msgid "[_tarani_] А что я.. Меня на твоем гребаном суде не было.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:70 #-#-# translate crowdin dialog_captive_tarani_96179f9f:
+msgid "[_cedrick_] Вот именно. Поэтому за неявку ты остаешься после уроков. Фигурально выражаясь.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:72 #-#-# translate crowdin dialog_captive_tarani_43bdaeb4:
+msgid "[_tarani_] Что за бред.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:74 #-#-# translate crowdin dialog_captive_tarani_515e6dd5:
+msgid "[_cedrick_] Нам с тобой предстоит особая работа, Тарани. Из всех учениц ты пока что самая проблематичная"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:76 #-#-# translate crowdin dialog_captive_tarani_6556101b:
+msgid "[_tarani_] Как будто меня парит твое мнение, придурок.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:78 #-#-# translate crowdin dialog_captive_tarani_7f17e2ed:
+msgid "[_cedrick_] (Хм, все такая же грубая.. Ни намека на брешь, хоть она и видит, в каком положении находятся остальные стражницы)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:85 #-#-# translate crowdin dialog_captive_will_0e0bf9dc:
+msgid "[_cedrick_] Что касается тебя, Вилл"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:87 #-#-# translate crowdin dialog_captive_will_18175b66:
+msgid "[_will_] Д-да! Что насчет меня!? Ты же не забыл тот охрененный минет в кабинке, верно?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:89 #-#-# translate crowdin dialog_captive_will_258666f5:
+msgid "[_cedrick_] Нет, Вилл, не забыл.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:91 #-#-# translate crowdin dialog_captive_will_95d717f8:
+msgid "[_cedrick_] И именно поэтому твоя оценка - слабо"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:93 #-#-# translate crowdin dialog_captive_will_bcd124bf:
+msgid "[_will_] ..."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:95 #-#-# translate crowdin dialog_captive_will_1ef4ebff:
+msgid "[_will_] Ч-что!? Так тебе не понравилось!? Если так, то я могу быть лучше.. М-мне просто нужно больше практики"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:97 #-#-# translate crowdin dialog_captive_will_61a04937:
+msgid "[_cedrick_] Нет, Вилл, дело не в этом. У тебя отлично получается, дело здесь в твоей напористости и наглости"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:99 #-#-# translate crowdin dialog_captive_will_4b0ec667:
+msgid "[_cedrick_] Ты не осознаешь до конца своего места, Вилл. Думаешь, раз я живу с тобой и сплю с твоей мамой, то наши с тобой отношения особенные?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:101 #-#-# translate crowdin dialog_captive_will_5856c4a6:
+msgid "[_will_] Н-ну.. да.. я думала, что так.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:103 #-#-# translate crowdin dialog_captive_will_ee7aa487:
+msgid "[_cedrick_] Твое непонимание границ и постоянное желание сделать все по-своему начали вставлять мне палки в колеса"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:105 #-#-# translate crowdin dialog_captive_will_300acf27:
+msgid "[_will_] Н-но как!?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:107 #-#-# translate crowdin dialog_captive_will_4247a89c:
+msgid "[_cedrick_] Это как раз таки тебе знать не обязательно, Вилл. В этом и проявляется понимание личных границ. У тебя этого понимания нет и мы поработаем над этим"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:109 #-#-# translate crowdin dialog_captive_will_8ea98ecd:
+msgid "[_will_] Р-рик.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:111 #-#-# translate crowdin dialog_captive_will_ff04c002:
+msgid "[_cedrick_] Это мое финальное слово, Вилл, не усугубляй свое положение"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:113 #-#-# translate crowdin dialog_captive_will_5a70d2c0:
+msgid "[_will_] Д-да.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:115 #-#-# translate crowdin dialog_captive_will_26c27d8c:
+msgid "[_tarani_] Пф.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:117 #-#-# translate crowdin dialog_captive_will_091da595:
+msgid "[_cornelia_] Мвввмв.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:119 #-#-# translate crowdin dialog_captive_will_2fc0ec41:
+msgid "[_cedrick_] (Ух, Корнелии явно нравится, как я отчитываю ее подруг. Она стала работать ртом куда активнее)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:121 #-#-# translate crowdin dialog_captive_will_cfd240a6:
+msgid "[_cedrick_] (Но надо постараться не кончать до того, как я не оглашу все результаты..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:128 #-#-# translate crowdin dialog_captive_irma_cafdf7bc:
+msgid "[_cedrick_] Следующая на очереди - Ирма"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:130 #-#-# translate crowdin dialog_captive_irma_e3e59787:
+msgid "[_cedrick_] Ты выступала на стороне моей защиты, но из-за твоей выходки все сказанное тобой скорее пошло в защиту Мактиннена, а для меня звучало как обвинение"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:132 #-#-# translate crowdin dialog_captive_irma_2879661c:
+msgid "[_irma_] П-прости.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:134 #-#-# translate crowdin dialog_captive_irma_c59c5e97:
+msgid "[_tarani_] Ирма, хватит! Ты сделала все правильно, ни к чему тебе.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:136 #-#-# translate crowdin dialog_captive_irma_09ec171a:
+msgid "[_cedrick_] Тарани, то, что в твоем рту нет кляпа лучше воспринимать как доброту с моей стороны. Не испытывай мое терпение, сейчас ты не в том положении, чтобы возникать"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:138 #-#-# translate crowdin dialog_captive_irma_bcd75d3e:
+msgid "[_tarani_] Тебе это с рук не сойдет.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:140 #-#-# translate crowdin dialog_captive_irma_b63df0bb:
+msgid "[_cedrick_] И так, Ирма получает оценку неудовлетворительно. Этот момент мы с тобой еще обязательно проработаем"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:142 #-#-# translate crowdin dialog_captive_irma_cd18ed6c:
+msgid "[_irma_] Я поняла.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:144 #-#-# translate crowdin dialog_captive_irma_5e4a2fb4:
+msgid "[_cornelia_] Ааааввв.. Я могу помочь профести с ней дополнительные фанятия.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:146 #-#-# translate crowdin dialog_captive_irma_93e8b45f:
+msgid "[_cedrick_] Хах, для тебя у меня будет особое задание, Корнелия, а пока не отвлекайся"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:148 #-#-# translate crowdin dialog_captive_irma_b3b8f18b:
+msgid "[_cornelia_] Афаам.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:158 #-#-# translate crowdin itog_grade_ac4be0b7:
+msgid "[_cornelia_] Аааамммвв.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:160 #-#-# translate crowdin itog_grade_073d8b54:
+msgid "[_cedrick_] Ухх, К-корнелия.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:162 #-#-# translate crowdin itog_grade_011ce536:
+msgid "[_cornelia_] Авааа.. Кончи мне пвямо в рот.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:164 #-#-# translate crowdin itog_grade_7c8c51ce:
+msgid "[_cedrick_] Уффф.. Н-на этом выставление оценок можно считать законченным.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:166 #-#-# translate crowdin itog_grade_f5bbdda5:
+msgid "[_cedrick_] Черт, Корнелия, ты отлично используешь язык.. К-кончаю.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:171 #-#-# translate crowdin itog_grade_e23f819b:
+msgid "[_will_] (Это должна была быть я..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:173 #-#-# translate crowdin itog_grade_4e7b29a3:
+msgid "[_irma_] (Корнелии это судя по всему искренне нравится..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:175 #-#-# translate crowdin itog_grade_873cca31:
+msgid "[_tarani_] (Как она только может получать удовольствие от подобного..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:176 #-#-# translate crowdin itog_grade_277d3735:
+msgid "[_cornelia_] (Аааххх.. Так приятно чувствовать себя нужной.. Даже если это кто-то вроде Седрика..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:181 #-#-# translate crowdin itog_grade_46081999:
+msgid "[_cedrick_] Булдж, подойди"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:182 #-#-# translate crowdin itog_grade_462ee1a0:
+msgid "[_bulj_] Вызывали, сэр?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:183 #-#-# translate crowdin itog_grade_a632bcec:
+msgid "[_cedrick_] Да. Я составил список инструментов и магических предметов, необходимый мне. Как быстро сможешь достать"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:184 #-#-# translate crowdin itog_grade_cbc7d4c7:
+msgid "[_bulj_] Так.. Это у нас есть в казарме.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:185 #-#-# translate crowdin itog_grade_5fd98188:
+msgid "[_bulj_] Это в пыточной найдется.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:186 #-#-# translate crowdin itog_grade_0fd9ecbd:
+msgid "[_bulj_] Ух, и эту тварь хотите задействовать? Сурово.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:187 #-#-# translate crowdin itog_grade_b93c531d:
+msgid "[_bulj_] Так, и зелья, восстанавливающие магическую силу. Я так понимаю вам 10 штук, на два использования.. Это будет готово только через пару дней"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:188 #-#-# translate crowdin itog_grade_4d27d41e:
+msgid "[_cedrick_] Отлично. Как раз успею закончить кое-какие дела на Земле и привести сюда Хай Лин"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:189 #-#-# translate crowdin itog_grade_c910ecfb:
+msgid "[_cedrick_] Присмотри пока за стражницами. Никто не должен знать, что они здесь"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:190 #-#-# translate crowdin itog_grade_a5cd1f4f:
+msgid "[_bulj_] Вас понял, Главнокомандующий. К вашему возвращению все будет готово"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:191 #-#-# translate crowdin itog_grade_d2b8436c:
+msgid "[_cedrick_] Так держать, Булдж"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:196 #-#-# translate crowdin itog_grade_6dbf7e9e:
+msgid "[_will_] Рик, не так быстро!"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:197 #-#-# translate crowdin itog_grade_8d127cbf:
+msgid "[_cedrick_] Хм, что такое, Вилл?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:200 #-#-# translate crowdin itog_grade_8c156ff0:
+msgid "[_will_] Уж не знаю, что ты там задумал, но я хочу обжаловать твою оценку! Все ведь по школьным правилам, верно? Значит и такая функция есть"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:201 #-#-# translate crowdin itog_grade_fda4fc86:
+msgid "[_cedrick_] (Хах, умно. Иногда ее рвение дает интересные плоды)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:205 #-#-# translate crowdin itog_grade_23149570:
+msgid "[_cedrick_] Хм, допустим так. И как же ты хочешь обжаловать мое решение?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:208 #-#-# translate crowdin itog_grade_8b21497a:
+msgid "[_cornelia_] Седрик, это все конечно очень интересно, но что насчет меня?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:209 #-#-# translate crowdin itog_grade_d4ee1b0e:
+msgid "[_cedrick_] Да, Корнелия, ты хорошо поработала, так что можешь идти отдыхать"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:213 #-#-# translate crowdin itog_grade_6774af07:
+msgid "[_cornelia_] Урааа! Спасибо, Седрик"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:219 #-#-# translate crowdin itog_grade_1501e75f:
+msgid "[_tarani_] А что насчет меня?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:220 #-#-# translate crowdin itog_grade_b45e7811:
+msgid "[_cedrick_] (Хм.. Не знаю что там удумала Вилл, но одобрения она от меня сейчас точно не получит)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:224 #-#-# translate crowdin itog_grade_6d4ec389:
+msgid "[_cedrick_] (Пожалуй из этого выйдет отличная показательная сцена для Ирмы и Тарани. Пусть в очередной раз убедятся, как низко пала их предводительница)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:225 #-#-# translate crowdin itog_grade_acbdfb07:
+msgid "[_cedrick_] Вы с Ирмой пока останьтесь здесь"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:228 #-#-# translate crowdin itog_grade_4dd12bd0:
+msgid "[_irma_] Х-хорошо"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:233 #-#-# translate crowdin itog_grade_26c27d8c:
+msgid "[_tarani_] Пф.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:238 #-#-# translate crowdin itog_grade_56ca0275:
+msgid "[_cedrick_] И так, Вилл, как же ты хочешь устроить свое обжалование?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:242 #-#-# translate crowdin itog_grade_9b52a2e8:
+msgid "[_will_] Хммм.. Я думала об этом иии.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:245 #-#-# translate crowdin itog_grade_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:248 #-#-# translate crowdin itog_grade_47b87a05:
+msgid "[_will_] Как на счет этого, Рик!?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:249 #-#-# translate crowdin itog_grade_f52bbe03:
+msgid "[_cedrick_] Чего именно?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:251 #-#-# translate crowdin itog_grade_c55d34f9:
+msgid "[_will_] Ммм, я предлагаю тебе свою задницу, Рик"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:252 #-#-# translate crowdin itog_grade_7c5d99c4:
+msgid "[_will_] Это моя форма пересдачи"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:253 #-#-# translate crowdin itog_grade_1dcea9f3:
+msgid "[_will_] Я правда была очень непослушной последнее время.. А непослушных девочек обычно трахают в задницу.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:255 #-#-# translate crowdin itog_grade_2aeb62f6:
+msgid "[_will_] По крайней мере я видела это в порно.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:256 #-#-# translate crowdin itog_grade_ff0d0763:
+msgid "[_will_] Ну, что скажешь, Рик? Моя попка готова к обжалованию"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:258 #-#-# translate crowdin itog_grade_1bce2d3c:
+msgid "[_will_] Оттрахай меня и я покажу тебе, насколько я на самом деле послушна"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:259 #-#-# translate crowdin itog_grade_49316299:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:260 #-#-# translate crowdin itog_grade_ed4eb742:
+msgid "[_tarani_] К-какая мерзость, Вилл.. Как ты могла опуститься до подобного.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:262 #-#-# translate crowdin itog_grade_d4d5310e:
+msgid "[_tarani_] Чтобы так похабно вилять задом перед этим змеем.. Не знаю, что с тобой сделали, но ты явно больше не та девушка, которую я знала"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:264 #-#-# translate crowdin itog_grade_05012550:
+msgid "[_will_] Пф, замолчи, Тарани. Тебя Рик так страстно не трахал, вот ты и возмущаешься"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:265 #-#-# translate crowdin itog_grade_bc3575b6:
+msgid "[_will_] Тебе не понять, пока сама не попробуешь"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:267 #-#-# translate crowdin itog_grade_1b847d89:
+msgid "[_tarani_] Пф, он уже трахал меня в зад, Вилл. Задолго до тебя"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:269 #-#-# translate crowdin itog_grade_344a32eb:
+msgid "[_will_] Ч-что!?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:271 #-#-# translate crowdin itog_grade_cbb15d17:
+msgid "[_cedrick_] Да, было такое"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:273 #-#-# translate crowdin itog_grade_3230f207:
+msgid "[_will_] Н-ну и что! Моя задница будет намного лучше.. Просто дай мне шанс исправиться"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:275 #-#-# translate crowdin itog_grade_eb0a6e37:
+msgid "[_tarani_] Мда, твои мозги видимо уже начисто оттрахали"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:276 #-#-# translate crowdin itog_grade_42ae7144:
+msgid "[_irma_] (В-вилл готова на подобное, лишь бы изменить решение Рика.. Может, она боится наказания? Д-должна ли я последовать ее примеру..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:277 #-#-# translate crowdin itog_grade_a26eff4f:
+msgid "[_irma_] (Может мне тоже стоит быть более послушной, тогда Седрик будет мягче со мной..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:278 #-#-# translate crowdin itog_grade_724546dc:
+msgid "[_cedrick_] (Хах, и что же мне делать с этой развратницей..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:279 #-#-# translate crowdin itog_grade_9a761246:
+msgid "[_cedrick_] (С одной стороны она не заслуживает снисхождения, по крайней мере не сейчас)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:280 #-#-# translate crowdin itog_grade_4691d839:
+msgid "[_cedrick_] (С другой стороны, возможно если сейчас я пойду ей навстречу, то это станет для нее положительным примером и она поймет, как лучше себя вести)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:281 #-#-# translate crowdin itog_grade_aa3eee5c:
+msgid "[_cedrick_] (В любом случае ею в первую очередь движет жажда секса со мной, а не желание исправиться и как-то осознать свою проблему)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:282 #-#-# translate crowdin itog_grade_989b90df:
+msgid "[_cedrick_] (Этот момент стоит учесть независимо от своего решения. Сейчас она не должна получить желаемого)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:283 #-#-# translate crowdin itog_grade_52f2b613:
+msgid "[_cedrick_] (Ей стоит привыкнуть, что ни она диктует правила. Их диктую я)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:285 #-#-# translate crowdin itog_grade_1206b377:
+msgid "[_will_] Ну же, Рик, что скажешь?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:300 #-#-# translate crowdin deny_her_165ffd3d:
+msgid "[_cedrick_] Вилл, повернись ка ко мне лицом"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:302 #-#-# translate crowdin deny_her_2f2406df:
+msgid "[_will_] М? Зачем, Рик"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:304 #-#-# translate crowdin deny_her_4443a6ab:
+msgid "[_cedrick_] Ну же, повернись"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:306 #-#-# translate crowdin deny_her_5177ce06:
+msgid "[_will_] Х-хорошо"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:311 #-#-# translate crowdin deny_her_84cf9f57:
+msgid "[_centered_] {size=37} СЕДРИК ВЗЯЛ ВИЛЛ ЗА ГОЛОВУ, ОПУСТИЛ НА КОЛЕНИ И ДОСТАЛ ЧЛЕН{/size} [withdissolve]"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:314 #-#-# translate crowdin deny_her_d674335f:
+msgid "[_will_] Р-рик, ч-что ты делаешь!?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:316 #-#-# translate crowdin deny_her_357cf636:
+msgid "[_cedrick_] Замри, Вилл. Сиди на месте и запоминай"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:318 #-#-# translate crowdin deny_her_afe08a31:
+msgid "шлепок"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:319 #-#-# translate crowdin deny_her_4470470c:
+msgid "[_will_] А-ах.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:321 #-#-# translate crowdin deny_her_461e527d:
+msgid "[_cedrick_] Никакого обжалования.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:322 #-#-# translate crowdin deny_her_98898af4:
+msgid "[_cedrick_] Никакой пересдачи.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:323 #-#-# translate crowdin deny_her_43aa960f:
+msgid "[_cedrick_] Ничего из этого для тебя не будет"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:324 #-#-# translate crowdin deny_her_ed80e680:
+msgid "[_cedrick_] Ни ты диктуешь правила, девочка. Все будет не так, как ты хочешь, а так, как я сказал"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:326 #-#-# translate crowdin deny_her_afe08a31_1:
+msgid "шлепок"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:328 #-#-# translate crowdin deny_her_a9014ee9:
+msgid "[_will_] Уууф.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:329 #-#-# translate crowdin deny_her_595b8903:
+msgid "[_cedrick_] Если суть моих слов не доходит до твоей головы, я вобью эту суть в тебя своим членом"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:331 #-#-# translate crowdin deny_her_afe08a31_2:
+msgid "шлепок"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:333 #-#-# translate crowdin deny_her_e6a93371:
+msgid "[_cedrick_] Понимаешь, о чем я?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:335 #-#-# translate crowdin deny_her_aa5977f6:
+msgid "[_will_] Ахх.. Р-рик, это жестоко.. ммв.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:336 #-#-# translate crowdin deny_her_2a657b13:
+msgid "[_cedrick_] Жестоко? А по моему ты кайфуешь от этого"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:338 #-#-# translate crowdin deny_her_636388cb:
+msgid "[_will_] Ммммфф.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:339 #-#-# translate crowdin deny_her_e16a7a1d:
+msgid "[_cedrick_] (Если верить тем книгам по психологии, что я прочитал, то каждый человек ведом своими привычками)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:340 #-#-# translate crowdin deny_her_c092d506:
+msgid "[_cedrick_] (Не важно, положительно или негативно они влияют на человека, суть в том, что когда привычка сформирована, от нее очень сложно избавиться)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:341 #-#-# translate crowdin deny_her_48405c2c:
+msgid "[_cedrick_] (Кажется, в этом задействованы новые нейронные связи. Каждый раз их укрепляя, мозговой импульс уже невольно сам идет по протоптанной дорожке)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:342 #-#-# translate crowdin deny_her_b405769a:
+msgid "[_cedrick_] (Хах, и передо мною сейчас стоит на коленях прямое доказательство этой теории)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:344 #-#-# translate crowdin deny_her_afe08a31_3:
+msgid "шлепок"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:345 #-#-# translate crowdin deny_her_a4bdc815:
+msgid "[_will_] Аааахх.. Р-рик.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:347 #-#-# translate crowdin deny_her_45f0db8d:
+msgid "[_tarani_] Ублюдок.. Хватит над ней издеваться.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:348 #-#-# translate crowdin deny_her_a0211649:
+msgid "[_irma_] Т-так жестко.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:349 #-#-# translate crowdin deny_her_b29b7ccd:
+msgid "[_irma_] (П-пожалуй просто приму свою участь.. Боюсь, если начну своевольничать, то Седрик сделает со мной то же самое..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:350 #-#-# translate crowdin deny_her_b16758e3:
+msgid "[_cedrick_] (Все пошло не по ее плану, но она так мягко встала на колени, без малейшего сопротивления. И даже сейчас она, хочет того или нет, но получает удовольствие)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:351 #-#-# translate crowdin deny_her_00b9dc36:
+msgid "[_cedrick_] (Видимо я так часто ставил ее на колени, что невольно сам приучил ее преклоняться перед моим членом)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:352 #-#-# translate crowdin deny_her_b172868b:
+msgid "[_cedrick_] (Создал в ней новую привычку, которой она следует. Интересный механизм)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:354 #-#-# translate crowdin deny_her_afe08a31_4:
+msgid "шлепок"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:356 #-#-# translate crowdin deny_her_19ac952c:
+msgid "[_will_] Р-рик.. Ууууф.. Я-я поняла тебя.. Ааахх.. Не надо так жестоко меня дразнить.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:358 #-#-# translate crowdin deny_her_49316299:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:359 #-#-# translate crowdin deny_her_b0937ebf:
+msgid "[_cedrick_] Отлично, вижу мы поняли друг друга. Оставайтесь здесь в подземелье и не высовывайтесь. Вашим наказанием я займусь чуть позже"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:361 #-#-# translate crowdin deny_her_bb5f0fbe:
+msgid "[_will_] Х-хорошо.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:371 #-#-# translate crowdin accept_her_offer_80d14c83:
+msgid "[_cedrick_] (Хм.. Думаю и вправду не стоит быть таким жестоким)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:373 #-#-# translate crowdin accept_her_offer_f09db756:
+msgid "[_cedrick_] Хорошо, Вилл. Я пойду тебе навстречу. Но только в этот раз"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:375 #-#-# translate crowdin accept_her_offer_24d81fca:
+msgid "[_will_] Ах, Рик, я так рада! Давай же, засади в мою попку"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:376 #-#-# translate crowdin accept_her_offer_e529eaab:
+msgid "[_cedrick_] Я не говорил, что все пойдет по твоему сценарию. Я лишь сказал, что пойду к тебе на встречу"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:378 #-#-# translate crowdin accept_her_offer_e793f2b2:
+msgid "[_will_] Ч-что? Тогда что ты имеешь ввиду?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:380 #-#-# translate crowdin accept_her_offer_71ca5676:
+msgid "[_cedrick_] Повернись ко мне"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:382 #-#-# translate crowdin accept_her_offer_5177ce06:
+msgid "[_will_] Х-хорошо"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:387 #-#-# translate crowdin accept_her_offer_81cd6112:
+msgid "[_centered_] {size=37}Седрик поставил Вилл на колени и зажимает член между ее грудей{/size} [withdissolve]"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:388 #-#-# translate crowdin accept_her_offer_bb48271b:
+msgid "[_cedrick_] Вот мое встречное предложение. И лучше от него не отказывайся"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:389 #-#-# translate crowdin accept_her_offer_1fcce525:
+msgid "[_will_] Я поняла.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:394 #-#-# translate crowdin accept_her_offer_9c4756de:
+msgid "[_cedrick_] Не бери его в рот. Ты можешь использовать только грудь и свои губы"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:395 #-#-# translate crowdin accept_her_offer_f520a3a5:
+msgid "[_will_] М-мгум.. Хорошо, Рик, как тебе будет угодно"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:396 #-#-# translate crowdin accept_her_offer_c2376d2d:
+msgid "[_cedrick_] Хорошая девочка. Продолжай в том же духе"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:397 #-#-# translate crowdin accept_her_offer_cbd03df4:
+msgid "[_cedrick_] (Возможно, если я пойду ей навстречу и покажу, что буду добр с ней, когда она четко следует указаниям и не своевольничает, то она станет послушнее в будущем)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:398 #-#-# translate crowdin accept_her_offer_5bf5c59d:
+msgid "[_will_] Мммввв.. Рик, тебе хорошо?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:399 #-#-# translate crowdin accept_her_offer_5ac72e8f:
+msgid "[_cedrick_] Продолжай в том же духе"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:400 #-#-# translate crowdin accept_her_offer_f6479420:
+msgid "[_cedrick_] (Это должно быть хорошим примером для Ирмы и Тарани. Интересно, как они воспримут такой мой шаг)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:401 #-#-# translate crowdin accept_her_offer_fd011589:
+msgid "[_cedrick_] (Пожалуй, сейчас и стоит проверить)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:402 #-#-# translate crowdin accept_her_offer_b7cf6ea1:
+msgid "[_cedrick_] (Вилл не получит желаемого и даже если заставит меня кончить, то все достанется другим девушкам)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:403 #-#-# translate crowdin accept_her_offer_6aa6e85e:
+msgid "[_cedrick_] (Таким будет наказание для Вилл и проверка реакции Тарани и Ирмы)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:404 #-#-# translate crowdin accept_her_offer_50b14c0f:
+msgid "[_will_] Ммммввв.. Правда мои губы очень мягкие?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:405 #-#-# translate crowdin accept_her_offer_008f482f:
+msgid "[_cedrick_] Ух, да, ты работаешь ими все лучше и лучше"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:406 #-#-# translate crowdin accept_her_offer_519a9d07:
+msgid "[_cedrick_] (Хах, она так на меня смотрит.. Явно думает, что такого небольшого жеста послушания достаточно..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:407 #-#-# translate crowdin accept_her_offer_49b3908d:
+msgid "[_will_] А моя грудь, Рик? Такая упругая и плотная, твоему члену хорошо?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:408 #-#-# translate crowdin accept_her_offer_d2367e1a:
+msgid "[_cedrick_] Хах, все отлично, Вилл. Таким темпом я скоро кончу"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:409 #-#-# translate crowdin accept_her_offer_c4cc513c:
+msgid "[_will_] Аааммм. Тогда сделай это прямо на меня, Рик! Я так этого хочу!!"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:410 #-#-# translate crowdin accept_her_offer_85fe53a8:
+msgid "[_cedrick_] Ууухх.. К-как бы ни так, дорогая"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:413 #-#-# translate crowdin accept_her_offer_344a32eb:
+msgid "[_will_] Ч-что!?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:414 #-#-# translate crowdin accept_her_offer_4fbf68eb:
+msgid "[_cedrick_] (И так, кто же это будет? Тарани или Ирма)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:425 #-#-# translate crowdin cumshot_to_irma_efbdf396:
+msgid "[_cedrick_] И-ирма, приготовься принять на себя результат трудов Вилл"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:426 #-#-# translate crowdin cumshot_to_irma_e4d9fb71:
+msgid "[_will_] Ч-что!? Н-нет.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:427 #-#-# translate crowdin cumshot_to_irma_b1f03f5b:
+msgid "[_irma_] А-ага, я поняла"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:432 #-#-# translate crowdin cumshot_to_irma_4d55e0fc:
+msgid "[_cedrick_] Ууухх, п-получай!"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:434 #-#-# translate crowdin cumshot_to_irma_64d929d1:
+msgid "[_irma_] Аааамм"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:435 #-#-# translate crowdin cumshot_to_irma_6c8becde:
+msgid "[_cedrick_] (Ух, ч-черт, она и вправду приготовилась.. Поставила руки так, чтобы не проронить ни капли)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:436 #-#-# translate crowdin cumshot_to_irma_3290a8c9:
+msgid "[_cedrick_] К-кончаю!!"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:439 #-#-# translate crowdin cumshot_to_irma_64d929d1_1:
+msgid "[_irma_] Аааамм"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:440 #-#-# translate crowdin cumshot_to_irma_4e91de20:
+msgid "[_will_] Н-несправедливо!! Это должна была быть я.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:441 #-#-# translate crowdin cumshot_to_irma_e772367e:
+msgid "[_irma_] Ааааамммвв.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:442 #-#-# translate crowdin cumshot_to_irma_bd24a2e2:
+msgid "[_cedrick_] Уффф.. Ты умница, Ирма.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:443 #-#-# translate crowdin cumshot_to_irma_4296b83c:
+msgid "[_tarani_] Какая мерзость.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:444 #-#-# translate crowdin cumshot_to_irma_80ebfc2f:
+msgid "[_irma_] Я-я подумала, что если проявлю чуть больше инициативы и пойду навстречу, то тебе понравится и ты..."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:445 #-#-# translate crowdin cumshot_to_irma_8501b0c4:
+msgid "[_cedrick_] Что, не стану тебя наказывать?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:446 #-#-# translate crowdin cumshot_to_irma_795678bb:
+msgid "[_irma_] ..."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:447 #-#-# translate crowdin cumshot_to_irma_919f750a:
+msgid "[_cedrick_] Хах, не беспокойся. Я сделаю все должным образом"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:448 #-#-# translate crowdin cumshot_to_irma_4dd12bd0:
+msgid "[_irma_] Х-хорошо"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:449 #-#-# translate crowdin cumshot_to_irma_7ff75c80:
+msgid "[_will_] Сначала Корнелия, а теперь и Ирма.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:455 #-#-# translate crowdin cumshot_to_tarani_07da8738:
+msgid "[_cedrick_] Т-тарани, сейчас ты получишь свою порцию спермы..."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:456 #-#-# translate crowdin cumshot_to_tarani_44645d7c:
+msgid "[_will_] Ч-что!? Н-нет..."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:457 #-#-# translate crowdin cumshot_to_tarani_c2acd5c2:
+msgid "[_tarani_] К-какого хрена, нет!!"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:463 #-#-# translate crowdin cumshot_to_tarani_b0e784a6:
+msgid "[_tarani_] У-ублюдок, я не просила об этом..."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:465 #-#-# translate crowdin cumshot_to_tarani_d4d92310:
+msgid "[_tarani_] К-какого черта ты направляешь на меня свой член... Ч-чуть в рот не попало..."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:467 #-#-# translate crowdin cumshot_to_tarani_88d844ee:
+msgid "[_cedrick_] А тебя никто не спрашивает, Тарани. Делай что говорят, иначе твое наказание будет еще жестче"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:469 #-#-# translate crowdin cumshot_to_tarani_81d83f93:
+msgid "[_tarani_] Пф, думаешь мне не плевать? Что еще такого ты не делал с моим телом?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:471 #-#-# translate crowdin cumshot_to_tarani_1b4d0c71:
+msgid "[_cedrick_] Ох, ты даже не представляешь, что еще я мог бы с тобой сделать"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:473 #-#-# translate crowdin cumshot_to_tarani_83552452:
+msgid "[_tarani_] Ну-ну, жду не дождусь, сраный змей"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:474 #-#-# translate crowdin cumshot_to_tarani_7b7684fa:
+msgid "[_cedrick_] (Хах, все огрызается и огрызается)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:475 #-#-# translate crowdin cumshot_to_tarani_f484005c:
+msgid "[_cedrick_] (Интересно. У нее есть какая-то фиксация на том, что ей нельзя кончать в рот. На полноценную слабость это не тянет, но в будущем я с этим поработаю)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:477 #-#-# translate crowdin cumshot_to_tarani_53e7356d:
+msgid "[_cedrick_] (Как минимум это хороший показатель того, насколько она ко мне расположена)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:478 #-#-# translate crowdin cumshot_to_tarani_8bc1ff7c:
+msgid "[_cedrick_] (Думаю, она станет полностью моей, когда я буду кончать ей в рот по ее желанию)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:479 #-#-# translate crowdin cumshot_to_tarani_cbd7aa5f:
+msgid "[_cedrick_] (Но пока до этого чертовски далеко.. Пока что я вообще не знаю, как ее расколоть..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:480 #-#-# translate crowdin cumshot_to_tarani_7bd05bdb:
+msgid "[_tarani_] (Д-думаю я бы приняла член Седрика лучше..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:481 #-#-# translate crowdin cumshot_to_tarani_8f5fe4c1:
+msgid "[_will_] Л-ладно Корнелия, но вот Тарани!! Она же постоянно ведет себя как сучка.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:488 #-#-# translate crowdin end_conversation_with_guards_52b29d52:
+msgid "[_will_] Почему они забирают то, что должно было быть моим.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:492 #-#-# translate crowdin end_conversation_with_guards_4afb0b83:
+msgid "[_cedrick_] Это часть твоего наказания, Вилл. Ты должна понять, что я решаю, что мне принадлежит и от меня зависит, как, когда и на кого я кончу"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:493 #-#-# translate crowdin end_conversation_with_guards_4837d006:
+msgid "[_cedrick_] Мой член тебе не принадлежит, девочка"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:497 #-#-# translate crowdin end_conversation_with_guards_635fd754:
+msgid "[_will_] Н-но.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:498 #-#-# translate crowdin end_conversation_with_guards_83bd3652:
+msgid "[_cedrick_] На этом все. Мне пора идти. Увидимся через пару дней"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:505 #-#-# translate crowdin epilog_d4569c07:
+msgid "[_cedrick_] (Возьму воду из жизненного источника у Миранды и потом загляну в магазинчик Шеффилда)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:506 #-#-# translate crowdin epilog_202de069:
+msgid "[_cedrick_] (Вся эта тема с атрибутами для наказания натолкнула меня на одну мысль)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:507 #-#-# translate crowdin epilog_8f7060a6:
+msgid "[_cedrick_] (А ведь в мире людей полно секс-игрушек, по типу тех, что заказывала Вилл..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:508 #-#-# translate crowdin epilog_f6cf374d:
+msgid "[_cedrick_] (Пожалуй, куплю одну из них и проверю в деле)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:509 #-#-# translate crowdin epilog_538cfbb3:
+msgid "[_cedrick_] (Сейчас мне особое внимание стоит уделить Хай Лин, давно я с ней не работал)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:510 #-#-# translate crowdin epilog_964de117:
+msgid "[_cedrick_] (Но стоит начать не с нее, а с ее слабостей, чтобы у меня был козырь. Думаю пора навестить ее дорогую маму)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:513 #-#-# translate crowdin epilog_1a078262:
+msgid "[_centered_] {size=37}Седрик получает воду из жизненного источника{/size} [withDissolve1]"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:289
+msgid "Отказать ей"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:289
+msgid "Принять ее предложение"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:415
+msgid "Кончить на Ирму"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:415
+msgid "Кончить на Тарани"
+msgstr ""
+

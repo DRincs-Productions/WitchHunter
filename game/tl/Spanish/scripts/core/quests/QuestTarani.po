@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/core/quests/QuestTarani.po\n"
+"X-Crowdin-File-ID: 8117\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-11-11 09:21\n"
+
+# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestTarani.rpy:3
+msgid "Тарани Кук"
+msgstr "Conoce a Taranee"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Провести первый урок"
+msgstr "Realizar la primera lección"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Провести урок и проверить контрольную работу занизив оценку Тарани"
+msgstr "Dirige la clase y compruebe el trabajo de clase bajando la nota de Taranee"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Раздать контрольные работы на следующем уроке"
+msgstr "Repartir los resultados en la siguiente lección"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Занизить оценку домашней работы Тарани"
+msgstr "Bajar la nota de los deberes de Taranee"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Поговорить с Тарани после урока"
+msgstr "Habla con Taranee después de clase"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Провести очередной урок"
+msgstr "Realizar otra lección"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Распросить о Тарани в школьном клубе журналистике"
+msgstr "Pregunta por Taranee en el club de periodismo de la escuela"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Достать микрофон для клуба журналистики"
+msgstr "Consigue un micrófono para el club de periodismo"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Отнести микрофон Бэсс и Кортни и разузнать о Тарани"
+msgstr "Lleva el micrófono a Bass y Courtney y averigua sobre Taranee"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Попросить Бланка сделать фотографии Найджела"
+msgstr "Pide a Blunk que saque fotos de Nigel"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Достать фотоаппарат для Бланка"
+msgstr "Consigue una cámara para Blunk"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Узнать у миранды где достать Ноздрю дракона"
+msgstr "Pregúntale a Miranda dónde conseguir el Dragón Nostril"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Добыть клык Ларвека Миранде в обмен на Ноздрю дракона"
+msgstr "Consigue un colmillo de Larvek para Miranda a cambio del Dragón Nostril"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Отдать Бланку Ноздрю дракона и фотоаппарат"
+msgstr "Dale a Blunck el Dragón Nostril y la cámara"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Дождаться когда Бланк сделает фотографии Найджела и забрать их"
+msgstr "Espera a que Blunk haga las fotos de Nigel y recógelas"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Шантажировать Тарани фотографиями Найджела"
+msgstr "Chantajear a Taranee con las fotos de Nigel"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Попросить Тарани сделать нам приятное после урока"
+msgstr "Pedirle a Tarane que te haga sentir bien después de clase"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Попросить Тарани поработать ртом"
+msgstr "Pedir a Taranee que trabaje con la boca"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Навестить Тарани у нее дома"
+msgstr "Visita a Taranee en su casa"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Попросить Бланка сделать новые фотографии Найджела"
+msgstr "Pide a Blunk que haga nuevas fotos de Nigel"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Добыть Бланку золотую цепочку либо найти ему девушку для секса"
+msgstr "Consíguele a Blunk una cadena de oro o búscale una chica con la que acostarse"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Навестить Тарани у нее дома вечером и показать ей фотографии Найджела"
+msgstr "Visita a Taranee en su casa esta noche y enséñale las fotos de Nigel"
+
+# game/scripts/core/quests/QuestTarani.rpy:41
+msgid "Поговорить с Тарани в школе"
+msgstr "Habla con Taranee en la escuela"
+

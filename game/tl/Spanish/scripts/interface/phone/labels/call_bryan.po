@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/interface/phone/labels/call_bryan.po\n"
+"X-Crowdin-File-ID: 8181\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-11-11 09:24\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/interface/phone/labels/call_bryan.rpy:2 #-#-# translate crowdin subscriber_is_not_responding_86f95c52:
+msgid "гудки"
+msgstr "pitidos"
+
+# game/scripts/interface/phone/labels/call_bryan.rpy:3 #-#-# translate crowdin subscriber_is_not_responding_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/interface/phone/labels/call_bryan.rpy:4 #-#-# translate crowdin subscriber_is_not_responding_524e39e6:
+msgid "Абонент не отвечает, оставьте сообщение после сигнала."
+msgstr "Si la persona a la que llama no contesta, deje un mensaje después del tono."
+

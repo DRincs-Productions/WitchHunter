@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/afterload.po\n"
+"X-Crowdin-File-ID: 7927\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2023-11-11 09:13\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/afterload.rpy:193 #-#-# translate crowdin after_load_79db8d33:
+msgid "[_centered_] Выбранное сохранение не поддерживается и вы не сможете получить новый контент."
+msgstr "[_centered_] 不支持所选保存，您将无法获取新内容。"
+
+# game/scripts/afterload.rpy:194 #-#-# translate crowdin after_load_484e2123:
+msgid "[_centered_] Загрузка данного сохранения способна вызывать ошибки в игре."
+msgstr "[_centered_] 加载此保存会导致游戏出错。"
+
+# game/scripts/afterload.rpy:199 #-#-# translate crowdin after_load_8db42109:
+msgid "[_centered_] Просьба, не сообщать разработчику о найденных ошибках после загрузки не поддерживаемого сохранения."
+msgstr "[_centered_] 请不要在加载不支持的保存后向开发人员报告错误。"
+
+# §translate crowdin strings: #|#|# # game/scripts/afterload.rpy:196
+msgid "Вы уверены что хотите загрузить неподдерживаемое сохранение?"
+msgstr "您确定要加载不支持的保存吗？"
+
+# game/scripts/afterload.rpy:211
+msgid "Брайан.. Это Элион.. мне очень плохо… Нам нужно срочно увидеться, ты можешь прийти?"
+msgstr "布莱恩我是伊利昂，我真的病了… 我们急需见你，你能来吗？"
+

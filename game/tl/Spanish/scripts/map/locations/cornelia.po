@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/map/locations/cornelia.po\n"
+"X-Crowdin-File-ID: 8213\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-11-11 09:26\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/map/locations/cornelia.rpy:8 #-#-# translate crowdin cornelia_5ef2d669:
+msgid "Неподходящее время для похода на каток. Мне нужно дождаться дня."
+msgstr "No es un buen momento para ir a la pista de hielo. Tengo que esperar a que amanezca."
+
+# game/scripts/map/locations/cornelia.rpy:10 #-#-# translate crowdin cornelia_0163065e:
+msgid "[_cedrick_] Мне нечего там делать."
+msgstr "[_cedrick_] No tengo nada que hacer allí."
+
