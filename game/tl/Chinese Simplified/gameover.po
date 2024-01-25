@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-11 09:12\n"
+"PO-Revision-Date: 2024-01-25 15:09\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/gameover.rpy:5 #-#-# translate crowdin gameover_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/gameover.rpy:6 #-#-# translate crowdin gameover_e94ac20d:
 msgid "[_phobos_] Это был последний раз, когда ты подвел меня!"
