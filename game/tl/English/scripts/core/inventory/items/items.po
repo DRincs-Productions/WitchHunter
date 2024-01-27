@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2024-01-27 16:25\n"
+"PO-Revision-Date: 2024-01-27 18:52\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
 msgid "Звезда Трибы"
@@ -18,71 +18,71 @@ msgstr ""
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Древний артефакт который должен привлечь наследницу престола"
-msgstr ""
+msgstr "An ancient artifact that should attract the heir to the throne"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Плюшевый Тоторо"
-msgstr ""
+msgstr "Teddy Totoro"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Плюшовая игрушка Тоторо"
-msgstr ""
+msgstr "Totoro plush toy"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Корень Мандрагоры"
-msgstr ""
+msgstr "Mandrake root"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Корень очень редкого растения!"
-msgstr ""
+msgstr "The root of a very rare plant!"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Китайская Чавкающая Капуста"
-msgstr ""
+msgstr "Turkish Chowders"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Магический овощ выращенный в Китае."
-msgstr ""
+msgstr "A magical vegetable grown in Turkey."
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Мертвая лягушка"
-msgstr ""
+msgstr "A ezo gelin"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Мертвая лягушка, кишки, мерзость"
-msgstr ""
+msgstr "Ezo gelin, guts, gross."
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Мобильный телефон"
-msgstr ""
+msgstr "Mobile Phone"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Телефон с контактками учеников из школы"
-msgstr ""
+msgstr "A phone with student contacts from the school"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Красная Кепка"
-msgstr ""
+msgstr "Red Hat"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Детская красная кепка"
-msgstr ""
+msgstr "A child's red hat"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Шоколадка"
-msgstr ""
+msgstr "Turkish Chocolate"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Вкусная шоколадка"
-msgstr ""
+msgstr "A delicious turkish chocolate bar "
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Женская одежда"
-msgstr ""
+msgstr "Women's clothes"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Подойдет для Элион"
-msgstr ""
+msgstr "It's good for Elyon"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Трусики"
@@ -90,31 +90,31 @@ msgstr "Panties"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Использованные трусики Миранды"
-msgstr ""
+msgstr "Miranda's used panties"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Хвост большого морпиона"
-msgstr ""
+msgstr "The tail of the great morpher"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Можно использовать для приготвления зелья"
-msgstr ""
+msgstr "You can use it to make potions"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Микрофон"
-msgstr ""
+msgstr "Microphone"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Фотоаппарат"
-msgstr ""
+msgstr "Camera"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Ноздря дракона"
-msgstr ""
+msgstr "Dragon's nostril"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Клык Ларвека"
-msgstr ""
+msgstr "Larvek's Fang"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Золотая цепь"
@@ -122,19 +122,19 @@ msgstr "Gold Chain"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Модная футболка"
-msgstr ""
+msgstr "Fancy T-shirt"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Билеты на концерт"
-msgstr ""
+msgstr "Concert tickets"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Зелье возраста"
-msgstr ""
+msgstr "A potion of age"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Феаинневедд"
-msgstr ""
+msgstr "Feainnevedd"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Кот"
@@ -142,7 +142,7 @@ msgstr "Cat"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Одежда большого размера"
-msgstr ""
+msgstr "Oversized clothes"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Клочок волос"
