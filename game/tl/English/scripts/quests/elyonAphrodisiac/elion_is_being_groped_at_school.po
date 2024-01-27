@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-11 09:31\n"
+"PO-Revision-Date: 2024-01-27 15:17\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:4 #-#-# translate crowdin elion_is_being_groped_at_school_9c285532:
 msgid "[_centered_] {size=37}Тем временем в женском туалете{/size}"
@@ -126,7 +126,7 @@ msgstr ""
 
 # game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:54 #-#-# translate crowdin elion_is_being_groped_at_school_d043bf37:
 msgid "[_elion_] Ч-что!?"
-msgstr ""
+msgstr "[_elion_] W-What!?"
 
 # game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:55 #-#-# translate crowdin elion_is_being_groped_at_school_51a51f1e:
 msgid "[_uria_] Сейчас будет отличный кадр"
