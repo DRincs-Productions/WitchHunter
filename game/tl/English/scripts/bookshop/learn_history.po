@@ -10,83 +10,83 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-11-11 09:14\n"
+"PO-Revision-Date: 2024-01-27 14:15\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/learn_history.rpy:366 #-#-# translate crowdin learn_history_c9230321:
 msgid "[_cedrick_] Сегодня я устал, лучше продолжу завтра"
-msgstr ""
+msgstr "[_cedrick_] I am tired. I'd better continue tomorrow"
 
 # game/scripts/bookshop/learn_history.rpy:368 #-#-# translate crowdin learn_history_4d38ecca:
 msgid "[_cedrick_] Я уже знаю всю историю"
-msgstr ""
+msgstr "[_cedrick_] I've already learned history"
 
 # §translate crowdin strings: #|#|# # game/scripts/bookshop/learn_history.rpy:2
 msgid "Бог солнца в Древнем Египте"
-msgstr ""
+msgstr "God of the sun in Ancient Egypt"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Ра-Атум"
-msgstr ""
+msgstr "Ra-Atum"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Осирис"
-msgstr ""
+msgstr "Osiris"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Аллах"
-msgstr ""
+msgstr "Allah"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Красный бог"
-msgstr ""
+msgstr "Red god"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Кто стал первым римским императором?"
-msgstr ""
+msgstr "Who was the first Roman emperor?"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Октавиан Август"
-msgstr ""
+msgstr "Octavian Augustus"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Лютиус Малфой"
-msgstr ""
+msgstr "Lucius Malfoy"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Сенека"
-msgstr ""
+msgstr "Seneca"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Спартак"
-msgstr ""
+msgstr "Spartacus"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Он был убит заговорщиками из ближайшего окружения несколькими десятками ударов мечей?"
-msgstr ""
+msgstr "Was he killed by conspirators from his inner circle with dozens of hits from the sword?"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Калигула"
-msgstr ""
+msgstr "Caligula"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Гитлер"
-msgstr ""
+msgstr "Hitler"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Марк Аврелий"
-msgstr ""
+msgstr "Marcus Aurelius"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Эдд Старк"
-msgstr ""
+msgstr "Ned Stark"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Как называли первых правителей Рима?"
-msgstr ""
+msgstr "What's the name of the first Roman rulers?"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Царь"
-msgstr ""
+msgstr "Tsar"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Вождь"
@@ -94,7 +94,7 @@ msgstr ""
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Император"
-msgstr ""
+msgstr "Emperor"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Князь"
@@ -106,35 +106,35 @@ msgstr ""
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Геродот"
-msgstr ""
+msgstr "Herodotus"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Аристотель"
-msgstr ""
+msgstr "Aristotle"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Сократ"
-msgstr ""
+msgstr "Socrates"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Микеланджело"
-msgstr ""
+msgstr "Michelangelo"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Как назывался \"Храм всех богов\" в Древнем Риме?"
-msgstr ""
+msgstr "What is the name of the temple to all the gods in Ancient Rome?"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Пантеон"
-msgstr ""
+msgstr "Pantheon"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Колизей"
-msgstr ""
+msgstr "The Colosseum"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Храм Артемиды"
-msgstr ""
+msgstr "The Temple of Artemis"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Храм Арестотеля"
@@ -146,7 +146,7 @@ msgstr ""
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Юлий Цезарь"
-msgstr ""
+msgstr "Julius Caesar"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Дольмен"
@@ -326,7 +326,7 @@ msgstr ""
 
 # game/scripts/bookshop/learn_history.rpy:104
 msgid "116"
-msgstr ""
+msgstr "116"
 
 # game/scripts/bookshop/learn_history.rpy:104
 msgid "100"
@@ -334,11 +334,11 @@ msgstr ""
 
 # game/scripts/bookshop/learn_history.rpy:104
 msgid "108"
-msgstr ""
+msgstr "108"
 
 # game/scripts/bookshop/learn_history.rpy:104
 msgid "119"
-msgstr ""
+msgstr "119"
 
 # game/scripts/bookshop/learn_history.rpy:104
 msgid "Кто такой Феодал?"
@@ -426,19 +426,19 @@ msgstr ""
 
 # game/scripts/bookshop/learn_history.rpy:206
 msgid "1939"
-msgstr ""
+msgstr "1939"
 
 # game/scripts/bookshop/learn_history.rpy:206
 msgid "1488"
-msgstr ""
+msgstr "1488"
 
 # game/scripts/bookshop/learn_history.rpy:206
 msgid "1945"
-msgstr ""
+msgstr "1945"
 
 # game/scripts/bookshop/learn_history.rpy:206
 msgid "1337"
-msgstr ""
+msgstr "1337"
 
 # game/scripts/bookshop/learn_history.rpy:206
 msgid "На кого напала Геpмания 1 сентябpя 1939"
@@ -450,7 +450,7 @@ msgstr ""
 
 # game/scripts/bookshop/learn_history.rpy:206
 msgid "СССР"
-msgstr ""
+msgstr "USSR"
 
 # game/scripts/bookshop/learn_history.rpy:206
 msgid "Франция"
@@ -466,7 +466,7 @@ msgstr ""
 
 # game/scripts/bookshop/learn_history.rpy:206
 msgid "5051"
-msgstr ""
+msgstr "5051"
 
 # game/scripts/bookshop/learn_history.rpy:206
 msgid "Какой первой стране была объявлена война Гитлером?"
@@ -482,7 +482,7 @@ msgstr ""
 
 # game/scripts/bookshop/learn_history.rpy:206
 msgid "США"
-msgstr ""
+msgstr "USA"
 
 # game/scripts/bookshop/learn_history.rpy:206
 msgid "Перл-Харбор это"
