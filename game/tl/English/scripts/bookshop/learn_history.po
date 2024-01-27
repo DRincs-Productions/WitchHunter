@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2024-01-27 14:15\n"
+"PO-Revision-Date: 2024-01-27 17:46\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/learn_history.rpy:366 #-#-# translate crowdin learn_history_c9230321:
 msgid "[_cedrick_] Сегодня я устал, лучше продолжу завтра"
@@ -90,7 +90,9 @@ msgstr "Tsar"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Вождь"
-msgstr ""
+msgstr "Key: Leader\n"
+"# game/scripts/bookshop/learn_history.rpy:2\n"
+"File: learn_history.po"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Император"
@@ -98,11 +100,15 @@ msgstr "Emperor"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Князь"
-msgstr ""
+msgstr "Key: Prince\n"
+"# game/scripts/bookshop/learn_history.rpy:2\n"
+"File: learn_history.po"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "\"Отец истории\" в Древней Греции"
-msgstr ""
+msgstr "Key: \"Father of History\" in Ancient Greece\n"
+"# game/scripts/bookshop/learn_history.rpy:2\n"
+"File: learn_history.po"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Геродот"
