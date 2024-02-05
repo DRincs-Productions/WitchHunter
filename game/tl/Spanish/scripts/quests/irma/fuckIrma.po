@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:39\n"
+"PO-Revision-Date: 2024-02-05 05:31\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/irma/fuckIrma.rpy:13 #-#-# translate crowdin fuckIrma_df80b5ca:
 msgid "[_irma_] Профессор Хоффман! Здравствуйте, я пришла помочь.."
@@ -62,7 +62,7 @@ msgstr ""
 
 # game/scripts/quests/irma/fuckIrma.rpy:64 #-#-# translate crowdin fuckIrma_89c59728:
 msgid "[_elion_] ..."
-msgstr ""
+msgstr "[_elion_] ..."
 
 # game/scripts/quests/irma/fuckIrma.rpy:73 #-#-# translate crowdin fuckIrma_50179442:
 msgid "Элион убегает в слезах.."
