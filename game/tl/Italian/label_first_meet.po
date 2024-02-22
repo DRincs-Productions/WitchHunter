@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-11 09:12\n"
+"PO-Revision-Date: 2024-02-22 12:28\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/label_first_meet.rpy:4 #-#-# translate crowdin first_meet_8bd86d07:
 msgid "[_cedrick_] Что-ж, пока никто сюда не явился, самое время начать изучать местные книги"
-msgstr "[_cedrick_] Visto che non c'è nessuno, è ora di iniziare a studiare i libri locali."
+msgstr "[_cedrick_] Visto che non c'è nessuno, è ora di iniziare a studiare i libri locali"
 
 # game/label_first_meet.rpy:6 #-#-# translate crowdin first_meet_70cfdf98:
 msgid "[_centered_] {size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ{/size}"
