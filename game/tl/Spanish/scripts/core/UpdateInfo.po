@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/core/UpdateInfo.po\n"
+"X-Crowdin-File-ID: 8021\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-11-11 09:17\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/core/UpdateInfo.rpy:272 #-#-# translate crowdin update_info_end_label_ab20a80b:
+msgid "Конец версии [config.version]"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/core/UpdateInfo.rpy:176
+msgid "Продолжить"
+msgstr "Continuar"
+
+# game/scripts/core/UpdateInfo.rpy:179
+msgid "Вернуться в главное меню"
+msgstr "Volver al menú principal"
+
+# game/scripts/core/UpdateInfo.rpy:199
+msgid "Не удалось получить информацию о новом обновлении. В этом случае вы можете получить информацию о всех обновлениях на наших страницах:"
+msgstr "No se ha podido recibir información sobre una nueva actualización. En este caso, puede obtener información sobre todas las actualizaciones en nuestras páginas:"
+

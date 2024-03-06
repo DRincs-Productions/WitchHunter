@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/giftForLilian/blankSuggestCat.po\n"
+"X-Crowdin-File-ID: 8399\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/blankSuggestCat.rpy:9 #-#-# translate crowdin blankSuggestCat_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:13 #-#-# translate crowdin blankSuggestCat_70f16a3a:
+msgid "[_cedrick_] Эй, что это у тебя там копошится?"
+msgstr "[_cedrick_] Oye, ¿qué escondes ahí?"
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:17 #-#-# translate crowdin blankSuggestCat_50aa64e2:
+msgid "[_blank_] Копошится?"
+msgstr "[_blank_] ¿Guardar?"
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:19 #-#-# translate crowdin blankSuggestCat_a6265aa1:
+msgid "[_blank_] Ах, это..."
+msgstr "[_blank_] Ah, esto es..."
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:24 #-#-# translate crowdin blankSuggestCat_7110c65a:
+msgid "[_blank_] Пещерная крыса"
+msgstr "[_blank_] La rata de las cavernas"
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:25 #-#-# translate crowdin blankSuggestCat_bec1a9e0:
+msgid "[_cedrick_] Пещерная.. крыса?? ... Это же кот"
+msgstr "[_cedrick_] Rata.. ¿de las cavernas? ... Eso es un gato"
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:29 #-#-# translate crowdin blankSuggestCat_d316bda6:
+msgid "[_blank_] Кот? Я думал это крыса, должно быть вкусно"
+msgstr "[_blank_] ¿Un gato? Pensé que era una rata, debe ser delicioso"
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:30 #-#-# translate crowdin blankSuggestCat_2472d2d1:
+msgid "[_cedrick_] Так, подожди.. Шоколадно-коричневая шерсть, морда с серым пятном слегка напоминающим форму черепа.. смотрит на нас как на говно.."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:34 #-#-# translate crowdin blankSuggestCat_ef27ee58:
+msgid "[_blank_] На бланк все смотреть как на говно"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:35 #-#-# translate crowdin blankSuggestCat_a7c65dc0:
+msgid "[_cedrick_] Это же наполеон!"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:36 #-#-# translate crowdin blankSuggestCat_4d0c387f:
+msgid "[_cedrick_] Бланк, отдай его мне"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:37 #-#-# translate crowdin blankSuggestCat_e5f601a2:
+msgid "[_blank_] Ты его описал как очень редкий крыса. К тому же я слышал, что наполеон был важный полководец"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:38 #-#-# translate crowdin blankSuggestCat_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:39 #-#-# translate crowdin blankSuggestCat_1614aea7:
+msgid "[_cedrick_] И как у тебя только логические цепочки в голове складываются.."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:40 #-#-# translate crowdin blankSuggestCat_fa7ae67d:
+msgid "[_blank_] 100 баксов за редкий крыса-наполеон"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:41 #-#-# translate crowdin blankSuggestCat_49316299_1:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:42 #-#-# translate crowdin blankSuggestCat_67dedf29:
+msgid "[_cedrick_] Ушлая скользкая жаба.."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/blankSuggestCat.rpy:43 #-#-# translate crowdin blankSuggestCat_f830a2b0:
+msgid "[_blank_] Комплиментами меня не задобрить.. Тащи 100 баксов"
+msgstr ""
+

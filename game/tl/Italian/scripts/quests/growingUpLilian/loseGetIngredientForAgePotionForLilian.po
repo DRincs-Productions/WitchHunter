@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/growingUpLilian/loseGetIngredientForAgePotionForLilian.po\n"
+"X-Crowdin-File-ID: 8457\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-11-11 09:37\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/loseGetIngredientForAgePotionForLilian.rpy:3 #-#-# translate crowdin loseGetIngredientForAgePotionForLilian_62965fea:
+msgid "[_herald_] Кажется, что сегодня не твой день... но если захочешь попробовать снова, то ты знаешь где меня найти..."
+msgstr "[_herald_] Non sembra che oggi sia il tuo giorno... ma se vuoi riprovare, sai dove trovarmi..."
+

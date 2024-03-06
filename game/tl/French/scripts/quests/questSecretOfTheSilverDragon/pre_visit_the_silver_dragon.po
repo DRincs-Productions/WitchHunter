@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.po\n"
+"X-Crowdin-File-ID: 8629\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-11-11 09:45\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:4 #-#-# translate crowdin pre_visit_the_silver_dragon_939eea21:
+msgid "[_johnlin_] Р-рик!? Ч-что ты здесь делаешь.."
+msgstr "[_johnlin_] R-rick !? Qu'est-ce que tu fais ici ?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:5 #-#-# translate crowdin pre_visit_the_silver_dragon_9be6f75a:
+msgid "[_cedrick_] Хах, а что такое, Джоан? Я что, не могу прийти в ваш ресторан? К тому же сегодня я намерен отведать ваш особый десерт.."
+msgstr "[_cedrick_] Qu'est-ce qu'il y a, Joan ? Je ne peux pas venir dans votre restaurant ? D'ailleurs, je vais prendre votre dessert spécial ce soir."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:9 #-#-# translate crowdin pre_visit_the_silver_dragon_dcefa3b4:
+msgid "[_johnlin_] Ох.. Я так и знала, что ты рано или поздно придешь за этим.."
+msgstr "[_johnlin_] Oh. Je savais que vous viendriez le chercher tôt ou tard."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:10 #-#-# translate crowdin pre_visit_the_silver_dragon_8cc34450:
+msgid "[_cedrick_] Пойдем, у нас не так много времени..."
+msgstr "[_cedrick_] Allez, on n'a pas beaucoup de temps....."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:14 #-#-# translate crowdin pre_visit_the_silver_dragon_6a3a8fa9:
+msgid "[_johnlin_] ..."
+msgstr "[_johnlin_] ..."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:21 #-#-# translate crowdin pre_visit_the_silver_dragon_10930a08:
+msgid "[_centered_] {size=37}СПУСТЯ ОПРЕДЕЛЕННОЕ ВРЕМЯ{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}DERNIÈRE FOIS{/size} [withDissolve1]"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:26 #-#-# translate crowdin pre_visit_the_silver_dragon_461e48d7:
+msgid "[_cedrick_] Что ж, Джоан, мне пора идти"
+msgstr "[_cedrick_] Eh bien, Joan, je dois y aller"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:27 #-#-# translate crowdin pre_visit_the_silver_dragon_85dd4b4b:
+msgid "[_cedrick_] Не забудь, завтра я тоже к вам зайду. Как договаривались"
+msgstr "[_cedrick_] N'oubliez pas que je passerai aussi demain. Comme convenu"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:29 #-#-# translate crowdin pre_visit_the_silver_dragon_aa5f8ae2:
+msgid "[_johnlin_] Аааххх.. Ооохх.."
+msgstr "[_johnlin_] Aaahhhh. Ohhhh."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:31 #-#-# translate crowdin pre_visit_the_silver_dragon_ffd8d270:
+msgid "[_cedrick_] Ты слышишь меня?"
+msgstr "[_cedrick_] Vous m'entendez ?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:33 #-#-# translate crowdin pre_visit_the_silver_dragon_a8d10cf8:
+msgid "[_johnlin_] Д-да.."
+msgstr "[_johnlin_] Oui, oui."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:35 #-#-# translate crowdin pre_visit_the_silver_dragon_dd799c96:
+msgid "[_cedrick_] И что я говорил до этого?"
+msgstr "[_cedrick_] Et qu'est-ce que j'ai dit avant cela ?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:37 #-#-# translate crowdin pre_visit_the_silver_dragon_29161a2c:
+msgid "[_johnlin_] Ааахх.. Уууххх.."
+msgstr "[_johnlin_] Aaahhhh. Oohhhh."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:39 #-#-# translate crowdin pre_visit_the_silver_dragon_d49ab8f3:
+msgid "[_johnlin_] Я.. Ммм.. Ты говорил, что хочешь завтра помочь нам.. В-в ресторане.."
+msgstr "[_johnlin_] Я.. Vous avez dit que vous vouliez nous aider demain. Au restaurant."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:41 #-#-# translate crowdin pre_visit_the_silver_dragon_37814de1:
+msgid "[_cedrick_] И что еще?"
+msgstr "[_cedrick_] Et quoi d'autre ?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:43 #-#-# translate crowdin pre_visit_the_silver_dragon_73a51834:
+msgid "[_johnlin_] Ч-что я.. аахх.. что хочешь, чтобы я воспользовалась игрушкой.. Виброяйцом.."
+msgstr "[_johnlin_] Je... que je... que vous voulez que j'utilise un jouet... Un œuf vibrant."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:45 #-#-# translate crowdin pre_visit_the_silver_dragon_5b3c2afe:
+msgid "[_cedrick_] И?"
+msgstr "[_cedrick_] И ?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:47 #-#-# translate crowdin pre_visit_the_silver_dragon_d3c87316:
+msgid "[_johnlin_] Завтра оно будет во мне весь день.. Я обещаю.."
+msgstr "[_johnlin_] Il sera en moi toute la journée de demain. Je le promets."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:49 #-#-# translate crowdin pre_visit_the_silver_dragon_060a2da8:
+msgid "[_cedrick_] Еще что-нибудь?"
+msgstr "[_cedrick_] Autre chose ?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:51 #-#-# translate crowdin pre_visit_the_silver_dragon_da69d532:
+msgid "[_johnlin_] Да.. Т-ты сказал оставить костюм тебе.."
+msgstr "[_johnlin_] Oui.. Vous m'avez dit de vous laisser le costume."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:52 #-#-# translate crowdin pre_visit_the_silver_dragon_95e6f61d:
+msgid "[_johnlin_] Я верну его.."
+msgstr "[_johnlin_] Je le ramènerai."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:54 #-#-# translate crowdin pre_visit_the_silver_dragon_847e6d17:
+msgid "[_johnlin_] Как только.."
+msgstr "[_johnlin_] Dès que..."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:56 #-#-# translate crowdin pre_visit_the_silver_dragon_5611bad7:
+msgid "[_johnlin_] Будут силы… Снять его.."
+msgstr "[_johnlin_] J'aurai la force… de l'enlever."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:58 #-#-# translate crowdin pre_visit_the_silver_dragon_d3df6823:
+msgid "[_cedrick_] Ты же помнишь, для чего мне нужен этот костюм? Почему я его забираю?"
+msgstr "[_cedrick_] Vous vous rappelez pourquoi j'ai besoin de ce costume, n'est-ce pas ? Pourquoi je le prends ?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:60 #-#-# translate crowdin pre_visit_the_silver_dragon_a8d10cf8_1:
+msgid "[_johnlin_] Д-да.."
+msgstr "[_johnlin_] Oui, oui."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:62 #-#-# translate crowdin pre_visit_the_silver_dragon_6cc37307:
+msgid "[_cedrick_] И тебя все устраивает, верно?"
+msgstr "[_cedrick_] Et vous êtes d'accord avec ça, n'est-ce pas ?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:64 #-#-# translate crowdin pre_visit_the_silver_dragon_1144ab1c:
+msgid "[_johnlin_] Я.. аааххх.. я.. ммм.."
+msgstr "[_johnlin_] Je... aahhhh... je... mmm."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:65 #-#-# translate crowdin pre_visit_the_silver_dragon_d5d313ad:
+msgid "[_cedrick_] Ну же, говори"
+msgstr "[_cedrick_] Allez, exprimez-vous"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:67 #-#-# translate crowdin pre_visit_the_silver_dragon_1e150f19:
+msgid "[_johnlin_] Если.. если все по обоюдному согласию.. Тогда я не против.. Т-только не говори ей, что мы тоже это делаем.."
+msgstr "[_johnlin_] Si... si c'est consensuel. Alors ça me va. Mais ne lui dites pas que nous le faisons aussi."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:69 #-#-# translate crowdin pre_visit_the_silver_dragon_9e1f631b:
+msgid "[_johnlin_] Ч-что до этого я была в нем.."
+msgstr "[_johnlin_] Qu... qu'avant que j'y sois..."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:71 #-#-# translate crowdin pre_visit_the_silver_dragon_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:73 #-#-# translate crowdin pre_visit_the_silver_dragon_0e3929ff:
+msgid "[_cedrick_] Джоан.. ты же понимаешь, на сколько ты безумная шлюха?"
+msgstr "[_cedrick_] Joan, tu réalises à quel point tu es une pute folle, n'est-ce pas ?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:75 #-#-# translate crowdin pre_visit_the_silver_dragon_86dba6db:
+msgid "[_johnlin_] Я.. ааххх.. н-ничего не могу с собой поделать.. я просто.."
+msgstr "[_johnlin_] Je ne peux pas m'en empêcher. Je..."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:77 #-#-# translate crowdin pre_visit_the_silver_dragon_a088bb52:
+msgid "[_johnlin_] П-просто хочу еще.."
+msgstr "[_johnlin_] J'en veux plus."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:79 #-#-# translate crowdin pre_visit_the_silver_dragon_a0646b8f:
+msgid "[_cedrick_] Хах. И я дам тебе еще. Просто делай все как я скажу"
+msgstr "[_cedrick_] Huh. Et je vous en donnerai plus. Fais exactement ce que je te dis."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:81 #-#-# translate crowdin pre_visit_the_silver_dragon_f48eca9d:
+msgid "[_johnlin_] Х-хорошо.."
+msgstr "[_johnlin_] D'accord."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:83 #-#-# translate crowdin pre_visit_the_silver_dragon_7f70a283:
+msgid "[_cedrick_] И раз уж ты не против, может вручишь этот костюм сама? Как подарок, в таком, красивом пакетике"
+msgstr "[_cedrick_] Et puisque ça ne vous dérange pas, pourquoi ne pas m'offrir ce costume ? En cadeau, dans un joli petit sac comme celui-ci."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:85 #-#-# translate crowdin pre_visit_the_silver_dragon_e0d66509:
+msgid "[_johnlin_] Д-да.. я поняла.."
+msgstr "[_johnlin_] Oui, j'ai compris."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:87 #-#-# translate crowdin pre_visit_the_silver_dragon_e640ba61:
+msgid "[_cedrick_] А, и еще.. Мне нужны будут наручники. У тебя они точно есть, приложишь к комплекту?"
+msgstr "[_cedrick_] Oh, et une dernière chose. Je vais avoir besoin de menottes. Vous êtes sûr de les avoir, vous pouvez les mettre dans le kit ?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:89 #-#-# translate crowdin pre_visit_the_silver_dragon_3d67d985:
+msgid "[_johnlin_] Аааххх.. Л-ладно.. Я добавлю наручники"
+msgstr "[_johnlin_] Aaahhhh. D'accord. Je vais ajouter des menottes."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:91 #-#-# translate crowdin pre_visit_the_silver_dragon_ea63e47a:
+msgid "[_cedrick_] Хахаха.. Ты просто повернута на сексе, Джоан, для тебя и вправду нет никаких границ, когда дело касается члена"
+msgstr "[_cedrick_] Hahaha. Tu es une accro du sexe Joan, tu n'as vraiment aucune limite quand il s'agit de bites."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:93 #-#-# translate crowdin pre_visit_the_silver_dragon_3238beb1:
+msgid "[_johnlin_] Г-главное, чтобы это было добровольно и она была согласно.. А так.. Ааавв.. То, что происходит в постели - это дело каждого.."
+msgstr "[_johnlin_] L'important est que ce soit volontaire et qu'elle soit d'accord. Et puis... Awww. Ce qui se passe au lit est l'affaire de tous."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:95 #-#-# translate crowdin pre_visit_the_silver_dragon_9910ed00:
+msgid "[_johnlin_] Е-если моей дочери это нравится хоть немного так же, как и мне, то.. аааахх.. к-кто я такая, чтобы ее осуждать.."
+msgstr "[_johnlin_] Si ma fille l'aime ne serait-ce qu'un peu autant que moi, alors... aaahhhh... qui suis-je pour la juger ? ...."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:97 #-#-# translate crowdin pre_visit_the_silver_dragon_55f75c6f:
+msgid "[_cedrick_] Я тебя понял. Тогда до завтра. Подарок вручишь сама"
+msgstr "[_cedrick_] Je vous entends. Je vous verrai demain, alors. C'est vous qui donnez le cadeau"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/pre_visit_the_silver_dragon.rpy:99 #-#-# translate crowdin pre_visit_the_silver_dragon_93627fab:
+msgid "[_johnlin_] Д-да, я поняла.. До завтра.."
+msgstr "[_johnlin_] Oui, j'ai compris. Je vous verrai demain."
+

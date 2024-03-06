@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/getRidOfElyonsParents/wait_for_jink_to_do_her_job.po\n"
+"X-Crowdin-File-ID: 8393\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getRidOfElyonsParents/wait_for_jink_to_do_her_job.rpy:4 #-#-# translate crowdin wait_for_jink_to_do_her_job_920d4243:
+msgid "[_elion_] Рик..... Мои родители... Они..."
+msgstr "[_elion_] Rick..... Mis padres... Ellos están..."
+
+# game/scripts/quests/getRidOfElyonsParents/wait_for_jink_to_do_her_job.rpy:5 #-#-# translate crowdin wait_for_jink_to_do_her_job_0955c06a:
+msgid "[_cedrick_] Что.. Элион, о чем ты говоришь?"
+msgstr "[_cedrick_] ¿Qué...? Elyon, ¿de qué estás hablando?"
+
+# game/scripts/quests/getRidOfElyonsParents/wait_for_jink_to_do_her_job.rpy:8 #-#-# translate crowdin wait_for_jink_to_do_her_job_9add7fcb:
+msgid "[_elion_] Они разбились, Рик.. Их больше нет..."
+msgstr "[_elion_] Se estrellaron, Rick... Se han ido..."
+
+# game/scripts/quests/getRidOfElyonsParents/wait_for_jink_to_do_her_job.rpy:12 #-#-# translate crowdin wait_for_jink_to_do_her_job_72375761:
+msgid "[_elion_] Они попали в автокатастрофу, Рик....."
+msgstr "[_elion_] Tuvieron un accidente de auto, Rick....."
+
+# game/scripts/quests/getRidOfElyonsParents/wait_for_jink_to_do_her_job.rpy:13 #-#-# translate crowdin wait_for_jink_to_do_her_job_f74a9a04:
+msgid "[_cedrick_] Элион, мне.. мне очень жаль.."
+msgstr "[_cedrick_] Elyon, lo... lo siento mucho.."
+
+# game/scripts/quests/getRidOfElyonsParents/wait_for_jink_to_do_her_job.rpy:14 #-#-# translate crowdin wait_for_jink_to_do_her_job_80bf4c26:
+msgid "[_elion_] Я не знаю, что мне делать.. что делать с домом, что делать с работой.. на родителях было так много долгов.."
+msgstr "[_elion_] No sé qué hacer... qué hacer con la casa, qué hacer con el trabajo... mis padres tenían tantas deudas.."
+
+# game/scripts/quests/getRidOfElyonsParents/wait_for_jink_to_do_her_job.rpy:15 #-#-# translate crowdin wait_for_jink_to_do_her_job_ed8d23a1:
+msgid "[_cedrick_] Ничего, Элион.. Ты можешь на меня положиться. Оставайся у меня столько, сколько потребуется, ты обязательно встанешь на ноги"
+msgstr "[_cedrick_] Está bien, Elyon. Puedes contar conmigo. Quédate conmigo el tiempo que haga falta, definitivamente te recuperarás"
+
+# game/scripts/quests/getRidOfElyonsParents/wait_for_jink_to_do_her_job.rpy:16 #-#-# translate crowdin wait_for_jink_to_do_her_job_51ff4d12:
+msgid "[_elion_] Спасибо, Рик.. Что бы я без тебя делала.."
+msgstr "[_elion_] Gracias, Rick. ¿Qué haría yo sin ti?.."
+

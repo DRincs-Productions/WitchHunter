@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.po\n"
+"X-Crowdin-File-ID: 8617\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-11-11 09:45\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:2 #-#-# translate crowdin need_to_go_to_prince_phobos_364c73cd:
+msgid "[_cedrick_] (Сейчас я должен выступить с докладом перед Фобосом)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:7 #-#-# translate crowdin dialog_elion_eed529c5:
+msgid "[_elion_] Хей, Рик, привет!"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:8 #-#-# translate crowdin dialog_elion_96ac4ef0:
+msgid "[_cedrick_] Э-элион!? Что ты тут делаешь?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:10 #-#-# translate crowdin dialog_elion_85787f63:
+msgid "[_elion_] Эм.. Я здесь живу.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:12 #-#-# translate crowdin dialog_elion_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:14 #-#-# translate crowdin dialog_elion_ca2386c5:
+msgid "[_cedrick_] (Черт, у меня совсем вылетело из головы со всеми этими дворцовыми интригами и судами..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:15 #-#-# translate crowdin dialog_elion_63f0165b:
+msgid "[_cedrick_] Хах, точно точно.. Я имел ввиду, эм, что ты делаешь здесь в такое время?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:17 #-#-# translate crowdin dialog_elion_1eb267a7:
+msgid "[_elion_] А, решила остаться сегодня дома. Вот услышала шум за прилавком, подумала что это ты"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:19 #-#-# translate crowdin dialog_elion_081fcf4a:
+msgid "[_elion_] Хах, снова просматриваешь свои похабные журнальчики? Ты так часто в них засматриваешься, что мне уже и самой становится интересно.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:20 #-#-# translate crowdin dialog_elion_d88919f7:
+msgid "[_cedrick_] О, нет, я.. Я вообще собирался по делам.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:22 #-#-# translate crowdin dialog_elion_c1e8668c:
+msgid "[_elion_] Эх, снова дела.. Последнее время ты только ими и занят, а на меня почти не осталось времени.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:23 #-#-# translate crowdin dialog_elion_6fe336b7:
+msgid "[_cedrick_] (Черт, она права.. Нельзя терять с ней эмоциональную связь, она один из главных элементов в моем плане по свержению Фобоса..)"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:24 #-#-# translate crowdin dialog_elion_88632f2a:
+msgid "[_cedrick_] Элион, прости.. сейчас у меня правда много дел. Но давай как-нибудь сходим с тобой в парк? Или на ярмарку?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:26 #-#-# translate crowdin dialog_elion_afcc2118:
+msgid "[_elion_] В-в смысле? Как на свидание.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:27 #-#-# translate crowdin dialog_elion_26d1bb0e:
+msgid "[_cedrick_] Эм.. Да, почему нет?"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:29 #-#-# translate crowdin dialog_elion_f3908637:
+msgid "[_elion_] Ох, я.. Я буду ждать, Рик.. Очень сильно буду ждать.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:30 #-#-# translate crowdin dialog_elion_14c9004e:
+msgid "[_cedrick_] Хах, я тоже, Элион. А пока, можешь вернуться в свою комнату, а я пойду по делам"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:32 #-#-# translate crowdin dialog_elion_87a8f45c:
+msgid "[_elion_] Хорошо, Рик! Удачи с делами, что бы там ни было"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:33 #-#-# translate crowdin dialog_elion_aafa16dd:
+msgid "[_cedrick_] Эм, спасибо, Элион."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:41 #-#-# translate crowdin need_to_go_to_prince_phobos_lateness_62a81298:
+msgid "[_cedrick_] Сейчас я должен отправиться к Фобосу. Я уже опаздываю.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:44 #-#-# translate crowdin need_to_go_to_prince_phobos_lateness_62a81298_1:
+msgid "[_cedrick_] Сейчас я должен отправиться к Фобосу. Я уже опаздываю.."
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:47 #-#-# translate crowdin need_to_go_to_prince_phobos_lateness_16358e5f:
+msgid "[_cedrick_] Я должен отправиться к Миранде. Скоро Булдж приведет Стражниц в подземелье"
+msgstr ""
+
+# game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:50 #-#-# translate crowdin need_to_go_to_prince_phobos_lateness_0119f74b:
+msgid "[_cedrick_] Мне нужно отправляться к стражницам"
+msgstr ""
+

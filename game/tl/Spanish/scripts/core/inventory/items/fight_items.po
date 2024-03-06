@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/core/inventory/items/fight_items.po\n"
+"X-Crowdin-File-ID: 8029\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-11-11 09:17\n"
+
+# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Большое Зелье Здоровья"
+msgstr "Gran poción de salud"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье восстанавливает 100 единиц здоровья"
+msgstr "Recupera 100 puntos de salud"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Малое Зелье Здоровья"
+msgstr "Poción de salud pequeña"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье восстанавливает 50 единиц здоровья"
+msgstr "Recupera 50 puntos de salud"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье с ядом"
+msgstr "Poción venenosa"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Отравляет врага на 5 ходов, каждый ход враг получает 15 урона"
+msgstr "Envenena al enemigo durante 5 turnos, cada turno el enemigo recibe 15 de daño"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Сонное зелье"
+msgstr "Una poción para dormir"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Заставляет уснуть врага на 3 хода"
+msgstr "Hace que el enemigo duerma durante 3 turnos"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Паутинное зелье"
+msgstr "Poción de araña"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Замедляет врага на 4 хода"
+msgstr "Ralentiza al enemigo durante 4 turnos"
+

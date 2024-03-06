@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/bookshop/elyon_menu.po\n"
+"X-Crowdin-File-ID: 7945\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-11-11 09:13\n"
+
+# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/bookshop/elyon_menu.rpy:17
+msgid "Уборка пыли"
+msgstr "Dépoussiérage"
+
+# game/scripts/bookshop/elyon_menu.rpy:17
+msgid "Провести публичные чтения в пижаме"
+msgstr "Organiser une lecture publique en pyjama"
+
+# game/scripts/bookshop/elyon_menu.rpy:17
+msgid "Провести публичные чтения в форме служанки"
+msgstr "Organiser une lecture publique sous la forme d'une servante"
+
+# game/scripts/bookshop/elyon_menu.rpy:17
+msgid "Выставить книги"
+msgstr "Afficher les livres"
+
+# game/scripts/bookshop/elyon_menu.rpy:17
+msgid "Поговорить с ней"
+msgstr "Parlez-lui"
+
+# game/scripts/bookshop/elyon_menu.rpy:17
+msgid "Действия"
+msgstr "Actions"
+
+# game/scripts/bookshop/elyon_menu.rpy:17
+msgid "Одежда"
+msgstr "Vêtements"
+
+# game/scripts/bookshop/elyon_menu.rpy:17
+msgid "Подарить подарок"
+msgstr "Offrir un cadeau"
+

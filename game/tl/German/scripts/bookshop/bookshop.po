@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/bookshop/bookshop.po\n"
+"X-Crowdin-File-ID: 7935\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-11-11 09:13\n"
+
+# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/bookshop/bookshop.rpy:11
+msgid "{size=37}Спустя некоторое время в книжном магазине{/size}"
+msgstr "{size=37}Nach einer Weile in einer Buchhandlung{/size}"
+
+# game/scripts/bookshop/bookshop.rpy:43
+msgid "Прогуляться"
+msgstr "Spaziergang machen"
+
+# game/scripts/bookshop/bookshop.rpy:43
+msgid "Работать"
+msgstr "Arbeit"
+
+# game/scripts/bookshop/bookshop.rpy:43
+msgid "Телепортироваться на меридиан"
+msgstr "Teleport zum Meridian"
+
+# game/scripts/bookshop/bookshop.rpy:43
+msgid "Посмотреть порножурнал"
+msgstr "Ein Pornomagazin ansehen"
+
+# game/scripts/bookshop/bookshop.rpy:69
+msgid "Изучить историю"
+msgstr "Studieren Sie die Geschichte"
+
+# game/scripts/bookshop/bookshop.rpy:81
+msgid "Подойти к Элион"
+msgstr "Annäherung an Elion"
+

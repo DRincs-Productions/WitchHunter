@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/bookshop/thomas_comes_to_play.po\n"
+"X-Crowdin-File-ID: 7961\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-11-11 09:14\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/thomas_comes_to_play.rpy:5 #-#-# translate crowdin thomas_comes_to_play_fa425594:
+msgid "Приходит Томас чтобы сыграть в покер."
+msgstr "Thomas kommt herein, um zu pokern."
+
+# game/scripts/bookshop/thomas_comes_to_play.rpy:8 #-#-# translate crowdin thomas_comes_to_play_8b062288:
+msgid "[_cedrick_] Привет Томас, извини, я потратил деньги днем и поэтому не смогу с тобой сейчас сыграть."
+msgstr "[_cedrick_] Hallo Thomas, tut mir leid, ich habe das Geld heute Nachmittag ausgegeben, deshalb kann ich jetzt nicht mit dir spielen."
+
+# game/scripts/bookshop/thomas_comes_to_play.rpy:9 #-#-# translate crowdin thomas_comes_to_play_34dddcc5:
+msgid "[_tomas_] Плохо, не делай так больше."
+msgstr "[_tomas_] Schlecht, tun Sie das nicht noch einmal."
+

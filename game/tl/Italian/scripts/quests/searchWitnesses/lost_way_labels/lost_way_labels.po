@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/searchWitnesses/lost_way_labels/lost_way_labels.po\n"
+"X-Crowdin-File-ID: 8639\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-11-11 09:46\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/lost_way_labels/lost_way_labels.rpy:2 #-#-# translate crowdin lost_way_persuade_the_bryan_to_testify_c6423e0b:
+msgid "[_cedrick_] Мне нужно отправляться в шахты за Брайаном"
+msgstr "[_cedrick_] Devo andare in miniera per Brian."
+
+# game/scripts/quests/searchWitnesses/lost_way_labels/lost_way_labels.rpy:7 #-#-# translate crowdin lost_way_persuade_the_cornelia_to_testify_aac1af17:
+msgid "[_cedrick_] Мне нужно отправляться в замок и поговорить с Корнелией"
+msgstr "[_cedrick_] Devo andare al castello e parlare con Cornelia."
+
+# game/scripts/quests/searchWitnesses/lost_way_labels/lost_way_labels.rpy:12 #-#-# translate crowdin lost_way_persuade_the_irma_and_taranee_to_testify_c3b89587:
+msgid "[_cedrick_] Мне нужно отправляться в замок и поговорить с Ирмой и Тарани"
+msgstr "[_cedrick_] Devo andare al castello e parlare con Irma e Taranee."
+

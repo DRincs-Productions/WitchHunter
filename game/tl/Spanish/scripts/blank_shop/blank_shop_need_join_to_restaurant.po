@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/blank_shop/blank_shop_need_join_to_restaurant.po\n"
+"X-Crowdin-File-ID: 7933\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-11-11 09:13\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/blank_shop/blank_shop_need_join_to_restaurant.rpy:4 #-#-# translate crowdin blank_shop_need_join_to_restaurant_29dd188d:
+msgid "[_cedrick_] Опять никого!"
+msgstr "[_cedrick_] ¡Otra vez nadie!"
+
+# game/scripts/blank_shop/blank_shop_need_join_to_restaurant.rpy:5 #-#-# translate crowdin blank_shop_need_join_to_restaurant_85a869df:
+msgid "[_cedrick_] Но судя по вещам и мусору оставленным здесь, тут определенно кто-то живет..."
+msgstr "[_cedrick_] Pero a juzgar por las cosas y la basura que queda aquí, definitivamente alguien vive aquí..."
+
+# game/scripts/blank_shop/blank_shop_need_join_to_restaurant.rpy:6 #-#-# translate crowdin blank_shop_need_join_to_restaurant_0729214a:
+msgid "[_cedrick_] Нужно будет заглянуть в другой раз"
+msgstr "[_cedrick_] Tendré que mirar en otra ocasión"
+

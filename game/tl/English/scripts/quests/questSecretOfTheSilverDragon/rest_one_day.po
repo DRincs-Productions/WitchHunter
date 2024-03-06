@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questSecretOfTheSilverDragon/rest_one_day.po\n"
+"X-Crowdin-File-ID: 8633\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2023-11-11 09:45\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/rest_one_day.rpy:2 #-#-# translate crowdin rest_one_day_7192f0d0:
+msgid "[_cedrick_] Элион, сегодня я помогаю в Серебряном драконе. Присмотришь за магазином?"
+msgstr ""
+
+# game/scripts/quests/questSecretOfTheSilverDragon/rest_one_day.rpy:4 #-#-# translate crowdin rest_one_day_47a83a02:
+msgid "[_elion_] Х-хорошо, Рик. Ты надолго?"
+msgstr ""
+
+# game/scripts/quests/questSecretOfTheSilverDragon/rest_one_day.rpy:6 #-#-# translate crowdin rest_one_day_7ba62884:
+msgid "[_cedrick_] Скорее всего на весь день. Буду поздно ночью, либо вообще утром"
+msgstr ""
+
+# game/scripts/quests/questSecretOfTheSilverDragon/rest_one_day.rpy:8 #-#-# translate crowdin rest_one_day_9258c05b:
+msgid "[_elion_] Ох.. А что по-поводу нашего, эм.. с-свидания?"
+msgstr ""
+
+# game/scripts/quests/questSecretOfTheSilverDragon/rest_one_day.rpy:9 #-#-# translate crowdin rest_one_day_19125ffa:
+msgid "[_cedrick_] Да, я помню. Прости, но сегодня точно не получится. Как только освобожусь от всех дел, сразу тебе скажу"
+msgstr ""
+
+# game/scripts/quests/questSecretOfTheSilverDragon/rest_one_day.rpy:11 #-#-# translate crowdin rest_one_day_1841f9cf:
+msgid "[_elion_] Х-хорошо, я поняла.. Удачи там!"
+msgstr ""
+
+# game/scripts/quests/questSecretOfTheSilverDragon/rest_one_day.rpy:12 #-#-# translate crowdin rest_one_day_7126ec15:
+msgid "[_cedrick_] Спасибо"
+msgstr ""
+
