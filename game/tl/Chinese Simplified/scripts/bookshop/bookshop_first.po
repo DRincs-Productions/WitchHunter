@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-04-10 15:50\n"
+"PO-Revision-Date: 2024-04-10 17:21\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/bookshop_first.rpy:34 #-#-# translate crowdin bookshop_first_93d6c9e2:
 msgid "[_cedrick_sprite_] Кажется, что в Хезерфилде люди используют такие устройства для хранения своего рода бумажных денег. Как наивно ... Гораздо надежнее хранить золото под охраной в подземельях."
@@ -58,5 +58,5 @@ msgstr "[_塞德里克_] 《冰与火之歌》{i}系列的第一季{/i}，作者
 
 # game/scripts/bookshop/bookshop_first.rpy:64 #-#-# translate crowdin bookshop_first_59b43306:
 msgid "[_cedrick_sprite_] Звезда трибы, она должна привести ко мне наследницу трона."
-msgstr ""
+msgstr "[_塞德里克_] 部落之星，它能够指引你找到王位继承人."
 
