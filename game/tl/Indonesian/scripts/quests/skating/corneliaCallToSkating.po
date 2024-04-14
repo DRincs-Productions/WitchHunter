@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-01-30 13:24\n"
+"PO-Revision-Date: 2024-04-14 16:28\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/skating/corneliaCallToSkating.rpy:12 #-#-# translate crowdin corneliaCallToSkating_d4c2dcac:
 msgid "[_cornelia_] Привет, Рик!"
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:35 #-#-# translate crowdin corneliaCallToSkating_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:36 #-#-# translate crowdin corneliaCallToSkating_b1f1144e:
 msgid "[_cedrick_] Элион! Там, кажется, приехал грузовик с товаром. Ты не могла бы принять его?"
