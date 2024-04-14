@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-01-30 13:25\n"
+"PO-Revision-Date: 2024-04-14 16:29\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/handJobTarani.rpy:7 #-#-# translate crowdin handJobTarani_210ec95d:
 msgid "[_cedrick_] Приветствую вас, ученики. Надеюсь вы хорошенько отдохнули на выходных!"
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/scripts/quests/tarani/handJobTarani.rpy:21 #-#-# translate crowdin handJobTarani_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/tarani/handJobTarani.rpy:25 #-#-# translate crowdin handJobTarani_180dfdd7:
 msgid "[_tarani_] Вы чего-то хотели, Профессор Рик?"
