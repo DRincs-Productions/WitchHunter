@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-01-30 13:21\n"
+"PO-Revision-Date: 2024-04-14 16:27\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon3.rpy:6 #-#-# translate crowdin visit_alchemy_in_dungeon3_fef2fbf4:
 msgid "[_cedrick_sprite_] Ну как ты тут?"
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon3.rpy:41 #-#-# translate crowdin visit_alchemy_in_dungeon3_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon3.rpy:42 #-#-# translate crowdin visit_alchemy_in_dungeon3_5f9b772e:
 msgid "...."
