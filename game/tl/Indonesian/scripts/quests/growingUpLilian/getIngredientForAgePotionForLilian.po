@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-01-30 13:23\n"
+"PO-Revision-Date: 2024-04-14 16:28\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/getIngredientForAgePotionForLilian.rpy:5 #-#-# translate crowdin getIngredientForAgePotionForLilian_54034955:
 msgid "[_herald_] Ну что ж, ты выиграл... забирай цветок и проваливай! "
@@ -30,5 +30,5 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/getIngredientForAgePotionForLilian.rpy:9 #-#-# translate crowdin getIngredientForAgePotionForLilian_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
