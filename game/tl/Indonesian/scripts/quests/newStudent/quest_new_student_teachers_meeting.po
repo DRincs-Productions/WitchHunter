@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-01-30 13:23\n"
+"PO-Revision-Date: 2024-04-14 16:28\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:8 #-#-# translate crowdin quest_new_student_teachers_meeting_d9616179:
 msgid "[_physteacher_] Рик! Дружище, спасибо, что выручил в тот раз. Знатно я тогда перебрал.."
@@ -194,7 +194,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:152 #-#-# translate crowdin quest_new_student_teachers_meeting_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:153 #-#-# translate crowdin quest_new_student_teachers_meeting_5977d9d3:
 msgid "[_cedrick_] Миссис Никербокер, я бы с удовольствием отправился с учениками на гору Хезерфилд, если, конечно, вы позволите."
