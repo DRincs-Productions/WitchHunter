@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-01-30 13:24\n"
+"PO-Revision-Date: 2024-04-14 16:28\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:4 #-#-# translate crowdin conversation_with_guards_edb4f255:
 msgid "[_cedrick_] Дальше я сам, Булдж, спасибо. Как закончу я тебя вызову"
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:36 #-#-# translate crowdin conversation_with_guards_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:37 #-#-# translate crowdin conversation_with_guards_07bdde05:
 msgid "....."
@@ -394,7 +394,7 @@ msgstr ""
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:245 #-#-# translate crowdin itog_grade_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:248 #-#-# translate crowdin itog_grade_47b87a05:
 msgid "[_will_] Как на счет этого, Рик!?"
