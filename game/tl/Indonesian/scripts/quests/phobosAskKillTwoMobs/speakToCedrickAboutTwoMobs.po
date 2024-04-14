@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-01-30 13:23\n"
+"PO-Revision-Date: 2024-04-14 16:28\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:9 #-#-# translate crowdin speakToCedrickAboutTwoMobs_3dd11241:
 msgid "[_cedrick_] Мой князь! Я выполнил ваше задание! Они согласны служить вам."
@@ -46,5 +46,5 @@ msgstr ""
 
 # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:40 #-#-# translate crowdin speakToCedrickAboutTwoMobs_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
