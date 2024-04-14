@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-01-30 13:20\n"
+"PO-Revision-Date: 2024-04-14 16:27\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/interface/phone/labels/call_thomas.rpy:3 #-#-# translate crowdin call_thomas_f6a091b6:
 msgid "Вам нужно минимум 100$ чтобы предложить ему поиграть."
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/scripts/interface/phone/labels/call_thomas.rpy:6 #-#-# translate crowdin call_thomas_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/interface/phone/labels/call_thomas.rpy:7 #-#-# translate crowdin call_thomas_c82d55e5:
 msgid "[_cedrick_sprite_] Привет. Ну что, ты готов сыграть?"
