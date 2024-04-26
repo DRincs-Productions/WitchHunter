@@ -10,18 +10,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-01-30 13:19\n"
+"PO-Revision-Date: 2024-04-26 10:42\n"
 
-# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/core/UpdateInfo.rpy:272 #-#-# translate crowdin update_info_end_label_ab20a80b:
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/core/UpdateInfo.rpy:272 #-#-# translate crowdin update_info_end_label_ab20a80b:
 msgid "Конец версии [config.version]"
 msgstr ""
 
 # §translate crowdin strings: #|#|# # game/scripts/core/UpdateInfo.rpy:176
 msgid "Продолжить"
-msgstr ""
-
-# game/scripts/core/UpdateInfo.rpy:179
-msgid "Вернуться в главное меню"
 msgstr ""
 
 # game/scripts/core/UpdateInfo.rpy:199
