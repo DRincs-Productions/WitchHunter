@@ -10,10 +10,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-11 09:26\n"
+"PO-Revision-Date: 2024-04-26 10:48\n"
 
-# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/map/map.rpy:108 #-#-# translate crowdin map_59b5a4ee:
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/map/map.rpy:110 #-#-# translate crowdin map_59b5a4ee:
 msgid "[_cedrick_] (А теперь зайдем-ка в Серебряный дракон)"
+msgstr ""
+
+# game/scripts/map/map.rpy:114 #-#-# translate crowdin map_006f5390:
+msgid "[_cedrick_] (Отлично, посылка для Вилл у меня, подарки тоже. Возвращаемся домой)"
 msgstr ""
 
 # §translate crowdin strings: #|#|# # game/scripts/map/map.rpy:10
