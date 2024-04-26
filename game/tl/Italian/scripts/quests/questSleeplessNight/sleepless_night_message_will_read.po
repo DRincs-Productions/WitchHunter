@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 14:48\n"
+"PO-Revision-Date: 2024-04-26 16:12\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/quests/questSleeplessNight/sleepless_night_message_will_read.rpy:4
 msgid "Может в другой раз, Вилл. Сейчас у меня много дел"
@@ -22,5 +22,5 @@ msgstr ":с"
 
 # game/scripts/quests/questSleeplessNight/sleepless_night_message_will_read.rpy:14
 msgid "Окей. Но если что заходи, дверь будет открыта"
-msgstr ""
+msgstr "Ok. Ma se avete bisogno di entrare, la porta sarà aperta"
 
