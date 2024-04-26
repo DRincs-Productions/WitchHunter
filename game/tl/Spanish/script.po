@@ -10,17 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:12\n"
+"PO-Revision-Date: 2024-04-26 10:39\n"
 
-# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:175
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:182
+msgid "Начать с нового контента (0.21)"
+msgstr ""
+
+# game/script.rpy:182
+msgid "Начать с начала"
+msgstr ""
+
+# game/script.rpy:182
+msgid "Назад"
+msgstr "Atrás"
+
+# game/script.rpy:192
 msgid "Играть с читами"
 msgstr "Jugar con trampas"
 
-# game/script.rpy:175
+# game/script.rpy:192
 msgid "Играть без читов"
 msgstr "Jugar sin trampas"
-
-# game/script.rpy:175
-msgid "Назад"
-msgstr "Atrás"
 
