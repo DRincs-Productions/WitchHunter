@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 11:11\n"
+"PO-Revision-Date: 2024-04-26 14:48\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:162 #-#-# translate crowdin podskazka_f6227483:
 msgid "Следующая мини игра представляет из себя некое подобие мини игры из старых флеш игр и вероятно вы могли уже сталкивался с подобным."
-msgstr ""
+msgstr "Il seguente minigioco è un tipo di minigioco di vecchi giochi in flash e probabilmente ne avete già incontrati di simili."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:163 #-#-# translate crowdin podskazka_f5b15ec8:
 msgid "На экране у вас присутствует Триггер который управляется игроком путем нажатия. Раннер который перемещается случайным образом в верх или низ с разной скоростью. И шкала возбуждения Седрика которая заполняется если раннер убегает из зоны триггера."
-msgstr ""
+msgstr "Sullo schermo è presente un Trigger che viene controllato dal giocatore premendolo. Un corridore che si muove in modo casuale verso l'alto o verso il basso a velocità diverse. E la scala di eccitazione di Cedric, che si riempie se il corridore esce dalla zona di attivazione."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:166 #-#-# translate crowdin podskazka_9056b119:
 msgid "Единственное что может контролировать игрок это поднятие триггера который поднимается если вы быстро кликаете по экрану левой кнопкой мыши или быстро нажмите пальцем по экрану в случае игры на Андроид устройствах. Если же ничего не нажимать триггер опускается."
-msgstr ""
+msgstr "L'unica cosa che il giocatore può controllare è il grilletto, che si alza se si clicca rapidamente sullo schermo con il tasto sinistro del mouse o se si tocca rapidamente il dito sullo schermo nel caso del gioco su dispositivi Android. Se non si preme nulla, il grilletto si abbassa."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:169 #-#-# translate crowdin podskazka_5a3b64c1:
 msgid "Ваша задача сделать так чтобы триггер большую часть времени находился внутри раннера который будет менять свое местоположение, и тем самым не допустить заполнения шкалы возбуждения Седрика в течении отведенного времени. Если же шкала возбуждения заполнится до конца вы проиграете!"
-msgstr ""
+msgstr "Il vostro compito è quello di far scattare l'innesco per la maggior parte del tempo per essere all'interno del corridore, che cambierà la sua posizione, e quindi impedire che la scala dell'eccitazione di Cedric si riempia durante il tempo assegnato. Se la scala dell'eccitazione si riempie fino alla fine, perderete!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:170 #-#-# translate crowdin podskazka_26f7e424:
 msgid "Удачной игры!"
@@ -350,7 +350,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:359 #-#-# translate crowdin gallery_d_102_5220aece:
 msgid "[_susan_] ....."
-msgstr ""
+msgstr "[_susan_] ....."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:363 #-#-# translate crowdin gallery_d_102_8fba1ecf:
 msgid "[_will_] ....."
