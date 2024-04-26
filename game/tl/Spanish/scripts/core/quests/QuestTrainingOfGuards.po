@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/core/quests/QuestTrainingOfGuards.po\n"
+"X-Crowdin-File-ID: 13012\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2024-04-26 11:10\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestTrainingOfGuards.rpy:3
+msgid "Подготовка стражниц завесы"
+msgstr ""
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Обсудить план с Мирандой и Булджем в лаборатории Миранды"
+msgstr ""
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Отправится к Фобосу в тронный зал"
+msgstr ""
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Проверить Вилл в темнице"
+msgstr ""
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Вернуться к Миранде"
+msgstr ""
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Заглянуть в темницу к Ирме"
+msgstr ""
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Снова отправится к Фобосу в тронный зал"
+msgstr ""
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Проверить Ирму и Тарани в казармах"
+msgstr ""
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Навестить Корнелию и Хай Лин в борделе"
+msgstr ""
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Явиться к Фобосу"
+msgstr ""
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Вернуться в бордель"
+msgstr ""
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Собрать стражниц в борделе"
+msgstr ""
+
