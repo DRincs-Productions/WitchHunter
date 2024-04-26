@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/main_menu/preferences/preferences.rpy:7
+﻿# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/main_menu/preferences/preferences.rpy:7
 msgid "Русский"
 msgstr "Русский"
 
@@ -81,10 +81,6 @@ msgstr "Voice sustain"
 # game/scripts/main_menu/preferences/preferences.rpy:233
 msgid "FPS анимаций ([fps])"
 msgstr "FPS анимаций ([fps])"
-
-# game/scripts/main_menu/preferences/preferences.rpy:238
-msgid "Применить"
-msgstr "Применить"
 
 # game/scripts/main_menu/preferences/preferences.rpy:252
 msgid "Ожидать загрузку боя"

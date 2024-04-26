@@ -1,14 +1,10 @@
-﻿# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/characters.rpy:9
+﻿# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/characters.rpy:9
 msgid "Продавец"
 msgstr "Продавец"
 
 # game/scripts/sell_books_game/characters.rpy:17
 msgid "Князь Фобос"
 msgstr "Князь Фобос"
-
-# game/scripts/sell_books_game/characters.rpy:25
-msgid "Миранда"
-msgstr "Миранда"
 
 # game/scripts/sell_books_game/characters.rpy:32
 msgid "Элион"
@@ -63,334 +59,354 @@ msgid "Солдат 3"
 msgstr "Солдат 3"
 
 # game/scripts/sell_books_game/characters.rpy:203
+msgid "Солдат 4"
+msgstr "Солдат 4"
+
+# game/scripts/sell_books_game/characters.rpy:211
+msgid "Солдат 5"
+msgstr "Солдат 5"
+
+# game/scripts/sell_books_game/characters.rpy:219
+msgid "Солдат 6"
+msgstr "Солдат 6"
+
+# game/scripts/sell_books_game/characters.rpy:227
+msgid "Дрункард"
+msgstr "Дрункард"
+
+# game/scripts/sell_books_game/characters.rpy:235
 msgid "Алхими"
 msgstr "Алхими"
 
-# game/scripts/sell_books_game/characters.rpy:211
+# game/scripts/sell_books_game/characters.rpy:243
 msgid "Ума"
 msgstr "Ума"
 
-# game/scripts/sell_books_game/characters.rpy:219
+# game/scripts/sell_books_game/characters.rpy:251
 msgid "Проститутка"
 msgstr "Проститутка"
 
-# game/scripts/sell_books_game/characters.rpy:226
+# game/scripts/sell_books_game/characters.rpy:258
 msgid "Бармен"
 msgstr "Бармен"
 
-# game/scripts/sell_books_game/characters.rpy:240
+# game/scripts/sell_books_game/characters.rpy:272
 msgid "Рыцарь"
 msgstr "Рыцарь"
 
-# game/scripts/sell_books_game/characters.rpy:247
+# game/scripts/sell_books_game/characters.rpy:279
 msgid "Джинк"
 msgstr "Джинк"
 
-# game/scripts/sell_books_game/characters.rpy:254
+# game/scripts/sell_books_game/characters.rpy:286
 msgid "Кортни"
 msgstr "Кортни"
 
-# game/scripts/sell_books_game/characters.rpy:261
+# game/scripts/sell_books_game/characters.rpy:293
 msgid "Бэсс"
 msgstr "Бэсс"
 
-# game/scripts/sell_books_game/characters.rpy:275
+# game/scripts/sell_books_game/characters.rpy:307
 msgid "Незнакомец"
 msgstr "Незнакомец"
 
-# game/scripts/sell_books_game/characters.rpy:282
+# game/scripts/sell_books_game/characters.rpy:314
 msgid "Колинз"
 msgstr "Колинз"
 
-# game/scripts/sell_books_game/characters.rpy:289
+# game/scripts/sell_books_game/characters.rpy:321
 msgid "Томас Вендом"
 msgstr "Томас Вендом"
 
-# game/scripts/sell_books_game/characters.rpy:296
+# game/scripts/sell_books_game/characters.rpy:328
 msgid "Миссис Никербокер"
 msgstr "Миссис Никербокер"
 
-# game/scripts/sell_books_game/characters.rpy:310
+# game/scripts/sell_books_game/characters.rpy:342
 msgid "Найджел"
 msgstr "Найджел"
 
-# game/scripts/sell_books_game/characters.rpy:317
+# game/scripts/sell_books_game/characters.rpy:349
 msgid "Парень"
 msgstr "Парень"
 
-# game/scripts/sell_books_game/characters.rpy:324
+# game/scripts/sell_books_game/characters.rpy:356
 msgid "Парень2"
 msgstr "Парень2"
 
-# game/scripts/sell_books_game/characters.rpy:364
+# game/scripts/sell_books_game/characters.rpy:396
 msgid "Мартин"
 msgstr "Мартин"
 
-# game/scripts/sell_books_game/characters.rpy:371
+# game/scripts/sell_books_game/characters.rpy:403
 msgid "Хай Лин"
 msgstr "Хай Лин"
 
-# game/scripts/sell_books_game/characters.rpy:377
+# game/scripts/sell_books_game/characters.rpy:409
 msgid "Класс"
 msgstr "Класс"
 
-# game/scripts/sell_books_game/characters.rpy:383
+# game/scripts/sell_books_game/characters.rpy:415
 msgid "Женский Голос"
 msgstr "Женский Голос"
 
-# game/scripts/sell_books_game/characters.rpy:390
+# game/scripts/sell_books_game/characters.rpy:422
 msgid "Женщина"
 msgstr "Женщина"
 
-# game/scripts/sell_books_game/characters.rpy:397
+# game/scripts/sell_books_game/characters.rpy:429
 msgid "Тереза"
 msgstr "Тереза"
 
-# game/scripts/sell_books_game/characters.rpy:404
+# game/scripts/sell_books_game/characters.rpy:436
 msgid "Лилиан"
 msgstr "Лилиан"
 
-# game/scripts/sell_books_game/characters.rpy:411
+# game/scripts/sell_books_game/characters.rpy:443
 msgid "Калеб"
 msgstr "Калеб"
 
-# game/scripts/sell_books_game/characters.rpy:418
+# game/scripts/sell_books_game/characters.rpy:450
 msgid "Продавец билетов"
 msgstr "Продавец билетов"
 
-# game/scripts/sell_books_game/characters.rpy:439
+# game/scripts/sell_books_game/characters.rpy:471
 msgid "Гордон"
 msgstr "Гордон"
 
-# game/scripts/sell_books_game/characters.rpy:445
+# game/scripts/sell_books_game/characters.rpy:477
 msgid "Анна"
 msgstr "Анна"
 
-# game/scripts/sell_books_game/characters.rpy:452
+# game/scripts/sell_books_game/characters.rpy:484
 msgid "ERROR"
 msgstr "ERROR"
 
-# game/scripts/sell_books_game/characters.rpy:459
+# game/scripts/sell_books_game/characters.rpy:491
 msgid "Рейтер"
 msgstr "Рейтер"
 
-# game/scripts/sell_books_game/characters.rpy:465
+# game/scripts/sell_books_game/characters.rpy:497
 msgid "Старик"
 msgstr "Старик"
 
-# game/scripts/sell_books_game/characters.rpy:472
+# game/scripts/sell_books_game/characters.rpy:504
 msgid "Посетитель 1"
 msgstr "Посетитель 1"
 
-# game/scripts/sell_books_game/characters.rpy:478
+# game/scripts/sell_books_game/characters.rpy:510
 msgid "Посетитель 2"
 msgstr "Посетитель 2"
 
-# game/scripts/sell_books_game/characters.rpy:484
+# game/scripts/sell_books_game/characters.rpy:516
 msgid "Посетитель 3"
 msgstr "Посетитель 3"
 
-# game/scripts/sell_books_game/characters.rpy:490
+# game/scripts/sell_books_game/characters.rpy:522
 msgid "Посетитель 4"
 msgstr "Посетитель 4"
 
-# game/scripts/sell_books_game/characters.rpy:496
+# game/scripts/sell_books_game/characters.rpy:528
 msgid "Эрик"
 msgstr "Эрик"
 
-# game/scripts/sell_books_game/characters.rpy:502
+# game/scripts/sell_books_game/characters.rpy:534
 msgid "Болельщица 1"
 msgstr "Болельщица 1"
 
-# game/scripts/sell_books_game/characters.rpy:508
+# game/scripts/sell_books_game/characters.rpy:540
 msgid "Болельщица 2"
 msgstr "Болельщица 2"
 
-# game/scripts/sell_books_game/characters.rpy:514
+# game/scripts/sell_books_game/characters.rpy:546
 msgid "Урия"
 msgstr "Урия"
 
-# game/scripts/sell_books_game/characters.rpy:520
+# game/scripts/sell_books_game/characters.rpy:552
 msgid "Чень Лин"
 msgstr "Чень Лин"
 
-# game/scripts/sell_books_game/characters.rpy:533
+# game/scripts/sell_books_game/characters.rpy:565
 msgid "Амалия"
 msgstr "Амалия"
 
-# game/scripts/sell_books_game/characters.rpy:541
+# game/scripts/sell_books_game/characters.rpy:573
 msgid "Евангелина"
 msgstr "Евангелина"
 
-# game/scripts/sell_books_game/characters.rpy:548
+# game/scripts/sell_books_game/characters.rpy:580
 msgid "Сондра"
 msgstr "Сондра"
 
-# game/scripts/sell_books_game/characters.rpy:555
+# game/scripts/sell_books_game/characters.rpy:587
 msgid "Мистер Бартон"
 msgstr "Мистер Бартон"
 
-# game/scripts/sell_books_game/characters.rpy:562
+# game/scripts/sell_books_game/characters.rpy:594
 msgid "Учитель математики"
 msgstr "Учитель математики"
 
-# game/scripts/sell_books_game/characters.rpy:569
+# game/scripts/sell_books_game/characters.rpy:601
 msgid "Учителя"
 msgstr "Учителя"
 
-# game/scripts/sell_books_game/characters.rpy:576
+# game/scripts/sell_books_game/characters.rpy:608
 msgid "Мэтт Олсен"
 msgstr "Мэтт Олсен"
 
-# game/scripts/sell_books_game/characters.rpy:583
+# game/scripts/sell_books_game/characters.rpy:615
 msgid "Вилл и Сондра"
 msgstr "Вилл и Сондра"
 
-# game/scripts/sell_books_game/characters.rpy:590
+# game/scripts/sell_books_game/characters.rpy:622
 msgid "Спасатели"
 msgstr "Спасатели"
 
-# game/scripts/sell_books_game/characters.rpy:597
-msgid "Ванесса"
-msgstr "Ванесса"
-
-# game/scripts/sell_books_game/characters.rpy:604
+# game/scripts/sell_books_game/characters.rpy:636
 msgid "Хлоя"
 msgstr "Хлоя"
 
-# game/scripts/sell_books_game/characters.rpy:611
+# game/scripts/sell_books_game/characters.rpy:650
 msgid "Королева морпионов"
 msgstr "Королева морпионов"
 
-# game/scripts/sell_books_game/characters.rpy:618
+# game/scripts/sell_books_game/characters.rpy:657
 msgid "Томас Браун"
 msgstr "Томас Браун"
 
-# game/scripts/sell_books_game/characters.rpy:625
+# game/scripts/sell_books_game/characters.rpy:664
 msgid "Элеонор Браун"
 msgstr "Элеонор Браун"
 
-# game/scripts/sell_books_game/characters.rpy:632
+# game/scripts/sell_books_game/characters.rpy:671
 msgid "Альборн"
 msgstr "Альборн"
 
-# game/scripts/sell_books_game/characters.rpy:639
+# game/scripts/sell_books_game/characters.rpy:678
 msgid "Мириадель"
 msgstr "Мириадель"
 
-# game/scripts/sell_books_game/characters.rpy:646
+# game/scripts/sell_books_game/characters.rpy:685
 msgid "Хулиган 1"
 msgstr "Хулиган 1"
 
-# game/scripts/sell_books_game/characters.rpy:653
+# game/scripts/sell_books_game/characters.rpy:692
 msgid "Хулиган 2"
 msgstr "Хулиган 2"
 
-# game/scripts/sell_books_game/characters.rpy:660
+# game/scripts/sell_books_game/characters.rpy:699
 msgid "Раненый воин"
 msgstr "Раненый воин"
 
-# game/scripts/sell_books_game/characters.rpy:667
+# game/scripts/sell_books_game/characters.rpy:706
 msgid "Король морпионов"
 msgstr "Король морпионов"
 
-# game/scripts/sell_books_game/characters.rpy:674
+# game/scripts/sell_books_game/characters.rpy:713
 msgid "Юный принц Фобос"
 msgstr "Юный принц Фобос"
 
-# game/scripts/sell_books_game/characters.rpy:682
+# game/scripts/sell_books_game/characters.rpy:721
 msgid "Юный Седрик"
 msgstr "Юный Седрик"
 
-# game/scripts/sell_books_game/characters.rpy:689
+# game/scripts/sell_books_game/characters.rpy:728
 msgid "Солдаты"
 msgstr "Солдаты"
 
-# game/scripts/sell_books_game/characters.rpy:697
-msgid "Булдж"
-msgstr "Булдж"
-
-# game/scripts/sell_books_game/characters.rpy:704
+# game/scripts/sell_books_game/characters.rpy:743
 msgid "Сержант"
 msgstr "Сержант"
 
-# game/scripts/sell_books_game/characters.rpy:711
+# game/scripts/sell_books_game/characters.rpy:750
 msgid "Заключенная"
 msgstr "Заключенная"
 
-# game/scripts/sell_books_game/characters.rpy:718
+# game/scripts/sell_books_game/characters.rpy:757
 msgid "Пейн"
 msgstr "Пейн"
 
-# game/scripts/sell_books_game/characters.rpy:735
+# game/scripts/sell_books_game/characters.rpy:774
 msgid "Мужчина"
 msgstr "Мужчина"
 
-# game/scripts/sell_books_game/characters.rpy:744
+# game/scripts/sell_books_game/characters.rpy:783
 msgid "Охранник"
 msgstr "Охранник"
 
-# game/scripts/sell_books_game/characters.rpy:752
+# game/scripts/sell_books_game/characters.rpy:791
 msgid "Охранник 1"
 msgstr "Охранник 1"
 
-# game/scripts/sell_books_game/characters.rpy:761
+# game/scripts/sell_books_game/characters.rpy:800
 msgid "Охранник 2"
 msgstr "Охранник 2"
 
-# game/scripts/sell_books_game/characters.rpy:769
+# game/scripts/sell_books_game/characters.rpy:808
 msgid "Роб"
 msgstr "Роб"
 
-# game/scripts/sell_books_game/characters.rpy:777
+# game/scripts/sell_books_game/characters.rpy:816
 msgid "Боб"
 msgstr "Боб"
 
-# game/scripts/sell_books_game/characters.rpy:785
+# game/scripts/sell_books_game/characters.rpy:824
 msgid "Гордон в телефоне"
 msgstr "Гордон в телефоне"
 
-# game/scripts/sell_books_game/characters.rpy:793
+# game/scripts/sell_books_game/characters.rpy:832
 msgid "Тереза в телефоне"
 msgstr "Тереза в телефоне"
 
-# game/scripts/sell_books_game/characters.rpy:801
+# game/scripts/sell_books_game/characters.rpy:840
 msgid "Посетитель ресторана 1"
 msgstr "Посетитель ресторана 1"
 
-# game/scripts/sell_books_game/characters.rpy:809
+# game/scripts/sell_books_game/characters.rpy:848
 msgid "Посетитель ресторана 2"
 msgstr "Посетитель ресторана 2"
 
-# game/scripts/sell_books_game/characters.rpy:817
+# game/scripts/sell_books_game/characters.rpy:856
 msgid "Посетитель ресторана 3"
 msgstr "Посетитель ресторана 3"
 
-# game/scripts/sell_books_game/characters.rpy:825
+# game/scripts/sell_books_game/characters.rpy:864
 msgid "Посетитель ресторана 4"
 msgstr "Посетитель ресторана 4"
 
-# game/scripts/sell_books_game/characters.rpy:833
+# game/scripts/sell_books_game/characters.rpy:872
 msgid "Посетитель ресторана 5"
 msgstr "Посетитель ресторана 5"
 
-# game/scripts/sell_books_game/characters.rpy:841
+# game/scripts/sell_books_game/characters.rpy:880
 msgid "Посетитель ресторана 6"
 msgstr "Посетитель ресторана 6"
 
-# game/scripts/sell_books_game/characters.rpy:849
+# game/scripts/sell_books_game/characters.rpy:888
 msgid "Посетитель ресторана 7"
 msgstr "Посетитель ресторана 7"
 
-# game/scripts/sell_books_game/characters.rpy:857
+# game/scripts/sell_books_game/characters.rpy:896
 msgid "Посетитель ресторана 8"
 msgstr "Посетитель ресторана 8"
 
-# game/scripts/sell_books_game/characters.rpy:864
+# game/scripts/sell_books_game/characters.rpy:903
 msgid "Сильвио Данте"
 msgstr "Сильвио Данте"
 
-# game/scripts/sell_books_game/characters.rpy:871
+# game/scripts/sell_books_game/characters.rpy:910
 msgid "Лилит"
 msgstr "Лилит"
+
+# game/scripts/sell_books_game/characters.rpy:917
+msgid "Курт"
+msgstr "Курт"
+
+# game/scripts/sell_books_game/characters.rpy:924
+msgid "Лоурент"
+msgstr "Лоурент"
+
+# game/scripts/sell_books_game/characters.rpy:931
+msgid "Рыжая девушка"
+msgstr "Рыжая девушка"
 
