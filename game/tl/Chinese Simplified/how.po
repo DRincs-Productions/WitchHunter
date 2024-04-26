@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-"Если вам понравился наш проект, вы можете поддержать нас и получать больше эксклюзивных новостей по игре по данным ссылкам:\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: witch-hunter\n"
 "X-Crowdin-Project-ID: 557133\n"
@@ -11,25 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-11 09:12\n"
+"PO-Revision-Date: 2024-04-26 10:38\n"
 
-# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/how.rpy:94
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/how.rpy:98
+msgid "На этом версия [config.version] заканчивается."
+msgstr ""
+
+# game/how.rpy:104
 msgid "Если вам понравился наш проект, вы можете поддержать нас и получать больше эксклюзивных новостей по игре по данным ссылкам:"
 msgstr "如果您喜欢我们的项目，可以通过以下链接支持我们并获得更多关于游戏的独家新闻："
 
-# game/how.rpy:109
+# game/how.rpy:119
 msgid "Наш Patreon"
 msgstr "我们的赞助人"
 
-# game/how.rpy:112
+# game/how.rpy:122
 msgid "Наш Subscribestar"
 msgstr "我们的订阅者"
 
-# game/how.rpy:115
+# game/how.rpy:125
 msgid "Наш itch.io"
 msgstr "我们的 itch.io"
 
-# game/how.rpy:118
+# game/how.rpy:128
 msgid "Наш Boosty"
 msgstr "我们的 Boosty"
 
