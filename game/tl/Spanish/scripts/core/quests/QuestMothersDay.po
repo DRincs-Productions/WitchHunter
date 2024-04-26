@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/core/quests/QuestMothersDay.po\n"
+"X-Crowdin-File-ID: 13008\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2024-04-26 11:10\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestMothersDay.rpy:8
+msgid "День матери"
+msgstr ""
+
+# game/scripts/core/quests/QuestMothersDay.rpy:25
+msgid "Забрать посылку для Вилл"
+msgstr ""
+
+# game/scripts/core/quests/QuestMothersDay.rpy:25
+msgid "Купить раскошное колье для Сьюзан"
+msgstr ""
+
+# game/scripts/core/quests/QuestMothersDay.rpy:25
+msgid "Купить Эротическое кружевное белье для Сьюзан"
+msgstr ""
+
+# game/scripts/core/quests/QuestMothersDay.rpy:25
+msgid "Вернуться в дом Вэндомов"
+msgstr ""
+
+# game/scripts/core/quests/QuestMothersDay.rpy:25
+msgid "Встретиться с Элион в книжном магазине"
+msgstr ""
+
