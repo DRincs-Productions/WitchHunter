@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-11 10:14\n"
+"PO-Revision-Date: 2024-04-26 11:04\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:10 #-#-# translate crowdin askBlankAboutSpyingOnNigel_1913d733:
 msgid "[_cedrick_sprite_] У меня опять к тебе дело, челядь!"
@@ -62,7 +62,7 @@ msgstr ""
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:23 #-#-# translate crowdin askBlankAboutSpyingOnNigel_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:24 #-#-# translate crowdin askBlankAboutSpyingOnNigel_af41b674:
 msgid "[_cedrick_sprite_] (Фотоаппарат можно купить в магазине у вокзала..)"
