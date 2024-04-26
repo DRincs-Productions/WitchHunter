@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:56
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 translate crowdin strings:
 
@@ -6,11 +6,7 @@ translate crowdin strings:
     old "Легковерная Корнелия"
     new "Легковерная Корнелия"
 
-    # game/scripts/core/quests/QuestCredulousCornelia.rpy:12
-    old "Обманом заманить Корнелию на Мередиан"
-    new "Обманом заманить Корнелию на Мередиан"
-
-    # game/scripts/core/quests/QuestCredulousCornelia.rpy:12
+    # game/scripts/core/quests/QuestCredulousCornelia.rpy:11
     old "Посетить Корнелию в темнице на меридиане"
     new "Посетить Корнелию в темнице на меридиане"
 

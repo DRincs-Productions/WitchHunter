@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/quests/irma/fuckIrma.rpy:13
 translate crowdin fuckIrma_df80b5ca:
@@ -216,602 +216,602 @@ translate crowdin fuckIrma_e88b9393:
     # cedrick "Кажется, прошло уже достаточно времени, пора возвращаться, скоро они должны закончить..."
     cedrick "Кажется, прошло уже достаточно времени, пора возвращаться, скоро они должны закончить..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:122
-translate crowdin fuckIrma_63168503:
+# game/scripts/quests/irma/fuckIrma.rpy:123
+translate crowdin gallery_d_007_63168503:
 
     # cedrick "Ну как вы тут? Все сделали?"
     cedrick "Ну как вы тут? Все сделали?"
 
-# game/scripts/quests/irma/fuckIrma.rpy:125
-translate crowdin fuckIrma_0bff6308:
+# game/scripts/quests/irma/fuckIrma.rpy:126
+translate crowdin gallery_d_007_0bff6308:
 
     # irma "Я как раз закончила свою часть! Можно мне уже пойти домой?"
     irma "Я как раз закончила свою часть! Можно мне уже пойти домой?"
 
-# game/scripts/quests/irma/fuckIrma.rpy:129
-translate crowdin fuckIrma_89734f8f:
+# game/scripts/quests/irma/fuckIrma.rpy:130
+translate crowdin gallery_d_007_89734f8f:
 
     # cedrick "Так, посмотрим... Адам де ла Аль.. Вершинин.. Шекспир.."
     cedrick "Так, посмотрим... Адам де ла Аль.. Вершинин.. Шекспир.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:130
-translate crowdin fuckIrma_5c3520e8:
+# game/scripts/quests/irma/fuckIrma.rpy:131
+translate crowdin gallery_d_007_5c3520e8:
 
     # cedrick "Действительно.. И в правду закончила.."
     cedrick "Действительно.. И в правду закончила.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:131
-translate crowdin fuckIrma_e9e500b9:
+# game/scripts/quests/irma/fuckIrma.rpy:132
+translate crowdin gallery_d_007_e9e500b9:
 
     # cedrick "Можешь идти, вот только.. Я оставил вас тут двоих.. Я не думаю, что вы оба читаете Торнтона Уайлдера или Достоевского, но все-же.. Покажите мне свои сумки, чтобы я был спокоен. Простая предосторожность, я едва свожу концы с концами, не поймите меня неправильно."
     cedrick "Можешь идти, вот только.. Я оставил вас тут двоих.. Я не думаю, что вы оба читаете Торнтона Уайлдера или Достоевского, но все-же.. Покажите мне свои сумки, чтобы я был спокоен. Простая предосторожность, я едва свожу концы с концами, не поймите меня неправильно."
 
-# game/scripts/quests/irma/fuckIrma.rpy:135
-translate crowdin fuckIrma_1de6314d:
+# game/scripts/quests/irma/fuckIrma.rpy:136
+translate crowdin gallery_d_007_1de6314d:
 
     # irma "Вы думаете, что мы могли что-то украсть?"
     irma "Вы думаете, что мы могли что-то украсть?"
 
-# game/scripts/quests/irma/fuckIrma.rpy:139
-translate crowdin fuckIrma_5a4c47bd:
+# game/scripts/quests/irma/fuckIrma.rpy:140
+translate crowdin gallery_d_007_5a4c47bd:
 
     # cedrick "Просто хочу убедиться в обратном, на всякий случай..."
     cedrick "Просто хочу убедиться в обратном, на всякий случай..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:143
-translate crowdin fuckIrma_1bc39210:
+# game/scripts/quests/irma/fuckIrma.rpy:144
+translate crowdin gallery_d_007_1bc39210:
 
     # irma "Да пожалуйста.. Смотрите.."
     irma "Да пожалуйста.. Смотрите.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:147
-translate crowdin fuckIrma_a20cefa7_5:
+# game/scripts/quests/irma/fuckIrma.rpy:148
+translate crowdin gallery_d_007_a20cefa7:
 
     # "..."
     "..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:151
-translate crowdin fuckIrma_5f9b772e:
+# game/scripts/quests/irma/fuckIrma.rpy:152
+translate crowdin gallery_d_007_5f9b772e:
 
     # "...."
     "...."
 
-# game/scripts/quests/irma/fuckIrma.rpy:152
-translate crowdin fuckIrma_3d1329a9:
+# game/scripts/quests/irma/fuckIrma.rpy:153
+translate crowdin gallery_d_007_3d1329a9:
 
     # cedrick " Ну и что это делает у тебя в рюкзаке?"
     cedrick " Ну и что это делает у тебя в рюкзаке?"
 
-# game/scripts/quests/irma/fuckIrma.rpy:156
-translate crowdin fuckIrma_67df46fa:
+# game/scripts/quests/irma/fuckIrma.rpy:157
+translate crowdin gallery_d_007_67df46fa:
 
     # irma "Я.. Я не брала.. Это не мое!"
     irma "Я.. Я не брала.. Это не мое!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:160
-translate crowdin fuckIrma_52680fbe:
+# game/scripts/quests/irma/fuckIrma.rpy:161
+translate crowdin gallery_d_007_52680fbe:
 
     # cedrick "Я знаю, что не твое, это ограниченное издание.. Я приобрел эту статуэтку неделю назад!"
     cedrick "Я знаю, что не твое, это ограниченное издание.. Я приобрел эту статуэтку неделю назад!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:161
-translate crowdin fuckIrma_a98b1c6c:
+# game/scripts/quests/irma/fuckIrma.rpy:162
+translate crowdin gallery_d_007_a98b1c6c:
 
     # cedrick "Значит, моя интуиция не подвела меня.. Ты решила обокрасть меня..."
     cedrick "Значит, моя интуиция не подвела меня.. Ты решила обокрасть меня..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:165
-translate crowdin fuckIrma_c3d38486:
+# game/scripts/quests/irma/fuckIrma.rpy:166
+translate crowdin gallery_d_007_c3d38486:
 
     # irma "Это какое-то недоразумение! Я ничего не брала... "
     irma "Это какое-то недоразумение! Я ничего не брала... "
 
-# game/scripts/quests/irma/fuckIrma.rpy:169
-translate crowdin fuckIrma_90a315be:
+# game/scripts/quests/irma/fuckIrma.rpy:170
+translate crowdin gallery_d_007_90a315be:
 
     # irma "Не понимаю, как это могло оказаться у меня в рюкзаке.. Я даже и не коллекционирую ничего.. Честно.. Я не брала статуэтку!"
     irma "Не понимаю, как это могло оказаться у меня в рюкзаке.. Я даже и не коллекционирую ничего.. Честно.. Я не брала статуэтку!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:170
-translate crowdin fuckIrma_66cf389e:
+# game/scripts/quests/irma/fuckIrma.rpy:171
+translate crowdin gallery_d_007_66cf389e:
 
     # cedrick "Так, сделай тон ниже и давай отойдем подальше, если ты конечно не хочешь, чтобы твой одноклассник Мартин не узнал, что ты воровка..."
     cedrick "Так, сделай тон ниже и давай отойдем подальше, если ты конечно не хочешь, чтобы твой одноклассник Мартин не узнал, что ты воровка..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:173
-translate crowdin fuckIrma_a20cefa7_6:
+# game/scripts/quests/irma/fuckIrma.rpy:174
+translate crowdin gallery_d_007_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:176
-translate crowdin fuckIrma_a20cefa7_7:
+# game/scripts/quests/irma/fuckIrma.rpy:177
+translate crowdin gallery_d_007_a20cefa7_2:
 
     # "..."
     "..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:179
-translate crowdin fuckIrma_a40212c4:
+# game/scripts/quests/irma/fuckIrma.rpy:180
+translate crowdin gallery_d_007_a40212c4:
 
     # cedrick "Директриса любезно попросила меня предоставить вам эти места для того, чтобы вам не пришлось убираться в какой-нибудь канализации, а ты значит решила меня обворовать."
     cedrick "Директриса любезно попросила меня предоставить вам эти места для того, чтобы вам не пришлось убираться в какой-нибудь канализации, а ты значит решила меня обворовать."
 
-# game/scripts/quests/irma/fuckIrma.rpy:183
-translate crowdin fuckIrma_2fb3f626:
+# game/scripts/quests/irma/fuckIrma.rpy:184
+translate crowdin gallery_d_007_2fb3f626:
 
     # irma "Но я не делала этого! Должно быть это какая-то глупая шутка Мартина!"
     irma "Но я не делала этого! Должно быть это какая-то глупая шутка Мартина!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:187
-translate crowdin fuckIrma_5e07014d:
+# game/scripts/quests/irma/fuckIrma.rpy:188
+translate crowdin gallery_d_007_5e07014d:
 
     # cedrick "Не надо перекладывать свою вину на других!"
     cedrick "Не надо перекладывать свою вину на других!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:188
-translate crowdin fuckIrma_476e22a1:
+# game/scripts/quests/irma/fuckIrma.rpy:189
+translate crowdin gallery_d_007_476e22a1:
 
     # cedrick "Ну и что мне с тобой делать?"
     cedrick "Ну и что мне с тобой делать?"
 
-# game/scripts/quests/irma/fuckIrma.rpy:189
-translate crowdin fuckIrma_6e1eceda:
+# game/scripts/quests/irma/fuckIrma.rpy:190
+translate crowdin gallery_d_007_6e1eceda:
 
     # cedrick "Придется вызвать полицию, я не потерплю воровства. Тем более в своем магазине!"
     cedrick "Придется вызвать полицию, я не потерплю воровства. Тем более в своем магазине!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:190
-translate crowdin fuckIrma_9321da09:
+# game/scripts/quests/irma/fuckIrma.rpy:191
+translate crowdin gallery_d_007_9321da09:
 
     # cedrick "Мартин пойдет как сообщник и скорее всего вас обоих исключат из школы, возможно даже посадят.."
     cedrick "Мартин пойдет как сообщник и скорее всего вас обоих исключат из школы, возможно даже посадят.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:194
-translate crowdin fuckIrma_7d070301:
+# game/scripts/quests/irma/fuckIrma.rpy:195
+translate crowdin gallery_d_007_7d070301:
 
     # irma "Прошу, не делайте этого, это ведь просто фигурка..."
     irma "Прошу, не делайте этого, это ведь просто фигурка..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:198
-translate crowdin fuckIrma_b5c652ca:
+# game/scripts/quests/irma/fuckIrma.rpy:199
+translate crowdin gallery_d_007_b5c652ca:
 
     # cedrick "Чтож, в конце концов я не какой-то изверг. Я мог бы забыть про это происшествие..."
     cedrick "Чтож, в конце концов я не какой-то изверг. Я мог бы забыть про это происшествие..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:202
-translate crowdin fuckIrma_4c00b7ed:
+# game/scripts/quests/irma/fuckIrma.rpy:203
+translate crowdin gallery_d_007_4c00b7ed:
 
     # irma "Фух.. мистер Хофман, большое вам спаси.."
     irma "Фух.. мистер Хофман, большое вам спаси.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:203
-translate crowdin fuckIrma_83c3b533:
+# game/scripts/quests/irma/fuckIrma.rpy:204
+translate crowdin gallery_d_007_83c3b533:
 
     # cedrick "Если ты сделаешь мне минет..."
     cedrick "Если ты сделаешь мне минет..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:208
-translate crowdin fuckIrma_17785a78:
+# game/scripts/quests/irma/fuckIrma.rpy:209
+translate crowdin gallery_d_007_17785a78:
 
     # irma "Что???!!"
     irma "Что???!!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:212
-translate crowdin fuckIrma_e7f0dbff:
+# game/scripts/quests/irma/fuckIrma.rpy:213
+translate crowdin gallery_d_007_e7f0dbff:
 
     # irma "Хах.. Это ведь какая-то шутка, правда?"
     irma "Хах.. Это ведь какая-то шутка, правда?"
 
-# game/scripts/quests/irma/fuckIrma.rpy:213
-translate crowdin fuckIrma_b0225be7:
+# game/scripts/quests/irma/fuckIrma.rpy:214
+translate crowdin gallery_d_007_b0225be7:
 
     # cedrick "Если ты отсосешь мне, то я забуду про то, что ты вместе с Мартином пытались обворовать меня. Она стоит больше двух тысяч баксов..."
     cedrick "Если ты отсосешь мне, то я забуду про то, что ты вместе с Мартином пытались обворовать меня. Она стоит больше двух тысяч баксов..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:217
-translate crowdin fuckIrma_657564c7:
+# game/scripts/quests/irma/fuckIrma.rpy:218
+translate crowdin gallery_d_007_657564c7:
 
     # irma "ТЫ..."
     irma "ТЫ..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:218
-translate crowdin fuckIrma_ab0a658c:
+# game/scripts/quests/irma/fuckIrma.rpy:219
+translate crowdin gallery_d_007_ab0a658c:
 
     # irma "Да ты хоть знаешь кем работает мой отец!?"
     irma "Да ты хоть знаешь кем работает мой отец!?"
 
-# game/scripts/quests/irma/fuckIrma.rpy:219
-translate crowdin fuckIrma_a91da1bb:
+# game/scripts/quests/irma/fuckIrma.rpy:220
+translate crowdin gallery_d_007_a91da1bb:
 
     # irma "Он офицер и у него есть связи в полиции, он быстро оправдает меня от этих ложных обвинений!"
     irma "Он офицер и у него есть связи в полиции, он быстро оправдает меня от этих ложных обвинений!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:220
-translate crowdin fuckIrma_ef6d2f41:
+# game/scripts/quests/irma/fuckIrma.rpy:221
+translate crowdin gallery_d_007_ef6d2f41:
 
     # irma "У вас ведь даже нет доказательств!"
     irma "У вас ведь даже нет доказательств!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:225
-translate crowdin fuckIrma_b30d2c8f:
+# game/scripts/quests/irma/fuckIrma.rpy:226
+translate crowdin gallery_d_007_b30d2c8f:
 
     # cedrick "ЭЛИООН! Подойди пожалуйста.."
     cedrick "ЭЛИООН! Подойди пожалуйста.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:226
-translate crowdin fuckIrma_a20cefa7_8:
+# game/scripts/quests/irma/fuckIrma.rpy:227
+translate crowdin gallery_d_007_a20cefa7_3:
 
     # "..."
     "..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:227
-translate crowdin fuckIrma_5f9b772e_1:
+# game/scripts/quests/irma/fuckIrma.rpy:228
+translate crowdin gallery_d_007_5f9b772e_1:
 
     # "...."
     "...."
 
-# game/scripts/quests/irma/fuckIrma.rpy:232
-translate crowdin fuckIrma_d7d592c5:
+# game/scripts/quests/irma/fuckIrma.rpy:233
+translate crowdin gallery_d_007_d7d592c5:
 
     # elion "Да?"
     elion "Да?"
 
-# game/scripts/quests/irma/fuckIrma.rpy:236
-translate crowdin fuckIrma_5fc6186a:
+# game/scripts/quests/irma/fuckIrma.rpy:237
+translate crowdin gallery_d_007_5fc6186a:
 
     # cedrick "Посмотри, что пыталась украсть твоя подруга."
     cedrick "Посмотри, что пыталась украсть твоя подруга."
 
-# game/scripts/quests/irma/fuckIrma.rpy:240
-translate crowdin fuckIrma_97b9d6a6:
+# game/scripts/quests/irma/fuckIrma.rpy:241
+translate crowdin gallery_d_007_97b9d6a6:
 
     # elion "Она мне не подруга!"
     elion "Она мне не подруга!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:241
-translate crowdin fuckIrma_7e17f11d:
+# game/scripts/quests/irma/fuckIrma.rpy:242
+translate crowdin gallery_d_007_7e17f11d:
 
     # elion "Решила подставить меня! Ты ведь знала, что если что-то пропадет, то у меня из зарплаты вычтут полную стоимость!"
     elion "Решила подставить меня! Ты ведь знала, что если что-то пропадет, то у меня из зарплаты вычтут полную стоимость!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:245
-translate crowdin fuckIrma_800aae48:
+# game/scripts/quests/irma/fuckIrma.rpy:246
+translate crowdin gallery_d_007_800aae48:
 
     # cedrick "Спасибо, Элион. Ты можешь идти."
     cedrick "Спасибо, Элион. Ты можешь идти."
 
-# game/scripts/quests/irma/fuckIrma.rpy:250
-translate crowdin fuckIrma_a20cefa7_9:
+# game/scripts/quests/irma/fuckIrma.rpy:251
+translate crowdin gallery_d_007_a20cefa7_4:
 
     # "..."
     "..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:251
-translate crowdin fuckIrma_d728c8b6:
+# game/scripts/quests/irma/fuckIrma.rpy:252
+translate crowdin gallery_d_007_d728c8b6:
 
     # cedrick "Смотри как быстро у меня появился свидетель.."
     cedrick "Смотри как быстро у меня появился свидетель.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:252
-translate crowdin fuckIrma_a6e41205:
+# game/scripts/quests/irma/fuckIrma.rpy:253
+translate crowdin gallery_d_007_a6e41205:
 
     # cedrick "И если мои сведения верны, то твой отец пропал некоторое время назад.. Так-что тебе это с рук не сойдет..."
     cedrick "И если мои сведения верны, то твой отец пропал некоторое время назад.. Так-что тебе это с рук не сойдет..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:256
-translate crowdin fuckIrma_2de92dee:
+# game/scripts/quests/irma/fuckIrma.rpy:257
+translate crowdin gallery_d_007_2de92dee:
 
     # irma "...."
     irma "...."
 
-# game/scripts/quests/irma/fuckIrma.rpy:257
-translate crowdin fuckIrma_1fed2ae1:
+# game/scripts/quests/irma/fuckIrma.rpy:258
+translate crowdin gallery_d_007_1fed2ae1:
 
     # cedrick "У тебя есть два варианта. Сесть в тюрьму или перестать со мной спорить. Если сумеешь удовлетворить меня, то вскоре мы забудем про это прошествие и вы с Мартином пойдете домой. Так-что.. Выбор за тобой.."
     cedrick "У тебя есть два варианта. Сесть в тюрьму или перестать со мной спорить. Если сумеешь удовлетворить меня, то вскоре мы забудем про это прошествие и вы с Мартином пойдете домой. Так-что.. Выбор за тобой.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:258
-translate crowdin fuckIrma_3adafa38:
+# game/scripts/quests/irma/fuckIrma.rpy:259
+translate crowdin gallery_d_007_3adafa38:
 
     # irma "Ублюдок..."
     irma "Ублюдок..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:259
-translate crowdin fuckIrma_b036e9e8:
+# game/scripts/quests/irma/fuckIrma.rpy:260
+translate crowdin gallery_d_007_b036e9e8:
 
     # cedrick "Давай же.. Будь послушной девочкой.."
     cedrick "Давай же.. Будь послушной девочкой.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:262
-translate crowdin fuckIrma_1bc3450c:
+# game/scripts/quests/irma/fuckIrma.rpy:263
+translate crowdin gallery_d_007_1bc3450c:
 
     # "Ирма становится на колени.."
     "Ирма становится на колени.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:264
-translate crowdin fuckIrma_71e846ec:
+# game/scripts/quests/irma/fuckIrma.rpy:265
+translate crowdin gallery_d_007_71e846ec:
 
     # irma "Я должна делать это прямо здесь? Ты совсем сдурел?"
     irma "Я должна делать это прямо здесь? Ты совсем сдурел?"
 
-# game/scripts/quests/irma/fuckIrma.rpy:265
-translate crowdin fuckIrma_34d972ea:
+# game/scripts/quests/irma/fuckIrma.rpy:266
+translate crowdin gallery_d_007_34d972ea:
 
     # irma "Меня могут увидеть!"
     irma "Меня могут увидеть!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:266
-translate crowdin fuckIrma_446c09bf:
+# game/scripts/quests/irma/fuckIrma.rpy:267
+translate crowdin gallery_d_007_446c09bf:
 
     # cedrick "Могут.. так-что поторопись.."
     cedrick "Могут.. так-что поторопись.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:267
-translate crowdin fuckIrma_a9e1a26d:
+# game/scripts/quests/irma/fuckIrma.rpy:268
+translate crowdin gallery_d_007_a9e1a26d:
 
     # cedrick "Ну, давай, расстегивай ширинку.."
     cedrick "Ну, давай, расстегивай ширинку.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:270
-translate crowdin fuckIrma_4e6b88f8:
+# game/scripts/quests/irma/fuckIrma.rpy:271
+translate crowdin gallery_d_007_4e6b88f8:
 
     # irma "Какая.. мерзость.."
     irma "Какая.. мерзость.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:271
-translate crowdin fuckIrma_d625888e:
+# game/scripts/quests/irma/fuckIrma.rpy:272
+translate crowdin gallery_d_007_d625888e:
 
     # cedrick "А теперь возьми его в рот.."
     cedrick "А теперь возьми его в рот.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:274
-translate crowdin fuckIrma_2de92dee_1:
+# game/scripts/quests/irma/fuckIrma.rpy:275
+translate crowdin gallery_d_007_2de92dee_1:
 
     # irma "...."
     irma "...."
 
-# game/scripts/quests/irma/fuckIrma.rpy:277
-translate crowdin fuckIrma_b2d0ccb8:
+# game/scripts/quests/irma/fuckIrma.rpy:278
+translate crowdin gallery_d_007_b2d0ccb8:
 
     # cedrick "Умница, так лучше.."
     cedrick "Умница, так лучше.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:280
-translate crowdin fuckIrma_e9e4ae54:
+# game/scripts/quests/irma/fuckIrma.rpy:281
+translate crowdin gallery_d_007_e9e4ae54:
 
     # cedrick "Да.. Отлично..."
     cedrick "Да.. Отлично..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:283
-translate crowdin fuckIrma_49316299:
+# game/scripts/quests/irma/fuckIrma.rpy:284
+translate crowdin gallery_d_007_49316299:
 
     # cedrick "..."
     cedrick "..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:286
-translate crowdin fuckIrma_be1044d0:
+# game/scripts/quests/irma/fuckIrma.rpy:287
+translate crowdin gallery_d_007_be1044d0:
 
     # cedrick "А ты молодец... можешь ведь, если захочешь.."
     cedrick "А ты молодец... можешь ведь, если захочешь.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:289
-translate crowdin fuckIrma_795678bb:
+# game/scripts/quests/irma/fuckIrma.rpy:290
+translate crowdin gallery_d_007_795678bb:
 
     # irma "..."
     irma "..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:292
-translate crowdin fuckIrma_8831ec26:
+# game/scripts/quests/irma/fuckIrma.rpy:293
+translate crowdin gallery_d_007_8831ec26:
 
     # cedrick "...да"
     cedrick "...да"
 
-# game/scripts/quests/irma/fuckIrma.rpy:296
-translate crowdin fuckIrma_7b9406c1:
+# game/scripts/quests/irma/fuckIrma.rpy:297
+translate crowdin gallery_d_007_7b9406c1:
 
     # martin "Профессор Хоффман! Я закончил! Я могу идти?"
     martin "Профессор Хоффман! Я закончил! Я могу идти?"
 
-# game/scripts/quests/irma/fuckIrma.rpy:297
-translate crowdin fuckIrma_795678bb_1:
+# game/scripts/quests/irma/fuckIrma.rpy:298
+translate crowdin gallery_d_007_795678bb_1:
 
     # irma "..."
     irma "..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:299
-translate crowdin fuckIrma_9f3b003a:
+# game/scripts/quests/irma/fuckIrma.rpy:300
+translate crowdin gallery_d_007_9f3b003a:
 
     # "У Ирмы узкие зрачки, она внезапно напугана тем, что ее может обнаружить Мартин."
     "У Ирмы узкие зрачки, она внезапно напугана тем, что ее может обнаружить Мартин."
 
-# game/scripts/quests/irma/fuckIrma.rpy:301
-translate crowdin fuckIrma_0b7afc02:
+# game/scripts/quests/irma/fuckIrma.rpy:302
+translate crowdin gallery_d_007_0b7afc02:
 
     # cedrick "Да, ты можешь идти.."
     cedrick "Да, ты можешь идти.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:302
-translate crowdin fuckIrma_f24ace55:
+# game/scripts/quests/irma/fuckIrma.rpy:303
+translate crowdin gallery_d_007_f24ace55:
 
     # martin "А Ирма уже ушла?"
     martin "А Ирма уже ушла?"
 
-# game/scripts/quests/irma/fuckIrma.rpy:303
-translate crowdin fuckIrma_ed58864f:
+# game/scripts/quests/irma/fuckIrma.rpy:304
+translate crowdin gallery_d_007_ed58864f:
 
     # cedrick "Она..."
     cedrick "Она..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:304
-translate crowdin fuckIrma_bab106b7:
+# game/scripts/quests/irma/fuckIrma.rpy:305
+translate crowdin gallery_d_007_bab106b7:
 
     # martin "А вижу ее вещи еще здесь, значит и она тут, ведь так? Ирма! Я закончил..."
     martin "А вижу ее вещи еще здесь, значит и она тут, ведь так? Ирма! Я закончил..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:306
-translate crowdin fuckIrma_3ecebcb2:
+# game/scripts/quests/irma/fuckIrma.rpy:307
+translate crowdin gallery_d_007_3ecebcb2:
 
     # martin "Может пойдем домой вместе? "
     martin "Может пойдем домой вместе? "
 
-# game/scripts/quests/irma/fuckIrma.rpy:307
-translate crowdin fuckIrma_939675ef:
+# game/scripts/quests/irma/fuckIrma.rpy:308
+translate crowdin gallery_d_007_939675ef:
 
     # martin "..."
     martin "..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:308
-translate crowdin fuckIrma_975c931c:
+# game/scripts/quests/irma/fuckIrma.rpy:309
+translate crowdin gallery_d_007_975c931c:
 
     # irma "грл..блхх"
     irma "грл..блхх"
 
-# game/scripts/quests/irma/fuckIrma.rpy:311
-translate crowdin fuckIrma_795678bb_2:
+# game/scripts/quests/irma/fuckIrma.rpy:312
+translate crowdin gallery_d_007_795678bb_2:
 
     # irma "..."
     irma "..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:313
-translate crowdin fuckIrma_f2ba9920:
+# game/scripts/quests/irma/fuckIrma.rpy:314
+translate crowdin gallery_d_007_f2ba9920:
 
     # irma "У меня еще осталась кое-какая работа!"
     irma "У меня еще осталась кое-какая работа!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:314
-translate crowdin fuckIrma_cf8c9e4a:
+# game/scripts/quests/irma/fuckIrma.rpy:315
+translate crowdin gallery_d_007_cf8c9e4a:
 
     # martin "Я могу тебя подождать... Мне ведь не сложно, да? Мне не сложно, я подожду.."
     martin "Я могу тебя подождать... Мне ведь не сложно, да? Мне не сложно, я подожду.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:315
-translate crowdin fuckIrma_e022cbef:
+# game/scripts/quests/irma/fuckIrma.rpy:316
+translate crowdin gallery_d_007_e022cbef:
 
     # irma "Не надо!! Иди без меня!"
     irma "Не надо!! Иди без меня!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:316
-translate crowdin fuckIrma_f62d2d4b:
+# game/scripts/quests/irma/fuckIrma.rpy:317
+translate crowdin gallery_d_007_f62d2d4b:
 
     # martin "Ну ладно... Тогда до завтра.. Увидимся в школе..."
     martin "Ну ладно... Тогда до завтра.. Увидимся в школе..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:318
-translate crowdin fuckIrma_78c0641f:
+# game/scripts/quests/irma/fuckIrma.rpy:319
+translate crowdin gallery_d_007_78c0641f:
 
     # cedrick "Можешь продолжать..."
     cedrick "Можешь продолжать..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:321
-translate crowdin fuckIrma_c8f3637b:
+# game/scripts/quests/irma/fuckIrma.rpy:322
+translate crowdin gallery_d_007_c8f3637b:
 
     # irma "Давай скорее покончим с этим..."
     irma "Давай скорее покончим с этим..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:324
-translate crowdin fuckIrma_d292fef1:
+# game/scripts/quests/irma/fuckIrma.rpy:325
+translate crowdin gallery_d_007_d292fef1:
 
     # "Ирма продолжает сосать"
     "Ирма продолжает сосать"
 
-# game/scripts/quests/irma/fuckIrma.rpy:327
-translate crowdin fuckIrma_bcbbadc6:
+# game/scripts/quests/irma/fuckIrma.rpy:328
+translate crowdin gallery_d_007_bcbbadc6:
 
     # cedrick "Похоже ты нравишься этому парню.. Забавно.."
     cedrick "Похоже ты нравишься этому парню.. Забавно.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:330
-translate crowdin fuckIrma_49316299_1:
+# game/scripts/quests/irma/fuckIrma.rpy:331
+translate crowdin gallery_d_007_49316299_1:
 
     # cedrick "..."
     cedrick "..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:333
-translate crowdin fuckIrma_49316299_2:
+# game/scripts/quests/irma/fuckIrma.rpy:334
+translate crowdin gallery_d_007_49316299_2:
 
     # cedrick "..."
     cedrick "..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:336
-translate crowdin fuckIrma_8b2fc740:
+# game/scripts/quests/irma/fuckIrma.rpy:337
+translate crowdin gallery_d_007_8b2fc740:
 
     # cedrick "Ох.. я почти.."
     cedrick "Ох.. я почти.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:339
-translate crowdin fuckIrma_4bc813ee:
+# game/scripts/quests/irma/fuckIrma.rpy:340
+translate crowdin gallery_d_007_4bc813ee:
 
     # cedrick "Ох!"
     cedrick "Ох!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:343
-translate crowdin fuckIrma_707d2df7:
+# game/scripts/quests/irma/fuckIrma.rpy:344
+translate crowdin gallery_d_007_707d2df7:
 
     # irma "Какого ху..."
     irma "Какого ху..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:345
-translate crowdin fuckIrma_13f8a04f:
+# game/scripts/quests/irma/fuckIrma.rpy:346
+translate crowdin gallery_d_007_13f8a04f:
 
     # cedrick "А, чуть не забыл. Улыбнись.."
     cedrick "А, чуть не забыл. Улыбнись.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:349
-translate crowdin fuckIrma_256d21fb:
+# game/scripts/quests/irma/fuckIrma.rpy:350
+translate crowdin gallery_d_007_256d21fb:
 
     # "седрик достает телефон и фотографирует Ирму в сперме и с членом у рта.."
     "седрик достает телефон и фотографирует Ирму в сперме и с членом у рта.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:351
-translate crowdin fuckIrma_6e41b622:
+# game/scripts/quests/irma/fuckIrma.rpy:352
+translate crowdin gallery_d_007_6e41b622:
 
     # irma "Ты... Удаляй! Удаляй сейчас же!"
     irma "Ты... Удаляй! Удаляй сейчас же!"
 
-# game/scripts/quests/irma/fuckIrma.rpy:353
-translate crowdin fuckIrma_2e2ef091:
+# game/scripts/quests/irma/fuckIrma.rpy:354
+translate crowdin gallery_d_007_2e2ef091:
 
     # cedrick "А теперь, если ты не хочешь, чтобы Мартин узнал чем ты тут занималась, будешь делать то, что я тебе говорю.."
     cedrick "А теперь, если ты не хочешь, чтобы Мартин узнал чем ты тут занималась, будешь делать то, что я тебе говорю.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:354
-translate crowdin fuckIrma_39cc715f:
+# game/scripts/quests/irma/fuckIrma.rpy:355
+translate crowdin gallery_d_007_39cc715f:
 
     # cedrick "Будеш моей личной... Скажем.. Шлюхой... Как тебе такое, шлюха?"
     cedrick "Будеш моей личной... Скажем.. Шлюхой... Как тебе такое, шлюха?"
 
-# game/scripts/quests/irma/fuckIrma.rpy:355
-translate crowdin fuckIrma_7a1274c6:
+# game/scripts/quests/irma/fuckIrma.rpy:356
+translate crowdin gallery_d_007_7a1274c6:
 
     # irma "Ты настоящая мразь и подонок! Если бы мой отец..."
     irma "Ты настоящая мразь и подонок! Если бы мой отец..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:356
-translate crowdin fuckIrma_92de8fe2:
+# game/scripts/quests/irma/fuckIrma.rpy:357
+translate crowdin gallery_d_007_92de8fe2:
 
     # cedrick "И да, если ты кому-нибудь расскажешь об этом, то тогда эту фотографию увидят все в твоей школе.. Возможно даже твоя мама..."
     cedrick "И да, если ты кому-нибудь расскажешь об этом, то тогда эту фотографию увидят все в твоей школе.. Возможно даже твоя мама..."
 
-# game/scripts/quests/irma/fuckIrma.rpy:357
-translate crowdin fuckIrma_c6e99cf7:
+# game/scripts/quests/irma/fuckIrma.rpy:358
+translate crowdin gallery_d_007_c6e99cf7:
 
     # cedrick "Можешь идти, хорошо поработала.."
     cedrick "Можешь идти, хорошо поработала.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:358
-translate crowdin fuckIrma_8b567b6e:
+# game/scripts/quests/irma/fuckIrma.rpy:359
+translate crowdin gallery_d_007_8b567b6e:
 
     # irma "Хуесос.."
     irma "Хуесос.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:359
-translate crowdin fuckIrma_b0b8b1ec:
+# game/scripts/quests/irma/fuckIrma.rpy:360
+translate crowdin gallery_d_007_b0b8b1ec:
 
     # cedrick "От хуесоски слышу. Не забудь дома вытереть лицо.. Хотя.. можешь оставить так.."
     cedrick "От хуесоски слышу. Не забудь дома вытереть лицо.. Хотя.. можешь оставить так.."
 
-# game/scripts/quests/irma/fuckIrma.rpy:361
-translate crowdin fuckIrma_a20cefa7_10:
+# game/scripts/quests/irma/fuckIrma.rpy:362
+translate crowdin gallery_d_007_a20cefa7_5:
 
     # "..."
     "..."

@@ -1,0 +1,8 @@
+﻿# TODO: Translation updated at 2024-04-26 10:51
+
+# game/scripts/quests/questTrainingOfGuards/need_to_finish_things.rpy:2
+translate crowdin need_to_finish_things_c7b63af4:
+
+    # cedrick "Я не вернусь в Хезерфилд, пока не закончу дела на Меридиане"
+    cedrick "Я не вернусь в Хезерфилд, пока не закончу дела на Меридиане"
+

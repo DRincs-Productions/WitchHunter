@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:6
 translate crowdin need_sensation_3a6e34d5:
@@ -612,356 +612,356 @@ translate crowdin need_sensation_a20cefa7_8:
     # "..."
     "..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:297
-translate crowdin need_sensation_ded8d18b:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:299
+translate crowdin gallery_d_022_ded8d18b:
 
     # bess "Профессор Хоффман..."
     bess "Профессор Хоффман..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:301
-translate crowdin need_sensation_f8ca87ad:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:303
+translate crowdin gallery_d_022_f8ca87ad:
 
     # cedrick "Где остальные?"
     cedrick "Где остальные?"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:305
-translate crowdin need_sensation_ee2917b1:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:307
+translate crowdin gallery_d_022_ee2917b1:
 
     # bess " Мы разделились, чтоб найти всех"
     bess " Мы разделились, чтоб найти всех"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:309
-translate crowdin need_sensation_5eeaea6d:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:311
+translate crowdin gallery_d_022_5eeaea6d:
 
     # cedrick "Я же сказал ждать меня в столовой!"
     cedrick "Я же сказал ждать меня в столовой!"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:313
-translate crowdin need_sensation_d229adf1:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:315
+translate crowdin gallery_d_022_d229adf1:
 
     # bess "Мы договорились встретится в столовой через двадцать минут"
     bess "Мы договорились встретится в столовой через двадцать минут"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:314
-translate crowdin need_sensation_d6b64350:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:316
+translate crowdin gallery_d_022_d6b64350:
 
     # cedrick "Черт... Ладно.."
     cedrick "Черт... Ладно.."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:318
-translate crowdin need_sensation_a20cefa7_9:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:320
+translate crowdin gallery_d_022_a20cefa7:
 
     # "..."
     "..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:322
-translate crowdin need_sensation_9f314f18:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:324
+translate crowdin gallery_d_022_9f314f18:
 
     # bess "О каких фотографиях шла речь??"
     bess "О каких фотографиях шла речь??"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:326
-translate crowdin need_sensation_f6810002:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:328
+translate crowdin gallery_d_022_f6810002:
 
     # cedrick "О чем ты?"
     cedrick "О чем ты?"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:330
-translate crowdin need_sensation_477e0984:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:332
+translate crowdin gallery_d_022_477e0984:
 
     # bess " Я все слышала.. У вас есть какие-то фотографии..."
     bess " Я все слышала.. У вас есть какие-то фотографии..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:334
-translate crowdin need_sensation_1c16b983:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:336
+translate crowdin gallery_d_022_1c16b983:
 
     # bess "И если их кто-то увидит, то Ирма очень расстроится... А я бы очень хотела этого"
     bess "И если их кто-то увидит, то Ирма очень расстроится... А я бы очень хотела этого"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:336
-translate crowdin need_sensation_e089a85d:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:338
+translate crowdin gallery_d_022_e089a85d:
 
     # cedrick "Не понимаю, о чем ты "
     cedrick "Не понимаю, о чем ты "
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:337
-translate crowdin need_sensation_aaa3ce96:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:339
+translate crowdin gallery_d_022_aaa3ce96:
 
     # bess "Может.."
     bess "Может.."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:341
-translate crowdin need_sensation_7543ddcf:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:343
+translate crowdin gallery_d_022_7543ddcf:
 
     # bess "Может... Если я сделаю вам приятное, мы начнем лучше понимать друг друга..."
     bess "Может... Если я сделаю вам приятное, мы начнем лучше понимать друг друга..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:342
-translate crowdin need_sensation_e7c9ea6b:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:344
+translate crowdin gallery_d_022_e7c9ea6b:
 
     # cedrick "Я не уверен, что это хорошая идея..."
     cedrick "Я не уверен, что это хорошая идея..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:343
-translate crowdin need_sensation_98bc9c30:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:345
+translate crowdin gallery_d_022_98bc9c30:
 
     # bess "Что тут у нас... Кажется он не против, Мистер Хоффман"
     bess "Что тут у нас... Кажется он не против, Мистер Хоффман"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:344
-translate crowdin need_sensation_ec5d8270:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:346
+translate crowdin gallery_d_022_ec5d8270:
 
     # cedrick "(Черт... Я не привык, что девушка сама лезет ко мне в штаны..)"
     cedrick "(Черт... Я не привык, что девушка сама лезет ко мне в штаны..)"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:347
-translate crowdin need_sensation_ef063d6b:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:349
+translate crowdin gallery_d_022_ef063d6b:
 
     # cedrick "(Она поставила меня в неловкое положение...)"
     cedrick "(Она поставила меня в неловкое положение...)"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:348
-translate crowdin need_sensation_dea6c7ff:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:350
+translate crowdin gallery_d_022_dea6c7ff:
 
     # bess "Давайте посмотрим, что тут у нас ..."
     bess "Давайте посмотрим, что тут у нас ..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:351
-translate crowdin need_sensation_c55c79f0:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:353
+translate crowdin gallery_d_022_c55c79f0:
 
     # bess "Какой он большой... И что мне теперь с ним делать?"
     bess "Какой он большой... И что мне теперь с ним делать?"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:354
-translate crowdin need_sensation_a20cefa7_10:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:356
+translate crowdin gallery_d_022_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:357
-translate crowdin need_sensation_99ef6ac9:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:359
+translate crowdin gallery_d_022_99ef6ac9:
 
     # cedrick "ох..."
     cedrick "ох..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:360
-translate crowdin need_sensation_44d839b8:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:362
+translate crowdin gallery_d_022_44d839b8:
 
     # bess "Вам так нравится, Мистер Хоффман?"
     bess "Вам так нравится, Мистер Хоффман?"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:361
-translate crowdin need_sensation_0b7d2b24:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:363
+translate crowdin gallery_d_022_0b7d2b24:
 
     # cedrick "Да... это невероятно... Приятно..."
     cedrick "Да... это невероятно... Приятно..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:364
-translate crowdin need_sensation_49e3011e:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:366
+translate crowdin gallery_d_022_49e3011e:
 
     # bess "Так что там насчет фотографий???"
     bess "Так что там насчет фотографий???"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:365
-translate crowdin need_sensation_99837aa1:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:367
+translate crowdin gallery_d_022_99837aa1:
 
     # bess "Мне перестать, или вы покажете мне их...??"
     bess "Мне перестать, или вы покажете мне их...??"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:368
-translate crowdin need_sensation_09565fc3:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:370
+translate crowdin gallery_d_022_09565fc3:
 
     # cedrick "Н... Не останавливайся.."
     cedrick "Н... Не останавливайся.."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:371
-translate crowdin need_sensation_bd9a8fa1:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:373
+translate crowdin gallery_d_022_bd9a8fa1:
 
     # courtney "(Что... они там делают...)"
     courtney "(Что... они там делают...)"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:372
-translate crowdin need_sensation_dd7bb486:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:374
+translate crowdin gallery_d_022_dd7bb486:
 
     # courtney "(Как bessтыдно...)"
     courtney "(Как bessтыдно...)"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:373
-translate crowdin need_sensation_a20cefa7_11:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:375
+translate crowdin gallery_d_022_a20cefa7_2:
 
     # "..."
     "..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:376
-translate crowdin need_sensation_b5f47c44:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:378
+translate crowdin gallery_d_022_b5f47c44:
 
     # bess "Кортни???"
     bess "Кортни???"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:377
-translate crowdin need_sensation_1ce9a2d8:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:379
+translate crowdin gallery_d_022_1ce9a2d8:
 
     # courtney "..."
     courtney "..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:378
-translate crowdin need_sensation_b1802f49:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:380
+translate crowdin gallery_d_022_b1802f49:
 
     # bess "Ты за нами подглядываешь?"
     bess "Ты за нами подглядываешь?"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:379
-translate crowdin need_sensation_4afed084:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:381
+translate crowdin gallery_d_022_4afed084:
 
     # courtney "я не.."
     courtney "я не.."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:380
-translate crowdin need_sensation_5e71a0f5:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:382
+translate crowdin gallery_d_022_5e71a0f5:
 
     # bess "Может... Присоединишься к нам?"
     bess "Может... Присоединишься к нам?"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:383
-translate crowdin need_sensation_a20cefa7_12:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:385
+translate crowdin gallery_d_022_a20cefa7_3:
 
     # "..."
     "..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:384
-translate crowdin need_sensation_5f9b772e:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:386
+translate crowdin gallery_d_022_5f9b772e:
 
     # "...."
     "...."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:385
-translate crowdin need_sensation_1352ebd5:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:387
+translate crowdin gallery_d_022_1352ebd5:
 
     # bess "Вам... нравится, Профессор?.."
     bess "Вам... нравится, Профессор?.."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:388
-translate crowdin need_sensation_1f9f581a:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:390
+translate crowdin gallery_d_022_1f9f581a:
 
     # cedrick "О да! Так хорошо!"
     cedrick "О да! Так хорошо!"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:389
-translate crowdin need_sensation_07bdde05:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:391
+translate crowdin gallery_d_022_07bdde05:
 
     # "....."
     "....."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:393
-translate crowdin need_sensation_3928a113:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:395
+translate crowdin gallery_d_022_3928a113:
 
     # "......."
     "......."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:394
-translate crowdin need_sensation_1dff3786:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:396
+translate crowdin gallery_d_022_1dff3786:
 
     # bess "Ты ведь... тоже хотела этого... Да, Кортни?.."
     bess "Ты ведь... тоже хотела этого... Да, Кортни?.."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:395
-translate crowdin need_sensation_42efdaff:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:397
+translate crowdin gallery_d_022_42efdaff:
 
     # cedrick "Кажется я сейчас кончу..."
     cedrick "Кажется я сейчас кончу..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:396
-translate crowdin need_sensation_5f9b772e_1:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:398
+translate crowdin gallery_d_022_5f9b772e_1:
 
     # "...."
     "...."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:403
-translate crowdin need_sensation_3f4acfac:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:405
+translate crowdin gallery_d_022_3f4acfac:
 
     # cedrick "ох.."
     cedrick "ох.."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:404
-translate crowdin need_sensation_5f9b772e_2:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:406
+translate crowdin gallery_d_022_5f9b772e_2:
 
     # "...."
     "...."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:409
-translate crowdin need_sensation_c90369a2:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:411
+translate crowdin gallery_d_022_c90369a2:
 
     # cedrick "Салфетки в шкафу на верхней полке.. Вам нужно привести себя в порядок.."
     cedrick "Салфетки в шкафу на верхней полке.. Вам нужно привести себя в порядок.."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:410
-translate crowdin need_sensation_5f9b772e_3:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:412
+translate crowdin gallery_d_022_5f9b772e_3:
 
     # "...."
     "...."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:414
-translate crowdin need_sensation_b4dc801e:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:417
+translate crowdin gallery_d_022_b4dc801e:
 
     # bess "Ну так что насчет фотографий?"
     bess "Ну так что насчет фотографий?"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:418
-translate crowdin need_sensation_3d0b3828:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:421
+translate crowdin gallery_d_022_3d0b3828:
 
     # cedrick "Поговорим в другой раз, уже слишком поздно. Вам пора домой"
     cedrick "Поговорим в другой раз, уже слишком поздно. Вам пора домой"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:422
-translate crowdin need_sensation_7fc02278:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:425
+translate crowdin gallery_d_022_7fc02278:
 
     # bess "Но..."
     bess "Но..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:426
-translate crowdin need_sensation_017eea1e:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:429
+translate crowdin gallery_d_022_017eea1e:
 
     # martin "Наконец-то я вас нашел! Где вы были? Я такое видел!"
     martin "Наконец-то я вас нашел! Где вы были? Я такое видел!"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:427
-translate crowdin need_sensation_f25dbb2c:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:430
+translate crowdin gallery_d_022_f25dbb2c:
 
     # cedrick "Расскажешь завтра, а теперь отправляйтесь домой"
     cedrick "Расскажешь завтра, а теперь отправляйтесь домой"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:431
-translate crowdin need_sensation_515d86dd:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:434
+translate crowdin gallery_d_022_515d86dd:
 
     # martin "А как же Ирма с Тарани? Вы их нашли?"
     martin "А как же Ирма с Тарани? Вы их нашли?"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:435
-translate crowdin need_sensation_cf5dc892:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:438
+translate crowdin gallery_d_022_cf5dc892:
 
     # cedrick " Они уже ушли ..."
     cedrick " Они уже ушли ..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:436
-translate crowdin need_sensation_02b48282:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:439
+translate crowdin gallery_d_022_02b48282:
 
     # cedrick "А теперь отправляйтесь по домам. Если вы еще дольше здесь задержитесь, ваши родители будут волноваться..."
     cedrick "А теперь отправляйтесь по домам. Если вы еще дольше здесь задержитесь, ваши родители будут волноваться..."
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:440
-translate crowdin need_sensation_35734028:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:443
+translate crowdin gallery_d_022_35734028:
 
     # martin "А как же газета?"
     martin "А как же газета?"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:441
-translate crowdin need_sensation_15a83848:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:444
+translate crowdin gallery_d_022_15a83848:
 
     # cedrick "Допишете завтра утром"
     cedrick "Допишете завтра утром"
 
-# game/scripts/quests/newspaperSection/need_sensation.rpy:442
-translate crowdin need_sensation_a20cefa7_13:
+# game/scripts/quests/newspaperSection/need_sensation.rpy:445
+translate crowdin gallery_d_022_a20cefa7_4:
 
     # "..."
     "..."

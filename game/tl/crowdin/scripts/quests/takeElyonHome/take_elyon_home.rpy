@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/quests/takeElyonHome/take_elyon_home.rpy:5
 translate crowdin take_elyon_home_b1056ea5:
@@ -66,236 +66,236 @@ translate crowdin take_elyon_home_70f97116:
     # centered "{size=37}Позже вечером, в доме Браунов{/size}"
     centered "{size=37}Позже вечером, в доме Браунов{/size}"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:34
-translate crowdin take_elyon_home_553a5159:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:35
+translate crowdin gallery_d_045_553a5159:
 
     # elion "Мы дома!"
     elion "Мы дома!"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:37
-translate crowdin take_elyon_home_a4152d0a:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:38
+translate crowdin gallery_d_045_a4152d0a:
 
     # eleanor "Ох, хорошо, что ты вернулась, на улице становится не безопасно.. О, привет, Рик"
     eleanor "Ох, хорошо, что ты вернулась, на улице становится не безопасно.. О, привет, Рик"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:38
-translate crowdin take_elyon_home_99bf8921:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:39
+translate crowdin gallery_d_045_99bf8921:
 
     # cedrick "Здравствуйте, Элеонор"
     cedrick "Здравствуйте, Элеонор"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:43
-translate crowdin take_elyon_home_c0cca854:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:44
+translate crowdin gallery_d_045_c0cca854:
 
     # elion "Я пока пойду переоденусь!"
     elion "Я пока пойду переоденусь!"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:47
-translate crowdin take_elyon_home_28b28356:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:48
+translate crowdin gallery_d_045_28b28356:
 
     # thomas "О, привет, Рик. Спасибо, что проводил Элион до дома, а то мы переживали за нее"
     thomas "О, привет, Рик. Спасибо, что проводил Элион до дома, а то мы переживали за нее"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:48
-translate crowdin take_elyon_home_5bde1345:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:49
+translate crowdin gallery_d_045_5bde1345:
 
     # cedrick "Не стоит благодарности. Я тоже за нее беспокоюсь, сами знаете, что недавно маньяк объявился. Я бы решил проводил Элион, даже если бы вы не просили"
     cedrick "Не стоит благодарности. Я тоже за нее беспокоюсь, сами знаете, что недавно маньяк объявился. Я бы решил проводил Элион, даже если бы вы не просили"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:52
-translate crowdin take_elyon_home_54f772ba:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:53
+translate crowdin gallery_d_045_54f772ba:
 
     # thomas "Понимаю.. Хороший ты мужик, Рик"
     thomas "Понимаю.. Хороший ты мужик, Рик"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:56
-translate crowdin take_elyon_home_beb17c9f:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:57
+translate crowdin gallery_d_045_beb17c9f:
 
     # cedrick "(Хм, пока мы не сели за стол, думаю, стоит осмотреться в доме, поискать что-то подозрительное или то, чем я могу в будущем воспользоваться)"
     cedrick "(Хм, пока мы не сели за стол, думаю, стоит осмотреться в доме, поискать что-то подозрительное или то, чем я могу в будущем воспользоваться)"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:57
-translate crowdin take_elyon_home_910fb061:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:58
+translate crowdin gallery_d_045_910fb061:
 
     # cedrick "Эм, неловко об этом спрашивать, но можно ли мне воспользоваться вашим туалетом, я не успел сходить у себя в магазине"
     cedrick "Эм, неловко об этом спрашивать, но можно ли мне воспользоваться вашим туалетом, я не успел сходить у себя в магазине"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:58
-translate crowdin take_elyon_home_a31018de:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:59
+translate crowdin gallery_d_045_a31018de:
 
     # thomas "Конечно, Рик, без проблем. Прямо по коридору и налево"
     thomas "Конечно, Рик, без проблем. Прямо по коридору и налево"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:61
-translate crowdin take_elyon_home_f6d31b80:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:62
+translate crowdin gallery_d_045_f6d31b80:
 
     # centered "{size=37}Седрик, в поисках подозрительных вещей, натыкается на одну из комнат{/size}"
     centered "{size=37}Седрик, в поисках подозрительных вещей, натыкается на одну из комнат{/size}"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:65
-translate crowdin take_elyon_home_b0a4f8e5:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:66
+translate crowdin gallery_d_045_b0a4f8e5:
 
     # cedrick "(Черт, это же комната Элион..)"
     cedrick "(Черт, это же комната Элион..)"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:66
-translate crowdin take_elyon_home_f65a0cce:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:67
+translate crowdin gallery_d_045_f65a0cce:
 
     # cedrick "(Хм, и все же фигурка у нее что надо..)"
     cedrick "(Хм, и все же фигурка у нее что надо..)"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:67
-translate crowdin take_elyon_home_8ec03f74:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:68
+translate crowdin gallery_d_045_8ec03f74:
 
     # elion "Интересно, Рику нравятся такие короткие шорты.."
     elion "Интересно, Рику нравятся такие короткие шорты.."
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:68
-translate crowdin take_elyon_home_be284f98:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:69
+translate crowdin gallery_d_045_be284f98:
 
     # cedrick "Ч-чт.."
     cedrick "Ч-чт.."
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:69
-translate crowdin take_elyon_home_07e391bf:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:70
+translate crowdin gallery_d_045_07e391bf:
 
     # elion "Хм!? Кто там?"
     elion "Хм!? Кто там?"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:72
-translate crowdin take_elyon_home_b1c472db:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:73
+translate crowdin gallery_d_045_b1c472db:
 
     # cedrick "(Черт, пора сваливать..)"
     cedrick "(Черт, пора сваливать..)"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:75
-translate crowdin take_elyon_home_489286c6:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:76
+translate crowdin gallery_d_045_489286c6:
 
     # cedrick "(Фух, вроде не успела меня заметить.. Но она что, для меня решила такие шорты надеть? Это интересно..)"
     cedrick "(Фух, вроде не успела меня заметить.. Но она что, для меня решила такие шорты надеть? Это интересно..)"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:76
-translate crowdin take_elyon_home_c5b67d8c:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:77
+translate crowdin gallery_d_045_c5b67d8c:
 
     # cedrick "(Но, в любом случае, мне пора возвращаться, чтобы не вызвать подозрений..)"
     cedrick "(Но, в любом случае, мне пора возвращаться, чтобы не вызвать подозрений..)"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:80
-translate crowdin take_elyon_home_afffd637:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:81
+translate crowdin gallery_d_045_afffd637:
 
     # cedrick "Вот так я и прогнал из нашего бара тех двух пьяных здоровых байкеров.."
     cedrick "Вот так я и прогнал из нашего бара тех двух пьяных здоровых байкеров.."
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:81
-translate crowdin take_elyon_home_6a1d5a6c:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:82
+translate crowdin gallery_d_045_6a1d5a6c:
 
     # elion "Ничего себе, Рик, ты раньше работал вышибалой в баре!?"
     elion "Ничего себе, Рик, ты раньше работал вышибалой в баре!?"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:82
-translate crowdin take_elyon_home_85516884:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:83
+translate crowdin gallery_d_045_85516884:
 
     # cedrick "Ну, на самом деле, изначально я туда устроился бухгалтером, решать всякие внутренние дела и следить за казной, так сказать.."
     cedrick "Ну, на самом деле, изначально я туда устроился бухгалтером, решать всякие внутренние дела и следить за казной, так сказать.."
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:83
-translate crowdin take_elyon_home_9d3d5009:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:84
+translate crowdin gallery_d_045_9d3d5009:
 
     # eleanor "А что произошло потом?"
     eleanor "А что произошло потом?"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:84
-translate crowdin take_elyon_home_c506841f:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:85
+translate crowdin gallery_d_045_c506841f:
 
     # cedrick "А потом в наш бар часто стали заваливаться незваные гости, вот босс и сказал мне с этим разбираться. Он знал, что хоть я и не внушаю большой угрозы, но страшен в гневе"
     cedrick "А потом в наш бар часто стали заваливаться незваные гости, вот босс и сказал мне с этим разбираться. Он знал, что хоть я и не внушаю большой угрозы, но страшен в гневе"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:85
-translate crowdin take_elyon_home_f012a296:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:86
+translate crowdin gallery_d_045_f012a296:
 
     # thomas "Даа, Рик, а ты полон сюрпризов"
     thomas "Даа, Рик, а ты полон сюрпризов"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:86
-translate crowdin take_elyon_home_efd1a30a:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:87
+translate crowdin gallery_d_045_efd1a30a:
 
     # eleanor "Пф, раз твой босс такой умный, пусть лучше сам бы и разбирался с этими двумя пьяными байкерами"
     eleanor "Пф, раз твой босс такой умный, пусть лучше сам бы и разбирался с этими двумя пьяными байкерами"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:87
-translate crowdin take_elyon_home_a1d77a15:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:88
+translate crowdin gallery_d_045_a1d77a15:
 
     # cedrick "Как ни странно, они потом стали работать там вышибалами вместо меня, ахах.."
     cedrick "Как ни странно, они потом стали работать там вышибалами вместо меня, ахах.."
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:88
-translate crowdin take_elyon_home_37c50551:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:89
+translate crowdin gallery_d_045_37c50551:
 
     # elion "А ты что?"
     elion "А ты что?"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:89
-translate crowdin take_elyon_home_287497a2:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:90
+translate crowdin gallery_d_045_287497a2:
 
     # cedrick "А я.. Собрал денег, сколько осталось, и перебрался к вам, купил книжный магазинчик на то, что там заработал"
     cedrick "А я.. Собрал денег, сколько осталось, и перебрался к вам, купил книжный магазинчик на то, что там заработал"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:90
-translate crowdin take_elyon_home_44404b5e:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:91
+translate crowdin gallery_d_045_44404b5e:
 
     # thomas "Вот это история.. А почему ты в итоге уволился из того бара?"
     thomas "Вот это история.. А почему ты в итоге уволился из того бара?"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:91
-translate crowdin take_elyon_home_de8e090d:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:92
+translate crowdin gallery_d_045_de8e090d:
 
     # cedrick "Хах, это я, пожалуй, расскажу в следующий раз. Уже поздно, мне пора домой"
     cedrick "Хах, это я, пожалуй, расскажу в следующий раз. Уже поздно, мне пора домой"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:92
-translate crowdin take_elyon_home_533e197b:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:93
+translate crowdin gallery_d_045_533e197b:
 
     # eleanor "Ох, точно, так быстро пролетело время"
     eleanor "Ох, точно, так быстро пролетело время"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:93
-translate crowdin take_elyon_home_65c981b2:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:94
+translate crowdin gallery_d_045_65c981b2:
 
     # elion "Рик, почему ты на работе или в школе не рассказываешь такие интересные истории?!"
     elion "Рик, почему ты на работе или в школе не рассказываешь такие интересные истории?!"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:94
-translate crowdin take_elyon_home_c4ad6ac6:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:95
+translate crowdin gallery_d_045_c4ad6ac6:
 
     # cedrick "Ахах, всему свое время, Элион. Рано или поздно, я все тебе расскажу, ты будешь поражена.."
     cedrick "Ахах, всему свое время, Элион. Рано или поздно, я все тебе расскажу, ты будешь поражена.."
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:95
-translate crowdin take_elyon_home_77e16937:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:96
+translate crowdin gallery_d_045_77e16937:
 
     # elion "Скорее бы.."
     elion "Скорее бы.."
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:98
-translate crowdin take_elyon_home_c24afab7:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:99
+translate crowdin gallery_d_045_c24afab7:
 
     # cedrick "Да, скорее бы... Ну, я пойду, можете не провожать"
     cedrick "Да, скорее бы... Ну, я пойду, можете не провожать"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:100
-translate crowdin take_elyon_home_fd54c095:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:101
+translate crowdin gallery_d_045_fd54c095:
 
     # thomas "До скорого, Рик!"
     thomas "До скорого, Рик!"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:101
-translate crowdin take_elyon_home_3c31c1e0:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:102
+translate crowdin gallery_d_045_3c31c1e0:
 
     # eleanor "Рады были повидать"
     eleanor "Рады были повидать"
 
-# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:102
-translate crowdin take_elyon_home_d1335afa:
+# game/scripts/quests/takeElyonHome/take_elyon_home.rpy:103
+translate crowdin gallery_d_045_d1335afa:
 
     # elion "До завтра, Рик!"
     elion "До завтра, Рик!"

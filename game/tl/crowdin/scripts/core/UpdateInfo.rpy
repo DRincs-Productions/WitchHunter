@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/core/UpdateInfo.rpy:272
 translate crowdin update_info_end_label_ab20a80b:
@@ -11,10 +11,6 @@ translate crowdin strings:
     # game/scripts/core/UpdateInfo.rpy:176
     old "Продолжить"
     new "Продолжить"
-
-    # game/scripts/core/UpdateInfo.rpy:179
-    old "Вернуться в главное меню"
-    new "Вернуться в главное меню"
 
     # game/scripts/core/UpdateInfo.rpy:199
     old "Не удалось получить информацию о новом обновлении. В этом случае вы можете получить информацию о всех обновлениях на наших страницах:"

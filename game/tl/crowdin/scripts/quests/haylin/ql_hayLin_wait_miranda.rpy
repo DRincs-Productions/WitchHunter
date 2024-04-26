@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:6
 translate crowdin ql_hayLin_wait_miranda_6140d12b:
@@ -102,176 +102,176 @@ translate crowdin ql_hayLin_wait_miranda_b6434515:
     # cedrick "...Он уже ждет, думаю не стоит заставлять его ждать"
     cedrick "...Он уже ждет, думаю не стоит заставлять его ждать"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:64
-translate crowdin ql_hayLin_wait_miranda_16338089:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:66
+translate crowdin gallery_d_016_16338089:
 
     # miranda "Подожди, Седрик.. Помнишь, как во время одной из дворцовых интриг тебя отравили, а яд вместо того, чтобы убить, сделал тебя неконтролируемо похотливым?"
     miranda "Подожди, Седрик.. Помнишь, как во время одной из дворцовых интриг тебя отравили, а яд вместо того, чтобы убить, сделал тебя неконтролируемо похотливым?"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:68
-translate crowdin ql_hayLin_wait_miranda_b040b332:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:70
+translate crowdin gallery_d_016_b040b332:
 
     # cedrick " ...Было дело, никто не ожидал, что на такого змея, как я, яд сработает как афродизиак, хах"
     cedrick " ...Было дело, никто не ожидал, что на такого змея, как я, яд сработает как афродизиак, хах"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:72
-translate crowdin ql_hayLin_wait_miranda_39d09037:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:74
+translate crowdin gallery_d_016_39d09037:
 
     # miranda "И ты при этом не мог трансформироваться и буянил в форме змея..."
     miranda "И ты при этом не мог трансформироваться и буянил в форме змея..."
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:76
-translate crowdin ql_hayLin_wait_miranda_6eb7f8bb:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:78
+translate crowdin gallery_d_016_6eb7f8bb:
 
     # cedrick "Хах, Фобос тогда был чертовски зол.."
     cedrick "Хах, Фобос тогда был чертовски зол.."
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:80
-translate crowdin ql_hayLin_wait_miranda_c34f7c43:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:82
+translate crowdin gallery_d_016_c34f7c43:
 
     # miranda "Помнишь, сколько времени мы провели у меня и сколько раз мне пришлось работать руками, чтобы тебя успокоить, потому что с твоим огромным змеиным членом больше ничего нельзя было сделать?"
     miranda "Помнишь, сколько времени мы провели у меня и сколько раз мне пришлось работать руками, чтобы тебя успокоить, потому что с твоим огромным змеиным членом больше ничего нельзя было сделать?"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:84
-translate crowdin ql_hayLin_wait_miranda_f803dbfd:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:86
+translate crowdin gallery_d_016_f803dbfd:
 
     # cedrick "..К чему ты клонишь, Миранда?"
     cedrick "..К чему ты клонишь, Миранда?"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:88
-translate crowdin ql_hayLin_wait_miranda_4e06626e:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:90
+translate crowdin gallery_d_016_4e06626e:
 
     # miranda "Хочешь, я подрочу тебе, как тогда?"
     miranda "Хочешь, я подрочу тебе, как тогда?"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:92
-translate crowdin ql_hayLin_wait_miranda_e05d5225:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:94
+translate crowdin gallery_d_016_e05d5225:
 
     # cedrick "Прямо сейчас?!"
     cedrick "Прямо сейчас?!"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:96
-translate crowdin ql_hayLin_wait_miranda_0417df9d:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:98
+translate crowdin gallery_d_016_0417df9d:
 
     # miranda "Да, прямо сейчас, Седрик! Мне тоже это нужно.."
     miranda "Да, прямо сейчас, Седрик! Мне тоже это нужно.."
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:100
-translate crowdin ql_hayLin_wait_miranda_bbad2638:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:102
+translate crowdin gallery_d_016_bbad2638:
 
     # cedrick "Что ж.. А я-то думал, к чему это ты предаешься старым воспоминаниям"
     cedrick "Что ж.. А я-то думал, к чему это ты предаешься старым воспоминаниям"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:104
-translate crowdin ql_hayLin_wait_miranda_50817503:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:106
+translate crowdin gallery_d_016_50817503:
 
     # cedrick "Ммм, да, как в старые-добрые времена.. Продолжай.."
     cedrick "Ммм, да, как в старые-добрые времена.. Продолжай.."
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:105
-translate crowdin ql_hayLin_wait_miranda_10d631c0:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:107
+translate crowdin gallery_d_016_10d631c0:
 
     # miranda "Нравится?"
     miranda "Нравится?"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:106
-translate crowdin ql_hayLin_wait_miranda_e77c57c7:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:108
+translate crowdin gallery_d_016_e77c57c7:
 
     # cedrick "Черт, в этом деле лучше тебя нет.."
     cedrick "Черт, в этом деле лучше тебя нет.."
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:107
-translate crowdin ql_hayLin_wait_miranda_2ae56faa:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:109
+translate crowdin gallery_d_016_2ae56faa:
 
     # miranda "Конечно.. С тобой у меня была куча времени, чтобы потренироваться.."
     miranda "Конечно.. С тобой у меня была куча времени, чтобы потренироваться.."
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:112
-translate crowdin ql_hayLin_wait_miranda_c3d1d646:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:114
+translate crowdin gallery_d_016_c3d1d646:
 
     # cedrick "Охххх, отравление определенно того стоило..."
     cedrick "Охххх, отравление определенно того стоило..."
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:113
-translate crowdin ql_hayLin_wait_miranda_79f20078:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:115
+translate crowdin gallery_d_016_79f20078:
 
     # miranda "Ты уже близко?"
     miranda "Ты уже близко?"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:114
-translate crowdin ql_hayLin_wait_miranda_1557c6c6:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:116
+translate crowdin gallery_d_016_1557c6c6:
 
     # cedrick "Да, уффф, с тобой долго не продержишься.."
     cedrick "Да, уффф, с тобой долго не продержишься.."
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:115
-translate crowdin ql_hayLin_wait_miranda_3ae83a79:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:117
+translate crowdin gallery_d_016_3ae83a79:
 
     # miranda "Кончай на меня.. Давай, кончи на меня, прямо как в тот раз!"
     miranda "Кончай на меня.. Давай, кончи на меня, прямо как в тот раз!"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:117
-translate crowdin ql_hayLin_wait_miranda_29201ae3:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:119
+translate crowdin gallery_d_016_29201ae3:
 
     # cedrick "Ууууууфф, получай!"
     cedrick "Ууууууфф, получай!"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:120
-translate crowdin ql_hayLin_wait_miranda_16f2d08e:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:122
+translate crowdin gallery_d_016_16f2d08e:
 
     # miranda "Ммм, отлично, ты забрызгал меня всю.."
     miranda "Ммм, отлично, ты забрызгал меня всю.."
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:121
-translate crowdin ql_hayLin_wait_miranda_bb23c0f0:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:123
+translate crowdin gallery_d_016_bb23c0f0:
 
     # cedrick "Ты сама об этом просила"
     cedrick "Ты сама об этом просила"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:124
-translate crowdin ql_hayLin_wait_miranda_a20cefa7:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:126
+translate crowdin gallery_d_016_a20cefa7:
 
     # "..."
     "..."
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:128
-translate crowdin ql_hayLin_wait_miranda_1912c0d0:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:130
+translate crowdin gallery_d_016_1912c0d0:
 
     # miranda "Да, я не говорю, что мне это не нравится"
     miranda "Да, я не говорю, что мне это не нравится"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:129
-translate crowdin ql_hayLin_wait_miranda_1efc7dc8:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:131
+translate crowdin gallery_d_016_1efc7dc8:
 
     # cedrick "Ох.. Ладно, пойдем, не будем заставлять Фобоса ждать"
     cedrick "Ох.. Ладно, пойдем, не будем заставлять Фобоса ждать"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:133
-translate crowdin ql_hayLin_wait_miranda_b75cc0a7:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:135
+translate crowdin gallery_d_016_b75cc0a7:
 
     # miranda "..Седрик?"
     miranda "..Седрик?"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:137
-translate crowdin ql_hayLin_wait_miranda_dc7cf739:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:139
+translate crowdin gallery_d_016_dc7cf739:
 
     # cedrick "М?"
     cedrick "М?"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:141
-translate crowdin ql_hayLin_wait_miranda_e7762d8d:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:143
+translate crowdin gallery_d_016_e7762d8d:
 
     # miranda "Не забывай все, что между нами было. Ты можешь спать со Стражницами сколько угодно, но..."
     miranda "Не забывай все, что между нами было. Ты можешь спать со Стражницами сколько угодно, но..."
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:145
-translate crowdin ql_hayLin_wait_miranda_f8abc6c5:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:147
+translate crowdin gallery_d_016_f8abc6c5:
 
     # cedrick "...Но это не сравнится с тем, что было между нами? Я знаю, Миранда, я же сплю с тобой уже ни одну сотню лет"
     cedrick "...Но это не сравнится с тем, что было между нами? Я знаю, Миранда, я же сплю с тобой уже ни одну сотню лет"
 
-# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:149
-translate crowdin ql_hayLin_wait_miranda_7c084085:
+# game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:151
+translate crowdin gallery_d_016_7c084085:
 
     # miranda "Хах, ну хорошо, змей искуситель.. Пойдем, мне еще надо привести себя в порядок"
     miranda "Хах, ну хорошо, змей искуситель.. Пойдем, мне еще надо привести себя в порядок"

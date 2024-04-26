@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:3
 translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_db823e8f:
@@ -7,10 +7,10 @@ translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_db823e8f:
     cedrick "Я уже предложил Элион провести вечер чтения в форме служанки"
 
 # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:7
-translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_697d0ac9:
+translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_8de3a9a4:
 
-    # cedrick "Элион как насчет того чтобы устроить сегодня публичный чтения?"
-    cedrick "Элион как насчет того чтобы устроить сегодня публичный чтения?"
+    # cedrick "Элион как насчет того чтобы устроить сегодня публичные чтения?"
+    cedrick "Элион как насчет того чтобы устроить сегодня публичные чтения?"
 
 # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:11
 translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_f7c66284:

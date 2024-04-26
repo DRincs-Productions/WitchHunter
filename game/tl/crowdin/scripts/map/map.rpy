@@ -1,10 +1,16 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
-# game/scripts/map/map.rpy:108
+# game/scripts/map/map.rpy:110
 translate crowdin map_59b5a4ee:
 
     # cedrick "(А теперь зайдем-ка в Серебряный дракон)"
     cedrick "(А теперь зайдем-ка в Серебряный дракон)"
+
+# game/scripts/map/map.rpy:114
+translate crowdin map_006f5390:
+
+    # cedrick "(Отлично, посылка для Вилл у меня, подарки тоже. Возвращаемся домой)"
+    cedrick "(Отлично, посылка для Вилл у меня, подарки тоже. Возвращаемся домой)"
 
 translate crowdin strings:
 

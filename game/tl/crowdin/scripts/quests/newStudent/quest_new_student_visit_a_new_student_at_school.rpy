@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:7
 translate crowdin quest_new_student_visit_a_new_student_at_school_51e77407:
@@ -294,188 +294,188 @@ translate crowdin quest_new_student_visit_a_new_student_at_school_a20cefa7_3:
     # "..."
     "..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:93
-translate crowdin quest_new_student_visit_a_new_student_at_school_8240d241:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:94
+translate crowdin gallery_d_028_8240d241:
 
     # cedrick "(Что она здесь делает.. в такой позе..)"
     cedrick "(Что она здесь делает.. в такой позе..)"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:94
-translate crowdin quest_new_student_visit_a_new_student_at_school_c6c4f51e:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:95
+translate crowdin gallery_d_028_c6c4f51e:
 
     # sondra "Мистер Хоффман... я и не подозревала, что вы помимо истории ведете еще и физкультуру"
     sondra "Мистер Хоффман... я и не подозревала, что вы помимо истории ведете еще и физкультуру"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:95
-translate crowdin quest_new_student_visit_a_new_student_at_school_ed843afb:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:96
+translate crowdin gallery_d_028_ed843afb:
 
     # cedrick "Это скорее исключение из правил"
     cedrick "Это скорее исключение из правил"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:96
-translate crowdin quest_new_student_visit_a_new_student_at_school_23b7bdac:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:97
+translate crowdin gallery_d_028_23b7bdac:
 
     # sondra "Так вы у нас нарушаете правила? А не проведете со мной сегодня сеанс специальной тренировки.."
     sondra "Так вы у нас нарушаете правила? А не проведете со мной сегодня сеанс специальной тренировки.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:97
-translate crowdin quest_new_student_visit_a_new_student_at_school_03dd1e7b:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:98
+translate crowdin gallery_d_028_03dd1e7b:
 
     # cedrick "Специальной тренировки?? Что ты имеешь ввиду.."
     cedrick "Специальной тренировки?? Что ты имеешь ввиду.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:98
-translate crowdin quest_new_student_visit_a_new_student_at_school_b7ae3fbf:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:99
+translate crowdin gallery_d_028_b7ae3fbf:
 
     # sondra "Ну же.. Я видела каким извращенным вглядом вы смотрели на меня во время урока.."
     sondra "Ну же.. Я видела каким извращенным вглядом вы смотрели на меня во время урока.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:99
-translate crowdin quest_new_student_visit_a_new_student_at_school_d821c0d3:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:100
+translate crowdin gallery_d_028_d821c0d3:
 
     # sondra "Думали я не заметила?"
     sondra "Думали я не заметила?"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:100
-translate crowdin quest_new_student_visit_a_new_student_at_school_67f6966d:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:101
+translate crowdin gallery_d_028_67f6966d:
 
     # cedrick "Ничего подобного.."
     cedrick "Ничего подобного.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:101
-translate crowdin quest_new_student_visit_a_new_student_at_school_96d83ca3:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:102
+translate crowdin gallery_d_028_96d83ca3:
 
     # sondra "Я же вижу, как вы смотрите на меня, мистер Хоффман.. Я знаю чего вы хотите.."
     sondra "Я же вижу, как вы смотрите на меня, мистер Хоффман.. Я знаю чего вы хотите.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:103
-translate crowdin quest_new_student_visit_a_new_student_at_school_90a9aa13:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:104
+translate crowdin gallery_d_028_90a9aa13:
 
     # sondra "...Вы можете достать его.."
     sondra "...Вы можете достать его.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:104
-translate crowdin quest_new_student_visit_a_new_student_at_school_55c93b1f:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:105
+translate crowdin gallery_d_028_55c93b1f:
 
     # sondra "Ну же..."
     sondra "Ну же..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:108
-translate crowdin quest_new_student_visit_a_new_student_at_school_9e178363:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:109
+translate crowdin gallery_d_028_9e178363:
 
     # cedrick "Я.. Я не думаю, что это будет уместно, ведь я учитель. Я не могу воспользоваться своим положением..."
     cedrick "Я.. Я не думаю, что это будет уместно, ведь я учитель. Я не могу воспользоваться своим положением..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:109
-translate crowdin quest_new_student_visit_a_new_student_at_school_f19b5c49:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:110
+translate crowdin gallery_d_028_f19b5c49:
 
     # sondra "Давай, покажите мне свой член… а не то я скажу, что вы ко мне приставали..."
     sondra "Давай, покажите мне свой член… а не то я скажу, что вы ко мне приставали..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:111
-translate crowdin quest_new_student_visit_a_new_student_at_school_5f9b772e_1:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:112
+translate crowdin gallery_d_028_5f9b772e:
 
     # "...."
     "...."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:114
-translate crowdin quest_new_student_visit_a_new_student_at_school_297ec669:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:115
+translate crowdin gallery_d_028_297ec669:
 
     # sondra "Огооо, так вот он какой.."
     sondra "Огооо, так вот он какой.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:115
-translate crowdin quest_new_student_visit_a_new_student_at_school_ee235912:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:116
+translate crowdin gallery_d_028_ee235912:
 
     # sondra "Вам наверное было тяжело сдерживать такой огромный стояк.."
     sondra "Вам наверное было тяжело сдерживать такой огромный стояк.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:116
-translate crowdin quest_new_student_visit_a_new_student_at_school_e87c9524:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:117
+translate crowdin gallery_d_028_e87c9524:
 
     # cedrick "Если нас кто-нибудь увидит.."
     cedrick "Если нас кто-нибудь увидит.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:117
-translate crowdin quest_new_student_visit_a_new_student_at_school_29984e3d:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:118
+translate crowdin gallery_d_028_29984e3d:
 
     # sondra "Это навряд ли. Учитывая что здесь сейчас никого и все ушли на урок.."
     sondra "Это навряд ли. Учитывая что здесь сейчас никого и все ушли на урок.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:118
-translate crowdin quest_new_student_visit_a_new_student_at_school_3078c1af:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:119
+translate crowdin gallery_d_028_3078c1af:
 
     # sondra "Только глянь, какой твердый он стал..."
     sondra "Только глянь, какой твердый он стал..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:119
-translate crowdin quest_new_student_visit_a_new_student_at_school_f637c254:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:120
+translate crowdin gallery_d_028_f637c254:
 
     # sondra "А вы еще тот извращенец, не так ли?.."
     sondra "А вы еще тот извращенец, не так ли?.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:120
-translate crowdin quest_new_student_visit_a_new_student_at_school_cd62a954:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:121
+translate crowdin gallery_d_028_cd62a954:
 
     # sondra "Признайтесь, вам же нравится это…"
     sondra "Признайтесь, вам же нравится это…"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:121
-translate crowdin quest_new_student_visit_a_new_student_at_school_911cec74:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:122
+translate crowdin gallery_d_028_911cec74:
 
     # cedrick "(Чего вообще она добивается..)"
     cedrick "(Чего вообще она добивается..)"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:122
-translate crowdin quest_new_student_visit_a_new_student_at_school_a60368ce:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:123
+translate crowdin gallery_d_028_a60368ce:
 
     # cedrick "Да..... чертовски хорошо"
     cedrick "Да..... чертовски хорошо"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:124
-translate crowdin quest_new_student_visit_a_new_student_at_school_14fc9239:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:125
+translate crowdin gallery_d_028_14fc9239:
 
     # sondra "Ну, пожалуй, мне пора идти"
     sondra "Ну, пожалуй, мне пора идти"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:126
-translate crowdin quest_new_student_visit_a_new_student_at_school_8ebf0bb1:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:127
+translate crowdin gallery_d_028_8ebf0bb1:
 
     # sondra "А не то я могу опоздать на урок"
     sondra "А не то я могу опоздать на урок"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:127
-translate crowdin quest_new_student_visit_a_new_student_at_school_06fd0a82:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:128
+translate crowdin gallery_d_028_06fd0a82:
 
     # cedrick "П-постой.."
     cedrick "П-постой.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:128
-translate crowdin quest_new_student_visit_a_new_student_at_school_01d8da36:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:129
+translate crowdin gallery_d_028_01d8da36:
 
     # sondra "Ммм?"
     sondra "Ммм?"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:129
-translate crowdin quest_new_student_visit_a_new_student_at_school_367515e4:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:130
+translate crowdin gallery_d_028_367515e4:
 
     # cedrick "Ты не можешь меня так оставить!.."
     cedrick "Ты не можешь меня так оставить!.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:130
-translate crowdin quest_new_student_visit_a_new_student_at_school_26c2a4ca:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:131
+translate crowdin gallery_d_028_26c2a4ca:
 
     # sondra "Еще как могу! Вы ведь не хотели пользоваться своим положением, учитель.."
     sondra "Еще как могу! Вы ведь не хотели пользоваться своим положением, учитель.."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:132
-translate crowdin quest_new_student_visit_a_new_student_at_school_a20cefa7_4:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:133
+translate crowdin gallery_d_028_a20cefa7:
 
     # "..."
     "..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:133
-translate crowdin quest_new_student_visit_a_new_student_at_school_ba571c88:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:134
+translate crowdin gallery_d_028_ba571c88:
 
     # cedrick "(Вот.. Сука.. Она просто играла со мной....)"
     cedrick "(Вот.. Сука.. Она просто играла со мной....)"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/police_station/police_station.rpy:13
 translate crowdin police_station_inaccessible_door_ae1873e0:
@@ -162,181 +162,181 @@ translate crowdin police_station_room33_guards_13f460ad:
     # "Патруль 3"
     "Патруль 3"
 
-# game/scripts/police_station/police_station.rpy:189
-translate crowdin police_station_room30_51b93eeb:
+# game/scripts/police_station/police_station.rpy:190
+translate crowdin gallery_d_067_51b93eeb:
 
     # woman_prisoner "Ч-что это вообще за костюм.. Любишь ролевые игры, извращенец?"
     woman_prisoner "Ч-что это вообще за костюм.. Любишь ролевые игры, извращенец?"
 
-# game/scripts/police_station/police_station.rpy:191
-translate crowdin police_station_room30_37886181:
+# game/scripts/police_station/police_station.rpy:192
+translate crowdin gallery_d_067_37886181:
 
     # gordon "Меньше болтовни, заключенная. Забыла с кем разговариваешь? Или хочешь торчать здесь следующие 20 лет?"
     gordon "Меньше болтовни, заключенная. Забыла с кем разговариваешь? Или хочешь торчать здесь следующие 20 лет?"
 
-# game/scripts/police_station/police_station.rpy:192
-translate crowdin police_station_room30_dd82b993:
+# game/scripts/police_station/police_station.rpy:193
+translate crowdin gallery_d_067_dd82b993:
 
     # woman_prisoner "П-простите, комиссар"
     woman_prisoner "П-простите, комиссар"
 
-# game/scripts/police_station/police_station.rpy:193
-translate crowdin police_station_room30_15237153:
+# game/scripts/police_station/police_station.rpy:194
+translate crowdin gallery_d_067_15237153:
 
     # gordon "Так-то лучше. Давай, девчонка, скачи на моем члене"
     gordon "Так-то лучше. Давай, девчонка, скачи на моем члене"
 
-# game/scripts/police_station/police_station.rpy:194
-translate crowdin police_station_room30_bc47c6ee:
+# game/scripts/police_station/police_station.rpy:195
+translate crowdin gallery_d_067_bc47c6ee:
 
     # woman_prisoner "Х-хорошо.."
     woman_prisoner "Х-хорошо.."
 
-# game/scripts/police_station/police_station.rpy:195
-translate crowdin police_station_room30_ea2f84ca:
+# game/scripts/police_station/police_station.rpy:196
+translate crowdin gallery_d_067_ea2f84ca:
 
     # gordon "Не понял?"
     gordon "Не понял?"
 
-# game/scripts/police_station/police_station.rpy:196
-translate crowdin police_station_room30_cf75aaeb:
+# game/scripts/police_station/police_station.rpy:197
+translate crowdin gallery_d_067_cf75aaeb:
 
     # woman_prisoner "То есть.. Е-есть, комиссар Гордон"
     woman_prisoner "То есть.. Е-есть, комиссар Гордон"
 
-# game/scripts/police_station/police_station.rpy:197
-translate crowdin police_station_room30_a6d2fe44:
+# game/scripts/police_station/police_station.rpy:198
+translate crowdin gallery_d_067_a6d2fe44:
 
     # gordon "Опять неверно.."
     gordon "Опять неверно.."
 
-# game/scripts/police_station/police_station.rpy:198
-translate crowdin police_station_room30_5abba122:
+# game/scripts/police_station/police_station.rpy:199
+translate crowdin gallery_d_067_5abba122:
 
     # woman_prisoner "Эм.. Как скажешь, папочка?"
     woman_prisoner "Эм.. Как скажешь, папочка?"
 
-# game/scripts/police_station/police_station.rpy:199
-translate crowdin police_station_room30_06f32c69:
+# game/scripts/police_station/police_station.rpy:200
+translate crowdin gallery_d_067_06f32c69:
 
     # gordon "Вот, теперь угадала. Не выбивайся из образа.."
     gordon "Вот, теперь угадала. Не выбивайся из образа.."
 
-# game/scripts/police_station/police_station.rpy:200
-translate crowdin police_station_room30_2d2facf4:
+# game/scripts/police_station/police_station.rpy:201
+translate crowdin gallery_d_067_2d2facf4:
 
     # woman_prisoner "Х-хорошо.. Мммм.."
     woman_prisoner "Х-хорошо.. Мммм.."
 
-# game/scripts/police_station/police_station.rpy:201
-translate crowdin police_station_room30_ff454efa:
+# game/scripts/police_station/police_station.rpy:202
+translate crowdin gallery_d_067_ff454efa:
 
     # gordon "О да, ты такая горячая.. Молодая рыжеволосая девчонка, черт, ты так похожа на.."
     gordon "О да, ты такая горячая.. Молодая рыжеволосая девчонка, черт, ты так похожа на.."
 
-# game/scripts/police_station/police_station.rpy:202
-translate crowdin police_station_room30_666da3ee:
+# game/scripts/police_station/police_station.rpy:203
+translate crowdin gallery_d_067_666da3ee:
 
     # woman_prisoner "Ааааах.. Н-на кого?"
     woman_prisoner "Ааааах.. Н-на кого?"
 
-# game/scripts/police_station/police_station.rpy:203
-translate crowdin police_station_room30_83491cf6:
+# game/scripts/police_station/police_station.rpy:204
+translate crowdin gallery_d_067_83491cf6:
 
     # gordon "А, впрочем тебе этого знать не стоит.. Просто продолжай.."
     gordon "А, впрочем тебе этого знать не стоит.. Просто продолжай.."
 
-# game/scripts/police_station/police_station.rpy:204
-translate crowdin police_station_room30_7d6bd053:
+# game/scripts/police_station/police_station.rpy:205
+translate crowdin gallery_d_067_7d6bd053:
 
     # woman_prisoner "Х-хорошо, папочка.."
     woman_prisoner "Х-хорошо, папочка.."
 
-# game/scripts/police_station/police_station.rpy:205
-translate crowdin police_station_room30_02603164:
+# game/scripts/police_station/police_station.rpy:206
+translate crowdin gallery_d_067_02603164:
 
     # gordon "Оооо даааа.. Барбара, да!"
     gordon "Оооо даааа.. Барбара, да!"
 
-# game/scripts/police_station/police_station.rpy:206
-translate crowdin police_station_room30_22440fde:
+# game/scripts/police_station/police_station.rpy:207
+translate crowdin gallery_d_067_22440fde:
 
     # cedrick "(Какого черта..)"
     cedrick "(Какого черта..)"
 
-# game/scripts/police_station/police_station.rpy:207
-translate crowdin police_station_room30_3949b495:
+# game/scripts/police_station/police_station.rpy:208
+translate crowdin gallery_d_067_3949b495:
 
     # cedrick "(Ну, зато теперь я знаю, что Гордон мне не помешает.. Стоп.. Кажется я понял, какой пароль)"
     cedrick "(Ну, зато теперь я знаю, что Гордон мне не помешает.. Стоп.. Кажется я понял, какой пароль)"
 
-# game/scripts/police_station/police_station.rpy:214
-translate crowdin police_station_room30_cd56832b:
+# game/scripts/police_station/police_station.rpy:215
+translate crowdin gallery_d_067_cd56832b:
 
     # cedrick "(Мне нечего там делать)"
     cedrick "(Мне нечего там делать)"
 
-# game/scripts/police_station/police_station.rpy:510
+# game/scripts/police_station/police_station.rpy:511
 translate crowdin police_sheff_office_056f5798:
 
     # cedrick "(Что ж, и наш пароль это..)"
     cedrick "(Что ж, и наш пароль это..)"
 
-# game/scripts/police_station/police_station.rpy:519
+# game/scripts/police_station/police_station.rpy:520
 translate crowdin police_sheff_office_989212d7:
 
     # cedrick "(Я на месте. Нужно зайти в компьютер, пока меня не обнаружили)"
     cedrick "(Я на месте. Нужно зайти в компьютер, пока меня не обнаружили)"
 
-# game/scripts/police_station/police_station.rpy:522
+# game/scripts/police_station/police_station.rpy:523
 translate crowdin police_sheff_office_96cf48ee:
 
     # cedrick "(Черт..)"
     cedrick "(Черт..)"
 
-# game/scripts/police_station/police_station.rpy:523
+# game/scripts/police_station/police_station.rpy:524
 translate crowdin police_sheff_office_b2c6f693:
 
     # cedrick "(Ну конечно же он заблокирован, это же главный компьютер в полицейском участке.. Мне нужен пароль..)"
     cedrick "(Ну конечно же он заблокирован, это же главный компьютер в полицейском участке.. Мне нужен пароль..)"
 
-# game/scripts/police_station/police_station.rpy:524
+# game/scripts/police_station/police_station.rpy:525
 translate crowdin police_sheff_office_0e153a3c:
 
     # cedrick "(Хм.. Может в участке я смогу найти подсказку? Нужно проверить другие комнаты и не попасться полиции в западном и северо-восточном крыле)"
     cedrick "(Хм.. Может в участке я смогу найти подсказку? Нужно проверить другие комнаты и не попасться полиции в западном и северо-восточном крыле)"
 
-# game/scripts/police_station/police_station.rpy:529
+# game/scripts/police_station/police_station.rpy:530
 translate crowdin police_sheff_office_9cdcaeb5:
 
     # cedrick "(Я все еще не знаю пароль, мне нечего там делать)"
     cedrick "(Я все еще не знаю пароль, мне нечего там делать)"
 
-# game/scripts/police_station/police_station.rpy:561
+# game/scripts/police_station/police_station.rpy:562
 translate crowdin police_computer_input_password_7b15bff1:
 
     # "system" "Принято"
     "system" "Принято"
 
-# game/scripts/police_station/police_station.rpy:563
+# game/scripts/police_station/police_station.rpy:564
 translate crowdin police_computer_input_password_be1b8ff2:
 
     # cedrick "(Старый извращенец.. Ладно, я вошел в систему, теперь нужно найти информацию о Медине)"
     cedrick "(Старый извращенец.. Ладно, я вошел в систему, теперь нужно найти информацию о Медине)"
 
-# game/scripts/police_station/police_station.rpy:572
+# game/scripts/police_station/police_station.rpy:573
 translate crowdin police_computer_input_password_89e4f7e2:
 
     # "system" "Отказано"
     "system" "Отказано"
 
-# game/scripts/police_station/police_station.rpy:573
+# game/scripts/police_station/police_station.rpy:574
 translate crowdin police_computer_input_password_9201bf31:
 
     # cedrick "Черт.."
     cedrick "Черт.."
 
-# game/scripts/police_station/police_station.rpy:582
+# game/scripts/police_station/police_station.rpy:583
 translate crowdin police_computer_folders_4b6a12e6:
 
     # cedrick "(Это явно не та папка, что мне нужна..)"
@@ -352,67 +352,67 @@ translate crowdin strings:
     old "Атаковать Детектива"
     new "Атаковать Детектива"
 
-    # game/scripts/police_station/police_station.rpy:425
+    # game/scripts/police_station/police_station.rpy:426
     old "База данных участка"
     new "База данных участка"
 
-    # game/scripts/police_station/police_station.rpy:425
+    # game/scripts/police_station/police_station.rpy:426
     old "Архив сотрудников"
     new "Архив сотрудников"
 
-    # game/scripts/police_station/police_station.rpy:425
+    # game/scripts/police_station/police_station.rpy:426
     old "Архтив заключенных"
     new "Архтив заключенных"
 
-    # game/scripts/police_station/police_station.rpy:425
+    # game/scripts/police_station/police_station.rpy:426
     old "Открытые дела"
     new "Открытые дела"
 
-    # game/scripts/police_station/police_station.rpy:425
+    # game/scripts/police_station/police_station.rpy:426
     old "Закрытые дела"
     new "Закрытые дела"
 
-    # game/scripts/police_station/police_station.rpy:425
+    # game/scripts/police_station/police_station.rpy:426
     old "ГРДН"
     new "ГРДН"
 
-    # game/scripts/police_station/police_station.rpy:435
+    # game/scripts/police_station/police_station.rpy:436
     old "Медина"
     new "Медина"
 
-    # game/scripts/police_station/police_station.rpy:435
+    # game/scripts/police_station/police_station.rpy:436
     old "Мактиннен"
     new "Мактиннен"
 
-    # game/scripts/police_station/police_station.rpy:441
+    # game/scripts/police_station/police_station.rpy:442
     old "Судья"
     new "Судья"
 
-    # game/scripts/police_station/police_station.rpy:441
+    # game/scripts/police_station/police_station.rpy:442
     old "Окружной прокурор"
     new "Окружной прокурор"
 
-    # game/scripts/police_station/police_station.rpy:441
+    # game/scripts/police_station/police_station.rpy:442
     old "Шериф"
     new "Шериф"
 
-    # game/scripts/police_station/police_station.rpy:441
+    # game/scripts/police_station/police_station.rpy:442
     old "Зам мэра"
     new "Зам мэра"
 
-    # game/scripts/police_station/police_station.rpy:441
+    # game/scripts/police_station/police_station.rpy:442
     old "Женщина в черном"
     new "Женщина в черном"
 
-    # game/scripts/police_station/police_station.rpy:552
+    # game/scripts/police_station/police_station.rpy:553
     old "Папочка"
     new "Папочка"
 
-    # game/scripts/police_station/police_station.rpy:552
+    # game/scripts/police_station/police_station.rpy:553
     old "Барбара"
     new "Барбара"
 
-    # game/scripts/police_station/police_station.rpy:552
+    # game/scripts/police_station/police_station.rpy:553
     old "Бэтгерл"
     new "Бэтгерл"
 

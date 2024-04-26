@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:5
 translate crowdin goToConcert_a20cefa7:
@@ -186,182 +186,182 @@ translate crowdin goToConcert_8f74cc0e:
     # cedrick "(Последнего барда на Меридиане, который пытался дать концерт крестьянам, Фобос приказал закидать камнями, снять с него живьем кожу и повесить... Были времена...)"
     cedrick "(Последнего барда на Меридиане, который пытался дать концерт крестьянам, Фобос приказал закидать камнями, снять с него живьем кожу и повесить... Были времена...)"
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:79
-translate crowdin goToConcert_51df324c:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:80
+translate crowdin gallery_d_012_51df324c:
 
     # cornelia "Очень жаль, что Элион не смогла пойти на концерт с нами..."
     cornelia "Очень жаль, что Элион не смогла пойти на концерт с нами..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:80
-translate crowdin goToConcert_be4d3363:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:81
+translate crowdin gallery_d_012_be4d3363:
 
     # cedrick "Да... Действительно жаль, что ее с нами нет..."
     cedrick "Да... Действительно жаль, что ее с нами нет..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:81
-translate crowdin goToConcert_a20cefa7_5:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:82
+translate crowdin gallery_d_012_a20cefa7:
 
     # "..."
     "..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:82
-translate crowdin goToConcert_07bdde05_2:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:83
+translate crowdin gallery_d_012_07bdde05:
 
     # "....."
     "....."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:83
-translate crowdin goToConcert_748b0ace:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:84
+translate crowdin gallery_d_012_748b0ace:
 
     # cedrick "Может... выпьем чего-нибудь покрепче?"
     cedrick "Может... выпьем чего-нибудь покрепче?"
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:84
-translate crowdin goToConcert_59506d0a:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:85
+translate crowdin gallery_d_012_59506d0a:
 
     # cornelia "Ну... Я даже не знаю..."
     cornelia "Ну... Я даже не знаю..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:85
-translate crowdin goToConcert_87a25691:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:86
+translate crowdin gallery_d_012_87a25691:
 
     # cedrick "Ну, если ты ни разу не пила алкоголь, то это совсем и не обязательно..."
     cedrick "Ну, если ты ни разу не пила алкоголь, то это совсем и не обязательно..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:88
-translate crowdin goToConcert_88f11067:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:89
+translate crowdin gallery_d_012_88f11067:
 
     # cornelia "Я пробовала алкоголь!"
     cornelia "Я пробовала алкоголь!"
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:89
-translate crowdin goToConcert_7a0f1292:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:90
+translate crowdin gallery_d_012_7a0f1292:
 
     # cornelia "Дайте два стакана вашего лучшего виски!"
     cornelia "Дайте два стакана вашего лучшего виски!"
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:91
-translate crowdin goToConcert_07bdde05_3:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:92
+translate crowdin gallery_d_012_07bdde05_1:
 
     # "....."
     "....."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:94
-translate crowdin goToConcert_5f9b772e_2:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:95
+translate crowdin gallery_d_012_5f9b772e:
 
     # "...."
     "...."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:95
-translate crowdin goToConcert_7d9d74b7:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:96
+translate crowdin gallery_d_012_7d9d74b7:
 
     # cornelia "Ух..."
     cornelia "Ух..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:98
-translate crowdin goToConcert_59d498be:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:99
+translate crowdin gallery_d_012_59d498be:
 
     # cedrick "Бармен! Еще по одной!"
     cedrick "Бармен! Еще по одной!"
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:101
-translate crowdin goToConcert_a20cefa7_6:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:102
+translate crowdin gallery_d_012_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:104
-translate crowdin goToConcert_54328b6b:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:105
+translate crowdin gallery_d_012_54328b6b:
 
     # centered "{size=37}Через некоторое время...{/size}" with Dissolve(1)
     centered "{size=37}Через некоторое время...{/size}" with Dissolve(1)
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:108
-translate crowdin goToConcert_2251f16f:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:109
+translate crowdin gallery_d_012_2251f16f:
 
     # cornelia "Знаешь, Рик… Иик! Я так тебе благодарна… Ты такой милый.."
     cornelia "Знаешь, Рик… Иик! Я так тебе благодарна… Ты такой милый.."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:109
-translate crowdin goToConcert_5db6eefe:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:110
+translate crowdin gallery_d_012_5db6eefe:
 
     # cornelia "Я раньше таких никогда не встречала..."
     cornelia "Я раньше таких никогда не встречала..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:110
-translate crowdin goToConcert_e0aeeb3b:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:111
+translate crowdin gallery_d_012_e0aeeb3b:
 
     # cedrick "Ты выглядишь очень самоуверенно... Но мне кажется, что в глубине твоей души, ты очень нежная и романтичная натура..."
     cedrick "Ты выглядишь очень самоуверенно... Но мне кажется, что в глубине твоей души, ты очень нежная и романтичная натура..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:111
-translate crowdin goToConcert_22e5867a:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:112
+translate crowdin gallery_d_012_22e5867a:
 
     # cornelia "Рии...ииик..."
     cornelia "Рии...ииик..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:118
-translate crowdin goToConcert_a20cefa7_7:
-
-    # "..."
-    "..."
-
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:119
-translate crowdin goToConcert_a20cefa7_8:
+translate crowdin gallery_d_012_a20cefa7_2:
 
     # "..."
     "..."
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:120
-translate crowdin goToConcert_5f9b772e_3:
-
-    # "...."
-    "...."
-
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:121
-translate crowdin goToConcert_a20cefa7_9:
+translate crowdin gallery_d_012_a20cefa7_3:
 
     # "..."
     "..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:123
-translate crowdin goToConcert_e316bdc9:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:121
+translate crowdin gallery_d_012_5f9b772e_1:
+
+    # "...."
+    "...."
+
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:122
+translate crowdin gallery_d_012_a20cefa7_4:
+
+    # "..."
+    "..."
+
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:124
+translate crowdin gallery_d_012_e316bdc9:
 
     # cornelia "Ох Рик… Иик! Извини..."
     cornelia "Ох Рик… Иик! Извини..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:124
-translate crowdin goToConcert_bf1b4429:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:125
+translate crowdin gallery_d_012_bf1b4429:
 
     # cornelia "Ты очень милый, но..."
     cornelia "Ты очень милый, но..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:125
-translate crowdin goToConcert_161eb3c1:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:126
+translate crowdin gallery_d_012_161eb3c1:
 
     # cornelia "...просто... у меня есть парень..."
     cornelia "...просто... у меня есть парень..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:126
-translate crowdin goToConcert_721dffba:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:127
+translate crowdin gallery_d_012_721dffba:
 
     # cornelia "Не подумай, я не такая..."
     cornelia "Не подумай, я не такая..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:127
-translate crowdin goToConcert_675d3da5:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:128
+translate crowdin gallery_d_012_675d3da5:
 
     # cedrick "Ничего страшного, ты просто немного перепила..."
     cedrick "Ничего страшного, ты просто немного перепила..."
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:128
-translate crowdin goToConcert_272292c1:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:130
+translate crowdin gallery_d_012_272292c1:
 
     # cedrick "(Я даже и не знал, что у нее есть парень. Это может стать проблемой... Для него)"
     cedrick "(Я даже и не знал, что у нее есть парень. Это может стать проблемой... Для него)"
 
-# game/scripts/quests/getConcertTickets/goToConcert.rpy:129
-translate crowdin goToConcert_a20cefa7_10:
+# game/scripts/quests/getConcertTickets/goToConcert.rpy:131
+translate crowdin gallery_d_012_a20cefa7_5:
 
     # "..."
     "..."

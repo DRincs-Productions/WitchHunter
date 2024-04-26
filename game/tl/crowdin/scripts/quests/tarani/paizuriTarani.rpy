@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:5
 translate crowdin paizuriTarani_54173553:
@@ -66,134 +66,134 @@ translate crowdin paizuriTarani_1ee5b6c4:
     # tarani "Я постараюсь.."
     tarani "Я постараюсь.."
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:25
-translate crowdin paizuriTarani_42fdc3a9:
+# game/scripts/quests/tarani/paizuriTarani.rpy:26
+translate crowdin gallery_d_009_42fdc3a9:
 
     # cedrick "Мда, парень ни на что негоден.. Надеюсь хоть ты за него постараешься, Тарани"
     cedrick "Мда, парень ни на что негоден.. Надеюсь хоть ты за него постараешься, Тарани"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:29
-translate crowdin paizuriTarani_6431c766:
+# game/scripts/quests/tarani/paizuriTarani.rpy:30
+translate crowdin gallery_d_009_6431c766:
 
     # tarani "Хватит давить на меня.."
     tarani "Хватит давить на меня.."
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:32
-translate crowdin paizuriTarani_b0d660bb:
+# game/scripts/quests/tarani/paizuriTarani.rpy:33
+translate crowdin gallery_d_009_b0d660bb:
 
     # cedrick "Ну, этого бы не произошло, если бы ты вовремя надавила на Найджела и он взялся бы за ум. А теперь разве что ты можешь взяться за мой член"
     cedrick "Ну, этого бы не произошло, если бы ты вовремя надавила на Найджела и он взялся бы за ум. А теперь разве что ты можешь взяться за мой член"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:33
-translate crowdin paizuriTarani_96bd030f:
+# game/scripts/quests/tarani/paizuriTarani.rpy:34
+translate crowdin gallery_d_009_96bd030f:
 
     # tarani "......"
     tarani "......"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:34
-translate crowdin paizuriTarani_63b5a7de:
+# game/scripts/quests/tarani/paizuriTarani.rpy:35
+translate crowdin gallery_d_009_63b5a7de:
 
     # cedrick "Хм, между твоими девочками довольно приятно, но не хочешь ускорить процесс? Возьми его в рот."
     cedrick "Хм, между твоими девочками довольно приятно, но не хочешь ускорить процесс? Возьми его в рот."
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:37
-translate crowdin paizuriTarani_d55b0eb0:
+# game/scripts/quests/tarani/paizuriTarani.rpy:38
+translate crowdin gallery_d_009_d55b0eb0:
 
     # tarani "Ч-что?! Я не стану брать эту штуку себе в рот, ты понял!"
     tarani "Ч-что?! Я не стану брать эту штуку себе в рот, ты понял!"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:40
-translate crowdin paizuriTarani_7f2b788d:
+# game/scripts/quests/tarani/paizuriTarani.rpy:41
+translate crowdin gallery_d_009_7f2b788d:
 
     # tarani "(Черт, да я даже Найджелу не отсасывала, а тебе не отсосу уж точно. Я вообще не уверена, что эта штука сможет поместиться мне в рот...)"
     tarani "(Черт, да я даже Найджелу не отсасывала, а тебе не отсосу уж точно. Я вообще не уверена, что эта штука сможет поместиться мне в рот...)"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:41
-translate crowdin paizuriTarani_c4bfbd29:
+# game/scripts/quests/tarani/paizuriTarani.rpy:42
+translate crowdin gallery_d_009_c4bfbd29:
 
     # cedrick "Ох, какая ты недотрога. Ты уже дрочишь мне, прячась от всех под столом, чего уж стыдиться?"
     cedrick "Ох, какая ты недотрога. Ты уже дрочишь мне, прячась от всех под столом, чего уж стыдиться?"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:44
-translate crowdin paizuriTarani_8d97f227:
+# game/scripts/quests/tarani/paizuriTarani.rpy:45
+translate crowdin gallery_d_009_8d97f227:
 
     # tarani "Я.. Думаю вкус этой штуковины будет мне противен"
     tarani "Я.. Думаю вкус этой штуковины будет мне противен"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:47
-translate crowdin paizuriTarani_a9d63d3f:
+# game/scripts/quests/tarani/paizuriTarani.rpy:48
+translate crowdin gallery_d_009_a9d63d3f:
 
     # cedrick "Думаешь? Так ты что, еще никому не отсасывала? Хах, а в тот раз так резво набросилась на мой член, словно все уже с ним успела проделать"
     cedrick "Думаешь? Так ты что, еще никому не отсасывала? Хах, а в тот раз так резво набросилась на мой член, словно все уже с ним успела проделать"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:48
-translate crowdin paizuriTarani_5c034e7a:
+# game/scripts/quests/tarani/paizuriTarani.rpy:49
+translate crowdin gallery_d_009_5c034e7a:
 
     # cedrick "Постой-ка, получается ты не сосала Найджелу? Вы с ним что, еще даже не спали?"
     cedrick "Постой-ка, получается ты не сосала Найджелу? Вы с ним что, еще даже не спали?"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:51
-translate crowdin paizuriTarani_02f8aba2:
+# game/scripts/quests/tarani/paizuriTarani.rpy:52
+translate crowdin gallery_d_009_02f8aba2:
 
     # tarani "...Заткнись"
     tarani "...Заткнись"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:54
-translate crowdin paizuriTarani_867b5a86:
+# game/scripts/quests/tarani/paizuriTarani.rpy:55
+translate crowdin gallery_d_009_867b5a86:
 
     # cedrick "Ох, бедный пацан. Как же он опечалится, когда я заберу твой первый раз"
     cedrick "Ох, бедный пацан. Как же он опечалится, когда я заберу твой первый раз"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:55
-translate crowdin paizuriTarani_253dfb5e:
+# game/scripts/quests/tarani/paizuriTarani.rpy:56
+translate crowdin gallery_d_009_253dfb5e:
 
     # tarani "Этого никогда не произойдет, ты, придурок.."
     tarani "Этого никогда не произойдет, ты, придурок.."
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:56
-translate crowdin paizuriTarani_e650d6ae:
+# game/scripts/quests/tarani/paizuriTarani.rpy:57
+translate crowdin gallery_d_009_e650d6ae:
 
     # cedrick "Ну, прямо сейчас ты дрочишь мне, а не ему. У меня как минимум есть шансы, не считаешь?"
     cedrick "Ну, прямо сейчас ты дрочишь мне, а не ему. У меня как минимум есть шансы, не считаешь?"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:59
-translate crowdin paizuriTarani_ae2ceb25:
+# game/scripts/quests/tarani/paizuriTarani.rpy:60
+translate crowdin gallery_d_009_ae2ceb25:
 
     # tarani "Кончай уже.."
     tarani "Кончай уже.."
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:60
-translate crowdin paizuriTarani_e44c2b10:
+# game/scripts/quests/tarani/paizuriTarani.rpy:61
+translate crowdin gallery_d_009_e44c2b10:
 
     # cedrick "Ох, ты ускорилась? Да, с этой злостью в глазах ты мне нравишься больше. Дрянная девчонка, продолжай!"
     cedrick "Ох, ты ускорилась? Да, с этой злостью в глазах ты мне нравишься больше. Дрянная девчонка, продолжай!"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:61
-translate crowdin paizuriTarani_8a78f40a:
+# game/scripts/quests/tarani/paizuriTarani.rpy:62
+translate crowdin gallery_d_009_8a78f40a:
 
     # cedrick "Я уже близко.. Почти.."
     cedrick "Я уже близко.. Почти.."
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:66
-translate crowdin paizuriTarani_a20cefa7:
+# game/scripts/quests/tarani/paizuriTarani.rpy:67
+translate crowdin gallery_d_009_a20cefa7:
 
     # "..."
     "..."
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:69
-translate crowdin paizuriTarani_92351330:
+# game/scripts/quests/tarani/paizuriTarani.rpy:70
+translate crowdin gallery_d_009_92351330:
 
     # tarani "Ублюдок, ты все лицо мне забрызгал. Мерзость.."
     tarani "Ублюдок, ты все лицо мне забрызгал. Мерзость.."
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:70
-translate crowdin paizuriTarani_8c6480e9:
+# game/scripts/quests/tarani/paizuriTarani.rpy:71
+translate crowdin gallery_d_009_8c6480e9:
 
     # cedrick "Привыкай, дорогая, это не последний раз, когда твое лицо заливается моей спермой"
     cedrick "Привыкай, дорогая, это не последний раз, когда твое лицо заливается моей спермой"
 
-# game/scripts/quests/tarani/paizuriTarani.rpy:74
-translate crowdin paizuriTarani_a1eb2b24:
+# game/scripts/quests/tarani/paizuriTarani.rpy:75
+translate crowdin gallery_d_009_a1eb2b24:
 
     # tarani "(Это мы еще посмотрим, засранец.. Я не могу позволить, чтобы это продолжалось.. Пока он не забрал мою девственность..)"
     tarani "(Это мы еще посмотрим, засранец.. Я не могу позволить, чтобы это продолжалось.. Пока он не забрал мою девственность..)"

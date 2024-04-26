@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:56
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 translate crowdin strings:
 
@@ -6,11 +6,11 @@ translate crowdin strings:
     old "Выбрать цель:"
     new "Выбрать цель:"
 
-    # game/scripts/fight/screens.rpy:163
+    # game/scripts/fight/screens.rpy:226
     old "(ур. {player_level}) "
     new "(ур. {player_level}) "
 
-    # game/scripts/fight/screens.rpy:332
+    # game/scripts/fight/screens.rpy:472
     old "Загрузка"
     new "Загрузка"
 

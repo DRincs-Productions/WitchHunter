@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:56
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 translate crowdin strings:
 
@@ -85,10 +85,6 @@ translate crowdin strings:
     # game/scripts/main_menu/preferences/preferences.rpy:233
     old "FPS анимаций ([fps])"
     new "FPS анимаций ([fps])"
-
-    # game/scripts/main_menu/preferences/preferences.rpy:238
-    old "Применить"
-    new "Применить"
 
     # game/scripts/main_menu/preferences/preferences.rpy:252
     old "Ожидать загрузку боя"

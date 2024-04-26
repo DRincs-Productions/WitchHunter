@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:4
 translate crowdin crystal_essence_help_will_with_her_studies_2_a9395fd6:
@@ -90,356 +90,356 @@ translate crowdin crystal_essence_help_will_with_her_studies_2_f2768d86:
     # centered "{size=37}ПОСЛЕ ДОЛГИХ ЗАНУДНЫХ РЕЧЕЙ{/size}"
     centered "{size=37}ПОСЛЕ ДОЛГИХ ЗАНУДНЫХ РЕЧЕЙ{/size}"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:44
-translate crowdin crystal_essence_help_will_with_her_studies_2_fd6da3dd:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:45
+translate crowdin gallery_d_055_fd6da3dd:
 
     # will "Ам, Р-рик.."
     will "Ам, Р-рик.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:45
-translate crowdin crystal_essence_help_will_with_her_studies_2_951f75a8:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:46
+translate crowdin gallery_d_055_951f75a8:
 
     # cedrick "Что такое, Вилл?"
     cedrick "Что такое, Вилл?"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:46
-translate crowdin crystal_essence_help_will_with_her_studies_2_c10b1669:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:47
+translate crowdin gallery_d_055_c10b1669:
 
     # will "Я.. Я, пожалуй, пойду.. мне что-то не хорошо.."
     will "Я.. Я, пожалуй, пойду.. мне что-то не хорошо.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:47
-translate crowdin crystal_essence_help_will_with_her_studies_2_33a91e11:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:48
+translate crowdin gallery_d_055_33a91e11:
 
     # cedrick "Эм, но как же.."
     cedrick "Эм, но как же.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:51
-translate crowdin crystal_essence_help_will_with_her_studies_2_f923796a:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:52
+translate crowdin gallery_d_055_f923796a:
 
     # will "Мне нужно отдохнуть, Рик.."
     will "Мне нужно отдохнуть, Рик.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:52
-translate crowdin crystal_essence_help_will_with_her_studies_2_33f93ae9:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:53
+translate crowdin gallery_d_055_33f93ae9:
 
     # cedrick "Хорошо, Вилл, я тебя понял"
     cedrick "Хорошо, Вилл, я тебя понял"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:55
-translate crowdin crystal_essence_help_will_with_her_studies_2_e7fbae29:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:56
+translate crowdin gallery_d_055_e7fbae29:
 
     # will "(Ч-черт, этот жар.. он стал только сильнее.. я не могу с ним справиться, я должна что-то с эти сделать..)"
     will "(Ч-черт, этот жар.. он стал только сильнее.. я не могу с ним справиться, я должна что-то с эти сделать..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:56
-translate crowdin crystal_essence_help_will_with_her_studies_2_d0bff4c2:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:57
+translate crowdin gallery_d_055_d0bff4c2:
 
     # will "(Это чувство в животе.. я должна как-то его унять.. может, пойти поесть и просто лечь спать...)"
     will "(Это чувство в животе.. я должна как-то его унять.. может, пойти поесть и просто лечь спать...)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:59
-translate crowdin crystal_essence_help_will_with_her_studies_2_0f8a9103:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:60
+translate crowdin gallery_d_055_0f8a9103:
 
     # cedrick "(Черт, она так быстро убежала, что я не успел закрепить эффект эссенции прикосновением.. Так не пойдет, из-за этого весь план может рухнуть..)"
     cedrick "(Черт, она так быстро убежала, что я не успел закрепить эффект эссенции прикосновением.. Так не пойдет, из-за этого весь план может рухнуть..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:62
-translate crowdin crystal_essence_help_will_with_her_studies_2_4ec9bbe2:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:63
+translate crowdin gallery_d_055_4ec9bbe2:
 
     # centered "{size=37}Позже на кухне{/size}"
     centered "{size=37}Позже на кухне{/size}"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:66
-translate crowdin crystal_essence_help_will_with_her_studies_2_c9023d23:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:67
+translate crowdin gallery_d_055_c9023d23:
 
     # cedrick "(Отлично, она меня не заметила. Змеиная проворность дает о себе знать. Но что же я с ней сделаю)"
     cedrick "(Отлично, она меня не заметила. Змеиная проворность дает о себе знать. Но что же я с ней сделаю)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:67
-translate crowdin crystal_essence_help_will_with_her_studies_2_3c901131:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:68
+translate crowdin gallery_d_055_3c901131:
 
     # cedrick "(Кажется, у меня есть идея)"
     cedrick "(Кажется, у меня есть идея)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:77
-translate crowdin crystal_essence_help_will_with_her_studies_2_c81f5419:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:78
+translate crowdin gallery_d_055_c81f5419:
 
     # will "А-ах.. С-стоп, что!?"
     will "А-ах.. С-стоп, что!?"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:78
-translate crowdin crystal_essence_help_will_with_her_studies_2_dc7497ab:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:79
+translate crowdin gallery_d_055_dc7497ab:
 
     # cedrick "Ох, Вилл!? Это ты?! П-прости, я-я перепутал тебя с твоей мамой.."
     cedrick "Ох, Вилл!? Это ты?! П-прости, я-я перепутал тебя с твоей мамой.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:79
-translate crowdin crystal_essence_help_will_with_her_studies_2_32c55d1e:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:80
+translate crowdin gallery_d_055_32c55d1e:
 
     # will "Ч-что.. т-ты.. ты не можешь так просто.. ахххх"
     will "Ч-что.. т-ты.. ты не можешь так просто.. ахххх"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:80
-translate crowdin crystal_essence_help_will_with_her_studies_2_630f402f:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:81
+translate crowdin gallery_d_055_630f402f:
 
     # cedrick "Прости, вы с ней сзади так похожи.."
     cedrick "Прости, вы с ней сзади так похожи.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:81
-translate crowdin crystal_essence_help_will_with_her_studies_2_e0fb0c79:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:82
+translate crowdin gallery_d_055_e0fb0c79:
 
     # will "П-похожи сзади, да.."
     will "П-похожи сзади, да.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:82
-translate crowdin crystal_essence_help_will_with_her_studies_2_3421d114:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:83
+translate crowdin gallery_d_055_3421d114:
 
     # will "(А он явно знает, о чем говорит.. Но для меня интересно другое - если он нас перепутал, значит сейчас он и на мою попку заглядывался.. В-вот значит как...)"
     will "(А он явно знает, о чем говорит.. Но для меня интересно другое - если он нас перепутал, значит сейчас он и на мою попку заглядывался.. В-вот значит как...)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:83
-translate crowdin crystal_essence_help_will_with_her_studies_2_5bb1bead:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:84
+translate crowdin gallery_d_055_5bb1bead:
 
     # will "Р-рик.. Не мог бы ты.."
     will "Р-рик.. Не мог бы ты.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:84
-translate crowdin crystal_essence_help_will_with_her_studies_2_73a16893:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:85
+translate crowdin gallery_d_055_73a16893:
 
     # cedrick "Что такое?"
     cedrick "Что такое?"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:85
-translate crowdin crystal_essence_help_will_with_her_studies_2_1b36e3c5:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:86
+translate crowdin gallery_d_055_1b36e3c5:
 
     # will "Т-твоя рука.. она все еще.. трогает меня.."
     will "Т-твоя рука.. она все еще.. трогает меня.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:86
-translate crowdin crystal_essence_help_will_with_her_studies_2_af2ad1dd:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:87
+translate crowdin gallery_d_055_af2ad1dd:
 
     # cedrick "Ох, черт.. Прости, так удивился, что даже забыл ее убрать, так глупо, ахах.."
     cedrick "Ох, черт.. Прости, так удивился, что даже забыл ее убрать, так глупо, ахах.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:87
-translate crowdin crystal_essence_help_will_with_her_studies_2_ba4f2f3b:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:88
+translate crowdin gallery_d_055_ba4f2f3b:
 
     # will "Н-ничего страшного..."
     will "Н-ничего страшного..."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:95
-translate crowdin crystal_essence_help_will_with_her_studies_2_587ba09a:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:96
+translate crowdin gallery_d_055_587ba09a:
 
     # will "Р-рик.. Ч-что ты себе позволяешь!? отпусти.."
     will "Р-рик.. Ч-что ты себе позволяешь!? отпусти.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:96
-translate crowdin crystal_essence_help_will_with_her_studies_2_90677df2:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:97
+translate crowdin gallery_d_055_90677df2:
 
     # cedrick "Ох, Вилл, это ты.. Прости, сзади показалось, что это Сьюзан"
     cedrick "Ох, Вилл, это ты.. Прости, сзади показалось, что это Сьюзан"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:98
-translate crowdin crystal_essence_help_will_with_her_studies_2_eaba960e:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:99
+translate crowdin gallery_d_055_eaba960e:
 
     # will "А-ахах.. Б-бывает, ошибся.. Н-но, может, ты меня отпустишь?"
     will "А-ахах.. Б-бывает, ошибся.. Н-но, может, ты меня отпустишь?"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:99
-translate crowdin crystal_essence_help_will_with_her_studies_2_baa69915:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:100
+translate crowdin gallery_d_055_baa69915:
 
     # cedrick "А что не так?"
     cedrick "А что не так?"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:102
-translate crowdin crystal_essence_help_will_with_her_studies_2_6406ebe5:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:103
+translate crowdin gallery_d_055_6406ebe5:
 
     # will "Ч-что!? Т-ты же схватил меня за шею.. и.. з-за гру.."
     will "Ч-что!? Т-ты же схватил меня за шею.. и.. з-за гру.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:103
-translate crowdin crystal_essence_help_will_with_her_studies_2_dbd6305b:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:104
+translate crowdin gallery_d_055_dbd6305b:
 
     # cedrick "А ты и не сопротивляешься, так зачем мне тогда останавливаться?"
     cedrick "А ты и не сопротивляешься, так зачем мне тогда останавливаться?"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:105
-translate crowdin crystal_essence_help_will_with_her_studies_2_5420499a:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:106
+translate crowdin gallery_d_055_5420499a:
 
     # will "Ч-что.. Что!? А ну прекрати это сейчас же, Рик!! Я буду кричать"
     will "Ч-что.. Что!? А ну прекрати это сейчас же, Рик!! Я буду кричать"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:106
-translate crowdin crystal_essence_help_will_with_her_studies_2_9a80a4af:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:107
+translate crowdin gallery_d_055_9a80a4af:
 
     # cedrick "Очень много слов и полное отсутствие действий. Я сразу бы отпустил тебя, Вилл, если бы ты не начала таять в моих руках"
     cedrick "Очень много слов и полное отсутствие действий. Я сразу бы отпустил тебя, Вилл, если бы ты не начала таять в моих руках"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:107
-translate crowdin crystal_essence_help_will_with_her_studies_2_2216fae3:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:108
+translate crowdin gallery_d_055_2216fae3:
 
     # will "Э-эй! Н-не говори такие вещи.."
     will "Э-эй! Н-не говори такие вещи.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:108
-translate crowdin crystal_essence_help_will_with_her_studies_2_8ddac100:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:109
+translate crowdin gallery_d_055_8ddac100:
 
     # cedrick "Знаешь, ты сейчас на столько мягкая и беспомощная, что если бы не мои руки, ты бы тут же упала с ног. Почему твои коленки так трясутся, Вилл?"
     cedrick "Знаешь, ты сейчас на столько мягкая и беспомощная, что если бы не мои руки, ты бы тут же упала с ног. Почему твои коленки так трясутся, Вилл?"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:110
-translate crowdin crystal_essence_help_will_with_her_studies_2_c686d8e5:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:111
+translate crowdin gallery_d_055_c686d8e5:
 
     # will "Рик! Э-это переходит все границы!"
     will "Рик! Э-это переходит все границы!"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:111
-translate crowdin crystal_essence_help_will_with_her_studies_2_aa4675b1:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:112
+translate crowdin gallery_d_055_aa4675b1:
 
     # will "(Ч-черт, что со мной.. он перешел черту дозволенного.. но вместо того, чтобы оттолкнуть его, я не хочу, чтобы он меня отпускал..)"
     will "(Ч-черт, что со мной.. он перешел черту дозволенного.. но вместо того, чтобы оттолкнуть его, я не хочу, чтобы он меня отпускал..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:112
-translate crowdin crystal_essence_help_will_with_her_studies_2_486a7bdf:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:113
+translate crowdin gallery_d_055_486a7bdf:
 
     # will "(Вместо того, чтобы кричать, мне хочется лишь издавать стон.. Н-нет, это слишком...)"
     will "(Вместо того, чтобы кричать, мне хочется лишь издавать стон.. Н-нет, это слишком...)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:121
-translate crowdin crystal_essence_help_will_with_her_studies_2_cfc05854:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:124
+translate crowdin gallery_d_055_cfc05854:
 
     # will "Р-рик, я больше так не могу.. мне нужно уйти.. срочно.."
     will "Р-рик, я больше так не могу.. мне нужно уйти.. срочно.."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:122
-translate crowdin crystal_essence_help_will_with_her_studies_2_c1114554:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:125
+translate crowdin gallery_d_055_c1114554:
 
     # will "(Если я ничего не сделаю с возникшим прямо сейчас жаром, я просто взорвусь..)"
     will "(Если я ничего не сделаю с возникшим прямо сейчас жаром, я просто взорвусь..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:125
-translate crowdin crystal_essence_help_will_with_her_studies_2_22285fb5:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:128
+translate crowdin gallery_d_055_22285fb5:
 
     # cedrick "(Хах, она отреагировала куда мягче, чем я рассчитывал. Буквально пару дней назад такие мои действия не прошли бы без последствий и так просто я бы не отделался)"
     cedrick "(Хах, она отреагировала куда мягче, чем я рассчитывал. Буквально пару дней назад такие мои действия не прошли бы без последствий и так просто я бы не отделался)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:126
-translate crowdin crystal_essence_help_will_with_her_studies_2_bb65eaac:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:129
+translate crowdin gallery_d_055_bb65eaac:
 
     # cedrick "(Отлично, вода начала точить камень. Интересно, как далеко я смогу зайти)"
     cedrick "(Отлично, вода начала точить камень. Интересно, как далеко я смогу зайти)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:132
-translate crowdin crystal_essence_help_will_with_her_studies_2_c51ab26f:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:135
+translate crowdin gallery_d_055_c51ab26f:
 
     # will "(Ч-черт, как же жарко.. Этот жар просто разрывает меня изнутри.. Это что, какая-то магия.. Н-нет, не может быть..)"
     will "(Ч-черт, как же жарко.. Этот жар просто разрывает меня изнутри.. Это что, какая-то магия.. Н-нет, не может быть..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:133
-translate crowdin crystal_essence_help_will_with_her_studies_2_312edef3:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:136
+translate crowdin gallery_d_055_312edef3:
 
     # will "(Глядя на мою мать несколько дней назад.. Неудивительно, что я выросла такой же развратницей.. Ааааах, как же горячо..)"
     will "(Глядя на мою мать несколько дней назад.. Неудивительно, что я выросла такой же развратницей.. Ааааах, как же горячо..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:134
-translate crowdin crystal_essence_help_will_with_her_studies_2_e12a2fc9:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:137
+translate crowdin gallery_d_055_e12a2fc9:
 
     # will "(М-мастурбация.. точно, в тот раз она помогла.. н-нужно просто.. начать мастурбировать..)"
     will "(М-мастурбация.. точно, в тот раз она помогла.. н-нужно просто.. начать мастурбировать..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:140
-translate crowdin crystal_essence_help_will_with_her_studies_2_a01d694d:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:143
+translate crowdin gallery_d_055_a01d694d:
 
     # will "(Аааах, дааа.. так лучше.. так стало намного лучше..)"
     will "(Аааах, дааа.. так лучше.. так стало намного лучше..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:141
-translate crowdin crystal_essence_help_will_with_her_studies_2_78fcf0bd:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:144
+translate crowdin gallery_d_055_78fcf0bd:
 
     # will "(Черт, это же потрясающе.. почему я не занималась этим раньше.. аааааввв..)"
     will "(Черт, это же потрясающе.. почему я не занималась этим раньше.. аааааввв..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:142
-translate crowdin crystal_essence_help_will_with_her_studies_2_2d93a6f5:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:145
+translate crowdin gallery_d_055_2d93a6f5:
 
     # will "(В-всю ту энергию, что я выплескивала во время плавания, я могла выплеснуть, просто мастурбируя..)"
     will "(В-всю ту энергию, что я выплескивала во время плавания, я могла выплеснуть, просто мастурбируя..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:143
-translate crowdin crystal_essence_help_will_with_her_studies_2_3f15ffcd:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:146
+translate crowdin gallery_d_055_3f15ffcd:
 
     # will "(К-какое же, ааааах, отличное чувство)"
     will "(К-какое же, ааааах, отличное чувство)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:146
-translate crowdin crystal_essence_help_will_with_her_studies_2_a1237172:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:149
+translate crowdin gallery_d_055_a1237172:
 
     # centered "{size=37}СПУСТЯ ПАРУ ЧАСОВ{/size}"
     centered "{size=37}СПУСТЯ ПАРУ ЧАСОВ{/size}"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:152
-translate crowdin crystal_essence_help_will_with_her_studies_2_befe961d:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:155
+translate crowdin gallery_d_055_befe961d:
 
     # will "(Какого черта.. П-почему.. я уже так долго стараюсь.. но я не могу больше кончить.. аааахх..)"
     will "(Какого черта.. П-почему.. я уже так долго стараюсь.. но я не могу больше кончить.. аааахх..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:154
-translate crowdin crystal_essence_help_will_with_her_studies_2_1ff3be98:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:157
+translate crowdin gallery_d_055_1ff3be98:
 
     # susan "Вилл, милая, все хорошо? Тебе нездоровится?"
     susan "Вилл, милая, все хорошо? Тебе нездоровится?"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:157
-translate crowdin crystal_essence_help_will_with_her_studies_2_85ca928b:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:160
+translate crowdin gallery_d_055_85ca928b:
 
     # will "М-мам! Н-не входи, ч-черт.. Все хорошо.. п-просто.. ааххх, не входи! Оставь меня!"
     will "М-мам! Н-не входи, ч-черт.. Все хорошо.. п-просто.. ааххх, не входи! Оставь меня!"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:158
-translate crowdin crystal_essence_help_will_with_her_studies_2_ca523ed8:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:161
+translate crowdin gallery_d_055_ca523ed8:
 
     # susan "Ух, хорошо"
     susan "Ух, хорошо"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:159
-translate crowdin crystal_essence_help_will_with_her_studies_2_e9d7d9bb:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:162
+translate crowdin gallery_d_055_e9d7d9bb:
 
     # susan "(Ох уж эти сложные подростки)"
     susan "(Ох уж эти сложные подростки)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:162
-translate crowdin crystal_essence_help_will_with_her_studies_2_dd9e81db:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:165
+translate crowdin gallery_d_055_dd9e81db:
 
     # will "(Черт... я не могу, просто не могу.. аххх.. это все Рик.. Долбаный Рик со своим.. оооох..)"
     will "(Черт... я не могу, просто не могу.. аххх.. это все Рик.. Долбаный Рик со своим.. оооох..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:163
-translate crowdin crystal_essence_help_will_with_her_studies_2_2e97f2f4:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:166
+translate crowdin gallery_d_055_2e97f2f4:
 
     # will "(Со своим долбанным.. огромным членом.. и со своими... со своими постоянными прикосновениями..)"
     will "(Со своим долбанным.. огромным членом.. и со своими... со своими постоянными прикосновениями..)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:164
-translate crowdin crystal_essence_help_will_with_her_studies_2_c89cdda9:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:167
+translate crowdin gallery_d_055_c89cdda9:
 
     # will "Аааааавввв!"
     will "Аааааавввв!"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:166
-translate crowdin crystal_essence_help_will_with_her_studies_2_81d86bd3:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:169
+translate crowdin gallery_d_055_81d86bd3:
 
     # will "(Я кончаю!!)"
     will "(Я кончаю!!)"
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:169
-translate crowdin crystal_essence_help_will_with_her_studies_2_a20cefa7_1:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:172
+translate crowdin gallery_d_055_a20cefa7:
 
     # "..."
     "..."
 
-# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:170
-translate crowdin crystal_essence_help_will_with_her_studies_2_35b9a600:
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:173
+translate crowdin gallery_d_055_35b9a600:
 
     # will "(н-но почему.. только начав о нем я смогла кончить.. п-почему!)"
     will "(н-но почему.. только начав о нем я смогла кончить.. п-почему!)"

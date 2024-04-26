@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:56
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 translate crowdin strings:
 
@@ -45,6 +45,14 @@ translate crowdin strings:
     # game/scripts/meridian/castle_label.rpy:62
     old "Темница 3"
     new "Темница 3"
+
+    # game/scripts/meridian/castle_label.rpy:62
+    old "Темница Вилл"
+    new "Темница Вилл"
+
+    # game/scripts/meridian/castle_label.rpy:62
+    old "Темница Ирмы"
+    new "Темница Ирмы"
 
     # game/scripts/meridian/castle_label.rpy:64
     old "Темница Алхими"

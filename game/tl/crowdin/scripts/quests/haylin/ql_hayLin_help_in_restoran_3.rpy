@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:6
 translate crowdin ql_hayLin_help_in_restoran_3_a8c174e7:
@@ -90,200 +90,200 @@ translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7_1:
     # "..."
     "..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:44
-translate crowdin ql_hayLin_help_in_restoran_3_030ca97b:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:45
+translate crowdin gallery_d_017_030ca97b:
 
     # haylin "Рик! Что ты здесь делаешь? Продукты лежат дальше по коридору!"
     haylin "Рик! Что ты здесь делаешь? Продукты лежат дальше по коридору!"
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:46
-translate crowdin ql_hayLin_help_in_restoran_3_e19efefa:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:47
+translate crowdin gallery_d_017_e19efefa:
 
     # cedrick "Почему в вашем подвале так много крыс? Это не допустимо"
     cedrick "Почему в вашем подвале так много крыс? Это не допустимо"
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:50
-translate crowdin ql_hayLin_help_in_restoran_3_58a9b319:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:51
+translate crowdin gallery_d_017_58a9b319:
 
     # haylin "Я знаю, что нужно от них избавиться, но я не могу... Я просто не могу лишить жизни таких бедных, безобидных мышек... они такие милые..."
     haylin "Я знаю, что нужно от них избавиться, но я не могу... Я просто не могу лишить жизни таких бедных, безобидных мышек... они такие милые..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:51
-translate crowdin ql_hayLin_help_in_restoran_3_1211de95:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:52
+translate crowdin gallery_d_017_1211de95:
 
     # cedrick "Я обязан сообщить об этом в специальную службу..."
     cedrick "Я обязан сообщить об этом в специальную службу..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:55
-translate crowdin ql_hayLin_help_in_restoran_3_5afbe7be:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:56
+translate crowdin gallery_d_017_5afbe7be:
 
     # haylin "Не надо, пожалуйста..! Наша репутация и так висит на волоске... Нас могут закрыть..."
     haylin "Не надо, пожалуйста..! Наша репутация и так висит на волоске... Нас могут закрыть..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:56
-translate crowdin ql_hayLin_help_in_restoran_3_cfc7cce4:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:57
+translate crowdin gallery_d_017_cfc7cce4:
 
     # cedrick "Как порядочный и законопослушный гражданин, я не могу оставить это без внимания..."
     cedrick "Как порядочный и законопослушный гражданин, я не могу оставить это без внимания..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:60
-translate crowdin ql_hayLin_help_in_restoran_3_328957fe:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:61
+translate crowdin gallery_d_017_328957fe:
 
     # haylin "Рик, я прошу тебя... Если нас закроют, то моя бабушка этого не выдержит... Нам нечем будет платить аренду и моя семья останется на улице..."
     haylin "Рик, я прошу тебя... Если нас закроют, то моя бабушка этого не выдержит... Нам нечем будет платить аренду и моя семья останется на улице..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:63
-translate crowdin ql_hayLin_help_in_restoran_3_8166c036:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:64
+translate crowdin gallery_d_017_8166c036:
 
     # haylin "Что... Что ты делаешь!?"
     haylin "Что... Что ты делаешь!?"
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:64
-translate crowdin ql_hayLin_help_in_restoran_3_26b7f81a:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:65
+translate crowdin gallery_d_017_26b7f81a:
 
     # cedrick "Думаю... Я бы смог закрыть на это глаза, если ты сможешь отвлечь меня от мысли, что людям приходится есть в таком отвратительном заведении..."
     cedrick "Думаю... Я бы смог закрыть на это глаза, если ты сможешь отвлечь меня от мысли, что людям приходится есть в таком отвратительном заведении..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:65
-translate crowdin ql_hayLin_help_in_restoran_3_a88336d3:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:66
+translate crowdin gallery_d_017_a88336d3:
 
     # haylin "Отвлечь? Чего ты хочешь..."
     haylin "Отвлечь? Чего ты хочешь..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:67
-translate crowdin ql_hayLin_help_in_restoran_3_333ac915:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:68
+translate crowdin gallery_d_017_333ac915:
 
     # cedrick "Ты понимаешь, о чем я..."
     cedrick "Ты понимаешь, о чем я..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:68
-translate crowdin ql_hayLin_help_in_restoran_3_17614c52:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:69
+translate crowdin gallery_d_017_17614c52:
 
     # haylin "Не надо..."
     haylin "Не надо..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:69
-translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7_2:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:70
+translate crowdin gallery_d_017_a20cefa7:
 
     # "..."
     "..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:71
-translate crowdin ql_hayLin_help_in_restoran_3_ea7c122e:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:72
+translate crowdin gallery_d_017_ea7c122e:
 
     # haylin "Я не хочу этого... Отстань от меня..! Ты... просто... чудовище!"
     haylin "Я не хочу этого... Отстань от меня..! Ты... просто... чудовище!"
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:72
-translate crowdin ql_hayLin_help_in_restoran_3_a5b33620:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:73
+translate crowdin gallery_d_017_a5b33620:
 
     # cedrick "Тише... Не стоит так кричать... Твои родители могут спуститься сюда... Ты же не хочешь, чтобы они видели это..?"
     cedrick "Тише... Не стоит так кричать... Твои родители могут спуститься сюда... Ты же не хочешь, чтобы они видели это..?"
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:73
-translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7_3:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:74
+translate crowdin gallery_d_017_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:75
-translate crowdin ql_hayLin_help_in_restoran_3_969bab10:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:76
+translate crowdin gallery_d_017_969bab10:
 
     # cedrick "Подумай о здоровье своей бабушки..."
     cedrick "Подумай о здоровье своей бабушки..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:76
-translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7_4:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:77
+translate crowdin gallery_d_017_a20cefa7_2:
 
     # "..."
     "..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:77
-translate crowdin ql_hayLin_help_in_restoran_3_1f7d0e2f:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:78
+translate crowdin gallery_d_017_1f7d0e2f:
 
     # cedrick "Какая нежная кожа..."
     cedrick "Какая нежная кожа..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:79
-translate crowdin ql_hayLin_help_in_restoran_3_6cf53535:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:80
+translate crowdin gallery_d_017_6cf53535:
 
     # cedrick "А теперь потрогай его..."
     cedrick "А теперь потрогай его..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:81
-translate crowdin ql_hayLin_help_in_restoran_3_b63184bf:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:82
+translate crowdin gallery_d_017_b63184bf:
 
     # cedrick "Д-а-а..."
     cedrick "Д-а-а..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:83
-translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7_5:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:84
+translate crowdin gallery_d_017_a20cefa7_3:
 
     # "..."
     "..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:84
-translate crowdin ql_hayLin_help_in_restoran_3_534a927f:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:85
+translate crowdin gallery_d_017_534a927f:
 
     # cedrick "Нежне-е-е..."
     cedrick "Нежне-е-е..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:86
-translate crowdin ql_hayLin_help_in_restoran_3_6e90b5bc:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:87
+translate crowdin gallery_d_017_6e90b5bc:
 
     # cedrick "О да..."
     cedrick "О да..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:87
-translate crowdin ql_hayLin_help_in_restoran_3_786795f2:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:88
+translate crowdin gallery_d_017_786795f2:
 
     # cedrick "Видишь? Это не так уж и трудно... Как-никак я заслужил вознаграждение за свои труды, не так ли?"
     cedrick "Видишь? Это не так уж и трудно... Как-никак я заслужил вознаграждение за свои труды, не так ли?"
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:88
-translate crowdin ql_hayLin_help_in_restoran_3_d053c1f6:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:89
+translate crowdin gallery_d_017_d053c1f6:
 
     # haylin "Кх..."
     haylin "Кх..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:90
-translate crowdin ql_hayLin_help_in_restoran_3_8dc00903:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:91
+translate crowdin gallery_d_017_8dc00903:
 
     # cedrick "О да-а... Я уже близок..."
     cedrick "О да-а... Я уже близок..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:94
-translate crowdin ql_hayLin_help_in_restoran_3_88163559:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:95
+translate crowdin gallery_d_017_88163559:
 
     # cedrick "Ох..."
     cedrick "Ох..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:96
-translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7_6:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:97
+translate crowdin gallery_d_017_a20cefa7_4:
 
     # "..."
     "..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:98
-translate crowdin ql_hayLin_help_in_restoran_3_1104ca92:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:99
+translate crowdin gallery_d_017_1104ca92:
 
     # cedrick "Я надеюсь, ты понимаешь, что не стоит никому об этом рассказывать..."
     cedrick "Я надеюсь, ты понимаешь, что не стоит никому об этом рассказывать..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:99
-translate crowdin ql_hayLin_help_in_restoran_3_87c5dd71:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:100
+translate crowdin gallery_d_017_87c5dd71:
 
     # haylin "..."
     haylin "..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:101
-translate crowdin ql_hayLin_help_in_restoran_3_4f775e86:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:103
+translate crowdin gallery_d_017_4f775e86:
 
     # "Хай Лин убегает молча, всеми силами сдерживая свои слезы..."
     "Хай Лин убегает молча, всеми силами сдерживая свои слезы..."
 
-# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:102
-translate crowdin ql_hayLin_help_in_restoran_3_32c00346:
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:104
+translate crowdin gallery_d_017_32c00346:
 
     # cedrick "Наконец-то! Теперь я смогу поразвлечься с ней вдоволь... Пожалуй, стоит заглянуть завтра... Ей нужно свыкнутся с мыслью, что теперь я могу делать с ней все, что захочу"
     cedrick "Наконец-то! Теперь я смогу поразвлечься с ней вдоволь... Пожалуй, стоит заглянуть завтра... Ей нужно свыкнутся с мыслью, что теперь я могу делать с ней все, что захочу"

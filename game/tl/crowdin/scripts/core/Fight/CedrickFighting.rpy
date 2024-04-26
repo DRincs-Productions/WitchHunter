@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:56
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 translate crowdin strings:
 
@@ -25,8 +25,4 @@ translate crowdin strings:
     # game/scripts/core/Fight/CedrickFighting.rpy:404
     old "Получен новый уровень:"
     new "Получен новый уровень:"
-
-    # game/scripts/core/Fight/CedrickFighting.rpy:436
-    old "{skill_name} {quantity_mp} MP"
-    new "{skill_name} {quantity_mp} MP"
 

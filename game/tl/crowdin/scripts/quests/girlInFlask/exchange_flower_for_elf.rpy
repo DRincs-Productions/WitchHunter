@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-25 15:55
+﻿# TODO: Translation updated at 2024-04-26 10:51
 
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:4
 translate crowdin exchange_flower_for_elf_7480efc6:
@@ -96,284 +96,284 @@ translate crowdin exchange_flower_for_elf_0246b923:
     # amalia "Евангелина?"
     amalia "Евангелина?"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:64
-translate crowdin exchange_flower_for_elf_5270e71c:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:66
+translate crowdin gallery_d_025_5270e71c:
 
     # evangelin "Амалия... Где мы?"
     evangelin "Амалия... Где мы?"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:70
-translate crowdin exchange_flower_for_elf_e1a8c874:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:72
+translate crowdin gallery_d_025_e1a8c874:
 
     # amalia "Ты по случайности сюда телепортировалась, Евангелина. Я бы искала тебя вечность, пока Седрик не откликнулся"
     amalia "Ты по случайности сюда телепортировалась, Евангелина. Я бы искала тебя вечность, пока Седрик не откликнулся"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:76
-translate crowdin exchange_flower_for_elf_ee442208:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:78
+translate crowdin gallery_d_025_ee442208:
 
     # evangelin "Ох, ничего не понимаю... Амалия, я просто хочу отдохнуть"
     evangelin "Ох, ничего не понимаю... Амалия, я просто хочу отдохнуть"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:82
-translate crowdin exchange_flower_for_elf_ee316861:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:84
+translate crowdin gallery_d_025_ee316861:
 
     # amalia "Попробуй сосредоточиться и вспомнить, как ты здесь оказалась? И где Капля? Без нее мы не телепортируемся"
     amalia "Попробуй сосредоточиться и вспомнить, как ты здесь оказалась? И где Капля? Без нее мы не телепортируемся"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:83
-translate crowdin exchange_flower_for_elf_be6dfa38:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:85
+translate crowdin gallery_d_025_be6dfa38:
 
     # cedrick "(Так вот для чего нужна та Капля..)"
     cedrick "(Так вот для чего нужна та Капля..)"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:89
-translate crowdin exchange_flower_for_elf_81b5bb88:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:91
+translate crowdin gallery_d_025_81b5bb88:
 
     # evangelin "Я точно не помню... Может в сумке? Амалия, я... Засыпаю"
     evangelin "Я точно не помню... Может в сумке? Амалия, я... Засыпаю"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:92
-translate crowdin exchange_flower_for_elf_40db3dbc:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:94
+translate crowdin gallery_d_025_40db3dbc:
 
     # amalia "Евангелина, очнись! Евангелина?!"
     amalia "Евангелина, очнись! Евангелина?!"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:93
-translate crowdin exchange_flower_for_elf_0a4c6d0c:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:95
+translate crowdin gallery_d_025_0a4c6d0c:
 
     # cedrick "Ей требуется отдых. А ты как себя чувствуешь? Ты странно себя вела на поляне"
     cedrick "Ей требуется отдых. А ты как себя чувствуешь? Ты странно себя вела на поляне"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:94
-translate crowdin exchange_flower_for_elf_171091ac:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:96
+translate crowdin gallery_d_025_171091ac:
 
     # amalia "Я сама не знаю, Седрик. У меня немного кружится голова и... Я хочу чего-то. Сама не знаю, не могу подобрать подходящих слов"
     amalia "Я сама не знаю, Седрик. У меня немного кружится голова и... Я хочу чего-то. Сама не знаю, не могу подобрать подходящих слов"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:95
-translate crowdin exchange_flower_for_elf_acf584e2:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:97
+translate crowdin gallery_d_025_acf584e2:
 
     # cedrick "Попробуй описать"
     cedrick "Попробуй описать"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:96
-translate crowdin exchange_flower_for_elf_80887dad:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:98
+translate crowdin gallery_d_025_80887dad:
 
     # amalia "Каждую секунду, что я сидела и ждала тебя, по моему телу бил жар. Он становился все сильнее, пока в моей голове не возник образ. Твой образ. Мгновение за мгновением я понимала, что хочу ощутить тебя, весь твой жар"
     amalia "Каждую секунду, что я сидела и ждала тебя, по моему телу бил жар. Он становился все сильнее, пока в моей голове не возник образ. Твой образ. Мгновение за мгновением я понимала, что хочу ощутить тебя, весь твой жар"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:97
-translate crowdin exchange_flower_for_elf_af04da39:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:99
+translate crowdin gallery_d_025_af04da39:
 
     # cedrick "Продолжай"
     cedrick "Продолжай"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:98
-translate crowdin exchange_flower_for_elf_2fe4ff48:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:100
+translate crowdin gallery_d_025_2fe4ff48:
 
     # amalia "Мне хочется взять тебя прямо здесь, в этой таверне. Скинуть с себя всю одежду и отдаться у всех на виду"
     amalia "Мне хочется взять тебя прямо здесь, в этой таверне. Скинуть с себя всю одежду и отдаться у всех на виду"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:99
-translate crowdin exchange_flower_for_elf_c9591794:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:101
+translate crowdin gallery_d_025_c9591794:
 
     # cedrick "Тогда полезай под стол"
     cedrick "Тогда полезай под стол"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:100
-translate crowdin exchange_flower_for_elf_7741ef41:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:102
+translate crowdin gallery_d_025_7741ef41:
 
     # amalia "Но... Все же увидят.."
     amalia "Но... Все же увидят.."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:101
-translate crowdin exchange_flower_for_elf_a07235c1:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:103
+translate crowdin gallery_d_025_a07235c1:
 
     # cedrick "Ты сама сказала, что хочешь сделать это у всех на виду. Полезай, Амалия"
     cedrick "Ты сама сказала, что хочешь сделать это у всех на виду. Полезай, Амалия"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:104
-translate crowdin exchange_flower_for_elf_1275ea6c:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:106
+translate crowdin gallery_d_025_1275ea6c:
 
     # amalia "Хорошо.."
     amalia "Хорошо.."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:106
-translate crowdin exchange_flower_for_elf_a20cefa7:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:108
+translate crowdin gallery_d_025_a20cefa7:
 
     # "..."
     "..."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:109
-translate crowdin exchange_flower_for_elf_2cee2d08:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:111
+translate crowdin gallery_d_025_2cee2d08:
 
     # amalia "Он... большой"
     amalia "Он... большой"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:110
-translate crowdin exchange_flower_for_elf_d88e3880:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:112
+translate crowdin gallery_d_025_d88e3880:
 
     # cedrick "Возьми его в руку"
     cedrick "Возьми его в руку"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:112
-translate crowdin exchange_flower_for_elf_a20cefa7_1:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:114
+translate crowdin gallery_d_025_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:113
-translate crowdin exchange_flower_for_elf_8abd455a:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:115
+translate crowdin gallery_d_025_8abd455a:
 
     # amalia "Взяла"
     amalia "Взяла"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:114
-translate crowdin exchange_flower_for_elf_941132bd:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:116
+translate crowdin gallery_d_025_941132bd:
 
     # cedrick "А теперь двигай рукой. Медленно"
     cedrick "А теперь двигай рукой. Медленно"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:116
-translate crowdin exchange_flower_for_elf_f245f8c3:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:118
+translate crowdin gallery_d_025_f245f8c3:
 
     # amalia "Вот так?"
     amalia "Вот так?"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:117
-translate crowdin exchange_flower_for_elf_c68476de:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:119
+translate crowdin gallery_d_025_c68476de:
 
     # cedrick "Да-да. Скажи,каково это?"
     cedrick "Да-да. Скажи,каково это?"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:118
-translate crowdin exchange_flower_for_elf_080e3453:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:120
+translate crowdin gallery_d_025_080e3453:
 
     # amalia "Ты о чем?"
     amalia "Ты о чем?"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:119
-translate crowdin exchange_flower_for_elf_1f348c70:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:121
+translate crowdin gallery_d_025_1f348c70:
 
     # cedrick "Твоя подруга спит рядом, а ты надрачиваешь мне под столом"
     cedrick "Твоя подруга спит рядом, а ты надрачиваешь мне под столом"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:120
-translate crowdin exchange_flower_for_elf_ffc09813:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:122
+translate crowdin gallery_d_025_ffc09813:
 
     # amalia "Это плохо, но... Я не хочу останавливаться"
     amalia "Это плохо, но... Я не хочу останавливаться"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:121
-translate crowdin exchange_flower_for_elf_aec9305b:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:123
+translate crowdin gallery_d_025_aec9305b:
 
     # cedrick "Тогда ускорься.."
     cedrick "Тогда ускорься.."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:123
-translate crowdin exchange_flower_for_elf_4907f00b:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:125
+translate crowdin gallery_d_025_4907f00b:
 
     # amalia "Я правильно делаю?"
     amalia "Я правильно делаю?"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:124
-translate crowdin exchange_flower_for_elf_82b1cbbe:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:126
+translate crowdin gallery_d_025_82b1cbbe:
 
     # cedrick "Не останавливайся.."
     cedrick "Не останавливайся.."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:125
-translate crowdin exchange_flower_for_elf_47a9db72:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:127
+translate crowdin gallery_d_025_47a9db72:
 
     # amalia "Я хочу еще.."
     amalia "Я хочу еще.."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:127
-translate crowdin exchange_flower_for_elf_9427622a:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:129
+translate crowdin gallery_d_025_9427622a:
 
     # "Амалия берет член в свой ротик"
     "Амалия берет член в свой ротик"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:128
-translate crowdin exchange_flower_for_elf_a0c0533c:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:130
+translate crowdin gallery_d_025_a0c0533c:
 
     # cedrick "Продолжай, не останавливайся"
     cedrick "Продолжай, не останавливайся"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:129
-translate crowdin exchange_flower_for_elf_e3405cf0:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:131
+translate crowdin gallery_d_025_e3405cf0:
 
     # amalia "Тепе нрафится?"
     amalia "Тепе нрафится?"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:130
-translate crowdin exchange_flower_for_elf_81401b85:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:132
+translate crowdin gallery_d_025_81401b85:
 
     # cedrick "Быстрее..."
     cedrick "Быстрее..."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:132
-translate crowdin exchange_flower_for_elf_e179cddd:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:134
+translate crowdin gallery_d_025_e179cddd:
 
     # "Амалия заглатывает еще глубже"
     "Амалия заглатывает еще глубже"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:133
-translate crowdin exchange_flower_for_elf_37728215:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:135
+translate crowdin gallery_d_025_37728215:
 
     # cedrick "Д-да!"
     cedrick "Д-да!"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:134
-translate crowdin exchange_flower_for_elf_a20cefa7_2:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:136
+translate crowdin gallery_d_025_a20cefa7_2:
 
     # "..."
     "..."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:135
-translate crowdin exchange_flower_for_elf_07bdde05:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:137
+translate crowdin gallery_d_025_07bdde05:
 
     # "....."
     "....."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:136
-translate crowdin exchange_flower_for_elf_5d4c92be:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:138
+translate crowdin gallery_d_025_5d4c92be:
 
     # amalia "Амалия начинает очень быстро работать ротиком"
     amalia "Амалия начинает очень быстро работать ротиком"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:137
-translate crowdin exchange_flower_for_elf_1709c7c6:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:139
+translate crowdin gallery_d_025_1709c7c6:
 
     # cedrick "Мнгфхф... Кончаю!"
     cedrick "Мнгфхф... Кончаю!"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:139
-translate crowdin exchange_flower_for_elf_a20cefa7_3:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:141
+translate crowdin gallery_d_025_a20cefa7_3:
 
     # "..."
     "..."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:141
-translate crowdin exchange_flower_for_elf_edfa9a42:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:143
+translate crowdin gallery_d_025_edfa9a42:
 
     # amalia "Это было... Странно...."
     amalia "Это было... Странно...."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:142
-translate crowdin exchange_flower_for_elf_965f54e3:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:144
+translate crowdin gallery_d_025_965f54e3:
 
     # amalia "..."
     amalia "..."
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:143
-translate crowdin exchange_flower_for_elf_7fb81774:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:145
+translate crowdin gallery_d_025_7fb81774:
 
     # amalia "Мы с Евангелиной снимем комнату, ей нужен отдых. Приходи завтра"
     amalia "Мы с Евангелиной снимем комнату, ей нужен отдых. Приходи завтра"
 
-# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:144
-translate crowdin exchange_flower_for_elf_73a386d3:
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:146
+translate crowdin gallery_d_025_73a386d3:
 
     # cedrick "Конечно, отдыхайте"
     cedrick "Конечно, отдыхайте"
