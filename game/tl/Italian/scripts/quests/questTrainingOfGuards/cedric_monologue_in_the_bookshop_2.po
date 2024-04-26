@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 11:11\n"
+"PO-Revision-Date: 2024-04-26 16:12\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:3 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_f03422ad:
 msgid "[_cedrick_] (Что ж, вот и настал этот день...)"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:9 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_76bb6bf8:
 msgid "[_cedrick_] (Но это были бы мысли прошлого меня...)"
-msgstr ""
+msgstr "[_cedrick_] (Ma questi sarebbero i pensieri del passato me...)"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:10 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_50db4abc:
 msgid "[_cedrick_] (Теперь... Теперь все иначе...)"
