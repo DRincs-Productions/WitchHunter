@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-11 09:24\n"
+"PO-Revision-Date: 2024-04-26 10:47\n"
 
-# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/interface/phone/labels/call_thomas.rpy:3 #-#-# translate crowdin call_thomas_f6a091b6:
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/interface/phone/labels/call_thomas.rpy:3 #-#-# translate crowdin call_thomas_f6a091b6:
 msgid "Вам нужно минимум 100$ чтобы предложить ему поиграть."
 msgstr ""
 
@@ -20,19 +20,27 @@ msgstr ""
 msgid "идет набор номера ..."
 msgstr ""
 
-# game/scripts/interface/phone/labels/call_thomas.rpy:6 #-#-# translate crowdin call_thomas_a20cefa7:
-msgid "..."
+# game/scripts/interface/phone/labels/call_thomas.rpy:7 #-#-# translate crowdin call_thomas_85570d82:
+msgid "номер недоступен"
 msgstr ""
 
-# game/scripts/interface/phone/labels/call_thomas.rpy:7 #-#-# translate crowdin call_thomas_c82d55e5:
+# game/scripts/interface/phone/labels/call_thomas.rpy:8 #-#-# translate crowdin call_thomas_97370545:
+msgid "[_cedrick_sprite_] Хммм... странно"
+msgstr ""
+
+# game/scripts/interface/phone/labels/call_thomas.rpy:10 #-#-# translate crowdin call_thomas_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/interface/phone/labels/call_thomas.rpy:11 #-#-# translate crowdin call_thomas_c82d55e5:
 msgid "[_cedrick_sprite_] Привет. Ну что, ты готов сыграть?"
 msgstr ""
 
-# game/scripts/interface/phone/labels/call_thomas.rpy:8 #-#-# translate crowdin call_thomas_b2a22cd5:
+# game/scripts/interface/phone/labels/call_thomas.rpy:12 #-#-# translate crowdin call_thomas_b2a22cd5:
 msgid "Да, конечно."
 msgstr ""
 
-# game/scripts/interface/phone/labels/call_thomas.rpy:9 #-#-# translate crowdin call_thomas_78698471:
+# game/scripts/interface/phone/labels/call_thomas.rpy:13 #-#-# translate crowdin call_thomas_78698471:
 msgid "[_cedrick_sprite_] Тогда встретимся у меня вечером."
 msgstr ""
 
