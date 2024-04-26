@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 10:38\n"
+"PO-Revision-Date: 2024-04-26 14:47\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/gameover_without_phrase.rpy:6 #-#-# translate crowdin gameover_without_phrase_c7f7898a:
 msgid "[_centered_] {size=37} ИГРА ОКОНЧЕНА {/size}"
@@ -18,7 +18,7 @@ msgstr "[_centered_] {size=37} GAME OVER {/size}"
 
 # §translate crowdin strings: #|#|# # game/gameover_without_phrase.rpy:9
 msgid "Сделать другой выбор"
-msgstr ""
+msgstr "Fare una scelta diversa"
 
 # game/gameover_without_phrase.rpy:9
 msgid "Вернуться в главное меню"
