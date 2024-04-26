@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 11:10\n"
+"PO-Revision-Date: 2024-04-26 14:48\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -134,7 +134,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:141 #-#-# translate crowdin return_to_vendoms_25e9f6d8:
 msgid "[_will_] Н-но..."
-msgstr ""
+msgstr "[_will_] M-ma..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:142 #-#-# translate crowdin return_to_vendoms_d05565bc:
 msgid "[_cedrick_] А вот ты потенциально можешь стать объектом для буллинга в школе. Поверь, не важно на сколько стальной у тебя характер. Буллинг может надломить каждого..."
@@ -234,7 +234,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:226 #-#-# translate crowdin gallery_d_103_dbfa1cf7:
 msgid "[_will_] Р-рик..."
-msgstr ""
+msgstr "[_will_] R-rick..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:228 #-#-# translate crowdin gallery_d_103_49316299:
 msgid "[_cedrick_] ..."
@@ -242,7 +242,7 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:230 #-#-# translate crowdin gallery_d_103_dbd7690d:
 msgid "[_will_] Е-если хочешь, дома я тебе потом как угодно могу попозировать..."
-msgstr ""
+msgstr "[_will_] S-se vuoi, a casa posso posare per te come vuoi..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:232 #-#-# translate crowdin gallery_d_103_378695a8:
 msgid "[_cedrick_] Но дома это ведь не здесь... Ты с мамой была права, в пляжах определенно есть своя прелесть..."
@@ -278,7 +278,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:249 #-#-# translate crowdin gallery_d_103_4f59e98b:
 msgid "[_cedrick_] Да, пошли"
-msgstr ""
+msgstr "[_cedrick_] Si, andiamo"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:256 #-#-# translate crowdin gallery_d_104_df799027:
 msgid "[_cedrick_] Сьюзан, ты там скоро?"
@@ -474,7 +474,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:382 #-#-# translate crowdin gallery_d_104_10966c1c:
 msgid "[_cedrick_] (Кажется нашел...)"
-msgstr ""
+msgstr "[_cedrick_] (Credo di averlo trovato...)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:383 #-#-# translate crowdin gallery_d_104_84444edf:
 msgid "[_cedrick_] (Хм, размытое фото?)"
@@ -1926,15 +1926,15 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1350 #-#-# translate crowdin gallery_d_107_31ef9170:
 msgid "[_uria_] ...."
-msgstr ""
+msgstr "[_uria_] ...."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1351 #-#-# translate crowdin gallery_d_107_2f8b26a4:
 msgid "[_laurent_] ....."
-msgstr ""
+msgstr "[_laurent_] ....."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1352 #-#-# translate crowdin gallery_d_107_fc2c8db6:
 msgid "[_kurt_] ....."
-msgstr ""
+msgstr "[_kurt_] ....."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1355 #-#-# translate crowdin gallery_d_107_5e01e490:
 msgid "[_uria_] Ебаааать, вот это девка нам подвернулась!"
@@ -1982,11 +1982,11 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1372 #-#-# translate crowdin gallery_d_107_5c77d3ce:
 msgid "[_kurt_] ......"
-msgstr ""
+msgstr "[_kurt_] ......"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1374 #-#-# translate crowdin gallery_d_107_23e4300c:
 msgid "[_laurent_] ......"
-msgstr ""
+msgstr "[_laurent_] ......"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1377 #-#-# translate crowdin gallery_d_107_b5ce34f5:
 msgid "[_uria_] Да, вот так, сучка, получай.."
@@ -2310,7 +2310,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1530 #-#-# translate crowdin gallery_d_107_0bd5d7ef:
 msgid "[_anna_] Хорошо"
-msgstr ""
+msgstr "[_anna_] Bene"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1531 #-#-# translate crowdin gallery_d_107_47dbddce:
 msgid "[_anna_] И для вас я Миссис Анна, учитель Рик"
@@ -2818,21 +2818,21 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:135
 msgid "Прикрыть Вилл"
-msgstr ""
+msgstr "Copertina per Will"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:135
 msgid "Прикрыть Сьюзан"
-msgstr ""
+msgstr "Copertina per Susan"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:720
 msgid "Поплавать с Вилл"
-msgstr ""
+msgstr "Nuotare con Will"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:720
 msgid "Позагорать со Сьюзан"
-msgstr ""
+msgstr "Prendere il sole con Susan"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1214
 msgid "Вытащить свисток"
-msgstr ""
+msgstr "Tirate fuori il fischietto"
 
