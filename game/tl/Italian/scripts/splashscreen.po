@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 11:09\n"
+"PO-Revision-Date: 2024-04-26 14:48\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/splashscreen.rpy:85 #-#-# translate crowdin splashscreen_f3db2f9c:
 msgid "[_attention_] {size=80}{color=#f00}ВНИМАНИЕ!{/color}{/size}\n"
@@ -54,9 +54,9 @@ msgstr ""
 
 # game/scripts/splashscreen.rpy:52
 msgid "Да, я совершеннолетний."
-msgstr ""
+msgstr "Sì, sono maggiorenne."
 
 # game/scripts/splashscreen.rpy:59
 msgid "Нет, я несовершеннолетний."
-msgstr ""
+msgstr "No, sono minorenne."
 
