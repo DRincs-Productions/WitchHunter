@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-11 10:16\n"
+"PO-Revision-Date: 2024-04-26 11:06\n"
 
-# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:3 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_db823e8f:
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:3 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_db823e8f:
 msgid "[_cedrick_] Я уже предложил Элион провести вечер чтения в форме служанки"
 msgstr "[_cedrick_] Ho già suggerito che Elion ha una serata di lettura sotto forma di una cameriera"
 
-# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:7 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_697d0ac9:
-msgid "[_cedrick_] Элион как насчет того чтобы устроить сегодня публичный чтения?"
-msgstr "[_cedrick_] Elyon che ne dici di fare una lettura pubblica oggi?"
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:7 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_8de3a9a4:
+msgid "[_cedrick_] Элион как насчет того чтобы устроить сегодня публичные чтения?"
+msgstr ""
 
 # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:11 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_f7c66284:
 msgid "[_elion_] да конечно рик, отличная идея"
