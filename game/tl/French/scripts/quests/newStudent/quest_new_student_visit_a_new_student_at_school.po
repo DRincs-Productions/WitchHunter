@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-11 09:40\n"
+"PO-Revision-Date: 2024-04-26 10:58\n"
 
-# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:7 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_51e77407:
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:7 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_51e77407:
 msgid "[_physteacher_] Рик Хоффман! Дружище"
 msgstr "[_physteacher_] Rick Hoffman ! Mate"
 
@@ -208,127 +208,127 @@ msgstr "..."
 msgid "..."
 msgstr "..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:93 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_8240d241:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:94 #-#-# translate crowdin gallery_d_028_8240d241:
 msgid "[_cedrick_] (Что она здесь делает.. в такой позе..)"
 msgstr "[_cedrick_] (Que fait-elle ici... dans cette pose...)"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:94 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_c6c4f51e:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:95 #-#-# translate crowdin gallery_d_028_c6c4f51e:
 msgid "[_sondra_] Мистер Хоффман... я и не подозревала, что вы помимо истории ведете еще и физкультуру"
 msgstr "[_sondra_] Mr. Hoffman... Je ne savais pas que vous étiez à la fois professeur d'histoire et d'éducation physique."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:95 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_ed843afb:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:96 #-#-# translate crowdin gallery_d_028_ed843afb:
 msgid "[_cedrick_] Это скорее исключение из правил"
 msgstr "[_cedrick_] Il s'agit plutôt d'une exception à la règle"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:96 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_23b7bdac:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:97 #-#-# translate crowdin gallery_d_028_23b7bdac:
 msgid "[_sondra_] Так вы у нас нарушаете правила? А не проведете со мной сегодня сеанс специальной тренировки.."
 msgstr "[_sondra_] Alors tu enfreins les règles ? Auriez-vous une séance d'entraînement spéciale avec moi aujourd'hui..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:97 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_03dd1e7b:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:98 #-#-# translate crowdin gallery_d_028_03dd1e7b:
 msgid "[_cedrick_] Специальной тренировки?? Что ты имеешь ввиду.."
 msgstr "[_cedrick_] Une formation spéciale ? Qu'est-ce que tu veux dire..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:98 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_b7ae3fbf:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:99 #-#-# translate crowdin gallery_d_028_b7ae3fbf:
 msgid "[_sondra_] Ну же.. Я видела каким извращенным вглядом вы смотрели на меня во время урока.."
 msgstr "[_sondra_] Allez... J'ai vu le regard tordu que tu m'as lancé pendant le cours..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:99 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_d821c0d3:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:100 #-#-# translate crowdin gallery_d_028_d821c0d3:
 msgid "[_sondra_] Думали я не заметила?"
 msgstr "[_sondra_] Tu pensais que je n'avais pas remarqué ?"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:100 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_67f6966d:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:101 #-#-# translate crowdin gallery_d_028_67f6966d:
 msgid "[_cedrick_] Ничего подобного.."
 msgstr "[_cedrick_] Il n'y a pas de telle chose..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:101 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_96d83ca3:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:102 #-#-# translate crowdin gallery_d_028_96d83ca3:
 msgid "[_sondra_] Я же вижу, как вы смотрите на меня, мистер Хоффман.. Я знаю чего вы хотите.."
 msgstr "[_sondra_] Je vois la façon dont vous me regardez, M. Hoffman. Je sais ce que vous voulez."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:103 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_90a9aa13:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:104 #-#-# translate crowdin gallery_d_028_90a9aa13:
 msgid "[_sondra_] ...Вы можете достать его.."
 msgstr "[_sondra_] ...Vous pouvez l'obtenir..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:104 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_55c93b1f:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:105 #-#-# translate crowdin gallery_d_028_55c93b1f:
 msgid "[_sondra_] Ну же..."
 msgstr "[_sondra_] Allez..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:108 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_9e178363:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:109 #-#-# translate crowdin gallery_d_028_9e178363:
 msgid "[_cedrick_] Я.. Я не думаю, что это будет уместно, ведь я учитель. Я не могу воспользоваться своим положением..."
 msgstr "[_cedrick_] Я.. Je ne pense pas que ce serait approprié, puisque je suis un enseignant. Je ne peux pas profiter de ma position..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:109 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_f19b5c49:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:110 #-#-# translate crowdin gallery_d_028_f19b5c49:
 msgid "[_sondra_] Давай, покажите мне свой член… а не то я скажу, что вы ко мне приставали..."
 msgstr "[_sondra_] Allez, montre-moi ta bite… ou je dirai que tu me draguais..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:111 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_5f9b772e_1:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:112 #-#-# translate crowdin gallery_d_028_5f9b772e:
 msgid "...."
 msgstr "...."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:114 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_297ec669:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:115 #-#-# translate crowdin gallery_d_028_297ec669:
 msgid "[_sondra_] Огооо, так вот он какой.."
 msgstr "[_sondra_] Wow, alors c'est comme ça qu'il est."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:115 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_ee235912:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:116 #-#-# translate crowdin gallery_d_028_ee235912:
 msgid "[_sondra_] Вам наверное было тяжело сдерживать такой огромный стояк.."
 msgstr "[_sondra_] Ça a dû être difficile pour toi de contenir une telle érection..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:116 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_e87c9524:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:117 #-#-# translate crowdin gallery_d_028_e87c9524:
 msgid "[_cedrick_] Если нас кто-нибудь увидит.."
 msgstr "[_cedrick_] Si quelqu'un nous voit..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:117 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_29984e3d:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:118 #-#-# translate crowdin gallery_d_028_29984e3d:
 msgid "[_sondra_] Это навряд ли. Учитывая что здесь сейчас никого и все ушли на урок.."
 msgstr "[_sondra_] Je ne pense pas. Vu que personne n'est là en ce moment et que tout le monde est parti en cours..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:118 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_3078c1af:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:119 #-#-# translate crowdin gallery_d_028_3078c1af:
 msgid "[_sondra_] Только глянь, какой твердый он стал..."
 msgstr "[_sondra_] Regarde comme il est devenu dur..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:119 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_f637c254:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:120 #-#-# translate crowdin gallery_d_028_f637c254:
 msgid "[_sondra_] А вы еще тот извращенец, не так ли?.."
 msgstr "[_sondra_] Vous êtes un vrai pervers, n'est-ce pas... ?"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:120 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_cd62a954:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:121 #-#-# translate crowdin gallery_d_028_cd62a954:
 msgid "[_sondra_] Признайтесь, вам же нравится это…"
 msgstr "[_sondra_] Admettez-le, vous l'aimez…"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:121 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_911cec74:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:122 #-#-# translate crowdin gallery_d_028_911cec74:
 msgid "[_cedrick_] (Чего вообще она добивается..)"
 msgstr "[_cedrick_] (Qu'est-ce qu'elle essaie d'obtenir...)"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:122 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_a60368ce:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:123 #-#-# translate crowdin gallery_d_028_a60368ce:
 msgid "[_cedrick_] Да..... чертовски хорошо"
 msgstr "[_cedrick_] Oui..... sacrément bien"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:124 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_14fc9239:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:125 #-#-# translate crowdin gallery_d_028_14fc9239:
 msgid "[_sondra_] Ну, пожалуй, мне пора идти"
 msgstr "[_sondra_] Eh bien, je suppose que je ferais mieux d'y aller."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:126 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_8ebf0bb1:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:127 #-#-# translate crowdin gallery_d_028_8ebf0bb1:
 msgid "[_sondra_] А не то я могу опоздать на урок"
 msgstr "[_sondra_] Sinon, je risque d'être en retard en classe."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:127 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_06fd0a82:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:128 #-#-# translate crowdin gallery_d_028_06fd0a82:
 msgid "[_cedrick_] П-постой.."
 msgstr "[_cedrick_] Attendez..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:128 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_01d8da36:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:129 #-#-# translate crowdin gallery_d_028_01d8da36:
 msgid "[_sondra_] Ммм?"
 msgstr "[_sondra_] Hmm ?"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:129 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_367515e4:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:130 #-#-# translate crowdin gallery_d_028_367515e4:
 msgid "[_cedrick_] Ты не можешь меня так оставить!.."
 msgstr "[_cedrick_] Tu ne peux pas me laisser comme ça !"
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:130 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_26c2a4ca:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:131 #-#-# translate crowdin gallery_d_028_26c2a4ca:
 msgid "[_sondra_] Еще как могу! Вы ведь не хотели пользоваться своим положением, учитель.."
 msgstr "[_sondra_] Si, je peux ! Vous ne vouliez pas profiter de votre position, professeur..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:132 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_a20cefa7_4:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:133 #-#-# translate crowdin gallery_d_028_a20cefa7:
 msgid "..."
 msgstr "..."
 
-# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:133 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_ba571c88:
+# game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:134 #-#-# translate crowdin gallery_d_028_ba571c88:
 msgid "[_cedrick_] (Вот.. Сука.. Она просто играла со мной....)"
 msgstr "[_cedrick_] (Ici... Salope... Elle jouait juste avec moi....)"
 
