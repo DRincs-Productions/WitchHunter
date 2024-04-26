@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 10:38\n"
+"PO-Revision-Date: 2024-04-26 14:47\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/how.rpy:98
 msgid "На этом версия [config.version] заканчивается."
-msgstr ""
+msgstr "Qui finisce la versione [config.version]."
 
 # game/how.rpy:104
 msgid "Если вам понравился наш проект, вы можете поддержать нас и получать больше эксклюзивных новостей по игре по данным ссылкам:"
