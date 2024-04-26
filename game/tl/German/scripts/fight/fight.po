@@ -10,41 +10,41 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-11 09:23\n"
+"PO-Revision-Date: 2024-04-26 10:46\n"
 
-# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/fight/fight.rpy:219 #-#-# translate crowdin fight_transform_68f2a4d6:
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/fight/fight.rpy:233 #-#-# translate crowdin fight_transform_68f2a4d6:
 msgid "[_cedrick_sprite_] (Я не могу выдавать свою личность.)"
 msgstr ""
 
-# game/scripts/fight/fight.rpy:273 #-#-# translate crowdin fight_transform_c730d214:
+# game/scripts/fight/fight.rpy:287 #-#-# translate crowdin fight_transform_c730d214:
 msgid "Увидев огромного змея и испугавшись, [player_name] падает без сознания"
 msgstr ""
 
-# game/scripts/fight/fight.rpy:278 #-#-# translate crowdin fight_transform_9e3b85a4:
+# game/scripts/fight/fight.rpy:292 #-#-# translate crowdin fight_transform_9e3b85a4:
 msgid "[_cedrick_] Не достаточно маны для трансформации"
 msgstr ""
 
-# game/scripts/fight/fight.rpy:412 #-#-# translate crowdin fight_cannot_runout_26c27ad9:
+# game/scripts/fight/fight.rpy:432 #-#-# translate crowdin fight_cannot_runout_26c27ad9:
 msgid "[_cedrick_] Я не могу покинуть место битвы"
 msgstr ""
 
-# game/scripts/fight/fight.rpy:439 #-#-# translate crowdin fight_get_winner_f4a24d70:
+# game/scripts/fight/fight.rpy:469 #-#-# translate crowdin fight_get_winner_f4a24d70:
 msgid "Победил [player_name]"
 msgstr ""
 
-# game/scripts/fight/fight.rpy:451 #-#-# translate crowdin fight_get_winner_a47bba57:
+# game/scripts/fight/fight.rpy:491 #-#-# translate crowdin fight_get_winner_a47bba57:
 msgid "Вас одолел [player_name]"
 msgstr ""
 
-# game/scripts/fight/fight.rpy:460 #-#-# translate crowdin fight_get_winner_a47bba57_1:
+# game/scripts/fight/fight.rpy:500 #-#-# translate crowdin fight_get_winner_a47bba57_1:
 msgid "Вас одолел [player_name]"
 msgstr ""
 
-# §translate crowdin strings: #|#|# # game/scripts/fight/fight.rpy:166
+# §translate crowdin strings: #|#|# # game/scripts/fight/fight.rpy:180
 msgid "{player_name} наносит Критический удар!"
 msgstr ""
 
-# game/scripts/fight/fight.rpy:360
+# game/scripts/fight/fight.rpy:374
 msgid " использует "
 msgstr ""
 
