@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-11 09:17\n"
+"PO-Revision-Date: 2024-04-26 10:42\n"
 
-# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
 msgid "Звезда Трибы"
 msgstr "Stella della Tribù"
 
@@ -229,4 +229,16 @@ msgid "Виброяйцо с пультом управления\n"
 "(суперпредложение: два комплекта по цене одного)"
 msgstr "Vibro Egg con telecomando\n"
 "(super offerta: due set al prezzo di uno)"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Посылка для Вилл"
+msgstr ""
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Роскошное колье"
+msgstr ""
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Кружевное эротическое белье"
+msgstr ""
 
