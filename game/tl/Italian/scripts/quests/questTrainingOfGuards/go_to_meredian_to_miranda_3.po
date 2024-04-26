@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_3.po\n"
+"X-Crowdin-File-ID: 13054\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2024-04-26 11:12\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_3.rpy:6 #-#-# translate crowdin go_to_meredian_to_miranda_3_58e1cfa5:
+msgid "[_miranda_] Седрик, все получилось?"
+msgstr ""
+
+# game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_3.rpy:10 #-#-# translate crowdin go_to_meredian_to_miranda_3_fdd19426:
+msgid "[_cedrick_] Можно и так сказать, но..."
+msgstr ""
+
+# game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_3.rpy:14 #-#-# translate crowdin go_to_meredian_to_miranda_3_944239f5:
+msgid "[_miranda_] Что случилось?"
+msgstr ""
+
+# game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_3.rpy:18 #-#-# translate crowdin go_to_meredian_to_miranda_3_5122167d:
+msgid "[_cedrick_] Фобос, он... Он собирается назначить следующим главнокомандующим охотника"
+msgstr ""
+
+# game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_3.rpy:22 #-#-# translate crowdin go_to_meredian_to_miranda_3_4ec6c56e:
+msgid "[_miranda_] О нет... Это плохо... Очень плохо..."
+msgstr ""
+
+# game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_3.rpy:26 #-#-# translate crowdin go_to_meredian_to_miranda_3_56bd16ee:
+msgid "[_cedrick_] Да. Но с этим мы разберемся потом. Главное сейчас сосредоточиться на нынешней задаче - вытащить стражниц"
+msgstr ""
+
+# game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_3.rpy:30 #-#-# translate crowdin go_to_meredian_to_miranda_3_c35aff61:
+msgid "[_cedrick_] Спектакль окончен. Пока публике покинуть зал"
+msgstr ""
+
+# game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_3.rpy:34 #-#-# translate crowdin go_to_meredian_to_miranda_3_944dd228:
+msgid "[_miranda_] Хорошо. Как поступим?"
+msgstr ""
+
+# game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_3.rpy:38 #-#-# translate crowdin go_to_meredian_to_miranda_3_322bd158:
+msgid "[_cedrick_] нам лучше действовать по-отдельности. Булдж приведет Вилл, а ты приведи Ирму и Тарани. Корнелия и Хай Лин будут ждать нас в Борделе. Соберем всех там"
+msgstr ""
+
+# game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_3.rpy:42 #-#-# translate crowdin go_to_meredian_to_miranda_3_ade293c6:
+msgid "[_miranda_] Поняла. Тогда до встречи"
+msgstr ""
+
+# game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_3.rpy:44 #-#-# translate crowdin go_to_meredian_to_miranda_3_681c8f32:
+msgid "[_cedrick_] (Нужно вернуться в бордель. Мы не вызовем подозрений, если уйдем из замка в разное время)"
+msgstr ""
+
