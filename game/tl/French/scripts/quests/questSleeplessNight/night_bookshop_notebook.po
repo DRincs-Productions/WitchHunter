@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questSleeplessNight/night_bookshop_notebook.po\n"
+"X-Crowdin-File-ID: 13028\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2024-04-26 11:11\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:38 #-#-# translate crowdin notebook_650aa5e4:
+msgid "[_cedrick_] (О, вот она, отлично. Теперь мне нужно расписать мои нынешние отношения с каждой из стражниц)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:43 #-#-# translate crowdin notebook_78d0e176:
+msgid "[_cedrick_] (Стоит отразить мой уровень доверия с каждой из стражниц просто и понятно. Думаю хватит даже заполненной шкалы)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:45 #-#-# translate crowdin notebook_0eb00793:
+msgid "[_cedrick_] (Итак, начнем с Вилл... Эссенция королевы Морпионов дала свои плоды, теперь Вилл можно назвать самой преданной стражницей из всех)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:48 #-#-# translate crowdin notebook_0c7d09d4:
+msgid "[_cedrick_] (Хотя, случай с Алхими и показал, что эффект эссенции далеко не вечен)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:50 #-#-# translate crowdin notebook_c1394d26:
+msgid "[_cedrick_] (Ведь та же Алхими уже не питает теплых чувств к Фобосу, а вот ее развратность осталась на том же уровне)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:52 #-#-# translate crowdin notebook_f3520dbf:
+msgid "[_cedrick_] (А значит и с Вилл мне стоит быть осторожнее, ее преданность не бесконечна. Не стоит испытывать ее на прочность)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:54 #-#-# translate crowdin notebook_defdffaf:
+msgid "[_cedrick_] (Но пока что, я могу поставить ей 5 из 5 пунктов)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:56 #-#-# translate crowdin notebook_b66691a5:
+msgid "[_cedrick_] (Далее Ирма. Запущенный случай. Я использовал на ней силу короля морпионов, но это дало спорный эффект)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:59 #-#-# translate crowdin notebook_d00c9573:
+msgid "[_cedrick_] (Теперь ее личность имеет в себе противоречия. Не говоря уже о том, как мы начали с ней наши отношения)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:61 #-#-# translate crowdin notebook_0060d163:
+msgid "[_cedrick_] (Хах, черт, я буквально путем шантажа заставил ее отсосать мне. Думая об этом сейчас, кажется, словно это было в другой жизни)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:63 #-#-# translate crowdin notebook_5e519546:
+msgid "[_cedrick_] (Тем не менее, нельзя сказать, что она совершенно мне не доверяет)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:64 #-#-# translate crowdin notebook_e012911b:
+msgid "[_cedrick_] (Хотя, скорее я путаю доверие и покладистость. Она не доверяет мне, но сделает то, что я скажу. В разумных пределах...)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:66 #-#-# translate crowdin notebook_7027fc11:
+msgid "[_cedrick_] (Думаю это тянет на 3 пункта из 5)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:68 #-#-# translate crowdin notebook_d42d7759:
+msgid "[_cedrick_] (Теперь Тарани. Черт, вот уж кто точно не будет меня слушать ни при каких условиях)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:71 #-#-# translate crowdin notebook_9fb8b35b:
+msgid "[_cedrick_] (В отличие от всех остальных стражниц, к Тарани я все еще не смог найти подход, она огрызается на любые мои уловки)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:73 #-#-# translate crowdin notebook_2750f009:
+msgid "[_cedrick_] (Да и вспоминая прошлое... Ух, та ситуация с Найджелом - одна из моих самых больших промашек)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:75 #-#-# translate crowdin notebook_80bcb5a8:
+msgid "[_cedrick_] (Возможно я смогу в будущем подобраться к ней через других стражниц. Или может через ее мать)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:77 #-#-# translate crowdin notebook_5b78a1f0:
+msgid "[_cedrick_] (Но, констатируя факт, прямо сейчас у меня с ней самые ужасные отношения. Да, предстоит много работы)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:79 #-#-# translate crowdin notebook_d82c8d5a:
+msgid "[_cedrick_] (А пока это тянет на 1 пункт из 5)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:81 #-#-# translate crowdin notebook_e0abdfc0:
+msgid "[_cedrick_] (Корнелия, хм... Вот уж с кем у меня нет проблем)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:84 #-#-# translate crowdin notebook_5c9bd21b:
+msgid "[_cedrick_] (С помощью силы короля морпионов я смог использовать ее комплексы и жажду внимания, так что теперь она в моей власти)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:86 #-#-# translate crowdin notebook_a9253cb9:
+msgid "[_cedrick_] (Все же с отношения не так хороши, как Вилл. В конце концов Вилл никогда не сталкивалась с моей темной стороной напрямую)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:88 #-#-# translate crowdin notebook_3620d8db:
+msgid "[_cedrick_] (С другой стороны, возможно именно то, что Корнелия знает о моих темных делах и все равно помогает мне, делает ее более надежным союзником)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:90 #-#-# translate crowdin notebook_753cd73b:
+msgid "[_cedrick_] (Хм... Пожалуй это 4 из 5)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:92 #-#-# translate crowdin notebook_e22413f3:
+msgid "[_cedrick_] (И теперь Хай Лин. Черт, еще одна проблема. Она не такая строптивая, как Тарани, но и не такая покладистая, как Ирма)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:95 #-#-# translate crowdin notebook_61a40bed:
+msgid "[_cedrick_] (Возможно мне стоило применить на ней силу короля морпионов, но я не уверен, что она сработает должным образом)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:97 #-#-# translate crowdin notebook_17a11e9a:
+msgid "[_cedrick_] (Пока что не хочу рисковать. Возможно, когда узнаю ее получше)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:99 #-#-# translate crowdin notebook_12b87445:
+msgid "[_cedrick_] (Хах, вот если бы ее мать была стражницей воздуха, было бы куда проще)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:101 #-#-# translate crowdin notebook_4d3fad8b:
+msgid "[_cedrick_] (Но на данный момент это 2 из 5)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:102 #-#-# translate crowdin notebook_0e6d6058:
+msgid "[_cedrick_] (Получается вот такая картина. Хм, не совсем ужасно, но и работы еще много...)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:103 #-#-# translate crowdin notebook_db9c6d87:
+msgid "[_cedrick_] (Пожалуй проведу красную черту между пятью и четырьмя пунктами. Для слаженной работы им не обязательно доверять мне также, как это делает Вилл)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:105 #-#-# translate crowdin notebook_8ff6a569:
+msgid "[_cedrick_] (Чтобы стать одной командой, достаточно уровня доверия Корнелии)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:106 #-#-# translate crowdin notebook_3074342c:
+msgid "[_cedrick_] (Итак... Получается у каждой из них должно быть хотя бы 4 пункта, чтобы мы не распались как команда и одолели Фобоса)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:108 #-#-# translate crowdin notebook_89a1ac80:
+msgid "[_cedrick_] (Хорошо, теперь хотя бы знаю к чему стремиться. А пока... Я на самом деле чертовски устал. Пора и мне немного отдохнуть)"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:117 #-#-# translate crowdin zaglushka_317dc90d:
+msgid "[_cedrick_] Мне нужна записная книжка, она в прилавке"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:119 #-#-# translate crowdin zaglushka_d09a2f93:
+msgid "[_cedrick_] Мне нужно поспать"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:121 #-#-# translate crowdin zaglushka_539b59bc:
+msgid "[_cedrick_] Смс от Вилл... может что то важное? Нужно посмотреть."
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:124 #-#-# translate crowdin zaglushka_621efd64:
+msgid "[_cedrick_] Сначала к Миранде"
+msgstr ""
+
+# game/scripts/quests/questSleeplessNight/night_bookshop_notebook.rpy:127 #-#-# translate crowdin zaglushka_3985d151:
+msgid "[_cedrick_] Переночую у вендомов"
+msgstr ""
+
