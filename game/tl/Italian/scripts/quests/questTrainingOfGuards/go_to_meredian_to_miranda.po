@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 14:48\n"
+"PO-Revision-Date: 2024-04-27 21:05\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:10 #-#-# translate crowdin go_to_meredian_to_miranda_f6c57393:
 msgid "[_cedrick_] Я здесь. Пора устроить собрание"
@@ -686,7 +686,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:495 #-#-# translate crowdin questTrainingOfGuards_1_edd851c8:
 msgid "[_cedrick_] Вилл..."
-msgstr ""
+msgstr "[_cedrick_] Will..."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:499 #-#-# translate crowdin questTrainingOfGuards_1_497ef4f5:
 msgid "[_will_] Р-рик? Ты какой-то обеспокоенный. Что-то случилось?"
