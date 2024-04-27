@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 14:48\n"
+"PO-Revision-Date: 2024-04-27 21:05\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:162 #-#-# translate crowdin podskazka_f6227483:
 msgid "Следующая мини игра представляет из себя некое подобие мини игры из старых флеш игр и вероятно вы могли уже сталкивался с подобным."
@@ -30,7 +30,7 @@ msgstr "Il vostro compito è quello di far scattare l'innesco per la maggior par
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:170 #-#-# translate crowdin podskazka_26f7e424:
 msgid "Удачной игры!"
-msgstr ""
+msgstr "Buon divertimento!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:199 #-#-# translate crowdin win1_920ca08d:
 msgid "[_susan_] Только в этот раз придется без фартука на голое тело, ахах.. Не хочу, чтобы Вилл увидела меня в таком виде, сам понимаешь..."
@@ -70,7 +70,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:208 #-#-# translate crowdin win1_743ce1ed:
 msgid "[_cedrick_] Ааааа..."
-msgstr ""
+msgstr "[_cedrick_] Ahhh..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:209 #-#-# translate crowdin win1_49316299_1:
 msgid "[_cedrick_] ..."
@@ -1098,9 +1098,9 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:866
 msgid "Пройти фрагмент заново?"
-msgstr ""
+msgstr "Ripercorrere il frammento?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:866
 msgid "Вернутся в главное меню"
-msgstr ""
+msgstr "Torna al menu principale"
 
