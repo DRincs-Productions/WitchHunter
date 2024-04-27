@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 14:48\n"
+"PO-Revision-Date: 2024-04-27 21:05\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -382,7 +382,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:343 #-#-# translate crowdin gallery_d_104_43fccc4e:
 msgid "Звук вспышки камеры"
-msgstr ""
+msgstr "Suono del flash della fotocamera"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:344 #-#-# translate crowdin gallery_d_104_03e9244e:
 msgid "[_cedrick_] Черт... Сразу налетели, как стая голодных чаек..."
@@ -766,7 +766,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:610 #-#-# translate crowdin gallery_d_104_2aea71ca:
 msgid "[_uria_] ..."
-msgstr ""
+msgstr "[_uria_] ..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:612 #-#-# translate crowdin gallery_d_104_e5652ec6:
 msgid "[_uria_] Кхм.."
@@ -1542,7 +1542,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1085 #-#-# translate crowdin gallery_d_106_cec7fed8:
 msgid "звук шлепка по попке"
-msgstr ""
+msgstr "il suono di uno schiaffo sul fondo"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1086 #-#-# translate crowdin gallery_d_106_ee662add:
 msgid "[_cedrick_] Мне нравится"
@@ -1838,7 +1838,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1234 #-#-# translate crowdin gallery_d_107_9cabb6da:
 msgid "Звук открывающейся входной двери в туалет"
-msgstr ""
+msgstr "Il rumore della porta d'ingresso della toilette che si apre"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1235 #-#-# translate crowdin gallery_d_107_3d008b93:
 msgid "[_cedrick_] (Черт, тут еще кто-то… Надо срочно сваливать в другую кабинку!)"
@@ -2398,7 +2398,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1595 #-#-# translate crowdin gallery_d_108_f21baea1:
 msgid "Звук шлепка по попке"
-msgstr ""
+msgstr "Il suono di uno schiaffo sul fondo"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1598 #-#-# translate crowdin gallery_d_108_8c5977ed:
 msgid "[_will_] А-ау.. М-мам? Ты чего.."
@@ -2422,7 +2422,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1609 #-#-# translate crowdin gallery_d_108_f21baea1_1:
 msgid "Звук шлепка по попке"
-msgstr ""
+msgstr "Il suono di uno schiaffo sul fondo"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1611 #-#-# translate crowdin gallery_d_108_a6c0109e:
 msgid "[_will_] М-мам…"
@@ -2642,7 +2642,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1748 #-#-# translate crowdin gallery_d_108_326a2baa:
 msgid "Теперь Рик может приходить домой в дом Семьи Вандом в любое время"
-msgstr ""
+msgstr "Ora Rick può tornare a casa della famiglia Vandom quando vuole"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1750 #-#-# translate crowdin gallery_d_108_49316299:
 msgid "[_cedrick_] ..."
