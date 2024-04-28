@@ -10,35 +10,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-27 21:05\n"
+"PO-Revision-Date: 2024-04-28 10:20\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
-msgstr ""
+msgstr "[_susan_] Bene, siete tutti pronti?"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:16 #-#-# translate crowdin return_to_vendoms_41a3708d:
 msgid "[_will_] Да! У меня как раз все готово"
-msgstr ""
+msgstr "[_will_] Sì!  Ho tutto pronto"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:22 #-#-# translate crowdin return_to_vendoms_6a2a11fc:
 msgid "[_cedrick_] Я тоже уже готов"
-msgstr ""
+msgstr "[_cedrick_] Anch'io sono pronto"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:28 #-#-# translate crowdin return_to_vendoms_0fa51dba:
 msgid "[_susan_] Отлично. Тогда все в машину и на пляж!!"
-msgstr ""
+msgstr "[_susan_] Grande.  Poi tutti in macchina e andiamo al mare!!"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:33 #-#-# translate crowdin return_to_vendoms_55c38cf2:
 msgid "[_will_] Дааа!"
-msgstr ""
+msgstr "[_will_] Sì!"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:34 #-#-# translate crowdin return_to_vendoms_0c62d75e:
 msgid "[_cedrick_] (Хах, Вилл явно в приподнятом настроении. Интересно, это она правда так искренне рада празднику?)"
-msgstr ""
+msgstr "[_cedrick_] (Ah, Will è chiaramente di buon umore.  Mi chiedo se sia davvero così sinceramente felice della vacanza?)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:35 #-#-# translate crowdin return_to_vendoms_54a9906c:
 msgid "[_cedrick_] (Или же есть другая причина для радости)"
-msgstr ""
+msgstr "[_cedrick_] (O c'è un altro motivo per essere felici?)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:38 #-#-# translate crowdin return_to_vendoms_151531fc:
 msgid "[_centered_] {size=37}Седрик, Сьюзан и Вилл едут на пляж{/size}"
@@ -1774,7 +1774,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1206 #-#-# translate crowdin gallery_d_107_0a71e397:
 msgid "[_cedrick_] (Проклятье…)"
-msgstr ""
+msgstr "[_cedrick_] (Dannazione…)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1207 #-#-# translate crowdin gallery_d_107_fb45f7cc:
 msgid "[_cedrick_] (Как бы никто не подумал, что это я с ней такое сделал..)"
