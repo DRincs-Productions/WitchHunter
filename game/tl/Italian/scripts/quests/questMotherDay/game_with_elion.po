@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-28 09:15\n"
+"PO-Revision-Date: 2024-04-28 10:20\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
@@ -566,15 +566,15 @@ msgstr "[_centered_] {size=37}Dopo alcuni combattimenti più emozionanti{/size}"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:322 #-#-# translate crowdin epilogMotherDay_c852280e:
 msgid "[_cedrick_] (Хах, в конце концов я играю один, в одиночном режиме..)"
-msgstr ""
+msgstr "[_cedrick_] (Ahah, dopotutto sto giocando da solo, in modalità single player...)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:324 #-#-# translate crowdin epilogMotherDay_f5c3b58e:
 msgid "[_cedrick_] (А Элион тем временем мирно уснула у меня на плече)"
-msgstr ""
+msgstr "[_cedrick_] (Nel frattempo, Elion si addormentò pacificamente sulla mia spalla)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:325 #-#-# translate crowdin epilogMotherDay_82385daf:
 msgid "[_cedrick_] (Да уж, она сама безмятежность..)"
-msgstr ""
+msgstr "[_cedrick_] (Sì, lei è la serenità stessa...)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:326 #-#-# translate crowdin epilogMotherDay_2ef90216:
 msgid "[_cedrick_] (...)"
@@ -582,11 +582,11 @@ msgstr "[_cedrick_] (...)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:328 #-#-# translate crowdin epilogMotherDay_cfb8458e:
 msgid "[_cedrick_] (Если подумать, она и вправду ко мне привязалась. Вряд ли она так беззаботно с кем-то еще играла)"
-msgstr ""
+msgstr "[_cedrick_] (Ora che ci penso, è davvero attratta da me.  È improbabile che abbia giocato così spensieratamente con qualcun altro)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:330 #-#-# translate crowdin epilogMotherDay_8160f677:
 msgid "[_cedrick_] (Эх.. И эта девушка - сестра Фобоса? Ее я должен буду отправить на Меридиан, чтобы Фобос выкачал из нее все силы?)"
-msgstr ""
+msgstr "[_cedrick_] (Eh.. E questa ragazza è la sorella di Phobos?  Dovrò mandarla a Meridian in modo che Phobos possa prosciugare tutte le sue forze?)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:332 #-#-# translate crowdin epilogMotherDay_2ef90216_1:
 msgid "[_cedrick_] (...)"
@@ -594,7 +594,7 @@ msgstr "[_cedrick_] (...)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:334 #-#-# translate crowdin epilogMotherDay_b0e46bb6:
 msgid "[_cedrick_] (Черт, не думал, что когда-нибудь испытаю подобное, но.. Мне ее и вправду жаль..)"
-msgstr ""
+msgstr "[_cedrick_] (Cavolo, non pensavo che avrei mai vissuto una cosa del genere, ma... mi dispiace davvero per lei...)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:335 #-#-# translate crowdin epilogMotherDay_2ef90216_2:
 msgid "[_cedrick_] (...)"
@@ -602,15 +602,15 @@ msgstr "[_cedrick_] (...)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:337 #-#-# translate crowdin epilogMotherDay_dacf2a17:
 msgid "[_cedrick_] (Хотя, если подумать, ее судьба ведь может быть и иной. Если я свергну Фобоса, тогда и судьба Элион не будет такой безнадежной)"
-msgstr ""
+msgstr "[_cedrick_] (Anche se, se ci pensi, il suo destino potrebbe essere diverso.  Se rovescio Phobos, il destino di Elyon non sarà così disperato)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:339 #-#-# translate crowdin epilogMotherDay_8d108ca0:
 msgid "[_cedrick_] (Хах, это что же получается, свергнув Фобоса, я многим сделаю одолжение?)"
-msgstr ""
+msgstr "[_cedrick_] (Ah, succede che rovesciando Phobos farò un favore a molte persone?)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:341 #-#-# translate crowdin epilogMotherDay_0c27e84c:
 msgid "[_cedrick_] (Могу впредь прикрываться этим общим благом, следуя своим эгоистическим амбициям)"
-msgstr ""
+msgstr "[_cedrick_] (D'ora in poi posso nascondermi dietro questo bene comune, seguendo le mie ambizioni egoistiche)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:342 #-#-# translate crowdin epilogMotherDay_2ef90216_3:
 msgid "[_cedrick_] (...)"
@@ -618,7 +618,7 @@ msgstr "[_cedrick_] (...)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:344 #-#-# translate crowdin epilogMotherDay_d7db56d7:
 msgid "[_cedrick_] (Мне уже пора бы возвращаться к Сьюзан, уверен она уже заждалась, но..)"
-msgstr ""
+msgstr "[_cedrick_] (È ora che ritorni da Susan, sono sicuro che sia già stanca di aspettare, ma...)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:345 #-#-# translate crowdin epilogMotherDay_5dfe53ba:
 msgid "[_cedrick_] (......)"
@@ -626,15 +626,15 @@ msgstr "[_cedrick_] (......)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:347 #-#-# translate crowdin epilogMotherDay_7359f245:
 msgid "[_cedrick_] (Элион так крепко спит…)"
-msgstr ""
+msgstr "[_cedrick_] (Elion dorme così profondamente...)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:348 #-#-# translate crowdin epilogMotherDay_09c00e48:
 msgid "[_cedrick_] (Пожалуй… Пока не буду ее будить)"
-msgstr ""
+msgstr "[_cedrick_] (Forse... non la sveglierò ancora)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:350 #-#-# translate crowdin epilogMotherDay_2f5a88bf:
 msgid "[_cedrick_] Спи спокойно"
-msgstr ""
+msgstr "[_cedrick_] dormi bene"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:351 #-#-# translate crowdin epilogMotherDay_89c59728:
 msgid "[_elion_] ..."
@@ -646,7 +646,7 @@ msgstr "[_elion_] ......"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:354 #-#-# translate crowdin epilogMotherDay_ef84f9dc:
 msgid "[_elion_] ........."
-msgstr ""
+msgstr "[_elion_] ........."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:355 #-#-# translate crowdin epilogMotherDay_49316299:
 msgid "[_cedrick_] ..."
@@ -658,11 +658,11 @@ msgstr "[_cedrick_] ......"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:358 #-#-# translate crowdin epilogMotherDay_0a71e397:
 msgid "[_cedrick_] (Проклятье…)"
-msgstr ""
+msgstr "[_cedrick_] (Dannazione…)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:359 #-#-# translate crowdin epilogMotherDay_07315006:
 msgid "[_cedrick_] (Опять проиграл…)"
-msgstr ""
+msgstr "[_cedrick_] (Perso di nuovo…)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:371 #-#-# translate crowdin epilogMotherDay_a20cefa7:
 msgid "..."
