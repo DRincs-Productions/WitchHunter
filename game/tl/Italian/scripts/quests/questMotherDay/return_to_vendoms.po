@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-28 10:20\n"
+"PO-Revision-Date: 2024-04-28 15:10\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -42,7 +42,7 @@ msgstr "[_cedrick_] (O c'è un altro motivo per essere felici?)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:38 #-#-# translate crowdin return_to_vendoms_151531fc:
 msgid "[_centered_] {size=37}Седрик, Сьюзан и Вилл едут на пляж{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric, Susan e Will andranno alla spiaggia{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:40 #-#-# translate crowdin return_to_vendoms_a20cefa7:
 msgid "..."
@@ -58,7 +58,7 @@ msgstr "......"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:51 #-#-# translate crowdin return_to_vendoms_cb16a2d8:
 msgid "[_susan_] Так, вот мы и здесь"
-msgstr ""
+msgstr "[_susan_] Allora eccoci qua"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:57 #-#-# translate crowdin return_to_vendoms_4ddd357a:
 msgid "[_cedrick_] Какой свежий морской воздух..."
