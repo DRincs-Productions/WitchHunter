@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-28 15:10\n"
+"PO-Revision-Date: 2024-05-01 15:48\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -62,55 +62,55 @@ msgstr "[_susan_] Allora eccoci qua"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:57 #-#-# translate crowdin return_to_vendoms_4ddd357a:
 msgid "[_cedrick_] Какой свежий морской воздух..."
-msgstr ""
+msgstr "[_cedrick_] Che aria fresca di mare..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:61 #-#-# translate crowdin return_to_vendoms_5f8b8763:
 msgid "[_susan_] Ох, точно, Рик, ты же впервые на пляже. И как тебе?"
-msgstr ""
+msgstr "[_susan_] Oh, è vero, Rick, questa è la tua prima volta in spiaggia. E cosa ne pensi?"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:65 #-#-# translate crowdin return_to_vendoms_92b83e91:
 msgid "[_cedrick_] Интересно... Но думаю я сложу свое мнение ближе к концу мероприятия"
-msgstr ""
+msgstr "[_cedrick_] Interessante... Ma penso che mi formerò la mia opinione verso la fine dell'evento"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:69 #-#-# translate crowdin return_to_vendoms_c5862961:
 msgid "[_susan_] Хах, поняла тебя. Ну что, Вилл, пойдем переодеваться?"
-msgstr ""
+msgstr "[_susan_] Ah, ti capisco. Allora, Will, andiamo a cambiarci?"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:73 #-#-# translate crowdin return_to_vendoms_fc608b5f:
 msgid "[_will_] Д-да, точно. Пошли"
-msgstr ""
+msgstr "[_will_] S-sì, esattamente. Andato"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:78 #-#-# translate crowdin return_to_vendoms_112ba739:
 msgid "[_centered_] {size=37}Спустя немного времени{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Dopo un po' di tempo{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:83 #-#-# translate crowdin return_to_vendoms_6b9432ea:
 msgid "[_susan_] Что, серьезно? Тут все кабинки для переодевания сломаны!?"
-msgstr ""
+msgstr "[_susan_] Cosa, sul serio? Tutti gli spogliatoi qui sono rotti!?"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:91 #-#-# translate crowdin return_to_vendoms_17c2faad:
 msgid "[_will_] Думаю это Урия с его шайкой постарались. Слышала они тут недалеко прячутся и фоткают девушек, пока те переодеваются"
-msgstr ""
+msgstr "[_will_] Penso che Uriah e la sua banda abbiano fatto del loro meglio. Ho sentito che si nascondono nelle vicinanze e fotografano le ragazze mentre si cambiano d'abito"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:97 #-#-# translate crowdin return_to_vendoms_b7608967:
 msgid "[_susan_] К-какой кошмар... Ну и молодежь нынче пошла..."
-msgstr ""
+msgstr "[_susan_] C-che incubo... Beh, i giovani oggi se ne sono andati..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:101 #-#-# translate crowdin return_to_vendoms_e16c490f:
 msgid "[_susan_] (Хотя, не то чтобы в мое время парни этим не занимались... За мной и самой помню подглядывали...)"
-msgstr ""
+msgstr "[_susan_] (Anche se non è che i ragazzi non lo facessero ai miei tempi... ricordo che anche la gente mi spiava...)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:105 #-#-# translate crowdin return_to_vendoms_4bb05df1:
 msgid "[_will_] Хм... Мы можем переодеваться в разных местах, чтобы они не смогли заснять нас всех разом"
-msgstr ""
+msgstr "[_will_] Hmm... Possiamo cambiarci d'abito in posti diversi così non possono filmarci tutti insieme"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:109 #-#-# translate crowdin return_to_vendoms_97db0a23:
 msgid "[_will_] По-отдельности думаю они растеряются..."
-msgstr ""
+msgstr "[_will_] Separatamente, penso che saranno confusi..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:115 #-#-# translate crowdin return_to_vendoms_ecfa9092:
 msgid "[_cedrick_] Я бы лучше прикрыл вас, пока вы переодеваетесь"
-msgstr ""
+msgstr "[_cedrick_] Preferirei coprirti mentre ti cambi"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:121 #-#-# translate crowdin return_to_vendoms_8d5555d5:
 msgid "[_susan_] Ты можешь прикрыть Вилл, пока я переодеваюсь в более укромном месте, Рик. Думаю так будет правильнее"
