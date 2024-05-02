@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 11:11\n"
+"PO-Revision-Date: 2024-05-02 20:36\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:10 #-#-# translate crowdin trying_to_sleep_a20cefa7:
 msgid "..."
@@ -22,15 +22,15 @@ msgstr "..."
 
 # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:16 #-#-# translate crowdin trying_to_sleep_1ec885fa:
 msgid "[_cedrick_] (Хм.. Вроде немного получше. Но все еще чувствую себя утомленным)"
-msgstr ""
+msgstr "[_cedrick_] (Hm.. Sembra un po' meglio. Ma mi sento ancora stanco)"
 
 # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:17 #-#-# translate crowdin trying_to_sleep_818d0631:
 msgid "[_cedrick_] (Да уж, спать в спальном мешке под прилавком - это мягко говоря не способствует хорошему сну)"
-msgstr ""
+msgstr "[_cedrick_] (Sì, dormire in un sacco a pelo sotto il bancone, per usare un eufemismo, non favorisce un buon sonno)"
 
 # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:19 #-#-# translate crowdin trying_to_sleep_dffd1032:
 msgid "[_cedrick_] (Хах, раньше я мог спать и в полевых условиях во время войны, но сейчас я правда жалею о том, что у меня нет нормальной кровати)"
-msgstr ""
+msgstr "[_cedrick_] (Hah, durante la guerra potevo dormire nei campi, ma ora mi dispiace davvero di non avere un letto normale)"
 
 # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:20 #-#-# translate crowdin trying_to_sleep_49316299:
 msgid "[_cedrick_] ..."
@@ -38,23 +38,23 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:26 #-#-# translate crowdin trying_to_sleep_d33a6427:
 msgid "[_elion_] Р-рик, не поможешь мне?"
-msgstr ""
+msgstr "[_elion_] R-rick, puoi aiutarmi?"
 
 # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:28 #-#-# translate crowdin trying_to_sleep_0c9fca75:
 msgid "[_cedrick_] Элион!? Откуда ты взяла эту рухлядь?"
-msgstr ""
+msgstr "[_cedrick_] Elion!? Dove hai preso questa spazzatura?"
 
 # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:30 #-#-# translate crowdin trying_to_sleep_aac2d3d8:
 msgid "[_elion_] Это наш старый телевизор. Я притащила его из моего дома. В магазинчике стало скучно, вот я и решила, что телевизор поможет скоротать время"
-msgstr ""
+msgstr "[_elion_] Questa è la nostra vecchia Tv. L'ho portato da casa mia. Stava diventando noioso in negozio, quindi ho deciso che la Tv mi avrebbe aiutato a passare il tempo"
 
 # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:31 #-#-# translate crowdin trying_to_sleep_7601297f:
 msgid "[_cedrick_] И ты тащила его сама от своего дома? Попросила бы меня помочь"
-msgstr ""
+msgstr "[_cedrick_] E sei stato tu a trascinarlo via da casa tua? Mi chiederesti di aiutarti"
 
 # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:33 #-#-# translate crowdin trying_to_sleep_1961d122:
 msgid "[_elion_] Тебя почти не бывает в магазине последнее время, вот я и подумала, что проще самой..."
-msgstr ""
+msgstr "[_elion_] Ultimamente non sei quasi mai stato in negozio, quindi ho pensato che sarebbe stato più semplice..."
 
 # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:35 #-#-# translate crowdin trying_to_sleep_49316299_1:
 msgid "[_cedrick_] ..."
@@ -62,7 +62,7 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:36 #-#-# translate crowdin trying_to_sleep_43b921e8:
 msgid "[_cedrick_] (Черт, об отношениях с Элион тоже не стоит забывать... Последнее время я и вправду уделял ей слишком много внимания)"
-msgstr ""
+msgstr "[_cedrick_] (Cavolo, non dovresti dimenticarti nemmeno della tua relazione con Elyon... Ultimamente le sto prestando davvero troppa attenzione)"
 
 # game/scripts/quests/questSleeplessNight/trying_to_sleep.rpy:37 #-#-# translate crowdin trying_to_sleep_dddfc9b7:
 msgid "[_cedrick_] Эм, Элион... Хочешь, проведем как-нибудь время вместе?"
