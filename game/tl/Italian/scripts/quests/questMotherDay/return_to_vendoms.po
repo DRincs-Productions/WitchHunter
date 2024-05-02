@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-01 17:12\n"
+"PO-Revision-Date: 2024-05-02 08:48\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -594,31 +594,31 @@ msgstr "[_susan_] (Dio, è tutto così veloce.. e all'improvviso..)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:466 #-#-# translate crowdin gallery_d_104_2f476108:
 msgid "[_susan_] (С чего вдруг такие изменения..)"
-msgstr ""
+msgstr "[_susan_] (Perché all'improvviso tali cambiamenti..)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:472 #-#-# translate crowdin gallery_d_104_7840012d:
 msgid "[_susan_] (Хотя стоп, чего это я.. Тот случай с Риком, когда она нас застукала.. Она же после этого четко дала понять, что ей не хватает того же.. Что она завидует..)"
-msgstr ""
+msgstr "[_susan_] (Anche se aspetta, perché sono... Quell'incidente con Rick, quando ci ha beccati.. Dopo di ciò, ha chiarito che le manca la stessa cosa.. Che è gelosa..)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:473 #-#-# translate crowdin gallery_d_104_f87092ca:
 msgid "[_susan_] (Какая же я дура, раньше не заметила..)"
-msgstr ""
+msgstr "[_susan_] (Che stupida sono, non me ne ero accorta prima..)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:477 #-#-# translate crowdin gallery_d_104_3d939d01:
 msgid "[_susan_] (Наша активная сексуальная жизнь с Риком заставляет комплексовать Вилл по-поводу своей сексуальности..)"
-msgstr ""
+msgstr "[_susan_] (La nostra vita sessuale attiva con Rick fa sì che Will si senta complesso riguardo alla sua sessualità..)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:479 #-#-# translate crowdin gallery_d_104_fd9e3d87:
 msgid "[_susan_] (И теперь она хочет доказать, что тоже может быть сексуальной и желанной..)"
-msgstr ""
+msgstr "[_susan_] (E ora vuole dimostrare che può anche essere sexy e desiderabile..)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:480 #-#-# translate crowdin gallery_d_104_caa47b2e:
 msgid "[_susan_] (Т-таким вот.. абсолютно вульгарным образом..)"
-msgstr ""
+msgstr "[_susan_] (C-in questo modo.. in modo assolutamente volgare..)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:484 #-#-# translate crowdin gallery_d_104_6e3723cd:
 msgid "[_susan_] (Е-если я ее сейчас не поддержу, любой другой мой комментарий она воспримет в штыки)"
-msgstr ""
+msgstr "[_susan_] (E-se non la sostengo adesso, accetterà qualsiasi altro commento che faccio con ostilità)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:488 #-#-# translate crowdin gallery_d_104_d16d6f65:
 msgid "[_susan_] (Мол я ее совсем не понимаю и прочее. И тогда кто знает, как еще она захочет, кхм, доказать свою сексуальность..)"
