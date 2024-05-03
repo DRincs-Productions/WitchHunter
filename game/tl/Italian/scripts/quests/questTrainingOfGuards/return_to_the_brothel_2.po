@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-27 21:05\n"
+"PO-Revision-Date: 2024-05-03 18:38\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:5 #-#-# translate crowdin return_to_the_brothel_2_23a021dd:
 msgid "[_cedrick_] И так, все в сборе. Рад, что каждая из вас добралась сюда в целости"
-msgstr ""
+msgstr "[_cedrick_] E così, tutto è assemblato.  Sono felice che ognuno di voi sia arrivato qui sano e salvo"
 
 # game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:8 #-#-# translate crowdin return_to_the_brothel_2_edd851c8:
 msgid "[_cedrick_] Вилл..."
@@ -22,19 +22,19 @@ msgstr "[_cedrick_] Will..."
 
 # game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:12 #-#-# translate crowdin return_to_the_brothel_2_7ee095ca:
 msgid "[_cedrick_] Ирма..."
-msgstr ""
+msgstr "[_cedrick_] Irma..."
 
 # game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:16 #-#-# translate crowdin return_to_the_brothel_2_31486bbe:
 msgid "[_cedrick_] Тарани..."
-msgstr ""
+msgstr "[_cedrick_] Taranee..."
 
 # game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:20 #-#-# translate crowdin return_to_the_brothel_2_d722669d:
 msgid "[_cedrick_] Корнелия..."
-msgstr ""
+msgstr "[_cedrick_] Cornelia..."
 
 # game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:24 #-#-# translate crowdin return_to_the_brothel_2_c0bd74b4:
 msgid "[_cedrick_] Хай Лин..."
-msgstr ""
+msgstr "[_cedrick_] Hay Lin..."
 
 # game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:25 #-#-# translate crowdin return_to_the_brothel_2_3e36a57f:
 msgid "[_cedrick_] Мы убираемся отсюда"
