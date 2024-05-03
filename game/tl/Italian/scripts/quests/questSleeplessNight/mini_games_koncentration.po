@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-27 21:05\n"
+"PO-Revision-Date: 2024-05-03 18:38\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:162 #-#-# translate crowdin podskazka_f6227483:
 msgid "Следующая мини игра представляет из себя некое подобие мини игры из старых флеш игр и вероятно вы могли уже сталкивался с подобным."
@@ -318,7 +318,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:313 #-#-# translate crowdin gallery_d_102_175d7834:
 msgid "[_centered_] {size=37}Вилл выбирается из под стола и идет в сторону ванной{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Will esce da sotto il tavolo e si dirige verso il bagno{/size}"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:314 #-#-# translate crowdin gallery_d_102_c2d3ca9f:
 msgid "[_cedrick_] (Н-надеюсь сработает...)"
@@ -886,7 +886,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:764 #-#-# translate crowdin gallery_d_102_50f2563c:
 msgid "[_centered_] {size=37}На пути в магазин{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Sulla strada per il negozio{/size}"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:766 #-#-# translate crowdin gallery_d_102_73fb2bd7:
 msgid "[_cedrick_] (Хм, а что мне самому подарить для Сьюзан?)"
@@ -1010,7 +1010,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:829 #-#-# translate crowdin game_over_5b13a0af:
 msgid "[_centered_] {size=37}ОБЛАЖАЛСЯ{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}FOTTUTO{/size}"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:834 #-#-# translate crowdin game_over_febba7a6:
 msgid "[_cedrick_] Ааааххх... Ч-черт... Это слишком..."
@@ -1094,7 +1094,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:864 #-#-# translate crowdin game_over_5b13a0af_1:
 msgid "[_centered_] {size=37}ОБЛАЖАЛСЯ{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}FOTTUTO{/size}"
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:866
 msgid "Пройти фрагмент заново?"
