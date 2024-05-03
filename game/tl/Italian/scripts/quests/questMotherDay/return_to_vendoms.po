@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-03 17:40\n"
+"PO-Revision-Date: 2024-05-03 18:38\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -850,11 +850,11 @@ msgstr "[_cedrick_] N-no io!"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:711 #-#-# translate crowdin gallery_d_104_c08d978e:
 msgid "[_susan_] Аахах, любите вы между собой соревноваться.."
-msgstr ""
+msgstr "[_susan_] Aahah, vi piace competere tra di voi.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:715 #-#-# translate crowdin gallery_d_104_c83f2fe2:
 msgid "[_centered_] {size=37}Семья Вандом вместе с Риком несколько часов вселились на пляже{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}La famiglia Vendôme e Rick hanno trascorso diverse ore sulla spiaggia{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:718 #-#-# translate crowdin gallery_d_104_bff6110a:
 msgid "[_cedrick_] Ух, это было насыщенно.."
@@ -1026,7 +1026,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:802 #-#-# translate crowdin gallery_d_105_9f86da3a:
 msgid "[_centered_] {size=37}Вилл с Седрик незаметно идут вдвоем в туалет{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Will e Cedric vanno tranquillamente in bagno insieme{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:805 #-#-# translate crowdin gallery_d_105_70a77c29:
 msgid "[_will_] Мммххх, дааа, Рик, вот так.."
@@ -1334,7 +1334,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:981 #-#-# translate crowdin gallery_d_105_53a1b62e:
 msgid "[_centered_] {size=37}Вилл уходит{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Will se ne va{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:985 #-#-# translate crowdin gallery_d_105_46b01c80:
 msgid "[_cedrick_] Что ж.. Пока тяну время, схожу в туалет.."
@@ -1698,7 +1698,7 @@ msgstr "......"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1176 #-#-# translate crowdin gallery_d_106_21f37b24:
 msgid "[_centered_] {size=37}В туалете возле бассейна{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Nella toilette vicino alla piscina{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1179 #-#-# translate crowdin gallery_d_106_a10d4bc6:
 msgid "[_cedrick_] (Ух, черт, долго же я терпел.. Хорошо, что ближайшая кабинка была свободна..)"
@@ -1734,7 +1734,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1190 #-#-# translate crowdin gallery_d_106_c8b2419e:
 msgid "[_centered_] {size=37}Седрик начинает проверять кабинки{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric inizia a controllare le cabine{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1194 #-#-# translate crowdin gallery_d_107_ea2c6263:
 msgid "[_cedrick_] Ч-что за.."
@@ -2118,7 +2118,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1414 #-#-# translate crowdin gallery_d_107_56572925:
 msgid "[_centered_] {size=37}Седрик покидает туалет у бассейна{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric esce dal bagno vicino alla piscina{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1417 #-#-# translate crowdin gallery_d_107_5be99959:
 msgid "[_cedrick_] (Черт, как-то даже жаль оставлять эту девушку там одну с этими отморозками…)"
@@ -2158,7 +2158,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1429 #-#-# translate crowdin gallery_d_107_56572925_1:
 msgid "[_centered_] {size=37}Седрик покидает туалет у бассейна{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric esce dal bagno vicino alla piscina{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1434 #-#-# translate crowdin gallery_d_107_809f15aa:
 msgid "[_cedrick_] (Думаю стоит как можно скорее забыть об этой истории..)"
@@ -2362,7 +2362,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1570 #-#-# translate crowdin gallery_d_108_61d58637:
 msgid "[_centered_] {size=37}Седрик некоторое время отдыхает с Вилл и Сьюзан в бассейне{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric si rilassa per un po' con Will e Susan in piscina{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1575 #-#-# translate crowdin gallery_d_108_7bac9828:
 msgid "[_will_] Пожалуй, я на сегодня уже накупалась. Думаю самое время выходить из воды"
@@ -2466,7 +2466,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1632 #-#-# translate crowdin gallery_d_108_81692ab9:
 msgid "[_centered_] {size=37}Седрик, Сьюзан и Вилл собрались и поехали домой. Сначала они ехали в неловкой тишине, но потом разговорились{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric, Susan e Will si prepararono e tornarono a casa.  All'inizio guidarono in un silenzio imbarazzante, ma poi iniziarono a parlare{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1639 #-#-# translate crowdin gallery_d_108_562cdfa7:
 msgid "[_susan_] Хах, рада, что мы избавились от этих неловкостей"
