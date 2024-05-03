@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 11:12\n"
+"PO-Revision-Date: 2024-05-03 19:55\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:4 #-#-# translate crowdin talk_with_phobos_1_0b84cce1:
 msgid "[_phobos_] Ты как всегда опоздал, Седрик"
-msgstr ""
+msgstr "[_phobos_] Sei in ritardo come sempre, Cedric"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:8 #-#-# translate crowdin talk_with_phobos_1_5a5581c3:
 msgid "[_cedrick_] Путь из мира людей до замка занял больше времени, чем я рассчитывал, Мой князь"
-msgstr ""
+msgstr "[_cedrick_] Il viaggio dal mondo umano al castello è durato più tempo di quanto mi aspettassi, mio ​​principe"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:9 #-#-# translate crowdin talk_with_phobos_1_07cc44df:
 msgid "[_cedrick_] Я стараюсь не выходить из своего человеческого образа, чтобы не вызывать подозрений, но порой это также отнимает не мало времени"
-msgstr ""
+msgstr "[_cedrick_] Cerco di non abbandonare la mia immagine umana per non destare sospetti, ma a volte anche questo richiede molto tempo"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:13 #-#-# translate crowdin talk_with_phobos_1_2f2968a2:
 msgid "[_phobos_] Меня не волнуют твои оправдания"
-msgstr ""
+msgstr "[_phobos_] Non mi interessano le tue scuse"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:17 #-#-# translate crowdin talk_with_phobos_1_49316299:
 msgid "[_cedrick_] ..."
@@ -34,23 +34,23 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:21 #-#-# translate crowdin talk_with_phobos_1_9b1909a6:
 msgid "[_phobos_] Скажи, Райтер и вправду сбежал во время сражения с Королем морпионов?"
-msgstr ""
+msgstr "[_phobos_] Dimmi, Reiter è davvero scappato durante la battaglia con il Re Morpion?"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:25 #-#-# translate crowdin talk_with_phobos_1_6f73ffc8:
 msgid "[_cedrick_] Насколько я знаю все именно так. Во всяком случае, когда я начал сражение с Королем морпионов, Райтера уже не было поблизости"
-msgstr ""
+msgstr "[_cedrick_] Per quanto ne so, è tutto esattamente così.  Comunque, quando ho iniziato la battaglia con il Re Morpion, Reiter non c'era più"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:29 #-#-# translate crowdin talk_with_phobos_1_615dc8af:
 msgid "[_phobos_] Хах, и как всегда, эти жалкие людишки только и умеют, что разочаровывать. Впрочем, это было ожидаемо"
-msgstr ""
+msgstr "[_phobos_] Ah, e come sempre, queste persone patetiche sanno solo deludere.  Tuttavia, questo era previsto"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:33 #-#-# translate crowdin talk_with_phobos_1_b21620ff:
 msgid "[_cedrick_] Ожидаемо?"
-msgstr ""
+msgstr "[_cedrick_] Previsto?"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:37 #-#-# translate crowdin talk_with_phobos_1_36e5833c:
 msgid "[_phobos_] Верно, ведь Райтер никчемный главнокомандующий, у него не было подходящих данных. К тому же среди армии он не имел особого авторитета"
-msgstr ""
+msgstr "[_phobos_] Dopotutto, Reiter è un comandante in capo senza valore e non aveva i dati giusti.  Inoltre, non aveva molta autorità nell'esercito"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:41 #-#-# translate crowdin talk_with_phobos_1_b0259c63:
 msgid "[_cedrick_] Тогда, зачем..."
