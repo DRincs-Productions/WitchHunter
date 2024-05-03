@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-27 21:05\n"
+"PO-Revision-Date: 2024-05-03 18:38\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/check_irma_and_tarani_in_barracks.rpy:6 #-#-# translate crowdin check_irma_and_tarani_in_barracks_ed65cc5d:
 msgid "[_cedrick_] Как продвигаются тренировки стражниц, Булдж?"
@@ -398,7 +398,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/check_irma_and_tarani_in_barracks.rpy:167 #-#-# translate crowdin gallery_d_094_3bf7cd5c:
 msgid "[_centered_] {size=37}Седрик дает Ирме и Тарани немного времени, чтобы прийти в себя{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric dà a Irma e Taranee un po' di tempo per riprendersi{/size}"
 
 # game/scripts/quests/questTrainingOfGuards/check_irma_and_tarani_in_barracks.rpy:175 #-#-# translate crowdin gallery_d_094_804089e5:
 msgid "[_cedrick_] Как вы себя чувствуете?"
@@ -522,7 +522,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/check_irma_and_tarani_in_barracks.rpy:279 #-#-# translate crowdin gallery_d_094_194abc91:
 msgid "[_centered_] {size=37}Седрик заключает Тарани в кандалы{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric incatena Taranee{/size}"
 
 # game/scripts/quests/questTrainingOfGuards/check_irma_and_tarani_in_barracks.rpy:286 #-#-# translate crowdin gallery_d_094_6f81bd29:
 msgid "[_irma_] Т-тарани, я вхожу..."
@@ -730,7 +730,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/check_irma_and_tarani_in_barracks.rpy:357 #-#-# translate crowdin gallery_d_094_b8889c6d:
 msgid "[_centered_] {size=37}Седрик, Ирма и Тарани отходят в темницу неподалеку{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric, Irma e Taranee vanno in una prigione vicina{/size}"
 
 # game/scripts/quests/questTrainingOfGuards/check_irma_and_tarani_in_barracks.rpy:367 #-#-# translate crowdin gallery_d_094_d0c2dca2:
 msgid "[_cedrick_] Тарани, ты не шутишь? Предлагая мне подобное... Ты... Ты же никогда не сможешь простить меня за..."
