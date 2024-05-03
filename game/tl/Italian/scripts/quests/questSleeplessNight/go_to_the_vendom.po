@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-26 14:48\n"
+"PO-Revision-Date: 2024-05-03 18:38\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:6 #-#-# translate crowdin go_to_the_vendom_03fea05e:
 msgid "[_centered_] {size=37}Седрик тихо вошел в дом, зашел в комнату Сьюзан и тут же грохнулся спать на кровать{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric entrò silenziosamente in casa, entrò nella stanza di Susan e si addormentò subito sul letto.{/size}"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:7 #-#-# translate crowdin go_to_the_vendom_b1e2054b:
 msgid "[_centered_] {size=37}Следующим утром{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Il Mattino dopo{/size}"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:12 #-#-# translate crowdin gallery_d_100_2ef90216:
 msgid "[_cedrick_] (...)"
@@ -150,7 +150,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:66 #-#-# translate crowdin gallery_d_100_ddb89391:
 msgid "[_centered_] {size=37}Седрик стремительно направляется в душ{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric si dirige velocemente verso la doccia{/size}"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:71 #-#-# translate crowdin gallery_d_100_684270ef:
 msgid "[_susan_] Ох, Рик, быстро же ты прибежал на мой зов. Это так мило"
