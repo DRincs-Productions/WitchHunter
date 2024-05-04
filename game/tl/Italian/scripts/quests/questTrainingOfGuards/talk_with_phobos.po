@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-03 19:55\n"
+"PO-Revision-Date: 2024-05-04 07:59\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:4 #-#-# translate crowdin talk_with_phobos_1_0b84cce1:
 msgid "[_phobos_] Ты как всегда опоздал, Седрик"
@@ -54,75 +54,75 @@ msgstr "[_phobos_] Dopotutto, Reiter è un comandante in capo senza valore e non
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:41 #-#-# translate crowdin talk_with_phobos_1_b0259c63:
 msgid "[_cedrick_] Тогда, зачем..."
-msgstr ""
+msgstr "[_cedrick_] Allora perché..."
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:45 #-#-# translate crowdin talk_with_phobos_1_369d301d:
 msgid "[_phobos_] Для начала, давай немного прогуляемся, Седрик. Я давно не осматривал собственные покои"
-msgstr ""
+msgstr "[_phobos_] Per prima cosa, facciamo una piccola passeggiata, Cedric.  È da molto tempo che non mi guardo intorno nelle mie stanze"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:49 #-#-# translate crowdin talk_with_phobos_1_be820505:
 msgid "[_cedrick_] (Как я и думал... Он собирается изучить замок, это проблема...)"
-msgstr ""
+msgstr "[_cedrick_] (Proprio come pensavo... esplorerà il castello, è un problema...)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:50 #-#-# translate crowdin talk_with_phobos_1_6e5ddb32:
 msgid "[_cedrick_] (Нужно увести его в сторону от тех мест, в которых сейчас заточены стражницы...)"
-msgstr ""
+msgstr "[_cedrick_] (Dobbiamo portarlo via dai luoghi dove ora sono imprigionate le guardie...)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:51 #-#-# translate crowdin talk_with_phobos_1_a88421e2:
 msgid "[_cedrick_] Как пожелаете, мой князь"
-msgstr ""
+msgstr "[_cedrick_] Come desideri, mio ​​principe"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:56 #-#-# translate crowdin talk_with_phobos_1_a5a5e05e:
 msgid "[_phobos_] Пожалуй, давай заглянем сюда. Давно не был здесь"
-msgstr ""
+msgstr "[_phobos_] Immagino diamo un'occhiata qui.  Non sono qui da molto tempo"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:57 #-#-# translate crowdin talk_with_phobos_1_c99b0263:
 msgid "[_cedrick_] Сюда?"
-msgstr ""
+msgstr "[_cedrick_] Qui?"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:62 #-#-# translate crowdin talk_with_phobos_1_aa220f3a:
 msgid "[_phobos_] Темные коридоры, высокие арки. Навевает воспоминания, верно?"
-msgstr ""
+msgstr "[_phobos_] Corridoi bui, archi alti.  Riporta alla memoria i ricordi, vero?"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:63 #-#-# translate crowdin talk_with_phobos_1_08ce2584:
 msgid "[_cedrick_] Да, верно... В былые времена здесь мы с вами спаринговались"
-msgstr ""
+msgstr "[_cedrick_] Sì, è vero... Ai vecchi tempi, qui si allenava"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:65 #-#-# translate crowdin talk_with_phobos_1_c4b56862:
 msgid "[_phobos_] Воистину так. Эти арки помнят многое. Некогда величественный зал для приема знатных гостей мы с тобой превратили в тренировочный зал"
-msgstr ""
+msgstr "[_phobos_] Davvero così.  Questi archi ricordano molto.  Abbiamo trasformato la sala un tempo maestosa per ricevere gli ospiti nobili in una sala di formazione"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:69 #-#-# translate crowdin talk_with_phobos_1_c4058377:
 msgid "[_phobos_] Трещины, потертости и сколы - все это результат наших битв, во время которых мы оттачивали свои навыки"
-msgstr ""
+msgstr "[_phobos_] Crepe, graffi e scheggiature sono il risultato delle nostre battaglie, durante le quali abbiamo affinato le nostre capacità"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:73 #-#-# translate crowdin talk_with_phobos_1_6b9191ed:
 msgid "[_phobos_] Хах, помнится, во время одной из битв ты так разошелся, что снес половину арок своим хвостом, тем самым одержав победу"
-msgstr ""
+msgstr "[_phobos_] Ah, ricordo che durante una delle battaglie ti sei emozionato così tanto che hai demolito metà degli archi con la coda, vincendo così"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:74 #-#-# translate crowdin talk_with_phobos_1_3ef5dd36:
 msgid "[_phobos_] Уронить потолок на меня было довольно креативным решением в том бою, но мой дедушка тогда так разозлился"
-msgstr ""
+msgstr "[_phobos_] Abbassarmi il limite è stata una decisione piuttosto creativa in quella lotta, ma mio nonno in quel momento si arrabbiò moltissimo"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:78 #-#-# translate crowdin talk_with_phobos_1_1876d30a:
 msgid "[_phobos_] Хахах, он хотел казнить тебя после той выходки, ведь ты нанес серьезный ущерб историческому месту. Но я не позволил моему дедушке сделать это"
-msgstr ""
+msgstr "[_phobos_] Hahah, voleva giustiziarti dopo quello scherzo, perché hai causato gravi danni al sito storico.  Ma non l'ho lasciato fare a mio nonno"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:79 #-#-# translate crowdin talk_with_phobos_1_be52bdb6:
 msgid "[_cedrick_] (К чему он клонит...)"
-msgstr ""
+msgstr "[_cedrick_] (Cosa sta arrivando...)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:83 #-#-# translate crowdin talk_with_phobos_1_89be8f29:
 msgid "[_cedrick_] Да, я помню это, Князь Фобос. Было очень милосердно с вашей стороны пощадить меня"
-msgstr ""
+msgstr "[_cedrick_] Sì, me lo ricordo, principe Phobos.  Sei stato molto misericordioso a risparmiarmi"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:87 #-#-# translate crowdin talk_with_phobos_1_457177c1:
 msgid "[_phobos_] Тогда мы были другими, я был лишь претендентом на престол, а ты был моим товарищем"
-msgstr ""
+msgstr "[_phobos_] Allora eravamo diversi, io ero solo un pretendente al trono e tu eri il mio compagno"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:91 #-#-# translate crowdin talk_with_phobos_1_0cbaacd9:
 msgid "[_phobos_] Да, совсем другие времена..."
-msgstr ""
+msgstr "[_phobos_] Sì, tempi completamente diversi..."
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:93 #-#-# translate crowdin talk_with_phobos_1_6bce4dfe:
 msgid "[_cedrick_] (Зачем весь этот разговор? Он явно к чему-то клонит. Возможно, вспоминает о прошлых днях, чтобы раскрыть мое предательство?)"
