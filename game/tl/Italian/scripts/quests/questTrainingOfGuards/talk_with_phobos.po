@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-04 07:59\n"
+"PO-Revision-Date: 2024-05-04 10:14\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:4 #-#-# translate crowdin talk_with_phobos_1_0b84cce1:
 msgid "[_phobos_] Ты как всегда опоздал, Седрик"
@@ -126,7 +126,7 @@ msgstr "[_phobos_] Sì, tempi completamente diversi..."
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:93 #-#-# translate crowdin talk_with_phobos_1_6bce4dfe:
 msgid "[_cedrick_] (Зачем весь этот разговор? Он явно к чему-то клонит. Возможно, вспоминает о прошлых днях, чтобы раскрыть мое предательство?)"
-msgstr ""
+msgstr "[_cedrick_] (Perché tutta questa conversazione?  Ha chiaramente qualcosa in mente.  Forse ricordare i giorni passati per rivelare il mio tradimento?)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:97 #-#-# translate crowdin talk_with_phobos_1_179c2145:
 msgid "[_cedrick_] (Возможна, моя перемена в поведении и моем отношении к нему стала более явной и он начал понимать, что я замышляю)"
