@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-04 10:14\n"
+"PO-Revision-Date: 2024-05-04 11:18\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:4 #-#-# translate crowdin talk_with_phobos_1_0b84cce1:
 msgid "[_phobos_] Ты как всегда опоздал, Седрик"
@@ -130,55 +130,55 @@ msgstr "[_cedrick_] (Perché tutta questa conversazione?  Ha chiaramente qualcos
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:97 #-#-# translate crowdin talk_with_phobos_1_179c2145:
 msgid "[_cedrick_] (Возможна, моя перемена в поведении и моем отношении к нему стала более явной и он начал понимать, что я замышляю)"
-msgstr ""
+msgstr "[_cedrick_] (È possibile che il mio cambiamento nel comportamento e nel mio atteggiamento nei suoi confronti sia diventato più evidente e lui abbia iniziato a capire cosa stavo progettando)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:101 #-#-# translate crowdin talk_with_phobos_1_4c482d50:
 msgid "[_cedrick_] (Обычно, в его положении вот так ностальгически вспоминают о прошлом с тем человеком, которого хотят убить...)"
-msgstr ""
+msgstr "[_cedrick_] (Di solito, nella sua posizione, ricordano con nostalgia il passato con la persona che vogliono uccidere...)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:105 #-#-# translate crowdin talk_with_phobos_1_b6ba2d8d:
 msgid "[_phobos_] Все в порядке, Седрик? Ты как-то побледнел. Словно тебя что-то беспокоит"
-msgstr ""
+msgstr "[_phobos_] Va tutto bene, Cedric?  In qualche modo sei diventato pallido.  Come se qualcosa ti preoccupasse"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:107 #-#-# translate crowdin talk_with_phobos_1_3a5ea65b:
 msgid "[_cedrick_] ...Я"
-msgstr ""
+msgstr "[_cedrick_] ..Io"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:109 #-#-# translate crowdin talk_with_phobos_1_d4bc81b5:
 msgid "[_phobos_] Возможно, тебе нужно отлучиться по делам, все же в замке у тебя есть и другие заботы, помимо сопровождения Князя в его беспечной прогулке"
-msgstr ""
+msgstr "[_phobos_] Forse hai bisogno di partire per affari, ma al castello hai altre preoccupazioni che accompagnare il Principe nella sua spensierata passeggiata"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:113 #-#-# translate crowdin talk_with_phobos_1_84174e43:
 msgid "[_cedrick_] (Он это сейчас серьезно? Черт, это очень на него не похоже... Неужели он обо всем догадался...)"
-msgstr ""
+msgstr "[_cedrick_] (E' serio adesso?  Dannazione, questo non è proprio da lui... Ha davvero indovinato tutto...)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:117 #-#-# translate crowdin talk_with_phobos_1_7b4e9022:
 msgid "[_phobos_] Я прав?"
-msgstr ""
+msgstr "[_phobos_] Ho ragione?"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:121 #-#-# translate crowdin talk_with_phobos_1_f7d28951:
 msgid "[_cedrick_] Ч-что?... Эм... Да... У меня есть кое-какие дела с Мирандой. Она должна помочь мне с несколькими зельями, которые помогут мне на земле"
-msgstr ""
+msgstr "[_cedrick_] C-cosa?... Um... Sì... ho degli affari con Miranda.  Dovrebbe aiutarmi con alcune pozioni che mi aiuteranno sulla terra"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:122 #-#-# translate crowdin talk_with_phobos_1_ceda525e:
 msgid "[_cedrick_] Я собрал для нее нужные ингредиенты, но их стоит отдать Миранде как можно раньше, поскольку зелье варится долго, а ингредиенты быстро приходят в негодность"
-msgstr ""
+msgstr "[_cedrick_] Яho raccolto gli ingredienti necessari, ma dovrebbero essere dati a Miranda il prima possibile, poiché la pozione impiega molto tempo a prepararsi e gli ingredienti diventano rapidamente inutilizzabili"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:126 #-#-# translate crowdin talk_with_phobos_1_50322a6a:
 msgid "[_phobos_] Тогда поспеши, Седрик. Нельзя ставить под удар наш план по устранению стражниц и получению силы Элион, верно?"
-msgstr ""
+msgstr "[_phobos_] Allora sbrigati, Cedric.  Non possiamo mettere a repentaglio il nostro piano per eliminare le guardie e ottenere il potere di Elyon, giusto?"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:130 #-#-# translate crowdin talk_with_phobos_1_45b2bda3:
 msgid "[_cedrick_] Верно... Мой князь"
-msgstr ""
+msgstr "[_cedrick_] Esatto... Il mio principe"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:134 #-#-# translate crowdin talk_with_phobos_1_3c75c7cd:
 msgid "[_phobos_] Возвращайся, как отдашь Миранде все необходимое. Я буду ожидать тебя в соседнем зале."
-msgstr ""
+msgstr "[_phobos_] Torna dopo aver dato a Miranda tutto ciò di cui ha bisogno.  Ti aspetto nella stanza accanto."
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:138 #-#-# translate crowdin talk_with_phobos_1_6ee3ba4e:
 msgid "[_cedrick_] Как прикажете, Князь Фобос"
-msgstr ""
+msgstr "[_cedrick_] Come ordini, principe Phobos"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:141 #-#-# translate crowdin talk_with_phobos_1_a20cefa7:
 msgid "..."
