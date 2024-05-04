@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-04 13:21\n"
+"PO-Revision-Date: 2024-05-04 15:14\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -962,23 +962,23 @@ msgstr "[_cedrick_] Lavoriamo secondo il concetto sociale della Finestra Intonan
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:768 #-#-# translate crowdin gallery_d_105_96940736:
 msgid "[_will_] Ч-чего?"
-msgstr ""
+msgstr "[_will_] Perché?"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:770 #-#-# translate crowdin gallery_d_105_6fda5cc7:
 msgid "[_cedrick_] Эм.. Это идея о том, что можно уничтожить моральные принципы любого человека, постепенно ведя его от стадии недопустимого до приемлемого"
-msgstr ""
+msgstr "[_cedrick_] Ehm... Questa è l'idea che si possano distruggere i principi morali di qualsiasi persona, portandola gradualmente dallo stadio dell'inaccettabile all'accettabile"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:772 #-#-# translate crowdin gallery_d_105_8ead6522:
 msgid "[_will_] Боже, Рик, ты же даже не из нашего мира, откуда ты все это знаешь?"
-msgstr ""
+msgstr "[_will_] Dio, Rick, non sei nemmeno del nostro mondo, come fai a sapere tutto questo?"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:774 #-#-# translate crowdin gallery_d_105_de9a074c:
 msgid "[_cedrick_] Хах, я же владею книжным магазином. Провел в нем какое-то время прежде чем выйти в свет"
-msgstr ""
+msgstr "[_cedrick_] Ah, ho una libreria.  Ci ho passato un po' di tempo prima di uscire nel mondo"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:776 #-#-# translate crowdin gallery_d_105_552cf1c9:
 msgid "[_will_] Хах, ясно.. Хорошо подготовился"
-msgstr ""
+msgstr "[_will_] Ah, capisco... Ben preparato"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:778 #-#-# translate crowdin gallery_d_105_bcd124bf:
 msgid "[_will_] ..."
