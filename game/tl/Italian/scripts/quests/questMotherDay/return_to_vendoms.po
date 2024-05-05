@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-05 09:07\n"
+"PO-Revision-Date: 2024-05-05 10:09\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -990,15 +990,15 @@ msgstr "[_will_] Aspetta un attimo, così non ti importa di mia mamma... e di me
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:782 #-#-# translate crowdin gallery_d_105_be1e3db0:
 msgid "[_cedrick_] Я пока не знаю, Вилл. Но интересно, как далеко Сьюзан может зайти. И, если верить принципу окна овертона, то зайти она может максимально далеко"
-msgstr ""
+msgstr "[_cedrick_] Non lo so ancora, Will.  Ma mi chiedo fino a che punto potrà arrivare Susan.  E, se credi al principio della finestra di Overton, allora può arrivare il più lontano possibile"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:784 #-#-# translate crowdin gallery_d_105_bbe2a288:
 msgid "[_will_] Ого… Удивлена, что ты не против"
-msgstr ""
+msgstr "[_will_] Wow... sono sorpreso che non ti dispiaccia"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:786 #-#-# translate crowdin gallery_d_105_dbac91a0:
 msgid "[_cedrick_] (Укрепив узы с Вилл через Сьюзан, я смогу улучшить отношения с ней)"
-msgstr ""
+msgstr "[_cedrick_] (Rafforzando il mio legame con Will attraverso Susan, posso migliorare il mio rapporto con lei)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:788 #-#-# translate crowdin gallery_d_105_a828bc6f:
 msgid "[_cedrick_] (Не стоит забывать, что эффект силы королевы морпионов не вечен)"
@@ -1010,19 +1010,19 @@ msgstr "[_cedrick_] (Non credo che l'atteggiamento di Will nei miei confronti pe
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:792 #-#-# translate crowdin gallery_d_105_e324be30:
 msgid "[_cedrick_] (Поэтому стоит к этому подготовиться. В конце концов она лидер стражниц, нельзя терять с ней связь)"
-msgstr ""
+msgstr "[_cedrick_] (Pertanto, vale la pena prepararsi per questo.  Dopotutto, lei è il capo delle guardie, non puoi perdere il contatto con lei)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:794 #-#-# translate crowdin gallery_d_105_ef6eae28:
 msgid "[_will_] Кстати об этом…Мммм, не хочешь уединиться, Рик?"
-msgstr ""
+msgstr "[_will_] A proposito... Ummm, vorresti un po' di privacy, Rick?"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:796 #-#-# translate crowdin gallery_d_105_764bd2f3:
 msgid "[_cedrick_] Кажется возле бассейна есть вместимая туалетная кабина с закрывающейся дверью"
-msgstr ""
+msgstr "[_cedrick_] Sembra che ci sia uno spazioso gabinetto con una porta di chiusura vicino alla piscina"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:798 #-#-# translate crowdin gallery_d_105_20d27035:
 msgid "[_will_] Ну так тогда чего мы стоим тут у воды? Пойдем уже к бассейну"
-msgstr ""
+msgstr "[_will_] E allora perché siamo qui vicino all'acqua?  Andiamo già in piscina"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:802 #-#-# translate crowdin gallery_d_105_9f86da3a:
 msgid "[_centered_] {size=37}Вилл с Седрик незаметно идут вдвоем в туалет{/size}"
@@ -1030,71 +1030,71 @@ msgstr "[_centered_] {size=37}Will e Cedric vanno tranquillamente in bagno insie
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:805 #-#-# translate crowdin gallery_d_105_70a77c29:
 msgid "[_will_] Мммххх, дааа, Рик, вот так.."
-msgstr ""
+msgstr "[_will_] Mmmhhh, sì, Rick, è così.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:806 #-#-# translate crowdin gallery_d_105_b858f2dc:
 msgid "[_cedrick_] Тут точно никого нет?"
-msgstr ""
+msgstr "[_cedrick_] Sei sicuro che non ci sia nessuno qui?"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:807 #-#-# translate crowdin gallery_d_105_e279af0e:
 msgid "[_will_] Ааахх.. я-я.."
-msgstr ""
+msgstr "[_will_] Aaahh... io-io.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:808 #-#-# translate crowdin gallery_d_105_0ee8bf32:
 msgid "[_will_] Мммммм… Я не знаю.. Д-думала ты проверишь.."
-msgstr ""
+msgstr "[_will_] Mmmmmmm... non lo so... pensavo che avresti controllato.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:809 #-#-# translate crowdin gallery_d_105_a0b56dcc:
 msgid "[_cedrick_] Ч-черт, думал ты проверила.."
-msgstr ""
+msgstr "[_cedrick_] Cavolo, pensavo avessi controllato.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:810 #-#-# translate crowdin gallery_d_105_680efca9:
 msgid "[_will_] Уфффф…"
-msgstr ""
+msgstr "[_will_] Uffff…"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:815 #-#-# translate crowdin gallery_d_105_399ebefc:
 msgid "[_will_] М-мог бы задаться этим вопросом до того, как начнешь меня трахать.."
-msgstr ""
+msgstr "[_will_] M-potrei aver fatto questa domanda prima che iniziassi a scoparmi.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:817 #-#-# translate crowdin gallery_d_105_b16adbbe:
 msgid "[_cedrick_] Я думал ты этим займешься.."
-msgstr ""
+msgstr "[_cedrick_] Pensavo che avresti fatto questo.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:819 #-#-# translate crowdin gallery_d_105_05fb1416:
 msgid "[_cedrick_] Хах, но ты видимо была слишком занята, соблазняя меня своей задницей"
-msgstr ""
+msgstr "[_cedrick_] Ah, ma a quanto pare eri troppo occupato a tentarmi con il tuo culo"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:821 #-#-# translate crowdin gallery_d_105_8fa7bde5:
 msgid "[_will_] Аааххх.. А-а ты был слишком занят тем, что хотел вогнать свой член в мою киску"
-msgstr ""
+msgstr "[_will_] Aaahhh... A-ed eri troppo occupato a provare a spingere il tuo cazzo nella mia figa"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:823 #-#-# translate crowdin gallery_d_105_f562d6f2:
 msgid "[_will_] Ммммхх.. Н-неужели после всех тех развратностей в темнице, т-тебе все еще мало?"
-msgstr ""
+msgstr "[_will_] Mmmmhh... S-davvero, dopo tutta quella depravazione nel dungeon, non ne hai ancora avuto abbastanza?"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:825 #-#-# translate crowdin gallery_d_105_fec49b79:
 msgid "[_cedrick_] Это была работа. А сейчас я отдыхаю.."
-msgstr ""
+msgstr "[_cedrick_] Era lavoro.  E ora mi riposo.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:827 #-#-# translate crowdin gallery_d_105_5dfa406a:
 msgid "[_will_] Уууухх.. Р-работаешь, трахая беззащитных девиц.. И-и отдыхаешь, т-трахая их же.. В-вместе с их матерями.."
-msgstr ""
+msgstr "[_will_] Uuuhh... lavoro, ragazze indifese del cazzo.. e rilassatevi, scopatele.. insieme alle loro madri.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:829 #-#-# translate crowdin gallery_d_105_f03fe6d2:
 msgid "[_will_] К-как же хорошо ты, однако, устроился, Рик.. Н-не стыдно тебе."
-msgstr ""
+msgstr "[_will_] M-come ti sei sistemato bene, Rick... N-non vergognarti di te."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:831 #-#-# translate crowdin gallery_d_105_c3491ee8:
 msgid "[_cedrick_] Хах, конечно нет. Когда дело касается такой сочной киски, мне как-то не до чувства стыда"
-msgstr ""
+msgstr "[_cedrick_] Ah, ovviamente no.  Quando si tratta di una figa così succosa, non ho tempo per vergognarmi"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:833 #-#-# translate crowdin gallery_d_105_dbfc69e5:
 msgid "[_will_] Мммммвв.. К-какой же ты развратник.. И все же в чем-то ты остаешься верен себе.. Ааааххх.."
-msgstr ""
+msgstr "[_will_] Mmmmmvv.. C-che libertino sei.. Eppure in qualche modo rimani fedele a te stesso.. Aaaahhh.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:835 #-#-# translate crowdin gallery_d_105_f6f48911:
 msgid "[_susan_] Хм, да где же они.."
-msgstr ""
+msgstr "[_susan_] Hmm, dove sono.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:837 #-#-# translate crowdin gallery_d_105_ad3cce31:
 msgid "[_cedrick_] Ч-черт, это Сьюзан.. Вилл, не издавай ни звука.."
