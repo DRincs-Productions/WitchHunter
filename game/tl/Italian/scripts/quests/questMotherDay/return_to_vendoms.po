@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-04 15:14\n"
+"PO-Revision-Date: 2024-05-05 09:07\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -986,7 +986,7 @@ msgstr "[_will_] ..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:780 #-#-# translate crowdin gallery_d_105_fb55101f:
 msgid "[_will_] Подожди-ка, то есть ты не против, чтобы моя мама.. и я…"
-msgstr ""
+msgstr "[_will_] Aspetta un attimo, così non ti importa di mia mamma... e di me…"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:782 #-#-# translate crowdin gallery_d_105_be1e3db0:
 msgid "[_cedrick_] Я пока не знаю, Вилл. Но интересно, как далеко Сьюзан может зайти. И, если верить принципу окна овертона, то зайти она может максимально далеко"
