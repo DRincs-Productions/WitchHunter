@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-05 18:05\n"
+"PO-Revision-Date: 2024-05-05 19:26\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:4 #-#-# translate crowdin check_out_irma_in_the_dungeon_a20cefa7:
 msgid "..."
@@ -50,55 +50,55 @@ msgstr "[_cedrick_] Secondo il suo ordine, tu e Taranee siete stati assegnati al
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:19 #-#-# translate crowdin gallery_d_092_38929148:
 msgid "[_irma_] Ф-фто!? Страфники Фобоса... Ты шутишь..."
-msgstr ""
+msgstr "[_irma_] F-fto!?  Gli invasori di Phobos... stai scherzando..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:20 #-#-# translate crowdin gallery_d_092_28bd9f9a:
 msgid "[_cedrick_] Нет, все именно так. Вы пройдете специальные тренировки и жесткий отбор, после которого вы станете верными подданными Фобоса"
-msgstr ""
+msgstr "[_cedrick_] No, è proprio così.  Subirai una formazione speciale e una rigorosa selezione, dopo di che diventerai sudditi fedeli di Phobos"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:21 #-#-# translate crowdin gallery_d_092_9dce3bb0:
 msgid "[_cedrick_] Часть вашей подготовки началась прямо сейчас. Согласно правилам, для начала необходимо усмирить вашу волю"
-msgstr ""
+msgstr "[_cedrick_] Parte della tua preparazione inizia ora.  Secondo le regole, prima devi pacificare la tua volontà"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:23 #-#-# translate crowdin gallery_d_092_e71072a5:
 msgid "[_irma_] С-седрик... Мммхх... Н-не надо..."
-msgstr ""
+msgstr "[_irma_] Cedric... Mmmhh... N-non..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:24 #-#-# translate crowdin gallery_d_092_bea51f3a:
 msgid "[_cedrick_] Что ж, Ирма. Сейчас я не мог бы остановиться, даже если бы хотел. Для начала, давай освободим тебя из этих оков"
-msgstr ""
+msgstr "[_cedrick_] Bene, Irma.  Non potrei fermarmi adesso nemmeno se lo volessi.  Per prima cosa, liberiamoti da queste catene"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:27 #-#-# translate crowdin gallery_d_092_1ea4d8fa:
 msgid "[_centered_] {size=37}Седрик освобождает Ирму{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric libera Irma{/size}"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:31 #-#-# translate crowdin gallery_d_092_bb497840:
 msgid "[_irma_] Аххх... И все... Ммхх... Все это ради этого, Седрик? Чтобы в очередной раз меня трахнуть?"
-msgstr ""
+msgstr "[_irma_] Ahhh... E basta... Mmhh... Tutto questo per questo, Cedric?  Per scoparmi di nuovo?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:33 #-#-# translate crowdin gallery_d_092_4de62edc:
 msgid "[_cedrick_] О чем ты, Ирма?"
-msgstr ""
+msgstr "[_cedrick_] Di cosa stai parlando, Irma?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:35 #-#-# translate crowdin gallery_d_092_843cecf0:
 msgid "[_irma_] Заточение меня в подземелье, вся эта подготовка. Признайся, ты просто хочешь продолжить трахать нас всех, как уже делал это раньше..."
-msgstr ""
+msgstr "[_irma_] Imprigionarmi in una prigione, tutta questa preparazione.  Ammettilo, vuoi solo continuare a scoparci tutti come facevi prima..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:37 #-#-# translate crowdin gallery_d_092_b773f399:
 msgid "[_cedrick_] Видимо ты все еще не до конца поняла, что происходит и в чем вообще был смысл всего этого..."
-msgstr ""
+msgstr "[_cedrick_] A quanto pare non hai ancora capito bene cosa sta succedendo e quale fosse lo scopo di tutto questo..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:39 #-#-# translate crowdin gallery_d_092_c20b61a3:
 msgid "[_irma_] Аааххх... П-правда... Д-думаешь я дурочка?"
-msgstr ""
+msgstr "[_irma_] Aaahhh... D-davvero... P-pensi che io sia uno stupido?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:41 #-#-# translate crowdin gallery_d_092_77a6975f:
 msgid "[_irma_] Т-ты... Мххх... Т-ты говорил, что мне больше не придется сражаться, если я встану на твою сторону... Н-но, аххх..."
-msgstr ""
+msgstr "[_irma_] T-tu... Mhhh... H-hai detto che non avrei più dovuto combattere se mi fossi schierato dalla tua parte... M-ma, ahhh..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:43 #-#-# translate crowdin gallery_d_092_5bbf2d4b:
 msgid "[_irma_] Но по итогу я здесь и из меня хотят сделать какого-то гребаного солдата, чтобы я сражалась на стороне Фобоса..."
-msgstr ""
+msgstr "[_irma_] Ma alla fine, sono qui e vogliono trasformarmi in una specie di fottuto soldato in modo che io possa combattere dalla parte di Phobos..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:45 #-#-# translate crowdin gallery_d_092_76a378c9:
 msgid "[_cedrick_] Все верно..."
@@ -106,35 +106,35 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:47 #-#-# translate crowdin gallery_d_092_0760a907:
 msgid "[_irma_] Так чего же тогда я поняла не так?! Мммххх... Т-ты трахаешь меня, даже не сдержав свое слово... В-все как обычно..."
-msgstr ""
+msgstr "[_irma_] Allora cosa ho sbagliato?!  Mmmhhh... M-mi stai scopando senza nemmeno mantenere la parola data... Che è tutto come al solito..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:49 #-#-# translate crowdin gallery_d_092_147555bb:
 msgid "[_cedrick_] Вот тут ты ошибаешься. Да, когда мы были на Земле, я без тени сомнения выполнял свою задачу, мне это даже нравилось"
-msgstr ""
+msgstr "[_cedrick_] È qui che ti sbagli.  Sì, quando eravamo sulla Terra, ho svolto il mio compito senza ombra di dubbio, mi è persino piaciuto"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:51 #-#-# translate crowdin gallery_d_092_18ee6071:
 msgid "[_irma_] Ох, я знаю, м-можешь мне не рассказывать... Аааавв..."
-msgstr ""
+msgstr "[_irma_] Oh, lo so, m-non devi dirmelo... Aaaarghaly..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:53 #-#-# translate crowdin gallery_d_092_73e91ab1:
 msgid "[_cedrick_] Но то, что произойдет с вами дальше - это другое. Я выполнил данное мне задание, а это значит, что больше я над вами не властен"
-msgstr ""
+msgstr "[_cedrick_] Ma quello che ti succede dopo è diverso.  Ho portato a termine il compito che mi è stato assegnato, il che significa che non ho più potere su di te"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:55 #-#-# translate crowdin gallery_d_092_58be5d42:
 msgid "[_irma_] Ч-что ты имеешь ввиду?"
-msgstr ""
+msgstr "[_irma_] C-cosa intendi?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:57 #-#-# translate crowdin gallery_d_092_9948168c:
 msgid "[_cedrick_] То, что теперь я не могу тебе помочь, как обещал, даже если захочу этого. Потому что таков приказ Фобоса. И этому приказу я вынужден подчиняться"
-msgstr ""
+msgstr "[_cedrick_] Il fatto che ora non posso aiutarti come ho promesso, anche se lo volessi.  Perché questo è l'ordine di Phobos.  E sono costretto a obbedire a questo ordine"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:59 #-#-# translate crowdin gallery_d_092_2a80edd9:
 msgid "[_irma_] В-вынужден? К-к чему ты..."
-msgstr ""
+msgstr "[_irma_] F-forzato?  P-perché sei..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:61 #-#-# translate crowdin gallery_d_092_c1cd964b:
 msgid "[_cedrick_] Говори тише, за нашими спинами множество стражников, которые могут нас услышать"
-msgstr ""
+msgstr "[_cedrick_] Parla piano, ci sono molte guardie dietro di noi che possono sentirci"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:63 #-#-# translate crowdin gallery_d_092_ddbec71c:
 msgid "[_irma_] Ммммххх..."
@@ -162,67 +162,67 @@ msgstr "[_irma_] C-cosa?  N-no... Mmmhh... È davvero la nostra forza..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:73 #-#-# translate crowdin gallery_d_092_42714e7f:
 msgid "[_cedrick_] Да, они напрямую связаны с вашим эмоциональным состоянием. Теперь понимаешь?"
-msgstr ""
+msgstr "[_cedrick_] Sì, sono direttamente correlati al tuo stato emotivo.  Lo capisci adesso?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:74 #-#-# translate crowdin gallery_d_092_04cb8242:
 msgid "[_cedrick_] Хоть я делал с вами ужасные вещи и порой мне это даже нравилось, все же вы мои враги. Но во многом это было попросту необходимо"
-msgstr ""
+msgstr "[_cedrick_] Anche se vi ho fatto cose terribili e talvolta mi sono persino piaciute, siete ancora miei nemici.  Ma per molti versi era semplicemente necessario"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:75 #-#-# translate crowdin gallery_d_092_9c2c96d4:
 msgid "[_cedrick_] Фобос приказал захватить вас, отняв при этом у меня большую часть моей собственной магической силы"
-msgstr ""
+msgstr "[_cedrick_] Phobos ha ordinato di catturarti, privandomi così della maggior parte del mio potere magico"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:76 #-#-# translate crowdin gallery_d_092_b54bee55:
 msgid "[_cedrick_] Без нее он фактически не оставил мне никакого выбора, кроме как давить на вас эмоционально и совращать вас физически"
-msgstr ""
+msgstr "[_cedrick_] Senza di lei, praticamente non mi ha lasciato altra scelta se non quella di schiacciarti emotivamente e sedurti fisicamente"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:77 #-#-# translate crowdin gallery_d_092_5b3d4462:
 msgid "[_cedrick_] Ведь в честном бою я никогда бы не смог вас победить после того, что Фобос сделал со мной"
-msgstr ""
+msgstr "[_cedrick_] Dopotutto, in uno scontro leale non potrei mai sconfiggerti, dopo quello che mi ha fatto Phobos"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:79 #-#-# translate crowdin gallery_d_092_78d5f8c8:
 msgid "[_irma_] Ааахх... К-к чему ты клонишь?"
-msgstr ""
+msgstr "[_irma_] Aaahh... C-a cosa vuoi arrivare?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:81 #-#-# translate crowdin gallery_d_092_5ef90f59:
 msgid "[_cedrick_] Я поменяю позу и буду говорить шепотом, чтобы объяснить тебе все"
-msgstr ""
+msgstr "[_cedrick_] Cambierò posizione e parlerò sottovoce per spiegarti tutto"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:83 #-#-# translate crowdin gallery_d_092_7f0eaab7:
 msgid "[_irma_] (Б-будет говорить шепотом? Что с ним вообще... Н-не похоже на него)"
-msgstr ""
+msgstr "[_irma_] (Parlerà sottovoce?  Cosa c'è che non va in lui... N-non gli somiglia)"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:86 #-#-# translate crowdin gallery_d_092_2fa27531:
 msgid "[_cedrick_] Я рискую, говоря тебе это сейчас. Если меня услышат стражники, то донесут на меня и мне самому не поздоровится"
-msgstr ""
+msgstr "[_cedrick_] Sto correndo un rischio dicendotelo adesso.  Se le guardie mi sentono, mi denunceranno e anch'io sarò nei guai"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:87 #-#-# translate crowdin gallery_d_092_9901ac74:
 msgid "[_irma_] (Ммххх... О-о чем он... Я его не понимаю...)"
-msgstr ""
+msgstr "[_irma_] (Mmhhh... D-di cosa sta parlando... Non lo capisco...)"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:88 #-#-# translate crowdin gallery_d_092_8b070bf1:
 msgid "[_cedrick_] Но все же я хочу, чтобы ты поняла все обстоятельства"
-msgstr ""
+msgstr "[_cedrick_] Ma voglio comunque che tu comprenda tutte le circostanze"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:89 #-#-# translate crowdin gallery_d_092_8eb1e075:
 msgid "[_cedrick_] На деле я всего лишь очередной солдат, выполняющий очередной приказ. Если бы не этот фактор, тогда бы я..."
-msgstr ""
+msgstr "[_cedrick_] In realtà, sono solo un altro soldato che esegue un altro ordine.  Se non fosse per questo fattore, allora..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:91 #-#-# translate crowdin gallery_d_092_a898fe3a:
 msgid "[_irma_] Т-тогда что, Седрик? Ты же был нашим учителем истории и должен понимать, что подобные оправдания не работают"
-msgstr ""
+msgstr "[_irma_] E-e allora cosa, Cedric?  Eri il nostro insegnante di storia e dovresti capire che tali scuse non funzionano"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:93 #-#-# translate crowdin gallery_d_092_749eae21:
 msgid "[_irma_] Фраза о том, что ты был лишь солдатом выполняющим приказ никак тебя не оправдывает"
-msgstr ""
+msgstr "[_irma_] La frase che eri solo un soldato che eseguiva un ordine non ti giustifica in alcun modo"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:95 #-#-# translate crowdin gallery_d_092_821ec6a1:
 msgid "[_cedrick_] (Хах, хорошо меня подловила. Но я был к этому готов)"
-msgstr ""
+msgstr "[_cedrick_] (Ah, mi hai colto bene.  Ma ero pronto per questo)"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:96 #-#-# translate crowdin gallery_d_092_552577c3:
 msgid "[_cedrick_] Верно. А еще я учил вас тому, что историю пишут победители. И любого солдата осудят за выполненный приказ только если его сторона проиграла"
-msgstr ""
+msgstr "[_cedrick_] Giusto.  Ti ho anche insegnato che la storia la scrivono i vincitori.  E qualsiasi soldato sarà condannato per aver eseguito un ordine solo se la sua parte ha perso"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:98 #-#-# translate crowdin gallery_d_092_4c005884:
 msgid "[_irma_] Мммххх..."
@@ -242,63 +242,63 @@ msgstr "[_cedrick_] All'inizio ho eseguito il mio ordine quasi sconsideratamente
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:103 #-#-# translate crowdin gallery_d_092_d8104f02:
 msgid "[_cedrick_] Тем более бессмысленным мне казалось мое собственное существование в качестве одного из слуг Фобоса..."
-msgstr ""
+msgstr "[_cedrick_] La mia esistenza come servitore di Phobos mi sembrava ancora più priva di significato..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:105 #-#-# translate crowdin gallery_d_092_a05c3aa3:
 msgid "[_irma_] Аааххх... Т-тогда почему... Почему ты..."
-msgstr ""
+msgstr "[_irma_] Aaahhh... T-allora perché... Perché hai..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:107 #-#-# translate crowdin gallery_d_092_f0cfdf1a:
 msgid "[_cedrick_] Я уже сказал, Ирма. Фобос забрал мои силы. Все, на что я сейчас способен - это уловки и козни. В плане магических сил Фобосу я не ровня"
-msgstr ""
+msgstr "[_cedrick_] L'ho già detto, Irma.  Phobos originariamente mi ha preso i poteri.  Tutto quello che posso fare ora sono trucchi e intrighi.  In termini di poteri magici, non posso competere con Phobos"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:108 #-#-# translate crowdin gallery_d_092_8d8658df:
 msgid "[_cedrick_] Да даже будучи на пике сил, я бы проиграл ему. Иначе, думаешь я служил бы ему?"
-msgstr ""
+msgstr "[_cedrick_] Sì, anche al massimo delle mie forze, avrei perso contro di lui.  Altrimenti pensi che lo avrei servito?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:110 #-#-# translate crowdin gallery_d_092_0bbb7684:
 msgid "[_irma_] (Т-так вот что он имел в виду, говоря о том, что на него могут донести стражники, если услышат его...)"
-msgstr ""
+msgstr "[_irma_] (Q-quindi è questo che intendeva quando ha detto che le guardie avrebbero potuto denunciarlo se lo avessero sentito...)"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:112 #-#-# translate crowdin gallery_d_092_334d7773:
 msgid "[_irma_] Ммххх... И... Ааххх... И зачем все это, Седрик? К чему все эти слова..."
-msgstr ""
+msgstr "[_irma_] Mmhhh... E... Aahhh... E perché tutto questo, Cedric?  Perché tutte queste parole..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:113 #-#-# translate crowdin gallery_d_092_ca9e2482:
 msgid "[_cedrick_] Честно, даже не знаю... Видимо пребывание на земле и вправду сделало меня более человечным"
-msgstr ""
+msgstr "[_cedrick_] Sinceramente non lo so neanche io... A quanto pare stare sulla terra mi ha reso davvero più umano"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:115 #-#-# translate crowdin gallery_d_092_b63c70df:
 msgid "[_cedrick_] Я знаю, что ничего не смогу изменить в вашей судьбе и знаю, что вы не простите меня за то, что я сделал"
-msgstr ""
+msgstr "[_cedrick_] So che non posso cambiare nulla del tuo destino e so che non mi perdonerai per quello che ho fatto"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:116 #-#-# translate crowdin gallery_d_092_14048d9e:
 msgid "[_cedrick_] Но даже несмотря на это, находясь сейчас здесь и осознавая, что это ваш конец, конец стражниц... Я не испытываю ничего, кроме сожаления..."
-msgstr ""
+msgstr "[_cedrick_] Ma nonostante questo, essere qui adesso e realizzare che questa è la tua fine, la fine delle guardie... non provo altro che rammarico..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:118 #-#-# translate crowdin gallery_d_092_85c7ba40:
 msgid "[_cedrick_] Особенно по отношению к тебе и Тарани, ведь вас Фобос заставит делать то же самое, что и меня"
-msgstr ""
+msgstr "[_cedrick_] Soprattutto in relazione a te e Taranee, perché Phobos ti costringerà a fare la mia stessa cosa"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:119 #-#-# translate crowdin gallery_d_092_1146c270:
 msgid "[_cedrick_] Может... Может тогда вы сможете меня понять. Но даже так, это не то, чего бы я желал вам... Некоторый опыт лучше никогда не ощущать на собственной шкуре"
-msgstr ""
+msgstr "[_cedrick_] Forse... forse allora potrai capirmi.  Ma anche così, non è quello che ti auguro... Certe esperienze è meglio non provarle mai sulla propria pelle"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:121 #-#-# translate crowdin gallery_d_092_4b09f694:
 msgid "[_irma_] (Н-неужели он... Все это время...)"
-msgstr ""
+msgstr "[_irma_] (C-è lui... per tutto questo tempo...)"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:123 #-#-# translate crowdin gallery_d_092_8bb2cdf0:
 msgid "[_irma_] Ммммхх... Ааааххх... Я... Я скоро..."
-msgstr ""
+msgstr "[_irma_] Mmmmhh... Aaaahhh... Io... lo farò presto..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:125 #-#-# translate crowdin gallery_d_092_e2f726ac:
 msgid "[_cedrick_] Я тоже, Ирма... Приготовься, сейчас я кончу... Ууухх..."
-msgstr ""
+msgstr "[_cedrick_] Anch'io, Irma... Preparati, sto per venire... Uuuhh..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:128 #-#-# translate crowdin gallery_d_092_90572831:
 msgid "[_irma_] Аааааааввв..."
-msgstr ""
+msgstr "[_irma_] Aaaaaaavvv..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:129 #-#-# translate crowdin gallery_d_092_49316299:
 msgid "[_cedrick_] ..."
@@ -306,27 +306,27 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:131 #-#-# translate crowdin gallery_d_092_39c94803:
 msgid "[_irma_] (Неужели Седрик и вправду не хотел, чтобы все так вышло...)"
-msgstr ""
+msgstr "[_irma_] (Cedric non voleva davvero che le cose andassero così...)"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:133 #-#-# translate crowdin gallery_d_092_b4495328:
 msgid "[_irma_] (Он же уже победил нас... Ему ни к чему лгать... Он мог бы упиваться победой, н-но почему тогда...)"
-msgstr ""
+msgstr "[_irma_] (Ci ha già sconfitti... Non ha bisogno di mentire... Potrebbe godersi la vittoria, ma perché allora...)"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:134 #-#-# translate crowdin gallery_d_092_8f216285:
 msgid "[_irma_] (Почему я не чувствую в его словах ничего, кроме горечи и сожаления...)"
-msgstr ""
+msgstr "[_irma_] (Perché nelle sue parole non sento altro che amarezza e rimorso...)"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:139 #-#-# translate crowdin gallery_d_092_d94d45cd:
 msgid "[_cedrick_] Вставай, нам нужно идти"
-msgstr ""
+msgstr "[_cedrick_] Alzati, dobbiamo andare"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:140 #-#-# translate crowdin gallery_d_092_1fa3479a:
 msgid "[_irma_] Ч-что... Куда?"
-msgstr ""
+msgstr "[_irma_] C-cosa... Dove?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:141 #-#-# translate crowdin gallery_d_092_301cc9c6:
 msgid "[_cedrick_] Хотим мы того или нет, приказ Фобоса должен быть исполнен. Как будущий воин Князя, тебе придется это усвоить"
-msgstr ""
+msgstr "[_cedrick_] Che ci piaccia o no, l'ordine di Phobos deve essere eseguito.  Come futuro guerriero del Principe, dovrai impararlo"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:142 #-#-# translate crowdin gallery_d_092_795678bb:
 msgid "[_irma_] ..."
@@ -334,7 +334,7 @@ msgstr "[_irma_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:143 #-#-# translate crowdin gallery_d_092_ba1ccb15:
 msgid "[_cedrick_] Идем"
-msgstr ""
+msgstr "[_cedrick_] Andiamo"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:144 #-#-# translate crowdin gallery_d_092_a20cefa7:
 msgid "..."
@@ -350,43 +350,43 @@ msgstr "........."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:150 #-#-# translate crowdin gallery_d_092_15662b75:
 msgid "[_irma_] Т-тарани!?"
-msgstr ""
+msgstr "[_irma_] Taranee!?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:151 #-#-# translate crowdin gallery_d_092_58ab9b0f:
 msgid "[_cedrick_] Ого, ты сразу поняла, что это она? Учитывая, что основную часть ее тела закрывают колодки. Ты явно часто смотрела на ее задницу, раз сразу смогла ее узнать"
-msgstr ""
+msgstr "[_cedrick_] Wow, hai capito subito che era lei?  Considerando che la maggior parte del suo corpo è coperta da ceppi.  Evidentemente le hai guardato molto il culo dato che sei riuscito a riconoscerlo subito"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:152 #-#-# translate crowdin gallery_d_092_bd41e4eb:
 msgid "[_irma_] Эм... Н-нет, я..."
-msgstr ""
+msgstr "[_irma_] Uhm... N-no, io..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:153 #-#-# translate crowdin gallery_d_092_ede17866:
 msgid "[_cedrick_] (Рад, что не ошибся на твой счет, Ирма)"
-msgstr ""
+msgstr "[_cedrick_] (Sono felice di non essermi sbagliato su di te, Irma)"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:158 #-#-# translate crowdin gallery_d_092_3b3188e1:
 msgid "[_tarani_] Это ты, чертов змей!? А ну сейчас же выпусти меня отсюда!"
-msgstr ""
+msgstr "[_tarani_] Sei tu, maledetto serpente!?  Bene, fammi uscire di qui adesso!"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:159 #-#-# translate crowdin gallery_d_092_9a75f092:
 msgid "[_cedrick_] Я бы на твоем месте не поднимал столько шума, Тарани"
-msgstr ""
+msgstr "[_cedrick_] Non farei tanto rumore se fossi in te, Taranee"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:160 #-#-# translate crowdin gallery_d_092_dd5f8555:
 msgid "[_cedrick_] Учитывая обстоятельства и твое положение, думаешь умно будет привлекать внимание голодных до женского тела воинов?"
-msgstr ""
+msgstr "[_cedrick_] Considerando le circostanze e la tua posizione, pensi che sarebbe intelligente attirare l'attenzione dei guerrieri affamati del corpo di una donna?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:162 #-#-# translate crowdin gallery_d_092_cb696023:
 msgid "[_tarani_] Пф... Вряд ли они смогу сделать что-то более ужасное, чем то, что сделал со мной ты..."
-msgstr ""
+msgstr "[_tarani_] Pfft... È improbabile che possano fare qualcosa di più terribile di quello che mi hai fatto tu..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:164 #-#-# translate crowdin gallery_d_092_e81e6276:
 msgid "[_cedrick_] (Мда, а вот Тарани проблемная, как и всегда...)"
-msgstr ""
+msgstr "[_cedrick_] (Hmm, ma Taranee è problematico, come sempre...)"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:166 #-#-# translate crowdin gallery_d_092_33a445d1:
 msgid "[_cedrick_] Ох, я бы не был на твоем месте так уверен. Как минимум я один, а стражников здесь целая казарма. Понимаешь?"
-msgstr ""
+msgstr "[_cedrick_] Oh, non ne sarei così sicuro se fossi in te.  Almeno sono solo, e qui c'è un'intera caserma di guardie.  Capire?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:168 #-#-# translate crowdin gallery_d_092_98f84176:
 msgid "[_tarani_] ..."
@@ -398,11 +398,11 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:172 #-#-# translate crowdin gallery_d_092_4dc7c377:
 msgid "[_tarani_] Ирма, и ты там!? Ч-что Седрик с тобой сделал?"
-msgstr ""
+msgstr "[_tarani_] Irma, ci sei anche tu!?  C-cosa ti ha fatto Cedric?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:174 #-#-# translate crowdin gallery_d_092_5750930b:
 msgid "[_irma_] Н-ничего... Эм... Вернее, он..."
-msgstr ""
+msgstr "[_irma_] N-niente... Uhm... O meglio, lui..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:175 #-#-# translate crowdin gallery_d_092_210216de:
 msgid "[_cedrick_] Тарани, я спешу, поэтому кратко объясню тебе ситуацию. Ирма, ты тоже внимательно слушай"
@@ -514,57 +514,57 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:224 #-#-# translate crowdin gallery_d_092_51968147:
 msgid "[_miranda_] И так, девочки. Я здесь, а значит вы можете спокойно заняться своей тренировкой"
-msgstr ""
+msgstr "[_miranda_] E così, ragazze.  Io sono qui, il che significa che puoi continuare tranquillamente il tuo allenamento"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:226 #-#-# translate crowdin gallery_d_092_863f7b89:
 msgid "[_tarani_] С-серьезно!? Эта гребаная паучиха!?"
-msgstr ""
+msgstr "[_tarani_] S-sul serio!?  Questo dannato ragno!?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:228 #-#-# translate crowdin gallery_d_092_2cd806ec:
 msgid "[_miranda_] Кто бы говорил. Ты вообще свою прическу в обличии стражницы видела? Какая-то жалкая пародия на паука прямо на голове"
-msgstr ""
+msgstr "[_miranda_] Senti chi parla.  Hai mai visto la tua pettinatura da guardia?  Una patetica parodia di un ragno proprio sulla testa"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:230 #-#-# translate crowdin gallery_d_092_7fbdcee1:
 msgid "[_tarani_] Пф... У пауков 8 лапок, а в моей прическе 6..."
-msgstr ""
+msgstr "[_tarani_] Pfft... I ragni hanno 8 zampe, ma la mia pettinatura ne ha 6..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:232 #-#-# translate crowdin gallery_d_092_d2591495:
 msgid "[_miranda_] О том и речь, идиотка. Я хотя бы паучиха, а ты получается кто, божья коровка? А может скорее жук-навозник?"
-msgstr ""
+msgstr "[_miranda_] E' di questo che stiamo parlando, idiota.  Almeno io sono un ragno, ma tu chi sei, una coccinella?  O forse più simile a uno scarabeo stercorario?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:234 #-#-# translate crowdin gallery_d_092_91d41e9b:
 msgid "[_tarani_] И вообще это косички, дура..."
-msgstr ""
+msgstr "[_tarani_] E in generale, queste sono treccine, stupide..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:236 #-#-# translate crowdin gallery_d_092_561d4f97:
 msgid "[_cedrick_] (Вот и столкнулись две всезнайки в биологии...)"
-msgstr ""
+msgstr "[_cedrick_] (Quindi due sapientoni in biologia si scontrano...)"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:238 #-#-# translate crowdin gallery_d_092_f9592beb:
 msgid "[_cedrick_] Миранда..."
-msgstr ""
+msgstr "[_cedrick_] Miranda..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:239 #-#-# translate crowdin gallery_d_092_34da194f:
 msgid "[_miranda_] Кхм..."
-msgstr ""
+msgstr "[_miranda_] Hmm..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:241 #-#-# translate crowdin gallery_d_092_0340b428:
 msgid "[_miranda_] Как бы то ни было, моя присутствие гарантирует вам приватность и безопасность в рамках возможного"
-msgstr ""
+msgstr "[_miranda_] Comunque sia, la mia presenza garantisce, per quanto possibile, la tua privacy e sicurezza"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:242 #-#-# translate crowdin gallery_d_092_1700bcdb:
 msgid "[_irma_] (П-приватность и безопасность? Значит, Седрик так проявляет заботу о нас? Н-неужели он и вправду хочет хоть как-то облегчить нашу участь...)"
-msgstr ""
+msgstr "[_irma_] (P-privacy e sicurezza?  Quindi è questo il modo in cui Cedric si prende cura di noi?  V-vuole davvero alleviare in qualche modo la nostra situazione?...)"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:244 #-#-# translate crowdin gallery_d_092_828d2d1c:
 msgid "[_cedrick_] Мне пора на встречу с Фобосом. Миранда, рассчитываю на тебя"
-msgstr ""
+msgstr "[_cedrick_] È giunto il momento di incontrare Phobos.  Miranda, conto su di te"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:245 #-#-# translate crowdin gallery_d_092_42e7f5e5:
 msgid "[_miranda_] Можешь не переживать, Седрик, я присмотрю за ними"
-msgstr ""
+msgstr "[_miranda_] Non preoccuparti, Cedric, mi prenderò cura di loro"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:246 #-#-# translate crowdin gallery_d_092_7e8079fe:
 msgid "[_cedrick_] (Что ж, пора отправляться. Нельзя заставлять Фобоса ждать...)"
-msgstr ""
+msgstr "[_cedrick_] (Bene, è ora di andare.  Non puoi far aspettare Phobos...)"
 
