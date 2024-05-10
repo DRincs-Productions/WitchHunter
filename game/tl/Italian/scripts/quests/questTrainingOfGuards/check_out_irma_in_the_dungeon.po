@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-05 19:26\n"
+"PO-Revision-Date: 2024-05-10 19:26\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:4 #-#-# translate crowdin check_out_irma_in_the_dungeon_a20cefa7:
 msgid "..."
@@ -406,27 +406,27 @@ msgstr "[_irma_] N-niente... Uhm... O meglio, lui..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:175 #-#-# translate crowdin gallery_d_092_210216de:
 msgid "[_cedrick_] Тарани, я спешу, поэтому кратко объясню тебе ситуацию. Ирма, ты тоже внимательно слушай"
-msgstr ""
+msgstr "[_cedrick_] Taranee, ho fretta, quindi ti spiego brevemente la situazione. Irma, ascolta attentamente anche tu"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:176 #-#-# translate crowdin gallery_d_092_e860dc41:
 msgid "[_cedrick_] Согласно приказу Князя Фобоса, вас обеих сделают частью княжеской армии. Но прежде чем вы станете полноправными воинами Князя, вы должны пройти специальную подготовку"
-msgstr ""
+msgstr "[_cedrick_] Secondo l'ordine del principe Phobos, entrambi entrerete a far parte dell'esercito principesco. Ma prima di diventare guerrieri a tutti gli effetti del Principe, devi sottoporti a un addestramento speciale"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:177 #-#-# translate crowdin gallery_d_092_47db1d82:
 msgid "[_cedrick_] Одним из базовых умений стражника - это умение пытать и самому выдерживать пытки"
-msgstr ""
+msgstr "[_cedrick_] Una delle abilità fondamentali di una guardia è la capacità di torturare e resistere lui stesso alla tortura"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:182 #-#-# translate crowdin gallery_d_092_620fb855:
 msgid "[_cedrick_] Согласно приказу, именно этим вы и должны сейчас заняться"
-msgstr ""
+msgstr "[_cedrick_] Secondo l'ordine, questo è esattamente ciò che devi fare ora"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:184 #-#-# translate crowdin gallery_d_092_f53b8fe1:
 msgid "[_tarani_] Ч-что!? Ах ты ублюдок... Мммхх..."
-msgstr ""
+msgstr "[_tarani_] C-cosa!? Bastardo... Mmmhh..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:186 #-#-# translate crowdin gallery_d_092_e074b492:
 msgid "[_irma_] Н-нет... Я не..."
-msgstr ""
+msgstr "[_irma_] N-no... io non..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:187 #-#-# translate crowdin gallery_d_092_cfdf2c85:
 msgid "[_cedrick_] Ирма, в данный момент ты будешь исполнять роль того, кто пытает. Твоя практика будет состоять в этом"
