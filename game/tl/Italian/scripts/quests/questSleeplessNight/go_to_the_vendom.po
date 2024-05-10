@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-03 18:38\n"
+"PO-Revision-Date: 2024-05-10 20:44\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:6 #-#-# translate crowdin go_to_the_vendom_03fea05e:
 msgid "[_centered_] {size=37}Седрик тихо вошел в дом, зашел в комнату Сьюзан и тут же грохнулся спать на кровать{/size}"
@@ -186,15 +186,15 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:88 #-#-# translate crowdin gallery_d_100_41538bb9:
 msgid "[_susan_] И не могу сказать, что мне стыдно"
-msgstr ""
+msgstr "[_susan_] E non posso dire di vergognarmi"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:90 #-#-# translate crowdin gallery_d_100_48dd3a13:
 msgid "[_cedrick_] Ахахах, еще бы. Ты же на деле та еще бесстыдница, Сьюзан"
-msgstr ""
+msgstr "[_cedrick_] Ahahah, ovviamente. Sei davvero una svergognata, Susan"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:92 #-#-# translate crowdin gallery_d_100_9cb5a32c:
 msgid "[_susan_] Ну, знаешь ли.. Когда у тебя долгое время не было нормального мужчины и все о чем ты могла думать это, кхм..."
-msgstr ""
+msgstr "[_susan_] Beh, sai... quando non hai un uomo normale da molto tempo e tutto ciò a cui riesci a pensare è, ehm..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:94 #-#-# translate crowdin gallery_d_100_d3792882:
 msgid "[_susan_] Карьерный рост в it-компании, воспитание непослушной дочери, оплата всех счетов и расходов и прочие прелести жизни матери-одиночки..."
