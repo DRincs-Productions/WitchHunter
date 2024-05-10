@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-03 18:38\n"
+"PO-Revision-Date: 2024-05-10 20:44\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:162 #-#-# translate crowdin podskazka_f6227483:
 msgid "Следующая мини игра представляет из себя некое подобие мини игры из старых флеш игр и вероятно вы могли уже сталкивался с подобным."
@@ -122,7 +122,7 @@ msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:231 #-#-# translate crowdin win2_16b0a7f8:
 msgid "[_susan_] Рик, все хорошо?"
-msgstr ""
+msgstr "[_susan_] Rick, stai bene?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:232 #-#-# translate crowdin win2_57043ceb:
 msgid "[_cedrick_] Д-да, а ч-чтооо такое?"
