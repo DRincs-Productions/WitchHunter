@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-22 15:49\n"
+"PO-Revision-Date: 2024-05-22 17:05\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -2762,23 +2762,23 @@ msgstr "[_susan_] Oh Will.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1803 #-#-# translate crowdin gallery_d_108_52ed6982:
 msgid "[_cedrick_] Я побегу"
-msgstr ""
+msgstr "[_cedrick_] Correrò"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1805 #-#-# translate crowdin gallery_d_108_63cc0b3d:
 msgid "[_will_] Я провожу тебя, Рик"
-msgstr ""
+msgstr "[_will_] Ti accompagnerò con te, Rick"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1810 #-#-# translate crowdin gallery_d_108_894efe44:
 msgid "[_will_] Рик, что-то серьезное? Мамы рядом нет. Если что, ты можешь сказать"
-msgstr ""
+msgstr "[_will_] Rick, è qualcosa di serio? La mamma non è qui. Se non altro, puoi dirlo"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1814 #-#-# translate crowdin gallery_d_108_e116e1df:
 msgid "[_cedrick_] Эм, нет, ничего катастрофического, я справлюсь"
-msgstr ""
+msgstr "[_cedrick_] Uhm, no, niente di catastrofico, posso gestirlo"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1818 #-#-# translate crowdin gallery_d_108_08e0fe90:
 msgid "[_will_] Хорошо. Но если что, я готова помочь. Только скажи"
-msgstr ""
+msgstr "[_will_] Bene. Ma se succede qualcosa, sono pronto ad aiutare. Dimmi"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1822 #-#-# translate crowdin gallery_d_108_87cc3834:
 msgid "[_cedrick_] Хм…"
@@ -2786,35 +2786,35 @@ msgstr "[_cedrick_] Hmm…"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1823 #-#-# translate crowdin gallery_d_108_a028cfec:
 msgid "[_cedrick_] (Мне нужно веская причина, по которой я так задержался)"
-msgstr ""
+msgstr "[_cedrick_] (Ho bisogno di una buona ragione per cui ho impiegato così tanto tempo)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1824 #-#-# translate crowdin gallery_d_108_807dd1a6:
 msgid "[_cedrick_] Эм, вообще-то, ты можешь помочь. Не одолжишь мне ту приставку, что тебе подарила Сьюзан?"
-msgstr ""
+msgstr "[_cedrick_] Uhm, in realtà, puoi aiutare. Puoi prestarmi quella console che ti ha dato Susan?"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1828 #-#-# translate crowdin gallery_d_108_6ed4af4d:
 msgid "[_will_] Эм.."
-msgstr ""
+msgstr "[_will_] Ehm.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1829 #-#-# translate crowdin gallery_d_108_be84c09d:
 msgid "[_cedrick_] Это важно"
-msgstr ""
+msgstr "[_cedrick_] È importante"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1833 #-#-# translate crowdin gallery_d_108_1dabe189:
 msgid "[_will_] Ну.. Хорошо, Рик. Бери"
-msgstr ""
+msgstr "[_will_] Beh... ok, Rick. Prendilo"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1837 #-#-# translate crowdin gallery_d_108_807705d6:
 msgid "[_cedrick_] Спасибо. Я побежал"
-msgstr ""
+msgstr "[_cedrick_] Grazie. Ho corso"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1841 #-#-# translate crowdin gallery_d_108_eb5a7421:
 msgid "[_will_] У-удачи!"
-msgstr ""
+msgstr "[_will_] U-buona fortuna!"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1843 #-#-# translate crowdin gallery_d_108_99aabdc4:
 msgid "[_cedrick_] (Теперь нужно отправиться в книжный)"
-msgstr ""
+msgstr "[_cedrick_] (Adesso dobbiamo andare in libreria)"
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:135
 msgid "Прикрыть Вилл"
