@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-18 08:26\n"
+"PO-Revision-Date: 2024-05-22 17:05\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:6 #-#-# translate crowdin go_to_the_vendom_03fea05e:
 msgid "[_centered_] {size=37}Седрик тихо вошел в дом, зашел в комнату Сьюзан и тут же грохнулся спать на кровать{/size}"
@@ -26,47 +26,47 @@ msgstr "[_cedrick_] (...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:14 #-#-# translate crowdin gallery_d_100_13a4e0ca:
 msgid "[_cedrick_] (Черт, я что, так быстро отрубился!?)"
-msgstr ""
+msgstr "[_cedrick_] (Accidenti, sono svenuto così in fretta!?)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:16 #-#-# translate crowdin gallery_d_100_e1b5b696:
 msgid "[_cedrick_] (Видимо мне и вправду нужен отдых. Хорошо что хоть не превращаюсь неконтролируемо в змея...)"
-msgstr ""
+msgstr "[_cedrick_] (A quanto pare ho davvero bisogno di riposarmi. È un bene che almeno non mi trasformi in modo incontrollabile in un serpente...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:18 #-#-# translate crowdin gallery_d_100_415790db:
 msgid "[_cedrick_] (И все же так странно просыпаться не в книжном магазине. Удивлен, что привык к нему)"
-msgstr ""
+msgstr "[_cedrick_] (Eppure è così strano svegliarsi non in una libreria. Sono sorpreso di essermi abituato)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:19 #-#-# translate crowdin gallery_d_100_eae8308b:
 msgid "[_cedrick_] (Хотя, к этому месту я тоже уже начинаю привыкать. Все это одновременно закономерно и странно)"
-msgstr ""
+msgstr "[_cedrick_] (Anche se sto iniziando ad abituarmi a questo posto. Tutto questo è allo stesso tempo naturale e strano)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:20 #-#-# translate crowdin gallery_d_100_2934885c:
 msgid "[_cedrick_] (Я прожил столько лет на Меридиане, по сравнению с тем временем жизнь здесь - лишь мгновение)"
-msgstr ""
+msgstr "[_cedrick_] (Ho vissuto tanti anni su Meridian, rispetto a quel tempo la vita qui è solo un attimo)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:21 #-#-# translate crowdin gallery_d_100_4ddd3b1a:
 msgid "[_cedrick_] (Но при этом... Это настолько иная жизнь, насыщенная совершенно иными событиями и эмоциями...)"
-msgstr ""
+msgstr "[_cedrick_] (Ma allo stesso tempo... Questa è una vita così diversa, piena di eventi ed emozioni completamente diverse...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:23 #-#-# translate crowdin gallery_d_100_4b86e175:
 msgid "[_cedrick_] (Книжный магазин стал моим личным штабом, мозговым центром, в котором я придумывал все свои, кхм, злодеяния...)"
-msgstr ""
+msgstr "[_cedrick_] (La libreria è diventata il mio quartier generale personale, un think tank in cui ho inventato tutte le mie, ehm, atrocità...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:24 #-#-# translate crowdin gallery_d_100_2e86b0fd:
 msgid "[_cedrick_] (Забавно, там были придуманы самые удачные планы за последнее время и при этом одни из самых неудачных за всю мою жизнь...)"
-msgstr ""
+msgstr "[_cedrick_] (È divertente, hanno escogitato i piani di maggior successo degli ultimi tempi e allo stesso tempo alcuni dei piani meno riusciti di tutta la mia vita...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:26 #-#-# translate crowdin gallery_d_100_0e7dedc3:
 msgid "[_cedrick_] (Да, начало не было гладким, но сейчас все идет относительно спокойно... Я смог встать на новый для себя путь и пока держусь хорошо)"
-msgstr ""
+msgstr "[_cedrick_] (Sì, l'inizio non è stato facile, ma ora tutto procede con relativa calma... ho potuto intraprendere una nuova strada per me e finora sto bene)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:27 #-#-# translate crowdin gallery_d_100_8487ad44:
 msgid "[_cedrick_] (Что же касается этого места... Черт, изначально это же просто место, где я трахал одну из своих главных целей и ее сочную мать в придачу...)"
-msgstr ""
+msgstr "[_cedrick_] (Per quanto riguarda questo posto... Diavolo, in origine era solo un posto dove scopavo uno dei miei obiettivi principali e, per di più, la sua succulenta madre...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:29 #-#-# translate crowdin gallery_d_100_249e2ad8:
 msgid "[_cedrick_] (Но стоило начать немного привыкать к этому месту... И оно стало для меня комфортнее дома на Меридиане...)"
-msgstr ""
+msgstr "[_cedrick_] (Ma una volta che ho iniziato ad abituarmi un po' a questo posto... E per me è diventato più confortevole che a casa su Meridian...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:30 #-#-# translate crowdin gallery_d_100_8d1a2eaa:
 msgid "[_cedrick_] (Как так вышло... Эта абсолютно чуждая мне спокойная и размеренная жизнь... Становится все более и более привлекательной...)"
