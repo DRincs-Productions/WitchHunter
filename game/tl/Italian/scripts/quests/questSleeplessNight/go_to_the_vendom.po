@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-22 17:05\n"
+"PO-Revision-Date: 2024-05-22 19:26\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:6 #-#-# translate crowdin go_to_the_vendom_03fea05e:
 msgid "[_centered_] {size=37}Седрик тихо вошел в дом, зашел в комнату Сьюзан и тут же грохнулся спать на кровать{/size}"
@@ -70,15 +70,15 @@ msgstr "[_cedrick_] (Ma una volta che ho iniziato ad abituarmi un po' a questo p
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:30 #-#-# translate crowdin gallery_d_100_8d1a2eaa:
 msgid "[_cedrick_] (Как так вышло... Эта абсолютно чуждая мне спокойная и размеренная жизнь... Становится все более и более привлекательной...)"
-msgstr ""
+msgstr "[_cedrick_] (Come è potuto succedere... Questa vita calma e misurata, del tutto estranea a me... Sta diventando sempre più attraente...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:32 #-#-# translate crowdin gallery_d_100_e7b765fd:
 msgid "[_cedrick_] (Неужели..)"
-msgstr ""
+msgstr "[_cedrick_] (Veramente..)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:34 #-#-# translate crowdin gallery_d_100_aa49cf57:
 msgid "[_cedrick_] (Неужели я становлюсь все более человечным с этой семейкой?)"
-msgstr ""
+msgstr "[_cedrick_] (Sto davvero diventando sempre più umano con questa famiglia?)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:35 #-#-# translate crowdin gallery_d_100_49316299:
 msgid "[_cedrick_] ..."
@@ -90,55 +90,55 @@ msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:39 #-#-# translate crowdin gallery_d_100_c4baae06:
 msgid "[_cedrick_] (Может кто-то распыляет здесь специальные феромоны, которые делают меня мягким овощем?)"
-msgstr ""
+msgstr "[_cedrick_] (Forse qui qualcuno sta spruzzando feromoni speciali che mi rendono un vegetale morbido?)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:41 #-#-# translate crowdin gallery_d_100_3f029a0a:
 msgid "[_cedrick_] (Что вообще со мной происходит..)"
-msgstr ""
+msgstr "[_cedrick_] (Cosa mi sta succedendo...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:43 #-#-# translate crowdin gallery_d_100_4acc2003:
 msgid "[_cedrick_] (Хах, ладно тебе, Седрик, не будь параноиком..)"
-msgstr ""
+msgstr "[_cedrick_] (Ah, andiamo, Cedric, non essere paranoico..)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:44 #-#-# translate crowdin gallery_d_100_bf417d80:
 msgid "[_cedrick_] (Возможно все дело в частом общении с обычными людьми Шеффилда)"
-msgstr ""
+msgstr "[_cedrick_] (Forse è tutta una questione di comunicazione frequente con la gente comune di Sheffield)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:45 #-#-# translate crowdin gallery_d_100_ac30816d:
 msgid "[_cedrick_] (Даже при том, что я постоянно их использую и шантажирую, если они чувствуют себя в комфорте, то эти эмоции распространяются от них как радиация)"
-msgstr ""
+msgstr "[_cedrick_] (Anche se li uso e li ricatto costantemente, se si sentono a proprio agio, queste emozioni si diffondono da loro come radiazioni)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:46 #-#-# translate crowdin gallery_d_100_b4f4e6fd:
 msgid "[_cedrick_] (Видимо меня просто тоже немного облучило их спокойствием...)"
-msgstr ""
+msgstr "[_cedrick_] (Apparentemente anch'io ero un po' irradiato dalla loro calma...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:48 #-#-# translate crowdin gallery_d_100_35d197d0:
 msgid "[_cedrick_] (Так или иначе... Подобные ощущения в достижении моей цели не помогут. Я не должен терять хватку, работы еще много)"
-msgstr ""
+msgstr "[_cedrick_] (In un modo o nell'altro... Tali sentimenti non mi aiuteranno a raggiungere il mio obiettivo. Non dovrei perdere il tocco, c'è ancora molto lavoro da fare)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:50 #-#-# translate crowdin gallery_d_100_a4df19b1:
 msgid "[_cedrick_] (Но, черт... Кровать Сьюзан такая мягкая, что после тяжелого дня с нее и вправду не хочется вставать...)"
-msgstr ""
+msgstr "[_cedrick_] (Ma dannazione... il letto di Susan è così morbido che dopo una dura giornata non vorresti proprio uscirne...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:53 #-#-# translate crowdin gallery_d_100_d532cb90:
 msgid "[_susan_] Хей, Рик, ты уже проснулся?"
-msgstr ""
+msgstr "[_susan_] Ehi Rick, sei già sveglio?"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:55 #-#-# translate crowdin gallery_d_100_c4faa469:
 msgid "[_cedrick_] М? Сьюзан? Что такое?"
-msgstr ""
+msgstr "[_cedrick_] M? Susan? Che è successo?"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:57 #-#-# translate crowdin gallery_d_100_b5f675a8:
 msgid "[_cedrick_] (Что это за шум? Вода?)"
-msgstr ""
+msgstr "[_cedrick_] (Cos'è questo rumore? Acqua?)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:59 #-#-# translate crowdin gallery_d_100_d673b2c2:
 msgid "[_cedrick_] (Ох, кажется я понял)"
-msgstr ""
+msgstr "[_cedrick_] (Oh, penso di capire)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:60 #-#-# translate crowdin gallery_d_100_7047a852:
 msgid "[_susan_] Я в душе, не поможешь мне? Одной порой тааак сложно со всем справиться"
-msgstr ""
+msgstr "[_susan_] Sono sotto la doccia, potete aiutarmi? A volte è così difficile affrontare tutto"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:62 #-#-# translate crowdin gallery_d_100_b877e6a1:
 msgid "[_cedrick_] (Бинго, я так и думал...)"
@@ -362,15 +362,15 @@ msgstr "[_susan_] Tuttavia, non voglio che Will capisca cosa stava succedendo qu
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:189 #-#-# translate crowdin gallery_d_100_05de1bb7:
 msgid "[_cedrick_] Хах, понимаю... Тогда я пока пойду, займусь завтраком"
-msgstr ""
+msgstr "[_cedrick_] Ah, capisco... Allora vado a fare colazione"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:194 #-#-# translate crowdin gallery_d_100_73e68f47:
 msgid "[_susan_] Ммм, отлично... Тогда увидимся на кухне"
-msgstr ""
+msgstr "[_susan_] Mmm, fantastico... Ci vediamo in cucina allora"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:195 #-#-# translate crowdin gallery_d_100_4d434d59:
 msgid "[_cedrick_] Да, увидимся"
-msgstr ""
+msgstr "[_cedrick_] Si Ti vedo"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:197 #-#-# translate crowdin gallery_d_100_a20cefa7_1:
 msgid "..."
@@ -378,15 +378,15 @@ msgstr "..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:200 #-#-# translate crowdin gallery_d_100_424698a0:
 msgid "[_cedrick_] (Ух, да, начало дня было бодрое... Но угораздило ж меня ляпнуть что-то про завтрак...)"
-msgstr ""
+msgstr "[_cedrick_] (Wow, sì, l'inizio della giornata è stato allegro... Ma sono riuscita a spifferare qualcosa sulla colazione...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:201 #-#-# translate crowdin gallery_d_100_af06db58:
 msgid "[_cedrick_] (Теперь и вправду придется его готовить...)"
-msgstr ""
+msgstr "[_cedrick_] (Adesso non ci resta che cucinarlo...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:204 #-#-# translate crowdin gallery_d_101_5fed1f98:
 msgid "[_cedrick_] (Ладно, посмотрю что там в холодильнике, может получится что-то сварганить из того, что есть...)"
-msgstr ""
+msgstr "[_cedrick_] (Ok, vedo cosa c'è nel frigorifero, forse posso preparare qualcosa con quello che ho...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:205 #-#-# translate crowdin gallery_d_101_49316299:
 msgid "[_cedrick_] ..."
@@ -394,7 +394,7 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:206 #-#-# translate crowdin gallery_d_101_441b6c29:
 msgid "[_cedrick_] Ч-чего..."
-msgstr ""
+msgstr "[_cedrick_] Perché..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:209 #-#-# translate crowdin gallery_d_101_b5951cd5:
 msgid "[_cedrick_] Вилл!?"
@@ -402,27 +402,27 @@ msgstr "[_cedrick_] Will!?"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:213 #-#-# translate crowdin gallery_d_101_43c8a339:
 msgid "[_will_] Ох, Р-рик!"
-msgstr ""
+msgstr "[_will_] Oh, R-rick!"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:215 #-#-# translate crowdin gallery_d_101_e473dfc8:
 msgid "[_will_] Ч-черт, я не успела..."
-msgstr ""
+msgstr "[_will_] Cavolo, non avevo tempo..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:217 #-#-# translate crowdin gallery_d_101_88b6e985:
 msgid "[_cedrick_] Какого черта ты тут..."
-msgstr ""
+msgstr "[_cedrick_] Perché diavolo sei qui..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:219 #-#-# translate crowdin gallery_d_101_2da5c7c0:
 msgid "[_will_] Я, эм... Я просто..."
-msgstr ""
+msgstr "[_will_] Io... io... semplicemente..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:221 #-#-# translate crowdin gallery_d_101_aa3a96b6:
 msgid "[_will_] Увидела, что ты пришел ночью и хотела устроить тебе утром сюрприз..."
-msgstr ""
+msgstr "[_will_] Ho visto che sei venuto di notte e volevo farti una sorpresa la mattina..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:223 #-#-# translate crowdin gallery_d_101_704bb79b:
 msgid "[_will_] И еще..."
-msgstr ""
+msgstr "[_will_] E inoltre..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:225 #-#-# translate crowdin gallery_d_101_49316299_1:
 msgid "[_cedrick_] ..."
@@ -430,87 +430,87 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:227 #-#-# translate crowdin gallery_d_101_555295f1:
 msgid "[_will_] И еще мне хотелось устроить что-то вроде того, что тогда устроила Сьюзан.. С фартуком и вот этим всем, когда я вас застукала..."
-msgstr ""
+msgstr "[_will_] E anch'io volevo fare qualcosa di simile a quello che fece Susan allora... Con il grembiule e tutto il resto, quando ti presi..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:229 #-#-# translate crowdin gallery_d_101_ec8d8832:
 msgid "[_cedrick_] Я помню..."
-msgstr ""
+msgstr "[_cedrick_] Mi ricordo..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:231 #-#-# translate crowdin gallery_d_101_c22eeb42:
 msgid "[_will_] Ну вот, и... я думала сделать очень вкусный завтрак, но..."
-msgstr ""
+msgstr "[_will_] Beh, e... pensavo di preparare una colazione davvero gustosa, ma..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:233 #-#-# translate crowdin gallery_d_101_20434b2d:
 msgid "[_will_] Кхм, после той странной сундучной твари я все еще чувствую себя вымотанной, поэтому проспала будильник..."
-msgstr ""
+msgstr "[_will_] Hmm, dopo quella strana cosa al petto mi sento ancora esausto, quindi ho dormito durante la sveglia..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:235 #-#-# translate crowdin gallery_d_101_eb9cd7ba:
 msgid "[_cedrick_] В-вилл..."
-msgstr ""
+msgstr "[_cedrick_] W-will..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:237 #-#-# translate crowdin gallery_d_101_cf505fe7:
 msgid "[_will_] Я знаю что ты скажешь..."
-msgstr ""
+msgstr "[_will_] So cosa dirai..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:239 #-#-# translate crowdin gallery_d_101_1a54eb6a:
 msgid "[_will_] Мне не стоило проявлять инициативу, рисковать так и так далее..."
-msgstr ""
+msgstr "[_will_] Non avrei dovuto prendere l’iniziativa, correre rischi e così via..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:241 #-#-# translate crowdin gallery_d_101_a180ea69:
 msgid "[_will_] Но вряд ли безобидный завтрак порушит наши планы.. Я просто хочу сделать приятное..."
-msgstr ""
+msgstr "[_will_] Ma difficilmente una colazione innocua rovinerà i nostri piani... voglio solo fare qualcosa di carino..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:243 #-#-# translate crowdin gallery_d_101_4ae854f8:
 msgid "[_will_] Устроить какой-то сюрприз.. Н-неужели только Сьюзан можно!?"
-msgstr ""
+msgstr "[_will_] Organizza una specie di sorpresa.. C-può essere ammessa solo Susan!?"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:245 #-#-# translate crowdin gallery_d_101_10e4229c:
 msgid "[_cedrick_] (Черт, как я и думал... Хоть она и лояльна ко мне больше остальных, но она все еще очень своевольна...)"
-msgstr ""
+msgstr "[_cedrick_] (Maledizione, come pensavo... Anche se mi è più leale degli altri, è comunque molto ostinata...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:246 #-#-# translate crowdin gallery_d_101_53ef09ec:
 msgid "[_cedrick_] (Возможно я мог бы это исправить с помощью силы короля морпионов, но...)"
-msgstr ""
+msgstr "[_cedrick_] (Forse potrei risolvere il problema con il potere del Re Morpion, ma...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:247 #-#-# translate crowdin gallery_d_101_ca39163b:
 msgid "[_cedrick_] (Я все еще не уверен, как эссенция королевы морпионов и отреагирует на силу короля морпионов в обычном человеческом теле)"
-msgstr ""
+msgstr "[_cedrick_] (Non sono ancora sicuro di come l'essenza della Regina Morpion reagirà al potere del Re Morpion in un normale corpo umano)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:248 #-#-# translate crowdin gallery_d_101_a80c9139:
 msgid "[_cedrick_] (Впрочем.. Я мог бы проверить это на Алхими)"
-msgstr ""
+msgstr "[_cedrick_] (Comunque... potrei verificarlo su Alchemy)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:249 #-#-# translate crowdin gallery_d_101_4146dff1:
 msgid "[_cedrick_] (Ладно, сейчас речь не об этом. Прямо сейчас я должен разобраться с одной голозадой проблемой на полу...)"
-msgstr ""
+msgstr "[_cedrick_] (Ok, non è di questo che stiamo parlando adesso. In questo momento devo affrontare un grosso problema sul campo...)"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:251 #-#-# translate crowdin gallery_d_101_2e2e03a4:
 msgid "[_will_] Рик, ну же, не молчи..."
-msgstr ""
+msgstr "[_will_] Rick, andiamo, non stare zitto..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:253 #-#-# translate crowdin gallery_d_101_7ee41003:
 msgid "[_cedrick_] Эх..."
-msgstr ""
+msgstr "[_cedrick_] Madre..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:254 #-#-# translate crowdin gallery_d_101_cbb53156:
 msgid "[_cedrick_] Вилл... Проблема не в том, что ты решила устроить мне сюрприз"
-msgstr ""
+msgstr "[_cedrick_] Will... Il problema non è che hai deciso di farmi una sorpresa"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:255 #-#-# translate crowdin gallery_d_101_49e964a2:
 msgid "[_cedrick_] В этом нет никаких проблем и было бы странно тебя за это ругать"
-msgstr ""
+msgstr "[_cedrick_] Non c'è problema con questo e sarebbe strano rimproverarti per questo"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:256 #-#-# translate crowdin gallery_d_101_b5732132:
 msgid "[_cedrick_] Но, на будущее, если у тебя есть какой-то план, то продумай хотя бы несколько шагов наперед"
-msgstr ""
+msgstr "[_cedrick_] Ma, per il futuro, se hai qualche tipo di piano, pensa almeno a qualche passo avanti"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:258 #-#-# translate crowdin gallery_d_101_2db10d29:
 msgid "[_will_] Ч-что ты имеешь ввиду? Что я глупая!? Рик, это грубо!"
-msgstr ""
+msgstr "[_will_] C-cosa intendi? Sono stupido? Rick, è scortese!"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:260 #-#-# translate crowdin gallery_d_101_297812f4:
 msgid "[_cedrick_] Нет... Я имею ввиду то, что твоя мама проснулась даже раньше меня и она с минуты на минуту может прийти сюда"
-msgstr ""
+msgstr "[_cedrick_] No... voglio dire che tua madre si è svegliata anche prima di me e poteva venire qui da un momento all'altro"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:261 #-#-# translate crowdin gallery_d_101_e1cb8f5d:
 msgid "[_cedrick_] И если бы все сейчас было согласно твоему плану и я трахал тебя так же, как тогда трахал Сьюзан то в этот раз уже Сьюзан бы нас и застукала"
@@ -938,15 +938,15 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:472 #-#-# translate crowdin fuck_her_849bfbc8:
 msgid "[_susan_] Мммм... Н-ничего... В остальном мне все нравится..."
-msgstr ""
+msgstr "[_susan_] Mmmm... N-niente... Per il resto mi piace tutto..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:474 #-#-# translate crowdin fuck_her_7f3077d5:
 msgid "[_cedrick_] Давай все же сменим позу"
-msgstr ""
+msgstr "[_cedrick_] Cambiamo comunque posizione"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:476 #-#-# translate crowdin fuck_her_05341684:
 msgid "[_susan_] Д-да, давай..."
-msgstr ""
+msgstr "[_susan_] S-sì, andiamo..."
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:114
 msgid "Быть рациональным"
