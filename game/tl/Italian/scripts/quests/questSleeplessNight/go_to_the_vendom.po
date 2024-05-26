@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-22 19:26\n"
+"PO-Revision-Date: 2024-05-26 09:10\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:6 #-#-# translate crowdin go_to_the_vendom_03fea05e:
 msgid "[_centered_] {size=37}Седрик тихо вошел в дом, зашел в комнату Сьюзан и тут же грохнулся спать на кровать{/size}"
@@ -514,7 +514,7 @@ msgstr "[_cedrick_] No... voglio dire che tua madre si è svegliata anche prima 
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:261 #-#-# translate crowdin gallery_d_101_e1cb8f5d:
 msgid "[_cedrick_] И если бы все сейчас было согласно твоему плану и я трахал тебя так же, как тогда трахал Сьюзан то в этот раз уже Сьюзан бы нас и застукала"
-msgstr ""
+msgstr "[_cedrick_] E se adesso tutto fosse andato secondo i tuoi piani e ti avessi scopato nello stesso modo in cui ho scopato Susan, allora questa volta Susan ci avrebbe beccati"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:263 #-#-# translate crowdin gallery_d_101_0f162a7d:
 msgid "[_will_] Ч-черт, точно... О нет, если она узнает, что ты занимаешься сексом не только с ней, но и со мной - это будет ужасный скандал, она мигом вышвырнет тебя из дома..."
