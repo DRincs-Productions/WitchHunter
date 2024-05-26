@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-26 09:10\n"
+"PO-Revision-Date: 2024-05-26 10:29\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:6 #-#-# translate crowdin go_to_the_vendom_03fea05e:
 msgid "[_centered_] {size=37}Седрик тихо вошел в дом, зашел в комнату Сьюзан и тут же грохнулся спать на кровать{/size}"
@@ -518,15 +518,15 @@ msgstr "[_cedrick_] E se adesso tutto fosse andato secondo i tuoi piani e ti ave
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:263 #-#-# translate crowdin gallery_d_101_0f162a7d:
 msgid "[_will_] Ч-черт, точно... О нет, если она узнает, что ты занимаешься сексом не только с ней, но и со мной - это будет ужасный скандал, она мигом вышвырнет тебя из дома..."
-msgstr ""
+msgstr "[_will_] Accidenti, esatto... Oh no, se scopre che fai sesso non solo con lei, ma anche con me, sarà uno scandalo terribile, ti caccerà subito di casa..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:265 #-#-# translate crowdin gallery_d_101_fc403dcd:
 msgid "[_cedrick_] Хм, я в этом не на 100 процентов уверен..."
-msgstr ""
+msgstr "[_cedrick_] Mmm, non ne sono sicuro al 100%..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:267 #-#-# translate crowdin gallery_d_101_0905d753:
 msgid "[_will_] ..Серьезно?"
-msgstr ""
+msgstr "[_will_] ..Sul serio?"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:269 #-#-# translate crowdin gallery_d_101_49316299_2:
 msgid "[_cedrick_] ..."
@@ -534,27 +534,27 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:270 #-#-# translate crowdin gallery_d_101_e661e332:
 msgid "[_cedrick_] но процентов на 70 уверен, да..."
-msgstr ""
+msgstr "[_cedrick_] ma ne sono sicuro al 70%, sì..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:272 #-#-# translate crowdin gallery_d_101_2d25dacc:
 msgid "[_susan_] Рииик, я уже выхожу"
-msgstr ""
+msgstr "[_susan_] Riiiiik, sto già partendo"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:273 #-#-# translate crowdin gallery_d_101_1d26e486:
 msgid "[_cedrick_] Ч-черт! Вилл, быстро одевайся!!"
-msgstr ""
+msgstr "[_cedrick_] Accidenti! Will, vestiti in fretta!!"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:275 #-#-# translate crowdin gallery_d_101_404d2827:
 msgid "[_will_] Я... Эм... Я..."
-msgstr ""
+msgstr "[_will_] Io... ehm... io..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:277 #-#-# translate crowdin gallery_d_101_5785a247:
 msgid "[_cedrick_] Что!?"
-msgstr ""
+msgstr "[_cedrick_] Che cosa!?"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:279 #-#-# translate crowdin gallery_d_101_ce2f993a:
 msgid "[_will_] Вся одежда у меня в комнате..."
-msgstr ""
+msgstr "[_will_] Tutti i miei vestiti sono nella mia stanza..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:281 #-#-# translate crowdin gallery_d_101_49316299_3:
 msgid "[_cedrick_] ..."
@@ -562,11 +562,11 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:283 #-#-# translate crowdin gallery_d_101_c359474a:
 msgid "[_cedrick_] Тогда быстро беги в комнату! Как будто ты и не просыпалась еще!!"
-msgstr ""
+msgstr "[_cedrick_] Quindi corri velocemente nella stanza! È come se non ti fossi ancora svegliato!!"
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:285 #-#-# translate crowdin gallery_d_101_234845fd:
 msgid "[_will_] П-поздно... Ванна между кухней и моей комнатой. Если пробегу и мама меня увидит, она точно все поймет..."
-msgstr ""
+msgstr "[_will_] È tardi... Bagno tra la cucina e la mia stanza. Se corro e mia madre mi vede, capirà sicuramente tutto..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:287 #-#-# translate crowdin gallery_d_101_7f06ca0f:
 msgid "[_cedrick_] Твою мать..."
