@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-26 10:42\n"
+"PO-Revision-Date: 2024-07-05 00:21\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
 msgid "Звезда Трибы"
@@ -232,13 +232,13 @@ msgstr "Œuf vibrant avec télécommande\n"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Посылка для Вилл"
-msgstr ""
+msgstr "Un colis pour Will"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Роскошное колье"
-msgstr ""
+msgstr "Collier somptueux"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Кружевное эротическое белье"
-msgstr ""
+msgstr "Lingerie de charme en dentelle"
 
