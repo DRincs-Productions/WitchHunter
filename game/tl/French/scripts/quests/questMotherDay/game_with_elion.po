@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-26 11:10\n"
+"PO-Revision-Date: 2024-07-05 00:21\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
-msgstr ""
+msgstr "Elyon ? Elyon, je suis là !"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:8 #-#-# translate crowdin game_with_elion_aff05ace:
 msgid "[_elion_] Р-рик? Т-ты правда пришел.. Так поздно, но.."
