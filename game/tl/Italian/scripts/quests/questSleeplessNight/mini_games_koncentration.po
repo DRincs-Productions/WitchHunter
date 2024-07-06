@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-06-19 06:57\n"
+"PO-Revision-Date: 2024-07-06 10:09\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:162 #-#-# translate crowdin podskazka_f6227483:
 msgid "Следующая мини игра представляет из себя некое подобие мини игры из старых флеш игр и вероятно вы могли уже сталкивался с подобным."
@@ -494,7 +494,7 @@ msgstr "[_susan_] (Uff... Che scena... Non mi aspettavo di dover parlare così a
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:508 #-#-# translate crowdin gallery_d_102_f81b9e65:
 msgid "[_susan_] (Н-но, думаю, поощрять ее будет правильным решением...)"
-msgstr ""
+msgstr "[_susan_] (Ma credo che incoraggiarla sarebbe la cosa giusta da fare...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:511 #-#-# translate crowdin gallery_d_102_a20cefa7:
 msgid "..."
@@ -966,11 +966,11 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:808 #-#-# translate crowdin game_over_61059d0d:
 msgid "[_will_] Эм.. я просто решила устроить Рику приятное утро..."
-msgstr ""
+msgstr "[_will_] Ho pensato di dare a Rick una bella mattinata..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:810 #-#-# translate crowdin game_over_35b75104:
 msgid "[_susan_] Приятное утро!?!?!?"
-msgstr ""
+msgstr "[_susan_] Buona mattinata!?!?!?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:812 #-#-# translate crowdin game_over_f89f7db9:
 msgid "[_cedrick_] ....."
@@ -978,7 +978,7 @@ msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:814 #-#-# translate crowdin game_over_38607c19:
 msgid "[_susan_] Вилл Вандом, быстро в свою комнату!! С тобой у нас будет крайне неприятный и серьезный разговор... Позже..."
-msgstr ""
+msgstr "[_susan_] Will Vendôme, vai nella tua stanza! Avremo una conversazione molto spiacevole e seria con te..... Più tardi..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:816 #-#-# translate crowdin game_over_7cfb0348:
 msgid "[_susan_] А ты, Рик..."
@@ -1050,11 +1050,11 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:849 #-#-# translate crowdin game_over_61059d0d_1:
 msgid "[_will_] Эм.. я просто решила устроить Рику приятное утро..."
-msgstr ""
+msgstr "[_will_] Ho pensato di dare a Rick una bella mattinata..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:851 #-#-# translate crowdin game_over_35b75104_1:
 msgid "[_susan_] Приятное утро!?!?!?"
-msgstr ""
+msgstr "[_susan_] Buona mattinata!?!?!?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:852 #-#-# translate crowdin game_over_f89f7db9_2:
 msgid "[_cedrick_] ....."
@@ -1062,7 +1062,7 @@ msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:853 #-#-# translate crowdin game_over_38607c19_1:
 msgid "[_susan_] Вилл Вандом, быстро в свою комнату!! С тобой у нас будет крайне неприятный и серьезный разговор... Позже..."
-msgstr ""
+msgstr "[_susan_] Will Vendôme, vai nella tua stanza! Avremo una conversazione molto spiacevole e seria con te..... Più tardi..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:855 #-#-# translate crowdin game_over_7cfb0348_1:
 msgid "[_susan_] А ты, Рик..."
