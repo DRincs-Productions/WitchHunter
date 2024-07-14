@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-07-06 10:09\n"
+"PO-Revision-Date: 2024-07-14 21:14\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:162 #-#-# translate crowdin podskazka_f6227483:
 msgid "Следующая мини игра представляет из себя некое подобие мини игры из старых флеш игр и вероятно вы могли уже сталкивался с подобным."
@@ -502,67 +502,67 @@ msgstr "..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:514 #-#-# translate crowdin gallery_d_102_6a25968a:
 msgid "[_cedrick_] (Да уж, ну и утро...)"
-msgstr ""
+msgstr "[_cedrick_] (Sì, beh, è mattina...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:516 #-#-# translate crowdin gallery_d_102_97e38aed:
 msgid "[_will_] (Ух, все прошло не совсем так, как я планировала... Но по итогу утро вышло довольно горячим...)"
-msgstr ""
+msgstr "[_will_] (Wow, non è andato tutto come avevo previsto... Ma alla fine la mattinata si è rivelata piuttosto calda...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:518 #-#-# translate crowdin gallery_d_102_60c12c27:
 msgid "[_susan_] Кхм, Вилл, ну что, готова к сегодняшнему дню?"
-msgstr ""
+msgstr "[_susan_] Hmmm, Will, sei pronto per oggi?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:520 #-#-# translate crowdin gallery_d_102_00ec3354:
 msgid "[_will_] М? Сегодняшнему дню?"
-msgstr ""
+msgstr "[_will_] M?  Oggi?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:522 #-#-# translate crowdin gallery_d_102_aa5976d5:
 msgid "[_susan_] Ну, ты что, забыла? Наш локальный праздник. Каждый год отмечаем"
-msgstr ""
+msgstr "[_susan_] Ebbene, te ne sei dimenticato?  La nostra vacanza locale.  Ogni anno festeggiamo"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:524 #-#-# translate crowdin gallery_d_102_7125cbb6:
 msgid "[_will_] Ох, т-точно..."
-msgstr ""
+msgstr "[_will_] Oh, sì, è vero..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:526 #-#-# translate crowdin gallery_d_102_044c4d1c:
 msgid "[_cedrick_] Праздник? Какой праздник?"
-msgstr ""
+msgstr "[_cedrick_] Vacanza?  Che vacanza?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:528 #-#-# translate crowdin gallery_d_102_eddec7f7:
 msgid "[_susan_] У нас с Вилл есть небольшая традиция - отмечать вместе день матери"
-msgstr ""
+msgstr "[_susan_] Will e io abbiamo una piccola tradizione di festeggiare insieme la festa della mamma"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:530 #-#-# translate crowdin gallery_d_102_2d250e0f:
 msgid "[_cedrick_] Оу..."
-msgstr ""
+msgstr "[_cedrick_] Оу..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:533 #-#-# translate crowdin gallery_d_102_46e40b17:
 msgid "[_will_] (Черт, я совсем потеряла счет времени после пребывания в темнице...)"
-msgstr ""
+msgstr "[_will_] (Dannazione, ho perso completamente la cognizione del tempo dopo essere stato nel dungeon...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:536 #-#-# translate crowdin gallery_d_102_88b32143:
 msgid "[_susan_] Хах, Рик, ты не подумай. Мы не отмечаем мой персональный день как матери, я не настолько эгоистична. Праздник скорее случайно выпал на эту дату"
-msgstr ""
+msgstr "[_susan_] Ah, Rick, non credo.  Non celebriamo la mia giornata personale da madre, non sono così egoista.  La vacanza cadeva piuttosto per coincidenza in questa data"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:538 #-#-# translate crowdin gallery_d_102_ffa12d62:
 msgid "[_cedrick_] Тогда что именно вы отмечаете в этот день? В честь чего праздник?"
-msgstr ""
+msgstr "[_cedrick_] Allora cosa festeggi esattamente in questo giorno?  A cosa è dedicata la festa?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:540 #-#-# translate crowdin gallery_d_102_fd0f37d2:
 msgid "[_susan_] Хм.. Укрепляем узы дочки и матери, я бы так сказала..."
-msgstr ""
+msgstr "[_susan_] Hmm.. Rafforzare i legami tra figlia e madre, direi di sì..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:542 #-#-# translate crowdin gallery_d_102_acd40f2b:
 msgid "[_cedrick_] То есть сегодня вы будете заняты? Ничего, я пока подготовлюсь к экзаменам"
-msgstr ""
+msgstr "[_cedrick_] Quindi sarai occupato oggi?  Va bene, per ora mi preparo per gli esami"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:544 #-#-# translate crowdin gallery_d_102_062c8528:
 msgid "[_cedrick_] (Хах, может смогу отдохнуть у них дома в одиночестве какое-то время)"
-msgstr ""
+msgstr "[_cedrick_] (Ah, forse posso rilassarmi da solo a casa loro per un po')"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:546 #-#-# translate crowdin gallery_d_102_75a1b759:
 msgid "[_will_] Ч-что? Н-нет..."
-msgstr ""
+msgstr "[_will_] C-cosa?  N-no..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:548 #-#-# translate crowdin gallery_d_102_50dfc5d3:
 msgid "[_susan_] Ох, Рик, нет нет нет... В этом году мы отмечаем этот праздник с тобой"
