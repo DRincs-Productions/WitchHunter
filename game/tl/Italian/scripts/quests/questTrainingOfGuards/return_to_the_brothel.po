@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-03 18:38\n"
+"PO-Revision-Date: 2024-07-15 19:19\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/return_to_the_brothel.rpy:5 #-#-# translate crowdin return_to_the_brothel_1349163e:
 msgid "[_cedrick_] Джулия, надеюсь ты не слишком жестоко обращаешься с девушками?"
@@ -610,7 +610,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/return_to_the_brothel.rpy:319 #-#-# translate crowdin gallery_d_098_69136f54:
 msgid "[_cedrick_] А-ага..."
-msgstr ""
+msgstr "[_cedrick_] A-sì..."
 
 # game/scripts/quests/questTrainingOfGuards/return_to_the_brothel.rpy:322 #-#-# translate crowdin gallery_d_098_533a268c:
 msgid "[_cedrick_] (С-стоп... Они сейчас что, устроили промо-компанию моему члену? Это что, все для того, чтобы я просадил все золото в их борделе?)"
