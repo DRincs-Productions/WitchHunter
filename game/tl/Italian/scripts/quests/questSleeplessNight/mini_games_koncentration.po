@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-07-15 19:19\n"
+"PO-Revision-Date: 2024-07-15 20:36\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:162 #-#-# translate crowdin podskazka_f6227483:
 msgid "Следующая мини игра представляет из себя некое подобие мини игры из старых флеш игр и вероятно вы могли уже сталкивался с подобным."
@@ -746,7 +746,7 @@ msgstr "[_will_] A-agum..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:649 #-#-# translate crowdin gallery_d_102_87b496f8:
 msgid "[_cedrick_] Пф..."
-msgstr ""
+msgstr "[_cedrick_] Pf..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:653 #-#-# translate crowdin gallery_d_102_8fba1ecf_1:
 msgid "[_will_] ....."
@@ -754,7 +754,7 @@ msgstr "[_will_] ....."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:654 #-#-# translate crowdin gallery_d_102_d85ff460:
 msgid "[_cedrick_] Ладно, я все равно тоже собирался сходить ей за подарком"
-msgstr ""
+msgstr "[_cedrick_] Ok, volevo comunque andare a prenderle un regalo"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:658 #-#-# translate crowdin gallery_d_102_1642e8b2:
 msgid "[_will_] Д-да!? То есть ты поможешь мне?"
