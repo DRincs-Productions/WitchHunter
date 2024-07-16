@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-07-15 20:36\n"
+"PO-Revision-Date: 2024-07-16 18:51\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:162 #-#-# translate crowdin podskazka_f6227483:
 msgid "Следующая мини игра представляет из себя некое подобие мини игры из старых флеш игр и вероятно вы могли уже сталкивался с подобным."
@@ -758,7 +758,7 @@ msgstr "[_cedrick_] Ok, volevo comunque andare a prenderle un regalo"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:658 #-#-# translate crowdin gallery_d_102_1642e8b2:
 msgid "[_will_] Д-да!? То есть ты поможешь мне?"
-msgstr ""
+msgstr "[_will_] S-sì!?  Allora, mi aiuterai?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:662 #-#-# translate crowdin gallery_d_102_5e3336f7:
 msgid "[_cedrick_] Да..."
@@ -766,71 +766,71 @@ msgstr "[_cedrick_] Sì..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:666 #-#-# translate crowdin gallery_d_102_0d3a36a3:
 msgid "[_will_] Отлично!"
-msgstr ""
+msgstr "[_will_] Grande!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:670 #-#-# translate crowdin gallery_d_102_70c8fd98:
 msgid "[_will_] Есть одно колье, которое мама очень хотела"
-msgstr ""
+msgstr "[_will_] C'è una collana che la mamma voleva davvero"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:674 #-#-# translate crowdin gallery_d_102_ea270fc7:
 msgid "[_cedrick_] К-колье..."
-msgstr ""
+msgstr "[_cedrick_] Collana N..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:675 #-#-# translate crowdin gallery_d_102_9de02fd0:
 msgid "[_cedrick_] Теперь я понял, почему ты сказала, что намели... Надеюсь у меня то на него денег хватит"
-msgstr ""
+msgstr "[_cedrick_] Adesso capisco perché hai detto che l'avevi pianificato... spero di avere abbastanza soldi per farlo"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:679 #-#-# translate crowdin gallery_d_102_15a91ef3:
 msgid "[_will_] Ох, Рик, ну ты же лорд, у тебя должны быть деньги"
-msgstr ""
+msgstr "[_will_] Oh Rick, sei un signore, devi avere soldi"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:680 #-#-# translate crowdin gallery_d_102_2af5a490:
 msgid "[_cedrick_] Хаха, очень смешно..."
-msgstr ""
+msgstr "[_cedrick_] Ahah molto divertente..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:684 #-#-# translate crowdin gallery_d_102_d5afe0cc:
 msgid "[_will_] А что, разве нет?"
-msgstr ""
+msgstr "[_will_] Non è questo?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:688 #-#-# translate crowdin gallery_d_102_6afb235d:
 msgid "[_cedrick_] Все деньги давным давно в казне у Фобоса. От моего статуса Лорда только слово и осталось"
-msgstr ""
+msgstr "[_cedrick_] Tutto il denaro è da tempo nel tesoro di Phobos. Tutto ciò che resta del mio status di Signore è una parola"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:689 #-#-# translate crowdin gallery_d_102_f101a9da:
 msgid "[_cedrick_] Даже как статус оно не имеет особого смысла, ведь Фобос может и про него забыть в любой, нужный ему момент"
-msgstr ""
+msgstr "[_cedrick_] Anche come status non ha molto senso, perché Phobos può dimenticarsene in qualsiasi momento ne abbia bisogno"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:690 #-#-# translate crowdin gallery_d_102_f66300d0:
 msgid "[_cedrick_] Когда он забрал весомую часть моих сил, статус лорда мне не помог... Как и статус главнокомандующего, которого меня так же лишили"
-msgstr ""
+msgstr "[_cedrick_] Quando mi ha portato via una parte significativa delle mie forze, lo status di signore non mi ha aiutato... Nemmeno lo status di comandante in capo, di cui sono stato privato"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:694 #-#-# translate crowdin gallery_d_102_2864e2b1:
 msgid "[_will_] К-какой кошмар... Все было настолько плохо..."
-msgstr ""
+msgstr "[_will_] Che incubo... È stato così brutto..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:698 #-#-# translate crowdin gallery_d_102_4800aa6a:
 msgid "[_cedrick_] Да, это было его главным мотиватором для меня..."
-msgstr ""
+msgstr "[_cedrick_] Sì, quella era la sua principale motivazione per me..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:702 #-#-# translate crowdin gallery_d_102_7dc1c416:
 msgid "[_cedrick_] Уничтожь стражниц, приведи Элион и тогда статус и силы снова твои"
-msgstr ""
+msgstr "[_cedrick_] Distruggi le guardie, porta con te Elyon e poi lo status e i poteri torneranno tuoi"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:706 #-#-# translate crowdin gallery_d_102_6f8b301f:
 msgid "[_will_] Т-теперь понятно, почему ты так загорелся идеей его свергнуть..."
-msgstr ""
+msgstr "[_will_] Adesso è chiaro perché eri così entusiasta dell'idea di rovesciarlo..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:710 #-#-# translate crowdin gallery_d_102_6710b31d:
 msgid "[_cedrick_] Так было не сразу..."
-msgstr ""
+msgstr "[_cedrick_] Non è successo subito..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:714 #-#-# translate crowdin gallery_d_102_542684b3:
 msgid "[_will_] П-подожди... Э-элион!? А она тут при чем..."
-msgstr ""
+msgstr "[_will_] W-aspetta... E-Elion!? E cosa c'entra lei..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:715 #-#-# translate crowdin gallery_d_102_ebaf31af:
 msgid "[_cedrick_] Черт... Ты же не в курсе..."
-msgstr ""
+msgstr "[_cedrick_] Maledizione... Non lo sai..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:719 #-#-# translate crowdin gallery_d_102_49316299_2:
 msgid "[_cedrick_] ..."
