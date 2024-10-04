@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 11:10\n"
+"PO-Revision-Date: 2024-10-04 01:01\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:6 #-#-# translate crowdin go_to_the_vendom_03fea05e:
 msgid "[_centered_] {size=37}Седрик тихо вошел в дом, зашел в комнату Сьюзан и тут же грохнулся спать на кровать{/size}"
@@ -330,7 +330,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:161 #-#-# translate crowdin gallery_d_100_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:168 #-#-# translate crowdin gallery_d_100_b7ada4b7:
 msgid "[_susan_] Ох... Это... Это было потрясающе, Рик... Как и всегда..."
@@ -374,7 +374,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:197 #-#-# translate crowdin gallery_d_100_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:200 #-#-# translate crowdin gallery_d_100_424698a0:
 msgid "[_cedrick_] (Ух, да, начало дня было бодрое... Но угораздило ж меня ляпнуть что-то про завтрак...)"
@@ -698,7 +698,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:360 #-#-# translate crowdin be_rational_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/questSleeplessNight/go_to_the_vendom.rpy:363 #-#-# translate crowdin be_rational_ce01b6b4:
 msgid "[_cedrick_] С-сьюзан!?"
