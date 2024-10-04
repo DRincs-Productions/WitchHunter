@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 10:38\n"
+"PO-Revision-Date: 2024-10-04 00:58\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/how.rpy:98
 msgid "На этом версия [config.version] заканчивается."
-msgstr ""
+msgstr "An dieser Stelle endet die [config.version]-Version."
 
 # game/how.rpy:104
 msgid "Если вам понравился наш проект, вы можете поддержать нас и получать больше эксклюзивных новостей по игре по данным ссылкам:"
-msgstr ""
+msgstr "Wenn Ihnen unser Projekt gefällt, können Sie uns unterstützen und über diese Links weitere exklusive Neuigkeiten über das Spiel erhalten:"
 
 # game/how.rpy:119
 msgid "Наш Patreon"
-msgstr ""
+msgstr "Unser Patreon"
 
 # game/how.rpy:122
 msgid "Наш Subscribestar"
-msgstr ""
+msgstr "Unser Abonnentenstar"
 
 # game/how.rpy:125
 msgid "Наш itch.io"
-msgstr ""
+msgstr "Unser itch.io"
 
 # game/how.rpy:128
 msgid "Наш Boosty"
-msgstr ""
+msgstr "Unser Boosty"
 
