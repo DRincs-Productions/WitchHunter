@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 10:55\n"
+"PO-Revision-Date: 2024-10-04 00:59\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:4 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_bf69d8dd:
 msgid "Седрик подходит к двери комнаты и слышит разговор на повышенных тонах"
@@ -142,7 +142,7 @@ msgstr ""
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:112 #-#-# translate crowdin gallery_d_026_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:114 #-#-# translate crowdin gallery_d_026_988d0c8b:
 msgid "[_centered_] {size=37} Спустя несколько минут Евангелина поддается вашим уговорам... {/size}"
@@ -374,7 +374,7 @@ msgstr ""
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:259 #-#-# translate crowdin gallery_d_027_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:264 #-#-# translate crowdin gallery_d_027_8f175c92:
 msgid "[_amalia_] Тебе приятно?"
