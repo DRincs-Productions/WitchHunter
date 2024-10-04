@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-11 09:45\n"
+"PO-Revision-Date: 2024-10-04 01:00\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:168 #-#-# translate crowdin gameower_410261a5:
 msgid "[_chenlin_] Д-джоан? Э-это ты.."
@@ -70,7 +70,7 @@ msgstr ""
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:210 #-#-# translate crowdin gamewin_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:211 #-#-# translate crowdin gamewin_07bdde05:
 msgid "....."
@@ -98,7 +98,7 @@ msgstr ""
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:219 #-#-# translate crowdin gamewin_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/mini_games/mini_game.rpy:220 #-#-# translate crowdin gamewin_5f9b772e:
 msgid "...."
