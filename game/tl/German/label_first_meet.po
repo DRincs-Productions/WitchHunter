@@ -10,63 +10,63 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-11 09:12\n"
+"PO-Revision-Date: 2024-10-04 00:58\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/label_first_meet.rpy:4 #-#-# translate crowdin first_meet_8bd86d07:
 msgid "[_cedrick_] Что-ж, пока никто сюда не явился, самое время начать изучать местные книги"
-msgstr ""
+msgstr "[_cedrick_] Nun, bevor noch jemand auftaucht, ist es an der Zeit, die örtlichen Bücher zu studieren"
 
 # game/label_first_meet.rpy:6 #-#-# translate crowdin first_meet_70cfdf98:
 msgid "[_centered_] {size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ{/size}"
-msgstr ""
+msgstr "[[[_centered_] {size=37}NACH ​​EINIGER ZEIT{/size}] "
 
 # game/label_first_meet.rpy:10 #-#-# translate crowdin first_meet_7d5cbc05:
 msgid "[_cedrick_] Хм, в целом, как я и предполагал, здешняя речь построена куда проще нашей, но при этом имеет куда больше простолюдинских слов и выражений"
-msgstr ""
+msgstr "[_cedrick_] Hmm, im Allgemeinen ist die Sprache hier, wie ich vermutet habe, viel einfacher als bei uns, hat aber viel mehr geläufige Wörter und Ausdrücke"
 
 # game/label_first_meet.rpy:11 #-#-# translate crowdin first_meet_4056e326:
 msgid "[_cedrick_] Мудак. Гандон. Еблан. Столько одинаковых по смыслу, но разных по значению нецензурных слов… Интересно"
-msgstr ""
+msgstr "[_cedrick_] Arschloch. Kanton. Eblan. So viele Schimpfwörter, die zwar das Gleiche bedeuten, aber unterschiedliche klingen... Interessant"
 
 # game/label_first_meet.rpy:14 #-#-# translate crowdin first_meet_cec43db9:
 msgid "[_cedrick_] Хах, а для здешнего мира Гитлер был тот еще мудак. На Меридиане его бы сделали одним из главных ораторов или полководцев.. Хотя в конечном итоге все равно повесили бы. Фобос бы его казнил только за одни эти усишки"
-msgstr ""
+msgstr "[_cedrick_] Hm, und in dieser Welt war Hitler ein Arschloch. Auf Meridian hätten sie ihn zu einem der besten Redner oder Generäle gemacht. Obwohl er irgendwann sowieso gehängt worden wäre. Auf Phobos hätte man ihn allein schon wegen seines Schnurrbarts hingerichtet"
 
 # game/label_first_meet.rpy:17 #-#-# translate crowdin first_meet_f225dd23:
 msgid "[_cedrick_] Хм, рабство отменено практически во всем мире, но при этом разделение на богатых и бедных столь колоссально, что многие люди сами бы не отказались стать рабами, если бы у них взамен была еда и крыша над головой"
-msgstr ""
+msgstr "[Hmm, die Sklaverei ist praktisch überall auf der Welt abgeschafft worden, und doch ist die Kluft zwischen Arm und Reich so groß, dass viele Menschen sich nicht weigern würden, Sklaven zu werden, wenn sie im Gegenzug Nahrung und ein Dach über dem Kopf hätten"
 
 # game/label_first_meet.rpy:18 #-#-# translate crowdin first_meet_a4891000:
 msgid "[_cedrick_] В основном же люди просто бесконечно работают за мировую валюту 80 процентов времени, чтобы оставались в тепле и сытости остальные 20 процентов"
-msgstr ""
+msgstr "[_cedrick_] Im Grunde genommen arbeiten die Menschen 80 Prozent der Zeit ununterbrochen für die Weltwährung, um die anderen 20 Prozent der Zeit warm und satt zu bleiben"
 
 # game/label_first_meet.rpy:19 #-#-# translate crowdin first_meet_d3b1fe87:
 msgid "[_cedrick_] И при этом никто не считает себя рабом, забавно. На Меридиане все куда честнее, ты либо властвуешь над всеми, либо о тебя вытирают ноги"
-msgstr ""
+msgstr "[_cedrick_] Und niemand denkt, er sei ein Sklave, komisch. Auf Meridian ist es viel ehrlicher, entweder du beherrschst alle oder du bekommst deine Füße abgewischt"
 
 # game/label_first_meet.rpy:22 #-#-# translate crowdin first_meet_fcdbc8c1:
 msgid "[_cedrick_] Закон о нравственности, закон об оскорблениях, закон о домогательствах, закон об избиении.. Тут можно спокойно угодить под стражу за то, что на Меридиане считается абсолютной нормой, нужно быть осторожнее"
-msgstr ""
+msgstr "[Das Sittlichkeitsgesetz, das Beleidigungsgesetz, das Belästigungsgesetz, das Prügelgesetz... Es ist leicht, für etwas eingesperrt zu werden, das auf Meridian als absolute Norm gilt, man muss vorsichtig sein"
 
 # game/label_first_meet.rpy:25 #-#-# translate crowdin first_meet_32e969f8:
 msgid "[_cedrick_] Хм, обходить закон путем манипуляции и лжи, очень похоже на наши дворцовые интриги. А этот Мориарти интересный персонаж, есть чему поучиться"
-msgstr ""
+msgstr "[_cedrick_] Hmm, Umgehung des Gesetzes durch Manipulation und Lügen, ganz ähnlich wie unsere Palastintrigen. Und dieser Moriarty ist ein interessanter Charakter, von dem man etwas lernen kann"
 
 # game/label_first_meet.rpy:28 #-#-# translate crowdin first_meet_5f4309e4:
 msgid "[_cedrick_] О, а вот это интересно. Теперь я понимаю, почему у них так много законов, защищающих нравственность. Местным людям так легко нанести психологический или моральный вред."
-msgstr ""
+msgstr "[_cedrick_] Oh, das ist interessant. Jetzt verstehe ich, warum sie so viele Gesetze zum Schutz der Moral haben. Es ist so einfach für die Menschen vor Ort, psychologisch oder moralisch geschädigt zu werden."
 
 # game/label_first_meet.rpy:29 #-#-# translate crowdin first_meet_6f6377bc:
 msgid "[_cedrick_] Фобос говорил, что эмоциональная нестабильность и подавленность влияют на использование магических сил. Значит, я могу использовать это на стражницах"
-msgstr ""
+msgstr "[Phobos sagte, dass emotionale Instabilität und Depression den Einsatz magischer Kräfte beeinträchtigen. Also kann ich sie bei den Wächtern einsetzen"
 
 # game/label_first_meet.rpy:30 #-#-# translate crowdin first_meet_3afae274:
 msgid "[_cedrick_] Так-так-так, видим одним из самых сильных эмоциональных потрясений для здешних представительниц женского пола – это сексуальное домогательство и психологическое насилие"
-msgstr ""
+msgstr "[_cedrick_] Nun, nun, nun, nun, wir sehen, dass eine der größten emotionalen Qualen für die Frauen hier sexuelle Belästigung und psychologischer Missbrauch ist"
 
 # game/label_first_meet.rpy:31 #-#-# translate crowdin first_meet_12757212:
 msgid "[_cedrick_] Да уж.. Для большинства женщин Меридиана это обычный вторник, их бы подобные вещи ни капли бы не задели"
-msgstr ""
+msgstr "[_cedrick_] Ja. Für die meisten Frauen in Meridian ist es ein ganz normaler Tag, sie würden sich von so etwas nicht im Geringsten beeinflussen lassen"
 
 # game/label_first_meet.rpy:32 #-#-# translate crowdin first_meet_87bdfb72:
 msgid "[_cedrick_] Значит, мне не нужно использовать форму змея, чтобы победить стражниц. Я могу просто психологически ломать их и сексуально домогаться, так их магия станет слабее и они станут легкими жертвами"
@@ -214,7 +214,7 @@ msgstr ""
 
 # game/label_first_meet.rpy:194 #-#-# translate crowdin first_meet_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/label_first_meet.rpy:197 #-#-# translate crowdin first_meet_35266b84:
 msgid "[_elion_] Была рада познакомиться с тобой, Рик. Нам нужно идти..."
