@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 10:40\n"
+"PO-Revision-Date: 2024-10-04 00:58\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Fight/CedrickFighting.rpy:288
 msgid "Седрик"
-msgstr "Sosuke"
+msgstr "Cedric"
 
 # game/scripts/core/Fight/CedrickFighting.rpy:351
 msgid "Удар змеиной рукой"
@@ -26,13 +26,13 @@ msgstr "Gift spucken"
 
 # game/scripts/core/Fight/CedrickFighting.rpy:351
 msgid "Удар хвостом"
-msgstr "Schwanzdreinschlag^m"
+msgstr "Schwanzbeule"
 
 # game/scripts/core/Fight/CedrickFighting.rpy:392
 msgid "Начислен боевой опыт:"
-msgstr ""
+msgstr "Gesammelte Kampferfahrung:"
 
 # game/scripts/core/Fight/CedrickFighting.rpy:404
 msgid "Получен новый уровень:"
-msgstr ""
+msgstr "Es wurde eine neue Stufe erreicht:"
 
