@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-11 10:20\n"
+"PO-Revision-Date: 2024-10-04 01:01\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/school/radioroom.rpy:27 #-#-# translate crowdin radioroom_c8f725d2:
 msgid "[_courtney_] Что ты здесь делаешь, эта комната только для персонала"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/scripts/school/radioroom.rpy:30 #-#-# translate crowdin radioroom_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/school/radioroom.rpy:33 #-#-# translate crowdin radioroom_3958290b:
 msgid "Контент в разработке"
