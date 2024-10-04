@@ -11,21 +11,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 10:41\n"
+"PO-Revision-Date: 2024-10-04 00:58\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Fight/FightingPlayer.rpy:194
 msgid "Вы изучили новые способности: {updated_skills}"
-msgstr ""
+msgstr "{updated_skills} Sie haben neue Fähigkeiten erlernt"
 
 # game/scripts/core/Fight/FightingPlayer.rpy:300
 msgid "{player_name} пропускает ход"
-msgstr ""
+msgstr "{player_name} Überspringt eine Runde"
 
 # game/scripts/core/Fight/FightingPlayer.rpy:609
 msgid "Эту способность я могу использовать только в форме змея"
-msgstr ""
+msgstr "Ich kann diese Fähigkeit nur in Schlangengestalt einsetzen"
 
 # game/scripts/core/Fight/FightingPlayer.rpy:619
 msgid "Не достаточно маны"
-msgstr ""
+msgstr "Nicht genug Mana"
 
