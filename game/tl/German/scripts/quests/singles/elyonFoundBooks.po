@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-11 10:13\n"
+"PO-Revision-Date: 2024-10-04 01:00\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/singles/elyonFoundBooks.rpy:10 #-#-# translate crowdin elyonFoundBooks_bc5d1268:
 msgid "[_elion_] Эмм... Рик... Кажется я нашла нужные нам книги."
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:21 #-#-# translate crowdin elyonFoundBooks_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:25 #-#-# translate crowdin elyonFoundBooks_cf01c344:
 msgid "[_centered_] {size=37}Спустя несколько минут{/size}"
@@ -54,7 +54,7 @@ msgstr ""
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:40 #-#-# translate crowdin elyonFoundBooks_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:41 #-#-# translate crowdin elyonFoundBooks_5f9b772e:
 msgid "...."
