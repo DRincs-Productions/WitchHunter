@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 11:12\n"
+"PO-Revision-Date: 2024-10-04 01:01\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:4 #-#-# translate crowdin talk_with_phobos_1_0b84cce1:
 msgid "[_phobos_] Ты как всегда опоздал, Седрик"
@@ -182,5 +182,5 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos.rpy:141 #-#-# translate crowdin talk_with_phobos_1_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
