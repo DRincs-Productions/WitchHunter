@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 10:56\n"
+"PO-Revision-Date: 2024-10-04 00:59\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -546,7 +546,7 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:227 #-#-# translate crowdin sitWithLilian2_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:228 #-#-# translate crowdin sitWithLilian2_07bdde05:
 msgid "....."
@@ -570,7 +570,7 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:247 #-#-# translate crowdin tutor_lil1_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:248 #-#-# translate crowdin tutor_lil1_07bdde05:
 msgid "....."
@@ -1586,7 +1586,7 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:925 #-#-# translate crowdin gallery_d_040_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:928 #-#-# translate crowdin gallery_d_040_0911e14a:
 msgid "[_cedrick_] Сначала моя часть обета"
