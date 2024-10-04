@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 10:57\n"
+"PO-Revision-Date: 2024-10-04 00:59\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:6 #-#-# translate crowdin ql_hayLin_wait_miranda_6140d12b:
 msgid "[_miranda_] Седрик..."
@@ -166,7 +166,7 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:126 #-#-# translate crowdin gallery_d_016_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/haylin/ql_hayLin_wait_miranda.rpy:130 #-#-# translate crowdin gallery_d_016_1912c0d0:
 msgid "[_miranda_] Да, я не говорю, что мне это не нравится"
