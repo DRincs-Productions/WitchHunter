@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 10:58\n"
+"PO-Revision-Date: 2024-10-04 00:59\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:4 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_f6c297fb:
 msgid "[_matt_] ну Вилл, дай мне еще один шанс..."
@@ -94,7 +94,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:54 #-#-# translate crowdin gallery_d_031_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:55 #-#-# translate crowdin gallery_d_031_6be5dfba:
 msgid "[_cedrick_] (фух.. почти закончил..)"
@@ -150,7 +150,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:91 #-#-# translate crowdin gallery_d_031_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:93 #-#-# translate crowdin gallery_d_031_5f9b772e_1:
 msgid "...."
