@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 11:10\n"
+"PO-Revision-Date: 2024-10-04 01:01\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
@@ -314,7 +314,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:159 #-#-# translate crowdin gallery_d_109_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:161 #-#-# translate crowdin gallery_d_109_0fd4d656:
 msgid "......"
@@ -666,5 +666,5 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:371 #-#-# translate crowdin epilogMotherDay_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
