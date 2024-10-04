@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 11:03\n"
+"PO-Revision-Date: 2024-10-04 01:00\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:12 #-#-# translate crowdin gallery_d_075_e69c7f7f:
 msgid "[_cedrick_] Девочки, привет"
@@ -154,7 +154,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:105 #-#-# translate crowdin gallery_d_075_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:111 #-#-# translate crowdin gallery_d_075_585aa222:
 msgid "[_bess_] Этого для тебя достаточно, Рик? Достаточно горячо!?"
@@ -234,7 +234,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:145 #-#-# translate crowdin gallery_d_075_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:152 #-#-# translate crowdin gallery_d_075_0db96cf7:
 msgid "[_bess_] Что ж, это была очень ценная информация, Рик.."
@@ -306,7 +306,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:200 #-#-# translate crowdin gallery_d_075_a20cefa7_2:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/searchWitnesses/tip_off_the_gramper_sisters.rpy:201 #-#-# translate crowdin gallery_d_075_1810bd67:
 msgid "[_centered_] {size=37}В доме Вендомов{/size} [withDissolve1]"
