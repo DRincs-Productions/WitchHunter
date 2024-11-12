@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 10:39\n"
+"PO-Revision-Date: 2024-11-12 20:26\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/afterload.rpy:199 #-#-# translate crowdin after_load_79db8d33:
 msgid "[_centered_] Выбранное сохранение не поддерживается и вы не сможете получить новый контент."
-msgstr ""
+msgstr "[_centered_] Der ausgewählte Speicherplatz wird nicht unterstützt und Sie können keine neuen Inhalte erhalten."
 
 # game/scripts/afterload.rpy:200 #-#-# translate crowdin after_load_484e2123:
 msgid "[_centered_] Загрузка данного сохранения способна вызывать ошибки в игре."
-msgstr ""
+msgstr "[_centered_] Das Laden dieses Spielstands kann zu Fehlern im Spiel führen."
 
 # game/scripts/afterload.rpy:205 #-#-# translate crowdin after_load_8db42109:
 msgid "[_centered_] Просьба, не сообщать разработчику о найденных ошибках после загрузки не поддерживаемого сохранения."
-msgstr ""
+msgstr "[_centered_] Bitte melden Sie dem Entwickler keine Fehler, nachdem Sie einen nicht unterstützten Spielstand geladen haben."
 
 # §translate crowdin strings: #|#|# # game/scripts/afterload.rpy:202
 msgid "Вы уверены что хотите загрузить неподдерживаемое сохранение?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie einen nicht unterstützten Speicherstand laden wollen?"
 
 # game/scripts/afterload.rpy:217
 msgid "Брайан.. Это Элион.. мне очень плохо… Нам нужно срочно увидеться, ты можешь прийти?"
-msgstr ""
+msgstr "Brian.… Ich bin es, Elyon. Ich bin wirklich krank. Wir müssen dich dringend sehen, kannst du kommen?"
 
