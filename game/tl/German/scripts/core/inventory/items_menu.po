@@ -10,37 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-11 09:17\n"
+"PO-Revision-Date: 2024-11-12 19:09\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items_menu.rpy:147
 msgid "Создать"
-msgstr ""
+msgstr "Herstellen"
 
 # game/scripts/core/inventory/items_menu.rpy:271
 msgid "Создание предметов"
-msgstr ""
+msgstr "Artikel erstellen"
 
 # game/scripts/core/inventory/items_menu.rpy:331
 msgid "(отсутствует)"
-msgstr ""
+msgstr "(nicht verfügbar)"
 
 # game/scripts/core/inventory/items_menu.rpy:389
 msgid "Выберите количество"
-msgstr ""
+msgstr "Anzahl auswählen"
 
 # game/scripts/core/inventory/items_menu.rpy:455
 msgid "Ок"
-msgstr ""
+msgstr "Bestätigen"
 
 # game/scripts/core/inventory/items_menu.rpy:459
 msgid "Отмена"
-msgstr ""
+msgstr "Abbrechen"
 
 # game/scripts/core/inventory/items_menu.rpy:481
 msgid "Требуется для квеста: "
-msgstr ""
+msgstr "Für die Quest erforderlich: "
 
 # game/scripts/core/inventory/items_menu.rpy:733
 msgid "Купить предметы"
-msgstr ""
+msgstr "Artikel kaufen"
 
