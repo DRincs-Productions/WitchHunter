@@ -10,67 +10,67 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 10:38\n"
+"PO-Revision-Date: 2024-11-12 19:09\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:71
 msgid "[tooltip]"
-msgstr ""
+msgstr "[tooltip]"
 
 # game/screens.rpy:92
 msgid "Нашел опечатку"
-msgstr ""
+msgstr "Tippfehler gefunden"
 
 # game/screens.rpy:203
 msgid "Пропуск"
-msgstr ""
+msgstr "Überspringen"
 
 # game/screens.rpy:440
 msgid "Начать"
-msgstr ""
+msgstr "Start"
 
 # game/screens.rpy:441
 msgid "Загрузить"
-msgstr ""
+msgstr "Herunterladen"
 
 # game/screens.rpy:442
 msgid "Настройки"
-msgstr ""
+msgstr "Einstellungen"
 
 # game/screens.rpy:443
 msgid "Галерея"
-msgstr ""
+msgstr "Galerie"
 
 # game/screens.rpy:444
 msgid "Чит-меню"
-msgstr ""
+msgstr "Cheatmenü"
 
 # game/screens.rpy:445
 msgid "Поддержать"
-msgstr ""
+msgstr "Unterstützen Sie uns"
 
 # game/screens.rpy:446
 msgid "Титры"
-msgstr ""
+msgstr "Mitwirkende"
 
 # game/screens.rpy:447
 msgid "Выйти"
-msgstr ""
+msgstr "Beenden"
 
 # game/screens.rpy:484
 msgid "Вернуться в игру"
-msgstr ""
+msgstr "Zurück"
 
 # game/screens.rpy:487
 msgid "Сохранить"
-msgstr ""
+msgstr "Speichern"
 
 # game/screens.rpy:495
 msgid "Главное меню"
-msgstr ""
+msgstr "Hauptmenü"
 
 # game/screens.rpy:586
 msgid "Empty Slot."
-msgstr ""
+msgstr "Leerer Speicherplatz."
 
 # game/screens.rpy:623
 msgid "Это сохранение не поддерживает текущую версию игры [game_version]. Загрузка этого сохранения может привести к ошибкам!"
@@ -78,35 +78,35 @@ msgstr ""
 
 # game/screens.rpy:663
 msgid "Авто"
-msgstr ""
+msgstr "Auto"
 
 # game/screens.rpy:668
 msgid "Быстро"
-msgstr ""
+msgstr "Schnell"
 
 # game/screens.rpy:689
 msgid "Далее"
-msgstr ""
+msgstr "Nächste"
 
 # game/screens.rpy:801
 msgid "Да"
-msgstr ""
+msgstr "Ja"
 
 # game/screens.rpy:805
 msgid "Нет"
-msgstr ""
+msgstr "Nein"
 
 # game/screens.rpy:837
 msgid "Меню"
-msgstr ""
+msgstr "Menü"
 
 # game/screens.rpy:838
 msgid "Быстрое сохранение"
-msgstr ""
+msgstr "Schnell speichern"
 
 # game/screens.rpy:839
 msgid "Быстрая Загрузка"
-msgstr ""
+msgstr "S. Laden"
 
 # game/screens.rpy:841
 msgid "Быстрый пропуск"
@@ -114,9 +114,9 @@ msgstr ""
 
 # game/screens.rpy:842
 msgid "Авто пропуск"
-msgstr ""
+msgstr "Automatisch überspringen"
 
 # game/screens.rpy:843
 msgid "Скрыть"
-msgstr ""
+msgstr "Ausblenden"
 
