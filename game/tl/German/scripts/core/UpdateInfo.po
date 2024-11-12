@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 10:42\n"
+"PO-Revision-Date: 2024-11-12 20:26\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/core/UpdateInfo.rpy:272 #-#-# translate crowdin update_info_end_label_ab20a80b:
 msgid "Конец версии [config.version]"
-msgstr ""
+msgstr "Ende der Version [config.version]"
 
 # §translate crowdin strings: #|#|# # game/scripts/core/UpdateInfo.rpy:176
 msgid "Продолжить"
-msgstr ""
+msgstr "Fortsetzung folgt"
 
 # game/scripts/core/UpdateInfo.rpy:199
 msgid "Не удалось получить информацию о новом обновлении. В этом случае вы можете получить информацию о всех обновлениях на наших страницах:"
-msgstr ""
+msgstr "Es konnten keine Informationen über ein neues Update abgerufen werden. In diesem Fall können Sie sich über alle Updates auf unseren Seiten informieren:"
 
