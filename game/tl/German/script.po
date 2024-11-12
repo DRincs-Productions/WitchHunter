@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-26 10:39\n"
+"PO-Revision-Date: 2024-11-12 20:26\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:182
 msgid "Начать с нового контента (0.21)"
-msgstr ""
+msgstr "Start mit neuem Inhalt (0.21)"
 
 # game/script.rpy:182
 msgid "Начать с начала"
-msgstr ""
+msgstr "Von vorne beginnen"
 
 # game/script.rpy:182
 msgid "Назад"
-msgstr ""
+msgstr "Zurück"
 
 # game/script.rpy:192
 msgid "Играть с читами"
-msgstr ""
+msgstr "Spielen mit Cheats"
 
 # game/script.rpy:192
 msgid "Играть без читов"
-msgstr ""
+msgstr "Spielen ohne Cheats"
 
