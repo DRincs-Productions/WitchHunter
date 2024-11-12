@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-11 09:19\n"
+"PO-Revision-Date: 2024-11-12 20:27\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestGetRidOfBryan.rpy:3
 msgid "Рыжая проблема"
-msgstr ""
+msgstr "Das Problem der Rothaarigen"
 
 # game/scripts/core/quests/QuestGetRidOfBryan.rpy:12
 msgid "Договориться с Брайаном о встрече (через телефон)"
-msgstr ""
+msgstr "Vereinbaren Sie einen Termin mit Brian (per Telefon)"
 
 # game/scripts/core/quests/QuestGetRidOfBryan.rpy:12
 msgid "Одолеть Брайана"
-msgstr ""
+msgstr "Brian überwältigen"
 
