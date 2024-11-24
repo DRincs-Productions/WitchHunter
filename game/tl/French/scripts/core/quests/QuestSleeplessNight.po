@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-07-05 00:21\n"
+"PO-Revision-Date: 2024-11-24 11:57\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestSleeplessNight.rpy:3
 msgid "Бессонная ночь"
-msgstr ""
+msgstr "Nuit blanche"
 
 # game/scripts/core/quests/QuestSleeplessNight.rpy:20
 msgid "Ответить на сообщение Вилл в телефоне"
@@ -22,9 +22,9 @@ msgstr "Répondre au message de Will sur le téléphone"
 
 # game/scripts/core/quests/QuestSleeplessNight.rpy:20
 msgid "Навестить Миранду"
-msgstr "Pour rendre visite à Miranda"
+msgstr "Rendre visite à Miranda"
 
 # game/scripts/core/quests/QuestSleeplessNight.rpy:20
 msgid "Отправится в дом Вендомов"
-msgstr "Se rendre à la maison des Wendoms"
+msgstr "Se rendre à la maison des Vandom"
 
