@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:09\n"
+"PO-Revision-Date: 2024-11-24 06:26\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/splashscreen.rpy:85 #-#-# translate crowdin splashscreen_f3db2f9c:
 msgid "[_attention_] {size=80}{color=#f00}ВНИМАНИЕ!{/color}{/size}\n"
@@ -46,17 +46,17 @@ msgstr "[_attention_] {size=80}{color=#f00}ВНИМАНИЕ!{/color}{/size}\n"
 "O SUCESOS REALES, ES PURA COINCIDENCIA.\n"
 "TODOS LOS PERSONAJES DEL JUEGO TIENEN AL MENOS 18 AÑOS.\n"
 "¿TIENES AL MENOS 18 AÑOS?\n"
-"{/tamaño}"
+"{/size}"
 
 # §translate crowdin strings: #|#|# # game/scripts/splashscreen.rpy:34
 msgid "[lang_translated_name!t] - перевел {a=https://crowdin.com/project/witch-hunter}DonRP{/a}"
-msgstr ""
+msgstr "[lang_translated_name!t] - traducido por {a=https://crowdin.com/project/witch-hunter}DonRP{/a}"
 
 # game/scripts/splashscreen.rpy:52
 msgid "Да, я совершеннолетний."
-msgstr ""
+msgstr "Sí, soy adulto. +18"
 
 # game/scripts/splashscreen.rpy:59
 msgid "Нет, я несовершеннолетний."
-msgstr ""
+msgstr "No, soy un menor. -18"
 
