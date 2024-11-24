@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-11-24 10:57\n"
+"PO-Revision-Date: 2024-11-24 11:56\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Fight/Cammy.rpy:28
 msgid "КАММИ"
-msgstr ""
+msgstr "CAMMY"
 
 # game/scripts/core/Fight/Cammy.rpy:54
 msgid "{skill_name} {quantity_mp} MP"
@@ -22,7 +22,7 @@ msgstr "{skill_name} {quantity_mp} MP"
 
 # game/scripts/core/Fight/Cammy.rpy:71
 msgid "Сон"
-msgstr ""
+msgstr "Sommeil"
 
 # game/scripts/core/Fight/Cammy.rpy:77
 msgid "Мощный удар"
@@ -30,5 +30,5 @@ msgstr "Coup puissant"
 
 # game/scripts/core/Fight/Cammy.rpy:77
 msgid "Ультра удар"
-msgstr ""
+msgstr "Ultra Frappe"
 
