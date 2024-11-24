@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 10:42\n"
+"PO-Revision-Date: 2024-11-24 07:32\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
 msgid "Звезда Трибы"
@@ -222,22 +222,23 @@ msgstr "Vicodin"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Сексуальный комплект для ролевых игр"
-msgstr ""
+msgstr "Juego de rol sexy"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Виброяйцо с пультом управления\n"
 "(суперпредложение: два комплекта по цене одного)"
-msgstr ""
+msgstr "\n"
+"Vibrador huevo con mando a distancia (superoferta: dos juegos por el precio de uno)"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Посылка для Вилл"
-msgstr ""
+msgstr "Un paquete para Will."
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Роскошное колье"
-msgstr ""
+msgstr "Collar de lujo"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Кружевное эротическое белье"
-msgstr ""
+msgstr "Lencería erótica de encaje"
 
