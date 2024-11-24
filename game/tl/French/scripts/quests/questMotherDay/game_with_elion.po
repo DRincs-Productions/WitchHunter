@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-11-24 11:57\n"
+"PO-Revision-Date: 2024-11-24 14:28\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
@@ -18,7 +18,7 @@ msgstr "Elyon ? Elyon, je suis là !"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:8 #-#-# translate crowdin game_with_elion_aff05ace:
 msgid "[_elion_] Р-рик? Т-ты правда пришел.. Так поздно, но.."
-msgstr ""
+msgstr "[_elion_] R-rick ? Tu es vraiment venu. Si tard, mais.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:10 #-#-# translate crowdin game_with_elion_0140b2d2:
 msgid "[_cedrick_] Я задержался в магазине. Искал, чем бы загладить свою вину за то, что не уделял тебе достаточно времени"
@@ -42,11 +42,11 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:19 #-#-# translate crowdin game_with_elion_5d1b3f5f:
 msgid "[_elion_] Давай пойдем ко мне в комнату и подключим ее к телевизору"
-msgstr ""
+msgstr "[_elion_] Allons dans ma chambre et branchons-le sur la télévision."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:24 #-#-# translate crowdin game_with_elion_3c12abc9:
 msgid "[_cedrick_] Ого.. Элион.."
-msgstr ""
+msgstr "[_cedrick_] Wow. Elyon."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:25 #-#-# translate crowdin game_with_elion_415ae5f1:
 msgid "[_cedrick_] Смотрю ты навела здесь порядок. Теперь тут намного уютнее, чем было раньше"
@@ -214,7 +214,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:118 #-#-# translate crowdin elion_win_1_950b3403:
 msgid "[_elion_] Хаха, я победила!!"
-msgstr ""
+msgstr "[_elion_] Haha, j'ai gagné !"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:119 #-#-# translate crowdin elion_win_1_4baafd4c:
 msgid "[_cedrick_] Черт, не думал, что это так сложно"
