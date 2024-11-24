@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-26 11:09\n"
+"PO-Revision-Date: 2024-11-24 11:57\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/characters.rpy:9
 msgid "Продавец"
@@ -74,19 +74,19 @@ msgstr "Soldat 3"
 
 # game/scripts/sell_books_game/characters.rpy:203
 msgid "Солдат 4"
-msgstr ""
+msgstr "Soldat 4"
 
 # game/scripts/sell_books_game/characters.rpy:211
 msgid "Солдат 5"
-msgstr ""
+msgstr "Soldat 5"
 
 # game/scripts/sell_books_game/characters.rpy:219
 msgid "Солдат 6"
-msgstr ""
+msgstr "Soldat 6"
 
 # game/scripts/sell_books_game/characters.rpy:227
 msgid "Дрункард"
-msgstr ""
+msgstr "Ivrogne"
 
 # game/scripts/sell_books_game/characters.rpy:235
 msgid "Алхими"
@@ -414,13 +414,13 @@ msgstr "Lilith"
 
 # game/scripts/sell_books_game/characters.rpy:917
 msgid "Курт"
-msgstr ""
+msgstr "Kurt"
 
 # game/scripts/sell_books_game/characters.rpy:924
 msgid "Лоурент"
-msgstr ""
+msgstr "Laurent"
 
 # game/scripts/sell_books_game/characters.rpy:931
 msgid "Рыжая девушка"
-msgstr ""
+msgstr "Fille rousse"
 
