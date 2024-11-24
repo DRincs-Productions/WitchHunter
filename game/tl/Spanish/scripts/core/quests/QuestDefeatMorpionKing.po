@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-11-24 07:32\n"
+"PO-Revision-Date: 2024-11-24 09:22\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestDefeatMorpionKing.rpy:3
 msgid "Одолеть короля морпионов"
@@ -18,9 +18,9 @@ msgstr "Derrota al rey de los morpiones"
 
 # game/scripts/core/quests/QuestDefeatMorpionKing.rpy:16
 msgid "Отнести Миранду в замок"
-msgstr ""
+msgstr "Lleva a Miranda al castillo"
 
 # game/scripts/core/quests/QuestDefeatMorpionKing.rpy:16
 msgid "Сразиться с Королем морпионов"
-msgstr ""
+msgstr "Para luchar contra el Rey Morpión."
 
