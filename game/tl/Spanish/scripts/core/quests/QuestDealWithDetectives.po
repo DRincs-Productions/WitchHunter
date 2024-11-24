@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:18\n"
+"PO-Revision-Date: 2024-11-24 07:32\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestDealWithDetectives.rpy:3
 msgid "Разобраться с детективами"
-msgstr ""
+msgstr "El trato con los detectives"
 
 # game/scripts/core/quests/QuestDealWithDetectives.rpy:16
 msgid "Проникнуть в полицейский участок"
-msgstr ""
+msgstr "Infíltrate en una comisaría"
 
 # game/scripts/core/quests/QuestDealWithDetectives.rpy:16
 msgid "Найти информацию о Медине в полицейском участке"
-msgstr ""
+msgstr "Encuentre información sobre Medina en la comisaría"
 
 # game/scripts/core/quests/QuestDealWithDetectives.rpy:16
 msgid "Отвести Медину домой"
-msgstr ""
+msgstr "Para llevar a Medina a casa"
 
