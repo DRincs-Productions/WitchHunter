@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-07-05 00:21\n"
+"PO-Revision-Date: 2024-11-24 11:57\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
@@ -174,7 +174,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:94 #-#-# translate crowdin cedrick_win_1_6a7dc948:
 msgid "[_cedrick_] Довольно скучно играть без приза. Как насчет пари? Проигравший исполняет желание победителя?"
-msgstr ""
+msgstr "[_cedrick_] C'est assez ennuyeux de jouer sans prix. Que dis-tu d'un pari ? Le perdant exauce le souhait du gagnant ?"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:95 #-#-# translate crowdin cedrick_win_1_45ed82f3:
 msgid "[_elion_] Э-это не честно, ты же выигрываешь?"
@@ -202,7 +202,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:101 #-#-# translate crowdin cedrick_win_1_ee9d1d0f:
 msgid "[_elion_] Н-ну тогда... Хочу, чтобы ты сделал мне куни"
-msgstr ""
+msgstr "[_elion_] Bien, alors. Je veux que tu me fasses un cunni"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:102 #-#-# translate crowdin cedrick_win_1_6eac3ad8:
 msgid "[_cedrick_] Хах, договорились. Продолжим?"
