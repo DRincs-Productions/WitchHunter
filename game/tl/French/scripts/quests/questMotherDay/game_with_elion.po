@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-11-25 06:35\n"
+"PO-Revision-Date: 2024-11-25 07:48\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
@@ -398,7 +398,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:231 #-#-# translate crowdin gallery_d_110_7c1d029a:
 msgid "[_elion_] Мммммввв.. Это.. Аааххх.. Это против правил.."
-msgstr ""
+msgstr "[_elion_] Mmmmm. C'est... Aaahhhh. C'est contre les règles."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:233 #-#-# translate crowdin gallery_d_110_e9bf3b08:
 msgid "[_cedrick_] Разве? Мы же не оговаривали правила. Никто не запрещал мне тебе мешать"
@@ -410,7 +410,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:237 #-#-# translate crowdin gallery_d_110_10c36148:
 msgid "[_cedrick_] А разве честно иметь такое прекрасное тело? Я на него отвлекся в первой игре, вот и проиграл"
-msgstr ""
+msgstr "[_cedrick_] Est-ce que c'est juste d'avoir un si beau corps ? J'ai été distrait par lui lors de la première partie, et j'ai perdu."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:239 #-#-# translate crowdin gallery_d_110_753b7a00:
 msgid "[_elion_] Мммххх.. Э-это всего лишь отговорки.."
