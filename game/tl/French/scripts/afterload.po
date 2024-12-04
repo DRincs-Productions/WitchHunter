@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-26 10:39\n"
+"PO-Revision-Date: 2024-12-04 10:37\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/afterload.rpy:199 #-#-# translate crowdin after_load_79db8d33:
 msgid "[_centered_] Выбранное сохранение не поддерживается и вы не сможете получить новый контент."
@@ -22,11 +22,11 @@ msgstr "[_centered_] Le chargement de cette sauvegarde peut provoquer des erreur
 
 # game/scripts/afterload.rpy:205 #-#-# translate crowdin after_load_8db42109:
 msgid "[_centered_] Просьба, не сообщать разработчику о найденных ошибках после загрузки не поддерживаемого сохранения."
-msgstr "[_centered_] Veuillez ne pas signaler au développeur les bogues trouvés après avoir téléchargé une sauvegarde non prise en charge."
+msgstr "[_centered_] Merci de ne pas signaler de bugs au développeur après avoir chargé une sauvegarde non prise en charge."
 
 # §translate crowdin strings: #|#|# # game/scripts/afterload.rpy:202
 msgid "Вы уверены что хотите загрузить неподдерживаемое сохранение?"
-msgstr "Etes-vous sûr de vouloir charger une sauvegarde non supportée ?"
+msgstr "Êtes-vous sûr de vouloir charger une sauvegarde non supportée ?"
 
 # game/scripts/afterload.rpy:217
 msgid "Брайан.. Это Элион.. мне очень плохо… Нам нужно срочно увидеться, ты можешь прийти?"
