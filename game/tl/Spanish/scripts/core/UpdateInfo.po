@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 10:42\n"
+"PO-Revision-Date: 2025-03-19 02:58\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/core/UpdateInfo.rpy:272 #-#-# translate crowdin update_info_end_label_ab20a80b:
 msgid "Конец версии [config.version]"
-msgstr ""
+msgstr "Fin de la versión [config.version]"
 
 # §translate crowdin strings: #|#|# # game/scripts/core/UpdateInfo.rpy:176
 msgid "Продолжить"
