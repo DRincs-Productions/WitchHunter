@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-07 13:09\n"
+"PO-Revision-Date: 2025-03-19 03:54\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:5 #-#-# translate crowdin elyon_action_show_tongue_root_3_443fd13f:
 msgid "[_cedrick_] Элион, не покажешь мне свой язычок?"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:12 #-#-# translate crowdin elyon_action_show_tongue_root_3_09d5fccb:
 msgid "[_elion_] В-вот.."
-msgstr ""
+msgstr "[_elion_] A-aquí..."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:13 #-#-# translate crowdin elyon_action_show_tongue_root_3_ea344ce6:
 msgid "[_cedrick_] Прелестно"
