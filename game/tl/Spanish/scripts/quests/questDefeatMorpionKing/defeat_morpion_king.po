@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:00\n"
+"PO-Revision-Date: 2025-03-19 21:50\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -1486,7 +1486,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1002 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_b4f96dc9:
 msgid "[_cedrick_] Хм.."
-msgstr ""
+msgstr "[_cedrick_] Mmmm..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1006 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_2e096339:
 msgid "[_miranda_] В-третьих, ты не сможешь убедить человека в том, что противоречит его важной внутренней установке. Например, ты не сможешь убедить Корнелию в том, что она тебя искренне любит"
