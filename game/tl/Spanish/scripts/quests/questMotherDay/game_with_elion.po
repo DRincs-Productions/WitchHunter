@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:10\n"
+"PO-Revision-Date: 2025-03-19 03:54\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
@@ -138,7 +138,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:63 #-#-# translate crowdin game_with_elion_bc95ce37:
 msgid "[_elion_] Р-рик!"
-msgstr ""
+msgstr "[_elion_] R-Rick!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:65 #-#-# translate crowdin game_with_elion_c17c34ca:
 msgid "[_cedrick_] Хах, да шучу я, шучу"
@@ -194,7 +194,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:99 #-#-# translate crowdin cedrick_win_1_bc95ce37:
 msgid "[_elion_] Р-рик!"
-msgstr ""
+msgstr "[_elion_] R-Rick!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:100 #-#-# translate crowdin cedrick_win_1_a27b2527:
 msgid "[_cedrick_] Что? Мы этого еще не делали"
@@ -246,7 +246,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:126 #-#-# translate crowdin elion_win_1_bc95ce37:
 msgid "[_elion_] Р-рик!"
-msgstr ""
+msgstr "[_elion_] R-Rick!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:127 #-#-# translate crowdin elion_win_1_304006c8:
 msgid "[_cedrick_] Что? Все честно"
