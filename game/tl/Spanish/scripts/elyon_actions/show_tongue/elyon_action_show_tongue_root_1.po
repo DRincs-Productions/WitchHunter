@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-19 23:07\n"
+"PO-Revision-Date: 2025-03-20 05:10\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:5 #-#-# translate crowdin elyon_action_show_tongue_root_1_4a6d3f35:
 msgid "[_cedrick_] Отлично, тогда начнем с малого. Покажи мне свой язык"
@@ -86,25 +86,25 @@ msgstr "[_cedrick_] ¿Cómo te sientes?"
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:47 #-#-# translate crowdin elyon_action_show_tongue_enough_1_4d076862:
 msgid "[_elion_] Это было очень смущающе, Рик.."
-msgstr ""
+msgstr "[_elion_] Fue muy vergonzoso, Rick..."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:48 #-#-# translate crowdin elyon_action_show_tongue_enough_1_ca3e767d:
 msgid "[_cedrick_] Но тебе ведь стало легче? Как себя чувствуешь?"
-msgstr ""
+msgstr "[_cedrick_] ¿Pero te hizo sentir mejor? ¿Cómo te sientes?"
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:51 #-#-# translate crowdin elyon_action_show_tongue_enough_1_0d8dced8:
 msgid "[_elion_] Я, мм.. Думаю да, кажется.. Кажется мне стало чуточку лучше"
-msgstr ""
+msgstr "[_elion_] Yo, uh... creo que sí, creo... creo que me siento un poco mejor."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:52 #-#-# translate crowdin elyon_action_show_tongue_enough_1_f73211da:
 msgid "[_elion_] (Кажется от этого я только больше возбудилась.. Но, вдруг в этом и заключается часть помощи Рика. Пожалуй, просто ему доверюсь)"
-msgstr ""
+msgstr "[_elion_] (Parece que esto solo me emocionó más... Pero, de repente, esto es parte de la ayuda de Rick. Tal vez simplemente confíe en él.)"
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:53 #-#-# translate crowdin elyon_action_show_tongue_enough_1_36c05596:
 msgid "[_cedrick_] Отлично, рад, что помог"
-msgstr ""
+msgstr "[_cedrick_] Genial, me alegro de haber ayudado."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:54 #-#-# translate crowdin elyon_action_show_tongue_enough_1_d231aab0:
 msgid "[_elion_] И-и я, Рик, спасибо"
-msgstr ""
+msgstr "[_elion_] Muy bien Rick, gracias."
 
