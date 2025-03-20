@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:10\n"
+"PO-Revision-Date: 2025-03-20 20:55\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/main_menu/cheat_menu.rpy:6
 msgid "Галерея разблокирована"
-msgstr ""
+msgstr "Galería desbloqueada"
 
 # game/scripts/main_menu/cheat_menu.rpy:8
 msgid "Введите чит-код"
-msgstr ""
+msgstr "Introduce el código de trucos"
 
 # game/scripts/main_menu/cheat_menu.rpy:10
 msgid "Неверный чит-код"
-msgstr ""
+msgstr "Código de trucos no válido"
 
 # game/scripts/main_menu/cheat_menu.rpy:43
 msgid "Введите чит-код:"
-msgstr ""
+msgstr "Ingrese el código de trucos:"
 
 # game/scripts/main_menu/cheat_menu.rpy:59
 msgid "Применить"
