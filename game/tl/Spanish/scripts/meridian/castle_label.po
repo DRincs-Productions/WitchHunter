@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 10:48\n"
+"PO-Revision-Date: 2025-03-20 20:55\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/meridian/castle_label.rpy:12
 msgid "Тронный зал"
@@ -34,11 +34,11 @@ msgstr "Cuarteles"
 
 # game/scripts/meridian/castle_label.rpy:12
 msgid "Темницы"
-msgstr "Mazmorras"
+msgstr "Calabozos"
 
 # game/scripts/meridian/castle_label.rpy:12
 msgid "Отправиться К Алхими"
-msgstr ""
+msgstr "A Alchemy"
 
 # game/scripts/meridian/castle_label.rpy:12
 msgid "Вернуться"
@@ -46,33 +46,33 @@ msgstr "Volver"
 
 # game/scripts/meridian/castle_label.rpy:62
 msgid "Темница 1"
-msgstr "Mazmorra 1"
+msgstr "Calabozo 1"
 
 # game/scripts/meridian/castle_label.rpy:62
 msgid "Темница 2"
-msgstr "Mazmorra 2"
+msgstr "Calabozo 2"
 
 # game/scripts/meridian/castle_label.rpy:62
 msgid "Темница 3"
-msgstr "Mazmorra 3"
+msgstr "Calabozo 3"
 
 # game/scripts/meridian/castle_label.rpy:62
 msgid "Темница Вилл"
-msgstr ""
+msgstr "Calabozo de Will"
 
 # game/scripts/meridian/castle_label.rpy:62
 msgid "Темница Ирмы"
-msgstr ""
+msgstr "Calabozo de Irma"
 
 # game/scripts/meridian/castle_label.rpy:64
 msgid "Темница Алхими"
-msgstr "Mazmorra de la Alchemy"
+msgstr "Calabozo de Alchemy"
 
 # game/scripts/meridian/castle_label.rpy:71
 msgid "Темница Корнелии"
-msgstr "Mazmorra de Cornelia"
+msgstr "Calabozo de Cornelia"
 
 # game/scripts/meridian/castle_label.rpy:78
 msgid "Темница Ирмы и Тарани"
-msgstr ""
+msgstr "Calabozo de Irma y Tarani"
 
