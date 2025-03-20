@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-19 03:54\n"
+"PO-Revision-Date: 2025-03-20 22:02\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
@@ -522,7 +522,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:299 #-#-# translate crowdin elion_final_win_9201bf31:
 msgid "[_cedrick_] Черт.."
-msgstr ""
+msgstr "[_cedrick_] (Tonterías...)"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:300 #-#-# translate crowdin elion_final_win_06d3efb7:
 msgid "[_elion_]  Ухахахаха!! Ну что, узрел всю мою мощь!?"
