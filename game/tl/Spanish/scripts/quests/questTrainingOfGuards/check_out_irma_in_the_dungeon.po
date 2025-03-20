@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:11\n"
+"PO-Revision-Date: 2025-03-20 22:02\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:4 #-#-# translate crowdin check_out_irma_in_the_dungeon_a20cefa7:
 msgid "..."
@@ -330,7 +330,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:142 #-#-# translate crowdin gallery_d_092_795678bb:
 msgid "[_irma_] ..."
-msgstr ""
+msgstr "[_irma_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:143 #-#-# translate crowdin gallery_d_092_ba1ccb15:
 msgid "[_cedrick_] Идем"
