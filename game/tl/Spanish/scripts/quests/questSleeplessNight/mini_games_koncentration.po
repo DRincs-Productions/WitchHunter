@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-21 03:40\n"
+"PO-Revision-Date: 2025-03-21 04:46\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:162 #-#-# translate crowdin podskazka_f6227483:
 msgid "Следующая мини игра представляет из себя некое подобие мини игры из старых флеш игр и вероятно вы могли уже сталкивался с подобным."
@@ -354,7 +354,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:363 #-#-# translate crowdin gallery_d_102_8fba1ecf:
 msgid "[_will_] ....."
-msgstr ""
+msgstr "[_will_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:367 #-#-# translate crowdin gallery_d_102_45272c5c:
 msgid "[_will_] Ахах, я... Т-только проснулась... Вот и не подумала об одежде..."
@@ -750,7 +750,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:653 #-#-# translate crowdin gallery_d_102_8fba1ecf_1:
 msgid "[_will_] ....."
-msgstr ""
+msgstr "[_will_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:654 #-#-# translate crowdin gallery_d_102_d85ff460:
 msgid "[_cedrick_] Ладно, я все равно тоже собирался сходить ей за подарком"
