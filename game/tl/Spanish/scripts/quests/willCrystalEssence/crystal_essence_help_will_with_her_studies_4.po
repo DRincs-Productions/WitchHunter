@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:07\n"
+"PO-Revision-Date: 2025-03-21 05:49\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:5 #-#-# translate crowdin gallery_d_057_8b9f713b:
 msgid "[_centered_] {size=37}ПОЗЖЕ, ВЕЧЕРОМ{/size}"
@@ -134,11 +134,11 @@ msgstr ""
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:73 #-#-# translate crowdin gallery_d_058_bcd124bf:
 msgid "[_will_] ..."
-msgstr ""
+msgstr "[_will_] ..."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:74 #-#-# translate crowdin gallery_d_058_bcd124bf_1:
 msgid "[_will_] ..."
-msgstr ""
+msgstr "[_will_] ..."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_4.rpy:75 #-#-# translate crowdin gallery_d_058_e5205ada:
 msgid "[_will_] Это был сон.. просто сон.."
