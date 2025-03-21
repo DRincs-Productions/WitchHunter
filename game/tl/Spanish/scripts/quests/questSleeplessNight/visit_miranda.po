@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:11\n"
+"PO-Revision-Date: 2025-03-21 05:49\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:7 #-#-# translate crowdin visit_miranda_5ce6eb98:
 msgid "[_miranda_] Седрик, а вот и ты. Я как раз хотела сообщить тебе пару новостей"
@@ -130,7 +130,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:115 #-#-# translate crowdin visit_miranda_10242dc1:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:119 #-#-# translate crowdin visit_miranda_9154be05:
 msgid "[_miranda_] Ладно, думаю тебе не повредит провести день-другой в спокойном человеческом обществе"
@@ -146,7 +146,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:131 #-#-# translate crowdin visit_miranda_10242dc1_1:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:135 #-#-# translate crowdin visit_miranda_ae22afb7:
 msgid "[_cedrick_] Хах, можешь не переживать. Что ж, я пойду"
