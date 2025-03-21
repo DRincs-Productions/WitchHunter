@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:12\n"
+"PO-Revision-Date: 2025-03-21 05:49\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:10 #-#-# translate crowdin go_to_meredian_to_miranda_f6c57393:
 msgid "[_cedrick_] Я здесь. Пора устроить собрание"
@@ -66,7 +66,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:47 #-#-# translate crowdin go_to_meredian_to_miranda_10242dc1:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:48 #-#-# translate crowdin go_to_meredian_to_miranda_1f6be6e5:
 msgid "[_bulj_] ..."
@@ -110,7 +110,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:64 #-#-# translate crowdin go_to_meredian_to_miranda_10242dc1_1:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:65 #-#-# translate crowdin go_to_meredian_to_miranda_20d3ca20:
 msgid "[_cedrick_] Поэтому, сейчас мы делаем ставку на стражниц. И в этом самом подземелье мы устроим для них достойный спектакль"
@@ -302,7 +302,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:188 #-#-# translate crowdin go_to_meredian_to_miranda_10242dc1_2:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:192 #-#-# translate crowdin go_to_meredian_to_miranda_9b72ecb5:
 msgid "[_bulj_] Тогда, как мы поступим со Стражницами, лорд Седрик?"
@@ -446,7 +446,7 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:311 #-#-# translate crowdin go_to_meredian_to_miranda_10242dc1_3:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:315 #-#-# translate crowdin go_to_meredian_to_miranda_f4c7f3e5:
 msgid "[_miranda_] Ч-что!? Н-но не мог же он подслушать нас через барьер"
@@ -470,7 +470,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:332 #-#-# translate crowdin go_to_meredian_to_miranda_10242dc1_4:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:333 #-#-# translate crowdin go_to_meredian_to_miranda_1f6be6e5_2:
 msgid "[_bulj_] ..."
@@ -846,7 +846,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:579 #-#-# translate crowdin gallery_d_088_bcd124bf:
 msgid "[_will_] ..."
-msgstr ""
+msgstr "[_will_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:580 #-#-# translate crowdin gallery_d_088_2c3150e4:
 msgid "[_will_] (Рик... Так все это время ты...)"
@@ -1330,7 +1330,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:821 #-#-# translate crowdin gallery_d_091_bcd124bf:
 msgid "[_will_] ..."
-msgstr ""
+msgstr "[_will_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda.rpy:825 #-#-# translate crowdin gallery_d_091_5d928ffa:
 msgid "[_cedrick_] Но, есть у меня одна идея. Решение временное, но оно может сработать"
