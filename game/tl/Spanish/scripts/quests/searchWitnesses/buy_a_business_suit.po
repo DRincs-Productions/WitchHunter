@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-20 23:27\n"
+"PO-Revision-Date: 2025-03-21 03:40\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:3 #-#-# translate crowdin buy_a_business_suit_cdeda416:
 msgid "У меня сейчас не хватает денег на деловой костюм"
@@ -1658,7 +1658,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:764 #-#-# translate crowdin gallery_d_080_f89f7db9:
 msgid "[_cedrick_] ....."
-msgstr ""
+msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:765 #-#-# translate crowdin gallery_d_080_6fda7d16:
 msgid "[_cornelia_] Таких как ты должны сжигать на электрическом стуле за все те злодеяния, что ты совершил со мной и остальными девочками!"
