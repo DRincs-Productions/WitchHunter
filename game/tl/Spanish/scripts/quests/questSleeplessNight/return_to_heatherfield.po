@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:11\n"
+"PO-Revision-Date: 2025-03-21 05:49\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:6 #-#-# translate crowdin return_to_heatherfield_3555bfdd:
 msgid "[_cedrick_] Вот мы и вернулись"
@@ -130,7 +130,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:114 #-#-# translate crowdin return_to_heatherfield_bcd124bf:
 msgid "[_will_] ..."
-msgstr ""
+msgstr "[_will_] ..."
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:118 #-#-# translate crowdin return_to_heatherfield_0fdfe21c:
 msgid "[_will_] Рик?"
