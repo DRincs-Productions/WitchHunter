@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:08\n"
+"PO-Revision-Date: 2025-03-21 05:49\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:3 #-#-# translate crowdin crystal_essence_2_go_to_will_home_8f648b59:
 msgid "[_centered_] {size=37}В ДОМЕ СЕМЕЙСТВА ВЭНДОМ{/size}"
@@ -298,7 +298,7 @@ msgstr "[_susan_] ..."
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:119 #-#-# translate crowdin gallery_d_060_bcd124bf:
 msgid "[_will_] ..."
-msgstr ""
+msgstr "[_will_] ..."
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:121 #-#-# translate crowdin gallery_d_060_ba5d4120:
 msgid "[_susan_] Что ж.. Вилл, о том, что ты видела сегодня.."
