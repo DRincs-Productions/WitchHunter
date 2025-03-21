@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-20 22:02\n"
+"PO-Revision-Date: 2025-03-21 05:49\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:7 #-#-# translate crowdin conversation_with_guards_edb4f255:
 msgid "[_cedrick_] Дальше я сам, Булдж, спасибо. Как закончу я тебя вызову"
@@ -146,7 +146,7 @@ msgstr ""
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:104 #-#-# translate crowdin dialog_captive_will_bcd124bf:
 msgid "[_will_] ..."
-msgstr ""
+msgstr "[_will_] ..."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:106 #-#-# translate crowdin dialog_captive_will_1ef4ebff:
 msgid "[_will_] Ч-что!? Так тебе не понравилось!? Если так, то я могу быть лучше.. М-мне просто нужно больше практики"
@@ -186,7 +186,7 @@ msgstr ""
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:124 #-#-# translate crowdin dialog_captive_will_5a70d2c0:
 msgid "[_will_] Д-да.."
-msgstr ""
+msgstr "[_elion_] S-Sí..."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:126 #-#-# translate crowdin dialog_captive_will_26c27d8c:
 msgid "[_tarani_] Пф.."
