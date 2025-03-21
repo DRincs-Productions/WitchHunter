@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 10:51\n"
+"PO-Revision-Date: 2025-03-21 05:49\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:3 #-#-# translate crowdin take_medina_home_74be0a74:
 msgid "[_centered_] {size=37}СЕДРИК ОТВОДИТ МЕДИНУ ДОМОЙ, В ВЫСОТКУ, В КОТОРОЙ ТАК ЖЕ ЖИВЕТ И КОРНЕЛИЯ{/size}"
@@ -310,7 +310,7 @@ msgstr ""
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:116 #-#-# translate crowdin gallery_d_071_835b63bc:
 msgid "[_cedrick_] Ну, я.."
-msgstr ""
+msgstr "[_cedrick_] Bueno, yo..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:119 #-#-# translate crowdin gallery_d_071_004cf1fd:
 msgid "[_elion_] Рик.. Я это очень ценю.. Ценю всю твою помощь и поддержку.. Но прошу, береги себя.."
