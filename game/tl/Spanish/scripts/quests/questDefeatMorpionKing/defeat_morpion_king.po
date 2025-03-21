@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-19 21:50\n"
+"PO-Revision-Date: 2025-03-21 05:49\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -546,7 +546,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:406 #-#-# translate crowdin defeat_morpion_king_10242dc1:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:410 #-#-# translate crowdin defeat_morpion_king_cd1d4720:
 msgid "[_miranda_] Ты умирал буквально у меня на руках и все, что я могла сделать - это создать зелье из железы Короля Морпионов и надеяться на ее восстанавливающие свойства.."
@@ -614,7 +614,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:474 #-#-# translate crowdin defeat_morpion_king_10242dc1_1:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:475 #-#-# translate crowdin defeat_morpion_king_6f9ee366:
 msgid "[_cedrick_] И знаешь, в тот самый момент.. Я словно проснулся.. Словно пелена спала с моих глаз, и я наконец увидел, в чем так сильно ошибался.."
@@ -630,7 +630,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:484 #-#-# translate crowdin defeat_morpion_king_10242dc1_2:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:485 #-#-# translate crowdin defeat_morpion_king_f702d32e:
 msgid "[_cedrick_] За всю жизнь у меня не было никого ближе тебя.. Самый дорогой мне человек, всегда остающийся на моей стороне.."
@@ -666,7 +666,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:509 #-#-# translate crowdin defeat_morpion_king_10242dc1_3:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:510 #-#-# translate crowdin defeat_morpion_king_1db6d8f2:
 msgid "[_cedrick_] Ты со мной?"
@@ -1178,7 +1178,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:749 #-#-# translate crowdin gallery_d_066_10242dc1:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:750 #-#-# translate crowdin gallery_d_066_13910a94:
 msgid "[_cedrick_] ...Ладно, плохая шутка. Что ты узнала?"
