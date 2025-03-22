@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-21 05:49\n"
+"PO-Revision-Date: 2025-03-22 01:33\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:3 #-#-# translate crowdin buy_a_business_suit_cdeda416:
 msgid "У меня сейчас не хватает денег на деловой костюм"
@@ -102,7 +102,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:68 #-#-# translate crowdin buy_a_business_suit_0d0288fc:
 msgid "[_cedrick_] Ч-что!?"
-msgstr ""
+msgstr "[_cedrick_] ¿Q-qué!?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:69 #-#-# translate crowdin buy_a_business_suit_701a6c43:
 msgid "[_medina_] А ты не знал? По законодательству нашего штата детектив, участвующий в деле, может быть адвокатом одной из сторон"
@@ -598,7 +598,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:290 #-#-# translate crowdin gallery_d_076_0d0288fc:
 msgid "[_cedrick_] Ч-что!?"
-msgstr ""
+msgstr "[_cedrick_] ¿Q-qué!?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:297 #-#-# translate crowdin gallery_d_076_3c9d6979:
 msgid "[_elion_] Р-рик, ты что, подг.."
