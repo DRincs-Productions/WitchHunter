@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-22 05:31\n"
+"PO-Revision-Date: 2025-03-22 07:48\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_tough.rpy:4 #-#-# translate crowdin will_crystal_essence_final_tough_069152b1:
 msgid "Принятые ранее Седриком решения сформировали к Вилл жесткое отношение"
@@ -294,11 +294,11 @@ msgstr "[_will_] AAAah... Yo... Yo..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_tough.rpy:137 #-#-# translate crowdin will_crystal_essence_final_tough_ea568b49:
 msgid "[_cedrick_] Ох, как неприлично говорить с набитым ртом, где твои манеры? Сначала сделай дело, а потом отвечай"
-msgstr ""
+msgstr "[_cedrick_] Ay, que indecente es hablar con la boca llena, ¿dónde están tus modales? Primero haz la acción y luego responde."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_tough.rpy:139 #-#-# translate crowdin will_crystal_essence_final_tough_b258b00a:
 msgid "[_will_] Мммф..."
-msgstr ""
+msgstr "[_will_] Mmmm..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_tough.rpy:140 #-#-# translate crowdin will_crystal_essence_final_tough_9186b369:
 msgid "[_will_] (Он в открытую играется со мной.. Но даже это мне все больше нравится.. Черт..)"
