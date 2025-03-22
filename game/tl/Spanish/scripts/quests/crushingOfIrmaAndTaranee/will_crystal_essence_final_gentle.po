@@ -10,51 +10,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-21 05:49\n"
+"PO-Revision-Date: 2025-03-22 01:33\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:5 #-#-# translate crowdin will_crystal_essence_final_gentle_f319f51e:
 msgid "Принятые ранее Седриком решения сформировали к Вилл более нежное отношение"
-msgstr ""
+msgstr "Las decisiones que Cedric tomó antes formaron una actitud más tierna hacia Will"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:9 #-#-# translate crowdin will_crystal_essence_final_gentle_54a4bf53:
 msgid "[_cedrick_] Вилл, признаюсь честно, я и вправду довольно вымотался. Этот день был чертовски утомительным"
-msgstr ""
+msgstr "[_cedrick_] Will, seré honesto, en realidad estoy bastante agotado. Este día fue muy agotador."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:10 #-#-# translate crowdin will_crystal_essence_final_gentle_4f9baa18:
 msgid "[_cedrick_] Вообще не припомню, чтобы за всю мою жизнь у меня был на столько выматывающий день"
-msgstr ""
+msgstr "[_cedrick_] No recuerdo haber tenido un día tan agotador en toda mi vida."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:11 #-#-# translate crowdin will_crystal_essence_final_gentle_a1a0b7c7:
 msgid "[_cedrick_] Был бы рад с тобой еще поразвлечься, но я должен восстановиться. Думаю, тебе тоже не помешал бы отдых"
-msgstr ""
+msgstr "[_cedrick_] Me encantaría divertirme más contigo, pero necesito recuperarme. Creo que a ti también te vendría bien descansar."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:15 #-#-# translate crowdin will_crystal_essence_final_gentle_88a5c4ec:
 msgid "[_will_] Д-да, Рик, я тебя понимаю.. Конечно, отдыхай столько, сколько нужно.."
-msgstr ""
+msgstr "[_will_] Sí, Rick, sé lo que quieres decir. Claro, descansa todo lo que necesites."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:16 #-#-# translate crowdin will_crystal_essence_final_gentle_173f4256:
 msgid "[_cedrick_] Вот и отлично. Увидимся позже, Вилл"
-msgstr ""
+msgstr "[_cedrick_] Genial. Hasta luego, Will."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:20 #-#-# translate crowdin will_crystal_essence_final_gentle_57083ab0:
 msgid "[_will_] Ага, до скорого.."
-msgstr ""
+msgstr "[_will_] Sí, hasta pronto..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:21 #-#-# translate crowdin will_crystal_essence_final_gentle_52f8b5dc:
 msgid "[_cedrick_] (Черт, наконец-то я нормально отдохну.. Этот день был чертовски длинным)"
-msgstr ""
+msgstr "[_cedrick_] (Joder, por fin estoy descansando como es debido. Ha sido un día larguísimo)."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:22 #-#-# translate crowdin will_crystal_essence_final_gentle_a7991ea8:
 msgid "[_will_] (Он что, серьезно просто уйдет и вот так меня оставит? После того, как я призналась, что почти на все готова?! Да как он.. Черт..)"
-msgstr ""
+msgstr "[_will_] (¿En serio se va a ir y dejarme así? ¡¿Después de admitir que estoy casi lista para cualquier cosa?! ¿Cómo ha podido...? Maldita sea.)"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:27 #-#-# translate crowdin gallery_d_074_91a3d91a:
 msgid "ТОЙ ЖЕ НОЧЬЮ В СПАЛЬНЕ СЬЮЗАН"
-msgstr ""
+msgstr "ESA MISMA NOCHE EN EL DORMITORIO DE SUSAN"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:28 #-#-# translate crowdin gallery_d_074_838d0cd0:
 msgid "[_will_] Рик.."
-msgstr ""
+msgstr "[_will_] Rick..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:29 #-#-# translate crowdin gallery_d_074_49316299:
 msgid "[_cedrick_] ..."
@@ -66,63 +66,63 @@ msgstr "[_will_] ..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:31 #-#-# translate crowdin gallery_d_074_b308b998:
 msgid "[_will_] Рик, проснись.."
-msgstr ""
+msgstr "[_will_] Rick, despierta..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:32 #-#-# translate crowdin gallery_d_074_0d0288fc:
 msgid "[_cedrick_] Ч-что!?"
-msgstr ""
+msgstr "[_cedrick_] ¿Q-qué!?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:37 #-#-# translate crowdin gallery_d_074_9efcae9e:
 msgid "[_will_] Т-тише, ты можешь разбудить маму"
-msgstr ""
+msgstr "[_will_] Silencio, puedes despertar a mamá."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:38 #-#-# translate crowdin gallery_d_074_8f52ac0f:
 msgid "[_cedrick_] В-вилл, что ты здесь делаешь? Который час?"
-msgstr ""
+msgstr "[_cedrick_] W-Will, ¿qué estás haciendo aquí? ¿Qué hora es?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:40 #-#-# translate crowdin gallery_d_074_1e2a3464:
 msgid "[_will_] Сейчас поздняя ночь. Я дождалась, пока мама окончательно уснет, чтобы она точно не могла нам помешать"
-msgstr ""
+msgstr "Es tarde en la noche. Esperé hasta que mi madre finalmente se durmiera para que definitivamente no pudiera molestarnos."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:41 #-#-# translate crowdin gallery_d_074_04e8169c:
 msgid "[_cedrick_] (Ох, кажется, я понял, для чего она здесь. Эффект эссенции не позволяет ей больше терпеть)"
-msgstr ""
+msgstr "[_cedrick_] (Oh, creo que entiendo por qué ella está aquí. El efecto de la esencia no le permite aguantar más.)"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:43 #-#-# translate crowdin gallery_d_074_a11786d2:
 msgid "[_will_] Я больше не могу держать себя в руках, Рик.. Игрушки уже не помогают.. Совсем не помогают.."
-msgstr ""
+msgstr "[_will_] No puedo aguantar más, Rick. Los juguetes no funcionan. Para nada."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:44 #-#-# translate crowdin gallery_d_074_c7721755:
 msgid "[_will_] Я пробовала много разных.. Но я не могу от них кончить.. Мне нужен настоящий член.. Т-твой член, Рик"
-msgstr ""
+msgstr "[_will_] He probado muchos diferentes. Pero no puedo venirme de ellos. Necesito una polla de verdad. T-tu polla, Rick."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:46 #-#-# translate crowdin gallery_d_074_a9a8edb6:
 msgid "[_will_] Только от одной мысли о нем я уже готова кончить.. П-помоги мне"
-msgstr ""
+msgstr "[_will_] Sólo de pensar en él me dan ganas de correrme. Ayúdame."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:48 #-#-# translate crowdin gallery_d_074_7b085deb:
 msgid "[_will_] Посмотри, я уже вся насквозь мокрая.."
-msgstr ""
+msgstr "[_will_] Mírame, estoy empapada."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:49 #-#-# translate crowdin gallery_d_074_c5f85631:
 msgid "[_cedrick_] Вилл, не уверен, что сейчас у меня достаточно сил, чтобы.."
-msgstr ""
+msgstr "[_cedrick_] Will, no estoy seguro de tener suficiente fuerza para..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:51 #-#-# translate crowdin gallery_d_074_5d023864:
 msgid "[_will_] Н-ничего, я сделаю все сама.. Расслабься и получай удовольствие"
-msgstr ""
+msgstr "[_will_] Lo haré todo yo sola. Relájate y disfruta."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:53 #-#-# translate crowdin gallery_d_074_214fead4:
 msgid "[_will_] Я постараюсь сделать все правильно.."
-msgstr ""
+msgstr "[_will_] Intentaré hacerlo lo mejor posible."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:54 #-#-# translate crowdin gallery_d_074_b539417a:
 msgid "[_cedrick_] Вилл, здесь же Сьюзан.."
-msgstr ""
+msgstr "[_cedrick_] Will, Susan está aquí."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:56 #-#-# translate crowdin gallery_d_074_13325513:
 msgid "[_will_] Мне плевать.. Я так больше не могу.."
-msgstr ""
+msgstr "[_will_] No me importa... ya no puedo hacer esto..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:57 #-#-# translate crowdin gallery_d_074_49316299_1:
 msgid "[_cedrick_] ..."
@@ -130,83 +130,83 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:58 #-#-# translate crowdin gallery_d_074_e8efd9d3:
 msgid "[_cedrick_] Тогда постараемся не разбудить ее, хорошо?"
-msgstr ""
+msgstr "[_cedrick_] Entonces vamos a tratar de no despertarla, ¿de acuerdo?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:60 #-#-# translate crowdin gallery_d_074_dca11e96:
 msgid "[_will_] Сделаю все, что в моих силах"
-msgstr ""
+msgstr "[_will_] Haré lo que pueda."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:62 #-#-# translate crowdin gallery_d_074_1cb8ceeb:
 msgid "[_cedrick_] Хорошо, я тоже помогу тебе с твоей проблемой"
-msgstr ""
+msgstr "[_cedrick_] Muy bien, te ayudaré con tu problema también."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:66 #-#-# translate crowdin gallery_d_074_deaaf71b:
 msgid "[_will_] Ммммввв.. Н-наконец-то.."
-msgstr ""
+msgstr "[_will_] Mmmmwww. Finalmente."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:67 #-#-# translate crowdin gallery_d_074_2857a125:
 msgid "[_cedrick_] Уххх, Вилл, ты отлично взяла его в рот"
-msgstr ""
+msgstr "[_cedrick_] Uhhh, Will, lo tomaste perfectamente en tu boca."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:69 #-#-# translate crowdin gallery_d_074_2548a2d8:
 msgid "[_will_] А ты.. Аааххх.. Мне так нравится, как ты ласкаешь мою киску ртом.."
-msgstr ""
+msgstr "[_will_] Y tú... Aaahhhh. Me encanta la forma en que acaricias mi coño con tu boca."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:70 #-#-# translate crowdin gallery_d_074_aea19757:
 msgid "[_will_] Мммввв, я.. я так довольно быстро кончу.."
-msgstr ""
+msgstr "[_will_] Mmmwww, voy... voy a correrme tan rápido."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:71 #-#-# translate crowdin gallery_d_074_4f5166e6:
 msgid "[_cedrick_] Только не разбуди Сьюзан.."
-msgstr ""
+msgstr "[_cedrick_] No despiertes a Susan."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:72 #-#-# translate crowdin gallery_d_074_217d410c:
 msgid "[_will_] Мммвв.. Ч-черт, неужели она регулярно получала такое наслаждение.. Пока я довольствовалась игрушками.. Н-не честно.."
-msgstr ""
+msgstr "[_will_] Maldita sea, ella realmente obtenía tanto placer con regularidad... Mientras yo me conformaba con juguetes... N-no es justo..."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:73 #-#-# translate crowdin gallery_d_074_f9bdba87:
 msgid "[_cedrick_] Хах, если так подумать, я никогда не делал Сьюзан куни"
-msgstr ""
+msgstr "[_cedrick_] Ja, ahora que lo pienso, nunca le hice un cunnilingus a Susan."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:75 #-#-# translate crowdin gallery_d_074_3e2a9010:
 msgid "[_will_] Ч-что, правда? Оооххх, н-неужели ко мне на столько особенное отношение?"
-msgstr ""
+msgstr "[_will_] ¿En serio? Oohhhh, ¿realmente soy tan especial?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:76 #-#-# translate crowdin gallery_d_074_d2d931d8:
 msgid "[_cedrick_] (Нет, скорее дело в том, что ты сама выбрала эту позу и мне ничего другого не остается, кроме как использовать это положение)"
-msgstr ""
+msgstr "[_cedrick_] (No, es más el hecho de que usted mismo eligió esta pose y no tengo más remedio que usar esta posición.)"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:77 #-#-# translate crowdin gallery_d_074_bfead733:
 msgid "[_cedrick_] За особое отношение нужно будет заплатить особенную цену, понимаешь?"
-msgstr ""
+msgstr "[_cedrick_] Tendrás que pagar un precio especial por un trato especial, ¿sabes?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:78 #-#-# translate crowdin gallery_d_074_467ad4c3:
 msgid "[_will_] Ммммвввв, о-о чем ты, Рик?"
-msgstr ""
+msgstr "[_will_] Mmmm, ¿de qué estás hablando, Rick?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:79 #-#-# translate crowdin gallery_d_074_c61b6b19:
 msgid "[_cedrick_] Сегодня я буду с тобой нежен, думаю, ты заслужила за свою инициативность"
-msgstr ""
+msgstr "[_cedrick_] Hoy seré suave contigo, creo que te lo mereces por tu iniciativa."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:80 #-#-# translate crowdin gallery_d_074_565535cd:
 msgid "[_cedrick_] Но в следующий раз не думай, что я буду настолько снисходителен. Тебя еще стоит научить манерам и правильному поведению, стражница"
-msgstr ""
+msgstr "[_cedrick_] Pero la próxima vez no creas que seré tan indulgente. Todavía necesitas que te enseñen modales y comportamiento adecuado, guardiana."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:81 #-#-# translate crowdin gallery_d_074_509da050:
 msgid "[_will_] Ох.. Я поняла, Рик.. С-спасибо тебе.. Я так рада, что наш первый секс будет таким"
-msgstr ""
+msgstr "[_will_] Oh... lo tengo, Rick... G-gracias... Me alegra mucho que nuestro primer sexo sea así."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:82 #-#-# translate crowdin gallery_d_074_c71f955d:
 msgid "[_cedrick_] Девочка, не забывайся, ты еще должна как следует обслужить мой член"
-msgstr ""
+msgstr "[_cedrick_] Chica, no te olvides, todavía tienes que servir a mi polla correctamente."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:84 #-#-# translate crowdin gallery_d_074_bced73ff:
 msgid "[_will_] Ахах, к-конечно, как я могу о нем забыть.. Аааааммввв"
-msgstr ""
+msgstr "[_will_] Ahah, por supuesto, ¿cómo podría olvidarme de él? Aaaaaaammmwwwww."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:85 #-#-# translate crowdin gallery_d_074_07d0c85a:
 msgid "[_cedrick_] Уууух, отлично.. С каждым разом сосешь все лучше"
-msgstr ""
+msgstr "[_cedrick_] Ooh, eso es bueno. Cada vez chupas mejor."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_gentle.rpy:87 #-#-# translate crowdin gallery_d_074_dae3eb1d:
 msgid "[_will_] Ммммввв, твой язык так извивается во мне, я.. Ааааахх, я скоро кончу"
