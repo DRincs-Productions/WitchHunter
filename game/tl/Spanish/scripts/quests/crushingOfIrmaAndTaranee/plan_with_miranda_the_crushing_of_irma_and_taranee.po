@@ -10,39 +10,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:29\n"
+"PO-Revision-Date: 2025-03-22 00:30\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:6 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_28eb040c:
 msgid "[_cedrick_] Миранда, за следующие два дня я планирую сокрушить Ирму и Тарани, но мне нужна твоя помощь. Хочешь матч-реванш?"
-msgstr ""
+msgstr "[_cedrick_] Miranda, planeo aplastar a Irma y Tarani en los próximos dos días, pero necesito tu ayuda. ¿Quieres la revancha?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:12 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_e0ea1ec7:
 msgid "[_miranda_] С этими мелкими стервами? Конечно!"
-msgstr ""
+msgstr "[_miranda_] ¿Con esas zorritas? ¡Claro!"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:16 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_8d819dcd:
 msgid "[_cedrick_] Отлично. Я разработал план. Ты должна будешь попасть им на глаза, чтобы они последовали за тобой"
-msgstr ""
+msgstr "[_cedrick_] Genial. He ideado un plan. Tendrás que ponerte delante de ellas para que te sigan."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:17 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_eb99a6ba:
 msgid "[_cedrick_] Приведи их в тот переулок, в котором мы сражались в прошлый раз. Я буду их ждать там"
-msgstr ""
+msgstr "[_cedrick_] Llévalos al callejón donde peleamos la última vez. Las esperaré allí."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:18 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_42a885b3:
 msgid "[_cedrick_] Не вздумай сражаться с Тарани, она с легкостью сожжет твою паутину, для тебя это не лучший соперник"
-msgstr ""
+msgstr "[_cedrick_] Ni siquiera pienses en luchar contra Tarani, ella fácilmente quemará tu red, este no es el mejor oponente para ti."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:19 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_38c20cfd:
 msgid "[_cedrick_] Лучше сосредоточься на Ирме, с Тарани я разберусь"
-msgstr ""
+msgstr "[_cedrick_] Mejor concéntrate en Irma, yo me ocuparé de Tarani."
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:23 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_e1d2de82:
 msgid "[_miranda_] Я поняла тебя, Седрик. Последуем твоему плану. Не думал использовать твою способность на ком-то из них?"
-msgstr ""
+msgstr "[_miranda_] Te entiendo, Cedric. Sigamos tu plan. ¿Has pensado en usar tu habilidad en alguna de ellas?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:27 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_eda3aecd:
 msgid "[_cedrick_] Да, но достаточно ли у нас зелий?"
-msgstr ""
+msgstr "[_cedrick_]  Sí, pero ¿tenemos suficientes pociones?"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/plan_with_miranda_the_crushing_of_irma_and_taranee.rpy:31 #-#-# translate crowdin plan_with_miranda_the_crushing_of_irma_and_taranee_936a3226:
 msgid "[_miranda_] Хм.. К тому моменту успею приготовить только зелий на одну стражницу.."
