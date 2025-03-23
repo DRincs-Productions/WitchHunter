@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-20 22:02\n"
+"PO-Revision-Date: 2025-03-23 15:57\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
@@ -642,7 +642,7 @@ msgstr "[_elion_] ..."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:353 #-#-# translate crowdin epilogMotherDay_573cade7:
 msgid "[_elion_] ......"
-msgstr ""
+msgstr "[_elion_] ......"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:354 #-#-# translate crowdin epilogMotherDay_ef84f9dc:
 msgid "[_elion_] ........."
