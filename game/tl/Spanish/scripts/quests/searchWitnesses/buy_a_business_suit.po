@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-23 06:37\n"
+"PO-Revision-Date: 2025-03-23 15:57\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:3 #-#-# translate crowdin buy_a_business_suit_cdeda416:
 msgid "У меня сейчас не хватает денег на деловой костюм"
@@ -678,7 +678,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:341 #-#-# translate crowdin gallery_d_077_3aeebb77:
 msgid "[_cedrick_] Элион.."
-msgstr ""
+msgstr "[_cedrick_] Elyon..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:344 #-#-# translate crowdin gallery_d_077_9b555502:
 msgid "[_elion_] С-слушай, Рик.. Весь этот стресс из-за суда.. Я видела, какой ты стал напряженный, когда Брайана допрашивали"
