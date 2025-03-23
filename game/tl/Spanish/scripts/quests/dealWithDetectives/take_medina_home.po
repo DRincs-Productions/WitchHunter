@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-23 09:02\n"
+"PO-Revision-Date: 2025-03-23 14:52\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:3 #-#-# translate crowdin take_medina_home_74be0a74:
 msgid "[_centered_] {size=37}СЕДРИК ОТВОДИТ МЕДИНУ ДОМОЙ, В ВЫСОТКУ, В КОТОРОЙ ТАК ЖЕ ЖИВЕТ И КОРНЕЛИЯ{/size}"
@@ -238,15 +238,15 @@ msgstr "[_cedrick_] Huh, eso es correcto."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:64 #-#-# translate crowdin gallery_d_070_680b4163:
 msgid "[_medina_] Ууухх.. Ладно, жеребец, я вроде бы пришла в норму. Можем отправиться прямо сейчас"
-msgstr ""
+msgstr "[_medina_] Uuuhh... Está bien, semental, parece que he vuelto a la normalidad. Podemos irnos ahora mismo."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:69 #-#-# translate crowdin gallery_d_070_2591e795:
 msgid "[_centered_] {size=37}МЕДИНА ДОВОЗИТ СЕДРИКА ДО КНИЖНОГО МАГАЗИНА{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}MEDINA LLEVA A CEDRIC A LA LIBRERÍA{/size}"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:75 #-#-# translate crowdin gallery_d_071_e54fd4f2:
 msgid "[_medina_] Ну вот, мы здесь"
-msgstr ""
+msgstr "[_medina_] Bueno, aquí estamos."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:79 #-#-# translate crowdin gallery_d_071_c9bc0fdd:
 msgid "[_elion_] Рик! Боже, я так волновалась! Просто места себе не находила.. Что происходит!? Почему с тобой эта женщина!?"
