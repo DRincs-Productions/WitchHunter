@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-23 14:52\n"
+"PO-Revision-Date: 2025-03-23 15:57\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:3 #-#-# translate crowdin take_medina_home_74be0a74:
 msgid "[_centered_] {size=37}СЕДРИК ОТВОДИТ МЕДИНУ ДОМОЙ, В ВЫСОТКУ, В КОТОРОЙ ТАК ЖЕ ЖИВЕТ И КОРНЕЛИЯ{/size}"
@@ -250,63 +250,63 @@ msgstr "[_medina_] Bueno, aquí estamos."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:79 #-#-# translate crowdin gallery_d_071_c9bc0fdd:
 msgid "[_elion_] Рик! Боже, я так волновалась! Просто места себе не находила.. Что происходит!? Почему с тобой эта женщина!?"
-msgstr ""
+msgstr "[_elion_] ¡Rick! ¡Dios, estaba tan preocupada! Pensé que te había pasado algo... ¿¡Qué está pasando!? ¿¡Por qué está esta mujer contigo!?"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:80 #-#-# translate crowdin gallery_d_071_ad2a8991:
 msgid "[_cedrick_] Медина, не поможешь? Ты все же представитель власти"
-msgstr ""
+msgstr "[_cedrick_] Medina, ¿puedes ayudarme? Usted es una figura de autoridad después de todo."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:83 #-#-# translate crowdin gallery_d_071_640ad564:
 msgid "[_medina_] Да-да. Сама это устроила, сама и разгребу"
-msgstr ""
+msgstr "[_medina_] Sí, sí. Lo arreglo yo misma, yo me encargo."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:85 #-#-# translate crowdin gallery_d_071_3a877023:
 msgid "[_centered_] {size=37}Медина объясняет Элион ситуацию{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Medina le explica la situación a Elyon{/size}"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:89 #-#-# translate crowdin gallery_d_071_a80d0f18:
 msgid "[_elion_] Рик - подставной подозреваемый.. Я.. Я так рада.."
-msgstr ""
+msgstr "[_elion_] Rick es un falso sospechoso... Yo... Me alegro mucho..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:94 #-#-# translate crowdin gallery_d_071_65eb48d8:
 msgid "[_elion_] Я так перепугалась за тебя, Рик.. Сначала я была в шоке, но потом поняла, что ты не мог всего этого сделать.. Я знала.."
-msgstr ""
+msgstr "[_elion_] Estaba tan asustado por ti, Rick... Al principio estaba en shock, pero luego me di cuenta de que no podías hacer todo esto... Lo sabía..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:95 #-#-# translate crowdin gallery_d_071_b3725b3a:
 msgid "[_cedrick_] Да, Элион.. Ты умница.."
-msgstr ""
+msgstr "[_cedrick_] Sí, Elyon... Eres inteligente."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:96 #-#-# translate crowdin gallery_d_071_6fe59d7d:
 msgid "[_cedrick_] Медина, оставишь нас?"
-msgstr ""
+msgstr "[_cedrick_] Medina, ¿nos dejas?"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:97 #-#-# translate crowdin gallery_d_071_f0aab5cb:
 msgid "[_medina_] Д-да.. Конечно.. Не высовывайся из магазинчика пока. Я позвоню как все улажу"
-msgstr ""
+msgstr "[_medina_] S-sí.. Por supuesto.. No saques la cabeza de la tienda todavía. Te llamaré cuando todo esté arreglado."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:98 #-#-# translate crowdin gallery_d_071_e2877632:
 msgid "[_cedrick_] Хорошо.."
-msgstr ""
+msgstr "[_cedrick_] Bien."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:104 #-#-# translate crowdin gallery_d_071_952c9d1d:
 msgid "[_elion_] Рик, почему ты мне не рассказал?.."
-msgstr ""
+msgstr "[_elion_] Rick, ¿por qué no me lo dijiste?"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:106 #-#-# translate crowdin gallery_d_071_e2955666:
 msgid "[_cedrick_] Понимаешь, Элион, я не хотел подвергать тебя опасности и.."
-msgstr ""
+msgstr "[_cedrick_] Verás, Elyon, no quería ponerte en peligro y..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:109 #-#-# translate crowdin gallery_d_071_66121df0:
 msgid "[_elion_] Как всегда.."
-msgstr ""
+msgstr "[_elion_] Como siempre."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:110 #-#-# translate crowdin gallery_d_071_9a7e9929:
 msgid "[_cedrick_] Что?"
-msgstr ""
+msgstr "[_cedrick_] ¿Qué?"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:113 #-#-# translate crowdin gallery_d_071_2b2bba74:
 msgid "[_elion_] Ты как всегда заботишься обо мне и опекаешь, жертвуя собой.."
-msgstr ""
+msgstr "[_elion_] Eres tan cariñoso y protector como siempre, sacrificándote."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:116 #-#-# translate crowdin gallery_d_071_835b63bc:
 msgid "[_cedrick_] Ну, я.."
@@ -314,67 +314,67 @@ msgstr "[_cedrick_] Bueno, yo..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:119 #-#-# translate crowdin gallery_d_071_004cf1fd:
 msgid "[_elion_] Рик.. Я это очень ценю.. Ценю всю твою помощь и поддержку.. Но прошу, береги себя.."
-msgstr ""
+msgstr "[_elion_] Rick. Realmente lo aprecio. Aprecio toda tu ayuda y apoyo. Pero por favor, cuídate."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:122 #-#-# translate crowdin gallery_d_071_a204586a:
 msgid "[_elion_] Ты же для меня сейчас самый близкий и дорогой человек.. Как же я.. без тебя.."
-msgstr ""
+msgstr "[_elion_] Eres la persona más cercana y querida para mí en este momento... No puedo... estar sin ti."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:125 #-#-# translate crowdin gallery_d_071_3aeebb77:
 msgid "[_cedrick_] Элион.."
-msgstr ""
+msgstr "[_cedrick_] Elyon..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:126 #-#-# translate crowdin gallery_d_071_daae4d98:
 msgid "[_elion_] ...."
-msgstr ""
+msgstr "[_elion_] ...."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:127 #-#-# translate crowdin gallery_d_071_573cade7:
 msgid "[_elion_] ......"
-msgstr ""
+msgstr "[_elion_] ......"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:128 #-#-# translate crowdin gallery_d_071_0dfd5113:
 msgid "[_cedrick_] Хочешь что-то сказать?"
-msgstr ""
+msgstr "[_cedrick_] ¿Quieres decir algo?"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:131 #-#-# translate crowdin gallery_d_071_51d9ea1a:
 msgid "[_elion_] Д-да, но не знаю как.."
-msgstr ""
+msgstr "[_elion_] S-sí, pero no sé cómo..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:134 #-#-# translate crowdin gallery_d_071_070869ec:
 msgid "[_cedrick_] Хах, уж постарайся как-нибудь.."
-msgstr ""
+msgstr "[_cedrick_] Jaja, intenta algo."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:137 #-#-# translate crowdin gallery_d_071_6fef923b:
 msgid "[_elion_] Я так долго думала о том, как ты и что с тобой.. Буквально все мысли были заняты этим.."
-msgstr ""
+msgstr "[_elion_] Llevo mucho tiempo pensando en ti y en lo que te pasa. He estado tan preocupada por ello."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:140 #-#-# translate crowdin gallery_d_071_1df611f4:
 msgid "[_elion_] И за то время, пока тебя не было, я в том числе поняла.. Как же мне тебя не хватает.. В интимном плане.."
-msgstr ""
+msgstr "[_elion_] Y durante el tiempo que no estuviste, también me di cuenta... Cuanto te extraño... De una manera íntima..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:143 #-#-# translate crowdin gallery_d_071_26073d66:
 msgid "[_cedrick_] Хооо, не уж то малышка Элион становится все смелее?"
-msgstr ""
+msgstr "[_cedrick_] Oooh, ¿no se está volviendo más atrevida la pequeña Elyon?"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:146 #-#-# translate crowdin gallery_d_071_40832e59:
 msgid "[_elion_] Я.. Д-да.."
-msgstr ""
+msgstr "[_elion_] Yo... S-sí."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:149 #-#-# translate crowdin gallery_d_071_2d894567:
 msgid "[_elion_] Рик.. Ты так вымотался и так устал.. Ты так много для меня сделал.. П-позволь.. Сделать твоему члену приятно!"
-msgstr ""
+msgstr "[_elion_] Rick... Estás tan agotado y cansado. Has hecho tanto por mí. Déjame... hacer que tu polla se sienta bien."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:152 #-#-# translate crowdin gallery_d_071_d86dae4e:
 msgid "[_cedrick_] Воу, над формулировками тебе еще нужно будет поработать.. Но я раскрыл твой план, ты же и сама хочешь, чтобы я прикоснулся к тебе"
-msgstr ""
+msgstr "[_cedrick_] Vas a tener que trabajar en tu redacción. Pero he revelado tu plan, quieres que te toque."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:155 #-#-# translate crowdin gallery_d_071_9bf2faad:
 msgid "[_elion_] Д-да, это правда.."
-msgstr ""
+msgstr "[_elion_] S-si, eso es verdad."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:158 #-#-# translate crowdin gallery_d_071_6a7bfffd:
 msgid "[_cedrick_] Что ж.. Пойдем в твою комнату, посмотрим, что ты придумала"
-msgstr ""
+msgstr "[_cedrick_] Bueno... vayamos a tu habitación y veamos qué se te ocurrió."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:161 #-#-# translate crowdin gallery_d_071_a20cefa7:
 msgid "..."
@@ -382,109 +382,109 @@ msgstr "..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:167 #-#-# translate crowdin gallery_d_071_3effbc1b:
 msgid "[_elion_] Мммв.. Р-рик.. Я так скучала по этим ощущениям.. Но при этом, они такие новые.."
-msgstr ""
+msgstr "[_elion_] Mmm... R-Rick... Extrañaba mucho estas sensaciones... Pero al mismo tiempo, son tan nuevas."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:168 #-#-# translate crowdin gallery_d_071_d827cc3a:
 msgid "[_cedrick_] Ммм, да, Элион, раньше на то, чтобы вытворять такое, у тебя смелости не хватало"
-msgstr ""
+msgstr "[_cedrick_] Mmm, sí, Elion, no tuviste el coraje de hacer tal cosa antes."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:169 #-#-# translate crowdin gallery_d_071_4d51ae4d:
 msgid "[_elion_] Я сумела расставить приоритеты, когда ты пропал.. Я поняла, что для меня важно и что нельзя вечно чего-то стесняться.."
-msgstr ""
+msgstr "[_elion_] Pude establecer prioridades cuando desapareciste. Me di cuenta de lo que era importante para mí y de que no siempre puedo ser tímido ante algo."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:170 #-#-# translate crowdin gallery_d_071_ada34ba6:
 msgid "[_cedrick_] Хах, даже так? Ну ты же понимаешь, что твоя киска буквально касается сейчас моего члена.. И ты сама двигаешься на нем. По сути еще одно движение и мы смогли бы заняться.."
-msgstr ""
+msgstr "[_cedrick_] Ja, ¿incluso eso? Bueno, entiendes que ahora tu coño está literalmente tocando mi pene... Y tú mismo te estás moviendo sobre él. De hecho, un movimiento más y podríamos tener..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:171 #-#-# translate crowdin gallery_d_071_2d7aeb41:
 msgid "[_elion_] В-все, не продолжай.. К-к таким разговорам я все же еще не готова.."
-msgstr ""
+msgstr "[_elion_] Detente, no continúes... Todavía no estoy preparada para este tipo de conversaciones."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:172 #-#-# translate crowdin gallery_d_071_acbf2dbd:
 msgid "[_cedrick_] Так и думал.. Просто проверял тебя. Но в любом случае это хороший прогресс.. Ммм, отличный, я бы сказал.."
-msgstr ""
+msgstr "[_cedrick_] Eso es lo que pensé. Sólo estaba vigilándote. Pero en cualquier caso, esto es un buen progreso. Mmm, excelente, diría yo."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:173 #-#-# translate crowdin gallery_d_071_3b61ebcb:
 msgid "[_elion_] Ааах.. Т-тебе нравится? Я рада.."
-msgstr ""
+msgstr "[_elion_] Aaah. ¿Te gusta? Me alegro."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:174 #-#-# translate crowdin gallery_d_071_d52d18fb:
 msgid "[_cedrick_] Твоя киска? Она отличная, продолжай.."
-msgstr ""
+msgstr "[_cedrick_] ¿Tu coño? Es genial, continúa..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:175 #-#-# translate crowdin gallery_d_071_2dd112b5:
 msgid "[_elion_] Д-да.. Моя.."
-msgstr ""
+msgstr "[_elion_] S-sí... yo..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:176 #-#-# translate crowdin gallery_d_071_3883798c:
 msgid "[_cedrick_] Ахах, Элион, ну же! Ты дрочишь свою киску, используя мой член, в таком положении уже пора начать называть вещи своими именами"
-msgstr ""
+msgstr "[_cedrick_] ¡Ah, Elyon, vamos! Estás masturbando tu coño usando mi polla, en esta posición es hora de empezar a llamar a las cosas por su nombre."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:177 #-#-# translate crowdin gallery_d_071_2cd28e69:
 msgid "[_elion_] Д-да, я поняла.."
-msgstr ""
+msgstr "[_elion_] S-si, lo entiendo..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:178 #-#-# translate crowdin gallery_d_071_92ada000:
 msgid "[_elion_] Я рада, что тебе нравится моя киска.."
-msgstr ""
+msgstr "[_elion_] Me alegro que te guste mi coño..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:179 #-#-# translate crowdin gallery_d_071_47ff5b10:
 msgid "[_cedrick_] Иии?"
-msgstr ""
+msgstr "[_cedrick_] ¿Sí?"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:180 #-#-# translate crowdin gallery_d_071_09298548:
 msgid "[_elion_] И.. Мне нравится дрочить свою киску твоим членом.."
-msgstr ""
+msgstr "[_elion_] Me... me gusta masturbarme el coño con tu polla..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:181 #-#-# translate crowdin gallery_d_071_a2cd9420:
 msgid "[_cedrick_] Вот и умница.. П-продолжай, я почти близок.."
-msgstr ""
+msgstr "[_cedrick_] Buena chica... Sigue adelante, ya casi estoy cerca..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:182 #-#-# translate crowdin gallery_d_071_b96ba9d2:
 msgid "[_elion_] Я тоже.. Мммммв..."
-msgstr ""
+msgstr "[_elion_] Yo también... Mmmmmm..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:189 #-#-# translate crowdin gallery_d_071_59ec4e98:
 msgid "[_cedrick_] К-кончаю!"
-msgstr ""
+msgstr "[_cedrick_] ¡M-me corro!"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:190 #-#-# translate crowdin gallery_d_071_3b127651:
 msgid "[_elion_] Аааааах!!"
-msgstr ""
+msgstr "[_elion_] ¡¡Aaaaaah!!"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:195 #-#-# translate crowdin gallery_d_071_ecc1fdef:
 msgid "[_elion_] Это было прекрасно.."
-msgstr ""
+msgstr "[_elion_] Fue maravilloso..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:196 #-#-# translate crowdin gallery_d_071_601ed0a8:
 msgid "[_cedrick_] Да, отлично расслабился.."
-msgstr ""
+msgstr "[_cedrick_] Si, relajantemente agradable."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:197 #-#-# translate crowdin gallery_d_071_9d24ff3e:
 msgid "[_elion_] Можно.. Я пока просто полежу рядом?"
-msgstr ""
+msgstr "[_elion_] ¿Puedo simplemente acostarme a tu lado por ahora?"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:198 #-#-# translate crowdin gallery_d_071_81492a70:
 msgid "[_cedrick_] Да, без проблем, я пока подумаю о своем"
-msgstr ""
+msgstr "[_cedrick_] Sí, no hay problema, lo pensaré por ahora."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:200 #-#-# translate crowdin gallery_d_071_839627de:
 msgid "[_elion_] Хорошо.."
-msgstr ""
+msgstr "[_elion_] Muy bien..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:201 #-#-# translate crowdin gallery_d_071_f5c04d54:
 msgid "[_cedrick_] (Хм.. Медина устроит все через два дня.. За это время я должен расправиться с Ирмой и Тарани. Они явно будут мне мешать наладить контакт с Вилл..)"
-msgstr ""
+msgstr "[_cedrick_] (Hmm... Medina arreglará todo en dos días... Durante este tiempo debo tratar con Irma y Tarani. Claramente interferirán con mi capacidad de establecer contacto con Will.)"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:202 #-#-# translate crowdin gallery_d_071_2792c972:
 msgid "[_cedrick_] (Я мог бы вновь попробовать справиться с ними и сам, но, хм.. Время полагаться только на себя прошло.. Стоит признать, что в этом бою мне не помешала бы помощь)"
-msgstr ""
+msgstr "[_cedrick_] (Podría intentar lidiar con ellos yo mismo otra vez, pero, hmm... El tiempo de confiar solo en mí mismo ha pasado... Tengo que admitir que me vendría bien un poco de ayuda en esta batalla.)"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:203 #-#-# translate crowdin gallery_d_071_91e04819:
 msgid "[_cedrick_] (Они так жестоко обошлись с Мирандой в тот раз.. Я бы не хотел ее втягивать, но.. При правильном раскладе мы с Мирандой расправимся со стражницами в два счета)"
-msgstr ""
+msgstr "[_cedrick_] (Ellos trataron a Miranda tan cruelmente esa vez… No quisiera arrastrarla aquí, pero… Si las cosas van bien, Miranda y yo nos ocuparemos de las guardianas en poco tiempo.)"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:204 #-#-# translate crowdin gallery_d_071_b9aad57f:
 msgid "[_cedrick_] (К тому же, уверен Миранда хотела бы отыграться за прошлый раз.. Решено, нужно отправиться на Меридиан)"
-msgstr ""
+msgstr "[_cedrick_] (Además, estoy seguro de que a Miranda le gustaría compensar la última vez... Está decidido, tenemos que ir a Meridian.)"
 
