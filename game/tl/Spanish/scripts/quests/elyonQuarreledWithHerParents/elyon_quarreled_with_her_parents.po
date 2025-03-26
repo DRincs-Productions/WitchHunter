@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:31\n"
+"PO-Revision-Date: 2025-03-26 14:28\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:4 #-#-# translate crowdin elyon_quarreled_with_her_parents_9522b460:
 msgid "[_cedrick_] Элион, что ты здесь делаешь? Уже довольно поздно..."
@@ -126,15 +126,15 @@ msgstr "[_centered_] {size=37} ESA NOCHE EN LA CASA BROWN{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:64 #-#-# translate crowdin elyon_quarreled_with_her_parents_67db9e64:
 msgid "[_cedrick_] (Все готово, нужно лишь вломиться так, чтобы они услышали, и, когда они спустятся, бросить звезду возле их ног. Дальше, магия спадет сама)"
-msgstr ""
+msgstr "[_cedrick_] (Todo está listo, solo hay que entrar para que escuchen, y cuando bajen, arrojarles una estrella a los pies. Entonces la magia se calmará por sí sola.)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:65 #-#-# translate crowdin elyon_quarreled_with_her_parents_ed60833b:
 msgid "[_cedrick_] (Пожалуй, не стану показываться им на глаза лишний раз. Звезда в любом случае сделает свое дело, мне останется только подождать)"
-msgstr ""
+msgstr "[_cedrick_] (Probablemente no volveré a mostrarme ante ellos. La estrella hará su trabajo de todos modos, solo tendré que esperar.)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:67 #-#-# translate crowdin elyon_quarreled_with_her_parents_78308d23:
 msgid "[_centered_] {size=37}СЕДРИК ВЛАМЫВАЕТСЯ В ДОМ{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}CEDRIC IRRUMPE EN LA CASA{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:71 #-#-# translate crowdin elyon_quarreled_with_her_parents_a20cefa7:
 msgid "..."
@@ -142,71 +142,71 @@ msgstr "..."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:73 #-#-# translate crowdin elyon_quarreled_with_her_parents_d77dd4c5:
 msgid "[_thomas_] Кто здесь, покажись!"
-msgstr ""
+msgstr "[_thomas_] ¡Quién está aquí, muéstrate!"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:78 #-#-# translate crowdin elyon_quarreled_with_her_parents_5d6164b2:
 msgid "[_eleanor_] Дорогой, что случилось.."
-msgstr ""
+msgstr "[_eleanor_] Cariño, ¿qué pasó?"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:79 #-#-# translate crowdin elyon_quarreled_with_her_parents_85047f84:
 msgid "[_thomas_] Черт, сбежал.. Стой, э-это же..."
-msgstr ""
+msgstr "[_thomas_] Maldita sea, se escapó... Espera, uh-eso es..."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:86 #-#-# translate crowdin elyon_quarreled_with_her_parents_5b12816c:
 msgid "[_eleanor_] О нет, э-это же!"
-msgstr ""
+msgstr "[_eleanor_] ¡Oh no, eso es todo!"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:87 #-#-# translate crowdin elyon_quarreled_with_her_parents_cde263a5:
 msgid "[_thomas_] Звезда трибы..."
-msgstr ""
+msgstr "[_thomas_] Estrella de la tribu..."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:91 #-#-# translate crowdin elyon_quarreled_with_her_parents_a2b6f64e:
 msgid "[_eleanor_] А-Альборн, наша маскировка.."
-msgstr ""
+msgstr "[_eleanor_] A-Alborn, nuestro disfraz..."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:97 #-#-# translate crowdin elyon_quarreled_with_her_parents_22de9657:
 msgid "[_alborn_] Только не это.. И твоя тоже, Мириадель.."
-msgstr ""
+msgstr "[_alborn_] Esto no... Y la tuya también, Miriadel..."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:103 #-#-# translate crowdin elyon_quarreled_with_her_parents_8ccb1409:
 msgid "[_miriadel_] Они нашли нас.. Прихвостни Фобоса, спустя столько лет.. Они пришли забрать Элион... Но, почему они ушли.."
-msgstr ""
+msgstr "[_miriadel_] Nos encontraron... Los secuaces de Phobos, después de tantos años... Vinieron a llevarse a Elyon... Pero ¿por qué se fueron?"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:109 #-#-# translate crowdin elyon_quarreled_with_her_parents_d5d69be3:
 msgid "[_alborn_] Звезда Трибы призвана вернуть наследницу престола домой.. Так вот в чем их план.. Ни к чему забирать Элион силой, Звезда сама вернет ее домой.."
-msgstr ""
+msgstr "[_alborn_] La Estrella de la Tribu está llamada a devolver al heredero al trono a casa. Así que este es su plan. No hay necesidad de tomar a Elyon por la fuerza, la Estrella misma la devolverá a casa."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:115 #-#-# translate crowdin elyon_quarreled_with_her_parents_fca23978:
 msgid "[_miriadel_] Какое счастье, что она осталась сегодня у Рика.. На таком расстоянии звезда не сможет на нее повлиять.."
-msgstr ""
+msgstr "[_miriadel_] Qué bendición que se haya quedado con Rick hoy. A tal distancia, la estrella no podrá influir en ella."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:116 #-#-# translate crowdin elyon_quarreled_with_her_parents_f2ab56be:
 msgid "[_miriadel_] Н-но, что же нам теперь делать.. Звезда развеяла чары, мы не сможем снова превратиться.."
-msgstr ""
+msgstr "[_miriadel_] P-pero, ¿qué debemos hacer ahora? La estrella disipó el hechizo, no podremos transformarnos nuevamente."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:122 #-#-# translate crowdin elyon_quarreled_with_her_parents_32ff94d4:
 msgid "[_alborn_] .........."
-msgstr ""
+msgstr "[_alborn_] .........."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:126 #-#-# translate crowdin elyon_quarreled_with_her_parents_7b2c18b6:
 msgid "[_miriadel_] Альборн!?"
-msgstr ""
+msgstr "[_miriadel_] ¿¡Alborn!?"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:132 #-#-# translate crowdin elyon_quarreled_with_her_parents_b7d878d9:
 msgid "[_alborn_] Мириадель, нам.. Нам придется бежать.."
-msgstr ""
+msgstr "[_alborn_] Miriadel, nosotros... Tendremos que correr..."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:138 #-#-# translate crowdin elyon_quarreled_with_her_parents_7bac1ffa:
 msgid "[_miriadel_] Н-но как же Элион, мы не можем ее бросить!"
-msgstr ""
+msgstr "[_miriadel_] P-pero ¿qué pasa con Elyon? ¡No podemos dejarla!"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:144 #-#-# translate crowdin elyon_quarreled_with_her_parents_080949c1:
 msgid "[_alborn_] Нам придется!"
-msgstr ""
+msgstr "[_alborn_] ¡Tendremos que hacerlo!"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:145 #-#-# translate crowdin elyon_quarreled_with_her_parents_05812507:
 msgid "[_alborn_] Если мы заберем ее сейчас, нас попросту схватят. За нами точно уже ведется слежка.. Все, что мы можем – это пустить людей Фобоса по ложному следу.."
-msgstr ""
+msgstr "[_alborn_] Si la tomamos ahora, simplemente seremos capturados. Definitivamente ya estamos bajo vigilancia. Todo lo que podemos hacer es poner a la gente de Phobos en el camino equivocado."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:151 #-#-# translate crowdin elyon_quarreled_with_her_parents_ea276339:
 msgid "[_alborn_] К тому же, посмотри на нас.. В таком виде мы ее только напугаем.. Она даже не поверит, что мы ее родители.."
