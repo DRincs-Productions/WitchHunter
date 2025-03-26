@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-26 14:28\n"
+"PO-Revision-Date: 2025-03-26 15:44\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:4 #-#-# translate crowdin elyon_quarreled_with_her_parents_9522b460:
 msgid "[_cedrick_] Элион, что ты здесь делаешь? Уже довольно поздно..."
@@ -210,219 +210,219 @@ msgstr "[_alborn_] Si la tomamos ahora, simplemente seremos capturados. Definiti
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:151 #-#-# translate crowdin elyon_quarreled_with_her_parents_ea276339:
 msgid "[_alborn_] К тому же, посмотри на нас.. В таком виде мы ее только напугаем.. Она даже не поверит, что мы ее родители.."
-msgstr ""
+msgstr "[_alborn_] Además, míranos... De esta forma sólo la asustaremos... Ni siquiera creerá que somos sus padres."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:157 #-#-# translate crowdin elyon_quarreled_with_her_parents_1c26305f:
 msgid "[_miriadel_] Но.. Наша девочка.. Она же останется совсем одна..."
-msgstr ""
+msgstr "[_miriadel_] Pero... Nuestra niña... Ella estará completamente sola."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:163 #-#-# translate crowdin elyon_quarreled_with_her_parents_1cec0214:
 msgid "[_alborn_] Нет.. Нет, не одна. Рик - он хороший парень, уверен, он о ней позаботится.."
-msgstr ""
+msgstr "[_alborn_] No... No, solo no. Rick es un buen tipo, estoy seguro de que cuidará de ella."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:169 #-#-# translate crowdin elyon_quarreled_with_her_parents_facf3462:
 msgid "[_miriadel_] Да, нам повезло, что мы его встретили, но.. Сможет ли он все понять правильно.. сможет ли Элион понять.. Как мы объясним нашу пропажу?"
-msgstr ""
+msgstr "[_miriadel_] Sí, tuvimos suerte de haberlo conocido, pero... ¿Podrá él entender todo correctamente? ¿Podrá Elyon entenderlo? ¿Cómo explicaremos nuestra desaparición?"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:175 #-#-# translate crowdin elyon_quarreled_with_her_parents_0d404550:
 msgid "[_alborn_] Нужно оставить записку.. Скажем.. Черт.. Скажем, что нам срочно пришлось уехать по работе в долгую командировку.."
-msgstr ""
+msgstr "[_alborn_] Necesitamos dejar una nota... Digamos... Maldita sea... Digamos que tuvimos que irnos urgentemente a trabajar en un largo viaje de negocios."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:181 #-#-# translate crowdin elyon_quarreled_with_her_parents_518d6b8a:
 msgid "[_miriadel_] Что это все для того, чтобы оплатить долги за дом.. И.. Что нам очень жаль и мы не знаем, сколько точно продлится командировка..."
-msgstr ""
+msgstr "[_miriadel_] Que todo esto es para saldar las deudas de la casa... Y... Que lo sentimos mucho y no sabemos exactamente cuánto durará el viaje de negocio."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:182 #-#-# translate crowdin elyon_quarreled_with_her_parents_df6d3ca0:
 msgid "[_miriadel_] Черт, как же так.. Мы даже с ней не попрощались.."
-msgstr ""
+msgstr "[_miriadel_] Joder, cómo puede ser esto... Ni siquiera le dijimos adiós."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:188 #-#-# translate crowdin elyon_quarreled_with_her_parents_6206af52:
 msgid "[_alborn_] Мы попрощаемся в письме.. Давай, у нас не так много времени.. Как только они поймут, что Элион здесь нет, за нами придут.."
-msgstr ""
+msgstr "[_alborn_] Nos despediremos en una carta. Vamos, no tenemos mucho tiempo. En cuanto se den cuenta de que Elyon no está, vendrán a buscarnos."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:194 #-#-# translate crowdin elyon_quarreled_with_her_parents_56b68665:
 msgid "[_miriadel_] Хорошо, сейчас напишу.. И еще, нам ведь лучше забрать эту звезду.."
-msgstr ""
+msgstr "[_miriadel_] Está bien, escribiré ahora... Y además, es mejor para nosotros tomar esta estrella."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:200 #-#-# translate crowdin elyon_quarreled_with_her_parents_2a37d9ed:
 msgid "[_alborn_] Нет! Если мы ее заберем, они поймут, что Элион осталась на Земле и так мы ее оберегаем от влияния звезды"
-msgstr ""
+msgstr "[_alborn_] ¡No! Si la llevamos entenderán que Elyon permanece en la Tierra y así la protegemos de la influencia de la estrella."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:201 #-#-# translate crowdin elyon_quarreled_with_her_parents_1ebb0831:
 msgid "[_alborn_] Найдя звезду здесь, они подумают, что мы убежали с Элион прежде, чем она попала под влияние звезды. Так они точно не будут искать Элион на Земле"
-msgstr ""
+msgstr "[_alborn_] Al encontrar la estrella aquí, pensarán que nos escapamos con Elyon antes de que cayera bajo la influencia de la estrella. Entonces definitivamente no buscarán a Elyon en la Tierra."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:207 #-#-# translate crowdin elyon_quarreled_with_her_parents_01161ecc:
 msgid "[_miriadel_] Да, ты прав.."
-msgstr ""
+msgstr "[_miriadel_] Sí, tienes razón."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:213 #-#-# translate crowdin elyon_quarreled_with_her_parents_16af99cb:
 msgid "[_alborn_] Мириадель, нам пора уходить.. Я избавлюсь от машины, чтобы еще больше запутать следы"
-msgstr ""
+msgstr "[_alborn_] Miriadel, es hora de que nos vayamos... Me desharé del auto para confundir aún más mis huellas."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:219 #-#-# translate crowdin elyon_quarreled_with_her_parents_3ee9fbb3:
 msgid "[_miriadel_] Д-да.. Надеюсь, Рик о ней позаботится.."
-msgstr ""
+msgstr "[_miriadel_] S-sí... espero que Rick la cuide."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:225 #-#-# translate crowdin elyon_quarreled_with_her_parents_2b69b312:
 msgid "[_alborn_] Уверен, он справится. У них все будет хорошо. Мы не бросаем Элион, а лишь делаем так, чтобы она осталась в безопасности"
-msgstr ""
+msgstr "[_alborn_] Estoy seguro de que puede manejarlo. Estarán bien. No abandonaremos a Elyon, solo nos aseguraremos de que permanezca a salvo."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:231 #-#-# translate crowdin elyon_quarreled_with_her_parents_b0cb999d:
 msgid "[_miriadel_] Да.. Это все ради нее.. Теперь нужно оставить письмо у Рика в магазине, прежде чем отправляться на Меридиан"
-msgstr ""
+msgstr "[_miriadel_] Sí... Es todo para ella... Ahora debes dejarle una carta a Rick en la tienda antes de dirigirnos a Meridian."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:233 #-#-# translate crowdin elyon_quarreled_with_her_parents_123f66c0:
 msgid "[_centered_] {size=37}Альборн и Мирабель уходят в сторону магазина Седрика{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Ahlborn y Mirabelle van hacia la tienda de Cedric.{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:236 #-#-# translate crowdin elyon_quarreled_with_her_parents_3b487e6b:
 msgid "[_cedrick_] (Что ж, звезда на месте, а значит все прошло согласно моему плану)"
-msgstr ""
+msgstr "[_cedrick_] (Bueno, la estrella está en su lugar, lo que significa que todo salió según mi plan.)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:237 #-#-# translate crowdin elyon_quarreled_with_her_parents_c4d66ab7:
 msgid "[_cedrick_] (Хоть оставлять звезду было слегка рискованно с моей стороны, у них попросту не оставалось других вариантов, кроме как сбежать)"
-msgstr ""
+msgstr "[_cedrick_] (Aunque dejar la estrella fue un poco arriesgado de mi parte, simplemente no tuvieron otra opción que escapar.)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:238 #-#-# translate crowdin elyon_quarreled_with_her_parents_71f291bf:
 msgid "[_cedrick_] (Им бы следовало попробовать переубедить Элион даже в таком обличии, но, как я уже выяснил до этого – они те еще трусы. А трусам положено бежать)"
-msgstr ""
+msgstr "[_cedrick_] (Deberían haber intentado convencer a Elyon incluso de esta manera, pero, como ya descubrí antes, siguen siendo cobardes. Y se supone que los cobardes deben huir.)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:240 #-#-# translate crowdin elyon_quarreled_with_her_parents_d9cf32c7:
 msgid "[_centered_] {size=37}Седрик забирает звезду трибы и возвращается к себе в магазин{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric toma la estrella de la tribu y regresa a su tienda.{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:246 #-#-# translate crowdin elyon_quarreled_with_her_parents_f435ef5b:
 msgid "[_cedrick_] (Хм, они оставили письмо? Как трогательно.. Но, думаю, мне стоит его подправить, прежде чем отдавать Элион)"
-msgstr ""
+msgstr "[_cedrick_] (Hmm, ¿dejaron una carta? Qué conmovedor... Pero creo que debería corregirla antes de entregársela a Elyon.)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:247 #-#-# translate crowdin elyon_quarreled_with_her_parents_c8756f1c:
 msgid "[_cedrick_] (Благо, дворцовые интриги научили меня идеально подделывать чужой подчерк в записках, хах)"
-msgstr ""
+msgstr "[_cedrick_] (Afortunadamente, la intriga palaciega me enseñó cómo falsificar perfectamente la letra de otra persona en notas, eh.)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:249 #-#-# translate crowdin elyon_quarreled_with_her_parents_3ae3404e:
 msgid "[_centered_] {size=37}Утром на следующий день{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}A la mañana siguiente{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:254 #-#-# translate crowdin elyon_quarreled_with_her_parents_bc1b050a:
 msgid "[_cedrick_] Элион, доброе утро"
-msgstr ""
+msgstr "[_cedrick_] Elyon, buenos días."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:257 #-#-# translate crowdin elyon_quarreled_with_her_parents_f7e4233e:
 msgid "[_elion_] Доброе утро, Рик"
-msgstr ""
+msgstr "[_elion_] Buenos días, Rick."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:258 #-#-# translate crowdin elyon_quarreled_with_her_parents_1377545a:
 msgid "[_cedrick_] Эм, тут вчера ночью кто-то пришел и оставил письмо, судя по конверту оно оставлено тебе"
-msgstr ""
+msgstr "[_cedrick_] Um, anoche alguien vino y dejó una carta, a juzgar por el sobre que te dejaron."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:261 #-#-# translate crowdin elyon_quarreled_with_her_parents_24673d32:
 msgid "[_elion_] Мне? Кто бы это мог быть.. А что в письме написано?"
-msgstr ""
+msgstr "[_elion_] ¿A mí? ¿Quién podría ser? ¿Qué está escrito en la carta?"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:262 #-#-# translate crowdin elyon_quarreled_with_her_parents_30defff2:
 msgid "[_cedrick_] Я еще не читал, это же чужое письмо. Надеялся, что ты мне расскажешь"
-msgstr ""
+msgstr "[_cedrick_] Aún no la he leído, es la carta de otra persona. Esperaba que me dijeras."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:265 #-#-# translate crowdin elyon_quarreled_with_her_parents_7b78d77b:
 msgid "[_elion_] Так, дай-ка почитать.."
-msgstr ""
+msgstr "[_elion_] Bueno, déjame leerla."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:268 #-#-# translate crowdin elyon_quarreled_with_her_parents_97c78e07:
 msgid "[_elion_] Дорогая Элион.. Это же почерк мамы"
-msgstr ""
+msgstr "[_elion_] Querida Elyon... Esta es la letra de mamá."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:269 #-#-# translate crowdin elyon_quarreled_with_her_parents_038ab544:
 msgid "[_elion_] ....."
-msgstr ""
+msgstr "[_elion_] ....."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:270 #-#-# translate crowdin elyon_quarreled_with_her_parents_b8e941d8:
 msgid "[_elion_] ......."
-msgstr ""
+msgstr "[_elion_] ......."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:271 #-#-# translate crowdin elyon_quarreled_with_her_parents_2bf27e94:
 msgid "[_elion_] ..........."
-msgstr ""
+msgstr "[_elion_] ..........."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:272 #-#-# translate crowdin elyon_quarreled_with_her_parents_f1532205:
 msgid "[_cedrick_] ..Элион? Что там написано?"
-msgstr ""
+msgstr "[_cedrick_] ¿Elyon? ¿Qué dice?"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:275 #-#-# translate crowdin elyon_quarreled_with_her_parents_b4fe9b19:
 msgid "[_elion_] Этого не может быть.. Мои родители.. Неужели.. Они меня бросили.."
-msgstr ""
+msgstr "[_elion_] Esto no puede ser... Mis padres... De verdad... Me abandonaron."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:276 #-#-# translate crowdin elyon_quarreled_with_her_parents_3292730f:
 msgid "[_cedrick_] Что!? Что это значит?"
-msgstr ""
+msgstr "[_cedrick_] ¿¡Qué!? ¿Qué significa?"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:279 #-#-# translate crowdin elyon_quarreled_with_her_parents_d1cb299f:
 msgid "[_elion_] Они пишут, что всегда были плохими родителями.. Ч-что просят прощения и.. И, что уезжают на неопределенное время в командировку.. Чтобы закрыть долги по дому"
-msgstr ""
+msgstr "[_elion_] Escriben que siempre han sido malos padres... Q-que piden perdón y... Y que se van por tiempo indefinido en un viaje de negocios... Para saldar deudas en la casa."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:280 #-#-# translate crowdin elyon_quarreled_with_her_parents_6e6349e3:
 msgid "[_elion_] Пишут, чтобы я пока жила с тобой и во всем слушалась тебя, пока их нет.. Потому что ты надежный и всегда меня защитишь.."
-msgstr ""
+msgstr "[_elion_] Me escriben para decirme que viva contigo por ahora y te obedezca en todo mientras ellos no estén... Porque eres confiable y siempre me protegerás."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:281 #-#-# translate crowdin elyon_quarreled_with_her_parents_083658a3:
 msgid "[_cedrick_] Элион, может это просто чья-то злая шутка и письмо писали не они?"
-msgstr ""
+msgstr "[_cedrick_] Elyon, ¿tal vez esto sea solo una broma cruel de alguien y no escribieron la carta?"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:284 #-#-# translate crowdin elyon_quarreled_with_her_parents_827caff7:
 msgid "[_elion_] Нет, это писала мама.. Манера письма, почерк – это точно она"
-msgstr ""
+msgstr "[_elion_] No, lo escribió mi madre. El estilo de escritura, la letra, definitivamente es suya."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:287 #-#-# translate crowdin elyon_quarreled_with_her_parents_28bcc1ce:
 msgid "[_elion_] Рик, я.. Я должна сама во всем убедиться, прости, я пойду домой.."
-msgstr ""
+msgstr "[_elion_] Rick, yo... tengo que verlo por mí mismo, lo siento, me iré a casa."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:290 #-#-# translate crowdin elyon_quarreled_with_her_parents_ffbcd8fd:
 msgid "[_cedrick_] Конечно, беги.."
-msgstr ""
+msgstr "[_cedrick_] Claro, aquí tienes."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:292 #-#-# translate crowdin elyon_quarreled_with_her_parents_3c48e2b5:
 msgid "[_centered_] {size=37}Вечером того же дня{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}En la tarde del mismo día{/size}"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:297 #-#-# translate crowdin elyon_quarreled_with_her_parents_87898073:
 msgid "[_elion_] Рик.. Рик, это правда.. Они, они просто уехали.. Дом пустой, машины нет.. Я не могу поверить.. Неужели это все из-за того, что я убежала.."
-msgstr ""
+msgstr "[_elion_] Rick... Rick, es verdad... Ellos, ellos simplemente se fueron... La casa está vacía, no hay auto... No puedo creerlo... ¿Es realmente todo porque me escapé?"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:298 #-#-# translate crowdin elyon_quarreled_with_her_parents_951b44ac:
 msgid "[_cedrick_] Нет, Элион, ты не виновата. Я уверен, у твоих родителей были на то причины.."
-msgstr ""
+msgstr "[_cedrick_] No, Elyon, no es tu culpa. Estoy seguro de que tus padres tenían sus razones..."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:301 #-#-# translate crowdin elyon_quarreled_with_her_parents_8d2e4237:
 msgid "[_elion_] Но.. Они бы не сбежали так просто, если бы любили меня"
-msgstr ""
+msgstr "[_elion_] Pero... no huirían tan fácilmente si me amaran."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:302 #-#-# translate crowdin elyon_quarreled_with_her_parents_a587f165:
 msgid "[_cedrick_] (Что ж, тут ты однозначно права..)"
-msgstr ""
+msgstr "[_cedrick_] (Bueno, definitivamente tienes razón aquí.)"
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:303 #-#-# translate crowdin elyon_quarreled_with_her_parents_42438b83:
 msgid "[_cedrick_] Я не.."
-msgstr ""
+msgstr "[_cedrick_] Yo no..."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:306 #-#-# translate crowdin elyon_quarreled_with_her_parents_7c69898f:
 msgid "[_elion_] Рик, можно.. Можно я останусь у тебя? Мне.. Мне больше некуда идти.."
-msgstr ""
+msgstr "[_elion_] Rick, ¿puedo... puedo quedarme contigo? Yo... no tengo otro lugar a donde ir."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:307 #-#-# translate crowdin elyon_quarreled_with_her_parents_0913c400:
 msgid "[_cedrick_] Конечно, Элион. Живи у меня столько, сколько потребуется"
-msgstr ""
+msgstr "[_cedrick_] Por supuesto, Elyon. Vive conmigo todo el tiempo que necesites."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:308 #-#-# translate crowdin elyon_quarreled_with_her_parents_ea6b65d0:
 msgid "[_cedrick_] Не могу поверить, что твои родители просто ушли.."
-msgstr ""
+msgstr "[_cedrick_] No puedo creer que tus padres simplemente se hayan ido."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:311 #-#-# translate crowdin elyon_quarreled_with_her_parents_f3b94c94:
 msgid "[_elion_] У них явно были свои причины, но.. Я не хочу больше об этом говорить"
-msgstr ""
+msgstr "[_elion_] Obviamente tenían sus razones, pero... no quiero hablar más de eso."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:312 #-#-# translate crowdin elyon_quarreled_with_her_parents_e37a1ee6:
 msgid "[_cedrick_] Хорошо, Элион, я понял.."
-msgstr ""
+msgstr "[_cedrick_] Está bien, Elyon, lo entiendo."
 
 # game/scripts/quests/elyonQuarreledWithHerParents/elyon_quarreled_with_her_parents.rpy:322 #-#-# translate crowdin elyon_quarreled_with_her_parents_700f3ea0:
 msgid "[_cedrick_] (К черту Браунов, у них была возможность рассказать Элион всю правду, но вместо этого они продолжали лгать Элион столько лет)"
