@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:13\n"
+"PO-Revision-Date: 2025-03-27 03:44\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/singles/elyonFoundBooks.rpy:10 #-#-# translate crowdin elyonFoundBooks_bc5d1268:
 msgid "[_elion_] Эмм... Рик... Кажется я нашла нужные нам книги."
@@ -246,7 +246,7 @@ msgstr ""
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:160 #-#-# translate crowdin elyonFoundBooks_e19676fd:
 msgid "[_lilith_] ..."
-msgstr ""
+msgstr "[_lilith_] ..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:164 #-#-# translate crowdin elyonFoundBooks_0ae137d4:
 msgid "[_cornelia_] Ох, да, это квартира родителей. Они банкиры"
