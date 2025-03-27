@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:00\n"
+"PO-Revision-Date: 2025-03-27 02:27\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:8 #-#-# translate crowdin reiter_s_attempt_to_alchemy_a22a88bc:
 msgid "[_cedrick_] (Решил надо мной насмехаться, плебей? Что ж, ни я это начал, Рейтер)"
@@ -94,7 +94,7 @@ msgstr "[_cedrick_] Si hubiera encontrado a esta chica muriéndose de hambre, no
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:84 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_b77eea8f:
 msgid "[_raythor_] ......"
-msgstr ""
+msgstr "[_raythor_] ......"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:85 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_c9da3aee:
 msgid "[_cedrick_] Я забираю девчонку"
