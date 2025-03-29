@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:13\n"
+"PO-Revision-Date: 2025-03-29 02:43\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:7 #-#-# translate crowdin talk_with_phobos_3_9da5787d:
 msgid "[_phobos_] Ты вовремя, Седрик. Я даже удивлен"
@@ -106,7 +106,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:90 #-#-# translate crowdin talk_with_phobos_3_99cc9aca:
 msgid "[_cedrick_] ........."
-msgstr ""
+msgstr "[_cedrick_] ........."
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:94 #-#-# translate crowdin talk_with_phobos_3_22647460:
 msgid "[_phobos_] Я... Хм, да, верно... Было ошибкой считать, что назначения Райтера поможет вернуть твой потерянный потенциал"
