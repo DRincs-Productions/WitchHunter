@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-27 03:44\n"
+"PO-Revision-Date: 2025-03-29 01:44\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/sitWithLilian.rpy:10 #-#-# translate crowdin sitWithLilian_cdd6670c:
 msgid "Звук дверного звонка"
@@ -162,39 +162,39 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:133 #-#-# translate crowdin sitWithLilian_000cf7fc:
 msgid "[_cedrick_] Конечно нет.."
-msgstr ""
+msgstr "[_cedrick_] ¡Por supuesto!"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:135 #-#-# translate crowdin sitWithLilian_865fa3d0:
 msgid "[_lilith_] Своим внешним видом я выражаю себя. Музыка, которая мне нравится, наполняет собой мой внутренний мир и высвобождается через мой образ и одежду"
-msgstr ""
+msgstr "[_lilith_] Me expreso con mi apariencia. La música que me gusta llena mi mundo interior y se libera a través de mi imagen y ropa."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:137 #-#-# translate crowdin sitWithLilian_79a94931:
 msgid "[_cedrick_] Понятно…"
-msgstr ""
+msgstr "[_cedrick_] Interesante."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:138 #-#-# translate crowdin sitWithLilian_e508aeeb:
 msgid "[_cedrick_] И эта музыка.. Эм.. Альтернативный рок?"
-msgstr ""
+msgstr "[_cedrick_] Y esta música... Um... ¿Rock alternativo?"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:140 #-#-# translate crowdin sitWithLilian_05977ad2:
 msgid "[_lilith_] Альтернативный рок, мелодичный дэт-метал, металкор, хард-рок, готик-метал, иногда гранж.."
-msgstr ""
+msgstr "[_lilith_] Rock alternativo, death metal melódico, metalcore, hard rock, metal gótico, a veces grunge."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:142 #-#-# translate crowdin sitWithLilian_538fc41c:
 msgid "[_cedrick_] Ничего не понятно.. Но очень интересно.."
-msgstr ""
+msgstr "[_cedrick_] No tiene ningún sentido. Pero es muy interesante."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:144 #-#-# translate crowdin sitWithLilian_60b8a980:
 msgid "[_lilith_] Эм.. Могу включить канал с этой музыкой, если хочешь"
-msgstr ""
+msgstr "[_lilith_] Um... puedo cambiar el canal con esta música si quieres."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:145 #-#-# translate crowdin sitWithLilian_30bda0b0:
 msgid "[_lilith_] В смысле.. Я и так собиралась его включить, просто, раз уж и ты здесь, то мог бы тоже послушать"
-msgstr ""
+msgstr "[_lilith_] Quiero decir... iba a cambiarlo de todos modos, pero ya que estás aquí, también podría escucharlo."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:146 #-#-# translate crowdin sitWithLilian_ef641d2d:
 msgid "[_lilith_] Хотя тебе в любом случае придется, раз притащился сюда, потому что включать всякую попсу я не собираюсь. Или что там тебе нравится"
-msgstr ""
+msgstr "[_lilith_] Aunque tendrás que hacerlo de todos modos, ya que te arrastraste hasta aquí, porque no voy a incluir música pop. O lo que quieras."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:147 #-#-# translate crowdin sitWithLilian_c64e008a:
 msgid "[_lilith_] Небось какая-нибудь заунывная классика в духе Бетховена или Баха.."
