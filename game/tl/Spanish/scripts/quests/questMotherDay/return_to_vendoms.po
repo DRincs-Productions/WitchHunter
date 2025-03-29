@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-21 05:49\n"
+"PO-Revision-Date: 2025-03-29 02:43\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -2354,7 +2354,7 @@ msgstr ""
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1566 #-#-# translate crowdin gallery_d_108_daeb769a:
 msgid "[_cedrick_] Эм…"
-msgstr ""
+msgstr "[_cedrick_] Um..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1567 #-#-# translate crowdin gallery_d_108_02a43f3c:
 msgid "[_cedrick_] Хах, да, конечно. Как тут откажешь"
