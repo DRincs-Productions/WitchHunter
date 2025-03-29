@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-27 03:44\n"
+"PO-Revision-Date: 2025-03-29 01:44\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:3 #-#-# translate crowdin corneliaCallToSitWithLilian_9449d1fb:
 msgid "[_cedrick_] Лучше будет написать Корнелии утром или днем."
@@ -26,7 +26,7 @@ msgstr "[_cedrick_] (Hmm, pero su impotencia solo me favorece.)"
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:95 #-#-# translate crowdin corneliaCallToSitWithLilian_c1596ad3:
 msgid "[_cedrick_] (Навещу Лилит сегодня вечером)"
-msgstr ""
+msgstr "[_cedrick_] (Visitaré a Lilith esta noche.)"
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:11
 msgid "Корнелия, привет. Эм, кажется я нашел Наполеона"
