@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:09\n"
+"PO-Revision-Date: 2025-04-01 23:22\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/characters.rpy:9
 msgid "Продавец"
@@ -74,19 +74,19 @@ msgstr "Soldado 3"
 
 # game/scripts/sell_books_game/characters.rpy:203
 msgid "Солдат 4"
-msgstr ""
+msgstr "Soldado 4"
 
 # game/scripts/sell_books_game/characters.rpy:211
 msgid "Солдат 5"
-msgstr ""
+msgstr "Soldado 5"
 
 # game/scripts/sell_books_game/characters.rpy:219
 msgid "Солдат 6"
-msgstr ""
+msgstr "Soldado 6"
 
 # game/scripts/sell_books_game/characters.rpy:227
 msgid "Дрункард"
-msgstr ""
+msgstr "Borracho"
 
 # game/scripts/sell_books_game/characters.rpy:235
 msgid "Алхими"
@@ -338,75 +338,75 @@ msgstr "Prisionero"
 
 # game/scripts/sell_books_game/characters.rpy:757
 msgid "Пейн"
-msgstr ""
+msgstr "Payne"
 
 # game/scripts/sell_books_game/characters.rpy:774
 msgid "Мужчина"
-msgstr ""
+msgstr "Hombre"
 
 # game/scripts/sell_books_game/characters.rpy:783
 msgid "Охранник"
-msgstr ""
+msgstr "Guardia"
 
 # game/scripts/sell_books_game/characters.rpy:791
 msgid "Охранник 1"
-msgstr ""
+msgstr "Guardia 1"
 
 # game/scripts/sell_books_game/characters.rpy:800
 msgid "Охранник 2"
-msgstr ""
+msgstr "Guardia 2"
 
 # game/scripts/sell_books_game/characters.rpy:808
 msgid "Роб"
-msgstr ""
+msgstr "Robar"
 
 # game/scripts/sell_books_game/characters.rpy:816
 msgid "Боб"
-msgstr ""
+msgstr "Frijol"
 
 # game/scripts/sell_books_game/characters.rpy:824
 msgid "Гордон в телефоне"
-msgstr ""
+msgstr "Gordon al teléfono"
 
 # game/scripts/sell_books_game/characters.rpy:832
 msgid "Тереза в телефоне"
-msgstr ""
+msgstr "Teresa al teléfono"
 
 # game/scripts/sell_books_game/characters.rpy:840
 msgid "Посетитель ресторана 1"
-msgstr ""
+msgstr "Cliente de restaurante 1"
 
 # game/scripts/sell_books_game/characters.rpy:848
 msgid "Посетитель ресторана 2"
-msgstr ""
+msgstr "Cliente de restaurante 2"
 
 # game/scripts/sell_books_game/characters.rpy:856
 msgid "Посетитель ресторана 3"
-msgstr ""
+msgstr "Cliente de restaurante 3"
 
 # game/scripts/sell_books_game/characters.rpy:864
 msgid "Посетитель ресторана 4"
-msgstr ""
+msgstr "Cliente de restaurante 4"
 
 # game/scripts/sell_books_game/characters.rpy:872
 msgid "Посетитель ресторана 5"
-msgstr ""
+msgstr "Cliente de restaurante 5"
 
 # game/scripts/sell_books_game/characters.rpy:880
 msgid "Посетитель ресторана 6"
-msgstr ""
+msgstr "Cliente de restaurante 6"
 
 # game/scripts/sell_books_game/characters.rpy:888
 msgid "Посетитель ресторана 7"
-msgstr ""
+msgstr "Cliente de restaurante 7"
 
 # game/scripts/sell_books_game/characters.rpy:896
 msgid "Посетитель ресторана 8"
-msgstr ""
+msgstr "Cliente de restaurante 8"
 
 # game/scripts/sell_books_game/characters.rpy:903
 msgid "Сильвио Данте"
-msgstr ""
+msgstr "Silvio Dante"
 
 # game/scripts/sell_books_game/characters.rpy:910
 msgid "Лилит"
