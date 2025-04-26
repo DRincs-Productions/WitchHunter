@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:12\n"
+"PO-Revision-Date: 2025-04-26 16:01\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/label_first_meet.rpy:4 #-#-# translate crowdin first_meet_8bd86d07:
 msgid "[_cedrick_] Что-ж, пока никто сюда не явился, самое время начать изучать местные книги"
@@ -178,7 +178,7 @@ msgstr "[_cornelia_] ¿Qué tal si te damos nuestros números de móvil y nos av
 
 # game/label_first_meet.rpy:160 #-#-# translate crowdin first_meet_e00b6067:
 msgid "[_cedrick_]  Эм... К сожалению, я недавно потерял свой телефон..."
-msgstr "[_cedrick_]  Um... Desafortunadamente, hace poco perdí mi teléfono..."
+msgstr "[_cedrick_]  mmm... Desafortunadamente, hace poco perdí mi teléfono..."
 
 # game/label_first_meet.rpy:166 #-#-# translate crowdin first_meet_d6a93290:
 msgid "[_cornelia_] Вы потеряли свой мобильник? Ну вы даете..."
@@ -210,7 +210,7 @@ msgstr "[_cornelia_] Bueno, si ese es el caso... Te dejaremos nuestras direccion
 
 # game/label_first_meet.rpy:193 #-#-# translate crowdin first_meet_dcd297c6:
 msgid "[_cedrick_] Хорошо "
-msgstr "[_cedrick_] Está bien "
+msgstr "[_cedrick_] Está bien"
 
 # game/label_first_meet.rpy:194 #-#-# translate crowdin first_meet_a20cefa7:
 msgid "..."
