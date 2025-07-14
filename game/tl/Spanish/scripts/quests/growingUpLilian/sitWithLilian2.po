@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-04-26 15:04\n"
+"PO-Revision-Date: 2025-07-14 04:29\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -30,7 +30,7 @@ msgstr "[_cornelia_] Tengo unos asuntos urgentes y necesito ausentarme un tiempo
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:12 #-#-# translate crowdin sitWithLilian2_b38bb853:
 msgid "[_cedrick_] Эм, знаешь, в прошлый раз у нас с Лилит все закончилось не самым лучшим образом.."
-msgstr ""
+msgstr "[_cedrick_] Um, ya sabes, la última vez las cosas no terminaron bien entre Lilith y yo..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:13 #-#-# translate crowdin sitWithLilian2_7ee977b9:
 msgid "[_cornelia_] Рик, я знаю, иногда она та еще головная боль, но я не могу ее оставить.."
