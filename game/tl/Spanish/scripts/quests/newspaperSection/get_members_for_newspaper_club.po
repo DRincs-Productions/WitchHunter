@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:40\n"
+"PO-Revision-Date: 2025-08-09 18:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:5 #-#-# translate crowdin get_members_for_newspaper_club_7dd13b6d:
 msgid "[_elion_] Похоже школьная газета теперь выпускает полный отстой"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:7 #-#-# translate crowdin get_members_for_newspaper_club_eea6357b:
 msgid "[_will_] Учитель паркуется у гидранта.... Кошмар"
-msgstr ""
+msgstr "[_will_] Profesor aparca junto a una boca de riego.... Pesadilla"
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:8 #-#-# translate crowdin get_members_for_newspaper_club_0752f4de:
 msgid "[_haylin_] А как тебе это? Плюшки в школьном буфете! Разоблачительный репортаж.."
@@ -30,7 +30,7 @@ msgstr ""
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:9 #-#-# translate crowdin get_members_for_newspaper_club_58e01a1c:
 msgid "[_tarani_] А фотки то какие, смотрите, как сняли плюшку!"
-msgstr ""
+msgstr "[_tarani_] ¡Y mira las fotos, mira cómo han cogido el bollo!"
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:10 #-#-# translate crowdin get_members_for_newspaper_club_0c0bb56b:
 msgid "[_cornelia_]  Кстати о фото, как я вам на них?"
