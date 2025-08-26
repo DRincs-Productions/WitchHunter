@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-21 03:40\n"
+"PO-Revision-Date: 2025-08-26 22:38\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/check_irma_and_tarani_in_barracks.rpy:6 #-#-# translate crowdin check_irma_and_tarani_in_barracks_ed65cc5d:
 msgid "[_cedrick_] Как продвигаются тренировки стражниц, Булдж?"
@@ -834,7 +834,7 @@ msgstr ""
 
 # game/scripts/quests/questTrainingOfGuards/check_irma_and_tarani_in_barracks.rpy:470 #-#-# translate crowdin gallery_d_094_5e3336f7:
 msgid "[_cedrick_] Да..."
-msgstr ""
+msgstr "[_cedrick_] Sí..."
 
 # game/scripts/quests/questTrainingOfGuards/check_irma_and_tarani_in_barracks.rpy:474 #-#-# translate crowdin gallery_d_094_795678bb_2:
 msgid "[_irma_] ..."
