@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-04-26 15:04\n"
+"PO-Revision-Date: 2025-08-26 22:38\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:2 #-#-# translate crowdin kidnapLilianToMeridianCastle_79d6a34e:
 msgid "[_cedrick_] (Да к черту. Я воспользуюсь любой возможностью, чтобы сокрушить моральный дух стражниц)"
@@ -98,7 +98,7 @@ msgstr "[_cedrick_] Pronto podré hacerte adulta, pero tendrás que esperar un p
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:43 #-#-# translate crowdin kidnapLilianToMeridianCastle_60f455fe:
 msgid "[_lilian_] Хорошо..."
-msgstr ""
+msgstr "[_lilian_] Está bien..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:45 #-#-# translate crowdin kidnapLilianToMeridianCastle_7f2e60e0:
 msgid "[_centered_] {size=37}Позже в доме хейлов{/size} [withDissolve1]"
