@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:01\n"
+"PO-Revision-Date: 2025-08-26 22:38\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:4 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_e23f3887:
 msgid "[_miranda_] Ты достал образец волос твоего полицейского?"
@@ -382,7 +382,7 @@ msgstr "[_cedrick_] Me aseguraré de decírtelo… Quizás… Mientras Irma est�
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:263 #-#-# translate crowdin gallery_d_015_e5cb8d7d:
 msgid "[_centered_] {size=37}Спустя несколько минут{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {size=37}Pasados unos minutos{/size} [withDissolve1]"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:266 #-#-# translate crowdin gallery_d_015_37b3eda2:
 msgid "[_cedrick_] о да"
@@ -494,7 +494,7 @@ msgstr "…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:309 #-#-# translate crowdin gallery_d_015_e5cb8d7d_1:
 msgid "[_centered_] {size=37}Спустя несколько минут{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {size=37}Pasados unos minutos{/size} [withDissolve1]"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:315 #-#-# translate crowdin gallery_d_015_4e1e8928:
 msgid "[_anna_] Солнышко… По поводу того, что ты видела сегодня… иногда, когда мужчина и женщина любят дру…"
