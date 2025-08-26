@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-23 15:57\n"
+"PO-Revision-Date: 2025-08-26 22:38\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:162 #-#-# translate crowdin podskazka_f6227483:
 msgid "Следующая мини игра представляет из себя некое подобие мини игры из старых флеш игр и вероятно вы могли уже сталкивался с подобным."
@@ -762,7 +762,7 @@ msgstr ""
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:662 #-#-# translate crowdin gallery_d_102_5e3336f7:
 msgid "[_cedrick_] Да..."
-msgstr ""
+msgstr "[_cedrick_] Sí..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:666 #-#-# translate crowdin gallery_d_102_0d3a36a3:
 msgid "[_will_] Отлично!"
