@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-08-26 22:38\n"
+"PO-Revision-Date: 2025-11-01 19:28\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -146,7 +146,7 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:69 #-#-# translate crowdin sitWithLilian2_5dfff8de:
 msgid "[_lilith_] Ох, черт… Неплохо, Рик, поймал меня.. Да, я тоже порой становлюсь жертвой предрассудков"
-msgstr ""
+msgstr "[_lilith_]  Oh, mierda...  No está mal, Rick, me has pillado...  Sí, yo también a veces soy víctima de los prejuicios"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:71 #-#-# translate crowdin sitWithLilian2_9edb4a40:
 msgid "[_cedrick_] Ничего, от этого никто не застрахован. Даже гении-неформалы, считывающие музыкальные вкусы людей"
