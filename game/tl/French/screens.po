@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-26 10:38\n"
+"PO-Revision-Date: 2025-11-09 23:48\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:71
 msgid "[tooltip]"
@@ -42,7 +42,7 @@ msgstr "Galerie"
 
 # game/screens.rpy:444
 msgid "Чит-меню"
-msgstr ""
+msgstr "français "
 
 # game/screens.rpy:445
 msgid "Поддержать"
