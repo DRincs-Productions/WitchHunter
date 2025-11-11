@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-20 23:27\n"
+"PO-Revision-Date: 2025-11-11 21:14\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:4 #-#-# translate crowdin visit_the_silver_dragon_ada0e601:
 msgid "[_haylin_] Р-рик!? Что ты.."
@@ -1650,7 +1650,7 @@ msgstr ""
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1121 #-#-# translate crowdin minigame_3_f87c22db:
 msgid "Далее будет небольшая мини игра, желаете пройти обучение?"
-msgstr ""
+msgstr "A continuación habrá un pequeño minijuego, ¿te gustaría completar el entrenamiento?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1132 #-#-# translate crowdin tut_joan_be34c59f:
 msgid "В данной мини игре вы занимаетесь сексом с Джоан Лин."
@@ -1690,7 +1690,7 @@ msgstr ""
 
 # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1146 #-#-# translate crowdin tut_joan_c778bb29:
 msgid "На этом все. Приятной игры."
-msgstr ""
+msgstr "Eso es todo por ahora. ¡Disfruta del partido."
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:169
 msgid "Минимальная мощность"
