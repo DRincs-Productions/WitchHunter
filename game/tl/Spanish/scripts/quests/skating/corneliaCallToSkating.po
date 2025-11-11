@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:13\n"
+"PO-Revision-Date: 2025-11-11 21:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/skating/corneliaCallToSkating.rpy:12 #-#-# translate crowdin corneliaCallToSkating_d4c2dcac:
 msgid "[_cornelia_] Привет, Рик!"
@@ -70,7 +70,7 @@ msgstr "[_cedrick_] No sé, no quiero ser una carga."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:57 #-#-# translate crowdin corneliaCallToSkating_8d8450e3:
 msgid "[_cornelia_] Ну давай! Я научу тебя кататься, а ты ...как-нибудь посидишь с моей сестрой, идет? "
-msgstr ""
+msgstr "_cornelia_] ¡Vamos! Te enseñaré a patinar y tú... cuida a mi hermana alguna vez, ¿de acuerdo"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:58 #-#-# translate crowdin corneliaCallToSkating_da6db167:
 msgid "[_cornelia_] Услуга за услугу."
