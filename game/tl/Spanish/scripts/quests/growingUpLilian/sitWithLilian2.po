@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-11-01 19:28\n"
+"PO-Revision-Date: 2025-11-11 20:11\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -78,7 +78,7 @@ msgstr "[_lilith_] Sin ofender, simplemente me molesta esta sensación de impote
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:31 #-#-# translate crowdin sitWithLilian2_2f72c9f0:
 msgid "[_cedrick_] Без обид? Хах, я думал тебе все равно, обижусь я или нет"
-msgstr ""
+msgstr "¿Sin resentimientos? Pensé que no te importaba si me ofendía o no"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:33 #-#-# translate crowdin sitWithLilian2_423181ee:
 msgid "[_lilith_] Эм.. Мне все равно, просто.."
@@ -98,7 +98,7 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:41 #-#-# translate crowdin sitWithLilian2_ada6468d:
 msgid "[_centered_] {size=37}Спустя одну серию аниме{/size}"
-msgstr ""
+msgstr "{size=37}Después de un episodio de anime{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:49 #-#-# translate crowdin sitWithLilian2_becf8350:
 msgid "[_cedrick_] Получается у школьника есть тетрадь, с помощью которой он может убить кого угодно, вписав его имя в тетрадь?"
