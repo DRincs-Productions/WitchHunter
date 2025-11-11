@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 11:07\n"
+"PO-Revision-Date: 2025-11-11 21:14\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:4 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_2_a9395fd6:
 msgid "[_centered_] {size=37}НА СЛЕДУЮЩИЙ ДЕНЬ, УТРОМ{/size}"
@@ -150,7 +150,7 @@ msgstr ""
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:85 #-#-# translate crowdin gallery_d_055_73a16893:
 msgid "[_cedrick_] Что такое?"
-msgstr ""
+msgstr "[_cedrick_] ¿Qué es?"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_2.rpy:86 #-#-# translate crowdin gallery_d_055_1b36e3c5:
 msgid "[_will_] Т-твоя рука.. она все еще.. трогает меня.."
