@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:46\n"
+"PO-Revision-Date: 2025-11-11 21:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:6 #-#-# translate crowdin persuade_the_alchemy_to_testify_4813c441:
 msgid "[_cedrick_] Хей, давно не виделись, Алхими. Как тебе новые покои?"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:21 #-#-# translate crowdin persuade_the_alchemy_to_testify_73a16893:
 msgid "[_cedrick_] Что такое?"
-msgstr ""
+msgstr "[_cedrick_] ¿Qué es?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:25 #-#-# translate crowdin persuade_the_alchemy_to_testify_434e1aa7:
 msgid "[_alchemy_] Кажется.. Кажется я все больше начинаю ему надоедать.."
