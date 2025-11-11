@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:18\n"
+"PO-Revision-Date: 2025-11-11 20:12\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_check_frogs.rpy:13 #-#-# translate crowdin will_check_frogs_7fd3ab08:
 msgid "[_will_] Привет, Рик, верно?"
@@ -30,7 +30,7 @@ msgstr "[_will_] ¿Por casualidad tienes una rana coleccionable de Cut the Rope?
 
 # game/scripts/quests/will/will_check_frogs.rpy:27 #-#-# translate crowdin will_check_frogs_0e982999:
 msgid "[_cedrick_sprite_] Cur the Rope?"
-msgstr "[_cedrick_sprite_] ¿Cur the Rope?"
+msgstr "[cedrick sprite] ¿Cortar la cuerda?"
 
 # game/scripts/quests/will/will_check_frogs.rpy:28 #-#-# translate crowdin will_check_frogs_4f5f384a:
 msgid "[_will_] Ну как бы объяснить, это популярная мобильная игра"
