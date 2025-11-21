@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-11-11 21:14\n"
+"PO-Revision-Date: 2025-11-21 03:22\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -302,67 +302,67 @@ msgstr "[_cedrick_] (¡Genial, esta es mi oportunidad!)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:128 #-#-# translate crowdin sitWithLilian2_fe0192ff:
 msgid "[_centered_] {size=37}СПУСТЯ НЕСКОЛЬКО ДОЛГИХ ОТКРОВЕННЫХ РАЗГОВОРОВ{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}DESPUÉS DE VARIAS CONVERSACIONES LARGAS Y FRANCESAS{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:135 #-#-# translate crowdin sitWithLilian2_6eccb8b3:
 msgid "[_lilith_] Знаешь, основная проблема Корнелии в том, что она все еще видит во мне ребенка"
-msgstr ""
+msgstr "[_lilith_] ¿Sabes? El principal problema de Cornelia es que todavía me ve como una niña."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:136 #-#-# translate crowdin sitWithLilian2_4836b7bd:
 msgid "[_lilith_] Да, это довольно избитая фраза, но.. Черт, я уже давно не клоп, как она любила меня называть. Не та светлая маленькая девочка"
-msgstr ""
+msgstr "[_lilith_] Sí, es un poco cliché, pero... ¡Caramba!, ya no soy un bicho, como solía llamarme. Ya no soy esa niña tan lista."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:137 #-#-# translate crowdin sitWithLilian2_494fa560:
 msgid "[_lilith_] Я меняюсь, меняются мои интересы, меняются мои взгляды.. Все меняется, я же человек"
-msgstr ""
+msgstr "[_lilith_] Yo en cambio, mis intereses cambian, mis opiniones cambian... Todo cambia, soy humana."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:138 #-#-# translate crowdin sitWithLilian2_38e7f49a:
 msgid "[_lilith_] Ожидать, что я навсегда останусь ребенком, который любит мягкие игрушки и мультики про пони.. Это.. даже не знаю.."
-msgstr ""
+msgstr "[_lilith_] ¿Esperar que siga siendo para siempre una niña que ama los peluches y los dibujos animados de ponis?... No lo entiendo."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:139 #-#-# translate crowdin sitWithLilian2_d4f7b126:
 msgid "[_lilith_] Это как-то нездорово.."
-msgstr ""
+msgstr "[_lilith_] Esto no es saludable de ninguna manera..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:140 #-#-# translate crowdin sitWithLilian2_078f8314:
 msgid "[_lilith_] Черт, если бы она просто поинтересовалась тем, что мне стало интересно сейчас, а не цеплялась за прошлую меня и те мои интересы, что уже давно ушли.."
-msgstr ""
+msgstr "[_lilith_] ¡Maldita sea! Si tan solo me hubiera preguntado qué me interesaba ahora, en lugar de aferrarse a mi yo del pasado y a intereses que ya no existen."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:141 #-#-# translate crowdin sitWithLilian2_bbd15d0d:
 msgid "[_lilith_] Ей как будто просто не хочется узнать новые стороны моей личности.."
-msgstr ""
+msgstr "[_lilith_] Es como si simplemente no quisiera conocer nuevas facetas de mi personalidad."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:142 #-#-# translate crowdin sitWithLilian2_6b6cb508:
 msgid "[_lilith_] Думаешь мы хоть когда-нибудь смотрели с ней вот так аниме? Пф, да никогда.."
-msgstr ""
+msgstr "[_lilith_] ¿Crees que alguna vez he visto anime con ella así? ¡Ja! Nunca."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:143 #-#-# translate crowdin sitWithLilian2_6fb9c269:
 msgid "[_lilith_] И она никогда не хотела послушать мою музыку.."
-msgstr ""
+msgstr "[_lilith_] Y ella nunca quiso escuchar mi música..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:144 #-#-# translate crowdin sitWithLilian2_5bf89daf:
 msgid "[_lilith_] Черт, даже ты был в ней заинтересован, а мы с тобой знакомы пару дней.."
-msgstr ""
+msgstr "[_lilith_] ¡Caramba, hasta tú estabas interesado en ella, y apenas nos conocemos desde hace un par de días!"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:146 #-#-# translate crowdin sitWithLilian2_e5582729:
 msgid "[_cedrick_] Мда, это все печально.. Но это же классические проблемы недопонимания. Ты пробовала обсудить с ней это?"
-msgstr ""
+msgstr "[_cedrick_] Sí, es muy triste... Pero son malentendidos típicos. ¿Has intentado hablar con ella sobre esto?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:148 #-#-# translate crowdin sitWithLilian2_43d31c85:
 msgid "[_lilith_] Пф, конечно нет.. Думаешь она стала бы слушать?"
-msgstr ""
+msgstr "[_lilith_] ¡Bah, claro que no! ¿Crees que me haría caso?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:150 #-#-# translate crowdin sitWithLilian2_f24efae4:
 msgid "[_cedrick_] Я бы как минимум попробовал. К тому же ей определенно на тебя не плевать"
-msgstr ""
+msgstr "[_cedrick_] Yo al menos lo intentaría. Además, es evidente que ella se preocupa por ti."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:152 #-#-# translate crowdin sitWithLilian2_344e3e0d:
 msgid "[_lilith_] С чего ты взял?"
-msgstr ""
+msgstr "[_lilith_] ¿Qué te hace pensar eso?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:154 #-#-# translate crowdin sitWithLilian2_2d554c24:
 msgid "[_cedrick_] Хм.. Как минимум она несколько раз просила меня присмотреть за тобой, потому что она не хочет оставлять тебя одну"
-msgstr ""
+msgstr "[_cedrick_] Mmm... Al menos me pidió varias veces que te cuidara porque no quiere dejarte sola."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:156 #-#-# translate crowdin sitWithLilian2_e19676fd_2:
 msgid "[_lilith_] ..."
@@ -370,91 +370,91 @@ msgstr "[_lilith_] ..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:158 #-#-# translate crowdin sitWithLilian2_047a9bab:
 msgid "[_lilith_] Черт, из-за болезни я стала слишком эмоциональна…"
-msgstr ""
+msgstr "[_lilith_] Maldita sea, mi enfermedad me ha vuelto demasiada sensible..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:159 #-#-# translate crowdin sitWithLilian2_613b4a5d:
 msgid "[_lilith_] Давай сменим тему, а то я так могу и расплакаться.. Но, да, думаю ты прав.."
-msgstr ""
+msgstr "[_lilith_] Cambiemos de tema, que si no me pongo a llorar... Pero sí, creo que tienes razón..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:161 #-#-# translate crowdin sitWithLilian2_1901f8a6:
 msgid "[_cedrick_] Окей.. эм.."
-msgstr ""
+msgstr "[_cedrick_] Vale... eh..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:162 #-#-# translate crowdin sitWithLilian2_d0a2f625:
 msgid "[_cedrick_] Ты правда перевелась в интернат потому что тебе надоели похотливые взгляды одноклассников?"
-msgstr ""
+msgstr "[_cedrick_] ¿De verdad te cambiaste a un internado porque estabas harta de las miradas lascivas de tus compañeros?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:164 #-#-# translate crowdin sitWithLilian2_995a213b:
 msgid "[_lilith_] Хах, отчасти. Если бы меня это настолько доставало, то я бы просто одевалась бы скромнее"
-msgstr ""
+msgstr "[_lilith_] Ja, en parte. Si me molestara tanto, simplemente me vestiría de forma más modesta."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:165 #-#-# translate crowdin sitWithLilian2_227f47ce:
 msgid "[_lilith_] Надела бы специальный корсет, чтобы сиськи не так вызывающе торчали и так далее"
-msgstr ""
+msgstr "[_lilith_] Me pondría un corsé especial para que mis pechos no sobresalieran de forma tan provocativa, etcétera."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:166 #-#-# translate crowdin sitWithLilian2_cfd33b2f:
 msgid "[_lilith_] Но знаешь, мне нравится мое тело и я считаю что никто не может мне диктовать то, как я должна выглядеть"
-msgstr ""
+msgstr "[_lilith_] Pero sabes, me gusta mi cuerpo y no creo que nadie pueda decirme cómo debo verme."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:167 #-#-# translate crowdin sitWithLilian2_40c2f641:
 msgid "[_lilith_] Только я это решаю и если я хочу выглядеть не только брутально и готично, но и сексуально, то, черт, я это сделаю и никто меня не остановит"
-msgstr ""
+msgstr "[_lilith_] La decisión es mía, y si quiero verme no solo brutal y gótica, sino también sexy, entonces, ¡diablos!, lo haré y nadie me lo impedirá."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:169 #-#-# translate crowdin sitWithLilian2_a847aa91:
 msgid "[_cedrick_] Хах, это в духе твоей принципиальности"
-msgstr ""
+msgstr "[_cedrick_] Ja, eso está en consonancia con tus principios."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:171 #-#-# translate crowdin sitWithLilian2_a9d0d6de:
 msgid "[_lilith_] Ох, говоришь так, словно знаешь меня, но не обольщайся"
-msgstr ""
+msgstr "[_lilith_] Oh, hablas como si me conocieras, pero no te hagas ilusiones."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:172 #-#-# translate crowdin sitWithLilian2_972675fb:
 msgid "[_lilith_] Я просто достаточно невменяемая сейчас из-за температуры, чтобы откровенничать тут с тобой и поднимать всякие щепетильные темы"
-msgstr ""
+msgstr "[_lilith_] No me encuentro del todo bien ahora mismo debido a la fiebre, así que no puedo ser sincera contigo ni hablar de temas delicados."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:174 #-#-# translate crowdin sitWithLilian2_08eda71f:
 msgid "[_cedrick_] Да уж, тут с тобой не поспоришь"
-msgstr ""
+msgstr "[_cedrick_] Bueno, en eso no puedo discutir contigo."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:176 #-#-# translate crowdin sitWithLilian2_b3d7441d:
 msgid "[_lilith_] К вопросу о щепетильных темах. Черт, Рик, ты хоть представляешь, насколько сложно жить с такой большой грудью?"
-msgstr ""
+msgstr "[_lilith_] Hablando de temas delicados, Rick, ¿tienes idea de lo difícil que es vivir con unos pechos tan grandes?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:178 #-#-# translate crowdin sitWithLilian2_47ffec59:
 msgid "[_cedrick_] (Она сейчас что, начинает со мной разговаривать как со своей подружкой?)"
-msgstr ""
+msgstr "[_cedrick_] (¿Está empezando a hablarme como si fuera su novio ahora?)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:179 #-#-# translate crowdin sitWithLilian2_3e823ac6:
 msgid "[_cedrick_] Даже не представляю.."
-msgstr ""
+msgstr "[_cedrick_] No puedo ni imaginarlo..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:181 #-#-# translate crowdin sitWithLilian2_34eefc6b:
 msgid "[_lilith_] Вот именно, не представляешь.. Они ж блин подпрыгивают как баскетбольные мячи, стоит мне хоть немного прибавить шаг.."
-msgstr ""
+msgstr "[_lilith_]  Así es, no te lo puedes imaginar... Rebotan como balones de baloncesto en cuanto aumento un poco la velocidad."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:183 #-#-# translate crowdin sitWithLilian2_6e55a28f:
 msgid "[_cedrick_] Хм.. Ты правда хочешь, чтобы я сейчас начал обсуждать с тобой твою грудь?"
-msgstr ""
+msgstr "[_cedrick_] Mmm... ¿De verdad quieres que empiece a hablar de tus pechos ahora?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:184 #-#-# translate crowdin sitWithLilian2_d30b69dd:
 msgid "[_cedrick_] Думаю ты и так прекрасно знаешь, что я мог бы сказать на эту тему"
-msgstr ""
+msgstr "[_cedrick_] Creo que ya sabes muy bien lo que podría decir sobre el tema."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:186 #-#-# translate crowdin sitWithLilian2_1aa0b5c7:
 msgid "[_lilith_] Да, само собой, и не только сказать"
-msgstr ""
+msgstr "[_lilith_] Sí, por supuesto, y no sólo para decir."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:187 #-#-# translate crowdin sitWithLilian2_bd15fbac:
 msgid "[_lilith_] Думаю ты бы ее облапал, позволь я тебе и будь мы в достаточно близких отношениях. Даже девушки хотят ее облапать, что уж там говорить"
-msgstr ""
+msgstr "[_lilith_] Creo que la manosearías si te dejara y estuviéramos lo suficientemente cerca. Incluso las chicas quieren manosearla, ¿qué puedo decir?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:189 #-#-# translate crowdin sitWithLilian2_0ee4e372:
 msgid "[_cedrick_] Хах, я не удивлен.. Значит, побег в интернат не сильно помог"
-msgstr ""
+msgstr "[_cedrick_] Ja, no me sorprende... Así que escaparse a un internado no sirvió de mucho."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:191 #-#-# translate crowdin sitWithLilian2_ce3d76ab:
 msgid "[_lilith_] Типо того"
-msgstr ""
+msgstr "[_lilith_] Algo así."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:192 #-#-# translate crowdin sitWithLilian2_e19676fd_3:
 msgid "[_lilith_] ..."
@@ -462,11 +462,11 @@ msgstr "[_lilith_] ..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:193 #-#-# translate crowdin sitWithLilian2_21c62688:
 msgid "[_lilith_] Честно говоря, туда меня отправили родители за плохое поведение.. Если можно так выразиться.."
-msgstr ""
+msgstr "[_lilith_] Para ser sincero, mis padres me mandaron allí por mal comportamiento... Si se puede decir así..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:195 #-#-# translate crowdin sitWithLilian2_b5abd8b4:
 msgid "[_cedrick_] Вау.. Жестко.. За что они тебя так?"
-msgstr ""
+msgstr "[_cedrick_] ¡Guau! ¡Qué duro! ¿Por qué te hicieron esto?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:197 #-#-# translate crowdin sitWithLilian2_88f3def0:
 msgid "[_lilith_] Хах, вот об этом я с тобой пока не готова говорить"
