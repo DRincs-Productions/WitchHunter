@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-11 09:14\n"
+"PO-Revision-Date: 2025-12-24 10:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/imagemaplabels/bookshop_leave.rpy:6 #-#-# translate crowdin bookshop_leave_bbb233be:
 msgid "[_cedrick_] {i}(Пойду прогуляюсь..){/i}"
-msgstr ""
+msgstr "[_cedrick_] {i}(我去散散步吧..){/i}"
 
 # game/scripts/bookshop/imagemaplabels/bookshop_leave.rpy:9 #-#-# translate crowdin bookshop_leave_45f3d445:
 msgid "[_cedrick_] {i}(У меня дела в городе, Элион, оставляю магазин на тебя.){/i}"
-msgstr ""
+msgstr "[_cedrick_] {i}(我在城里有事，伊利昂，店交给你了。){/i}"
 
 # game/scripts/bookshop/imagemaplabels/bookshop_leave.rpy:11 #-#-# translate crowdin bookshop_leave_f55d0982:
 msgid "[_cedrick_] {i}(Пожалуй, стоит сходить и немного осмотреться){/i}"
-msgstr ""
+msgstr "[_cedrick_] {i}（也许值得去四处看看）{/i}"
 
