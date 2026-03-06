@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-06 06:33\n"
+"PO-Revision-Date: 2026-03-06 08:25\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -50,7 +50,7 @@ msgstr "[_cornelia_] ¡Gracias, Rick! ¡Sabía que podía contar contigo!"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:17 #-#-# translate crowdin sitWithLilian2_cb522d35:
 msgid "[_cornelia_] Ты не представляешь, как это для меня важно сейчас.."
-msgstr "[_cornelia_] No tienes idea de cuán importante es esto para mí ahora.."
+msgstr "[_cornelia_] No tienes idea de lo importante que es esto para mí ahora mismo."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:18 #-#-# translate crowdin sitWithLilian2_24acaa40:
 msgid "[_cornelia_] Ты лучший!"
@@ -78,7 +78,7 @@ msgstr "[_lilith_] Sin ofender, simplemente me molesta esta sensación de impote
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:31 #-#-# translate crowdin sitWithLilian2_2f72c9f0:
 msgid "[_cedrick_] Без обид? Хах, я думал тебе все равно, обижусь я или нет"
-msgstr "¿Sin resentimientos? Pensé que no te importaba si me ofendía o no"
+msgstr "[_cedrick_] ¿Sin ofender? Jaja, pensé que no te importaba si me ofendía o no."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:33 #-#-# translate crowdin sitWithLilian2_423181ee:
 msgid "[_lilith_] Эм.. Мне все равно, просто.."
@@ -86,7 +86,7 @@ msgstr "[_lilith_] Mmm... no me importa, es solo que.."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:34 #-#-# translate crowdin sitWithLilian2_b74b61cc:
 msgid "[_lilith_] Ладно, не суть. Я собиралась сейчас смотреть аниме. Не то чтобы у тебя есть выбор, но если хочешь, можешь присоединиться"
-msgstr "[_lilith_] Vale, da igual. Justo iba a ver anime. No es que tengas opción, pero puedes unirte si quieres"
+msgstr "[_lilith_] Bueno, olvídalo. Estaba a punto de ver anime. No es que tengas opción, pero puedes unirte si quieres."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:36 #-#-# translate crowdin sitWithLilian2_a4d6b593:
 msgid "[_cedrick_] Эм.. Спасибо за предложение. Пожалуй у меня и вправду нет особо выбора"
@@ -94,7 +94,7 @@ msgstr "[_cedrick_] Mmm... Gracias por la oferta. Supongo que no me queda mucha 
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:38 #-#-# translate crowdin sitWithLilian2_1aaa7dcc:
 msgid "[_cedrick_] (Смотреть аниме.. До чего я докатился?)"
-msgstr "[_cedrick_] (Mira anime... ¿En qué me he convertido?)"
+msgstr "[_cedrick_] (Ver anime... ¿En qué he llegado?)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:41 #-#-# translate crowdin sitWithLilian2_ada6468d:
 msgid "[_centered_] {size=37}Спустя одну серию аниме{/size}"
@@ -106,7 +106,7 @@ msgstr "[_cedrick_] Entonces, ¿el colegial tiene un cuaderno con el que puede m
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:51 #-#-# translate crowdin sitWithLilian2_946db81d:
 msgid "[_lilith_] Ага"
-msgstr "[_lilith_] Para él"
+msgstr "[_lilith_] ..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:53 #-#-# translate crowdin sitWithLilian2_69594d60:
 msgid "[_cedrick_] И противостоит этому злому школьнику другой аутичный школьник-детектив"
@@ -314,7 +314,7 @@ msgstr "[_lilith_] Sí, es un poco cliché, pero... ¡Caramba!, ya no soy un bic
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:137 #-#-# translate crowdin sitWithLilian2_494fa560:
 msgid "[_lilith_] Я меняюсь, меняются мои интересы, меняются мои взгляды.. Все меняется, я же человек"
-msgstr "[_lilith_] Yo en cambio, mis intereses cambian, mis opiniones cambian... Todo cambia, soy humana."
+msgstr "[_lilith_] Yo en cambio, mis intereses cambian, mis opiniones cambian... Todo cambia, soy humana"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:138 #-#-# translate crowdin sitWithLilian2_38e7f49a:
 msgid "[_lilith_] Ожидать, что я навсегда останусь ребенком, который любит мягкие игрушки и мультики про пони.. Это.. даже не знаю.."
@@ -1418,19 +1418,19 @@ msgstr "[_cornelia_] (Mmmmmhhh... Es tan insistente... P-pero, ah...)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:801 #-#-# translate crowdin gallery_d_040_3900219b:
 msgid "[_cornelia_] (К-кажется, я готова ему позволить это..)"
-msgstr ""
+msgstr "[_cornelia_] (C-creo que estoy lista para dejarlo hacerlo...)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:802 #-#-# translate crowdin gallery_d_040_e18b03be:
 msgid "[_cornelia_] (Н-неужели Рик настолько мне нравится?)"
-msgstr ""
+msgstr "[_cornelia_] (¿R-realmente me gusta tanto Rick?)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:803 #-#-# translate crowdin gallery_d_040_926f1054:
 msgid "[_cornelia_] (У-уверена ли я в собственных чувствах к нему..)"
-msgstr ""
+msgstr "[_cornelia_] (¿Estoy segura de mis propios sentimientos hacia él?)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:804 #-#-# translate crowdin gallery_d_040_4ebd86a5:
 msgid "[_cornelia_] Р-Рик.."
-msgstr ""
+msgstr "[_cornelia_] ¡R-Rick!"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:805 #-#-# translate crowdin gallery_d_040_73a16893:
 msgid "[_cedrick_] Что такое?"
@@ -1438,15 +1438,15 @@ msgstr "[_cedrick_] ¿Qué es?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:811 #-#-# translate crowdin gallery_d_040_d5a6d60c:
 msgid "[_cornelia_] Я.. Ммхх.. П-подожди.. Давай, сначала хотя бы поговорим"
-msgstr ""
+msgstr "[_cornelia_] Yo... Mmhh... E-espera... Vamos, al menos hablemos primero."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:815 #-#-# translate crowdin gallery_d_040_59ee36b1:
 msgid "[_cedrick_] Хах, но это же ты на меня набросилась"
-msgstr ""
+msgstr "[_cedrick_] Jajaja, pero fuiste tú quien me atacó."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:819 #-#-# translate crowdin gallery_d_040_c23944c7:
 msgid "[_cornelia_] Эм, д-да, я.."
-msgstr ""
+msgstr "[_cornelia_] Um, s-sí, yo..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:823 #-#-# translate crowdin gallery_d_040_13c717d6:
 msgid "[_cornelia_] ..."
