@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-06 02:59\n"
+"PO-Revision-Date: 2026-03-06 06:33\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -1170,39 +1170,39 @@ msgstr "[_lilith_] Gra-gracias, Rick. Realmente te debo una."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:656 #-#-# translate crowdin lilith_no_40322c2f:
 msgid "[_cedrick_] Ты вообще дойти то сможешь? Может тебе кофе хотя-бы приготовить?"
-msgstr ""
+msgstr "[_cedrick_] ¿Podrás siquiera caminar hasta aquí? ¿Quizás debería al menos prepararte un café?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:660 #-#-# translate crowdin lilith_no_35dd66f2:
 msgid "[_lilith_] Иу, ненавижу кофе"
-msgstr ""
+msgstr "[_lilith_] Ugh, odio el café."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:664 #-#-# translate crowdin lilith_no_eb051cc8:
 msgid "[_cedrick_] (Хах, так я и думал)"
-msgstr ""
+msgstr "[_cedrick_] (Jaja, eso es lo que pensé)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:668 #-#-# translate crowdin lilith_no_0b9e9e3a:
 msgid "[_lilith_] Не переживай, Рик, я просто закинусь всякими разными веществами и это поможет мне быть бодрой аж до конца фестиваля"
-msgstr ""
+msgstr "[_lilith_] No te preocupes, Rick, solo tomaré algunas sustancias diferentes y eso me ayudará a mantenerme alerta hasta el final del festival."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:672 #-#-# translate crowdin lilith_no_5fb9dfe9:
 msgid "[_cedrick_] Эм.. Это о каких таких веществах ты говоришь"
-msgstr ""
+msgstr "[_cedrick_] Umm... ¿De qué tipo de sustancias estás hablando?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:676 #-#-# translate crowdin lilith_no_6cb2aa50:
 msgid "[_lilith_] Хахах, ты не подумай, я про лекарства"
-msgstr ""
+msgstr "[_lilith_] Jajaja, no me malinterpretes, estoy hablando de medicamentos."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:680 #-#-# translate crowdin lilith_no_5b6936d4:
 msgid "[_cedrick_] А.."
-msgstr ""
+msgstr "[_cedrick_] Ah..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:684 #-#-# translate crowdin lilith_no_1463317b:
 msgid "[_lilith_] Наркотики если что Дарья привезет, это скорее по ее части"
-msgstr ""
+msgstr "[_lilith_] En todo caso, Daria traerá drogas, esa es más su área de especialización."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:688 #-#-# translate crowdin lilith_no_ce4dbd24:
 msgid "[_cedrick_] Мда.. Надеюсь ты там не помрешь"
-msgstr ""
+msgstr "[_cedrick_] Hmm... Espero que no mueras allí."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:692 #-#-# translate crowdin lilith_no_a9e9e3fc:
 msgid "[_lilith_] Хах, в таком месте и умереть не страшно, Рик"
@@ -1414,7 +1414,7 @@ msgstr "[_cedrick_] (Ja, y aún así, mientras me deje hacerlo. Bueno, ese es el
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:800 #-#-# translate crowdin gallery_d_040_780cf116:
 msgid "[_cornelia_] (Ммммхх.. Он такой напористый.. Н-но, ах..)"
-msgstr ""
+msgstr "[_cornelia_] (Mmmmmhhh... Es tan insistente... P-pero, ah...)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:801 #-#-# translate crowdin gallery_d_040_3900219b:
 msgid "[_cornelia_] (К-кажется, я готова ему позволить это..)"
