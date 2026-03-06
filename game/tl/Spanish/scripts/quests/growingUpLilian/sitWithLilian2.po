@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-06 08:25\n"
+"PO-Revision-Date: 2026-03-06 20:34\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -1454,7 +1454,7 @@ msgstr "[_cornelia_] ..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:827 #-#-# translate crowdin gallery_d_040_2d57b07c:
 msgid "[_cornelia_] Кстати, а где Лилиан?"
-msgstr ""
+msgstr "[_cornelia_] Por cierto ¿dónde está Lillian?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:831 #-#-# translate crowdin gallery_d_040_b52b21ab:
 msgid "[_cedrick_] (Вот черт, на самом интересном месте..)"
@@ -1558,11 +1558,11 @@ msgstr "[_cornelia_] Ok... Lo haré.."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:910 #-#-# translate crowdin gallery_d_040_cc5a5755:
 msgid "[_cornelia_] Но перед этим.."
-msgstr ""
+msgstr "[_cornelia_] Pero antes de eso..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:914 #-#-# translate crowdin gallery_d_040_db1f9a84:
 msgid "[_cornelia_] Пообещай и ты, что ни при каких условиях не навредишь моей сестре"
-msgstr ""
+msgstr "[_cornelia_] Prométeme que no le harás daño a mi hermana bajo ninguna circunstancia."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:918 #-#-# translate crowdin gallery_d_040_49316299:
 msgid "[_cedrick_] ..."
