@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-12-03 00:52\n"
+"PO-Revision-Date: 2026-03-06 01:31\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -950,11 +950,11 @@ msgstr "[_cedrick_] (Comprueba cómo se siente al tacto el pezón perforado.)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:483 #-#-# translate crowdin lilith2_015878c2:
 msgid "НЕ РИСКОВАТЬ"
-msgstr ""
+msgstr "NO CORRAS RIESGOS"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:484 #-#-# translate crowdin lilith2_66448bc0:
 msgid "СЖАТЬ СОСОК"
-msgstr ""
+msgstr "APRIETE EL PEZÓN"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:489 #-#-# translate crowdin lilith3_3bca34bd:
 msgid "[_cedrick_] (Хах, о чем я только думаю..)"
@@ -1030,35 +1030,35 @@ msgstr "[_cedrick_] (Tu madre... tengo que arreglarla rápidamente antes de que 
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:535 #-#-# translate crowdin lilith_no_56e4dcf9:
 msgid "[_centered_] {size=37}Пока Лилит неспешно приходит в сознание, Седрик быстро набрасывает на нее одежду и одеяло{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Mientras Lilith recupera lentamente la conciencia, Cedric rápidamente le arroja ropa y una manta encima.{/size}"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:541 #-#-# translate crowdin lilith_no_2066a511:
 msgid "[_lilith_] Але? Д-да.."
-msgstr ""
+msgstr "[_lilith_] ¿Hola? S-sí."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:542 #-#-# translate crowdin lilith_no_9b99ca44:
 msgid "[_lilith_] Нет, я, кхм, просто спала.."
-msgstr ""
+msgstr "[_lilith_] No, yo, eh, solo estaba durmiendo."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:546 #-#-# translate crowdin lilith_no_4ead5447:
 msgid "[_lilith_] Да, Дарья, что такое? Ты о чем?"
-msgstr ""
+msgstr "[_lilith_] Sí, Daria, ¿qué pasa? ¿De qué estás hablando?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:547 #-#-# translate crowdin lilith_no_b479be0e:
 msgid "[_cedrick_] (Фух.. Чуть не попался..)"
-msgstr ""
+msgstr "[_lilith_] (Ufff... Casi me atrapan...)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:548 #-#-# translate crowdin lilith_no_5fdf2319:
 msgid "[_cedrick_] (Но теперь у меня в штанах просто ядерная бомба.. Еще чуть-чуть и я бы кончил прямо на нее..)"
-msgstr ""
+msgstr "[_cedrick_] (Pero ahora tengo una bomba nuclear en mis pantalones... Sólo un poco más y me habría corrido directamente sobre ella.)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:552 #-#-# translate crowdin lilith_no_19935749:
 msgid "[_lilith_] Серьезно!?"
-msgstr ""
+msgstr "[_lilith_] ¿¡En serio!?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:556 #-#-# translate crowdin lilith_no_858892be:
 msgid "[_lilith_] Поняла!! Я выхожу. Встретимся на нашем месте, пока!"
-msgstr ""
+msgstr "[_lilith_] ¡Entendido! Me voy. Nos vemos en casa, ¡adiós!"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:560 #-#-# translate crowdin lilith_no_dd80b65e:
 msgid "[_cedrick_] Эм, Лилит? Куда ты собралась?"
@@ -1074,7 +1074,7 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:572 #-#-# translate crowdin lilith_no_1dde959a:
 msgid "[_lilith_] Бернинг Мэм. Самое эпохальное событие на целую неделю!! Билеты на него еще 3 месяца назад раскупили, при чем за 3 часа после старта продаж"
-msgstr ""
+msgstr "[_lilith_] Burning Ma'am. ¡El evento más épico de toda la semana! Las entradas se agotaron hace tres meses, a las tres horas de salir a la venta."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:576 #-#-# translate crowdin lilith_no_48d6dd77:
 msgid "[_lilith_] У меня еще ни разу не получалось на него попасть! Но теперь точно получится"
