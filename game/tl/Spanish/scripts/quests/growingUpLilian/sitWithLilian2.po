@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-06 20:34\n"
+"PO-Revision-Date: 2026-03-08 21:46\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
 msgid "Телефонный звонок"
@@ -1458,11 +1458,11 @@ msgstr "[_cornelia_] Por cierto ¿dónde está Lillian?"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:831 #-#-# translate crowdin gallery_d_040_b52b21ab:
 msgid "[_cedrick_] (Вот черт, на самом интересном месте..)"
-msgstr ""
+msgstr "[_cedrick_] (Oh, maldita sea, justo el momento más interesante.)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:832 #-#-# translate crowdin gallery_d_040_ff9e75d0:
 msgid "[_cedrick_] (Что ж, хорошо. Спектакль начинается)"
-msgstr ""
+msgstr "[_cedrick_] (Bueno, está bien. Empieza el espectáculo.)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:837 #-#-# translate crowdin gallery_d_040_471e6c98:
 msgid "[_cedrick_] Твоя сестра на Меридиане.."
@@ -1570,15 +1570,15 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:919 #-#-# translate crowdin gallery_d_040_be7b18f4:
 msgid "[_cedrick_] (Мда, чем дольше я буду медлить, тем больше здравых идей придет к ней в голову. Так и до вызова стражниц недалеко)"
-msgstr ""
+msgstr "[_cedrick_] (Sí, cuanto más espere, mejores ideas se le ocurrirán. No está lejos de convocar a los guardias.)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:920 #-#-# translate crowdin gallery_d_040_b3157225:
 msgid "[_cedrick_] (Лучше быстро согласиться и не дать ей времени все обдумать)"
-msgstr ""
+msgstr "[_cedrick_] (Es mejor llegar a un acuerdo rápido y no darle tiempo a pensarlo.)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:921 #-#-# translate crowdin gallery_d_040_76ebd6c0:
 msgid "[_cedrick_] Я согласен. Приступим к заключению обета"
-msgstr ""
+msgstr "[_cedrick_] Estoy de acuerdo. Procedamos a hacer el trato."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:922 #-#-# translate crowdin gallery_d_040_13c717d6_1:
 msgid "[_cornelia_] ..."
@@ -1590,15 +1590,15 @@ msgstr "..."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:928 #-#-# translate crowdin gallery_d_040_0911e14a:
 msgid "[_cedrick_] Сначала моя часть обета"
-msgstr ""
+msgstr "[_cedrick_] Primero, mi parte del trato."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:929 #-#-# translate crowdin gallery_d_040_0fe2c693:
 msgid "[_cedrick_] Я, Лорд Седрик с Меридиана, клянусь ни при каких обстоятельствах не вредить Лилит Хейл"
-msgstr ""
+msgstr "[_cedrick_] Yo, Lord Cedric de Meridian, juro no dañar a Lilith Hale bajo ninguna circunstancia."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:930 #-#-# translate crowdin gallery_d_040_cbbde48a:
 msgid "[_cedrick_] (Черт.. Теперь не смогу ею воспользоваться.. Но такова плата за поимку стражницы...)"
-msgstr ""
+msgstr "[_cedrick_] (Maldita sea... Ahora no puedo usarla... Pero ese es el precio por capturar a la guardiána...)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:932 #-#-# translate crowdin gallery_d_040_69e81637:
 msgid "[_cedrick_] Клянешься ли ты, Корнелия Хейл, сохранить в секрете то, куда пропала твоя сестра?"
@@ -1694,7 +1694,7 @@ msgstr "*tocan la puerta*"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:961 #-#-# translate crowdin gallery_d_040_114d315d:
 msgid "[_cedrick_] (ЧЕРТ, НЕУЖЕЛИ ЭТО ЛИЛИТ ВЕРНУЛАСЬ? ЧТО-ТО ЗАБЫЛА В ДОМЕ?)"
-msgstr ""
+msgstr "[_cedrick_] (MALDICIÓN, ¿LILITH VOVIÓ? ¿OLVIDÓ ALGO EN CASA?)"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:962 #-#-# translate crowdin gallery_d_040_191792cd:
 msgid "[_cornelia_] ....."
@@ -1774,27 +1774,27 @@ msgstr "[_cedrick_] (Bien, ha sido divertido, pero ahora tengo que salir de aqu�
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:987 #-#-# translate crowdin gallery_d_040_e21b606a:
 msgid "[_cedrick_] Это, конечно, был хороший отсос, но.. теперь мне стало интересно, все ли девушки из семьи Хейл делают такой хороший минет."
-msgstr ""
+msgstr "[_cedrick_] Ciertamente fue una buena mamada, pero... ahora me pregunto si todas las chicas de la familia Hale dan mamadas tan buenas."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:989 #-#-# translate crowdin gallery_d_040_8d74767f:
 msgid "[_cedrick_] Пожалуй, отправлюсь на Меридиан и позволю страже проверить"
-msgstr ""
+msgstr "[_cedrick_] Creo que me dirigiré a Meridian y dejaré que los guardias lo revisen."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:994 #-#-# translate crowdin gallery_d_041_3a94b0cd:
 msgid "[_cornelia_] У-ублюдок, ты же дал непреложный обет!"
-msgstr ""
+msgstr "[_cornelia_] ¡Tú, bastardo, hiciste un juramento inquebrantable!"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:998 #-#-# translate crowdin gallery_d_041_9c1c8fef:
 msgid "[_cedrick_] Я поклялся что сам не стану вредить Лилит. Но я ничего не говорил о случаи, когда ей вредит кто-то другой"
-msgstr ""
+msgstr "[_cedrick_] Juré que no le haría daño a Lilith yo mismo. Pero no dije nada sobre que alguien más le hiciera daño."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:1002 #-#-# translate crowdin gallery_d_041_162c248d:
 msgid "[_cornelia_] Ч-черт…"
-msgstr ""
+msgstr "[_cornelia_] N-no!"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:1006 #-#-# translate crowdin gallery_d_041_dfd59a27:
 msgid "[_cedrick_] Сама виновата, стоило как следует подумать над формулировкой моей части обета"
-msgstr ""
+msgstr "[_cedrick_] Es mi propia culpa, debería haber pensado más cuidadosamente en la redacción de mi parte del trato."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:1010 #-#-# translate crowdin gallery_d_041_ec695dbc:
 msgid "[_cornelia_] С-той.. Рик! Седрик!! Ты не посмеешь!! Я от тебя не отстану! Верни мне Лилиан!"
@@ -1866,7 +1866,7 @@ msgstr "[_cornelia_] ¡Mmmvvmm!"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:1039 #-#-# translate crowdin gallery_d_041_665d1375:
 msgid "[_cedrick_] Ключ, комната, заточение – это все обман. Твоя сестра вдруг резко сбежала на фестиваль, а я лишь воспользовался моментом"
-msgstr ""
+msgstr "[_cedrick_] La llave, la habitación, el confinamiento... todo es mentira. Tu hermana se escapó de repente al festival, y yo simplemente aproveché la oportunidad."
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:1040 #-#-# translate crowdin gallery_d_041_fe4d0b1c:
 msgid "[_cornelia_] (Этот ублюдок... провел меня... А этот сундук... Ооох, ч-что он себе позволяет..)"
@@ -1954,27 +1954,27 @@ msgstr "[_centered_] {size=37}CEDRIC SACA A CORNELIA DEL COFRE Y LA LLEVA A LA M
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:236
 msgid "Пройти обучение"
-msgstr ""
+msgstr "Jugar Tutorial"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:236
 msgid "Пропустить обучение"
-msgstr ""
+msgstr "Saltar tutorial"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:294
 msgid "В главное меню"
-msgstr ""
+msgstr "Volver al menú principal"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:294
 msgid "Попробовать снова"
-msgstr ""
+msgstr "Intentar de nuevo"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:428
 msgid "Не рисковать"
-msgstr ""
+msgstr "No te arriesgues"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:428
 msgid "Снять футболку"
-msgstr ""
+msgstr "Quítate la camisa"
 
 # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:477
 msgid "Сжать сосок"
