@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-09 13:44\n"
+"PO-Revision-Date: 2026-03-09 20:31\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -1138,7 +1138,7 @@ msgstr "...."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:709 #-#-# translate crowdin gallery_d_066_69328ce1:
 msgid "[_cedrick_] Ч-что? Какого.. А, ясно, я снова отрубился.."
-msgstr "[_cedrick_] ¿Q-qué? ¿Qué...? Ah, ya veo, me desmayé otra vez.."
+msgstr "[_cedrick_] ¿Q-qué? ¿Como...? Ah, ya veo, me desmayé otra vez."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:713 #-#-# translate crowdin gallery_d_066_7f243eab:
 msgid "[_miranda_] Да, стражники принесли тебя. Как все прошло? Заметил какие-то изменения?"
@@ -1490,7 +1490,7 @@ msgstr "[_cedrick_] Mmmm..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1006 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_2e096339:
 msgid "[_miranda_] В-третьих, ты не сможешь убедить человека в том, что противоречит его важной внутренней установке. Например, ты не сможешь убедить Корнелию в том, что она тебя искренне любит"
-msgstr ""
+msgstr "[_miranda_] En tercer lugar, no podrás convencer a alguien de algo que contradiga su creencia fundamental. Por ejemplo, no podrás convencer a Cornelia de que te ama de verdad."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1007 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_8df93354:
 msgid "[_miranda_] Потому что она тебя уже всем сердцем ненавидит.."
@@ -1530,43 +1530,43 @@ msgstr "[_cedrick_] Lo leí en un libro de psicología para tontos"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1038 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_5524c2a1:
 msgid "[_miranda_] Ясно.."
-msgstr ""
+msgstr "[_miranda_] Ugg..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1042 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_db73d012:
 msgid "[_cedrick_] Хм... Так или иначе, эта новая способность - оружие. Сложное в использовании, но я могу его использовать. Потенциально можно восстановить свое старое положение на Земле.."
-msgstr ""
+msgstr "[_cedrick_] Mmm... De cualquier manera, esta nueva habilidad es un arma. Es difícil de usar, pero puedo usarla. Potencialmente, puedo restaurar mi antigua posición en la Tierra."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1043 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_0bee2790:
 msgid "[_cedrick_] Хорошо.. Но прежде чем я уйду, мне нужен тот стражник со шрамами на лице"
-msgstr ""
+msgstr "[_cedrick_] Bueno... Pero antes de irme, necesito a ese guardia con las cicatrices en la cara."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1047 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_bcb021f0:
 msgid "[_miranda_] ..Почти у всех шрамы на лице"
-msgstr ""
+msgstr "[_miranda_] Casi todo el mundo tiene cicatrices en la cara."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1051 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_4e26c250:
 msgid "[_cedrick_] Черт.. Эм.. У него горизонтальный шрам вдоль носа, вертикальный шрам на левом глазу.. Перебинтовано левое плечо.. В правой руке держит топор палача"
-msgstr ""
+msgstr "[_cedrick_] Maldita sea... Um... Tiene una cicatriz horizontal a lo largo de la nariz, una cicatriz vertical sobre el ojo izquierdo... Su hombro izquierdo está vendado... Sostiene un hacha de verdugo en su mano derecha."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1052 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_553712d5:
 msgid "[_miranda_] (Воу.. Его нейронные связи и вправду обновились..)"
-msgstr ""
+msgstr "[_miranda_] (¡Guau! Sus conexiones neuronales realmente se renovaron.)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1056 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_962205f6:
 msgid "[_miranda_] Хорошо, мы найдем его"
-msgstr ""
+msgstr "[_miranda_] Está bien, lo encontraremos."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1058 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_462bd96e:
 msgid "[_centered_] {size=37}Седрику приводят побитого воина{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Un guerrero derrotado es llevado ante Cedric.{/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1062 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_0a6593ad:
 msgid "[_broken_warrior_] Вы звали меня, Главнокомандующий Седрик?"
-msgstr ""
+msgstr "[_broken_warrior_] ¿Me llamaste Comandante Cedric?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1066 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_98a67766:
 msgid "[_cedrick_] Да, у меня к тебе разговор. Для начала, как тебя зовут?"
-msgstr ""
+msgstr "[_cedrick_] Sí, tengo algo que contarte. Antes que nada, ¿cómo te llamas?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1070 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_f9a60b84:
 msgid "[_broken_warrior_] Эм.. Вам интересно как меня зовут, сэр?"
@@ -1578,43 +1578,43 @@ msgstr "[_cedrick_] Ja, sí, ya sé, no soy así. Anda, no alargues el asunto"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1078 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_1edf5ee5:
 msgid "[_broken_warrior_] Булдж, сэр"
-msgstr ""
+msgstr "[_broken_warrior_] Bulto, señor."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1082 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_695a897f:
 msgid "[_cedrick_] (Булдж? Ну и имена у этих стражников)"
-msgstr ""
+msgstr "[_cedrick_] (¿Bulto? ¿Qué nombres tienen estos guardias?)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1083 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_9f83cd77:
 msgid "[_cedrick_] Скажи мне, Булдж, почему ты приковал стражницу сегодня? Хотел с ней повеселиться?"
-msgstr ""
+msgstr "[_cedrick_] Dime, Bulto, ¿por qué encadenaste a la guardia hoy? ¿Querías divertirte con ella?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1087 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_7a40b1fc:
 msgid "[_bulj_] Никак нет, Главнокомандующий Седрик. Я сделал это, предположив, что повстанцы могут пробраться в замок во время шумихи и попытаться забрать ее, поскольку она ценный боевой юнит"
-msgstr ""
+msgstr "[_bulj_] En absoluto, Comandante Cedric. Lo hice asumiendo que los rebeldes podrían colarse en el castillo durante la conmoción e intentar capturarla, ya que es una valiosa unidad de combate."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1091 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_862ee1ec:
 msgid "[_cedrick_] Хах, ты понимаешь то, чего не понимают даже сами повстанцы, интересно. Скажи мне знаешь что, Булдж"
-msgstr ""
+msgstr "[_cedrick_] Ja, entiendes algo que ni siquiera los rebeldes entienden, interesante. Dime algo, Bulto."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1095 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_e1333b53:
 msgid "[_bulj_] Слушаю"
-msgstr ""
+msgstr "[_bulj_] Estoy escuchando."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1099 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_987841f0:
 msgid "[_cedrick_] За что ты сражаешься?"
-msgstr ""
+msgstr "[_cedrick_] ¿Por qué estás luchando?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1103 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_3b1d7768:
 msgid "[_bulj_] Ч-что, простите?"
-msgstr ""
+msgstr "[_bulj_] ¿Q-qué, disculpa?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1107 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_b9cf7c29:
 msgid "[_cedrick_] Зачем тебе все это? Зачем служишь Фобосу?"
-msgstr ""
+msgstr "[_cedrick_] ¿Para qué necesitas todo esto? ¿Por qué sirves a Fobos?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1111 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_3e832cf8:
 msgid "[_bulj_] Я пошел в солдаты не из-за Фобоса"
-msgstr ""
+msgstr "[_bulj_] No me uní al ejército por Fobos."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1115 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_49316299_1:
 msgid "[_cedrick_] ..."
