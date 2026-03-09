@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:46\n"
+"PO-Revision-Date: 2026-03-09 13:44\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:6 #-#-# translate crowdin persuade_the_cornelia_to_testify_299f9a94:
 msgid "[_cornelia_] Снова ты, змей? Я как раз думала, когда ты снова зайдешь. В темнице довольно скучно, знаешь ли"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:11 #-#-# translate crowdin persuade_the_cornelia_to_testify_69530f48:
 msgid "[_cornelia_] Пф.."
-msgstr ""
+msgstr "[_cornelia_] Pfft.."
 
 # game/scripts/quests/searchWitnesses/persuade_the_cornelia_to_testify.rpy:12 #-#-# translate crowdin persuade_the_cornelia_to_testify_7927f44e:
 msgid "[_cedrick_] А если серьезно, Корнелия, то мне нужна твоя помощь. Весь твой актерский талант"
