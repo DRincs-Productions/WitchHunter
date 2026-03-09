@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-08 23:37\n"
+"PO-Revision-Date: 2026-03-09 00:40\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -22,7 +22,7 @@ msgstr "[_king_of_morpions_] Rrrrr..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:11 #-#-# translate crowdin begin_fight_with_morpion_king_816f20dd:
 msgid "[_cedrick_] Но я и невооруженным взглядом вижу, ты силен.."
-msgstr ""
+msgstr "Pero puedo ver a simple vista que eres fuerte."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:15 #-#-# translate crowdin begin_fight_with_morpion_king_c7cd77e6:
 msgid "[_king_of_morpions_] Ты.. Это был ты.."
@@ -250,63 +250,63 @@ msgstr "[_soldiers_] ¡Señor Cedric!"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:216 #-#-# translate crowdin defeat_morpion_king_b3e0a97e:
 msgid "[_cedrick_] (Все это время.. Я подавлял это жгучее чувство несправедливости и заглушил его настолько, что забыл, кто я есть)"
-msgstr ""
+msgstr "[_cedrick_] (Todo este tiempo... reprimí ese ardiente sentimiento de injusticia y lo apagué tanto que olvidé quién era)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:221 #-#-# translate crowdin defeat_morpion_king_6b30f716:
 msgid "[_soldiers_] Главнокомандующий!"
-msgstr ""
+msgstr "[_soldiers_] ¡Comandante en jefe!"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:226 #-#-# translate crowdin defeat_morpion_king_e5b023a2:
 msgid "[_cedrick_] (Все мои ошибки были результатом моего безразличия. Я заставил себя стать безразличным, пустить все на самотек..)"
-msgstr ""
+msgstr "[_cedrick_] (Todos mis errores fueron resultado de mi indiferencia. Me obligué a volverme indiferente, a dejar que todo pasara.)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:231 #-#-# translate crowdin defeat_morpion_king_bb121ba4:
 msgid "[_cedrick_] (Все для того, чтобы забыться.. И я настолько преуспел в этом самообмане, что стал прощать себе даже критические ошибки..)"
-msgstr ""
+msgstr "[_cedrick_] (Todo con el fin de olvidar... Y he llegado a tener tanto éxito en este autoengaño que he empezado a perdonarme incluso errores críticos...)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:236 #-#-# translate crowdin defeat_morpion_king_fe1d7bb4:
 msgid "[_cedrick_] (Закрывал глаза даже на банальные просчеты.. Как же я сейчас жалок..)"
-msgstr ""
+msgstr "[_cedrick_] (Hice la vista gorda incluso ante errores triviales. Qué patético soy ahora.)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:241 #-#-# translate crowdin defeat_morpion_king_326679f2:
 msgid "[_soldiers_] Главнокомандующий Седрик!"
-msgstr ""
+msgstr "[_soldiers_] ¡Comandante Cedric!"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:246 #-#-# translate crowdin defeat_morpion_king_f3aaf97c:
 msgid "[_cedrick_] Я Лорд, черт возьми! Я здесь, чтобы править, а не подчиняться! Но все это время я только выполнял то, что мне велели. И где я оказался!?"
-msgstr ""
+msgstr "[_cedrick_] ¡Soy un Señor, maldita sea! ¡Estoy aquí para gobernar, no para que me gobernaran! Pero todo este tiempo, solo he hecho lo que me decían. ¿Y dónde he acabado?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:251 #-#-# translate crowdin defeat_morpion_king_12573e08:
 msgid "[_soldiers_] Лорд Седрик, что с вами!? Эта ужасная рана, да как вы только на ногах стоите!?"
-msgstr ""
+msgstr "[_soldiers_] Lord Cedric, ¿qué le pasa? ¡Con esta terrible herida, cómo puede siquiera mantenerse en pie!"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:252 #-#-# translate crowdin defeat_morpion_king_8493902c:
 msgid "[_soldiers_] Лорд Седрик, бегите, мы задержим это чудовище!?"
-msgstr ""
+msgstr "[_soldiers_] ¡Lord Cedric, corra, detendremos a este monstruo!"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:257 #-#-# translate crowdin defeat_morpion_king_dbd9627e:
 msgid "[_cedrick_] А ну все в сторону.. Это приказ главнокомандующего.. Хватит с меня смертей подчиненных.."
-msgstr ""
+msgstr "[_cedrick_] Ahora, a un lado. Es una orden del comandante en jefe. Ya estoy harto de que mueran mis subordinados."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:258 #-#-# translate crowdin defeat_morpion_king_6f668225:
 msgid "[_cedrick_] (Ваша смерть будет лишь очередной моей ошибкой.. А ошибок я себе больше не позволю)"
-msgstr ""
+msgstr "[_cedrick_] (Tu muerte será solo otro error mío... Y no me permitiré cometer más errores)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:259 #-#-# translate crowdin defeat_morpion_king_0ecf91c2:
 msgid "[_soldiers_] Г-главнокомандующий.."
-msgstr ""
+msgstr "[_soldiers_] Co-Comandante."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:260 #-#-# translate crowdin defeat_morpion_king_7d6b09b7:
 msgid "[_cedrick_] Всем солдатам отступить, вы должны перегруппироваться у ворот замка. Это приказ.."
-msgstr ""
+msgstr "[_cedrick_] Retírense todos los soldados. Reagrupense en las puertas del castillo. Es una orden."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:261 #-#-# translate crowdin defeat_morpion_king_3a062751:
 msgid "[_soldiers_] Е-есть.."
-msgstr ""
+msgstr "[_soldiers_] S-sí..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:265 #-#-# translate crowdin defeat_morpion_king_2c5ad0ba:
 msgid "[_cedrick_] Эй, здоровяк.. Давай покончим с этим.."
-msgstr ""
+msgstr "[_cedrick_] Oye, grandullón... Terminemos con esto de una vez."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:266 #-#-# translate crowdin defeat_morpion_king_250a5250_2:
 msgid "[_king_of_morpions_] ..."
@@ -314,19 +314,19 @@ msgstr "[_king_of_morpions_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:267 #-#-# translate crowdin defeat_morpion_king_f4487c2b:
 msgid "[_cedrick_] (Все, что я могу сейчас - это вложить все силы в один последний удар, на большее меня не хватит..)"
-msgstr ""
+msgstr "[_cedrick_] (Lo único que puedo hacer ahora es poner todas mis fuerzas en un último golpe, no puedo hacer más.)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:268 #-#-# translate crowdin defeat_morpion_king_83bad0d2:
 msgid "[_cedrick_] (Судя по характеру его восстановления, самое уязвимое его место - это грудь. Это свечение под кожей, с этого места он всегда начинает восстанавливаться, значит там источник его сил..)"
-msgstr ""
+msgstr "[_cedrick_] (A juzgar por la naturaleza de su recuperación, su punto más vulnerable es su pecho. Ese brillo debajo de la piel, siempre comienza a recuperarse desde allí, lo que significa que de ahí provienen sus poderes.)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:269 #-#-# translate crowdin defeat_morpion_king_18dad461:
 msgid "[_cedrick_] (Тогда решено..)"
-msgstr ""
+msgstr "[_cedrick_] (Entonces está decidido.)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:270 #-#-# translate crowdin defeat_morpion_king_dbe1a4cb:
 msgid "[_cedrick_] Знаешь, хах.. Мне тут недавно понравился прием одного вильтрумита.. Сейчас покажу.."
-msgstr ""
+msgstr "[_cedrick_] ¿Sabes? jaja. Hace poco me gustó una técnica de un Viltrumite. Te la muestro ahora."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:272 #-#-# translate crowdin defeat_morpion_king_a20cefa7_1:
 msgid "..."
@@ -334,15 +334,15 @@ msgstr "..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:278 #-#-# translate crowdin defeat_morpion_king_010c3c18:
 msgid "[_king_of_morpions_] Не.."
-msgstr ""
+msgstr "[_king_of_morpions_] Ja..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:279 #-#-# translate crowdin defeat_morpion_king_18d30d3a:
 msgid "[_king_of_morpions_] Невозмож.."
-msgstr ""
+msgstr "[_king_of_morpions_] Imposible..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:280 #-#-# translate crowdin defeat_morpion_king_0d720778:
 msgid "[_king_of_morpions_] Но.."
-msgstr ""
+msgstr "[_king_of_morpions_] Pero..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:281 #-#-# translate crowdin defeat_morpion_king_250a5250_3:
 msgid "[_king_of_morpions_] ..."
@@ -594,11 +594,11 @@ msgstr "[_miranda_] Responde la pregunta"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:453 #-#-# translate crowdin defeat_morpion_king_8d33d6b2:
 msgid "[_cedrick_] Это был ответ. Похоже на бредятину"
-msgstr ""
+msgstr "[_cedrick_] Esa fue la respuesta. Parece una tontería."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:457 #-#-# translate crowdin defeat_morpion_king_57501df3:
 msgid "[_miranda_] Хм.. Хорошо, второе.."
-msgstr ""
+msgstr "[_miranda_] Hmm... Bueno, segundo..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:462 #-#-# translate crowdin defeat_morpion_king_ce627275:
 msgid "[_cedrick_] Миранда.."
@@ -606,11 +606,11 @@ msgstr "[_cedrick_] Miranda.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:466 #-#-# translate crowdin defeat_morpion_king_860e025b:
 msgid "[_miranda_] Не перебивай.."
-msgstr ""
+msgstr "[_miranda_] No interrumpas."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:470 #-#-# translate crowdin defeat_morpion_king_f6a041a2:
 msgid "[_cedrick_] Миранда, я ведь чуть не умер там.."
-msgstr ""
+msgstr "[_cedrick_] Miranda, casi muero allí."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:474 #-#-# translate crowdin defeat_morpion_king_10242dc1_1:
 msgid "[_miranda_] ..."
@@ -618,15 +618,15 @@ msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:475 #-#-# translate crowdin defeat_morpion_king_6f9ee366:
 msgid "[_cedrick_] И знаешь, в тот самый момент.. Я словно проснулся.. Словно пелена спала с моих глаз, и я наконец увидел, в чем так сильно ошибался.."
-msgstr ""
+msgstr "[_cedrick_] Y sabes, en ese mismo momento... Fue como si me despertara... Fue como si un velo hubiera caído de mis ojos, y finalmente vi lo mucho que me había equivocado."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:479 #-#-# translate crowdin defeat_morpion_king_2c28a78a:
 msgid "[_miranda_] О чем ты говоришь?"
-msgstr ""
+msgstr "[_miranda_] ¿De qué estás hablando?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:480 #-#-# translate crowdin defeat_morpion_king_641c7e62:
 msgid "[_cedrick_] И еще.. Еще я понял, как на самом деле боюсь тебя потерять.. В тот момент, когда стражницы напали на тебя.."
-msgstr ""
+msgstr "[_cedrick_] Y además. También me di cuenta del miedo que realmente tengo de perderte. En ese momento, cuando los guardias te atacaron..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:484 #-#-# translate crowdin defeat_morpion_king_10242dc1_2:
 msgid "[_miranda_] ..."
@@ -634,27 +634,27 @@ msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:485 #-#-# translate crowdin defeat_morpion_king_f702d32e:
 msgid "[_cedrick_] За всю жизнь у меня не было никого ближе тебя.. Самый дорогой мне человек, всегда остающийся на моей стороне.."
-msgstr ""
+msgstr "[_cedrick_] En toda mi vida, nunca he tenido a nadie más cerca que tú. La persona más querida para mí, que siempre permanece a mi lado."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:489 #-#-# translate crowdin defeat_morpion_king_e0e08da1:
 msgid "[_miranda_] Седрик, я.."
-msgstr ""
+msgstr "[_miranda_] Cedric, yo..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:493 #-#-# translate crowdin defeat_morpion_king_a26d5bf6:
 msgid "[_cedrick_] Знаешь, раньше я никогда об этом не думал.. Из всех, кого я знаю, ты ближе всех к той, кого я мог бы любить.."
-msgstr ""
+msgstr "[_cedrick_] Sabes, nunca había pensado en esto antes. De todas las personas que conozco, tú eres la más cercana a la persona a la que podría amar."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:497 #-#-# translate crowdin defeat_morpion_king_74b7dbd1:
 msgid "[_miranda_] Седрик, я.. Я тоже тебя люблю.."
-msgstr ""
+msgstr "[_miranda_] Cedric, yo... yo también te amo."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:501 #-#-# translate crowdin defeat_morpion_king_7d6c3d39:
 msgid "[_cedrick_] И я вспомнил еще кое что.. Свою главную ошибку.."
-msgstr ""
+msgstr "[_cedrick_] Y recordé algo más. Mi principal error."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:505 #-#-# translate crowdin defeat_morpion_king_18f426af:
 msgid "[_miranda_] Какую же?"
-msgstr ""
+msgstr "[_miranda_] ¿Cuál?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:506 #-#-# translate crowdin defeat_morpion_king_ce627275_1:
 msgid "[_cedrick_] Миранда.."
@@ -662,7 +662,7 @@ msgstr "[_cedrick_] Miranda.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:508 #-#-# translate crowdin defeat_morpion_king_b5118f00:
 msgid "[_cedrick_] Я собираюсь свергнуть Фобоса"
-msgstr ""
+msgstr "[_cedrick_] Voy a derrocar a Fobos"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:509 #-#-# translate crowdin defeat_morpion_king_10242dc1_3:
 msgid "[_miranda_] ..."
@@ -670,15 +670,15 @@ msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:510 #-#-# translate crowdin defeat_morpion_king_1db6d8f2:
 msgid "[_cedrick_] Ты со мной?"
-msgstr ""
+msgstr "[_cedrick_] ¿Estas conmigo?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:511 #-#-# translate crowdin defeat_morpion_king_6fc7e72c:
 msgid "[_miranda_] (Видимо после того, как Король Морпионов снес Седрику часть головы, его мозг, в процессе восстановления, обновил все нейронные связи..)"
-msgstr ""
+msgstr "[_miranda_] (Al parecer, después de que el Rey Morpion le volara parte de la cabeza a Cedric, su cerebro, en proceso de recuperación, renovó todas las conexiones neuronales.)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:512 #-#-# translate crowdin defeat_morpion_king_dded7152:
 msgid "[_miranda_] (По сути, таким образом он эмоционально мог вновь пережить все то, о чем давно забыл.. Или пытался забыть..)"
-msgstr ""
+msgstr "[_miranda_] (En esencia, de esta manera podría revivir emocionalmente todo aquello que había olvidado hacía tiempo... o había intentado olvidar.)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:513 #-#-# translate crowdin defeat_morpion_king_fcb466ff:
 msgid "[_cedrick_] Миранда?"
@@ -1698,7 +1698,7 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1165 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_b5118f00:
 msgid "[_cedrick_] Я собираюсь свергнуть Фобоса"
-msgstr ""
+msgstr "[_cedrick_] Voy a derrocar a Fobos"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1169 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_3073060e:
 msgid "[_bulj_] В-вы серьезно!?"
