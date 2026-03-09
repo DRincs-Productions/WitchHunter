@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-09 03:16\n"
+"PO-Revision-Date: 2026-03-09 13:44\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -1138,43 +1138,43 @@ msgstr "...."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:709 #-#-# translate crowdin gallery_d_066_69328ce1:
 msgid "[_cedrick_] Ч-что? Какого.. А, ясно, я снова отрубился.."
-msgstr ""
+msgstr "[_cedrick_] ¿Q-qué? ¿Qué...? Ah, ya veo, me desmayé otra vez.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:713 #-#-# translate crowdin gallery_d_066_7f243eab:
 msgid "[_miranda_] Да, стражники принесли тебя. Как все прошло? Заметил какие-то изменения?"
-msgstr ""
+msgstr "[_miranda_] Sí, los guardias te trajeron aquí. ¿Cómo te fue? ¿Notaste algún cambio?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:717 #-#-# translate crowdin gallery_d_066_f27f136f:
 msgid "[_cedrick_] Кроме того, что меня отрубило после секса? Да не особо"
-msgstr ""
+msgstr "[_cedrick_] ¿Aparte de que me desmayé después del sexo? En realidad, no"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:721 #-#-# translate crowdin gallery_d_066_b3d47571:
 msgid "[_miranda_] Тебя не просто отрубило. Объем твоей магической энергии резко сократился в несколько раз"
-msgstr ""
+msgstr "[_miranda_] No solo te dejaron inconsciente. Tu energía mágica se redujo drásticamente"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:725 #-#-# translate crowdin gallery_d_066_204ecfa0:
 msgid "[_cedrick_] Что? С чего бы? Ты уверена?"
-msgstr ""
+msgstr "[_cedrick_] ¿Qué? ¿Por qué? ¿Estás segura?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:729 #-#-# translate crowdin gallery_d_066_36cac159:
 msgid "[_miranda_] Да, я на тебя 5 зелий восстановления магии потратила.."
-msgstr ""
+msgstr "[_miranda_] Sí, gasté 5 pociones de restauración mágica en ti.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:733 #-#-# translate crowdin gallery_d_066_5e0cc743:
 msgid "[_cedrick_] Хм, странно.."
-msgstr ""
+msgstr "[_cedrick_] Hmm, eso es raro.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:737 #-#-# translate crowdin gallery_d_066_2ee01fd4:
 msgid "[_miranda_] Нет, вполне закономерно. Я покопалась в архивах. Информация очень разрозненная, где-то взята из биологических сводок, где-то из народных сказаний"
-msgstr ""
+msgstr "[_miranda_] No, es bastante lógico. Rebusqué en los archivos. La información está muy dispersa; parte proviene de informes biológicos, otra de cuentos populares"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:741 #-#-# translate crowdin gallery_d_066_fa034ac1:
 msgid "[_miranda_] Но в целом, кажется теперь я знаю почти все особенности половой жизни Короля и Королевы Морпионов"
-msgstr ""
+msgstr "[_miranda_] Pero en general, parece que ahora conozco casi todas las peculiaridades de la vida sexual del Rey y la Reina de Morpions"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:745 #-#-# translate crowdin gallery_d_066_0368d92b:
 msgid "[_cedrick_] Радость то какая.. Говоришь прямо как человек без личной жизни.."
-msgstr ""
+msgstr "[_cedrick_] Qué alegría... Hablas como una persona sin vida personal.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:749 #-#-# translate crowdin gallery_d_066_10242dc1:
 msgid "[_miranda_] ..."
@@ -1182,47 +1182,47 @@ msgstr "[_miranda_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:750 #-#-# translate crowdin gallery_d_066_13910a94:
 msgid "[_cedrick_] ...Ладно, плохая шутка. Что ты узнала?"
-msgstr ""
+msgstr "[_cedrick_] ... Bueno, broma de mal gusto. ¿Qué has averiguado?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:754 #-#-# translate crowdin gallery_d_066_3c1f72e6:
 msgid "[_miranda_] Что-ж, зачитаю тебе мои записи.. Кхм.."
-msgstr ""
+msgstr "[_miranda_] Bueno, te leeré mis notas. Ejem.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:758 #-#-# translate crowdin gallery_d_066_b6ad205c:
 msgid "[_miranda_] При введении полового члена любым индивидом в вагинальное отверстие Королевы Морпионов, ее организм вырабатывает огромное количество норадреналина"
-msgstr ""
+msgstr "[_miranda_] Cuando el pene de cualquier individuo se introduce en el orificio vaginal de la Reina Morpión, su cuerpo produce enormes cantidades de norepinefrina"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:759 #-#-# translate crowdin gallery_d_066_172bd127:
 msgid "[_miranda_] Вследствие чего, после попадания семени в организм Королевы, ее агрессивность значительно повышается, а маточная микрофлора становится кислотной"
-msgstr ""
+msgstr "[_miranda_] En consecuencia, una vez ingerida la semilla, la agresividad de la reina aumenta enormemente y la microflora uterina se acidifica"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:760 #-#-# translate crowdin gallery_d_066_8e2a4fd7:
 msgid "[_miranda_] Из-за этого любая особь мужского пола, пытающаяся ее оплодотворить, сталкивается с ее чрезвычайно агрессивным поведением, а матка в свою очередь растворяет любую семенную жидкость"
-msgstr ""
+msgstr "[_miranda_] Debido a esto, cualquier macho que intente fertilizarla se enfrenta a un comportamiento extremadamente agresivo, y la reina a su vez disuelve cualquier fluido seminal"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:761 #-#-# translate crowdin gallery_d_066_74e99bce:
 msgid "[_miranda_] Этот механизм необходим Королеве, поскольку она становится полностью зависима от того, кто сможет наполнить ее семенной жидкостью и оплодотворить"
-msgstr ""
+msgstr "[_miranda_] Este mecanismo es necesario para la Reina, ya que se vuelve totalmente dependiente de quien pueda llenarla de líquido seminal y fecundarla"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:762 #-#-# translate crowdin gallery_d_066_7a267ff6:
 msgid "[_miranda_] В свою очередь Король Морпионов эволюционным путем выработал механизм гормонального подавления биологических механизмов Королевы Морпионов"
-msgstr ""
+msgstr "[_miranda_] A su vez, el Rey Morpion ha desarrollado un mecanismo de supresión hormonal de los mecanismos biológicos de la Reina Morpion"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:763 #-#-# translate crowdin gallery_d_066_d1e115f5:
 msgid "[_miranda_] Семенная жидкость Короля Морпионов, в зависимости от внешних раздражителей, вырабатывает особый, если можно так выразиться, гормональный коктейль, изменяющий поведение Королевы"
-msgstr ""
+msgstr "[_miranda_] El fluido seminal del Rey Morpión, en función de estímulos externos, produce un cóctel hormonal especial, si se me permite la expresión, que altera el comportamiento de la Reina"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:764 #-#-# translate crowdin gallery_d_066_b7d2e469:
 msgid "[_miranda_] Чтобы у Королевы Морпионов не выработался иммунитет в ходе многочисленных половых актов, гормональная комбинация меняется каждый раз в зависимости от ситуации"
-msgstr ""
+msgstr "[_miranda_] Para garantizar que la Reina Morpión no desarrolle inmunidad a través de múltiples actos sexuales, la combinación hormonal cambia cada vez dependiendo de la situación"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:765 #-#-# translate crowdin gallery_d_066_0a7ef4e6:
 msgid "[_miranda_] Гормональная смесь Короля Морпионов меняется не только его сознанием, но и настроением жертвы, подбирая нужную комбинацию гормонов под разный спектр эмоций"
-msgstr ""
+msgstr "[_miranda_] La mezcla hormonal del Rey Morpión cambia no sólo su mente, sino también los estados de ánimo de sus víctimas, haciendo coincidir la combinación correcta de hormonas con una gama diferente de emociones"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:766 #-#-# translate crowdin gallery_d_066_8762602d:
 msgid "[_miranda_] В свою очередь сам Король Морпионов за подобные гормональные манипуляции платит тратой огромного количества магической энергии, вырабатываемой его железой"
-msgstr ""
+msgstr "[_miranda_] A su vez, el propio Rey Morpión paga esa manipulación hormonal gastando grandes cantidades de energía mágica producida por su glándula"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:767 #-#-# translate crowdin gallery_d_066_ce627275:
 msgid "[_cedrick_] Миранда.."
@@ -1230,39 +1230,39 @@ msgstr "[_cedrick_] Miranda.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:768 #-#-# translate crowdin gallery_d_066_7cb01bc1:
 msgid "[_miranda_] Так же стоит подчеркнуть, что.."
-msgstr ""
+msgstr "[_miranda_] También vale la pena subrayar que.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:769 #-#-# translate crowdin gallery_d_066_f18fd514:
 msgid "[_cedrick_] Миранда!"
-msgstr ""
+msgstr "[_cedrick_] ¡Miranda!"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:773 #-#-# translate crowdin gallery_d_066_4a67d4ae:
 msgid "[_miranda_] А? Седрик, что такое?"
-msgstr ""
+msgstr "[_miranda_] Oh, Cedric, ¿qué estás tramando?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:774 #-#-# translate crowdin gallery_d_066_29018a46:
 msgid "[_cedrick_] ..Я нихера не понял. Можешь двумя словами и понятным языком"
-msgstr ""
+msgstr "[_cedrick_] No entiendo absolutamente nada. ¿Podrías explicármelo en dos palabras y con lenguaje sencillo"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:778 #-#-# translate crowdin gallery_d_066_baedf908:
 msgid "[_miranda_] Ох, обычно такие вещи давались тебе легко"
-msgstr ""
+msgstr "[_miranda_] Oh, estas cosas suelen ser fáciles para ti"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:782 #-#-# translate crowdin gallery_d_066_2ca82354:
 msgid "[_cedrick_] В меня сегодня швырялись огнем и водой, потом снесли пол головы, а затем я потерял почти всю свою магическую силу. Можно покороче.."
-msgstr ""
+msgstr "[_cedrick_] Hoy me lanzaron fuego y agua, me volaron la mitad de la cabeza y perdí casi todo mi poder mágico. ¿Podrías acortarlo.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:786 #-#-# translate crowdin gallery_d_066_a8cced53:
 msgid "[_miranda_] Короче. Теперь у тебя есть сила Короля Морпионов"
-msgstr ""
+msgstr "[_miranda_] En resumen, ahora tienes el poder del Rey Morpion"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:790 #-#-# translate crowdin gallery_d_066_8aceb0e8:
 msgid "[_cedrick_] ..Это я понял. Но какая сила?"
-msgstr ""
+msgstr "[_cedrick_] ...Lo entiendo. ¿Pero qué poder?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:794 #-#-# translate crowdin gallery_d_066_0fe4a6ef:
 msgid "[_miranda_] Если в двух словах - сила гормонов"
-msgstr ""
+msgstr "[_miranda_] En pocas palabras, el poder de las hormonas"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:798 #-#-# translate crowdin gallery_d_066_49316299_6:
 msgid "[_cedrick_] ..."
@@ -1270,67 +1270,67 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:799 #-#-# translate crowdin gallery_d_066_3e38071c:
 msgid "[_cedrick_] Ты сказала это проще, но я все равно не понял.. Я превращусь в пубертатного подростка со спермотоксикозом?"
-msgstr ""
+msgstr "[_cedrick_] Lo dijiste más simplemente, pero todavía no lo entiendo... ¿Me convertiré en un adolescente púber con espermotoxicosis?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:803 #-#-# translate crowdin gallery_d_066_6944d02d:
 msgid "[_miranda_] Эх.. Ты можешь гормонально манипулировать другими людьми, если кончишь в них, Седрик!"
-msgstr ""
+msgstr "[_miranda_] Eh. ¡Puedes manipular hormonalmente a otras personas si te corres en ellas, Cedric!"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:807 #-#-# translate crowdin gallery_d_066_45571c85:
 msgid "[_cedrick_] Что!? Как?!"
-msgstr ""
+msgstr "[_cedrick_] ¡¿Qué?!"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:811 #-#-# translate crowdin gallery_d_066_9b9d58ae:
 msgid "[_miranda_] Основная сила Кроля Морпионов - гормональная настройка. Он настраивает свою семенную жидкость под жертву, чтобы частично изменить ее биологию"
-msgstr ""
+msgstr "[_miranda_] El poder principal del Conejo Morpión es la armonización hormonal. Adapta su semen a la de su víctima para alterar parcialmente su biología"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:815 #-#-# translate crowdin gallery_d_066_313fb5a1:
 msgid "[_cedrick_] Так.. И как именно происходит это изменение сознания?"
-msgstr ""
+msgstr "[_cedrick_] Entonces... ¿Y cómo se produce exactamente este cambio de conciencia?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:819 #-#-# translate crowdin gallery_d_066_f330d7f8:
 msgid "[_miranda_] Ну смотри.. Королева Морпионов готова всех убить и растворить сперму любого, кто в нее кончит"
-msgstr ""
+msgstr "[_miranda_] Bueno, mira... La Reina Morpion está dispuesta a matar a todos y disolver el esperma de cualquiera que se corra en ella"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:820 #-#-# translate crowdin gallery_d_066_c30134c1:
 msgid "[_miranda_] Поэтому Король Морпионов своей спермой буквально убеждает ее этого не делать. Комбинация гормонов абсолютно разная, но это может быть, например, хм.."
-msgstr ""
+msgstr "[_miranda_] Así que el Rey Morpión, con su esperma, literalmente la convence de no hacerlo. La combinación de hormonas es completamente diferente, pero podría ser, como, hmm.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:824 #-#-# translate crowdin gallery_d_066_9695c27d:
 msgid "[_miranda_] Например окситоцин для спокойствия, пролактин и эстроген для повышения либидо и эндорфин для более положительного настроя"
-msgstr ""
+msgstr "[_miranda_] Por ejemplo, la oxitocina para la calma, la prolactina y el estrógeno para aumentar la libido y las endorfinas para un estado de ánimo más positivo"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:825 #-#-# translate crowdin gallery_d_066_27886518:
 msgid "[_miranda_] В итоге злобная и агрессивная сука-королева становится покладистой и хочет нашего Короля. А он в свою очередь тратит на это дофига магии"
-msgstr ""
+msgstr "[_miranda_] Al final, la malvada y agresiva reina zorra se vuelve dócil y quiere a nuestro Rey. Y él, a su vez, gasta mucha magia en ella"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:826 #-#-# translate crowdin gallery_d_066_4495caf7:
 msgid "[_cedrick_] Подожди-ка.."
-msgstr ""
+msgstr "[_cedrick_] ¡Un momento.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:830 #-#-# translate crowdin gallery_d_066_1b9f4889:
 msgid "[_miranda_] Да, ты все верно понял. Если после секса с Корнелией ты потерял почти всю магическую энергию, значит.."
-msgstr ""
+msgstr "[_miranda_] Sí, tienes razón. Si después de acostarte con Cornelia perdiste casi toda tu energía mágica, entonces.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:834 #-#-# translate crowdin gallery_d_066_1b4fc0a3:
 msgid "[_cedrick_] Значит я поменял ее гормональный фон.."
-msgstr ""
+msgstr "[_cedrick_] Así que cambié sus hormonas.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:838 #-#-# translate crowdin gallery_d_066_5e2de797:
 msgid "[_miranda_] Вот видишь, еще варят мозги. Самое интересное, что этот гормональный фон не разовое явление"
-msgstr ""
+msgstr "[_miranda_] Ves, todavía hay lavado de cerebro. Lo mejor es que este trasfondo hormonal no es cosa de una sola vez"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:839 #-#-# translate crowdin gallery_d_066_f55f18df:
 msgid "[_miranda_] Комбинация гормонов буквально встраивается в организм жертвы, словно так было всю ее жизнь. Ставшая покладистой Королева дальше сама будет поддерживать этот образ"
-msgstr ""
+msgstr "[_miranda_] La combinación de hormonas se incorpora literalmente al cuerpo de la víctima como si hubiera sido así toda su vida. La reina complaciente seguirá manteniendo ella misma esa imagen"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:843 #-#-# translate crowdin gallery_d_066_d5e1b5ac:
 msgid "[_cedrick_] Так.. Но в чем я убедил Корнелию?"
-msgstr ""
+msgstr "[_cedrick_] Entonces... ¿Pero de qué convencí a Cornelia?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:847 #-#-# translate crowdin gallery_d_066_fb890cad:
 msgid "[_miranda_] А вот это, я думаю, тебе стоит самому проверить..."
-msgstr ""
+msgstr "[_miranda_] Ahora, creo que deberías comprobar esto por ti mismo..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:849 #-#-# translate crowdin gallery_d_066_49316299_7:
 msgid "[_cedrick_] ..."
@@ -1342,59 +1342,59 @@ msgstr "..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:857 #-#-# translate crowdin gallery_d_066_fc62e033:
 msgid "[_cedrick_] Эм.. Корнелия? Как ты.. Как ты себя чувствуешь?"
-msgstr ""
+msgstr "[_cedrick_] Eh... ¿Cornelia? ¿Cómo estás? ¿Cómo te sientes?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:861 #-#-# translate crowdin gallery_d_066_e5f291b2:
 msgid "[_cornelia_] Что за странный вопрос, чертов змей? Как я еще могу чувствовать себя после того, как ты грубо меня трахал прямо на полу и ушел?"
-msgstr ""
+msgstr "[_cornelia_] ¡Qué pregunta más rara, maldita serpiente! ¿Cómo puedo seguir sintiendo después de que me follaste tan fuerte en el suelo y te fueras?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:862 #-#-# translate crowdin gallery_d_066_2dc8ed88:
 msgid "[_cedrick_] Ну, я.. Кхм, просто хотел уточнить"
-msgstr ""
+msgstr "[_cedrick_] Bueno, yo... Um, sólo quería aclarar"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:866 #-#-# translate crowdin gallery_d_066_69530f48:
 msgid "[_cornelia_] Пф.."
-msgstr ""
+msgstr "[_cornelia_] Pfft.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:875 #-#-# translate crowdin q_dfk_cornelia_dialogs_a904ddf8:
 msgid "[_cedrick_] (Я должен понять, что изменилось. Нужно ее спровоцировать и сравнить с обычной реакцией)"
-msgstr ""
+msgstr "[_cedrick_] (Necesito entender qué ha cambiado. Necesito provocarla y compararla con su reacción normal)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:884 #-#-# translate crowdin q_dfk_cornelia_menu_48207be8:
 msgid "[_cedrick_] Знаешь, к нам тут поступило несколько повстанцев в качестве пленных. В ходе допроса оказалось, что у Калеба теперь появилась новая спутница-повстанец"
-msgstr ""
+msgstr "[_cedrick_] Sabes, algunos rebeldes han entrado como prisioneros. Durante el interrogatorio, se descubrió que Caleb ahora tiene un nuevo compañero rebelde"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:889 #-#-# translate crowdin q_dfk_cornelia_menu_b54aa32a:
 msgid "[_cedrick_] Видимо я ошибался, когда говорил, что у них с девчонками туго. Одну Калеб себе все-же раздобыл"
-msgstr ""
+msgstr "[_cedrick_] Al parecer me equivoqué cuando dije que les faltaban chicas. Caleb por fin consiguió una"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:893 #-#-# translate crowdin q_dfk_cornelia_menu_48ad63bd:
 msgid "[_cornelia_] Меня это не волнует. Пусть Калеб развлекается с кем хочет"
-msgstr ""
+msgstr "[_cornelia_] No me importa. Que Caleb se divierta con quien quiera"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:895 #-#-# translate crowdin q_dfk_cornelia_menu_af1cc38b:
 msgid "[_cedrick_] (Черт.. Странно, тогда зайду с другой стороны)"
-msgstr ""
+msgstr "[_cedrick_] (Maldita sea... Eso es raro, entonces lo abordaré desde el otro lado)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:905 #-#-# translate crowdin q_dfk_cornelia_menu_4f59e12c:
 msgid "[_cedrick_] Хм, довольно интересно. После того как пропали Брайан и Алхими, через пару дней уже весь город был в листовках о пропаже"
-msgstr ""
+msgstr "[_cedrick_] Mmm, qué interesante. Tras la desaparición de Brian y Alchemi, en un par de días la ciudad entera se llenó de carteles de personas desaparecidas"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:909 #-#-# translate crowdin q_dfk_cornelia_menu_c3c3b621:
 msgid "[_cedrick_] Но после того, как пропала ты, я не видел ни одной, это странно.. Может подруги все же как-то тебя прикрывают? Не могла же на тебя забить даже школа с полицией"
-msgstr ""
+msgstr "[_cedrick_] Pero después de tu desaparición, no he visto a nadie, es raro... ¿Quizás tus amigos te están encubriendo? Ni la escuela ni la policía pudieron ignorarte"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:913 #-#-# translate crowdin q_dfk_cornelia_menu_f513240d:
 msgid "[_cornelia_] Нет. Моим родителям просто плевать на меня. Как и подругам. Как и всему этому чертовому городу. Все, наверное, подумали, что я смоталась на Мальдивы или типо того"
-msgstr ""
+msgstr "[_cornelia_] No. A mis padres simplemente no les importo. Ni a mis amigos ni a todo este maldito pueblo. Probablemente todos pensaron que fui a las Maldivas o algo así"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:917 #-#-# translate crowdin q_dfk_cornelia_menu_87a923f6:
 msgid "[_cedrick_] (Черт, да она непробиваемая..)"
-msgstr ""
+msgstr "[_cedrick_] (Maldita sea, es impenetrable...)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:930 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_40a1a490:
 msgid "[_cornelia_] Главное, что я нужна здесь."
-msgstr ""
+msgstr "[_cornelia_] Lo principal es que me necesitan aquí."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:931 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_49316299:
 msgid "[_cedrick_] ..."
@@ -1402,79 +1402,79 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:932 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_e85db738:
 msgid "[_cedrick_] Стоп.. что?"
-msgstr ""
+msgstr "[_cedrick_] Espera... ¿qué?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:936 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_e7c4ae77:
 msgid "[_cornelia_] Седрик, ты тот еще мудак, ты это знаешь? Ты мудак, но ты прав.. Я просто девчонка с синдромом дефицита внимания, потому что на Земле я абсолютно никому не важна"
-msgstr ""
+msgstr "[_cornelia_] Cedric, eres un completo imbécil, ¿lo sabías? Eres un imbécil, pero tienes razón. Solo soy una chica con trastorno por déficit de atención, porque no valgo nada para nadie en la Tierra"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:940 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_3383a612:
 msgid "[_cornelia_] Я важна для кого-то только в качестве пленницы в гребаном подземелье. Но.. Но зато я нужна, черт.. Кажется.. Кажется это все, что мне нужно сейчас.."
-msgstr ""
+msgstr "[_cornelia_] Solo soy importante para alguien como prisionera en una maldita mazmorra. Pero... Pero me necesitan, maldita sea... Parece... Parece que eso es todo lo que necesito ahora.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:944 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_fe4c494e:
 msgid "[_cedrick_] Твою мать.."
-msgstr ""
+msgstr "[_cedrick_] Tu madre.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:948 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_826453e7:
 msgid "[_cornelia_] Что? Тебя что-то не устраивает!?"
-msgstr ""
+msgstr "[_cornelia_] ¿Qué? ¿No te gusta algo!?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:949 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_42d86dc0:
 msgid "[_cedrick_] Эм.. Нет.. Нет, я.. Мне нужно отойти"
-msgstr ""
+msgstr "[_cedrick_] Um... No... No, yo... Necesito alejarme"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:950 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_c25ec186:
 msgid "[_cornelia_] Ну так вали.."
-msgstr ""
+msgstr "[_cornelia_] Bueno, vamos.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:951 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_e167337e:
 msgid "[_cornelia_] Ты же все равно ко мне вернешься.. Это для меня главное.."
-msgstr ""
+msgstr "[_cornelia_] Volverás a mí... Eso es lo más importante para mí.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:952 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_af73512c:
 msgid "[_cedrick_] (Такие ее речи меня слегка напрягают..)"
-msgstr ""
+msgstr "[_cedrick_] (Sus discursos como este me ponen un poco nervioso..)"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:956 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_bc588c08:
 msgid "[_centered_] {size=37}Седрик рассказывает все Миранде {/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Cedric le cuenta todo a Miranda {/size}"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:961 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_3c8a3003:
 msgid "[_miranda_] Что ж, все произошло прямо как по методичке"
-msgstr ""
+msgstr "[_miranda_] Bueno, todo ocurrió tal como decía el manual"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:965 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_01e4379d:
 msgid "[_cedrick_] Ты считаешь?"
-msgstr ""
+msgstr "[_cedrick_] ¿Crees eso?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:969 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_899e9aef:
 msgid "[_miranda_] Да. Ты стал убеждать ее в том, что она никому не нужна, что, по сути, взыграло на ее реальных чувствах и сомнениях в себе"
-msgstr ""
+msgstr "[_miranda_] Sí. Empezaste a convencerla de que nadie la necesitaba, lo que, de hecho, jugó con sus verdaderos sentimientos y dudas sobre sí misma"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:970 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_6cb8ac94:
 msgid "[_miranda_] А потом с помощью этой установки создал гормональный набор клеток, который убедил ее в том, что она нужна здесь как пленница. Стоило в нее кончить и все сработало"
-msgstr ""
+msgstr "[_miranda_] Y luego, usando esta instalación, creó un conjunto de células hormonales que la convencieron de que la necesitaban allí como prisionera. En cuanto se corrió dentro de ella, todo funcionó"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:974 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_9def42f7:
 msgid "[_miranda_] Причем ее остальные чувства не поменялись, ты для нее все такой же мудак. Но теперь ее держит чувство того, что она тебе нужна и что ей самой это нужно"
-msgstr ""
+msgstr "[_miranda_] Y sus demás sentimientos no han cambiado; sigues siendo el mismo imbécil con ella. Pero ahora la impulsa la sensación de que la necesitas, y que ella también lo necesita"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:978 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_a0b91a28:
 msgid "[_cedrick_] Черт.. Получается я могу.."
-msgstr ""
+msgstr "[_cedrick_] Maldita sea... Resulta que puedo.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:982 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_7d0b2a2f:
 msgid "[_miranda_] Нет, не можешь, Седрик. Ты не можешь убедить кого угодно в чем угодно, просто кончив в него"
-msgstr ""
+msgstr "[_miranda_] No, no puedes, Cedric. No puedes convencer a nadie de nada solo corriéndose dentro de él"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:986 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_ae1c06d4:
 msgid "[_cedrick_] Но ведь именно это и произошло.."
-msgstr ""
+msgstr "[_cedrick_]Pero eso es exactamente lo que pasó.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:990 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_c088e377:
 msgid "[_miranda_] Здесь множество разных переменных. Во-первых, ты не можешь сделать человека тем, чем он не является. Например, ты не мог бы убедить Корнелию в том, что она булыжник"
-msgstr ""
+msgstr "[_miranda_] Aquí hay muchas variables. Primero, no se puede convertir a una persona en algo que no es. Por ejemplo, no se podría convencer a Cornelia de que es una roca"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:994 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_2b8b3111:
 msgid "[_cedrick_] Так.."
@@ -1482,7 +1482,7 @@ msgstr "[_cedrick_] Entonces..."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:998 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_4358abb0:
 msgid "[_miranda_] Во-вторых, ты не можешь убедить в том, чего не может происходить в объективной реальности. Например, ты не смог бы убедить Корнелию, что она родилась из куриного яйца"
-msgstr ""
+msgstr "[_miranda_] En segundo lugar, no puedes convencer de algo que no puede suceder en la realidad objetiva. Por ejemplo, no podrías convencer a Cornelia de que nació de un huevo de gallina"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1002 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_b4f96dc9:
 msgid "[_cedrick_] Хм.."
@@ -1494,39 +1494,39 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1007 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_8df93354:
 msgid "[_miranda_] Потому что она тебя уже всем сердцем ненавидит.."
-msgstr ""
+msgstr "[_miranda_] Porque ya te odia con todo su corazón.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1011 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_e000bfe2:
 msgid "[_cedrick_] Черт.. А ведь все хорошо начиналось.. Но как тогда я сделал то, что сделал?"
-msgstr ""
+msgstr "[_cedrick_] Maldita sea... Y todo empezó bien... ¿Pero cómo hice lo que hice?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1015 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_3d66af15:
 msgid "[_miranda_] Королева Морпионов может отдаться только достойному самцу - это ее главная установка"
-msgstr ""
+msgstr "[_miranda_] La Reina Morpion solo puede entregarse a un hombre digno: este es su principio fundamental"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1016 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_7327e3cc:
 msgid "[_miranda_] Король Морпионов не может убедить ее отдаться любому жалкому слизняку. Но он может убедить ее в том, что Король сам является достойным самцом"
-msgstr ""
+msgstr "[_miranda_] El Rey Morpion no puede convencerla de que se entregue a ninguna babosa patética. Pero sí puede convencerla de que el propio Rey es un hombre digno"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1020 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_6d15286b:
 msgid "[_cedrick_] То есть то, в чем я убедил Корнелию, просто не противоречило ее внутренней установке"
-msgstr ""
+msgstr "[_cedrick_] Es decir, lo que convencí a Cornelia simplemente no contradecía su actitud interna"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1024 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_7ad7e014:
 msgid "[_miranda_] Именно. Ей хотелось почувствовать себя нужной, и ты дал ей это. Видимо для нее не является противоречием то, что она нужна тому, кого ненавидит"
-msgstr ""
+msgstr "[_miranda_] Exactamente. Quería sentirse necesaria, y tú se la diste. Al parecer, no es una contradicción para ella que alguien a quien odia la necesite"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1028 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_6c82405c:
 msgid "[_cedrick_] Люди, в детстве обделенные вниманием, чаще становятся жертвами абьюзивных отношений, поскольку так компенсируют отсутствие внимания, несмотря на плохое к ним отношение"
-msgstr ""
+msgstr "[_cedrick_] Las personas que fueron privadas de atención en la infancia tienen más probabilidades de convertirse en víctimas de relaciones abusivas, ya que así compensan la falta de atención, a pesar del mal trato que reciben"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1032 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_b79653f2:
 msgid "[_miranda_] ...Что?"
-msgstr ""
+msgstr "[_miranda_]...¿Qué?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1034 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_da73b829:
 msgid "[_cedrick_] Прочитал в книге по психологии для чайников"
-msgstr ""
+msgstr "[_cedrick_] Lo leí en un libro de psicología para tontos"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1038 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_5524c2a1:
 msgid "[_miranda_] Ясно.."
@@ -1570,11 +1570,11 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1070 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_f9a60b84:
 msgid "[_broken_warrior_] Эм.. Вам интересно как меня зовут, сэр?"
-msgstr ""
+msgstr "[_broken_warrior_] Um... ¿Se pregunta cuál es mi nombre, señor?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1074 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_1790cd26:
 msgid "[_cedrick_] Хах, да, знаю, не похоже на меня. Ну же, не тяни"
-msgstr ""
+msgstr "[_cedrick_] Ja, sí, ya sé, no soy así. Anda, no alargues el asunto"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1078 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_1edf5ee5:
 msgid "[_broken_warrior_] Булдж, сэр"
