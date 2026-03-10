@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-09 13:44\n"
+"PO-Revision-Date: 2026-03-10 00:47\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newspaperSection/need_sensation.rpy:6 #-#-# translate crowdin need_sensation_3a6e34d5:
 msgid "[_bess_] А давайте напишем про, то что директриса завела роман с одним из учеников!"
@@ -26,47 +26,47 @@ msgstr "[_irma_] Pues sí, y quién lo va a creer..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:18 #-#-# translate crowdin need_sensation_b5346b77:
 msgid "[_bess_] Как же не поверит... Неделю назад Никербокер вызвала Майкла Дарлинга к себе в кабинет и он провел там два часа! Это факт!"
-msgstr ""
+msgstr "[_bess_] ¿Cómo no creerlo? Hace una semana, Knickerbocker llamó a Michael Darling a su oficina y ¡él pasó dos horas allí! ¡Es un hecho!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:22 #-#-# translate crowdin need_sensation_6f78f98f:
 msgid "[_tarani_] Журналистика — это не только факты, но и анализ! Докопаться до правды, не затем ли мы в газете?!"
-msgstr ""
+msgstr "[_tarani_] El periodismo no son solo hechos, ¡también es análisis! ¿No es por eso que estamos en el periódico?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:26 #-#-# translate crowdin need_sensation_b007e3d7:
 msgid "[_tarani_] Надо знать цену печатному слову! Хватит всяких глупостей, вызывающих резонанс!"
-msgstr ""
+msgstr "[_tarani_] ¡Necesitamos conocer el valor de la palabra impresa! ¡Basta ya de estas tonterías que causan revuelo!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:30 #-#-# translate crowdin need_sensation_9e588bb2:
 msgid "[_martin_] ДА!"
-msgstr ""
+msgstr "[_martin_] ¡SÍ!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:34 #-#-# translate crowdin need_sensation_7aaf984b:
 msgid "[_tarani_] Поиск сенсации!"
-msgstr ""
+msgstr "[_tarani_] ¡Busca una sensación!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:39 #-#-# translate crowdin need_sensation_e6d8e4eb:
 msgid "[_martin_] Согласен, сестра!"
-msgstr ""
+msgstr "[_martin_] ¡Estoy de acuerdo, hermana!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:43 #-#-# translate crowdin need_sensation_489667be:
 msgid "[_tarani_] Доберемся до истины!"
-msgstr ""
+msgstr "[_tarani_] ¡Vamos a la verdad!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:47 #-#-# translate crowdin need_sensation_2ee58f3e:
 msgid "[_martin_] Ну конечно! Я готов!"
-msgstr ""
+msgstr "[_martin_] ¡Por supuesto! ¡Estoy listo!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:51 #-#-# translate crowdin need_sensation_3477c49e:
 msgid "[_courtney_] И кто назначил ее главной?"
-msgstr ""
+msgstr "[_courtney_] ¿Y quién la designó como principal?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:55 #-#-# translate crowdin need_sensation_f8b2ea3a:
 msgid "[_irma_] Вот вам новость. Я в депрессии."
-msgstr ""
+msgstr "[_irma_] Tengo noticias para ti: estoy deprimida."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:57 #-#-# translate crowdin need_sensation_bb86a1f0:
 msgid "[_cedrick_]  Отличный настрой! "
-msgstr ""
+msgstr "[_cedrick_] ¡Gran actitud! "
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:61 #-#-# translate crowdin need_sensation_a20cefa7:
 msgid "..."
@@ -74,67 +74,67 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:65 #-#-# translate crowdin need_sensation_41bd16d5:
 msgid "[_courtney_] Мистер Хоффман, вы все это время были здесь?"
-msgstr ""
+msgstr "[_courtney_] Señor Hoffman, ¿ha estado usted aquí todo este tiempo?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:69 #-#-# translate crowdin need_sensation_6141cf58:
 msgid "[_cedrick_] Нет, я только пришел. Вижу у вас все под контролем, уже придумали главную статью для заголовка?"
-msgstr ""
+msgstr "[_cedrick_] No, acabo de llegar. Veo que lo tienes todo bajo control; ¿ya has pensado en el titular?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:73 #-#-# translate crowdin need_sensation_69177a66:
 msgid "[_tarani_] Еще нет..."
-msgstr ""
+msgstr "[_tarani_] Aún no..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:77 #-#-# translate crowdin need_sensation_8c47ea8c:
 msgid "[_courtney_] Может стоить написать про маньяка, который объявился у нас в Хезерфилде?"
-msgstr ""
+msgstr "[_courtney_] ¿Tal vez deberíamos escribir sobre el maníaco que apareció en Heatherfield?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:82 #-#-# translate crowdin need_sensation_a5f4c58d:
 msgid "[_cedrick_] Маньяка? Не думаю, что стоит писать про эти не чем не подтвержденные слухи..."
-msgstr ""
+msgstr "[_cedrick_] ¿Un maniaco? No creo que valga la pena escribir sobre estos rumores sin fundamento."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:86 #-#-# translate crowdin need_sensation_f9c5dbd5:
 msgid "[_courtney_] Пропажа нескольких учеников недостаточное подтверждение?"
-msgstr ""
+msgstr "[_courtney_] ¿La desaparición de varios estudiantes no es prueba suficiente?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:87 #-#-# translate crowdin need_sensation_f0b1c52c:
 msgid "[_cedrick_] Вероятно они просто переехали или перевелись в другую школу. Это не редкость."
-msgstr ""
+msgstr "[_cedrick_] Probablemente simplemente se mudaron o se transfirieron a otra escuela. Esto no es raro."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:91 #-#-# translate crowdin need_sensation_4056ac2d:
 msgid "[_bess_] Но никто не слышал от них о намереньях куда-либо переезжать"
-msgstr ""
+msgstr "[_bess_] Pero nadie supo de ellos sobre sus intenciones de mudarse a algún lugar."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:95 #-#-# translate crowdin need_sensation_38ddeb67:
 msgid "[_martin_] Отсутствие доказательств не доказательство отсутствия!"
-msgstr ""
+msgstr "[_martin_] ¡La ausencia de evidencia no es prueba de ausencia!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:96 #-#-# translate crowdin need_sensation_e1338c35:
 msgid "[_cedrick_] Давайте обойдемся без шокирующих заголовков..."
-msgstr ""
+msgstr "[_cedrick_] Saltémonos los titulares impactantes."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:100 #-#-# translate crowdin need_sensation_53489d87:
 msgid "[_bess_] Эх ..."
-msgstr ""
+msgstr "[_bess_] Ey."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:102 #-#-# translate crowdin need_sensation_a5f74d82:
 msgid "[_centered_] {size=36}Спустя еще какое-то время...{/size}"
-msgstr ""
+msgstr "[_centered_] {size=36}Después de algún tiempo más...{/size}"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:107 #-#-# translate crowdin need_sensation_821e639f:
 msgid "[_courtney_] Грета Марена надела синюю юбку два раза за неделю!"
-msgstr ""
+msgstr "[_courtney_] ¡Greta Marena usó una falda azul dos veces en una semana!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:111 #-#-# translate crowdin need_sensation_81dd0c26:
 msgid "[_tarani_] До хорошей статьи не дотягивает.... "
-msgstr ""
+msgstr "[_tarani_] No llega al nivel de un buen artículo."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:115 #-#-# translate crowdin need_sensation_4d3ed6a9:
 msgid "[_cedrick_] Кажется мне пора. Завтра жду от вас отличной статьи.."
-msgstr ""
+msgstr "[_cedrick_] Creo que es hora de irme. Espero un gran artículo suyo mañana."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:116 #-#-# translate crowdin need_sensation_ddfb2fc5:
 msgid "[_pupils_] До завтра, Мистер Хоффман"
-msgstr ""
+msgstr "[_pupils_] Nos vemos mañana, señor Hoffman."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:119 #-#-# translate crowdin need_sensation_a20cefa7_1:
 msgid "..."
@@ -142,19 +142,19 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:122 #-#-# translate crowdin need_sensation_14b732c9:
 msgid "[_directris_] А! Мистер Хоффман! Вы куда-то собрались?"
-msgstr ""
+msgstr "[_directris_] ¡Ah! ¡Señor Hoffman! ¿Va a algún lado?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:126 #-#-# translate crowdin need_sensation_a117fd18:
 msgid "[_cedrick_] Уже довольно поздно, мне нужно идти."
-msgstr ""
+msgstr "[_cedrick_] Es bastante tarde, tengo que irme."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:130 #-#-# translate crowdin need_sensation_0a46c6d2:
 msgid "[_directris_] Ученики не должны оставаться одни, такие правила"
-msgstr ""
+msgstr "[_directris_] Los estudiantes no deben quedarse solos, esas son las reglas."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:131 #-#-# translate crowdin need_sensation_4e5fc301:
 msgid "[_cedrick_] Я не знал, простите..."
-msgstr ""
+msgstr "[_cedrick_] No lo sabía, lo siento..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:135 #-#-# translate crowdin need_sensation_a20cefa7_2:
 msgid "..."
@@ -162,95 +162,95 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:138 #-#-# translate crowdin need_sensation_38a7cef6:
 msgid "[_cedrick_] Так, ребята, нам нужно ускорить написание статьи. Газета должна выйти уже завтра, поторопитесь"
-msgstr ""
+msgstr "[_cedrick_] Bueno, chicos, tenemos que apresurarnos con la redacción de este artículo. El periódico debería salir mañana, ¡dense prisa!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:140 #-#-# translate crowdin need_sensation_a5f74d82_1:
 msgid "[_centered_] {size=36}Спустя еще какое-то время...{/size}"
-msgstr ""
+msgstr "[_centered_] {size=36}Después de algún tiempo más...{/size}"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:145 #-#-# translate crowdin need_sensation_ac8a7f3d:
 msgid "[_courtney_] А как вам такое - я видела, как Урия съел жвачку из под стола!"
-msgstr ""
+msgstr "[_courtney_] ¿Qué tal esto? ¡Vi a Uriah comer chicle debajo de la mesa!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:149 #-#-# translate crowdin need_sensation_776c60dd:
 msgid "[_irma_] ох... Ставь в номер и уходим"
-msgstr ""
+msgstr "[_irma_] Oh... ponlo en la habitación y vámonos."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:154 #-#-# translate crowdin need_sensation_b82b12d1:
 msgid "шмяк.. бам.. бах!"
-msgstr ""
+msgstr "¡golpe... bam... bang!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:158 #-#-# translate crowdin need_sensation_14adab4a:
 msgid ".... грохот"
-msgstr ""
+msgstr "... rugido"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:162 #-#-# translate crowdin need_sensation_7e4bd6be:
 msgid "[_irma_] Что это??"
-msgstr ""
+msgstr "[_irma_] ¿¿Qué fue eso??"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:166 #-#-# translate crowdin need_sensation_5c81707e:
 msgid "[_tarani_] Мартин обещал не возвращаться без сенсации..."
-msgstr ""
+msgstr "[_tarani_] Martín prometió no regresar sin causar sensación."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:171 #-#-# translate crowdin need_sensation_39658ff3:
 msgid "[_courtney_] Похоже засел в столовке и разбрасывает кастрюли со скуки"
-msgstr ""
+msgstr "[_courtney_] Parece que está encerrado en la cafetería y tira ollas por todos lados por aburrimiento."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:175 #-#-# translate crowdin need_sensation_c5fa6de0:
 msgid "[_irma_] Пойдем. Нужно его найти, нельзя его здесь оставлять"
-msgstr ""
+msgstr "[_irma_] Vamos. Tenemos que encontrarlo; no podemos dejarlo aquí."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:177 #-#-# translate crowdin need_sensation_5f7c243f:
 msgid "[_centered_] {size=36}Через пару минут в столовой{/size}"
-msgstr ""
+msgstr "[_centered_] {size=36}En un par de minutos en el comedor.{/size}"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:182 #-#-# translate crowdin need_sensation_a8f384ea:
 msgid "[_cedrick_] Чем ты тут занимаешься?"
-msgstr ""
+msgstr "[_cedrick_] ¿Qué estan haciendo aquí?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:186 #-#-# translate crowdin need_sensation_2751c9fa:
 msgid "[_irma_] Мы слышали шум"
-msgstr ""
+msgstr "[_irma_] Escuchamos un ruido."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:190 #-#-# translate crowdin need_sensation_13b62ad0:
 msgid "[_martin_] Я видел приведение, это чистый эксклюзив! Ждите фото!"
-msgstr ""
+msgstr "[_martin_] Vi un fantasma. ¡Es totalmente exclusiva! ¡Esperen las fotos!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:194 #-#-# translate crowdin need_sensation_6ec5bb32:
 msgid "[_tarani_] Мартин, запомни, это называется кондиционер"
-msgstr ""
+msgstr "[_tarani_] Martín, recuerda, esto se llama aire acondicionado."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:198 #-#-# translate crowdin need_sensation_a3f6ee7a:
 msgid "[_martin_] Нет, нет! Я сам все видел!!!!"
-msgstr ""
+msgstr "[_martin_] ¡No, no! ¡Lo vi todo yo mismo!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:202 #-#-# translate crowdin need_sensation_155e8c93:
 msgid "[_martin_] Ээ.. Точнее видел что оно сделал..."
-msgstr ""
+msgstr "[_martin_] Uh... Más precisamente, vi lo que hizo."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:203 #-#-# translate crowdin need_sensation_8b441424:
 msgid "[_martin_] Или они сделали..."
-msgstr ""
+msgstr "[_martin_] O lo hicieron."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:207 #-#-# translate crowdin need_sensation_abb2fdb2:
 msgid "бах..."
-msgstr ""
+msgstr "bang..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:211 #-#-# translate crowdin need_sensation_713b8f6d:
 msgid "[_bess_] Что это было?"
-msgstr ""
+msgstr "[_bess_] ¿Qué fue eso?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:215 #-#-# translate crowdin need_sensation_b2622c4b:
 msgid "[_irma_] Это еще что такое!?"
-msgstr ""
+msgstr "[_irma_] ¿Qué demonios es eso?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:216 #-#-# translate crowdin need_sensation_c713f073:
 msgid "[_martin_] Это... Это эктоплазма!!"
-msgstr ""
+msgstr "[_martin_] ¡Esto...Esto es ectoplasma!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:217 #-#-# translate crowdin need_sensation_4cd3118f:
 msgid "[_cedrick_] Дайте-ка посмотрю..."
-msgstr ""
+msgstr "[_cedrick_] Déjame ver."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:220 #-#-# translate crowdin need_sensation_a20cefa7_3:
 msgid "..."
@@ -258,51 +258,51 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:221 #-#-# translate crowdin need_sensation_058be9a8:
 msgid "[_cedrick_] (Хм.. такие следы оставляет только.. вепрь Герменутий... Но что он здесь делает?...)"
-msgstr ""
+msgstr "[_cedrick_] (Hmm... sólo el jabalí Hermenutius deja tales huellas... ¿Pero qué estará haciendo aquí?)"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:222 #-#-# translate crowdin need_sensation_1c35cd73:
 msgid "[_cedrick_] (Должно быть где-то рядом открылся портал. Думаю стражницы смогут разобраться с этим... не стоит привлекать к этом внимание)"
-msgstr ""
+msgstr "[_cedrick_] (Debe haber un portal abriéndose en algún lugar cercano. Creo que las guardianas pueden manejarlo... no hay necesidad de llamar la atención sobre ello.)"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:223 #-#-# translate crowdin need_sensation_c71662d8:
 msgid "[_martin_] Плохо видно... У кого-нибудь есть телефон с фонариком?"
-msgstr ""
+msgstr "[_martin_] Es difícil de ver... ¿Alguien tiene un teléfono con linterna?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:224 #-#-# translate crowdin need_sensation_13729cdc:
 msgid "[_cedrick_] Свой я оставил в классе.."
-msgstr ""
+msgstr "[_cedrick_] Dejé el mío en el aula."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:225 #-#-# translate crowdin need_sensation_ff30994d:
 msgid "[_bess_] Может просто включить свет?"
-msgstr ""
+msgstr "[_bess_] ¿Tal vez sólo encendiendo la luz?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:227 #-#-# translate crowdin need_sensation_87150563:
 msgid "[_martin_] Не работает. Похоже уборщик выключает свет в электрощитке."
-msgstr ""
+msgstr "[_martin_] No funciona. Parece que el aspirador está apagando la luz del panel eléctrico."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:228 #-#-# translate crowdin need_sensation_abf0e643:
 msgid "[_martin_] Ну что???Это эктоплазма??"
-msgstr ""
+msgstr "[_martin_]  ¿Entonces? ¿Esto es ectoplasma?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:229 #-#-# translate crowdin need_sensation_b50e8cb0:
 msgid "[_cedrick_] Скорее всего это прокисший кисель..."
-msgstr ""
+msgstr "[_cedrick_] Lo más probable es que sea gelatina agria."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:230 #-#-# translate crowdin need_sensation_d47d96bd:
 msgid "[_tarani_] Н-наверное это и правду кисель..."
-msgstr ""
+msgstr "[_tarani_] T-tal vez realmente sea gelatina."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:231 #-#-# translate crowdin need_sensation_35ce1a55:
 msgid "[_tarani_] Ирма, давай отойдем.."
-msgstr ""
+msgstr "[_tarani_] Irma, alejémonos."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:232 #-#-# translate crowdin need_sensation_4d78a7ed:
 msgid "[_irma_] Зачем?"
-msgstr ""
+msgstr "[_irma_] ¿Por qué?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:233 #-#-# translate crowdin need_sensation_1f89af7b:
 msgid "[_tarani_] Кажется у меня расстегнулся лифчик.. Поможешь застегнуть?.."
-msgstr ""
+msgstr "[_tarani_] Creo que mi sostén está desabrochado. ¿Puedes ayudarme a abrocharlo?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:234 #-#-# translate crowdin need_sensation_a20cefa7_4:
 msgid "..."
@@ -310,23 +310,23 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:237 #-#-# translate crowdin need_sensation_32104ee0:
 msgid "Бахх...ааа"
-msgstr ""
+msgstr "Bahhh...ahhh."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:238 #-#-# translate crowdin need_sensation_dbb5767e:
 msgid "[_courtney_] Ааааа!!"
-msgstr ""
+msgstr "[_courtney_] ¡¡Ааааh!!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:239 #-#-# translate crowdin need_sensation_68c7f9a8:
 msgid "[_courtney_] Меня кто-то трогает!! Это призрак!!"
-msgstr ""
+msgstr "[_courtney_] ¡Alguien me está tocando! ¡Es un fantasma!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:240 #-#-# translate crowdin need_sensation_11a50d06:
 msgid "[_bess_] Это я, извини... Я испугалась.."
-msgstr ""
+msgstr "[_bess_] Soy yo, lo siento... me asusté."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:241 #-#-# translate crowdin need_sensation_b15689b7:
 msgid "[_martin_] Меня кто-то толкнул, и я уронил фонарик"
-msgstr ""
+msgstr "[_martin_] Soy yo, lo siento... me asusté."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:246 #-#-# translate crowdin need_sensation_a20cefa7_5:
 msgid "..."
@@ -334,35 +334,35 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:250 #-#-# translate crowdin need_sensation_5c3fb5d8:
 msgid "[_courtney_] А куда делись Ирма и Тарани?"
-msgstr ""
+msgstr "[_courtney_] ¿Y a dónde fueron Irma y Tarani?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:254 #-#-# translate crowdin need_sensation_721474a6:
 msgid "[_cedrick_] Оставайтесь здесь. Я попробую их найти и вернусь к вам."
-msgstr ""
+msgstr "[_cedrick_] Quédate aquí. Intentaré encontrarlas y me pondré en contacto contigo."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:257 #-#-# translate crowdin need_sensation_15ca3014:
 msgid "[_cedrick_] (Куда же они могли пойти...)"
-msgstr ""
+msgstr "[_cedrick_] (¿A dónde podrían ir?)"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:258 #-#-# translate crowdin need_sensation_28fb002c:
 msgid "[_cedrick_] (Если они заподозрили, что это был вепрь Герменутий, то они наверняка пошли звать на помощь остальных стражниц, чтобы избавится от него и закрыть портал..)"
-msgstr ""
+msgstr "[_cedrick_] (Si sospechaban que era el jabalí Hermenutius, entonces probablemente fueron a llamar a los otras guardianas en busca de ayuda para deshacerse de él y cerrar el portal.)"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:260 #-#-# translate crowdin need_sensation_301f357e:
 msgid "ах... ккрх."
-msgstr ""
+msgstr "ah... kkrh."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:261 #-#-# translate crowdin need_sensation_82ad5f5f:
 msgid "[_cedrick_] (Что за звуки?)"
-msgstr ""
+msgstr "[_cedrick_] (¿Qué son esos sonidos?)"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:262 #-#-# translate crowdin need_sensation_c83eaf11:
 msgid " ккрх..."
-msgstr ""
+msgstr " kkrh..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:263 #-#-# translate crowdin need_sensation_49e86dcb:
 msgid "[_cedrick_] (Кажется это из моего кабинета)"
-msgstr ""
+msgstr "[_cedrick_] (Creo que eso viene de mi oficina)"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:267 #-#-# translate crowdin need_sensation_a20cefa7_6:
 msgid "..."
@@ -370,19 +370,19 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:272 #-#-# translate crowdin need_sensation_81c6fea5:
 msgid "ккрх..."
-msgstr ""
+msgstr "kkrh..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:273 #-#-# translate crowdin need_sensation_5e38ca8a:
 msgid "[_cedrick_] Так-так-так... И что это ты делаешь?"
-msgstr ""
+msgstr "[_cedrick_] Ey ey ey... ¿Qué estan haciendo?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:276 #-#-# translate crowdin need_sensation_012f7d5f:
 msgid "[_irma_] я просто потерялась..."
-msgstr ""
+msgstr "[_irma_] Estoy perdida"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:277 #-#-# translate crowdin need_sensation_ef86392d:
 msgid "[_cedrick_] Да ладно... Мы оба знаем, зачем ты здесь... думала найти мой телефон и удалить те снимки?"
-msgstr ""
+msgstr "[_cedrick_] Vamos... Ambos sabemos por qué estás aquí... ¿Creíste que podrías encontrar mi teléfono y borrar esas fotos?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:281 #-#-# translate crowdin need_sensation_80778342:
 msgid "[_irma_] Ха.. Вовсе нет.."
@@ -390,7 +390,7 @@ msgstr ""
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:282 #-#-# translate crowdin need_sensation_4eae336f:
 msgid "[_cedrick_] Аккуратнее, девочка, если будешь и дальше вытворять подобное - кто-то может увидеть эти фотографии"
-msgstr ""
+msgstr "[_cedrick_] Ten cuidado niña, si sigues haciendo esto alguien podría ver estas fotos."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:286 #-#-# translate crowdin need_sensation_a20cefa7_7:
 msgid "..."
