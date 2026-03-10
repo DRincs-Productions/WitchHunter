@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-10 00:47\n"
+"PO-Revision-Date: 2026-03-10 22:15\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newspaperSection/need_sensation.rpy:6 #-#-# translate crowdin need_sensation_3a6e34d5:
 msgid "[_bess_] А давайте напишем про, то что директриса завела роман с одним из учеников!"
@@ -398,15 +398,15 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:287 #-#-# translate crowdin need_sensation_92f4a757:
 msgid "[_irma_] Мне нужно найти Тарани..."
-msgstr ""
+msgstr "[_irma_] Necesito encontrar a Tarani."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:290 #-#-# translate crowdin need_sensation_49846a9f:
 msgid "Ирма убегает"
-msgstr ""
+msgstr "Irma se escapa"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:291 #-#-# translate crowdin need_sensation_92c4cbbd:
 msgid "[_cedrick_sprite_] Ну удачи"
-msgstr ""
+msgstr "[_cedrick_sprite_] Bueno, buena suerte."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:292 #-#-# translate crowdin need_sensation_0387eb30:
 msgid "[_cedrick_] (Что за девчонка.. решила, что может копаться у меня в столе, стоило бы преподать ей урок...)"
