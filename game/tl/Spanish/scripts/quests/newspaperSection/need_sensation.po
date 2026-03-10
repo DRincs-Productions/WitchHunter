@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-10 22:15\n"
+"PO-Revision-Date: 2026-03-10 23:22\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newspaperSection/need_sensation.rpy:6 #-#-# translate crowdin need_sensation_3a6e34d5:
 msgid "[_bess_] А давайте напишем про, то что директриса завела роман с одним из учеников!"
@@ -410,11 +410,11 @@ msgstr "[_cedrick_sprite_] Bueno, buena suerte."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:292 #-#-# translate crowdin need_sensation_0387eb30:
 msgid "[_cedrick_] (Что за девчонка.. решила, что может копаться у меня в столе, стоило бы преподать ей урок...)"
-msgstr ""
+msgstr "[_cedrick_] (¿Qué clase de chica decide que podía hurgar en mi escritorio, valdría la pena darle una lección?)"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:293 #-#-# translate crowdin need_sensation_7d7d5500:
 msgid "[_cedrick_] (Но ничего... У меня еще будет шанс отыграться...)"
-msgstr ""
+msgstr "[_cedrick_] (Pero no importa, todavía tendré la oportunidad de vengarme.)"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:294 #-#-# translate crowdin need_sensation_a20cefa7_8:
 msgid "..."
@@ -422,7 +422,7 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:299 #-#-# translate crowdin gallery_d_022_ded8d18b:
 msgid "[_bess_] Профессор Хоффман..."
-msgstr ""
+msgstr "[_bess_] Profesor Hoffman."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:303 #-#-# translate crowdin gallery_d_022_f8ca87ad:
 msgid "[_cedrick_] Где остальные?"
