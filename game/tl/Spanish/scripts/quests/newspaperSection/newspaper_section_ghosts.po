@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:41\n"
+"PO-Revision-Date: 2026-03-11 04:04\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:5 #-#-# translate crowdin newspaper_section_ghosts_a20cefa7:
 msgid "..."
@@ -18,23 +18,23 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:6 #-#-# translate crowdin newspaper_section_ghosts_15908222:
 msgid "[_cedrick_] (Хм.. Вроде все идет своим чередом)"
-msgstr ""
+msgstr "[_cedrick_] (Hmm... Todo parece ir como siempre.)"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:9 #-#-# translate crowdin newspaper_section_ghosts_de841977:
 msgid "[_directris_] Здравствуйте, мистер Хоффман. А вы молодец, газета получилась неплохо..."
-msgstr ""
+msgstr "[_directris_] Hola, Sr. Hoffman. Está haciendo un gran trabajo; el trabajo quedó muy bien."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:13 #-#-# translate crowdin newspaper_section_ghosts_7126ec15:
 msgid "[_cedrick_] Спасибо"
-msgstr ""
+msgstr "[_cedrick_] Gracias."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:17 #-#-# translate crowdin newspaper_section_ghosts_c9883784:
 msgid "[_directris_] Надеюсь вам не пришлось засиживаться до ночи, и все ученики пришли домой вовремя?"
-msgstr ""
+msgstr "[_directris_] ¿Espero que no hayas tenido que quedarte despierto hasta tarde en la noche y que todos los estudiantes hayan llegado a casa a tiempo?"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:18 #-#-# translate crowdin newspaper_section_ghosts_c8a64b38:
 msgid "[_cedrick_] Да, конечно "
-msgstr ""
+msgstr "[_cedrick_] Sí, claro."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:22 #-#-# translate crowdin newspaper_section_ghosts_d906b742:
 msgid "[_directris_] Ладно, мне пора заняться делами. А у вас сейчас должен быть урок, если я не ошибаюсь"
