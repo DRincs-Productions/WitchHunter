@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-10 23:22\n"
+"PO-Revision-Date: 2026-03-11 02:56\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newspaperSection/need_sensation.rpy:6 #-#-# translate crowdin need_sensation_3a6e34d5:
 msgid "[_bess_] А давайте напишем про, то что директриса завела роман с одним из учеников!"
@@ -426,23 +426,23 @@ msgstr "[_bess_] Profesor Hoffman."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:303 #-#-# translate crowdin gallery_d_022_f8ca87ad:
 msgid "[_cedrick_] Где остальные?"
-msgstr ""
+msgstr "[_cedrick_] ¿Dónde están los demás?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:307 #-#-# translate crowdin gallery_d_022_ee2917b1:
 msgid "[_bess_]  Мы разделились, чтоб найти всех"
-msgstr ""
+msgstr "[_bess_] Nos separamos para encontrar a todos."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:311 #-#-# translate crowdin gallery_d_022_5eeaea6d:
 msgid "[_cedrick_] Я же сказал ждать меня в столовой!"
-msgstr ""
+msgstr "[_cedrick_] ¡Te dije que me esperaras en el comedor!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:315 #-#-# translate crowdin gallery_d_022_d229adf1:
 msgid "[_bess_] Мы договорились встретится в столовой через двадцать минут"
-msgstr ""
+msgstr "[_bess_] Quedamos en encontrarnos en el comedor en veinte minutos."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:316 #-#-# translate crowdin gallery_d_022_d6b64350:
 msgid "[_cedrick_] Черт... Ладно.."
-msgstr ""
+msgstr "[_cedrick_] Maldita sea... Está bien."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:320 #-#-# translate crowdin gallery_d_022_a20cefa7:
 msgid "..."
