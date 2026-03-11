@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-11 04:04\n"
+"PO-Revision-Date: 2026-03-11 06:32\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:7 #-#-# translate crowdin gallery_d_023_f58b35e9:
 msgid "[_bess_] Мистер Хоффман... Наконец, вы решили нас навестить?"
@@ -338,7 +338,7 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:213 #-#-# translate crowdin gallery_d_023_f7a8d2cf:
 msgid "[_centered_] {size=36}Спустя некоторое время{/size}"
-msgstr ""
+msgstr "[_centered_] {size=36}Después de un tiempo{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:216 #-#-# translate crowdin gallery_d_023_47f0bc83:
 msgid "[_writer_]  Я иду, -сказал он. Иду к тебе, Фатима."
