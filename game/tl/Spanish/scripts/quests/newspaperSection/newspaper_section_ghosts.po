@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-11 05:16\n"
+"PO-Revision-Date: 2026-03-11 06:32\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:5 #-#-# translate crowdin newspaper_section_ghosts_a20cefa7:
 msgid "..."
@@ -114,43 +114,43 @@ msgstr "[_martin_] ¡Para nada! Al entrar a la cafetería, oí un ruido..."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:56 #-#-# translate crowdin newspaper_section_ghosts_42241d4b:
 msgid "[_martin_] Внезапно затряслись столы, взлетели подносы..."
-msgstr ""
+msgstr "[_martin_] De repente las mesas se sacudieron y las bandejas volaron."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:57 #-#-# translate crowdin newspaper_section_ghosts_c1e4a0c5:
 msgid "[_martin_] И я увидел призрака!"
-msgstr ""
+msgstr "[_martin_] ¡Y vi un fantasma!"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:59 #-#-# translate crowdin newspaper_section_ghosts_f7a8d2cf:
 msgid "[_centered_] {size=36}Спустя некоторое время{/size}"
-msgstr ""
+msgstr "[_centered_] {size=36}Después de un tiempo{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:62 #-#-# translate crowdin newspaper_section_ghosts_021571a6:
 msgid "[_martin_] Приведения слева, призраки справа! Я дрался! Но их было слишком много..."
-msgstr ""
+msgstr "[_martin_] ¡Fantasmas a la izquierda, espectros a la derecha! ¡Luché! Pero eran demasiados."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:63 #-#-# translate crowdin newspaper_section_ghosts_67a606c0:
 msgid "[_pupils_] У Мартина совсем крыша поехала.."
-msgstr ""
+msgstr "[_pupils_] Martín ha perdido completamente la cabeza."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:64 #-#-# translate crowdin newspaper_section_ghosts_3db65c91:
 msgid "[_martin_] Один из них поднял парту!"
-msgstr ""
+msgstr "[_martin_] ¡Uno de ellos levantó el escritorio!"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:65 #-#-# translate crowdin newspaper_section_ghosts_63c69899:
 msgid "[_pupils_] Эй, Раньше ты говорил про стул!"
-msgstr ""
+msgstr "[_pupils_] Oye, ¡antes estabas hablando de una silla!"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:66 #-#-# translate crowdin newspaper_section_ghosts_88cb9cd9:
 msgid "[_martin_] Парта в сборе со стулом. Такие бывают! Ясно?"
-msgstr ""
+msgstr "[_martin_] Un juego de escritorio y silla. ¡Existen! ¿Lo tienes?"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:67 #-#-# translate crowdin newspaper_section_ghosts_e90b47f8:
 msgid "[_martin_] Кстати попрошу не перебивать"
-msgstr ""
+msgstr "[_martin_] Por cierto, por favor no interrumpas."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:68 #-#-# translate crowdin newspaper_section_ghosts_718f3bfe:
 msgid "[_cedrick_] Мартин, это конечно все замечательно, но мой предмет - история"
-msgstr ""
+msgstr "[_cedrick_] Martín, todo esto es genial, por supuesto, pero mi tema es la historia."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:69 #-#-# translate crowdin newspaper_section_ghosts_b927f669:
 msgid "[_martin_] Так я и рассказываю историю! Историю, которая произошла со мной вчера!"
