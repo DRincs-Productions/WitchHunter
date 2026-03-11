@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-11 04:04\n"
+"PO-Revision-Date: 2026-03-11 05:16\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:5 #-#-# translate crowdin newspaper_section_ghosts_a20cefa7:
 msgid "..."
@@ -38,51 +38,51 @@ msgstr "[_cedrick_] Sí, claro."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:22 #-#-# translate crowdin newspaper_section_ghosts_d906b742:
 msgid "[_directris_] Ладно, мне пора заняться делами. А у вас сейчас должен быть урок, если я не ошибаюсь"
-msgstr ""
+msgstr "[_directris_] Bueno, tengo que irme a trabajar. Y deberías estar teniendo una clase ahora, si no me equivoco."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:26 #-#-# translate crowdin newspaper_section_ghosts_1c193ac6:
 msgid "[_cedrick_] Да, я уже иду"
-msgstr ""
+msgstr "[_cedrick_] Sí, ya estoy en camino."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:29 #-#-# translate crowdin newspaper_section_ghosts_8663cba0:
 msgid "[_cedrick_] (ну.. Похоже, что все в порядке, пора на урок)"
-msgstr ""
+msgstr "[_cedrick_] (Bueno... Parece que todo está bien, hora de clase)"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:31 #-#-# translate crowdin newspaper_section_ghosts_3fa7d135:
 msgid "[_centered_] {size=36}Через несколько минут на уроке{/size}"
-msgstr ""
+msgstr "[_centered_] {size=36}Minutos despues durante l clase{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:34 #-#-# translate crowdin newspaper_section_ghosts_8e4c008d:
 msgid "[_cedrick_] Всем здравствуйте. Сегодня у нас новая тема. Мы начнем изучать события, которые происходили в Бронзовом Веке в Европе."
-msgstr ""
+msgstr "[_cedrick_] Hola a todos. Hoy tenemos un tema nuevo. Comenzaremos explorando los eventos que tuvieron lugar en la Edad de Bronce en Europa."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:37 #-#-# translate crowdin newspaper_section_ghosts_721a889b:
 msgid "[_cedrick_] Бронзовый век на территории Европы последовал за Европейским медн..."
-msgstr ""
+msgstr "[_cedrick_] La Edad del Bronce en Europa siguió a la Edad del Cobre europea."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:38 #-#-# translate crowdin newspaper_section_ghosts_70201cf5:
 msgid "[_martin_] Профессор Хоффман!!"
-msgstr ""
+msgstr "[_martin_] ¡¡Profesor Hoffman!!"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:39 #-#-# translate crowdin newspaper_section_ghosts_18a7b77c:
 msgid "[_cedrick_] (ох..)"
-msgstr ""
+msgstr "[_cedrick_] (Oh..)"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:42 #-#-# translate crowdin newspaper_section_ghosts_4ac6e6ee:
 msgid "[_cedrick_] Да Мартин?"
-msgstr ""
+msgstr "[_cedrick_] ¿Si, Martin?"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:43 #-#-# translate crowdin newspaper_section_ghosts_a64a67c5:
 msgid "[_martin_] А можно мне выступить с докладом?"
-msgstr ""
+msgstr "[_martin_] ¿Puedo hacer una presentación?"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:44 #-#-# translate crowdin newspaper_section_ghosts_1b400ce7:
 msgid "[_cedrick_] Ну.. Мы опережаем график.. Почему бы и нет?"
-msgstr ""
+msgstr "[_cedrick_] Bueno... Vamos adelantados en lo previsto... ¿Por qué no?"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:45 #-#-# translate crowdin newspaper_section_ghosts_5bf2668d:
 msgid "[_martin_] Спасибо! Вы не пожалеете..."
-msgstr ""
+msgstr "[_martin_] ¡Gracias! No te arrepentirás."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:46 #-#-# translate crowdin newspaper_section_ghosts_5f9b772e:
 msgid "...."
@@ -90,27 +90,27 @@ msgstr "...."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:49 #-#-# translate crowdin newspaper_section_ghosts_039487a0:
 msgid "[_martin_] В общем дело было вчера вечером... Мы с клубом журналистики решили найти сенсацию, и я отправился на ее поиски"
-msgstr ""
+msgstr "[_martin_] En fin, pasó anoche... Mi club de periodismo y yo decidimos buscar una pista, y fui a buscarla."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:50 #-#-# translate crowdin newspaper_section_ghosts_b2b00de9:
 msgid "[_cedrick_] (Уже жалею..)"
-msgstr ""
+msgstr "[_cedrick_] (Ya me arrepiento.)"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:51 #-#-# translate crowdin newspaper_section_ghosts_765441f7:
 msgid "[_martin_]  И я ее обнаружил! Не поверите, прямо в школьной столовой!"
-msgstr ""
+msgstr "[_martin_] ¡Y lo encontré! ¡No se lo van a creer! ¡Justo en la cafetería del colegio!"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:52 #-#-# translate crowdin newspaper_section_ghosts_7cc3d785:
 msgid "[_pupils_] То что в нашей столовой котлеты делают из собак и так все знают.."
-msgstr ""
+msgstr "[_pupils_] Todo el mundo sabe que en nuestra cafetería hacen croquetas de perro."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:54 #-#-# translate crowdin newspaper_section_ghosts_79ef0561:
 msgid "смешки в классе"
-msgstr ""
+msgstr "Risas en el aula"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:55 #-#-# translate crowdin newspaper_section_ghosts_9fa8f4af:
 msgid "[_martin_] Нет, вовсе нет! Когда я зашел в школьную столовую, я услышал какой-то шум..."
-msgstr ""
+msgstr "[_martin_] ¡Para nada! Al entrar a la cafetería, oí un ruido..."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:56 #-#-# translate crowdin newspaper_section_ghosts_42241d4b:
 msgid "[_martin_] Внезапно затряслись столы, взлетели подносы..."
