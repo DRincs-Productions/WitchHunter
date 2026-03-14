@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-11 06:32\n"
+"PO-Revision-Date: 2026-03-14 01:56\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:5 #-#-# translate crowdin newspaper_section_ghosts_a20cefa7:
 msgid "..."
@@ -154,7 +154,7 @@ msgstr "[_cedrick_] Martín, todo esto es genial, por supuesto, pero mi tema es 
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:69 #-#-# translate crowdin newspaper_section_ghosts_b927f669:
 msgid "[_martin_] Так я и рассказываю историю! Историю, которая произошла со мной вчера!"
-msgstr ""
+msgstr "[_martin_] ¡Así que les voy a contar una historia! ¡Una historia que me pasó ayer!"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:70 #-#-# translate crowdin newspaper_section_ghosts_88163559:
 msgid "[_cedrick_] Ох..."
@@ -162,7 +162,7 @@ msgstr "[_cedrick_] Oh..."
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:71 #-#-# translate crowdin newspaper_section_ghosts_56137bbf:
 msgid "[_girl_] Мистер Хоффман!"
-msgstr ""
+msgstr "[_girl_] ¡Señor Hoffman!"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:72 #-#-# translate crowdin newspaper_section_ghosts_edbdb30a:
 msgid "[_cedrick_] Да, Венди?"
