@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-10 10:50\n"
+"PO-Revision-Date: 2026-03-14 22:37\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
@@ -130,11 +130,11 @@ msgstr "[_elion_] Bueno, selección de personajes. ¡Definitivamente jugaré con
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:59 #-#-# translate crowdin game_with_elion_42fba2ef:
 msgid "[_elion_] Играя за него я точно выиграю!"
-msgstr ""
+msgstr "[_elion_] ¡Si juego con él, seguro que gano!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:61 #-#-# translate crowdin game_with_elion_d7f10532:
 msgid "[_cedrick_] Эм, а я тогда выбираю… Хм.. Я выбираю Кэмми. Она выглядит спортивной, и при этом сексуальной. Смогу смотреть на ее задницу, пока играю"
-msgstr ""
+msgstr "[_cedrick_] Eh, entonces elegiré... Mmm... Elegiré a Cammy. Se ve atlética, pero sexy. Puedo mirarle el trasero mientras juego"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:63 #-#-# translate crowdin game_with_elion_bc95ce37:
 msgid "[_elion_] Р-рик!"
