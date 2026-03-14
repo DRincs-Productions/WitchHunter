@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-14 15:16\n"
+"PO-Revision-Date: 2026-03-14 21:21\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:7 #-#-# translate crowdin gallery_d_023_f58b35e9:
 msgid "[_bess_] Мистер Хоффман... Наконец, вы решили нас навестить?"
@@ -622,37 +622,37 @@ msgstr "[_cedrick_] Recupérate... Y tenemos que darnos prisa, alguien podría n
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:367 #-#-# translate crowdin gallery_d_024_30889e67:
 msgid "[_centered_] {size=36}В общем зале книжного магазина{/size}"
-msgstr ""
+msgstr "[_centered_] {size=36}En la sala común de la librería{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:371 #-#-# translate crowdin gallery_d_024_0eab2fd8:
 msgid "[_martin_] Ирма, ты где была??"
-msgstr ""
+msgstr "[_martin_] Irma, ¿dónde has estado?"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:375 #-#-# translate crowdin gallery_d_024_0a9f95ca:
 msgid "[_martin_] Слышала, как я зачитал? Публика была в восторге!"
-msgstr ""
+msgstr "[_martin_] ¿Escuchaste cómo lo leí? ¡El público quedó encantado!"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:379 #-#-# translate crowdin gallery_d_024_5c52467c:
 msgid "[_irma_] Яя... я искала туалет, и немного заблудилась.."
-msgstr ""
+msgstr "[_irma_] Yaya... Estaba buscando el baño y me perdí un poco."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:383 #-#-# translate crowdin gallery_d_024_d68ab358:
 msgid "[_irma_] А профессор Хоффман помог мне найти его."
-msgstr ""
+msgstr "[_irma_] Y el profesor Hoffman me ayudó a encontrarlo."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:387 #-#-# translate crowdin gallery_d_024_4b8d6432:
 msgid "[_martin_] Понятно! А теперь у нас запланирован романтический поход в Бургерную Боба!"
-msgstr ""
+msgstr "[_martin_] ¡Lo tengo! ¡Ahora tenemos planeado un viaje romántico a Bob's Burgers!"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:391 #-#-# translate crowdin gallery_d_024_adf3c8ff:
 msgid "[_irma_] Ох... эта забегаловка... ну хуже уже не будет.."
-msgstr ""
+msgstr "[_irma_] Oh... este restaurante... no puede empeorar."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:395 #-#-# translate crowdin gallery_d_024_6448dedd:
 msgid "[_cedrick_] Так держать, Мартин... Скоро Ирма не устоит под твоим напором, и будет твоей"
-msgstr ""
+msgstr "[_cedrick_] Sigue así, Martin... Pronto Irma no podrá resistir tu presión y será tuya."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:399 #-#-# translate crowdin gallery_d_024_d6c4b376:
 msgid "[_martin_] Спасибо, Профессор!"
-msgstr ""
+msgstr "[_martin_] ¡Gracias, profesor!"
 
