@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-14 04:00\n"
+"PO-Revision-Date: 2026-03-14 05:01\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:7 #-#-# translate crowdin gallery_d_023_f58b35e9:
 msgid "[_bess_] Мистер Хоффман... Наконец, вы решили нас навестить?"
@@ -614,7 +614,7 @@ msgstr "[_irma_] Aaah."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:363 #-#-# translate crowdin gallery_d_024_90dacb0a:
 msgid "[_irma_] Я же просила..."
-msgstr ""
+msgstr "[_irma_] Te pedí que..."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:364 #-#-# translate crowdin gallery_d_024_05e03ccb:
 msgid "[_cedrick_] Приведи себя в порядок.. И нам нужно поторопится, кто-нибудь может заметить наше отсутствие.."
