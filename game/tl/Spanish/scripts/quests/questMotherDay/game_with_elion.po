@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-14 22:37\n"
+"PO-Revision-Date: 2026-03-14 23:33\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
@@ -142,51 +142,51 @@ msgstr "[_elion_] R-Rick!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:65 #-#-# translate crowdin game_with_elion_c17c34ca:
 msgid "[_cedrick_] Хах, да шучу я, шучу"
-msgstr ""
+msgstr "[_cedrick_] Ja, es broma, es broma"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:67 #-#-# translate crowdin game_with_elion_5a384c2b:
 msgid "[_elion_] Н-ну что, начнем?"
-msgstr ""
+msgstr "[_elion_] B-bueno, ¿empezamos?"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:69 #-#-# translate crowdin game_with_elion_f8994ce5:
 msgid "[_cedrick_] Сейчас, только посмотрю какое тут управление"
-msgstr ""
+msgstr "[_cedrick_] Ahora, voy a ver cómo son los controles aquí"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:71 #-#-# translate crowdin game_with_elion_02b75342:
 msgid "[_elion_] Н-нечестно, я ведь тоже играть не умею"
-msgstr ""
+msgstr "[_elion_] N-eso no es justo, yo tampoco sé jugar"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:73 #-#-# translate crowdin game_with_elion_27956bed:
 msgid "[_cedrick_] Хах, хорошо. Тогда начнем"
-msgstr ""
+msgstr "[_cedrick_] Ja, vale. Entonces, empecemos"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:91 #-#-# translate crowdin cedrick_win_1_0395fa38:
 msgid "[_elion_] Это не честно, я совсем не умею играть в такие игры..."
-msgstr ""
+msgstr "[_elion_] Esto no es justo, no sé jugar a este tipo de juegos..."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:92 #-#-# translate crowdin cedrick_win_1_cb17e283:
 msgid "[_cedrick_] Хммм, знаешь, Элион, у меня есть одна идея..."
-msgstr ""
+msgstr "[_cedrick_] Hmmm, sabes, Elion, tengo una idea..."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:93 #-#-# translate crowdin cedrick_win_1_c5c9cdb8:
 msgid "[_elion_] К-какая?"
-msgstr ""
+msgstr "[_elion_] ¿Q-qué?"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:94 #-#-# translate crowdin cedrick_win_1_6a7dc948:
 msgid "[_cedrick_] Довольно скучно играть без приза. Как насчет пари? Проигравший исполняет желание победителя?"
-msgstr ""
+msgstr "[_cedrick_] Es bastante aburrido jugar sin premio. ¿Qué tal una apuesta? ¿El perdedor le concede un deseo al ganador?"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:95 #-#-# translate crowdin cedrick_win_1_45ed82f3:
 msgid "[_elion_] Э-это не честно, ты же выигрываешь?"
-msgstr ""
+msgstr "[_elion_] Eso no es justo, estás ganando, ¿verdad?"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:96 #-#-# translate crowdin cedrick_win_1_2c38bd42:
 msgid "[_cedrick_] Вдруг ты еще отыграешься?"
-msgstr ""
+msgstr "[_cedrick_] ¿Y si aún así consigues vengarte?"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:97 #-#-# translate crowdin cedrick_win_1_3b185e81:
 msgid "[_elion_] Пф... Тогда пусть все заранее озвучат свое желание"
-msgstr ""
+msgstr "[_elion_] Pff... Entonces que cada uno exprese su deseo por adelantado"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:98 #-#-# translate crowdin cedrick_win_1_81ac4e4c:
 msgid "[_cedrick_] Хм... Хочу трахнуть тебя между грудей"
