@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-16 01:16\n"
+"PO-Revision-Date: 2026-03-16 02:14\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
@@ -274,43 +274,43 @@ msgstr "[_elion_] Mmmmm... Lo dices como si fuera desagradable para ti.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:146 #-#-# translate crowdin gallery_d_109_4fed375f:
 msgid "[_cedrick_] М-мне приятно.. Но, неприятно при этом проигрывать.. К-к тому же ты делаешь это из корыстных побуждений"
-msgstr ""
+msgstr "[_cedrick_] Yo-yo me siento bien... Pero es desagradable perder al mismo tiempo... A-además, lo estás haciendo por razones egoístas"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:147 #-#-# translate crowdin gallery_d_109_ac00f7b2:
 msgid "[_elion_] Ааааххх.. Как будто ты не сделал бы того же самого, если бы начал проигрывать"
-msgstr ""
+msgstr "[_elion_] Aaaahhhh... Como si tú no hicieras lo mismo si empezaras a perder"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:148 #-#-# translate crowdin gallery_d_109_ee321121:
 msgid "[_cedrick_] Хах.. Уххх.. В-возможно.. Но это тебя не оправдывает"
-msgstr ""
+msgstr "[_cedrick_] Ja... Uhhh... T-tal vez... Pero eso no te excusa"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:149 #-#-# translate crowdin gallery_d_109_ffaac971:
 msgid "[_elion_] Ох, еще как оправдывает"
-msgstr ""
+msgstr "[_elion_] Oh, sin duda lo justifica"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:150 #-#-# translate crowdin gallery_d_109_1a5a860c:
 msgid "[_cedrick_] Д-думаешь это сможет отвлечь меня от игры?"
-msgstr ""
+msgstr "[_cedrick_] ¿Crees que esto me distraerá del juego?"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:151 #-#-# translate crowdin gallery_d_109_a61b7b21:
 msgid "[_elion_] Ооочень на это надеюсь.. Ты ведь оценишь мои старания? Я так усердно тебе сосу"
-msgstr ""
+msgstr "[_elion_] Realmente lo espero. Apreciarás mis esfuerzos, ¿verdad? Te estoy chupando con mucha fuerza"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:152 #-#-# translate crowdin gallery_d_109_d28e2c97:
 msgid "[_cedrick_] Ч-черт.."
-msgstr ""
+msgstr "[_cedrick_] Maldita sea.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:153 #-#-# translate crowdin gallery_d_109_54b20847:
 msgid "[_elion_] Ну Рииик"
-msgstr ""
+msgstr "[_elion_] Bueno Riiick"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:154 #-#-# translate crowdin gallery_d_109_0e504c96:
 msgid "[_cedrick_] Уууххх, к-кончаю.."
-msgstr ""
+msgstr "[_cedrick_] Uuhhh, me voy a correr.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:157 #-#-# translate crowdin gallery_d_109_e506965d:
 msgid "[_elion_] Ммммммвввв..."
-msgstr ""
+msgstr "[_elion_] Mmmmmmmmmm..."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:159 #-#-# translate crowdin gallery_d_109_a20cefa7:
 msgid "..."
@@ -326,175 +326,175 @@ msgstr "........."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:170 #-#-# translate crowdin gallery_d_109_ed06e470:
 msgid "[_elion_] Ахахах, я победила! Вот так то!"
-msgstr ""
+msgstr "[_elion_] ¡Ahahaha, gané! ¡Así son las cosas!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:171 #-#-# translate crowdin gallery_d_109_72c195e1:
 msgid "[_cedrick_] Победила, используя грязные приемы"
-msgstr ""
+msgstr "[_cedrick_] Ganaste usando trucos sucios"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:172 #-#-# translate crowdin gallery_d_109_683bd3c2:
 msgid "[_elion_] И что? Главное ведь результат"
-msgstr ""
+msgstr "[_elion_] ¿Y qué? Lo importante es el resultado"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:173 #-#-# translate crowdin gallery_d_109_beaa3ce7:
 msgid "[_cedrick_] Думаешь второй раз у тебя получится?"
-msgstr ""
+msgstr "[_cedrick_] ¿Crees que lo conseguirás por segunda vez?"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:174 #-#-# translate crowdin gallery_d_109_cdd0a51c:
 msgid "[_elion_] Мммм, посмотрим. Может мне и не понадобится прибегать к таким трюкам"
-msgstr ""
+msgstr "[_elion_] Mmm, ya veremos. Quizás no tenga que recurrir a esos trucos"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:175 #-#-# translate crowdin gallery_d_109_7790de5a:
 msgid "[_cedrick_] Вот и увидим. Начнем третий раунд"
-msgstr ""
+msgstr "[_cedrick_] Ya veremos. Comencemos la tercera ronda"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:188 #-#-# translate crowdin cedrick_loose_2_ec5e5c78:
 msgid "[_elion_] Хах, я отыгралась!"
-msgstr ""
+msgstr "[_elion_] ¡Ja, me vengué!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:190 #-#-# translate crowdin cedrick_loose_2_dedda071:
 msgid "[_cedrick_] Что ж, это было неплохо"
-msgstr ""
+msgstr "[_cedrick_] Bueno, no estuvo mal"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:192 #-#-# translate crowdin cedrick_loose_2_da8a2c8f:
 msgid "[_elion_] Неплохо? Да я тебя сделала"
-msgstr ""
+msgstr "[_elion_] ¿No está mal? Sí, te vencí"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:194 #-#-# translate crowdin cedrick_loose_2_2dbf5a68:
 msgid "[_cedrick_] Рано радуешься, впереди еще финальный раунд"
-msgstr ""
+msgstr "[_cedrick_] Es demasiado pronto para celebrar, aún queda la ronda final"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:196 #-#-# translate crowdin cedrick_loose_2_cac0d5c4:
 msgid "[_elion_] Ууухх. Я тебя уделаю!"
-msgstr ""
+msgstr "[_elion_] ¡Oooohhh! ¡Te voy a vencer!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:198 #-#-# translate crowdin cedrick_loose_2_7e522beb:
 msgid "[_cedrick_] Еще посмотрим кто кого"
-msgstr ""
+msgstr "[_cedrick_] Ya veremos quién gana"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:209 #-#-# translate crowdin cedrick_loose_1_902e453a:
 msgid "[_elion_] Что ж, у тебя получилось отыграться. Но не расслабляйся, финальная битва еще впереди!"
-msgstr ""
+msgstr "[_elion_] Bien, has vuelto. Pero no te relajes, ¡la batalla final aún está por llegar!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:211 #-#-# translate crowdin cedrick_loose_1_14998ae5:
 msgid "[_cedrick_] Хах, я готов. Готова ли ты к поражению?"
-msgstr ""
+msgstr "[_cedrick_] Ja, estoy listo. ¿Estás lista para perder?"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:213 #-#-# translate crowdin cedrick_loose_1_d8370505:
 msgid "[_elion_] Пф.. Еще посмотрим!"
-msgstr ""
+msgstr "[_elion_] Pff... ¡Ya veremos!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:225 #-#-# translate crowdin gallery_d_110_f5fd5238:
 msgid "[_elion_] Р-рик.. Ааххх.. Ч-что.."
-msgstr ""
+msgstr "[_elion_] R-rick... Aahhh... ¿Q-qué.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:227 #-#-# translate crowdin gallery_d_110_ab9154b1:
 msgid "[_elion_] Что ты делаешь, мммххх..."
-msgstr ""
+msgstr "[_elion_] ¿Qué estás haciendo? mmmhhh..."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:229 #-#-# translate crowdin gallery_d_110_a39ea46f:
 msgid "[_cedrick_] Пытаюсь выиграть, разве не видно?"
-msgstr ""
+msgstr "[_cedrick_] Estoy intentando ganar, ¿no lo ves?"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:231 #-#-# translate crowdin gallery_d_110_7c1d029a:
 msgid "[_elion_] Мммммввв.. Это.. Аааххх.. Это против правил.."
-msgstr ""
+msgstr "[_elion_] Mmmmm. Esto.. Aaahhh.. Esto va contra las reglas.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:233 #-#-# translate crowdin gallery_d_110_e9bf3b08:
 msgid "[_cedrick_] Разве? Мы же не оговаривали правила. Никто не запрещал мне тебе мешать"
-msgstr ""
+msgstr "[_cedrick_] ¿En serio? No establecimos ninguna regla. Nadie me prohibió molestarte"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:235 #-#-# translate crowdin gallery_d_110_e2ee3cde:
 msgid "[_elion_] Аааххх.. Мммм.. Н-негодник.. Это не честно.."
-msgstr ""
+msgstr "[_elion_] Aaahhhh.. Mmmm.. E-escoria.. Esto no es justo.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:237 #-#-# translate crowdin gallery_d_110_10c36148:
 msgid "[_cedrick_] А разве честно иметь такое прекрасное тело? Я на него отвлекся в первой игре, вот и проиграл"
-msgstr ""
+msgstr "[_cedrick_] ¿De verdad es justo tener un cuerpo tan bonito? Me distraje con él en el primer juego, y por eso perdí"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:239 #-#-# translate crowdin gallery_d_110_753b7a00:
 msgid "[_elion_] Мммххх.. Э-это всего лишь отговорки.."
-msgstr ""
+msgstr "[_elion_] Mmmhhhh.. E-estas son solo excusas.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:241 #-#-# translate crowdin gallery_d_110_5b066e60:
 msgid "[_cedrick_] Нет, это чистая правда.. Твоя грудь так подпрыгивала, я во время первой игры только на нее и смотрел.."
-msgstr ""
+msgstr "[_cedrick_] No, es la pura verdad. Tus pechos rebotaban tanto que no podía dejar de mirarlos durante la primera partida.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:243 #-#-# translate crowdin gallery_d_110_48b1e409:
 msgid "[_elion_] Аааххх.. Аааххх.. Р-рик, ммххх…"
-msgstr ""
+msgstr "[_elion_] Aaahhh... Aaahhh... R-rick, mmhhh…"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:245 #-#-# translate crowdin gallery_d_110_a23de822:
 msgid "[_elion_] Т-ты не победишь так… Я.. Я не сдамся"
-msgstr ""
+msgstr "[_elion_] N-no vas a ganar así... Yo... no me rendiré"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:247 #-#-# translate crowdin gallery_d_110_736528df:
 msgid "[_cedrick_] Посмотрим. Как по мне ты вполне хорошо сдаешься сейчас"
-msgstr ""
+msgstr "[_cedrick_] Ya veremos. Parece que te estás rindiendo bastante bien ahora mismo"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:249 #-#-# translate crowdin gallery_d_110_be73ec14:
 msgid "[_elion_] Мммммввв.. Н-нет.. не правда.."
-msgstr ""
+msgstr "[_elion_] Mmmmmm.. N-no.. no es cierto.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:251 #-#-# translate crowdin gallery_d_110_83bd39f6:
 msgid "[_cedrick_] Хах, знаешь, а играться с твоими джойстиками мне нравится кудааа больше, чем с джойстиками геймпада"
-msgstr ""
+msgstr "[_cedrick_] Ja, ¿sabes?, me gusta mucho más jugar con tus joysticks que con los joysticks del mando"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:253 #-#-# translate crowdin gallery_d_110_a07f1083:
 msgid "[_elion_] Р-развратник… Ааахххх.. П-перестань… Я же так… Мммвввв.."
-msgstr ""
+msgstr "[_elion_] P-pervertido... Aaahhhhh.. P-para... Estoy tan... MmmM.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:255 #-#-# translate crowdin gallery_d_110_9f063e9a:
 msgid "[_cedrick_] Давай же, Элион.."
-msgstr ""
+msgstr "[_cedrick_] Vamos, Elyon.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:257 #-#-# translate crowdin gallery_d_110_030593a9:
 msgid "[_elion_] Яяя… Ааааххх.. К-кончаю.."
-msgstr ""
+msgstr "[_elion_] M-me... Aaaahhh.. V-vengo.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:259 #-#-# translate crowdin gallery_d_110_d724ecf3:
 msgid "[_cedrick_] Ага, это мой шанс!!"
-msgstr ""
+msgstr "[_cedrick_] ¡¡Esta es mi oportunidad!!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:267 #-#-# translate crowdin gallery_d_110_af631189:
 msgid "[_elion_] Н-нет.. Аааххх.. С-стой.. Я слишком слаба.."
-msgstr ""
+msgstr "[_elion_] N-no... Aaahhh... P-para... Estoy demasiado débil.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:268 #-#-# translate crowdin gallery_d_110_6a6da8d3:
 msgid "[_cedrick_] Хаха, вот и первая победа.."
-msgstr ""
+msgstr "[_cedrick_] Jaja, ahí está la primera victoria..."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:269 #-#-# translate crowdin gallery_d_110_5da56cab:
 msgid "[_elion_] Мммххх.. Ааххх.. Н-ничего.. Я еще не проиграла…"
-msgstr ""
+msgstr "[_elion_] Mmmhhhh.. Aahhhh.. N-nada.. Todavía no he perdido…"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:270 #-#-# translate crowdin gallery_d_110_04fbd888:
 msgid "[_elion_] Есть финальный раунд и в нем я тебе не уступлю"
-msgstr ""
+msgstr "[_elion_] Hay una ronda final y no voy a ceder ante ti en ella"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:271 #-#-# translate crowdin gallery_d_110_9b9edbe3:
 msgid "[_cedrick_] Хах, это мы еще посмотрим"
-msgstr ""
+msgstr "[_cedrick_] Ja, ya veremos"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:280 #-#-# translate crowdin cedrick_final_win_a0d057dc:
 msgid "[_elion_] Ну вот... Я проиграла"
-msgstr ""
+msgstr "[_elion_] Bueno, ahí lo tienes... Perdí"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:281 #-#-# translate crowdin cedrick_final_win_09937987:
 msgid "[_cedrick_] Хах! Черт а мне даже понравилось!"
-msgstr ""
+msgstr "[_cedrick_] ¡Ja! ¡Maldita sea, hasta me gustó!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:282 #-#-# translate crowdin cedrick_final_win_89c7f244:
 msgid "[_elion_] Ну конечно.. Выигрывать всегда приятно.. Эх.."
-msgstr ""
+msgstr "[_elion_] Bueno, por supuesto... Siempre es agradable ganar... Eh.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:283 #-#-# translate crowdin cedrick_final_win_e2a423f1:
 msgid "[_cedrick_] Ох, Элион, не расстраивайся. Это был бой на равных. Думаю еще несколько таких боев и ты меня одолеешь"
-msgstr ""
+msgstr "[_cedrick_] Oh, Elyon, no te enfades. Fue una pelea entre iguales. Creo que con unas cuantas peleas más como esta me vencerás"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:284 #-#-# translate crowdin cedrick_final_win_8ef1c16a:
 msgid "[_elion_] Хм.. Может ты и прав.."
-msgstr ""
+msgstr "[_elion_] Mmm... Quizás tengas razón.."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:285 #-#-# translate crowdin cedrick_final_win_89c59728:
 msgid "[_elion_] ..."
@@ -502,7 +502,7 @@ msgstr "[_elion_] ..."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:286 #-#-# translate crowdin cedrick_final_win_7cbc6f06:
 msgid "[_elion_] Хочешь сыграть еще?"
-msgstr ""
+msgstr "[_elion_] ¿Quieres jugar otra vez?"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:287 #-#-# translate crowdin cedrick_final_win_11b4bb64:
 msgid "[_cedrick_] Хах, еще бы!"
