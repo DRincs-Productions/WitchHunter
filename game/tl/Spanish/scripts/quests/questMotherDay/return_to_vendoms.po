@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-16 04:32\n"
+"PO-Revision-Date: 2026-03-18 03:05\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -162,19 +162,19 @@ msgstr "[_cedrick_] Creo que Will tiene razón, Susan"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:169 #-#-# translate crowdin return_to_vendoms_949f8c40:
 msgid "[_cedrick_] С Урией я могу и в школе разобраться, особенно если это коснется Вилл.."
-msgstr ""
+msgstr "[_cedrick_] Puedo lidiar con Uriah en la escuela, especialmente si se trata de Will.."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:170 #-#-# translate crowdin return_to_vendoms_b59e9fd1:
 msgid "[_cedrick_] Но вот в твоем случае, тут моя компетенция заканчивается"
-msgstr ""
+msgstr "[_cedrick_] Pero en su caso, ahí termina mi competencia"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:171 #-#-# translate crowdin return_to_vendoms_e2cc3bbc:
 msgid "[_cedrick_] А что будет, если твои обнаженные фото сольют в интернет? Как это отразиться на твоей работе в it-компании?"
-msgstr ""
+msgstr "[_cedrick_] ¿Qué ocurre si tus fotos desnuda se filtran en internet? ¿Cómo afectará eso a tu trabajo en la empresa de informática?"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:177 #-#-# translate crowdin return_to_vendoms_914bfdea:
 msgid "[_susan_] (Ох, а ведь и точно... Уж парни оттуда-то точно быстро мои фотки найдут, если они в интернете появятся...)"
-msgstr ""
+msgstr "[_susan_] (Ah, claro... Los chicos de allí seguro que encontrarán mis fotos enseguida si aparecen en Internet...)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:181 #-#-# translate crowdin return_to_vendoms_84b407b9:
 msgid "[_susan_] Д-думаю ты прав, Рик..."
