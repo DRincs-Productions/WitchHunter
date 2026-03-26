@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-26 00:15\n"
+"PO-Revision-Date: 2026-03-26 01:20\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
 msgid "[_susan_] Ну что, все готовы?"
@@ -334,7 +334,7 @@ msgstr "[_susan_] Un poquito más y estaré libre"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:282 #-#-# translate crowdin gallery_d_104_17daff60:
 msgid "[_cedrick_] Хорошо, тогда я прикрою"
-msgstr ""
+msgstr "[_cedrick_] De acuerdo, entonces te cubriré"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:284 #-#-# translate crowdin gallery_d_104_b933b214:
 msgid "[_centered_] {size=37}Седрик ждет еще какое-то время{/size}"
@@ -342,79 +342,79 @@ msgstr "[_centered_] {size=37}Cedric espera un rato{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:288 #-#-# translate crowdin gallery_d_104_43d079e1:
 msgid "[_susan_] Я готова!"
-msgstr ""
+msgstr "[_susan_] ¡Estoy lista!"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:289 #-#-# translate crowdin gallery_d_104_2f7149a9:
 msgid "[_cedrick_] Отлично, тогда пойдем на пляж. Думаю Вилл уже заждалась"
-msgstr ""
+msgstr "[_cedrick_] ¡Genial! Entonces, ¡vamos a la playa! Creo que Will ya está cansada de esperar"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:295 #-#-# translate crowdin gallery_d_104_65c01113:
 msgid "[_centered_] {size=37}На пляже{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}En la playa{/size}"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:299 #-#-# translate crowdin gallery_d_104_586cc42a:
 msgid "[_will_] О, а вот и вы"
-msgstr ""
+msgstr "[_will_] Oh, aquí estás"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:310 #-#-# translate crowdin gallery_d_104_8e8a61fc:
 msgid "[_cedrick_] (Проклятье... Это сложнее, чем я думал...)"
-msgstr ""
+msgstr "[_cedrick_] (Maldita sea... Esto es más difícil de lo que pensaba...)"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:313 #-#-# translate crowdin gallery_d_104_ae28e02d:
 msgid "[_uria_] Э-йо, пацаны, он выдохся!! А ну-ка, расчехляем свои приборы!!"
-msgstr ""
+msgstr "[_uria_] ¡Oigan, chicos, está sin aliento! ¡¡Vamos, saquemos nuestro equipo!!"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:318 #-#-# translate crowdin gallery_d_104_d49f7997:
 msgid "[_kurt_] В смысле члены?"
-msgstr ""
+msgstr "[_kurt_] ¿A qué te refieres con miembros?"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:325 #-#-# translate crowdin gallery_d_104_9514eb57:
 msgid "[_laurent_] Я думал мы сначала фоткаем, а потом дрочим..."
-msgstr ""
+msgstr "[_laurent_] Pensaba que primero haríamos fotos y luego nos masturbaríamos..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:331 #-#-# translate crowdin gallery_d_104_39b9222d:
 msgid "[_uria_] Бля, да не члены, вы долбаебы... Телефоны доставайте, надо фоткать!!"
-msgstr ""
+msgstr "[_uria_] Joder, no sois unos gilipollas, sois unos idiotas... ¡¡Sacad vuestros móviles, tenemos que hacer fotos!!"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:337 #-#-# translate crowdin gallery_d_104_8f5c0a35:
 msgid "[_kurt_] Ааа, блин, точняк"
-msgstr ""
+msgstr "[_kurt_] Aaah, maldita sea, exactamente"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:343 #-#-# translate crowdin gallery_d_104_43fccc4e:
 msgid "Звук вспышки камеры"
-msgstr ""
+msgstr "Sonido del flash de la cámara"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:344 #-#-# translate crowdin gallery_d_104_03e9244e:
 msgid "[_cedrick_] Черт... Сразу налетели, как стая голодных чаек..."
-msgstr ""
+msgstr "[_cedrick_] Maldita sea... Inmediatamente se abalanzaron como una bandada de gaviotas hambrientas..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:346 #-#-# translate crowdin gallery_d_104_ccbe39da:
 msgid "[_laurent_] Парни-парни, я заснял!"
-msgstr ""
+msgstr "[_laurent_] ¡Chicos, chicos, lo tengo!"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:347 #-#-# translate crowdin gallery_d_104_7e985bdf:
 msgid "[_uria_] Мы получили что хотели, валим отсюда!"
-msgstr ""
+msgstr "[_uria_] ¡Tenemos lo que queríamos, salgamos de aquí!"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:349 #-#-# translate crowdin gallery_d_104_71c46987:
 msgid "[_cedrick_] Вот засранцы, кто-то успел сфоткать..."
-msgstr ""
+msgstr "[_cedrick_] Oh, imbéciles, alguien tomó una foto..."
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:350 #-#-# translate crowdin gallery_d_104_9f3d5b10:
 msgid "[_cedrick_] Нужно побежать за ними и отнять телефон, пока они не убежали слишком далеко"
-msgstr ""
+msgstr "[_cedrick_] Tienes que correr tras ellos y quitarles el teléfono antes de que se alejen demasiado"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:354 #-#-# translate crowdin gallery_d_104_ad71c591:
 msgid "[_laurent_] Бля, для учителя истории он чертовски быстро бегает"
-msgstr ""
+msgstr "[_laurent_] Caramba, para ser profesor de historia corre rapidísimo"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:355 #-#-# translate crowdin gallery_d_104_de21d019:
 msgid "[_uria_] Да это просто вы жирдяи физру прогуливали"
-msgstr ""
+msgstr "[_uria_] Es que los gorditos se saltan la clase de gimnasia"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:357 #-#-# translate crowdin gallery_d_104_deb133c5:
 msgid "[_kurt_] Твою мать, я выронил свой телефон"
-msgstr ""
+msgstr "[_kurt_] ¡Mierda! Se me cayó el teléfono"
 
 # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:358 #-#-# translate crowdin gallery_d_104_b9265b75:
 msgid "[_uria_] Криворукий мудак..."
