@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:44\n"
+"PO-Revision-Date: 2026-07-22 21:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:4 #-#-# translate crowdin ask_miranda_make_clone_2a014d11:
 msgid "[_cedrick_] Мне нужна твоя помощь, Миранда…"
@@ -50,7 +50,7 @@ msgstr "[_miranda_] ¿Para qué lo necesitas?"
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:34 #-#-# translate crowdin ask_miranda_make_clone_f88c7619:
 msgid "[_cedrick_] Один полицейский, ну… Эм… Стражник..."
-msgstr "[_cedrick_] Un policía, bien… Em… Guardián..."
+msgstr "[_cedrick_] Un policía, bien… Em… Guardián…"
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:38 #-#-# translate crowdin ask_miranda_make_clone_77bc5ad3:
 msgid "[_miranda_] Не держи меня за дуру! Я не раз уже была на земле и знаю, кто такие полицейские…"
@@ -58,11 +58,11 @@ msgstr "[_miranda_] No me tomes por tonta. He estado en la tierra más de una ve
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:39 #-#-# translate crowdin ask_miranda_make_clone_75e74c18:
 msgid "[_cedrick_] Прости… В общем… Он начал задавать слишком много вопросов и мне пришлось его похитить..."
-msgstr "[_cedrick_] Lo siento… En fin… Empezó a hacer demasiadas preguntas y tuve que secuestrarlo..."
+msgstr "[_cedrick_] Lo siento… En fin… Empezó a hacer demasiadas preguntas y tuve que secuestrarlo…"
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:40 #-#-# translate crowdin ask_miranda_make_clone_e611ba96:
 msgid "[_cedrick_] Теперь его разыскивают другие полицейские и похоже, что я… Главный подозреваемый..."
-msgstr "[_cedrick_] Ahora otros policías lo están buscando y parece que soy… El principal sospechoso..."
+msgstr "[_cedrick_] Ahora otros policías lo están buscando y parece que soy… El principal sospechoso…"
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:41 #-#-# translate crowdin ask_miranda_make_clone_2a4ab579:
 msgid "[_cedrick_] И мне нужно привести похищенного мною полицейского в полицейский участок, чтобы все увидели, что на деле он жив и здоров, и я его не похищал. Естественно, что его самого я привести туда не могу…"
@@ -82,7 +82,7 @@ msgstr "[_miranda_] Hm…"
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:53 #-#-# translate crowdin ask_miranda_make_clone_9931c44a:
 msgid "[_miranda_] А что, если ты..."
-msgstr "[_miranda_] ¿Y si tú..."
+msgstr "[_miranda_] ¿Y si tú…"
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:57 #-#-# translate crowdin ask_miranda_make_clone_c2da742a:
 msgid "[_miranda_] Точно! Оборотное зелье!"
@@ -98,7 +98,7 @@ msgstr "[_miranda_] Con la ayuda de una poción multijugos, puedes transformarte
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:69 #-#-# translate crowdin ask_miranda_make_clone_15cfe697:
 msgid "[_cedrick_] Хм... А это может сработать…"
-msgstr "[_cedrick_] Hmmm... Y esto podría funcionar…"
+msgstr "[_cedrick_] Hmmm… Y esto podría funcionar…"
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:70 #-#-# translate crowdin ask_miranda_make_clone_e3b1ece5:
 msgid "[_cedrick_] Что от меня требуется?"
@@ -110,7 +110,7 @@ msgstr "[_miranda_] A decir verdad… El proceso de hacer una poción multijugos
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:78 #-#-# translate crowdin ask_miranda_make_clone_a83e985a:
 msgid "[_miranda_] Тебе только нужно достать частицу… этого полицейского..."
-msgstr "[_miranda_] Todo lo que tienes que hacer es conseguir una parte de… Este policía..."
+msgstr "[_miranda_] Todo lo que tienes que hacer es conseguir una parte de… Este policía…"
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:82 #-#-# translate crowdin ask_miranda_make_clone_6352df7d:
 msgid "[_cedrick_] Частицу? Мне нужно отрезать и принести тебе его палец или вроде того?"
@@ -122,7 +122,7 @@ msgstr "[_miranda_] Un trozo de pelo o una uña serán suficientes…"
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:90 #-#-# translate crowdin ask_miranda_make_clone_a8787eff:
 msgid "[_miranda_] И да, не забудь взять с собой другую одежду... зелье будет действовать лишь несколько часов…"
-msgstr "[_miranda_] Y sí, no olvides traer otra ropa contigo... la poción solo funcionará durante unas horas…"
+msgstr "[_miranda_] Y sí, no olvides traer otra ropa contigo… la poción solo funcionará durante unas horas…"
 
 # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:92 #-#-# translate crowdin ask_miranda_make_clone_edd4cc7f:
 msgid "[_cedrick_] (Что ж, придется навестить нашего любопытного друга в подводной шахте)"
