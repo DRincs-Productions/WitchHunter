@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 10:39\n"
+"PO-Revision-Date: 2026-07-22 15:37\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/afterload.rpy:199 #-#-# translate crowdin after_load_79db8d33:
 msgid "[_centered_] Выбранное сохранение не поддерживается и вы не сможете получить новый контент."
@@ -22,7 +22,7 @@ msgstr "[_centered_] Cargar este guardado puede causar errores en el juego."
 
 # game/scripts/afterload.rpy:205 #-#-# translate crowdin after_load_8db42109:
 msgid "[_centered_] Просьба, не сообщать разработчику о найденных ошибках после загрузки не поддерживаемого сохранения."
-msgstr "[_centered_] Por favor, no reportes al desarrollador de los errores encontrados tras descargar un save no compatible."
+msgstr "[_centered_] No informes al desarrollador de los errores que encuentres después de cargar una partida no compatible."
 
 # §translate crowdin strings: #|#|# # game/scripts/afterload.rpy:202
 msgid "Вы уверены что хотите загрузить неподдерживаемое сохранение?"
