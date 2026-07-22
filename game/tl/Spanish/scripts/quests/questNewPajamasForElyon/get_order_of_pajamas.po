@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-11-11 21:14\n"
+"PO-Revision-Date: 2026-07-22 14:05\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:3 #-#-# translate crowdin get_order_of_pajamas_8c304da2:
 msgid "[_cedrick_] Элион, угадай что? Твоя пижама уже пришла"
-msgstr ""
+msgstr "[_cedrick_] Elyon, ¿adivina qué? Tu pijama ya ha llegado"
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:7 #-#-# translate crowdin get_order_of_pajamas_59612ebf:
 msgid "[_elion_] О, как круто! Дай скорее примерить"
-msgstr ""
+msgstr "[_elion_] ¡Oh, qué genial! Vamos a probarlo"
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:8 #-#-# translate crowdin get_order_of_pajamas_0ab27263:
 msgid "[_cedrick_] Конечно, вот, держи, переодевайся"
-msgstr ""
+msgstr "[_cedrick_] De seguro, aquí, espera, cámbiate de ropa"
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:12 #-#-# translate crowdin get_order_of_pajamas_a20cefa7:
 msgid "..."
@@ -34,49 +34,49 @@ msgstr "..."
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:14 #-#-# translate crowdin get_order_of_pajamas_5e5deb74:
 msgid "[_elion_] Рик..."
-msgstr ""
+msgstr "[_elion_] Rick..."
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:15 #-#-# translate crowdin get_order_of_pajamas_73a16893:
 msgid "[_cedrick_] Что такое?"
-msgstr "[_cedrick_] ¿Qué es?"
+msgstr "[_cedrick_] ¿Qué pasa?"
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:16 #-#-# translate crowdin get_order_of_pajamas_f8e1ebb7:
 msgid "[_elion_] Эм.. Как бы сказать.. Мне кажется, в доставке что-то напутали.."
-msgstr ""
+msgstr "[_elion_] Mm. Cómo decir... Creo que algo está confundido acerca de la entrega."
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:20 #-#-# translate crowdin get_order_of_pajamas_f296780e:
 msgid "[_cedrick_] Ох ты ж, какие формы.."
-msgstr ""
+msgstr "[_cedrick_] Oh, qué formas..."
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:23 #-#-# translate crowdin get_order_of_pajamas_650ba1f5:
 msgid "[_elion_] Р-рик, ты меня смущаешь своими комментариями.."
-msgstr ""
+msgstr "[_elion_] R-rh, me avergüenzas con tus comentarios.."
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:25 #-#-# translate crowdin get_order_of_pajamas_87bcb055:
 msgid "[_cedrick_] Хах, ну прости.. А знаешь, пижама отлично на тебе смотрится"
-msgstr ""
+msgstr "[_cedrick_] Jaja, perdón... Pero, ¿sabes? Ese pijama te queda genial."
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:28 #-#-# translate crowdin get_order_of_pajamas_abc46793:
 msgid "[_elion_] Она же оголяет мои части тела даже больше, чем повседневная одежда.."
-msgstr ""
+msgstr "[_elion_] También expone las partes de mi cuerpo incluso más que la ropa de todos los días."
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:29 #-#-# translate crowdin get_order_of_pajamas_79088e57:
 msgid "[_cedrick_] А разве так и не должно быть.."
-msgstr ""
+msgstr "[_cedrick_] ¿Pero no debería ser así?"
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:32 #-#-# translate crowdin get_order_of_pajamas_bae8b5f2:
 msgid "[_elion_] Н-ну не знаю.."
-msgstr ""
+msgstr "[_elion_] No sé."
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:33 #-#-# translate crowdin get_order_of_pajamas_2757dc32:
 msgid "[_cedrick_] Думаю, тебе стоит ее оставить. Мне очень нравится то, как она тебя, эм, обтягивает"
-msgstr ""
+msgstr "[_cedrick_] Creo que deberías dejarlo. Me gusta mucho la forma en que está siendo tú, um, apretado"
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:36 #-#-# translate crowdin get_order_of_pajamas_053974ff:
 msgid "[_elion_] Р-рик.. Ну ладно, только потому что тебе нравится"
-msgstr ""
+msgstr "[_elion_] R-Rick... Muy bien, sólo porque te gusta"
 
 # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:37 #-#-# translate crowdin get_order_of_pajamas_b6ad9e42:
 msgid "[_cedrick_] (Отлично)"
-msgstr ""
+msgstr "[_cedrick_] (Excelente)"
 
