@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:05\n"
+"PO-Revision-Date: 2026-07-22 15:40\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNewPajamasForElyon/dialogue_about_pajams_for_elyon.rpy:4 #-#-# translate crowdin dialogue_about_pajams_for_elyon_420c9d30:
 msgid "[_cedrick_] Элион, подойдешь на минутку?"
@@ -58,7 +58,7 @@ msgstr "[_elion_] ¿P-p-pjamas?"
 
 # game/scripts/quests/questNewPajamasForElyon/dialogue_about_pajams_for_elyon.rpy:36 #-#-# translate crowdin dialogue_about_pajams_for_elyon_83c02e27:
 msgid "[_cedrick_] Ага, теплая домашняя пижама, как тебе?"
-msgstr "[_cedrick_] Agha, pijama casero cálido, ¿cómo te gusta?"
+msgstr "[_cedrick_] Ajá, un pijama abrigado para estar en casa. ¿Qué te parece?"
 
 # game/scripts/quests/questNewPajamasForElyon/dialogue_about_pajams_for_elyon.rpy:39 #-#-# translate crowdin dialogue_about_pajams_for_elyon_14baaf80:
 msgid "[_elion_] Было бы отлично, а то моя совсем уже старая.."
