@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:03\n"
+"PO-Revision-Date: 2026-07-22 15:39\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:5 #-#-# translate crowdin getAlchemyFromRaythor_2cc482bf:
 msgid "[_raythor_] О, снова ты, Седрик? Какими судьбами?"
-msgstr "[_raythor_] Oh, ¿tu otra vez, Cedric? ¿Qué te trae aquí?"
+msgstr "[_raythor_] Oh, ¿tú otra vez, Cedric? ¿Qué te trae por aquí?"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:9 #-#-# translate crowdin getAlchemyFromRaythor_e5ae04c2:
 msgid "[_cedrick_] Я одолел Гаргойла и Песчаного демона, твоя армия готова, осталось только доспехи с оружием подлатать"
@@ -22,7 +22,7 @@ msgstr "[_cedrick_] Derroté a Gargoyle y al Sand Demon, tu ejército está list
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:13 #-#-# translate crowdin getAlchemyFromRaythor_918c8507:
 msgid "[_raythor_] Ааааа, привыкаешь к новой роли? Пришел отчитаться о выполненном задании своему главнокомандующему, похвально. "
-msgstr "[_raythor_] Ahhhh, ¿te estás acostumbrando al nuevo rol? Vino a informar sobre la tarea completada a su comandante en jefe, lo cual es digno de elogio."
+msgstr "[_raythor_] Ahhh, ¿te estás acostumbrando a tu nuevo cargo? Viniste a informar a tu comandante en jefe de que cumpliste la misión. Admirable."
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:17 #-#-# translate crowdin getAlchemyFromRaythor_14440ad4:
 msgid "[_cedrick_] Я сделал это за тебя, потому что ты даже со своей армией не смог бы победить этих двоих"
