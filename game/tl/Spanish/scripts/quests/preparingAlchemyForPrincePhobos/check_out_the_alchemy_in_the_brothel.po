@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:05\n"
+"PO-Revision-Date: 2026-07-22 15:40\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/check_out_the_alchemy_in_the_brothel.rpy:7 #-#-# translate crowdin check_out_the_alchemy_in_the_brothel_ceb42b27:
 msgid "[_vanessa_] Ох, не уж то ты так быстро соскучился по мне? Или тебя сюда привел твой дружок?"
@@ -94,7 +94,7 @@ msgstr "[_cedrick_] ¿Qué estás haciendo? ¿Admirando la vista? Mételo ya"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_out_the_alchemy_in_the_brothel.rpy:86 #-#-# translate crowdin gallery_d_034_62bf6fca:
 msgid "[_alchemy_] Д-да знаю я.. Сейчас.."
-msgstr "[_alchemy_] S-sí, lo sé... Yo solo.."
+msgstr "[_alchemy_] S-sí, ya lo sé... Ahora..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_out_the_alchemy_in_the_brothel.rpy:88 #-#-# translate crowdin gallery_d_034_98765d1c:
 msgid "[_alchemy_] (Блин, и почему именно у него такой большой..)"
