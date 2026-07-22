@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:06\n"
+"PO-Revision-Date: 2026-07-22 21:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:6 #-#-# translate crowdin persuade_the_alchemy_to_testify_4813c441:
 msgid "[_cedrick_] Хей, давно не виделись, Алхими. Как тебе новые покои?"
@@ -30,11 +30,11 @@ msgstr "[_alchemy_] ¿Qué? De ninguna manera; ya no participo en algo así. Aho
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:16 #-#-# translate crowdin persuade_the_alchemy_to_testify_dcb95268:
 msgid "[_cedrick_] Это как раз касается задания, которое поручил мне Фобос. Если хочешь, можешь спросить у него сама.."
-msgstr "[_cedrick_] Es solo la tarea que Fobos me ha confiado. Si quieres, puedes preguntarle yo mismo..."
+msgstr "[_cedrick_] Precisamente se trata de la misión que me encomendó Fobos. Si quieres, puedes preguntárselo tú misma…"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:20 #-#-# translate crowdin persuade_the_alchemy_to_testify_68accc0d:
 msgid "[_alchemy_] Кхм.. Ну, я.."
-msgstr "[_alchemy_] Khm.. Bueno, yo..."
+msgstr "[_alchemy_] Ejem… Bueno, yo…"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:21 #-#-# translate crowdin persuade_the_alchemy_to_testify_73a16893:
 msgid "[_cedrick_] Что такое?"
@@ -42,11 +42,11 @@ msgstr "[_cedrick_] ¿Qué pasa?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:25 #-#-# translate crowdin persuade_the_alchemy_to_testify_434e1aa7:
 msgid "[_alchemy_] Кажется.. Кажется я все больше начинаю ему надоедать.."
-msgstr "[_alchemy_] Parece ser... Creo que cada vez consigo más y más para molestarlo."
+msgstr "[_alchemy_] Parece ser… Creo que cada vez consigo más y más para molestarlo."
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:26 #-#-# translate crowdin persuade_the_alchemy_to_testify_fe4c0d97:
 msgid "[_cedrick_] Как и ожидалось, дорогуша. Ты была ему интересна до тех пор, пока была непокорной земной девчонкой. Сейчас же ты просто его игрушка"
-msgstr "[_cedrick_], Como era de esperar, querida. Estabas interesado en él hasta que ella era una chica rebelde. Ahora solo eres su juguete"
+msgstr "[_cedrick_] Como era de esperar, querida. Estabas interesado en él hasta que ella era una chica rebelde. Ahora solo eres su juguete"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:27 #-#-# translate crowdin persuade_the_alchemy_to_testify_0c2e1077:
 msgid "[_cedrick_] А взрослым надоедают игрушки так же быстро, как и детям"
@@ -54,7 +54,7 @@ msgstr "[_cedrick_] Los adultos se aburren de los juguetes tan rápido como los 
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:31 #-#-# translate crowdin persuade_the_alchemy_to_testify_448708d9:
 msgid "[_alchemy_] ..."
-msgstr "[_alchemy_] ..."
+msgstr "[_alchemy_] …"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:35 #-#-# translate crowdin persuade_the_alchemy_to_testify_25605f98:
 msgid "[_alchemy_] Но ведь я так его люблю.."
@@ -62,7 +62,7 @@ msgstr "[_alchemy_] Pero lo quiero mucho."
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:36 #-#-# translate crowdin persuade_the_alchemy_to_testify_51804552:
 msgid "[_cedrick_] (Мда.. Сейчас я уже жалею о том, что тогда с ней сделал)"
-msgstr "[_cedrick_] (M.D. Lamento lo que le hice."
+msgstr "[_cedrick_] (Vaya… Ahora me arrepiento de lo que le hice.)"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:37 #-#-# translate crowdin persuade_the_alchemy_to_testify_152ab717:
 msgid "[_cedrick_] (Исход для нее был очевиден. Она надоела бы Фобосу так же, как и любая другая девушка. Только перестать быть от него без ума она уже не может)"
@@ -70,7 +70,7 @@ msgstr "[_cedrick_] (El resultado para ella era obvio. Se aburriría de Fobos co
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:38 #-#-# translate crowdin persuade_the_alchemy_to_testify_c09a8ce9:
 msgid "[_cedrick_] (Жалкое зрелище.. Ну, тогда мне было на это попросту плевать..)"
-msgstr "[_cedrick_] (Suite de pago.. Bueno, entonces simplemente no me importaba.)"
+msgstr "[_cedrick_] (Suite de pago… Bueno, entonces simplemente no me importaba.)"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:42 #-#-# translate crowdin persuade_the_alchemy_to_testify_05bbb73e:
 msgid "[_alchemy_] Даже мои приемы, которым я научилась в борделе, уже не помогают.."
@@ -82,7 +82,7 @@ msgstr "[_cedrick_] (¿Pero acaso me importa ya?)"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:50 #-#-# translate crowdin persuade_the_alchemy_to_testify_1bb6042e:
 msgid "[_alchemy_] ..Седрик?"
-msgstr "[_alchemy_] ...¿Cedark?"
+msgstr "[_alchemy_] …¿Cedric?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:51 #-#-# translate crowdin persuade_the_alchemy_to_testify_aac42af9:
 msgid "[_cedrick_] Я спрошу у Миранды, что можно с этим сделать"
@@ -110,7 +110,7 @@ msgstr "[_cedrick_] Alchemy, iré a los negocios. Tendrás que hablar en la cort
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:63 #-#-# translate crowdin persuade_the_alchemy_to_testify_9e9396b4:
 msgid "[_alchemy_] Хах, тебя наконец-то схватили за змеиный зад?"
-msgstr "[_alchemy_] Hah, ¿finalmente has sido agarrado por un imbécil serpiente?"
+msgstr "[_alchemy_] Ja, ¿finalmente has sido agarrado por un imbécil serpiente?"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:64 #-#-# translate crowdin persuade_the_alchemy_to_testify_3f24e8df:
 msgid "[_cedrick_] А ты как думала? Твоя пропажа не могла обойтись без последствий.. Вернее, тебя и твоего брата. Кстати говоря о нем"
@@ -134,7 +134,7 @@ msgstr "[_cedrick_] No, pero vamos a hacer un vistazo"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:81 #-#-# translate crowdin persuade_the_alchemy_to_testify_3d64f1f1:
 msgid "[_alchemy_] Хм.. Не хотелось бы обманывать брата.."
-msgstr "[_alchemy_] Hmm.. No quiero engañar a mi hermano."
+msgstr "[_alchemy_] Hmm… No quiero engañar a mi hermano."
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:85 #-#-# translate crowdin persuade_the_alchemy_to_testify_78417ab4:
 msgid "[_cedrick_] Ты спокойно живешь здесь в хоромах, пока он корячится на рудниках и тебя вроде все устраивает. Но при этом обманывать ты его не хочешь?"
@@ -142,11 +142,11 @@ msgstr "[_cedrick_] Vives tranquilamente aquí en los coros mientras gira en las
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:89 #-#-# translate crowdin persuade_the_alchemy_to_testify_6db10471:
 msgid "[_alchemy_] Ну, я как-то об этом не думала.. К тому же, не я же бросила его на рудники..."
-msgstr "[_alchemy_], no lo pensé. Además, no lo tiré a las minas..."
+msgstr "[_alchemy_] Bueno, no lo había pensado… Además, no fui yo quien lo envió a las minas…"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:90 #-#-# translate crowdin persuade_the_alchemy_to_testify_5b2cc0c7:
 msgid "[_cedrick_] Я понял.. Хм.. Помоги мне и я помогу тебе с Фобосом"
-msgstr "[_cedrick_] Entiendo... Hmm. Ayúdame y te ayudaré con Fobos"
+msgstr "[_cedrick_] Entiendo… Hmm. Ayúdame y te ayudaré con Fobos"
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:94 #-#-# translate crowdin persuade_the_alchemy_to_testify_dd58a6ed:
 msgid "[_alchemy_] П-правда!?"
@@ -162,5 +162,5 @@ msgstr "[_alchemy_] Es bueno en ese momento. Estoy fingiendo ser un rehén delan
 
 # game/scripts/quests/searchWitnesses/persuade_the_alchemy_to_testify.rpy:100 #-#-# translate crowdin persuade_the_alchemy_to_testify_bf04a064:
 msgid "[_cedrick_] Отлично. Тогда идем в подводные шахты"
-msgstr "[_cedrick_] es genial. Luego vamos a las minas submarinas"
+msgstr "[_cedrick_] Perfecto. Entonces vamos a las minas submarinas."
 
