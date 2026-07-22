@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-08-26 22:38\n"
+"PO-Revision-Date: 2026-07-22 14:04\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:3 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_15da6b72:
 msgid "[_cedrick_] (Нужно сходить в школу, проверить, все ли в порядке. Надеюсь они сумели закрыть портал и избавится от вепря Герментуия. Из учителей я был в школе последним, и если там что-то произошло - меня могут обвинить в этом)"
@@ -18,7 +18,7 @@ msgstr "[_cedrick_] (Necesito ir a la escuela, comprobar que todo esté bien. Es
 
 # game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:4 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_09aa1fc0:
 msgid "[_cedrick_] Элион, мне нужно идти. Оставляю магазин на тебя"
-msgstr "[_cedrick_] Elion, necesito irme. Te dejo la tienda a ti"
+msgstr "[_cedrick_] Elyon, necesito irme. Te dejo la tienda a ti"
 
 # game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:13 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_d1e07a29:
 msgid "[_elion_] Рик, подожди..."
