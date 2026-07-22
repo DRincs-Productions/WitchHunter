@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:07\n"
+"PO-Revision-Date: 2026-07-22 21:22\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/characters.rpy:9
 msgid "Продавец"
@@ -58,7 +58,7 @@ msgstr "Yan Lin"
 
 # game/scripts/sell_books_game/characters.rpy:171
 msgid "Том Леир"
-msgstr "Tom Leir"
+msgstr "Tom Lair"
 
 # game/scripts/sell_books_game/characters.rpy:179
 msgid "Солдат 1"
@@ -130,7 +130,7 @@ msgstr "Collins"
 
 # game/scripts/sell_books_game/characters.rpy:321
 msgid "Томас Вендом"
-msgstr "Thomas Wendom"
+msgstr "Thomas Vandom"
 
 # game/scripts/sell_books_game/characters.rpy:328
 msgid "Миссис Никербокер"
@@ -282,7 +282,7 @@ msgstr "Chloe"
 
 # game/scripts/sell_books_game/characters.rpy:650
 msgid "Королева морпионов"
-msgstr "Reina Morpiones"
+msgstr "Reina de los Morpiones"
 
 # game/scripts/sell_books_game/characters.rpy:657
 msgid "Томас Браун"
@@ -314,7 +314,7 @@ msgstr "Guerrero herido"
 
 # game/scripts/sell_books_game/characters.rpy:706
 msgid "Король морпионов"
-msgstr "Rey Morpiones"
+msgstr "Rey de los Morpiones"
 
 # game/scripts/sell_books_game/characters.rpy:713
 msgid "Юный принц Фобос"
