@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:05\n"
+"PO-Revision-Date: 2026-07-22 15:40\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:2 #-#-# translate crowdin need_to_go_to_prince_phobos_364c73cd:
 msgid "[_cedrick_] (Сейчас я должен выступить с докладом перед Фобосом)"
@@ -78,7 +78,7 @@ msgstr "[_elion_] Oh, YO... Estaré esperando, Rick... Estaré esperando mucho..
 
 # game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:30 #-#-# translate crowdin dialog_elion_14c9004e:
 msgid "[_cedrick_] Хах, я тоже, Элион. А пока, можешь вернуться в свою комнату, а я пойду по делам"
-msgstr "[_cedrick_] Haah, yo también, Elyon. Mientras tanto, puedes volver a tu habitación, y yo me iré de negocios"
+msgstr "[_cedrick_] Ja, yo también, Elyon. Por ahora puedes volver a tu habitación; yo tengo unos asuntos que atender."
 
 # game/scripts/quests/questReportForPrincePhobos/need_to_go_to_prince_phobos.rpy:32 #-#-# translate crowdin dialog_elion_87a8f45c:
 msgid "[_elion_] Хорошо, Рик! Удачи с делами, что бы там ни было"
