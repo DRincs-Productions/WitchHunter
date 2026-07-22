@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:05\n"
+"PO-Revision-Date: 2026-07-22 15:40\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:3 #-#-# translate crowdin elyon_public_readings_in_pajamas_ad1cadb7:
 msgid "[_centered_] {size=37} На вечере чтений {/size}"
@@ -134,7 +134,7 @@ msgstr "..."
 
 # game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:62 #-#-# translate crowdin gallery_d_050_f5d56b0f:
 msgid "[_cedrick_] Фух.. Ну, что скажешь, Элион? Как тебе новые ощущения?"
-msgstr "[_cedrick_] Fuchs. ¿Qué dices, Elyon? ¿Cómo te sientes nuevo?"
+msgstr "[_cedrick_] Uf... Entonces, Elyon, ¿qué te parecen estas nuevas sensaciones?"
 
 # game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:65 #-#-# translate crowdin gallery_d_050_9af13622:
 msgid "[_elion_] Э-это.."
