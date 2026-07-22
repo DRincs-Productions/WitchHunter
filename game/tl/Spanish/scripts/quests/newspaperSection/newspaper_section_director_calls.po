@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 15:39\n"
+"PO-Revision-Date: 2026-07-22 21:19\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:6 #-#-# translate crowdin newspaper_section_director_calls_534a0246:
 msgid "[_martin_]  Ах, вот вы где, мистер Хоффман! Я вас обыскался"
@@ -18,11 +18,11 @@ msgstr "[_martin_] ¡Ah, ahí está, Sr. Hoffman! Lo he estado buscando por toda
 
 # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:7 #-#-# translate crowdin newspaper_section_director_calls_7635b714:
 msgid "[_cedrick_] Эм.. Мартин, верно? Что случилось?"
-msgstr "[_cedrick_] Um... Martin, ¿verdad? ¿Qué pasó?"
+msgstr "[_cedrick_] Um… Martin, ¿verdad? ¿Qué pasó?"
 
 # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:11 #-#-# translate crowdin newspaper_section_director_calls_afd60356:
 msgid "[_martin_] Госпожа Никербокер уполномочила мне отыскать вас и сообщить, что она ждет вас у себя в кабинете…"
-msgstr "[_martin_]  La señora Knickerbocker me ha enviado a buscarle y a informarle que le espera en su oficina."
+msgstr "[_martin_] La señora Knickerbocker me ha enviado a buscarle y a informarle que le espera en su oficina."
 
 # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:15 #-#-# translate crowdin newspaper_section_director_calls_517f095d:
 msgid "[_martin_] Конечно же у меня есть и более важные дела, но наш директор так не считает"
@@ -66,7 +66,7 @@ msgstr "[_directris_] No exactamente, Sr. Hoffman. En nuestra escuela, cada prof
 
 # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:43 #-#-# translate crowdin newspaper_section_director_calls_e510c78f:
 msgid "[_directris_] А так как мистер Колинз .. кхм.. Решил покинуть свое место работы, не предупредив нас, и вы заменяете его, будет логично если, возьметесь за клуб журналистики, который занимается школьной газетой"
-msgstr "[_directris_] Y como el señor Collins... ejem... decidió dejar su trabajo sin decirnos nada, y usted lo reemplaza, lo lógico sería que se hiciera cargo del club de periodismo, que administra el periódico de la escuela."
+msgstr "[_directris_] Y como el señor Collins… ejem… decidió dejar su trabajo sin decirnos nada, y usted lo reemplaza, lo lógico sería que se hiciera cargo del club de periodismo, que administra el periódico de la escuela."
 
 # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:47 #-#-# translate crowdin newspaper_section_director_calls_14f3c513:
 msgid "[_directris_]  Помимо выпуска школьной газеты, этот клуб также иногда организует некоторые школьные мероприятия."
@@ -82,7 +82,7 @@ msgstr "[_cedrick_] Bueno, si es necesario, entonces estoy de acuerdo."
 
 # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:59 #-#-# translate crowdin newspaper_section_director_calls_8cd91680:
 msgid "[_directris_] И еще… После ухода мистера Колинза данный кружок почти опустел, там осталось лишь пару членов - это сестры Грампер. Должно быть вы уже виделись с ними. В общем, вам нужно найти новых членов для кружка, в ином случае его придется закрыть из-за нехватки участников."
-msgstr "[_directris_] Y una cosa más... Tras la marcha del Sr. Collins, este círculo quedó casi vacío; solo quedaron un par de miembros: las hermanas Gramper. Probablemente ya las conozcas. En fin, necesitas encontrar nuevas integrantes para el círculo; de lo contrario, tendrá que cerrar por falta de participantes."
+msgstr "[_directris_] Y una cosa más… Tras la marcha del Sr. Collins, este círculo quedó casi vacío; solo quedaron un par de miembros: las hermanas Gramper. Probablemente ya las conozcas. En fin, necesitas encontrar nuevas integrantes para el círculo; de lo contrario, tendrá que cerrar por falta de participantes."
 
 # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:63 #-#-# translate crowdin newspaper_section_director_calls_d13bc051:
 msgid "[_directris_] А вам, скорее всего, перепадет менее перспективный кружок, состоящий из хулиганов и драчунов. Решать вам, конечно, но я бы не советовала упускать такую возможность. Чтобы вы понимали, в данный момент из-за нехватки желающих этот кружок курирует мистер Скраффингтон, наш уборщик."
