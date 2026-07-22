@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:08\n"
+"PO-Revision-Date: 2026-07-22 21:23\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:6 #-#-# translate crowdin go_to_meredian_to_miranda_2_890e70ca:
 msgid "[_miranda_] Седрик, что случилось?"
@@ -18,15 +18,15 @@ msgstr "[_miranda_] Cedric, ¿qué pasa?"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:10 #-#-# translate crowdin go_to_meredian_to_miranda_2_5e4dede1:
 msgid "[_cedrick_] Фобос... Черт, он ведет себя странно..."
-msgstr "[_cedrick_] Fobos... Diablos, está actuando raro..."
+msgstr "[_cedrick_] Fobos… Diablos, está actuando raro…"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:15 #-#-# translate crowdin go_to_meredian_to_miranda_2_b6f43ee8:
 msgid "[_bulj_] Думаете он обо всем догадался?"
-msgstr "[_bulj_] ¿Pensaste en todo?"
+msgstr "[_bulj_] ¿Cree que lo descubrió todo?"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:21 #-#-# translate crowdin go_to_meredian_to_miranda_2_d8cbe0f7:
 msgid "[_cedrick_] Возможно, но... Я пока не могу утверждать наверняка..."
-msgstr "[_cedrick_] es posible, pero... No puedo decir con seguridad todavía..."
+msgstr "[_cedrick_] Es posible, pero… Aún no puedo asegurarlo…"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:22 #-#-# translate crowdin go_to_meredian_to_miranda_2_37251cf0:
 msgid "[_cedrick_] Во всяком случае, мы не можем отступать от намеченного плана"
@@ -34,7 +34,7 @@ msgstr "[_cedrick_] En cualquier caso, no podemos desviarnos del plan previsto"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:23 #-#-# translate crowdin go_to_meredian_to_miranda_2_5760d2ee:
 msgid "[_cedrick_] Нужно продолжать весь этот спектакль со стражницами. Если Фобос нас не раскрыл, тогда мы попусту потратим время на размышления и подвергнем себя большему риску"
-msgstr "[_cedrick_] Necesitamos continuar con todo este rendimiento con los guardianas. Si Fobos no nos reveló, entonces vamos a perder nuestro tiempo en pensar y ponernos en mayor riesgo"
+msgstr "[_cedrick_] Necesitamos continuar con todo este rendimiento con las Guardianas. Si Fobos no nos reveló, entonces vamos a perder nuestro tiempo en pensar y ponernos en mayor riesgo"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:27 #-#-# translate crowdin go_to_meredian_to_miranda_2_7964e126:
 msgid "[_miranda_] А если он раскрыл нас?"
@@ -42,19 +42,19 @@ msgstr "[_miranda_] ¿Y si nos abrió?"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:31 #-#-# translate crowdin go_to_meredian_to_miranda_2_49316299:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:32 #-#-# translate crowdin go_to_meredian_to_miranda_2_901150bf:
 msgid "[_cedrick_] Тогда вряд ли какой-то план поможет нам сейчас. Мы не сможем дать ему отпор и все, что останется - это лгать. Это я беру на себя"
-msgstr "[_cedrick_] Entonces es poco probable que algún plan nos ayude ahora. No podemos luchar contra él y todo lo que queda es mentir. Es que me encargo de mí mismo"
+msgstr "[_cedrick_] Entonces dudo que ahora nos sirva ningún plan. No podremos hacerle frente y solo nos quedará mentir. De eso me encargo yo."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:36 #-#-# translate crowdin go_to_meredian_to_miranda_2_dea0f588:
 msgid "[_miranda_] Х-хорошо, Седрик..."
-msgstr "[_miranda_] Es bueno, Cedric..."
+msgstr "[_miranda_] Es bueno, Cedric…"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:40 #-#-# translate crowdin go_to_meredian_to_miranda_2_e40a5e13:
 msgid "[_cedrick_] Итак... С Вилл я разобрался, она у нас в кармане. Дальше более сложный случай - Ирма и Тарани"
-msgstr "[_cedrick_] Así Que... Lo descubrí con Will, estoy en el bolsillo. Más caso más difícil - Irma y Taranee"
+msgstr "[_cedrick_] Así Que… Lo descubrí con Will, estoy en el bolsillo. Más caso más difícil - Irma y Taranee"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:44 #-#-# translate crowdin go_to_meredian_to_miranda_2_5f7edfb0:
 msgid "[_cedrick_] На одной сила короля морпионов сработала лишь частично, а к другой я так и не смог найти правильный подход"
@@ -62,7 +62,7 @@ msgstr "[_cedrick_] En una fuerza del rey de los monarcas trabajó sólo parcial
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:45 #-#-# translate crowdin go_to_meredian_to_miranda_2_d473741c:
 msgid "[_cedrick_] Более того, в этот раз я не смогу сам все проконтролировать, как было в случае с Вилл"
-msgstr "[_cedrick_]VLERA Además, esta vez no podré controlar todo yo mismo, como lo fue en el caso de Will"
+msgstr "[_cedrick_] Además, esta vez no podré controlarlo todo personalmente como hice con Will."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:46 #-#-# translate crowdin go_to_meredian_to_miranda_2_90097f51:
 msgid "[_cedrick_] Свой информационный козырь я уже потратил, если задержусь еще раз, то Фобос меня разорвет"
@@ -82,23 +82,23 @@ msgstr "[_miranda_] ¿Qué quieres decir?"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:62 #-#-# translate crowdin go_to_meredian_to_miranda_2_b447948c:
 msgid "[_cedrick_] Я так и не понял, в чем слабость Тарани и какой подход мне применить для ее подчинения"
-msgstr "[_cedrick_] No entendí cuál es la debilidad de Taranee y qué enfoque para mí aplicar a su sumisión"
+msgstr "[_cedrick_] Todavía no entiendo cuál es la debilidad de Taranee ni qué enfoque debo adoptar para someterla."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:63 #-#-# translate crowdin go_to_meredian_to_miranda_2_b9be7e22:
 msgid "[_cedrick_] Но сейчас мне это и не нужно. Мы не должны подчинять ее - наша задача сделать ее нашим союзником"
-msgstr "[_cedrick_], pero no lo necesito ahora. No debemos subordinarlo, nuestra tarea es convertirlo en nuestro aliado"
+msgstr "[_cedrick_] Pero no lo necesito ahora. No debemos subordinarlo, nuestra tarea es convertirlo en nuestro aliado"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:64 #-#-# translate crowdin go_to_meredian_to_miranda_2_dbb3eca7:
 msgid "[_cedrick_] Чем дольше я контактирую с Тарани, тем сильнее она дистанцируется и огрызается. Поэтому я просто позволю Ирме сделать за меня всю работу"
-msgstr "[_cedrick_] Cuanto más tiempo entro en contacto con Taranee, más fuerte es distanciarme y chasquear. Así que voy a dejar que Irma haga todo el trabajo por mí"
+msgstr "[_cedrick_] Cuanto más trato con Taranee, más se distancia y me responde mal. Así que dejaré que Irma haga todo el trabajo por mí."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:68 #-#-# translate crowdin go_to_meredian_to_miranda_2_ca5b39bb:
 msgid "[_miranda_] Ирму? Каким образом? Она же слушается тебя лишь отчасти. Да и если ты прикажешь Ирме обработать Тарани, это будет противоречить твоему образу жертвы Фобоса и потенциального союзника Стражниц"
-msgstr "[_miranda_] ¿Irmu? ¿Cómo? Ella solo te escucha en parte. Y si ordenas a Irma que procese a Taranee, contradecirá tu imagen de la víctima de Fobos y un potencial aliado de los guardianas"
+msgstr "[_miranda_] ¿Irma? ¿Cómo? Solo te obedece a medias. Además, si le ordenas que trabaje en Taranee, contradeciría tu imagen de víctima de Fobos y posible aliado de las Guardianas."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:72 #-#-# translate crowdin go_to_meredian_to_miranda_2_5f5236e4:
 msgid "[_cedrick_] Все верно. Но есть кое-что, что мы можем использовать"
-msgstr "[_cedrick_] está bien. Pero hay algo que podemos usar"
+msgstr "[_cedrick_] Así es. Pero hay algo que podemos aprovechar."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:73 #-#-# translate crowdin go_to_meredian_to_miranda_2_8feda83b:
 msgid "[_cedrick_] В момент, когда мы одолели этих двоих, меньше всего сопротивления у Ирмы вызвал приказ, связанный с Тарани. Словно мысль об удержании Тарани казалась ей вполне приемлемой"
@@ -114,11 +114,11 @@ msgstr "[_miranda_] Hmm, ¿entonces Irma quiere cogerse a su novia? Inconsciente
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:82 #-#-# translate crowdin go_to_meredian_to_miranda_2_c718ae24:
 msgid "[_cedrick_] Учитывая ее характер, на самом деле, это выглядит вполне логичным. Мне всегда казалась, что Ирму привлекают не только парни"
-msgstr "[_cedrick_] Dado su carácter, de hecho, parece bastante lógico. Siempre sentí que Irma se sentía atraída no solo por los chicos"
+msgstr "[_cedrick_] Conociendo su carácter, parece bastante lógico. Siempre me pareció que a Irma no solo le atraían los chicos."
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:86 #-#-# translate crowdin go_to_meredian_to_miranda_2_419cbebb:
 msgid "[_miranda_] Ясно... Что ж, могу ее понять. Но как ты собираешься это использовать?"
-msgstr "[_miranda_] Está claro... Bueno, puedo entenderla. Pero, ¿cómo lo vas a usar?"
+msgstr "[_miranda_] Está claro… Bueno, puedo entenderla. Pero, ¿cómo lo vas a usar?"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:92 #-#-# translate crowdin go_to_meredian_to_miranda_2_ddb989b5:
 msgid "[_bulj_] Подозреваю, что Лорд Седрик планирует подтолкнуть Ирму в бездну ее скрытых желаний"
@@ -126,11 +126,11 @@ msgstr "[_bulj_] Sospecho que el señor Cedric está planeando empujar a Irma en
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:98 #-#-# translate crowdin go_to_meredian_to_miranda_2_98a93863:
 msgid "[_cedrick_] Хах, это самое интересное. Но о деталях позже..."
-msgstr "[_cedrick_] Hah, esto es lo más interesante. Pero sobre los detalles más tarde..."
+msgstr "[_cedrick_] Ja, esto es lo más interesante. Pero sobre los detalles más tarde…"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:99 #-#-# translate crowdin go_to_meredian_to_miranda_2_62e8cdcf:
 msgid "[_cedrick_] (Для начала, хм... Кому я должен доверить присматривать за Ирмой и Тарани?)"
-msgstr "[_cedrick_] (Para empezar, hmm... ¿En quién debo confiar para cuidar de Irma y Taranee?)"
+msgstr "[_cedrick_] (Para empezar, hmm… ¿En quién debo confiar para cuidar de Irma y Taranee?)"
 
 # game/scripts/quests/questTrainingOfGuards/go_to_meredian_to_miranda_2.rpy:100 #-#-# translate crowdin go_to_meredian_to_miranda_2_d705b0c1:
 msgid "[_cedrick_] (Булдж пользуется неким доверием среди стражников. Хоть многие и считают его слишком заумным и вежливым)"
