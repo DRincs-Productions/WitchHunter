@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-20 20:55\n"
+"PO-Revision-Date: 2026-07-22 21:16\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/interface/phone/labels/call_thomas.rpy:3 #-#-# translate crowdin call_thomas_f6a091b6:
 msgid "Вам нужно минимум 100$ чтобы предложить ему поиграть."
@@ -18,7 +18,7 @@ msgstr "Necesitas un mínimo de $100 para ofrecerle jugar."
 
 # game/scripts/interface/phone/labels/call_thomas.rpy:5 #-#-# translate crowdin call_thomas_5db39df7:
 msgid "идет набор номера ..."
-msgstr "marcando ..."
+msgstr "marcando…"
 
 # game/scripts/interface/phone/labels/call_thomas.rpy:7 #-#-# translate crowdin call_thomas_85570d82:
 msgid "номер недоступен"
@@ -26,7 +26,7 @@ msgstr "número no disponible"
 
 # game/scripts/interface/phone/labels/call_thomas.rpy:8 #-#-# translate crowdin call_thomas_97370545:
 msgid "[_cedrick_sprite_] Хммм... странно"
-msgstr "[_cedrick_sprite_] Hmmm... raro."
+msgstr "[_cedrick_sprite_] Hmmm… raro."
 
 # game/scripts/interface/phone/labels/call_thomas.rpy:10 #-#-# translate crowdin call_thomas_a20cefa7:
 msgid "..."
