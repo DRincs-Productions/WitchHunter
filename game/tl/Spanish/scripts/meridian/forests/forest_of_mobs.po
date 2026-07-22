@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:27\n"
+"PO-Revision-Date: 2026-07-22 14:01\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/meridian/forests/forest_of_mobs.rpy:60 #-#-# translate crowdin forest_of_mobs_ce5f6a3a:
 msgid "[_cedrick_] Я не могу сражаться c Королем Морпионов с Мирандой на руках. Нужно отнести ее в замок"
-msgstr "[_cedrick_] No puedo luchar contra el Rey de Morphion con Miranda en mis brazos. Tengo que llevarla al castillo"
+msgstr "[_cedrick_] No puedo luchar contra el Rey de Morpiones con Miranda en mis brazos. Tengo que llevarla al castillo"
 
 # §translate crowdin strings: #|#|# # game/scripts/meridian/forests/forest_of_mobs.rpy:4
 msgid "Выберите лес чтобы напасть на мобов подходящих вашему уровню"
