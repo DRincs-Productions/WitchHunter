@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:08\n"
+"PO-Revision-Date: 2026-07-22 21:23\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestMothersDay.rpy:8
 msgid "День матери"
@@ -34,5 +34,5 @@ msgstr "Regreso a la casa Vendo"
 
 # game/scripts/core/quests/QuestMothersDay.rpy:25
 msgid "Встретиться с Элион в книжном магазине"
-msgstr "Busca a Elián en la librería"
+msgstr "Busca a Elyon en la librería"
 
