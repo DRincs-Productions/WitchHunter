@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:13\n"
+"PO-Revision-Date: 2026-07-22 13:59\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/elion_get_job.rpy:3 #-#-# translate crowdin elion_get_job_1a809d14:
 msgid "Привет."
@@ -110,19 +110,19 @@ msgstr "[_elion_] De acuerdo. ¡Gracias por la ayuda! Nos vemos mañana."
 
 # game/scripts/bookshop/elion_get_job.rpy:124 #-#-# translate crowdin menu2_next_060244a0:
 msgid "[_centered_] {size=37}На следующий день..{/size}"
-msgstr "[_centered_] {Al día siguiente...{/size}"
+msgstr "[_centered_] {size=37}Al día siguiente...{/size}"
 
 # §translate crowdin strings: #|#|# # game/scripts/bookshop/elion_get_job.rpy:14
 msgid "Конелия, Хелион"
-msgstr "Conelia, Helion"
+msgstr "Cornelia, Elyon"
 
 # game/scripts/bookshop/elion_get_job.rpy:14
 msgid "Корнелия, Элион"
-msgstr "Cornelia, Elion"
+msgstr "Cornelia, Elyon"
 
 # game/scripts/bookshop/elion_get_job.rpy:14
 msgid "Корнелия, Лилиан"
-msgstr "Cornelia, Lillian"
+msgstr "Cornelia, Lilian"
 
 # game/scripts/bookshop/elion_get_job.rpy:14
 msgid "Эмм.."
