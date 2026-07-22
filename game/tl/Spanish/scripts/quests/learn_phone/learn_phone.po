@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:04\n"
+"PO-Revision-Date: 2026-07-22 21:19\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/learn_phone/learn_phone.rpy:7 #-#-# translate crowdin learn_phone_8e758cfd:
 msgid "[_cedrick_] Так, а здесь у нас хранятся сообщения..."
-msgstr "[_cedrick_] Entonces, aquí es donde se guardan los mensajes..."
+msgstr "[_cedrick_] Entonces, aquí es donde se guardan los mensajes…"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:8 #-#-# translate crowdin learn_phone_7302d63e:
 msgid "[_cedrick_] Возможно, здесь я смогу узнать о предыдущем владельце телефона..."
-msgstr "[_cedrick_] Tal vez aquí pueda encontrar información sobre el anterior propietario del teléfono..."
+msgstr "[_cedrick_] Tal vez aquí pueda encontrar información sobre el anterior propietario del teléfono…"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:17 #-#-# translate crowdin learn_phone_bda3f0d2:
 msgid "[_cedrick_] Хм... Похоже она была любящей женой..."
-msgstr "[_cedrick_] Hmmm... Parece que era una esposa cariñosa..."
+msgstr "[_cedrick_] Hmmm… Parece que era una esposa cariñosa…"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:22 #-#-# translate crowdin learn_phone_2dd6fbad:
 msgid "[_cedrick_] Или проституткой, хе-хе"
@@ -30,15 +30,15 @@ msgstr "[_cedrick_] O una prostituta, jeje"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:27 #-#-# translate crowdin learn_phone_37db2bb0:
 msgid "[_cedrick_] Которая изменяла своему мужу с любовником..."
-msgstr "[_cedrick_] Que engañó a su marido con un amante..."
+msgstr "[_cedrick_] Que engañó a su marido con un amante…"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:33 #-#-# translate crowdin learn_phone_198a54d7:
 msgid "[_cedrick_] Что ж, это все очень трогательные переписки, но думаю, что это мне не пригодится..."
-msgstr "[_cedrick_] Bueno, es una mensajería muy conmovedora, pero no creo que pueda usarla..."
+msgstr "[_cedrick_] Bueno, es una mensajería muy conmovedora, pero no creo que pueda usarla…"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:35 #-#-# translate crowdin learn_phone_039c86e3:
 msgid "[_cedrick_] Так, глянем что у нас дальше..."
-msgstr "[_cedrick_] Así que, veamos qué tenemos a continuación..."
+msgstr "[_cedrick_] Así que, veamos qué tenemos a continuación…"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:45 #-#-# translate crowdin learn_phone_yea_ff909fa1:
 msgid "[_Somka108_] Привет! Пока Седрик с умным лицом тыкается в телефоне, я вкратце объясню тебе как устроен его интерфейс"
@@ -98,7 +98,7 @@ msgstr "[_Somka108_] Menú siguiente - Navegador de Internet"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:71 #-#-# translate crowdin learn_phone_yea_67094ada:
 msgid "[_Somka108_] Тут периодически будут появляться различные действия для продвижения сюжета. (Просто заглядывайте туда время от времени, если видите восклицательный знак над ним...)"
-msgstr "[_Somka108_] Aquí aparecerán periódicamente diversas acciones para hacer avanzar la historia. (Sólo tienes que mirar ahí de vez en cuando si ves un signo de exclamación encima...)"
+msgstr "[_Somka108_] Aquí aparecerán periódicamente diversas acciones para hacer avanzar la historia. (Sólo tienes que mirar ahí de vez en cuando si ves un signo de exclamación encima…)"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:73 #-#-# translate crowdin learn_phone_yea_4940b0f1:
 msgid "[_Somka108_] Сверху над главным меню вы можете увидеть день недели (иногда день недели влияет на определенные события)"
@@ -106,7 +106,7 @@ msgstr "[_Somka108_] Encima del menú principal puedes ver el día de la semana 
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:75 #-#-# translate crowdin learn_phone_yea_eec9cd24:
 msgid "[_Somka108_] Ну и оставшиеся кнопки... Снизу кнопка домой, она возвращает вас в главное меню."
-msgstr "[_Somka108_] Y luego están los botones restantes... El botón de inicio en la parte inferior, esto te lleva de vuelta al menú principal."
+msgstr "[_Somka108_] Y luego están los botones restantes… El botón de inicio en la parte inferior, esto te lleva de vuelta al menú principal."
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:77 #-#-# translate crowdin learn_phone_yea_d110d97a:
 msgid "[_Somka108_] Кнопка назад перенесет вас в предыдущее меню."
@@ -134,7 +134,7 @@ msgstr "[_elion_] ¡Eso es admirable, Rick! ¡Lo estás haciendo muy bien!"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:94 #-#-# translate crowdin learn_phone_next_97b29729:
 msgid "[_elion_] Кстати, ты мог бы прорекламировать свой магазин в интернете..."
-msgstr "[_elion_] Por cierto, podrías anunciar tu tienda de modo online..."
+msgstr "[_elion_] Por cierto, podrías anunciar tu tienda de modo online…"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:97 #-#-# translate crowdin learn_phone_next_582993d0:
 msgid "[_cedrick_] Это как?"
@@ -142,15 +142,15 @@ msgstr "[_cedrick_] ¿Cómo es eso?"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:100 #-#-# translate crowdin learn_phone_next_0cf68c20:
 msgid "[_elion_] Ну, скажем, можно подать рекламное объявление в Хезерфилд Ньюс о том, что собираешься устроить горящую распродажу..."
-msgstr "[_elion_] Bueno, digamos que podrías poner un anuncio en el Heatherfield News diciendo que harás una oferta tentadora..."
+msgstr "[_elion_] Bueno, digamos que podrías poner un anuncio en el Heatherfield News diciendo que harás una oferta tentadora…"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:101 #-#-# translate crowdin learn_phone_next_4f2d9696:
 msgid "[_cedrick_] Я не уверен, что смогу позволить себе делать большие скидки на эти книжки..."
-msgstr "[_cedrick_] No estoy seguro de poder permitirme grandes descuentos con estos libros..."
+msgstr "[_cedrick_] No estoy seguro de poder permitirme grandes descuentos con estos libros…"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:104 #-#-# translate crowdin learn_phone_next_a9b99fb0:
 msgid "[_elion_]  Ну... Тогда можно устроить какое-нибудь мероприятие... Где читатели будут делиться отрывками из своих любимых книг..."
-msgstr "[_elion_]  Bueno... Entonces podríamos tener algún tipo de evento... Donde los lectores compartirían partes de sus libros favoritos..."
+msgstr "[_elion_] Bueno… Entonces podríamos tener algún tipo de evento… Donde los lectores compartirían partes de sus libros favoritos…"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:107 #-#-# translate crowdin learn_phone_next_b8e83a72:
 msgid "[_cedrick_] Что-то вроде книжного клуба?"
@@ -170,11 +170,11 @@ msgstr "[_cedrick_] Gran idea, Elyon, ¡gracias!"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:119 #-#-# translate crowdin learn_phone_next_2ba417d7:
 msgid "[_elion_] Хах! не за что, Рик... обращайся!"
-msgstr "[_elion_] De nada, Rick... ¡Ve e inténtalo!"
+msgstr "[_elion_] De nada, Rick… ¡Ve e inténtalo!"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:123 #-#-# translate crowdin learn_phone_next_b9fc54f8:
 msgid "Теперь в браузере вашего телефона появилась новая опция — Устроить публичные чтения — С ее помощью вы можете повысить навык красноречия у Седрика, который будет необходим для получения некоторых сцен или более легкого прохождения игры в некоторых ситуациях развилках..."
-msgstr "Ahora hay una nueva opción en el navegador de tu teléfono -Lecturas públicas- con la que puedes potenciar las habilidades de elocuencia de Cedric, que serán necesarias para conseguir algunas escenas o facilitar el juego en determinadas situaciones..."
+msgstr "Ahora hay una nueva opción en el navegador de tu teléfono -Lecturas públicas- con la que puedes potenciar las habilidades de elocuencia de Cedric, que serán necesarias para conseguir algunas escenas o facilitar el juego en determinadas situaciones…"
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/learn_phone/learn_phone.rpy:37
 msgid "Вы хотите пройти краткий обзор по функционалу телефона?"
