@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-22 01:33\n"
+"PO-Revision-Date: 2026-07-22 14:02\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:3 #-#-# translate crowdin will_crystal_essence_final_common_end_a20cefa7:
 msgid "..."
@@ -30,7 +30,7 @@ msgstr "[_cedrick_] (Primero, decidamos los datos de entrada.)"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:10 #-#-# translate crowdin will_crystal_essence_final_common_end_c7563f4a:
 msgid "[_cedrick_] (Медина ищет улики, указывающие на Мактиннена. Но, думаю ей довольно сложно искать то, чего нет. На этом этапе сложно на нее рассчитывать)"
-msgstr "[_cedrick_] (Medina está buscando pruebas que apunten a McTinnen. Pero creo que es bastante difícil para ella buscar algo que no está ahí. Es difícil contar con ella en este momento.)"
+msgstr "[_cedrick_] (Medina está buscando pruebas que apunten a Maktinen. Pero creo que es bastante difícil para ella buscar algo que no está ahí. Es difícil contar con ella en este momento.)"
 
 # game/scripts/quests/crushingOfIrmaAndTaranee/will_crystal_essence_final_common_end.rpy:11 #-#-# translate crowdin will_crystal_essence_final_common_end_0f55a66e:
 msgid "[_cedrick_] (Из имеющегося у меня арсенала, есть новоприобретенная способность изменения сознания. Но она слишком специфическая для частого использования..)"
