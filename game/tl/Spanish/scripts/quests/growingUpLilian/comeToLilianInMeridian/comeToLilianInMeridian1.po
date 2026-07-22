@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:36\n"
+"PO-Revision-Date: 2026-07-22 14:03\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian1.rpy:9 #-#-# translate crowdin comeToLilianInMeridian1_8fb40efe:
 msgid "[_lilian_] Рик, я так рада тебя видеть!"
@@ -54,7 +54,7 @@ msgstr "[_lilian_] No parece limonada..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian1.rpy:36 #-#-# translate crowdin comeToLilianInMeridian1_d72cf41d:
 msgid "[_cedrick_]  Тебе придется выпить его до дна, иначе волшебство не произойдет."
-msgstr "[_cedrick_]  Tienes que bebértela o la magia no se producirá."
+msgstr "[_cedrick_] Tienes que bebértela o la magia no se producirá."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian1.rpy:37 #-#-# translate crowdin comeToLilianInMeridian1_a20cefa7_1:
 msgid "..."
@@ -62,7 +62,7 @@ msgstr "..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian1.rpy:38 #-#-# translate crowdin comeToLilianInMeridian1_6dceb911:
 msgid "[_cedrick_] Ну... Вот и славно..."
-msgstr "[_cedrick_] Bueno... Eso fue bueno..."
+msgstr "[_cedrick_] Bueno... Perfecto..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian1.rpy:39 #-#-# translate crowdin comeToLilianInMeridian1_74ee5d42:
 msgid "[_cedrick_] Приляг, отдохни... Зелье должно сработать через некоторое время..."
