@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-05 05:31\n"
+"PO-Revision-Date: 2026-07-22 14:02\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:4 #-#-# translate crowdin ask_elyon_put_books_in_the_store_42ca9224:
 msgid "[_cedrick_] Элион, помоги мне с кое-чем..."
@@ -30,7 +30,7 @@ msgstr "[_cedrick_] Por lo que tengo entendido, está todo mezclado y debería a
 
 # game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:14 #-#-# translate crowdin ask_elyon_put_books_in_the_store_779750e6:
 msgid "[_elion_] Хорошо, звучит не очень сложно..."
-msgstr "[_elion_] Vale, no parece muy complicado..."
+msgstr "[_elion_] Bien, no parece muy complicado..."
 
 # game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:17 #-#-# translate crowdin ask_elyon_put_books_in_the_store_566befa9:
 msgid "[_cedrick_] Это ты еще не видела сколько там коробок..."
