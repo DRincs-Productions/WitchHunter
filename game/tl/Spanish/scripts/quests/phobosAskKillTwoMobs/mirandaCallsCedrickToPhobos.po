@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:04\n"
+"PO-Revision-Date: 2026-07-22 21:19\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/phobosAskKillTwoMobs/mirandaCallsCedrickToPhobos.rpy:8 #-#-# translate crowdin mirandaCallsCedrickToPhobos_a20cefa7:
 msgid "..."
@@ -34,7 +34,7 @@ msgstr "[_cedrick_] ¿Qué es lo que quiere?"
 
 # game/scripts/quests/phobosAskKillTwoMobs/mirandaCallsCedrickToPhobos.rpy:18 #-#-# translate crowdin mirandaCallsCedrickToPhobos_8c320c25:
 msgid "[_miranda_] Я не знаю... Он сказал что-то о срочном поручении... Спроси у него сам... "
-msgstr "[_miranda_] No sé... Dijo algo de un recado urgente... Pregúntale tú mismo... "
+msgstr "[_miranda_] No sé… Dijo algo de un recado urgente… Pregúntale tú mismo… "
 
 # game/scripts/quests/phobosAskKillTwoMobs/mirandaCallsCedrickToPhobos.rpy:19 #-#-# translate crowdin mirandaCallsCedrickToPhobos_12529fb1:
 msgid "[_cedrick_] Ладно, скоро буду."
@@ -42,7 +42,7 @@ msgstr "[_cedrick_] Bien, ahora voy."
 
 # game/scripts/quests/phobosAskKillTwoMobs/mirandaCallsCedrickToPhobos.rpy:23 #-#-# translate crowdin mirandaCallsCedrickToPhobos_68ce7341:
 msgid "[_miranda_] Поторопись... кажется он не в духе..."
-msgstr "[_miranda_] Date prisa... no parece estar de humor..."
+msgstr "[_miranda_] Date prisa… no parece estar de humor…"
 
 # game/scripts/quests/phobosAskKillTwoMobs/mirandaCallsCedrickToPhobos.rpy:24 #-#-# translate crowdin mirandaCallsCedrickToPhobos_ca5eb582:
 msgid "[_cedrick_] Впрочем как и всегда."
