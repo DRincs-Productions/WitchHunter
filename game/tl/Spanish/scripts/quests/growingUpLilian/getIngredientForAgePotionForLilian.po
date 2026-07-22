@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:37\n"
+"PO-Revision-Date: 2026-07-22 14:03\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/getIngredientForAgePotionForLilian.rpy:5 #-#-# translate crowdin getIngredientForAgePotionForLilian_54034955:
 msgid "[_herald_] Ну что ж, ты выиграл... забирай цветок и проваливай! "
-msgstr "[_herald_] Bueno, tú ganas... ¡Toma la flor y lárgate! "
+msgstr "[_herald_] Bueno, tú ganas... ¡Toma la flor y lárgate!"
 
 # game/scripts/quests/growingUpLilian/getIngredientForAgePotionForLilian.rpy:6 #-#-# translate crowdin getIngredientForAgePotionForLilian_94f0bf58:
 msgid "[_cedrick_] И что с тобой не так?"
