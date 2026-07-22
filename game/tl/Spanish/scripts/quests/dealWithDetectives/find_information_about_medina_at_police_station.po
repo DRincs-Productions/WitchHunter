@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-23 06:37\n"
+"PO-Revision-Date: 2026-07-22 14:02\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:6 #-#-# translate crowdin find_information_about_medina_at_police_station_64ccdda3:
 msgid "[_cedrick_] (Есть. Детектив Медина.. Ого, на нее здесь целый архив — это как раз то, что мне нужно)"
@@ -50,7 +50,7 @@ msgstr "[_cedrick_] (Falso acusado... El verdadero maníaco es el detective... E
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:15 #-#-# translate crowdin find_information_about_medina_at_police_station_dfd7dc5a:
 msgid "[_cedrick_] (А настоящим маньяком является Мактиннен.. Поэтому она так осторожна, потому что маньяком является ее же напарник и она должна не подавать виду, что это он)"
-msgstr "[_cedrick_] (Y el verdadero maníaco es McTinnen... Por eso tiene tanto cuidado, porque su compañero es el maníaco y no debe dejar ver que es él.)"
+msgstr "[_cedrick_] (Y el verdadero maníaco es Maktinen... Por eso tiene tanto cuidado, porque su compañero es el maníaco y no debe dejar ver que es él.)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:16 #-#-# translate crowdin find_information_about_medina_at_police_station_84238101:
 msgid "[_cedrick_] (Это может сработать, но нужно будет серьезно поработать над следствием. В любом случае других вариантов у меня нет. Осталось лишь узнать ее адрес и наведаться в гости)"
@@ -66,7 +66,7 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:20 #-#-# translate crowdin find_information_about_medina_at_police_station_2a1c82c6:
 msgid "[_cedrick_] На всякий случай заодно посмотрю, что есть на Мактиннена.."
-msgstr "[_cedrick_] Por si acaso, también miraré lo que tiene McTinnen..."
+msgstr "[_cedrick_] Por si acaso, también miraré lo que tiene Maktinen..."
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:25 #-#-# translate crowdin find_information_about_medina_at_police_station_49316299_1:
 msgid "[_cedrick_] ..."
@@ -110,7 +110,7 @@ msgstr "[_cedrick_] (Vaya, ¿la carpeta incriminatoria personal de Gordon?)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:44 #-#-# translate crowdin find_information_about_medina_at_police_station_0373e8e4:
 msgid "[_cedrick_] (С-стоп.. Это что, мать Тарани на фото? Она же, вроде как, главный судья в этом городе..)"
-msgstr "[_cedrick_] (E-espera... ¿Es la madre de Tarani la de la foto? Ella es como la jueza principal de esta ciudad...)"
+msgstr "[_cedrick_] (E-espera... ¿Es la madre de Taranee la de la foto? Ella es como la jueza principal de esta ciudad...)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:48 #-#-# translate crowdin find_information_about_medina_at_police_station_a20cefa7:
 msgid "..."
@@ -126,7 +126,7 @@ msgstr "[_cedrick_] (Maldita sea, la jueza tiene esqueletos en su armario. Bueno
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:58 #-#-# translate crowdin gallery_d_068_277eb69d:
 msgid "[_cedrick_] (Интересно, кто сосет лучше мама Вилл, мама Хай Лин или же мама Тарани? Возможно, мне еще удастся проверить. Но я здесь не за этим. Дела прежде всего)"
-msgstr "[_cedrick_] (Me pregunto quién apesta mejor que la mamá de Will, la mamá de Hay Lin o la mamá de Tarani. Tal vez pueda comprobarlo. Pero no estoy aquí para eso. Los negocios son lo primero.)"
+msgstr "[_cedrick_] (Me pregunto quién apesta mejor que la mamá de Will, la mamá de Hay Lin o la mamá de Taranee. Tal vez pueda comprobarlo. Pero no estoy aquí para eso. Los negocios son lo primero.)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:59 #-#-# translate crowdin gallery_d_068_d42ae797:
 msgid "[_cedrick_] (Думаю мне это тоже пригодится, сохраню себе на телефон. Я бы еще покопался в его папках, уверен там много интересного, но я уже играюсь с огнем, пора уходить)"
@@ -146,7 +146,7 @@ msgstr "[_cedrick_] (¿Qué carajos hace aquí? Aunque, por otro lado, dada su p
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:70 #-#-# translate crowdin gallery_d_069_5c15a6af:
 msgid "[_cedrick_] (Хах, уверен, Медина работала за десятерых, пока Гордон трахал заключенную в костюме, хорошо старик устроился)"
-msgstr "[_cedrick_] (Ja, estoy seguro de que Medina trabajó el doble mientras Gordon se follaba a una prisionera disfrazada, al viejo le fue bien.)"
+msgstr "[_cedrick_] (Ja, estoy seguro de que Medina trabajó el doble mientras Gordon se cogía a una prisionera disfrazada, al viejo le fue bien.)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:71 #-#-# translate crowdin gallery_d_069_05a703ca:
 msgid "[_cedrick_] (Что ж, мне это только на руку. Учитывая, сколько она работала, вряд ли она окажет мне особое сопротивление)"
@@ -190,11 +190,11 @@ msgstr "[_medina_] (H-habla... Monstruo que habla... Maldita sea, es demasiado r
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:91 #-#-# translate crowdin gallery_d_069_1d46a941:
 msgid "[_cedrick_] (Так, окей, связать то я ее связал, но что дальше делать то.. Не могу же я ее прямо в форме змея трахать..)"
-msgstr "[_cedrick_] (Entonces, está bien, la até, pero qué hacer a continuación... No puedo follarla directamente en forma de serpiente...)"
+msgstr "[_cedrick_] (Entonces, está bien, la até, pero qué hacer a continuación... No puedo cogerla directamente en forma de serpiente...)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:92 #-#-# translate crowdin gallery_d_069_e9b61d59:
 msgid "[_cedrick_] Змеиным членом я ее просто порву.. Такие размеры в человеческой форме способна выдерживать только Миранда и то она не человек"
-msgstr "[_cedrick_] Simplemente la destrozaré con una polla de serpiente... Sólo Miranda puede soportar tales dimensiones en forma humana, y aun así no es humana."
+msgstr "[_cedrick_] Simplemente la destrozaré con una verga de serpiente... Sólo Miranda puede soportar tales dimensiones en forma humana, y aun así no es humana."
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:94 #-#-# translate crowdin gallery_d_069_5680b44e:
 msgid "[_medina_] (Нет, я не могу просто так сдаваться. Будь это галлюцинация или нет, он явно перекрывает мои дыхательные пути.. Я должна что-то сделать!)"
@@ -210,7 +210,7 @@ msgstr "[_medina_] (Tómalo, maldita serpiente.)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:99 #-#-# translate crowdin gallery_d_069_35162a68:
 msgid "[_cedrick_] Ауч! Ах ты.."
-msgstr "[_cedrick_] ¿Qué? ¿Cómo has.."
+msgstr "[_cedrick_] ¡Ay! Serás..."
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:101 #-#-# translate crowdin gallery_d_069_cc5bccc3:
 msgid "[_medina_] Ммвввмм..."
@@ -230,7 +230,7 @@ msgstr "[_medina_] ..."
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:109 #-#-# translate crowdin gallery_d_069_e7f641c5:
 msgid "[_cedrick_] Черт, надеюсь она не умерла.."
-msgstr "[_cedrick_] Joder, espero que no esté muerta..."
+msgstr "[_cedrick_] Mierda, espero que no esté muerta..."
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:111 #-#-# translate crowdin gallery_d_069_28cc7300:
 msgid "[_cedrick_] Нет, вроде дышит.."
@@ -242,7 +242,7 @@ msgstr "[_medina_] ..."
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:113 #-#-# translate crowdin gallery_d_069_e162b1b4:
 msgid "[_cedrick_] (Окей, проблема решилась сама собой. По-хорошему нужно донести ее до дома и трахнуть там, но я не знаю, когда она проснется, может и через 5 минут)"
-msgstr "[_cedrick_] (Vale, el problema se solucionó solo. Lo mejor que puedo hacer es llevarla a casa y follarla allí, pero no sé cuando despertará, tal vez en 5 minutos.)"
+msgstr "[_cedrick_] (Bien, el problema se solucionó solo. Lo mejor que puedo hacer es llevarla a casa y cogerla allí, pero no sé cuando despertará, tal vez en 5 minutos.)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:114 #-#-# translate crowdin gallery_d_069_864658b0:
 msgid "[_cedrick_] (Видимо придется прямо на машине.. Хм, кстати, она оставила дверь в машину открытой)"
@@ -326,7 +326,7 @@ msgstr "[_medina_] ¿Q-qué? ¿De qué estás hablando? Rick es un asesino en se
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:144 #-#-# translate crowdin gallery_d_069_14fdd35f:
 msgid "[_cedrick_] Именно именно.. Продолжай так думать, пока я трахаю тебя и продолжаю терроризировать весь город"
-msgstr "[_cedrick_] Exacto... Sigue pensando así mientras te follo y sigo aterrorizando a toda la ciudad."
+msgstr "[_cedrick_] Exacto... Sigue pensando así mientras te cojo y sigo aterrorizando a toda la ciudad."
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:145 #-#-# translate crowdin gallery_d_069_a5fa5ca2:
 msgid "[_medina_] Н-нет.. О чем ты говоришь?"
@@ -334,11 +334,11 @@ msgstr "[_medina_] N-no... ¿De qué estás hablando?"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:146 #-#-# translate crowdin gallery_d_069_0bb4e2c7:
 msgid "[_cedrick_] Брайан, Алхими, Корнелия.. А теперь и ты в моих руках.. Черт, как же долго я держался.. Хочу прижать тебя к лобовому стеклу"
-msgstr "[_cedrick_] Brian, Alhimi, Cornelia... Y ahora estáis en mis manos... Maldita sea, cuánto tiempo aguanté... Quiero apretaros contra el parabrisas."
+msgstr "[_cedrick_] Brian, Alchemy, Cornelia... Y ahora estáis en mis manos... Maldita sea, cuánto tiempo aguanté... Quiero apretaros contra el parabrisas."
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:149 #-#-# translate crowdin gallery_d_069_620ff6ce:
 msgid "[_cedrick_] Мы так долго вели это дело и ты маячила своей роскошной фигурой от свидетеля к свидетелю. Как же я хотел тебя трахнуть, но не мог.. Пока не нашел того, на кого скинуть обвинения"
-msgstr "[_cedrick_] Hemos estado llevando este caso durante tanto tiempo y usted, con su lujosa figura, pasó de testigo en testigo. Cómo quería follarte, pero no podía... Hasta que encontré a alguien a quien culpar."
+msgstr "[_cedrick_] Hemos estado llevando este caso durante tanto tiempo y usted, con su lujosa figura, pasó de testigo en testigo. Cómo quería cogerte, pero no podía... Hasta que encontré a alguien a quien culpar."
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:150 #-#-# translate crowdin gallery_d_069_a7fe03ef:
 msgid "[_medina_] Н-нет.. Ааах... н-не может быть.. Ты..."
@@ -350,7 +350,7 @@ msgstr "[_cedrick_] Vamos, vamos... ¿Tal vez puedas adivinarlo ahora?"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:153 #-#-# translate crowdin gallery_d_069_7463eedf:
 msgid "[_medina_] М-мактиннен!?"
-msgstr "[_medina_] ¿¡M-McTinnen!?"
+msgstr "[_medina_] ¿¡M-Maktinen!?"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:154 #-#-# translate crowdin gallery_d_069_0b81fee8:
 msgid "[_cedrick_] В точку, дорогуша! Ахах, так было забавно смотреть, как ты ходишь вокруг да около и ищешь маньяка, когда он прямо у тебя перед носом"
@@ -366,7 +366,7 @@ msgstr "[_cedrick_] Lo creas o no, no me importa. Ahora estás atrapado y te con
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:159 #-#-# translate crowdin gallery_d_069_77d8c9e1:
 msgid "[_medina_] Н-нет.. Ааах.. П-прошу, постой.. Мактиннен!"
-msgstr "[_medina_] N-no... Aaah... P-por favor espera... ¡McTinnen!"
+msgstr "[_medina_] N-no... Aaah... P-por favor espera... ¡Maktinen!"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:161 #-#-# translate crowdin gallery_d_069_f88685ee:
 msgid "[_cedrick_] Я кончаю!"
@@ -394,7 +394,7 @@ msgstr "[_medina_] ..."
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:184 #-#-# translate crowdin gallery_d_069_577eda50:
 msgid "[_cedrick_] (Так.. Я сделал что мог.. Вроде бы она теперь будет верить в то, что Мактиннен - это настоящий маньяк. Но что теперь..)"
-msgstr "[_cedrick_] (Entonces... hice lo que pude... Parece que ahora ella creerá que McTinnen es el verdadero asesino. Pero, ¿ahora qué?)"
+msgstr "[_cedrick_] (Entonces... hice lo que pude... Parece que ahora ella creerá que Maktinen es el verdadero asesino. Pero, ¿ahora qué?)"
 
 # game/scripts/quests/dealWithDetectives/find_information_about_medina_at_police_station.rpy:185 #-#-# translate crowdin gallery_d_069_9a64f219:
 msgid "[_cedrick_] (Хм.. Надо отнести ее домой и использовать все мое обаяние и актерское мастерство, чтобы убедить ее в том, что я - это подставной подозреваемый. И что мы, очевидно, спим вместе)"
