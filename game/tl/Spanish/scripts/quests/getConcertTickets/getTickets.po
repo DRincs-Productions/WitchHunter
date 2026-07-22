@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:33\n"
+"PO-Revision-Date: 2026-07-22 21:17\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/getTickets.rpy:5 #-#-# translate crowdin getTickets_10e6a552:
 msgid "[_cedrick_] Три билета на концерт Сортирного Союза..."
-msgstr "[_cedrick_] Tres entradas para el concierto de Sortie Union..."
+msgstr "[_cedrick_] Tres entradas para el concierto de Sortie Union…"
 
 # game/scripts/quests/getConcertTickets/getTickets.rpy:6 #-#-# translate crowdin getTickets_83f1db3a:
 msgid "[_cashier_] Билетов нет."
@@ -26,9 +26,9 @@ msgstr "[_cedrick_] ¿Está seguro? Puedo pagar el doble por esas entradas."
 
 # game/scripts/quests/getConcertTickets/getTickets.rpy:8 #-#-# translate crowdin getTickets_baadae9f:
 msgid "[_cashier_] Вы не понимаете? Билеты уже давно закончились..."
-msgstr "[_cashier_] ¿No lo entiendes? Hace tiempo que se acabaron las entradas..."
+msgstr "[_cashier_] ¿No lo entiendes? Hace tiempo que se acabaron las entradas…"
 
 # game/scripts/quests/getConcertTickets/getTickets.rpy:9 #-#-# translate crowdin getTickets_62cc54d4:
 msgid "[_cedrick_] (Вот же старая пизда! Придется поискать билеты в другом месте...)"
-msgstr "[_cedrick_] (¡Viejo cabrón! Tendré que buscar entradas en otro sitio...)"
+msgstr "[_cedrick_] (¡Viejo cabrón! Tendré que buscar entradas en otro sitio…)"
 
