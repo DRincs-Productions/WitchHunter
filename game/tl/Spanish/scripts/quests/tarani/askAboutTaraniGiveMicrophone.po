@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:14\n"
+"PO-Revision-Date: 2026-07-22 21:21\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:9 #-#-# translate crowdin askAboutTaraniGiveMicrophone_d811ca89:
 msgid "[_cedrick_] Я принес вам микрофон."
@@ -18,11 +18,11 @@ msgstr "[_cedrick_] Te he traído un micrófono."
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:10 #-#-# translate crowdin askAboutTaraniGiveMicrophone_1cd5740d:
 msgid "[_courtney_]  Это же... Blue Yeti Pro! Неплохо!"
-msgstr "[_courtney_]  Es un... ¡Yeti Azul Pro! ¡No está mal!"
+msgstr "[_courtney_] Es un… ¡Yeti Azul Pro! ¡No está mal!"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:11 #-#-# translate crowdin askAboutTaraniGiveMicrophone_92f19ea3:
 msgid "[_courtney_]  Так что именно ты хочешь узнать о Тарани?"
-msgstr "[_courtney_]  ¿Qué quiere saber exactamente sobre Taranee?"
+msgstr "[_courtney_] ¿Qué quiere saber exactamente sobre Taranee?"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:12 #-#-# translate crowdin askAboutTaraniGiveMicrophone_40fb0bd3:
 msgid "[_cedrick_] Любую имеющуюся у вас информацию: факты, сплетни и слухи."
@@ -30,11 +30,11 @@ msgstr "[_cedrick_] Cualquier información que tengan: hechos, chismes y rumores
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:13 #-#-# translate crowdin askAboutTaraniGiveMicrophone_43dc1306:
 msgid "[_bess_] Значит Тарани Кук.."
-msgstr "[_bess_] Así que Taranee Cook.."
+msgstr "[_bess_] Así que Taranee Cook…"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:14 #-#-# translate crowdin askAboutTaraniGiveMicrophone_c27727c0:
 msgid "[_bess_]  Насколько я знаю она зубрила, учится по всем предметам на отлично..."
-msgstr "[_bess_]  Por lo que sé es una nerd, le va bien en todas las asignaturas..."
+msgstr "[_bess_] Por lo que sé es una nerd, le va bien en todas las asignaturas…"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:15 #-#-# translate crowdin askAboutTaraniGiveMicrophone_8f945d46:
 msgid "[_cedrick_] Это я уже знаю!"
@@ -46,7 +46,7 @@ msgstr "[_bess_] Pero aunque saca buenas notas en todas las asignaturas, le cues
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:17 #-#-# translate crowdin askAboutTaraniGiveMicrophone_23354f34:
 msgid "[_courtney_]  Еще она не так давно перевелась к нам в школу и быстро подружилась с одной компанией.. С Ирмой, Хай Лин и Корнелией..."
-msgstr "[_courtney_]  Ella también se transfirió a nuestra escuela no hace mucho tiempo y rápidamente se hizo amiga de... Irma, Hay Lin y Cornelia..."
+msgstr "[_courtney_] Ella también se transfirió a nuestra escuela no hace mucho tiempo y rápidamente se hizo amiga de… Irma, Hay Lin y Cornelia…"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:18 #-#-# translate crowdin askAboutTaraniGiveMicrophone_d7233ea5:
 msgid "[_courtney_] Ах, да! И вроде как Вилл, которая тоже не так давно перевелась, теперь ее лучшая подруга или вроде того."
@@ -62,15 +62,15 @@ msgstr "[_courtney_] Además, tiene un hermano que juega en el equipo de balonce
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:21 #-#-# translate crowdin askAboutTaraniGiveMicrophone_b815dfaf:
 msgid "[_courtney_]  А, еще ей вроде как нравится парень по имени Найджел."
-msgstr "[_courtney_]  También le gusta un tipo llamado Nigel."
+msgstr "[_courtney_] También le gusta un tipo llamado Nigel."
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:22 #-#-# translate crowdin askAboutTaraniGiveMicrophone_8685974b:
 msgid "[_bess_] Найджел Эшкрофт? Я думала они встречаются?.."
-msgstr "[_bess_] ¿Nigel Ashcroft?, ¿No estaban saliendo?.."
+msgstr "[_bess_] ¿Nigel Ashcroft? ¿No estaban saliendo?…"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:23 #-#-# translate crowdin askAboutTaraniGiveMicrophone_dc6f4194:
 msgid "[_courtney_] Может быть они и встречаются.. Я точно не знаю.."
-msgstr "[_courtney_] Tal vez lo hagan... No lo sé con seguridad.."
+msgstr "[_courtney_] Tal vez lo hagan… No lo sé con seguridad…"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:24 #-#-# translate crowdin askAboutTaraniGiveMicrophone_d2845694:
 msgid "[_cedrick_] Это случайно не тот патлатый красноволосый тип в зеленой куртке?"
@@ -78,7 +78,7 @@ msgstr "[_cedrick_] ¿No es ese tipo el pelirrojo de la chaqueta verde?"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:25 #-#-# translate crowdin askAboutTaraniGiveMicrophone_8dc91213:
 msgid "[_courtney_]  Хах, да, похоже на него.."
-msgstr "[_courtney_]  Huh, sí, eso suena como él.."
+msgstr "[_courtney_] Huh, sí, eso suena como él…"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:26 #-#-# translate crowdin askAboutTaraniGiveMicrophone_f7cb7606:
 msgid "[_cedrick_] Что вы можете рассказать мне о нем?"
@@ -86,11 +86,11 @@ msgstr "[_cedrick_] ¿Qué pueden decirme de él?"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:27 #-#-# translate crowdin askAboutTaraniGiveMicrophone_8b4c7b8f:
 msgid "[_courtney_] А у него, в отличии от Тарани, есть проблемы с учебой, он вроде как связался с бандой подонков под предводительством Урии.."
-msgstr "[_courtney_] A diferencia de Taranee, tiene problemas de aprendizaje, está algo involucrado con una banda de escorias liderada por Uriah.."
+msgstr "[_courtney_] A diferencia de Taranee, tiene problemas de aprendizaje, está algo involucrado con una banda de escorias liderada por Uriah…"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:28 #-#-# translate crowdin askAboutTaraniGiveMicrophone_f51833bf:
 msgid "[_bess_] Местные придурки.."
-msgstr "[_bess_] Idiotas locales.."
+msgstr "[_bess_] Idiotas locales…"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:29 #-#-# translate crowdin askAboutTaraniGiveMicrophone_f3bd41b0:
 msgid "[_courtney_] После последней их выходки Найджела едва не исключили."
@@ -102,15 +102,15 @@ msgstr "[_bess_] Knickerbocker le dio una última oportunidad. Una broma más y 
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:31 #-#-# translate crowdin askAboutTaraniGiveMicrophone_422cec05:
 msgid "[_cedrick_] Что ж, спасибо за информацию.."
-msgstr "[_cedrick_] Bueno, gracias por la información.."
+msgstr "[_cedrick_] Bueno, gracias por la información…"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:32 #-#-# translate crowdin askAboutTaraniGiveMicrophone_7ba62a7e:
 msgid "[_bess_] Еще мы можем предоставить ее адрес.."
-msgstr "[_bess_] También podemos proporcionarle su dirección.."
+msgstr "[_bess_] También podemos proporcionarle su dirección…"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:33 #-#-# translate crowdin askAboutTaraniGiveMicrophone_12d0e072:
 msgid "[_cedrick_] Что ж, думаю это может быть мне полезно.. на всякий случай.."
-msgstr "[_cedrick_] Bueno, creo que podría serme útil... por si acaso.."
+msgstr "[_cedrick_] Bueno, creo que podría serme útil… por si acaso…"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:34 #-#-# translate crowdin askAboutTaraniGiveMicrophone_e63b3bb0:
 msgid "Получен Адрес Тарани!"
@@ -126,11 +126,11 @@ msgstr "…."
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:37 #-#-# translate crowdin askAboutTaraniGiveMicrophone_d120708a:
 msgid "[_cedrick_] (Значит Найджел Эшкрофт.. Нужно найти на него компромат, чтобы я смог шантажировать Тарани и тогда она будет делать все, что я ей скажу!)"
-msgstr "[_cedrick_] (Así que Nigel Ashcroft... ¡Necesito encontrar trapos sucios sobre él para poder chantajear a Taranee y entonces ella hará todo lo que yo le diga!)"
+msgstr "[_cedrick_] (Así que Nigel Ashcroft… ¡Necesito encontrar trapos sucios sobre él para poder chantajear a Taranee y entonces ella hará todo lo que yo le diga!)"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:38 #-#-# translate crowdin askAboutTaraniGiveMicrophone_553ab2ef:
 msgid "[_cedrick_] (Осталось только найти того, кому я смогу это поручить, не буду же я бегать за ним сам в конце концов. Это может вызвать подозрения.. Может быть стоит поручить это дело тому мерзкому и вонючему контрабандисту?)"
-msgstr "[_cedrick_] (Solo me queda encontrar a alguien a quien pueda confiarle eso, al fin y al cabo no voy a espiarlo yo mismo. Eso podría levantar sospechas... Tal vez debería asignar el caso a ese desagradable y maloliente contrabandista)"
+msgstr "[_cedrick_] (Solo me queda encontrar a alguien a quien pueda confiarle eso, al fin y al cabo no voy a espiarlo yo mismo. Eso podría levantar sospechas… Tal vez debería asignar el caso a ese desagradable y maloliente contrabandista)"
 
 # game/scripts/quests/tarani/askAboutTaraniGiveMicrophone.rpy:39 #-#-# translate crowdin askAboutTaraniGiveMicrophone_a20cefa7_1:
 msgid "..."
