@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:31\n"
+"PO-Revision-Date: 2026-07-22 14:02\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:5 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_008d63ae:
 msgid "[_cedrick_] Миранда, я снова на счет поручения Фобоса"
-msgstr "[_cedrick_] Miranda, estoy de vuelta por orden de Phobos"
+msgstr "[_cedrick_] Miranda, estoy de vuelta por orden de Fobos"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:9 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_0c23937f:
 msgid "[_miranda_] ..И что на этот раз?"
@@ -26,7 +26,7 @@ msgstr "[_cedrick_] Necesitamos crear una poción para que su hermana aumente su
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:17 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_8d0a2c80:
 msgid "[_miranda_] Ты серьезно? Фобос поручил тебе трахнуть его сестру?"
-msgstr "[_miranda_] ¿Hablas en serio? ¿Phobos te tiene tirándote a su hermana?"
+msgstr "[_miranda_] ¿Hablas en serio? ¿Fobos te tiene tirándote a su hermana?"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:22 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_f930638e:
 msgid "[_cedrick_] Ну, вообще-то, да.. Но зелье мне нужно не совсем для этого.. Не столь важно, ты поможешь?"
@@ -34,11 +34,11 @@ msgstr "[_cedrick_] Bueno, en realidad, sí... Pero eso no es realmente para lo 
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:26 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_a780de72:
 msgid "[_miranda_] Проблема в том, что, раз она сестра Фобоса, то уровень ее магической устойчивости должен быть крайне высок"
-msgstr "[_miranda_] El problema es que como es hermana de Phobos, su nivel de estabilidad mágica debe ser extremadamente alto"
+msgstr "[_miranda_] El problema es que como es hermana de Fobos, su nivel de estabilidad mágica debe ser extremadamente alto"
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:27 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_c39c5b0d:
 msgid "[_miranda_] А это значит, что она не восприимчива к большинству магических зелий, как и ее брат. Есть высокоуровневые зелья, способные повлиять на Фобоса и ему подобных, но.."
-msgstr "[_miranda_] Lo que significa que no es susceptible a la mayoría de las pociones mágicas, como su hermano. Hay pociones de alto nivel que pueden afectar a Phobos y los suyos, pero.."
+msgstr "[_miranda_] Lo que significa que no es susceptible a la mayoría de las pociones mágicas, como su hermano. Hay pociones de alto nivel que pueden afectar a Fobos y los suyos, pero.."
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:31 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_39cd6181:
 msgid "[_cedrick_] ..Но?"
@@ -50,7 +50,7 @@ msgstr "[_miranda_] Pero, simplemente no tengo ese conocimiento... Las pociones 
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:36 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_68089734:
 msgid "[_miranda_] А я в первую очередь специализируюсь на травах и натуральных ингредиентах, в зельях с применением магии я довольно слаба.. Не думаю, что смогу приготовить хоть что-то, что повлияет на сестру Фобоса.."
-msgstr "[_miranda_] Y me especializo principalmente en hierbas e ingredientes naturales, soy bastante débil en pociones que usan magia... No creo que pueda hacer nada que afecte a la hermana de Phobos.."
+msgstr "[_miranda_] Y me especializo principalmente en hierbas e ingredientes naturales, soy bastante débil en pociones que usan magia... No creo que pueda hacer nada que afecte a la hermana de Fobos.."
 
 # game/scripts/quests/elyonAphrodisiac/go_to_miranda_for_aphrodisiac.rpy:40 #-#-# translate crowdin go_to_miranda_for_aphrodisiac_49a202e4:
 msgid "[_cedrick_] Вот черт, этого я не предвидел.. Значит, в случае с Элион зелья мне не помогут.."
