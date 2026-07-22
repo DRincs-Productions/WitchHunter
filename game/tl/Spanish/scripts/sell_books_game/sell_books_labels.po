@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-20 20:55\n"
+"PO-Revision-Date: 2026-07-22 14:08\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/sell_books_game/sell_books_labels.rpy:39 #-#-# translate crowdin sell_books_new_customer_b19a31e4:
 msgid "[_customer_] Здравствуйте, а у вас есть {color=#8fe3ff}[book_name]{/color}?"
@@ -30,7 +30,7 @@ msgstr "[_error_] Error, `sellBooksGame.need_book_type` es `None`"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:51 #-#-# translate crowdin sell_books_new_customer_b1117835:
 msgid "[_customer_] Добрый день! У вас есть книги автора \"{color=#8fe3ff}[book_parameter_value]{/color}\"?"
-msgstr "[_customer_] ¡Buenas tardes! ¿Tiene algún libro del autor de \"{color=#8fe3ff} {/color}\"?[book_parameter_value]{/color}\"?"
+msgstr "[_customer_] ¡Buenas tardes! ¿Tiene algún libro del autor \"{color=#8fe3ff}[book_parameter_value]{/color}\"?"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:54 #-#-# translate crowdin sell_books_new_customer_55d12714:
 msgid "[_customer_] Здравствуйте, а вы можете посоветовать мне книгу в жанре {color=#8fe3ff}[book_parameter_value]{/color}?"
