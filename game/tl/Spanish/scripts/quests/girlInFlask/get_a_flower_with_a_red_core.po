@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:03\n"
+"PO-Revision-Date: 2026-07-22 21:18\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:6 #-#-# translate crowdin get_a_flower_with_a_red_core_74ddd4ae:
 msgid "[_amalia_] Вы нашли ее? "
@@ -38,7 +38,7 @@ msgstr "[_cedrick_] Centro rojo y pétalos blancos"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:30 #-#-# translate crowdin get_a_flower_with_a_red_core_5b1974d9:
 msgid "[_amalia_] Один момент... странно, но я ничего найти не могу"
-msgstr "[_amalia_] Un momento... extraño, pero no puedo encontrar nada"
+msgstr "[_amalia_] Un momento… extraño, pero no puedo encontrar nada"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:31 #-#-# translate crowdin get_a_flower_with_a_red_core_a79f0ca6:
 msgid "[_cedrick_] Ты маг?!"
@@ -46,7 +46,7 @@ msgstr "[_cedrick_] ¡¿Eres maga?!"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:35 #-#-# translate crowdin get_a_flower_with_a_red_core_bf79a065:
 msgid "[_amalia_] Я просто управляю природой и растениями. Давай еще раз..."
-msgstr "[_amalia_] Solo controlo la naturaleza y las plantas. Hagámoslo de nuevo..."
+msgstr "[_amalia_] Solo controlo la naturaleza y las plantas. Hagámoslo de nuevo…"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:39 #-#-# translate crowdin get_a_flower_with_a_red_core_c3b589ea:
 msgid "[_amalia_] нашла! Я знаю, где этот цветок!"
@@ -62,11 +62,11 @@ msgstr "[_cedrick_] ¿Cuál es tu relación con Evangeline?"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:50 #-#-# translate crowdin get_a_flower_with_a_red_core_5f39d9b0:
 msgid "[_amalia_] Мы... Друзья. А еще она мой телохранитель. Сначала нам было трудно, мы спорили и конфликтовали, но потом..."
-msgstr "[_amalia_] Somos... amigas. También es mi guardaespaldas. Fue duro al principio, discutíamos y entrabamos en conflicto, pero luego..."
+msgstr "[_amalia_] Somos… amigas. También es mi guardaespaldas. Fue duro al principio, discutíamos y entrabamos en conflicto, pero luego…"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:51 #-#-# translate crowdin get_a_flower_with_a_red_core_db548a33:
 msgid "[_cedrick_] (Я вижу, как ваши сладкие ротики вздыхают с предвкушением и желают лишь одного: моей горячей спермы...)"
-msgstr "[_cedrick_] (Puedo ver sus dulces bocas suspirando de anticipación y deseando solo una cosa: mi semen caliente...)"
+msgstr "[_cedrick_] (Puedo ver sus dulces bocas suspirando de anticipación y deseando solo una cosa: mi semen caliente…)"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:55 #-#-# translate crowdin get_a_flower_with_a_red_core_534cd8fc:
 msgid "[_amalia_] А этого делать не стоит"
@@ -98,7 +98,7 @@ msgstr "En lugar de una flor, Cedric encuentra dos a la vez"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:73 #-#-# translate crowdin get_a_flower_with_a_red_core_cdc407a3:
 msgid "[_amalia_] Ох, а как они пахнут..."
-msgstr "[_amalia_] Ah, cómo huelen..."
+msgstr "[_amalia_] Ah, cómo huelen…"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:76 #-#-# translate crowdin get_a_flower_with_a_red_core_f29ae7ed:
 msgid "Амалия принюхивается"
@@ -106,7 +106,7 @@ msgstr "Amalia aspira"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:77 #-#-# translate crowdin get_a_flower_with_a_red_core_49f8c501:
 msgid "[_amalia_] Какой приятный запах... только странный. Очень странный. Но такой приятный, терпкий и... приятный"
-msgstr "[_amalia_] Qué olor tan agradable... pero extraño. Muy extraño. Pero tan agradable y agrio y... agradable"
+msgstr "[_amalia_] Qué olor tan agradable… pero extraño. Muy extraño. Pero tan agradable y agrio y… agradable"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:78 #-#-# translate crowdin get_a_flower_with_a_red_core_19e2c25f:
 msgid "[_cedrick_] У тебя все хорошо?"
@@ -114,7 +114,7 @@ msgstr "[_cedrick_] ¿Te encuentras bien?"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:79 #-#-# translate crowdin get_a_flower_with_a_red_core_d523ffa4:
 msgid "[_amalia_] Да, только дай еще немного насладиться этот сладкий, манящий и такой пьянящий..."
-msgstr "[_amalia_] Sí, sólo déjame disfrutar de este dulce, seductor y tan embriagador olor un poco más..."
+msgstr "[_amalia_] Sí, sólo déjame disfrutar de este dulce, seductor y tan embriagador olor un poco más…"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:80 #-#-# translate crowdin get_a_flower_with_a_red_core_db10aad3:
 msgid "[_cedrick_] Амалия, пошли, Евангелина ждет"
@@ -126,7 +126,7 @@ msgstr "[_cedrick_] (Y mi verga también)"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:82 #-#-# translate crowdin get_a_flower_with_a_red_core_0046127d:
 msgid "[_amalia_] Точно. Уже иду... хотя нет, я вернусь в таверну, в моей голове каша. Как освободишь Евангелину, то возвращайся быстрее"
-msgstr "[_amalia_] Entendido. Voy para allá... mejor no, volveré a la taberna, tengo la cabeza hecha un lío. Una vez que hayas liberado a Evangeline, vuelve rápido"
+msgstr "[_amalia_] Entendido. Voy para allá… mejor no, volveré a la taberna, tengo la cabeza hecha un lío. Una vez que hayas liberado a Evangeline, vuelve rápido"
 
 # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:83 #-#-# translate crowdin get_a_flower_with_a_red_core_f68381f3:
 msgid "[_cedrick_] (Что же это за цветок такой? Но нюхать его явно не стоит)"
