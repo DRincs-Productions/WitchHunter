@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 15:37\n"
+"PO-Revision-Date: 2026-07-22 21:15\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Reports/Reports.rpy:19
 msgid "Дискорд"
@@ -26,7 +26,7 @@ msgstr "Qué (versión original): "
 
 # game/scripts/core/Reports/Reports.rpy:281
 msgid "Что (ваш вариант): "
-msgstr "Qué (su opción): "
+msgstr "Qué (tu versión): "
 
 # game/scripts/core/Reports/Reports.rpy:293
 msgid "Что (различия): "
@@ -38,7 +38,7 @@ msgstr "Comentario: "
 
 # game/scripts/core/Reports/Reports.rpy:319
 msgid "Сохранение:"
-msgstr "Guardando:"
+msgstr "Partida guardada:"
 
 # game/scripts/core/Reports/Reports.rpy:336
 msgid "Открыть"
@@ -70,7 +70,7 @@ msgstr "¿Está seguro de que desea eliminar todos los reportes creados anterior
 
 # game/scripts/core/Reports/Reports.rpy:446
 msgid "Пусто"
-msgstr "Vacio"
+msgstr "Vacío"
 
 # game/scripts/core/Reports/Reports.rpy:451
 msgid "Введите сообщение, указав где вы нашли опечатку или ошибку:"
@@ -82,7 +82,7 @@ msgstr "Versión original"
 
 # game/scripts/core/Reports/Reports.rpy:454
 msgid "Ваш вариант"
-msgstr "Tus opciones"
+msgstr "Tu versión"
 
 # game/scripts/core/Reports/Reports.rpy:454
 msgid "Различия"
@@ -132,5 +132,5 @@ msgstr "Demasiados informes"
 
 # game/scripts/core/Reports/Reports.rpy:627
 msgid "У вас нет репортов чтобы их отправить"
-msgstr "No tienes los reportes para enviar"
+msgstr "No tienes reportes que enviar"
 
