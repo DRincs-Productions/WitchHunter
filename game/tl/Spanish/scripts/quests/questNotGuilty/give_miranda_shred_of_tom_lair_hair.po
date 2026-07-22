@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-08-26 22:38\n"
+"PO-Revision-Date: 2026-07-22 14:05\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:4 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_e23f3887:
 msgid "[_miranda_] Ты достал образец волос твоего полицейского?"
@@ -62,7 +62,7 @@ msgstr "[_cedrick_] ¿Y qué quieres?"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:56 #-#-# translate crowdin gallery_d_013_488ab97d:
 msgid "[_miranda_] Я хочу, чтобы ты трахнул меня, Седрик…"
-msgstr "[_miranda_] Quiero que me folles, Cedric…"
+msgstr "[_miranda_] Quiero que me cojas, Cedric…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:58 #-#-# translate crowdin gallery_d_013_df1659e2:
 msgid "[_centered_] {size=37}Спустя несколько мгновений{/size} [withDissolve1]"
@@ -194,7 +194,7 @@ msgstr "[_gordon_] Por supuesto que debes explicar…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:160 #-#-# translate crowdin gallery_d_013_d9781c0c:
 msgid "[_gordon_] Детективы Медина и Мактиннен уже считают, что тебя похитил продавец из книжного магазина! Хахаха..."
-msgstr "[_gordon_] ¡Los detectives Medina y McTiennan, creen que fuiste secuestrado por un empleado de una librería! Jajaja..."
+msgstr "[_gordon_] ¡Los detectives Medina y Maktinen, creen que fuiste secuestrado por un empleado de una librería! Jajaja..."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:161 #-#-# translate crowdin gallery_d_013_dd54bdf8:
 msgid "[_cedrick_] Нет… Как оказалось, у него было алиби на время пропажи детей и он ни в чем не виновен…"
