@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:40\n"
+"PO-Revision-Date: 2026-07-22 21:19\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/meetReadings/meetReadings.rpy:11 #-#-# translate crowdin meetReadings_0222616b:
 msgid "[_cedrick_] ... Я открыл дверь и вышел на крыльцо. Там сидел незнакомый кот."
-msgstr "[_cedrick_] ... Abrí la puerta y salí al jardín. Un gato extraño estaba posado allí."
+msgstr "[_cedrick_] … Abrí la puerta y salí al jardín. Un gato extraño estaba posado allí."
 
 # game/scripts/quests/meetReadings/meetReadings.rpy:12 #-#-# translate crowdin meetReadings_979d7853:
 msgid "[_cedrick_] Громадная тварь, кошак, с черной блестящей шерстью и светящимися желтыми глазами. Меня он не боялся. Он подошел, урча, и потерся об одну из моих ног."
@@ -26,7 +26,7 @@ msgstr "[_cedrick_] Un buen chico, él lo sabía. Los animales entienden estas c
 
 # game/scripts/quests/meetReadings/meetReadings.rpy:14 #-#-# translate crowdin meetReadings_c72c661f:
 msgid "[_cedrick_] Я открыл ему банку белого тунца \"Стар-Кист\". Закатан в родниковой воде. Вес нетто 7 унций."
-msgstr "[_cedrick_] Le abrí una lata de atún blanco Star-Kist. Cubierto en agua de manantial. Peso neto 7 onzas."
+msgstr "[_cedrick_] Le abrí una lata de atún blanco Star-Kist. Envasado en agua de manantial. Peso neto: 7 onzas."
 
 # game/scripts/quests/meetReadings/meetReadings.rpy:15 #-#-# translate crowdin meetReadings_675d9581:
 msgid "[_guy_] Неплохая книга!"
@@ -34,13 +34,13 @@ msgstr "[_guy_] ¡No es un mal libro!"
 
 # game/scripts/quests/meetReadings/meetReadings.rpy:16 #-#-# translate crowdin meetReadings_f49ad2f8:
 msgid "[_girl_] А на мой взгляд довольно пошлая.."
-msgstr "[_girl_] En mi opinión es bastante vulgar.."
+msgstr "[_girl_] En mi opinión es bastante vulgar…"
 
 # game/scripts/quests/meetReadings/meetReadings.rpy:20 #-#-# translate crowdin meetReadings_ca8d2e5c:
 msgid "[_cedrick_] (Что ж, кажется устроить публичное чтение и в правду была отличной идеей..)"
-msgstr "[_cedrick_] (Bueno, parece que organizar una lectura pública fue realmente una gran idea...)"
+msgstr "[_cedrick_] (Bueno, parece que organizar una lectura pública fue realmente una gran idea…)"
 
 # game/scripts/quests/meetReadings/meetReadings.rpy:29 #-#-# translate crowdin no_meetReadings_03346fe8:
 msgid "[_cedrick_sprite_] Эти встречи лучше всего проводить днем"
-msgstr "[_cedrick_sprite_] Estas reuniones se realizan mejor durante el día"
+msgstr "[_cedrick_sprite_] Es mejor celebrar estas reuniones durante el día."
 
