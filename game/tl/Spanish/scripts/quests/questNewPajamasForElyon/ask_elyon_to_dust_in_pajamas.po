@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:00\n"
+"PO-Revision-Date: 2026-07-22 21:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_dust_in_pajamas.rpy:5 #-#-# translate crowdin ask_elyon_to_dust_in_pajamas_1f8fc468:
 msgid "[_cedrick_] Элион, настало время для рутинной работы в библиотеке"
@@ -22,7 +22,7 @@ msgstr "[_elion_] Estoy lista, Rick. ¿Qué hay que hacer?"
 
 # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_dust_in_pajamas.rpy:9 #-#-# translate crowdin ask_elyon_to_dust_in_pajamas_5cad637a:
 msgid "[_cedrick_] (Еще бы ты не была готова, я тебе за это плачу)"
-msgstr "[_cedrick_] (Si no estabas listo, te lo pago)"
+msgstr "[_cedrick_] (Cómo no ibas a estar lista, si te pago por esto.)"
 
 # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_dust_in_pajamas.rpy:10 #-#-# translate crowdin ask_elyon_to_dust_in_pajamas_ff235867:
 msgid "[_cedrick_] Нужно протереть пыль с верхних полок. Займешься этим?"
@@ -50,7 +50,7 @@ msgstr "[_cedrick_] (Está bien, no la molestaré una vez más mientras esté en
 
 # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_dust_in_pajamas.rpy:26 #-#-# translate crowdin ask_elyon_to_dust_in_pajamas_95f64253:
 msgid "[_cedrick_] (Было бы довольно глупо запороть задание Фобоса, из-за того, что его сестра свернет шею после шлепка по заднице)"
-msgstr "[_cedrick_] (Sería bastante tonto fandom la tarea de Fobos, debido al hecho de que su hermana girará el cuello después de la bofetada en el culo)"
+msgstr "[_cedrick_] (Sería bastante estúpido arruinar la misión de Fobos porque su hermana se rompiera el cuello después de una nalgada.)"
 
 # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_dust_in_pajamas.rpy:28 #-#-# translate crowdin ask_elyon_to_dust_in_pajamas_c1740e85:
 msgid "[_elion_] Рик, я закончила!"
@@ -114,7 +114,7 @@ msgstr "*Parche*"
 
 # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_dust_in_pajamas.rpy:54 #-#-# translate crowdin ask_elyon_to_dust_in_pajamas_a559eab5:
 msgid "[_elion_] Ах.."
-msgstr "[_elion_] Ah..."
+msgstr "[_elion_] Ah…"
 
 # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_dust_in_pajamas.rpy:56 #-#-# translate crowdin ask_elyon_to_dust_in_pajamas_7c6434a6:
 msgid "[_cedrick_] Отличная работа, Элион, что бы я без тебя делал. Вот, держи за это 10$"
@@ -126,7 +126,7 @@ msgstr "[_elion_] Gracias, Rick."
 
 # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_dust_in_pajamas.rpy:58 #-#-# translate crowdin ask_elyon_to_dust_in_pajamas_5d3237f9:
 msgid "[_elion_] (Моя попка горит…)"
-msgstr "[_elion_] (Mi culo quema...)"
+msgstr "[_elion_] (Mi culo quema…)"
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/questNewPajamasForElyon/ask_elyon_to_dust_in_pajamas.rpy:22
 msgid "Шлепнуть Элион?"
