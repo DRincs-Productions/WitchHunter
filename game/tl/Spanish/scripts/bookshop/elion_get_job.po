@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 13:59\n"
+"PO-Revision-Date: 2026-07-22 15:37\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/elion_get_job.rpy:3 #-#-# translate crowdin elion_get_job_1a809d14:
 msgid "Привет."
@@ -62,7 +62,7 @@ msgstr "[_cornelia_]! No podemos esperar mucho más, si no tenemos los libros en
 
 # game/scripts/bookshop/elion_get_job.rpy:72 #-#-# translate crowdin menu2_next_d9c92543:
 msgid "[_cornelia_] У нас и так много долгов накопилось, нас могут исключить.."
-msgstr "[_cornelia_] Ya hemos reprobado lo suficiente, nos podrían expulsar.."
+msgstr "[_cornelia_] Ya acumulamos demasiadas materias pendientes; podrían expulsarnos..."
 
 # game/scripts/bookshop/elion_get_job.rpy:77 #-#-# translate crowdin menu2_next_3bd5fba3:
 msgid "[_elion_] Я не могу так подвести родителей, им пришлось влезть в большие долги, чтобы я могла обучаться здесь."
