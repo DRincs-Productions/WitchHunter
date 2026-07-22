@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:07\n"
+"PO-Revision-Date: 2026-07-22 21:22\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:4 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_a236c3e0:
 msgid "[_cedrick_] (Что ж, для начала, нужна причина для того, чтобы регулярно появляться рядом с Вилл у нее дома. Уверен, Сьюзан будет не против моих постоянных визитов, но для постоянного присутствия наедине с Вилл нужна достойная причина..)"
@@ -30,11 +30,11 @@ msgstr "[_cedrick_] Mm, sí, Elyon, definitivamente te ayudaré a ser el momento
 
 # game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:17 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_babaf568:
 msgid "[_elion_] А-ам.. Я не совсем это имела ввиду, но.. это меня тоже вполне устроит"
-msgstr "[_elion_] A-Am... No quise decir eso, pero... También me conviene"
+msgstr "[_elion_] A-Am… No quise decir eso, pero… También me conviene"
 
 # game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:20 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_e95696ae:
 msgid "[_cedrick_] (Хах, а она уже вполне легко подыгрывает моим намекам, хоть и не готова пока к полноценному сексу. Ну ничего, доведем до этой стадии Вилл, а потом возьмемся как следует за Элион)"
-msgstr "[_cedrick_] (Hah, y ella ya es bastante fácil de jugar junto con mis pistas, aunque todavía no está lista para el sexo completo. Bueno, nada, vamos a llevar a esta etapa de la Voluntad, y luego tomamos lo siguiente para Elyon)"
+msgstr "[_cedrick_] (Ja, y ella ya es bastante fácil de jugar junto con mis pistas, aunque todavía no está lista para el sexo completo. Bueno, nada, vamos a llevar a esta etapa de la Voluntad, y luego tomamos lo siguiente para Elyon)"
 
 # game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:23 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_4efdef0a:
 msgid "[_elion_] Н-ну я пойду? В книжном еще надо полки протереть"
@@ -46,7 +46,7 @@ msgstr "[_cedrick_] Sí, por supuesto, gracias, Elyon"
 
 # game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:30 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_9b34a759:
 msgid "[_elion_] (Ох.. Я думала в этот раз он пойдет вместе со мной, чтобы, как обычно, уххх.. Ладно, видимо, в следующий раз)"
-msgstr "[_elion_] (Oh.. Pensé que esta vez iría conmigo a, como de costumbre, uh... Muy bien, aparentemente la próxima vez)"
+msgstr "[_elion_] (Oh… Pensé que esta vez iría conmigo a, como de costumbre, uh… Muy bien, aparentemente la próxima vez)"
 
 # game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:31 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_a20cefa7:
 msgid "..."
@@ -58,5 +58,5 @@ msgstr "[_cedrick_] (Así que, primero, tienes que escribir Will y Susan que los
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:44
 msgid "Вилл, привет..."
-msgstr "Will, oye..."
+msgstr "Will, oye…"
 
