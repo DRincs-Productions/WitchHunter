@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:21\n"
+"PO-Revision-Date: 2026-07-22 14:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Анатомия человека. Том 1"
@@ -78,7 +78,7 @@ msgstr "Historia. Libro de texto"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Синова И.В."
-msgstr "Sinova I.V."
+msgstr "Sinova Yo.V."
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Литература. Том 1"
@@ -86,7 +86,7 @@ msgstr "Literatura. Tomo 1"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Коровин И.В.V."
-msgstr "I.V. Korovin."
+msgstr "Yo.V. Korovin."
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Литература. Том 2"
