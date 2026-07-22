@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:05\n"
+"PO-Revision-Date: 2026-07-22 21:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:6 #-#-# translate crowdin conversation_with_miranda_ba12d053:
 msgid "[_miranda_] Седрик, ты здесь! Как все прошло?"
@@ -30,11 +30,11 @@ msgstr "[_miranda_] Oh, ¿y cómo lo sacaste?"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:13 #-#-# translate crowdin conversation_with_miranda_bb4b5e83:
 msgid "[_cedrick_] Правильно подбирал слова и долго прокручивал их в голове до нашей встречи"
-msgstr "[_cedrick_] Correctamente seleccionó palabras y durante mucho tiempo las desplazó en mi cabeza antes de nuestra reunión"
+msgstr "[_cedrick_] Elegí bien las palabras y les di muchas vueltas antes de nuestra reunión"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:17 #-#-# translate crowdin conversation_with_miranda_d5138cc6:
 msgid "[_miranda_] Хах, неплохо"
-msgstr "[_miranda_] Hah, no está mal"
+msgstr "[_miranda_] Ja, no está mal"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:18 #-#-# translate crowdin conversation_with_miranda_6f6f426a:
 msgid "[_cedrick_] Нет, это то, как я должен был строить свои доклады уже давно.. Может тогда и силы свои не потерял бы"
@@ -42,7 +42,7 @@ msgstr "[_cedrick_] No, así es como tuve que construir mis informes durante muc
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:19 #-#-# translate crowdin conversation_with_miranda_aebbbf04:
 msgid "[_cedrick_] В любом случае, я не сказал ему о стражницах. Булдж и ты должны держать это в секрете и проследить за тем, чтобы эта информация не всплыла"
-msgstr "[_cedrick_] De todos modos, no le conté sobre los guardianas. Bulj y usted deben mantenerlo en secreto y asegurarse de que esta información no salga a la superficie"
+msgstr "[_cedrick_] De todos modos, no le conté sobre las Guardianas. Bulj y usted deben mantenerlo en secreto y asegurarse de que esta información no salga a la superficie"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:23 #-#-# translate crowdin conversation_with_miranda_d1bace58:
 msgid "[_miranda_] Но почему?"
@@ -50,7 +50,7 @@ msgstr "[_miranda_] ¿Pero por qué?"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:24 #-#-# translate crowdin conversation_with_miranda_81155c25:
 msgid "[_cedrick_] Стражницы еще не готовы к тому, чтобы предстать перед Фобосом"
-msgstr "[_cedrick_] Los guardianas aún no están listos para comparecer ante Fobos"
+msgstr "[_cedrick_] Las Guardianas aún no están listos para comparecer ante Fobos"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:28 #-#-# translate crowdin conversation_with_miranda_a6f5408c:
 msgid "[_cedrick_] Дело даже не в том, что я не их не до конца подчинил"
@@ -66,11 +66,11 @@ msgstr "[_miranda_] Pero entonces, ¿qué quieres? ¿Por qué detenerlos en la m
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:37 #-#-# translate crowdin conversation_with_miranda_c13c4d48:
 msgid "[_cedrick_] Нет, Миранда. Это только начало. Подземелье - это подготовительный этап"
-msgstr "[_cedrick_] No hay colocador, Miranda. Esto es sólo el comienzo. La mazmorra es una etapa preparatoria"
+msgstr "[_cedrick_] No, Miranda. Esto es solo el comienzo. La mazmorra es una etapa preparatoria."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:38 #-#-# translate crowdin conversation_with_miranda_236903e8:
 msgid "[_cedrick_] Стражницы должны быть ни просто сломлены, а искренне быть на моей стороне. Ведь, как ни больно это признавать, но в битве с Фобосом стражницы мне необходимы"
-msgstr "[_cedrick_] Los guardianas no solo deben estar rotos, sino estar sinceramente de mi lado. Después de todo, no importa lo doloroso que sea admitirlo, pero en la batalla con Fobos, necesito un guardián"
+msgstr "[_cedrick_] Las Guardianas no solo deben estar rotos, sino estar sinceramente de mi lado. Después de todo, no importa lo doloroso que sea admitirlo, pero en la batalla con Fobos, necesito un guardián"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:42 #-#-# translate crowdin conversation_with_miranda_b744b827:
 msgid "[_miranda_] Ты что, хочешь использовать их в бою? Думаешь они будут сражаться за тебя?!"
@@ -82,11 +82,11 @@ msgstr "[_miranda_] Una cosa es subyugar y es diferente hacerte pelear. Puedes h
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:45 #-#-# translate crowdin conversation_with_miranda_4a01d410:
 msgid "[_miranda_] А стражницы, которые не хотят сражаться, бесполезны в бою. Особенно если сделать из них секс-рабынь"
-msgstr "[_miranda_] Los guardianas que no quieren luchar son inútiles en la batalla. Especialmente si los haces esclavos sexuales"
+msgstr "[_miranda_] Las Guardianas que no quieren luchar son inútiles en la batalla. Especialmente si los haces esclavos sexuales"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:47 #-#-# translate crowdin conversation_with_miranda_9cb1a99d:
 msgid "[_miranda_] Да войско Фобоса их просто разорвет! Не важно, насколько сильны их способности, если сердца и дух будут ослаблены"
-msgstr "[_miranda_] ¡Y el ejército de Fobos simplemente los desgarrará! No importa cuán fuertes sean sus habilidades si los corazones y el espíritu se debilitan"
+msgstr "[_miranda_] ¡El ejército de Fobos las hará pedazos! Por muy poderosas que sean sus habilidades, de nada servirán si su corazón y su espíritu se debilitan."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:48 #-#-# translate crowdin conversation_with_miranda_378f2ea2:
 msgid "[_cedrick_] Ты полностью права, Миранда"
@@ -106,7 +106,7 @@ msgstr "[_miranda_] ¿Y cómo vas a llevar a cabo un esquema tan complejo? ¿Dad
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:58 #-#-# translate crowdin conversation_with_miranda_670bdc3f:
 msgid "[_cedrick_] В этом вся основная сложность, Миранда… Я не знаю, как это сделать. Пока что.."
-msgstr "[_cedrick_] Este es el principal problema, Miranda... No sé cómo hacerlo. Mientras tanto,..."
+msgstr "[_cedrick_] Este es el principal problema, Miranda… No sé cómo hacerlo. Mientras tanto,…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:62 #-#-# translate crowdin conversation_with_miranda_030a3328:
 msgid "[_miranda_] Блестяще.."
@@ -118,11 +118,11 @@ msgstr "[_cedrick_] Pero sin duda lo averiguaré. Antes de eso, solo hice lo que
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:67 #-#-# translate crowdin conversation_with_miranda_af6f01aa:
 msgid "[_cedrick_] Но теперь все изменилось. И от сломанных стражниц мне нет никакого толку.. А значит, я должен поменять свой подход к ним"
-msgstr "[_cedrick_] Pero ahora todo ha cambiado. Y no necesito matar a los guardianas. Así que tengo que cambiar mi enfoque hacia ellos"
+msgstr "[_cedrick_] Pero ahora todo ha cambiado. Y no necesito matar a las Guardianas. Así que tengo que cambiar mi enfoque hacia ellos"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:71 #-#-# translate crowdin conversation_with_miranda_0d0cf5ed:
 msgid "[_miranda_] Седрик.. Они скоро будут здесь, заточенные в подземелье.. как ты собираешься менять свой подход на этом этапе?"
-msgstr "[_miranda_] Cedric... Pronto estarán aquí, afilados en la mazmorra. ¿Cómo va a cambiar su enfoque en esta etapa?"
+msgstr "[_miranda_] Cedric… Pronto estarán aquí, afilados en la mazmorra. ¿Cómo va a cambiar su enfoque en esta etapa?"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:75 #-#-# translate crowdin conversation_with_miranda_a85e5df1:
 msgid "[_cedrick_] На этот случай я как раз все уже продумал. Заточу их в подземелье, чтобы потом освободить. Но перед этим я должен с ними как следует поработать"
@@ -130,15 +130,15 @@ msgstr "[_cedrick_] En este caso, ya he pensado en todo. Los pondré en la mazmo
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:76 #-#-# translate crowdin conversation_with_miranda_a2fd6e4f:
 msgid "[_cedrick_] Убедить их в том, что это конец стражниц завесы, что они останутся здесь до конца жизни, что все их будущее, все их цели больше никогда не осуществятся.."
-msgstr "[_cedrick_] Convéncelos de que este es el final de los guardianas del velo, que se quedarán aquí por el resto de sus vidas, que todo su futuro, todas sus metas nunca se harán realidad de nuevo."
+msgstr "[_cedrick_] Convéncelos de que este es el final de las Guardianas del velo, que se quedarán aquí por el resto de sus vidas, que todo su futuro, todas sus metas nunca se harán realidad de nuevo."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:80 #-#-# translate crowdin conversation_with_miranda_b5c533e2:
 msgid "[_miranda_] ..Чтобы потом дать им новую цель?"
-msgstr "[_miranda_] ..Para darles un nuevo objetivo?"
+msgstr "[_miranda_] …Para darles un nuevo objetivo?"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:84 #-#-# translate crowdin conversation_with_miranda_2f9957f7:
 msgid "[_cedrick_] Все верно.. Так я заложу новое начало нашего сотрудничества, наши отношения начнут выстраиваться заново"
-msgstr "[_cedrick_] está bien. Así que estableceré un nuevo comienzo de nuestra cooperación, nuestras relaciones comenzarán a restablecer"
+msgstr "[_cedrick_] Así es… De esta forma sentaré las bases de una nueva etapa en nuestra cooperación y reconstruiremos nuestra relación."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:85 #-#-# translate crowdin conversation_with_miranda_f180151f:
 msgid "[_cedrick_] Они должны будут полностью поверить в то, что заточены здесь навсегда, что я выполняю приказ Фобоса.. и что в конце я передумал"
@@ -162,7 +162,7 @@ msgstr "[_miranda_] Suena como un plan muy arriesgado"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:102 #-#-# translate crowdin conversation_with_miranda_5ce721cc:
 msgid "[_cedrick_] Да, но других вариантов у меня нет. Все мои прошлые ошибки, каждый резкий выпад и необдуманное действие в сторону стражниц привели к этому"
-msgstr "[_cedrick_] Sí, pero no tengo otras opciones. Todos mis errores pasados, cada ataque agudo y la acción precipitada hacia los guardianas llevaron a esto"
+msgstr "[_cedrick_] Sí, pero no tengo otras opciones. Todos mis errores pasados, cada ataque agudo y la acción precipitada hacia las Guardianas llevaron a esto"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:103 #-#-# translate crowdin conversation_with_miranda_222e5814:
 msgid "[_cedrick_] Я сам загнал себя в ловушку и теперь я обязан с этим разобраться. Иначе Фобоса мне не одолеть"
@@ -170,11 +170,11 @@ msgstr "[_cedrick_] Me he atrapado y ahora tengo que lidiar con ello. De lo cont
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:107 #-#-# translate crowdin conversation_with_miranda_d7f64044:
 msgid "[_miranda_] Хах, тебе придется напрячь все свои извилины и вспомнить все свои приемы, используемые в дворцовых интригах, чтобы провернуть подобное"
-msgstr "[_miranda_] Hach, tendrás que forzar todo tu giro y recordar todas tus técnicas utilizadas en las intrigas del palacio para convertir esto"
+msgstr "[_miranda_] Ja, tendrás que forzar todo tu giro y recordar todas tus técnicas utilizadas en las intrigas del palacio para convertir esto"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:108 #-#-# translate crowdin conversation_with_miranda_876fb419:
 msgid "[_cedrick_] Хах, это верно. К счастью, я не один. У меня есть ты. И даже есть часть стражи, выступающая на моей стороне. Неплохое начало"
-msgstr "[_cedrick_] Hah, es cierto. Por suerte, no estoy solo. Yo te tengo. Y incluso hay un pedazo de guardias que está de mi lado. Un buen comienzo"
+msgstr "[_cedrick_] Ja, es cierto. Por suerte, no estoy solo. Yo te tengo. Y incluso hay un pedazo de guardias que está de mi lado. Un buen comienzo"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:112 #-#-# translate crowdin conversation_with_miranda_b9acd1e1:
 msgid "[_miranda_] Ох, Седрик, ты и вправду изменился.."
@@ -182,7 +182,7 @@ msgstr "[_miranda_] Oh, Cedric, realmente has cambiado."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:116 #-#-# translate crowdin conversation_with_miranda_968e38db:
 msgid "[_cedrick_] Хм, кстати об этом. Я знаю как поменять Хай Лин своей способностью. Но вот Тарани.. К ней мне не подобраться, я не знаю, на какой ее слабости сыграть"
-msgstr "[_cedrick_] Hmm, por cierto. Sé cómo cambiar Hay Lin con mi habilidad. Pero aquí está Taranee... No puedo acercarme a ella, no sé cuánta debilidad tiene para jugar"
+msgstr "[_cedrick_] Hmm, por cierto. Sé cómo cambiar Hay Lin con mi habilidad. Pero aquí está Taranee… No puedo acercarme a ella, no sé cuánta debilidad tiene para jugar"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:117 #-#-# translate crowdin conversation_with_miranda_5004b503:
 msgid "[_cedrick_] Вилл я развратил с помощью зелья, теперь ее голова заполнена мыслями о моем члене"
@@ -202,11 +202,11 @@ msgstr "[_cedrick_] Tal vez resultó el resultado más estable. Incluso Will com
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:127 #-#-# translate crowdin conversation_with_miranda_c60a15d6:
 msgid "[_miranda_] Хм.."
-msgstr "[_miranda_] Hmm.."
+msgstr "[_miranda_] Hmm…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:128 #-#-# translate crowdin conversation_with_miranda_f6c3bcdd:
 msgid "[_cedrick_] К Хай Лин я подберусь через ее семью. Ее мать и бабушка у меня в кармане. Но вот Тарани…"
-msgstr "[_cedrick_] K Hay Lin voy a pasar por su familia. Su madre y su abuela están en mi bolsillo. Pero aquí está el Taranee..."
+msgstr "[_cedrick_] A Hay Lin llegaré a través de su familia. Su madre y su abuela están en mi bolsillo. Pero Taranee…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:132 #-#-# translate crowdin conversation_with_miranda_39de6b12:
 msgid "[_miranda_] По идее ее можно приструнить, также используя твою способность в изменении сознания"
@@ -222,27 +222,27 @@ msgstr "[_miranda_] No hablo de Taranee. Es sobre Will. No hay nada que puedas h
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:143 #-#-# translate crowdin conversation_with_miranda_dc6a0ea9:
 msgid "[_miranda_] Но вот Вилл и ее вздорный характер. Ты же не использовал на ней силу Короля Морпионов. Ее развращенность - это результат эссенции королевы Морпионов"
-msgstr "[_miranda_] Pero aquí está Will y sus tonterías. No usaste el poder del rey del Morpiones. Su depravación es el resultado de la esencia de la reina de morpy"
+msgstr "[_miranda_] Pero está Will y su carácter rebelde. No usaste en ella el poder del Rey de los Morpiones. Su depravación es resultado de la esencia de la Reina de los Morpiones."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:144 #-#-# translate crowdin conversation_with_miranda_49316299:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:145 #-#-# translate crowdin conversation_with_miranda_07fdbb30:
 msgid "[_miranda_] По идее ее сознание будет куда более податливым. Не только потому что она тебя хочет, но и потому что вы синергичны. В ней часть Королевы Морпионов, а в тебе Короля"
-msgstr "[_miranda_] De acuerdo con la idea de su conciencia será mucho más maleable. No solo porque te quiere, sino también porque eres sinérgico. Tiene una parte de la reina de Morpiones, y en ella tienes un rey"
+msgstr "[_miranda_] En teoría, su mente será mucho más maleable. No solo porque te desea, sino porque existe una sinergia entre ustedes: ella lleva una parte de la Reina de los Morpiones y tú, una parte del Rey."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:149 #-#-# translate crowdin conversation_with_miranda_49316299_1:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:153 #-#-# translate crowdin conversation_with_miranda_c2e078db:
 msgid "[_miranda_] Если так подумать, то похожая ситуация может быть и с…"
-msgstr "[_miranda_] Si piensas que sí, entonces una situación similar puede ser con..."
+msgstr "[_miranda_] Si piensas que sí, entonces una situación similar puede ser con…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:157 #-#-# translate crowdin conversation_with_miranda_853bb6d0:
 msgid "[_cedrick_] Алхими.."
-msgstr "[_cedrick_] Alchemy.."
+msgstr "[_cedrick_] Alchemy…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:161 #-#-# translate crowdin conversation_with_miranda_42ea8ea1:
 msgid "[_miranda_] Да, именно. Часть Королевы Морпионов в ней остается, но если ее не стимулировать спермой Короля, тогда она быстро переходит в спящее состояние"
@@ -258,39 +258,39 @@ msgstr "[_miranda_] Te acostaste exactamente con ella mientras estaba en la Tier
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:167 #-#-# translate crowdin conversation_with_miranda_40bc1df7:
 msgid "[_cedrick_] Я не кончал в нее.."
-msgstr "[_cedrick_] No me corrí dentro de ella..."
+msgstr "[_cedrick_] No me corrí dentro de ella…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:168 #-#-# translate crowdin conversation_with_miranda_b68deb08:
 msgid "[_cedrick_] Вилл мне не позволила. Она буквально перехватила мой член, когда я должен был кончить в Алхими.."
-msgstr "[_cedrick_] Will no me dejaría. Literalmente interceptó mi pene cuando se suponía que debía correrme en la Alchemy."
+msgstr "[_cedrick_] Will no me lo permitió. Me agarró la verga justo cuando iba a correrme dentro de Alchemy…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:172 #-#-# translate crowdin conversation_with_miranda_f2ccbdd5:
 msgid "[_miranda_] Оу.. Эта рыжая стерва явно переходит границу"
-msgstr "[_miranda_] Ou... Este trozo de pelo rojo cruza claramente la frontera"
+msgstr "[_miranda_] Ou… Este trozo de pelo rojo cruza claramente la frontera"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:176 #-#-# translate crowdin conversation_with_miranda_49316299_2:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:180 #-#-# translate crowdin conversation_with_miranda_42758733:
 msgid "[_miranda_] Так или иначе, да, один раз ты можешь поработать с ее сознанием. И с сознанием Алхими тоже"
-msgstr "[_miranda_] De una forma u otra, sí, una vez que puedes trabajar con su conciencia. Y con la conciencia de Alchemy también"
+msgstr "[_miranda_] En cualquier caso, sí: puedes trabajar una vez con su mente. Y también con la de Alchemy."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:184 #-#-# translate crowdin conversation_with_miranda_87cc3834:
 msgid "[_cedrick_] Хм…"
-msgstr "[_cedrick_] Hmm..."
+msgstr "[_cedrick_] Hmm…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:185 #-#-# translate crowdin conversation_with_miranda_20da9447:
 msgid "[_cedrick_] Буду иметь ввиду. А что насчет Тарани? Нет ни каких идей? Может какое-то зелье может.."
-msgstr "[_cedrick_] Lo tendré en cuenta. ¿Qué hay de Taranee? ¿Ni idea? Tal vez algún tipo de poción puede..."
+msgstr "[_cedrick_] Lo tendré en cuenta. ¿Qué hay de Taranee? ¿Ni idea? Tal vez algún tipo de poción puede…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:189 #-#-# translate crowdin conversation_with_miranda_8c83d4be:
 msgid "[_miranda_] Мои зелья не всесильны, Седрик! Сколько можно повторять.."
-msgstr "[_miranda_] ¡Mis pociones no son omnipotentes, Cedric! Cuánto se puede repetir..."
+msgstr "[_miranda_] ¡Mis pociones no son omnipotentes, Cedric! Cuánto se puede repetir…"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:193 #-#-# translate crowdin conversation_with_miranda_49316299_3:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:194 #-#-# translate crowdin conversation_with_miranda_ca9dad08:
 msgid "[_cedrick_] Черт.. Именно из-за нее весь мой план может накрыться. Не сломив ее волю, я не смогу выстроить наши отношения по-новой"
@@ -310,7 +310,7 @@ msgstr "[_bulj_] Comandante en jefe Cedric. Las chicas están aquí. Te están e
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:213 #-#-# translate crowdin conversation_with_miranda_43aa5fcd:
 msgid "[_cedrick_] Хорошая работа, Булдж. Рад, что на тебя можно рассчитывать"
-msgstr "[_cedrick_] es un buen trabajo, Bulj. Me alegro de que puedas contar con"
+msgstr "[_cedrick_] Buen trabajo, Bulj. Me alegra saber que puedo contar contigo."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:218 #-#-# translate crowdin conversation_with_miranda_5f5bfd98:
 msgid "[_bulj_] Спасибо, сэр!"
@@ -322,7 +322,7 @@ msgstr "[_miranda_] Lo siento, Cedric, pero no tengo que ayudar. Al menos para n
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:228 #-#-# translate crowdin conversation_with_miranda_49316299_4:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:232 #-#-# translate crowdin conversation_with_miranda_550f26d0:
 msgid "[_miranda_] Ты ведь придумаешь, что с ней делать?"
@@ -330,7 +330,7 @@ msgstr "[_miranda_] Pensarás que pensarás en qué hacer con eso, ¿verdad?"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:233 #-#-# translate crowdin conversation_with_miranda_045eff6a:
 msgid "[_cedrick_] Да, конечно"
-msgstr "[_cedrick_] Sí sí, por supuesto"
+msgstr "[_cedrick_] Sí, por supuesto."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:234 #-#-# translate crowdin conversation_with_miranda_fa15e692:
 msgid "[_cedrick_] (Как будто у меня есть выбор..)"
@@ -338,7 +338,7 @@ msgstr "[_cedrick_] (Como si tuviera una opción.)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:235 #-#-# translate crowdin conversation_with_miranda_2ec47c39:
 msgid "[_cedrick_] Что ж. А пока начнем представление для стражниц"
-msgstr "[_cedrick_] Mientras tanto, vamos a empezar el rendimiento para los guardianas"
+msgstr "[_cedrick_] Mientras tanto, vamos a empezar el rendimiento para las Guardianas"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:241 #-#-# translate crowdin conversation_with_miranda_fd1aba8f:
 msgid "[_bulj_] Но ведь их пока четверо, сэр"
@@ -346,7 +346,7 @@ msgstr "[_bulj_] Pero hay cuatro de ellos, señor"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:245 #-#-# translate crowdin conversation_with_miranda_6ea6f107:
 msgid "[_cedrick_] Хай Лин присоединится к нам позже. Как раз эта часть идет согласно моему плану"
-msgstr "[_cedrick_] Hei Lin se unirá a nosotros más tarde. Esta parte viene según mi plan"
+msgstr "[_cedrick_] Hay Lin se unirá a nosotros más tarde. Esta parte sí va según mi plan"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:249 #-#-# translate crowdin conversation_with_miranda_c51de8ac:
 msgid "[_bulj_] Хм. Интересно будет взглянуть на итог вашего плана, Лорд Седрик"
@@ -354,7 +354,7 @@ msgstr "[_bulj_] Hmm. Será interesante mirar el resultado de su plan, señor Ce
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:253 #-#-# translate crowdin conversation_with_miranda_dfd50f62:
 msgid "[_cedrick_] Хах. Самое приятное это не итог, Булдж, а сам процесс. Хоть он и всегда идет немного не по плану"
-msgstr "[_cedrick_] H. H. Lo más agradable no es el resultado, Bulj, sino el proceso en sí. Aunque siempre va un poco de un plan"
+msgstr "[_cedrick_] Ja. Lo mejor no es el resultado, Bulj, sino el proceso. Aunque siempre se desvíe un poco del plan."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:257 #-#-# translate crowdin conversation_with_miranda_56a537f4:
 msgid "[_bulj_] Думаю если бы все всегда шло согласно плану, в какой-то момент это наскучило вам"
@@ -362,11 +362,11 @@ msgstr "[_bulj_] Piense si todo siempre salió según lo planeado, en algún mom
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:261 #-#-# translate crowdin conversation_with_miranda_e1d8dd40:
 msgid "[_cedrick_] Хм.. Каждый раз забываю что ты умнее, чем выглядишь, Булдж"
-msgstr "[_cedrick_] Hmm.. Cada vez que olvido que eres más inteligente de lo que pareces, Bulj"
+msgstr "[_cedrick_] Hmm… Cada vez que olvido que eres más inteligente de lo que pareces, Bulj"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:262 #-#-# translate crowdin conversation_with_miranda_1f6be6e5:
 msgid "[_bulj_] ..."
-msgstr "[_bulj_] ..."
+msgstr "[_bulj_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_miranda.rpy:263 #-#-# translate crowdin conversation_with_miranda_71cfba3e:
 msgid "[_cedrick_] Это похвала, Булдж, расслабься"
