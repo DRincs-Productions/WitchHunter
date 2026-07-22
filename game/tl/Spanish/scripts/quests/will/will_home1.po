@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:18\n"
+"PO-Revision-Date: 2026-07-22 15:41\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_home1.rpy:8 #-#-# translate crowdin will_home1_ece55c08:
 msgid "[_susan_] Рик! Пришел помочь Вилл?"
@@ -42,7 +42,7 @@ msgstr "[_cedrick_sprite_] Te gustan mucho las ranas, ¿verdad?"
 
 # game/scripts/quests/will/will_home1.rpy:34 #-#-# translate crowdin will_home1_eea3693a:
 msgid "[_will_] Я собираю их уже больше 8 лет, большинство из них мне подарила бабушка а потом это превратилось во что-то вроде хобби"
-msgstr "[_will_] Hace más de ocho años que las colecciono, la mayoría me las regaló mi abuela y luego se convirtió en una especie de Hobby"
+msgstr "[_will_] Las colecciono desde hace más de ocho años. Mi abuela me regaló la mayoría y después se convirtió en una especie de pasatiempo."
 
 # game/scripts/quests/will/will_home1.rpy:35 #-#-# translate crowdin will_home1_16a13b6f:
 msgid "[_cedrick_sprite_] Хорошо когда у тебя есть увлечение"
