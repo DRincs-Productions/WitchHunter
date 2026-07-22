@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-14 21:21\n"
+"PO-Revision-Date: 2026-07-22 14:04\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:7 #-#-# translate crowdin gallery_d_023_f58b35e9:
 msgid "[_bess_] Мистер Хоффман... Наконец, вы решили нас навестить?"
@@ -30,7 +30,7 @@ msgstr "[_cedrick_] ¿De qué estás hablando?"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:23 #-#-# translate crowdin gallery_d_023_2d123c29:
 msgid "[_bess_] Вы обещали нам фотографии... Те самые публикации, которых так боится Ирма Леир.."
-msgstr "[_bess_] Nos prometisteis fotografías... Precisamente esas publicaciones a las que Irma Leir tanto teme."
+msgstr "[_bess_] Nos prometisteis fotografías... Precisamente esas publicaciones a las que Irma Lair tanto teme."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:27 #-#-# translate crowdin gallery_d_023_9c68d52c:
 msgid "[_cedrick_] Не помню, чтобы обещал вам такое..."
@@ -174,7 +174,7 @@ msgstr "[_bess_] ¡Cuánto esperma, señor Hoffman!"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:83 #-#-# translate crowdin gallery_d_023_d78fbae3:
 msgid "[_bess_] Подождите, пока я не очищу ваш член... вы ведь не можете пойти так на урок.."
-msgstr "[_bess_] Espera a que te limpie la polla, no puedes ir a clase así."
+msgstr "[_bess_] Espera a que te limpie la verga, no puedes ir a clase así."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:85 #-#-# translate crowdin gallery_d_023_37f5c3ed:
 msgid "[_centered_] {size=36}Через пару минут..{/size}"
@@ -214,11 +214,11 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:110 #-#-# translate crowdin gallery_d_023_72d42bed:
 msgid "[_cedrick_] (Вот дерьмо, и они собирались это напечатать!? Черт, тут столько газет.. Ладно Ирма, но мне, как куратору газеты, тоже влетит, если это хоть кто-то увидит)"
-msgstr "[_cedrick_] (¡Mierda! ¿Y pensaban imprimir esto? ¡Caramba, hay tantos periódicos aquí!... Vale, Irma, pero como responsable del periódico, yo también me meteré en problemas si alguien ve esto)"
+msgstr "[_cedrick_] (¡Mierda! ¿Y pensaban imprimir esto? ¡Caramba, hay tantos periódicos aquí!... Bien, Irma, pero como responsable del periódico, yo también me meteré en problemas si alguien ve esto)"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:111 #-#-# translate crowdin gallery_d_023_56f6aeb3:
 msgid "[_cedrick_] (Окей, избавиться от газет не такая уж проблема. Смою их в школьный сортир, все равно он постоянно чем-то забит)"
-msgstr "[_cedrick_] (Vale, deshacerme de los periódicos no es para tanto. Los tiraré por el inodoro del colegio; siempre está atascado)"
+msgstr "[_cedrick_] (Bien, deshacerme de los periódicos no es para tanto. Los tiraré por el inodoro del colegio; siempre está atascado)"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:112 #-#-# translate crowdin gallery_d_023_bd8820ff:
 msgid "[_cedrick_] (Но что мне делать с этими девчонками Гампер.. Хм, в принципе, я могу это использовать. Более того, думаю, на Ирму подобная новость тоже может плодотворно повлиять)"
@@ -226,7 +226,7 @@ msgstr "[_cedrick_] (Pero ¿qué se supone que debo hacer con estas chicas Gampe
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:115 #-#-# translate crowdin gallery_d_023_eeb1f8c2:
 msgid "[_cedrick_] (Ладно, я уже достаточно задержался, еще немного и могу опоздать на вечер чтений в книжном)"
-msgstr "[_cedrick_] (Vale, ya he llegado bastante tarde, si llego más tarde podría llegar tarde a la velada de lectura en la librería)"
+msgstr "[_cedrick_] (Bien, ya he llegado bastante tarde, si llego más tarde podría llegar tarde a la velada de lectura en la librería)"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:117 #-#-# translate crowdin gallery_d_023_65cd7d1f:
 msgid "[_centered_] {size=36}Седрик смывает в школьный унитаз все экземпляры школьной газеты, кроме одного и отправляется в книжный магазин на вечер чтений{/size}"
@@ -390,7 +390,7 @@ msgstr "[_cedrick_] Como saben, por muy sobresalientes que sean los escritores q
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:255 #-#-# translate crowdin gallery_d_024_591c9b56:
 msgid "[_irma_] Ирма Леир оказалась... ЧТО!?"
-msgstr "[_irma_]  Irma Leir resultó ser... ¡¿QUÉ?!"
+msgstr "[_irma_]  Irma Lair resultó ser... ¡¿QUÉ?!"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:256 #-#-# translate crowdin gallery_d_024_adeb93eb:
 msgid "[_cedrick_] Тише-тише, здесь вокруг полно народу"
@@ -538,7 +538,7 @@ msgstr "[_irma_] ¿¿¡¡Qué estás haciendo!!??"
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:337 #-#-# translate crowdin gallery_d_024_18dd1e46:
 msgid "[_cedrick_] Собираюсь трахнут тебя.."
-msgstr "[_cedrick_] Voy a follarte."
+msgstr "[_cedrick_] Voy a cogerte."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:338 #-#-# translate crowdin gallery_d_024_ae1d9ebb:
 msgid "[_irma_] Неет .. я не.."
@@ -546,7 +546,7 @@ msgstr "[_irma_] No, yo no..."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:339 #-#-# translate crowdin gallery_d_024_89f6013e:
 msgid "[_cedrick_] А теперь умоляй меня засунуть мой член в твою киску.."
-msgstr "[_cedrick_] Ahora suplícame que meta mi polla en tu coño."
+msgstr "[_cedrick_] Ahora suplícame que meta mi verga en tu coño."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:340 #-#-# translate crowdin gallery_d_024_c2f5aecb:
 msgid "[_irma_] Нет. Я не буду..."
@@ -562,7 +562,7 @@ msgstr "[_irma_] Yo..."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:344 #-#-# translate crowdin gallery_d_024_9ed901b6:
 msgid "[_irma_] Пожалуйста... вставь свой... член... в мою... киску..."
-msgstr "[_irma_] Por favor... mete tu... polla... en mi... coño."
+msgstr "[_irma_] Por favor... mete tu... verga... en mi... coño."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:345 #-#-# translate crowdin gallery_d_024_e53f3815:
 msgid "[_cedrick_] Ну раз ты так просишь..."
