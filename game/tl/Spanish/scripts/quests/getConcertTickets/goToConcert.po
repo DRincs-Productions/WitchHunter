@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 10:53\n"
+"PO-Revision-Date: 2026-07-22 14:03\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/getConcertTickets/goToConcert.rpy:5 #-#-# translate crowdin goToConcert_a20cefa7:
 msgid "..."
@@ -66,7 +66,7 @@ msgstr "Wowooo..."
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:44 #-#-# translate crowdin goToConcert_8a041f87:
 msgid "мояяяя обороооонааааааа"
-msgstr "mi defensaaaaaaaaaaaaa"
+msgstr "mi defensaaaaaaaa"
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:45 #-#-# translate crowdin goToConcert_a20cefa7_3:
 msgid "..."
@@ -134,7 +134,7 @@ msgstr "[_cedrick_] Hacía mucho tiempo que no iba a un concierto... Es tan vigo
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:76 #-#-# translate crowdin goToConcert_8f74cc0e:
 msgid "[_cedrick_] (Последнего барда на Меридиане, который пытался дать концерт крестьянам, Фобос приказал закидать камнями, снять с него живьем кожу и повесить... Были времена...)"
-msgstr "[_cedrick_] (El último bardo de Meridian, que intentó dar un concierto a los campesinos, recibió la orden de Phobos de ser apedreado, desollado vivo y ahorcado... Qué tiempos aquellos...)"
+msgstr "[_cedrick_] (El último bardo de Meridian, que intentó dar un concierto a los campesinos, recibió la orden de Fobos de ser apedreado, desollado vivo y ahorcado... Qué tiempos aquellos...)"
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:80 #-#-# translate crowdin gallery_d_012_51df324c:
 msgid "[_cornelia_] Очень жаль, что Элион не смогла пойти на концерт с нами..."
@@ -162,7 +162,7 @@ msgstr "[_cornelia_] Bueno... No estoy segura..."
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:86 #-#-# translate crowdin gallery_d_012_87a25691:
 msgid "[_cedrick_] Ну, если ты ни разу не пила алкоголь, то это совсем и не обязательно..."
-msgstr "[_cedrick_] Bueno, si nunca has bebido..."
+msgstr "[_cedrick_] Bueno, si nunca has bebido alcohol, tampoco tienes por qué hacerlo..."
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:89 #-#-# translate crowdin gallery_d_012_88f11067:
 msgid "[_cornelia_] Я пробовала алкоголь!"
