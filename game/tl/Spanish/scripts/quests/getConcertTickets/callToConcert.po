@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:33\n"
+"PO-Revision-Date: 2026-07-22 21:17\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/callToConcert.rpy:11 #-#-# translate crowdin callToConcert_6fef85ba:
 msgid "[_cornelia_] Элион, пойдем в школу вместе?"
@@ -46,7 +46,7 @@ msgstr "[_cornelia_] ¿¡Sortie Union!? ¡Esa es mi banda favorita! ¡Me encanta
 
 # game/scripts/quests/getConcertTickets/callToConcert.rpy:35 #-#-# translate crowdin callToConcert_cfa04bce:
 msgid "[_elion_] Ну... Я даже не знаю... Меня, скорее всего, не отпустят родители..."
-msgstr "[_elion_] Bueno... No sé... Mis padres probablemente no me dejen ir..."
+msgstr "[_elion_] Bueno… No sé… Mis padres probablemente no me dejen ir…"
 
 # game/scripts/quests/getConcertTickets/callToConcert.rpy:39 #-#-# translate crowdin callToConcert_ae4d7f34:
 msgid "[_cornelia_] Очень жаль…"
@@ -58,7 +58,7 @@ msgstr "[_cedrick_] Bueno, en ese caso podemos ir juntos."
 
 # game/scripts/quests/getConcertTickets/callToConcert.rpy:44 #-#-# translate crowdin callToConcert_9b7c0f4d:
 msgid "[_cornelia_] Вполне возможно..."
-msgstr "[_cornelia_] Posiblemente..."
+msgstr "[_cornelia_] Posiblemente…"
 
 # game/scripts/quests/getConcertTickets/callToConcert.rpy:45 #-#-# translate crowdin callToConcert_f32d492b:
 msgid "[_cedrick_] Что ж, тогда вечером я зайду за тобой?"
@@ -66,7 +66,7 @@ msgstr "[_cedrick_] Bueno, ¿voy a buscarte esta noche entonces?"
 
 # game/scripts/quests/getConcertTickets/callToConcert.rpy:49 #-#-# translate crowdin callToConcert_8dc94a1b:
 msgid "[_cornelia_] Хорошо... Договорились!"
-msgstr "[_cornelia_] De acuerdo... ¡Trato!"
+msgstr "[_cornelia_] De acuerdo… ¡Trato!"
 
 # game/scripts/quests/getConcertTickets/callToConcert.rpy:52 #-#-# translate crowdin callToConcert_bafea864:
 msgid "[_elion_] Ладно, нам уже пора, а то опоздаем…"
