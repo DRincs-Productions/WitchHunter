@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 15:40\n"
+"PO-Revision-Date: 2026-07-22 21:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNewPajamasForElyon/dialogue_about_pajams_for_elyon.rpy:4 #-#-# translate crowdin dialogue_about_pajams_for_elyon_420c9d30:
 msgid "[_cedrick_] Элион, подойдешь на минутку?"
@@ -26,7 +26,7 @@ msgstr "[_cedrick_] Llevas un tiempo viviendo conmigo. ¿Cómo te gusta todo, te
 
 # game/scripts/quests/questNewPajamasForElyon/dialogue_about_pajams_for_elyon.rpy:14 #-#-# translate crowdin dialogue_about_pajams_for_elyon_3037c7c5:
 msgid "[_elion_] Да, в целом все хорошо.. Только вот.."
-msgstr "[_elion_] Sí, en general todo es bueno.. Sólo aquí."
+msgstr "[_elion_] Sí, en general todo es bueno… Sólo aquí."
 
 # game/scripts/quests/questNewPajamasForElyon/dialogue_about_pajams_for_elyon.rpy:15 #-#-# translate crowdin dialogue_about_pajams_for_elyon_1fc079b7:
 msgid "[_cedrick_] Хм, что такое?"
@@ -38,11 +38,11 @@ msgstr "[_elion_] Bueno, ya sabes. No es una casa llena, sino solo una habitaci�
 
 # game/scripts/quests/questNewPajamasForElyon/dialogue_about_pajams_for_elyon.rpy:21 #-#-# translate crowdin dialogue_about_pajams_for_elyon_ec1b9f3b:
 msgid "[_elion_] Н-не подумай, я не жалуюсь, просто.. Иногда сложно чувствовать себя в ней, как дома.. Порой в ней немного неуютно.."
-msgstr "[_elion_] No lo pienses, no me quejo, sólo... A veces es difícil sentirse como en casa. A veces es un poco incómodo."
+msgstr "[_elion_] No lo pienses, no me quejo, sólo… A veces es difícil sentirse como en casa. A veces es un poco incómodo."
 
 # game/scripts/quests/questNewPajamasForElyon/dialogue_about_pajams_for_elyon.rpy:24 #-#-# translate crowdin dialogue_about_pajams_for_elyon_392e85de:
 msgid "[_cedrick_] Понятно.. Может, можно как-то повысить чувство уюта в комнате? Новые обои? Может кровать?"
-msgstr "[_cedrick_] es claro. ¿Tal vez puedas de alguna manera aumentar la sensación de comodidad en la habitación? ¿Un nuevo fondo de pantalla? ¿Puede la cama?"
+msgstr "[_cedrick_] Entiendo… ¿Quizá se pueda hacer que la habitación resulte más acogedora? ¿Poner papel tapiz nuevo? ¿Tal vez una cama?"
 
 # game/scripts/quests/questNewPajamasForElyon/dialogue_about_pajams_for_elyon.rpy:27 #-#-# translate crowdin dialogue_about_pajams_for_elyon_a4e04920:
 msgid "[_elion_] Эм, нет, ты не совсем понимаешь, это чувство.. Оно скорее тактильного характера"
@@ -50,7 +50,7 @@ msgstr "[_elion_] Um, no, no lo entiendes, es un sentimiento. Es más bien una n
 
 # game/scripts/quests/questNewPajamasForElyon/dialogue_about_pajams_for_elyon.rpy:30 #-#-# translate crowdin dialogue_about_pajams_for_elyon_2f13c631:
 msgid "[_cedrick_] Хм, тактильного.. Тогда, что на счет хорошей пижамы?"
-msgstr "[_cedrick_] Hmm, táctil.. ¿Y qué hay de un buen pijama?"
+msgstr "[_cedrick_] Hmm, táctil… ¿Y qué hay de un buen pijama?"
 
 # game/scripts/quests/questNewPajamasForElyon/dialogue_about_pajams_for_elyon.rpy:33 #-#-# translate crowdin dialogue_about_pajams_for_elyon_206f90c5:
 msgid "[_elion_] П-пижамы?"
