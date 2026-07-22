@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:08\n"
+"PO-Revision-Date: 2026-07-22 15:41\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:4 #-#-# translate crowdin check_out_irma_in_the_dungeon_a20cefa7:
 msgid "..."
@@ -90,7 +90,7 @@ msgstr "[_cedrick_] Al parecer, todavía no has entendido completamente lo que e
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:39 #-#-# translate crowdin gallery_d_092_c20b61a3:
 msgid "[_irma_] Аааххх... П-правда... Д-думаешь я дурочка?"
-msgstr "[_irma_] Aahhh... La verdad... ¿Crees que soy un tonto?"
+msgstr "[_irma_] Aaah... ¿D-de verdad...? ¿C-crees que soy tonta?"
 
 # game/scripts/quests/questTrainingOfGuards/check_out_irma_in_the_dungeon.rpy:41 #-#-# translate crowdin gallery_d_092_77a6975f:
 msgid "[_irma_] Т-ты... Мххх... Т-ты говорил, что мне больше не придется сражаться, если я встану на твою сторону... Н-но, аххх..."
