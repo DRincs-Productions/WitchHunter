@@ -10,39 +10,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-21 05:49\n"
+"PO-Revision-Date: 2026-07-22 14:08\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:6 #-#-# translate crowdin return_to_heatherfield_3555bfdd:
 msgid "[_cedrick_] Вот мы и вернулись"
-msgstr ""
+msgstr "[_cedrick_] Aquí estamos de vuelta"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:9 #-#-# translate crowdin return_to_heatherfield_03c2785d:
 msgid "[_haylin_] Боже, я боялась что мы никогда больше не выберемся оттуда.."
-msgstr ""
+msgstr "[_haylin_], Dios, temía que nunca saldríamos de allí de nuevo."
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:13 #-#-# translate crowdin return_to_heatherfield_3d42e670:
 msgid "[_will_] Хах, Рик бы такого не допустил"
-msgstr ""
+msgstr "[_will_] Hach, Rick no dejaría que eso sucediera"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:17 #-#-# translate crowdin return_to_heatherfield_2ffa19ac:
 msgid "[_tarani_] Откуда вдруг такая уверенность?"
-msgstr ""
+msgstr "[_tarani_] ¿Por qué es esta confianza?"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:21 #-#-# translate crowdin return_to_heatherfield_09066843:
 msgid "[_cedrick_] Вы можете говорить потише?"
-msgstr ""
+msgstr "[_cedrick_] ¿Pueden hablar más bajo?"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:22 #-#-# translate crowdin return_to_heatherfield_5d4f15ba:
 msgid "[_cedrick_] Элион уже спит. Нельзя допустить, чтобы она нас застукала"
-msgstr ""
+msgstr "[_cedrick_] Elyon está dormido. No puedes dejar que nos lleven"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:26 #-#-# translate crowdin return_to_heatherfield_bb5f0fbe:
 msgid "[_will_] Х-хорошо.."
-msgstr ""
+msgstr "[_will_] Muy bien."
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:30 #-#-# translate crowdin return_to_heatherfield_7522de63:
 msgid "[_haylin_] В любом случае, нам всем нужно возвращаться домой. Будет чудом, если наши родители не заметят нашу пропажу"
-msgstr ""
+msgstr "[_haylin_] En cualquier caso, todos tenemos que ir a casa. Será un milagro si nuestros padres no se dan cuenta de nuestra pérdida"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:34 #-#-# translate crowdin return_to_heatherfield_a20cefa7:
 msgid "..."
@@ -50,51 +50,51 @@ msgstr "..."
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:38 #-#-# translate crowdin return_to_heatherfield_8a550a82:
 msgid "[_cornelia_] Хах, мои родители давным давно уехали, а сестра сейчас в исправительном колледже, после очередной своей выходки"
-msgstr ""
+msgstr "[_cornelia_] Hach, mis padres se han ido hace mucho tiempo, y mi hermana está ahora en una universidad correccional, después de otra época"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:42 #-#-# translate crowdin return_to_heatherfield_d1318c5e:
 msgid "[_will_] Меня мама отпустила на всю ночь, я ей сказала что мы пойдем с Риком на фильм с Венс Майкл Джастином"
-msgstr ""
+msgstr "[_will_] Mamá me dejó ir toda la noche, le dije que iríamos con Rick a la película con Vins michael justin"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:46 #-#-# translate crowdin return_to_heatherfield_46cb0178:
 msgid "[_irma_] Моя мама сейчас работает за двоих после того, как отец ушел на секретное задание, так что она вряд ли заметит мое отсутствие"
-msgstr ""
+msgstr "[_irma_] Mi madre ahora está trabajando para dos después de que mi padre fue a una misión secreta, así que es poco probable que note mi ausencia"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:50 #-#-# translate crowdin return_to_heatherfield_665961a1:
 msgid "[_cedrick_] (Отец Ирмы, точно... Нельзя, чтобы она узнала, что на самом деле я бросил его гнить на рудниках...)"
-msgstr ""
+msgstr "[_cedrick_] (Padre de Irma, exactamente... No puedes hacerle saber que en realidad lo tiré para que se pudriera en las minas...)"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:54 #-#-# translate crowdin return_to_heatherfield_52317742:
 msgid "[_tarani_] Та же фигня, мама постоянно остается на работе до самого поздна. Для нее самое важное - это чтобы я приносила домой хорошие оценки"
-msgstr ""
+msgstr "[_tarani_] Es la misma mierda, mi madre está constantemente en el trabajo hasta muy tarde. Lo más importante para ella es que traigo a casa buenas notas"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:58 #-#-# translate crowdin return_to_heatherfield_c8d56f9e:
 msgid "[_tarani_] Прихожу ли я при этом сама домой видимо уже не так важно"
-msgstr ""
+msgstr "[_tarani_] Vuelvo a casa así ya no importa"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:59 #-#-# translate crowdin return_to_heatherfield_dc0d81b6:
 msgid "[_cedrick_] (Хм, видимо отношение Терезы к ночным похождениям Тарани поменялись после случая с Найджелом. Интересно)"
-msgstr ""
+msgstr "[_cedrick_] (Hmm, la actitud aparentemente de Teresa hacia las aventuras nocturnas de Taranee cambió después del caso con Nigel. Interesante)"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:63 #-#-# translate crowdin return_to_heatherfield_104e0d2b:
 msgid "[_cornelia_] В любом случае, мне нужно как можно скорее пойти в душ. Боюсь представить, что я могла подцепить просто лежа на простынях в том борделе"
-msgstr ""
+msgstr "[_cornelia_] En cualquier caso, tengo que ir a la ducha lo antes posible. Me temo que podría haber recogido acostado en las sábanas de ese burdel"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:67 #-#-# translate crowdin return_to_heatherfield_955b7589:
 msgid "[_haylin_] Иииууу, а ведь точно.. Срочно в душ!!"
-msgstr ""
+msgstr "[_haylin_] Iiuuuuuu, pero seguro... Con urgencia en la ducha!!"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:71 #-#-# translate crowdin return_to_heatherfield_204482d5:
 msgid "[_irma_] Хах, это вы еще в казармах стражников Фобоса не были"
-msgstr ""
+msgstr "[_irma_] Hah, es que no estás en los cuarteles de los guardias de Fobos"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:75 #-#-# translate crowdin return_to_heatherfield_bcfcafb2:
 msgid "[_tarani_] Ага, и вас не заточали в кандалы и не трахали одновременно в киску и задницу"
-msgstr ""
+msgstr "[_tarani_] Agha, y no fuiste encarcelado en grilletes y no te cogiste al mismo tiempo en un pus y un culo"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:79 #-#-# translate crowdin return_to_heatherfield_be572ae5:
 msgid "[_irma_] Кхм... Тарани, я же извинилась..."
-msgstr ""
+msgstr "[_irma_] Khm... Taranee, me disculpé..."
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:83 #-#-# translate crowdin return_to_heatherfield_a20cefa7_1:
 msgid "..."
@@ -102,23 +102,23 @@ msgstr "..."
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:87 #-#-# translate crowdin return_to_heatherfield_33fba0a4:
 msgid "[_will_] Думаю нам всем пора возвращаться по домам, девочки. Многое сегодня произошло и думаю нам всем есть о чем подумать"
-msgstr ""
+msgstr "[_will_] Creo que es hora de que todas volvamos a casa, chicas. Hoy pasaron muchas cosas y todas tenemos mucho en qué pensar."
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:91 #-#-# translate crowdin return_to_heatherfield_032055e5:
 msgid "[_cornelia_] Это точно... Ну, девочки, всем удачи. До скорого, Рик"
-msgstr ""
+msgstr "[_cornelia_] Es definitivamente... Bueno, chicas, buena suerte para todos. Hasta lo inminente, Rick"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:96 #-#-# translate crowdin return_to_heatherfield_42392c33:
 msgid "[_haylin_] Всем пока... надеюсь родители не будут меня сильно ругать..."
-msgstr ""
+msgstr "[_haylin_] Es... Espero que mis padres no me regañen mucho..."
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:101 #-#-# translate crowdin return_to_heatherfield_9d779a5d:
 msgid "[_irma_] Увидимся в школе, девочки... И Рик"
-msgstr ""
+msgstr "[_irma_] Te veré en la escuela, chicas... Y Rick"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:106 #-#-# translate crowdin return_to_heatherfield_726e3797:
 msgid "[_tarani_] Не думай, что я вот так просто тебя простила, Седрик"
-msgstr ""
+msgstr "[_tarani_] No creas que te he perdonado así, Cedric"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:110 #-#-# translate crowdin return_to_heatherfield_a20cefa7_2:
 msgid "..."
@@ -126,7 +126,7 @@ msgstr "..."
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:111 #-#-# translate crowdin return_to_heatherfield_a541f346:
 msgid "[_cedrick_] Да уж..."
-msgstr ""
+msgstr "[_cedrick_] Sí..."
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:114 #-#-# translate crowdin return_to_heatherfield_bcd124bf:
 msgid "[_will_] ..."
@@ -134,49 +134,49 @@ msgstr "[_will_] ..."
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:118 #-#-# translate crowdin return_to_heatherfield_0fdfe21c:
 msgid "[_will_] Рик?"
-msgstr ""
+msgstr "[_will_] ¿Rick?"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:119 #-#-# translate crowdin return_to_heatherfield_951f75a8:
 msgid "[_cedrick_] Что такое, Вилл?"
-msgstr ""
+msgstr "[_cedrick_] ¿Qué es, Will?"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:123 #-#-# translate crowdin return_to_heatherfield_ab034ecc:
 msgid "[_will_] Ты же правда не оставил бы нас в темнице?"
-msgstr ""
+msgstr "[_will_] Realmente no nos dejarías en la cárcel, ¿verdad?"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:124 #-#-# translate crowdin return_to_heatherfield_1471db1e:
 msgid "[_cedrick_] Конечно, Вилл. Я бы этого не допустил"
-msgstr ""
+msgstr "[_cedrick_] De seguro, Will. No dejaría que eso sucediera"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:128 #-#-# translate crowdin return_to_heatherfield_331036af:
 msgid "[_will_] ...Хорошо"
-msgstr ""
+msgstr "[_will_] ... ¡Bueno"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:132 #-#-# translate crowdin return_to_heatherfield_14a58258:
 msgid "[_cedrick_] Думаю нам всем стоит отдохнуть после произошедшего"
-msgstr ""
+msgstr "[_cedrick_] Creo que todos deberíamos descansar después de lo ocurrido."
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:136 #-#-# translate crowdin return_to_heatherfield_8789fa89:
 msgid "[_will_] Да, я согласна... Тогда увидимся, Рик. Надеюсь скоро заглянешь к нам в гости"
-msgstr ""
+msgstr "[_will_] Sí, estoy de acuerdo... Entonces te veré, Rick. Espero que pronto nos visite"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:137 #-#-# translate crowdin return_to_heatherfield_eba4e999:
 msgid "[_cedrick_] Обязательно, Вилл"
-msgstr ""
+msgstr "[_cedrick_] Requerido, Will"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:141 #-#-# translate crowdin return_to_heatherfield_84cdb011:
 msgid "[_cedrick_] (Черт... Я уже чувствую, как много мороки мне с ними теперь предстоит...)"
-msgstr ""
+msgstr "[_cedrick_] (Maldito... Ya puedo sentir la cantidad de algas que tengo con ellos ahora.)"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:142 #-#-# translate crowdin return_to_heatherfield_4ac67335:
 msgid "[_cedrick_] (К моменту сражения с Фобосом мы должны быть с ними одной командой, но сейчас у каждой из них абсолютно разное ко мне отношение...)"
-msgstr ""
+msgstr "[_cedrick_] (En el momento de la batalla con Fobos, debemos estar con ellos como un equipo, pero ahora cada uno de ellos tiene una actitud completamente diferente hacia Mí...)"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:143 #-#-# translate crowdin return_to_heatherfield_17ce20c8:
 msgid "[_cedrick_] (И теперь я должен с этим считаться...)"
-msgstr ""
+msgstr "[_cedrick_] (Y ahora tengo que tener en cuenta...)"
 
 # game/scripts/quests/questSleeplessNight/return_to_heatherfield.rpy:144 #-#-# translate crowdin return_to_heatherfield_52327ef1:
 msgid "[_cedrick_] (Пожалуй, стоит все как следует взвесить и записать. Но телефон для таких записей не подходит, хм... Кажется, где-то в прилавке была записная книжка)"
-msgstr ""
+msgstr "[_cedrick_] (Por favor, todo debe ser pesado y grabado. Pero el teléfono para tales grabaciones no es adecuado, hmm... Creo que había un cuaderno en algún lugar del mostrador)"
 
