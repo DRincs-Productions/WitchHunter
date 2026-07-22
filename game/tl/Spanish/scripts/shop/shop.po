@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:21\n"
+"PO-Revision-Date: 2026-07-22 21:23\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/shop/shop.rpy:14 #-#-# translate crowdin shop_0a71551e:
 msgid "[_cedrick_sprite_] Магазин закрыт"
@@ -18,7 +18,7 @@ msgstr "[_cedrick_sprite_] La tienda está cerrada"
 
 # §translate crowdin strings: #|#|# # game/scripts/shop/shop.rpy:42
 msgid "Спросить у продавца про билеты"
-msgstr "Pregunte al vendedor por las entradas"
+msgstr "Preguntar al vendedor por las entradas"
 
 # game/scripts/shop/shop.rpy:42
 msgid "Посмотреть товары"
