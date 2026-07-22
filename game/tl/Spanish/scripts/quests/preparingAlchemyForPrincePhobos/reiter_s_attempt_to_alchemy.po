@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-27 03:44\n"
+"PO-Revision-Date: 2026-07-22 14:05\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:8 #-#-# translate crowdin reiter_s_attempt_to_alchemy_a22a88bc:
 msgid "[_cedrick_] (Решил надо мной насмехаться, плебей? Что ж, ни я это начал, Рейтер)"
@@ -18,7 +18,7 @@ msgstr "[_cedrick_] (¿Decidiste burlarte de mí, plebeyo? Bueno, yo no lo empec
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:27 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_bcebe7c1:
 msgid "[_cedrick_] Что с повстанцами, Рейтер? Последний раз, когда мы встречались с тобой перед Князем Фобосом, он поручил тебе расправиться с ними"
-msgstr "[_cedrick_] ¿Qué hay de los rebeldes, Raythor? La última vez que te vi ante el Príncipe Phobos, te ordenó que te encargaras de ellos"
+msgstr "[_cedrick_] ¿Qué hay de los rebeldes, Raythor? La última vez que te vi ante el Príncipe Fobos, te ordenó que te encargaras de ellos"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:31 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_1caf49d8:
 msgid "[_raythor_] ..К чему ты клонишь? В той погоне я не потерял ни одного воина"
@@ -46,7 +46,7 @@ msgstr "[_raythor_] ..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:50 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_53943378:
 msgid "[_cedrick_] Вот о чем я говорю. Ты не дорожишь людьми Фобоса, ты просто боишься любых потерь. Будь то наши воины или повстанцы. Ты не хочешь ни чьих смертей"
-msgstr "[_cedrick_] A eso me refiero. No valoras a la gente de Phobos, solo temes cualquier pérdida. Ya sean nuestros guerreros o los rebeldes. No quieres la muerte de nadie"
+msgstr "[_cedrick_] A eso me refiero. No valoras a la gente de Fobos, solo temes cualquier pérdida. Ya sean nuestros guerreros o los rebeldes. No quieres la muerte de nadie"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:54 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_8f7647e0:
 msgid "[_raythor_] Да что ты несешь? Я такой же преданный воин, как и остальные"
@@ -58,7 +58,7 @@ msgstr "[_cedrick_] La chica... ¿Cómo duró tanto, Raythor? La dejé encerrada
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:62 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_b9ccdd20:
 msgid "[_cedrick_] Что, подкармливаешь заключенных из жалости? Дай угадаю, настолько проникся симпатией к маленькой беззащитной девочке, что в итоге решил трахнуть ее в рот?"
-msgstr "[_cedrick_] ¿Qué, alimentando prisioneros por compasión? Déjame adivinar, ¿sentiste tanta compasión por la niña indefensa que acabaste follándotela por la boca?"
+msgstr "[_cedrick_] ¿Qué, alimentando prisioneros por compasión? Déjame adivinar, ¿sentiste tanta compasión por la niña indefensa que acabaste cogiéndotela por la boca?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:63 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_4a329970:
 msgid "[_cedrick_] И часто ты так мил с теми, кто находится у нас под стражей?"
@@ -74,7 +74,7 @@ msgstr "[_cedrick_] ¡No, escucha tú! ¡He perdido cientos de nuestros soldados
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:71 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_7b0448cc:
 msgid "[_cedrick_] А скольких убил ты, Рейтер? Ни одного! Фобос поставил тебя на роль главнокомандующего, только потому что знал, что для меня это будет невыносимо"
-msgstr "[_cedrick_] ¿Y a cuántos has matado, Raythor? A ninguno. Phobos solo te puso al mando porque sabía que sería insoportable para mí"
+msgstr "[_cedrick_] ¿Y a cuántos has matado, Raythor? A ninguno. Fobos solo te puso al mando porque sabía que sería insoportable para mí"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:73 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_441bbeca:
 msgid "[_cedrick_] Это хороший урок за мои многочисленные потери. Но неужели ты думаешь, что кто-то назначил тебя главным всерьез?"
@@ -82,7 +82,7 @@ msgstr "[_cedrick_] Es una buena lección para mis muchas pérdidas. ¿Pero de v
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:75 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_70a8c673:
 msgid "[_cedrick_] Ты всего лишь человек, Рейтер. Те, с кем мы сражаемся, тебе всегда были ближе нас. Потому что и я и Фобос – настоящие монстры голубых кровей"
-msgstr "[_cedrick_] Solo eres humano, Raythor. Los que luchan siempre han estado más cerca de ti que nosotros. Porque Phobos y yo somos verdaderos monstruos de sangre azul"
+msgstr "[_cedrick_] Solo eres humano, Raythor. Los que luchan siempre han estado más cerca de ti que nosotros. Porque Fobos y yo somos verdaderos monstruos de sangre azul"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:76 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_0571a612:
 msgid "[_cedrick_] И что же, простой смертный человек вроде тебя, сможет встать в один ряд с нами?"
@@ -110,7 +110,7 @@ msgstr "[_cedrick_] Ahora, escúchame. Por una vez en tu vida, voy a darte a ele
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:102 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_32552665:
 msgid "[_cedrick_] Ты либо остаешься навечно гнить в камере, либо соглашаешься служишь нашему Князю. Тебя в любом случае кто-то отымеет, ты же понимаешь?"
-msgstr "[_cedrick_] O te quedas aquí para pudrirte en una celda para siempre, o aceptas servir a nuestro Príncipe. De cualquier manera, alguien te va a follar, ¿entiendes?"
+msgstr "[_cedrick_] O te quedas aquí para pudrirte en una celda para siempre, o aceptas servir a nuestro Príncipe. De cualquier manera, alguien te va a coger, ¿entiendes?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:103 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_c0b6cd4a:
 msgid "[_alchemy_] ....."
@@ -126,7 +126,7 @@ msgstr "[_cedrick_] Quédate aquí y será nuestro viejo Raythor en una celda de
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:106 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_500a2fa1:
 msgid "[_cedrick_] Пойдешь со мной и это будет наш Князь Фобос в светских хоромах и едой с царского стола."
-msgstr "[_cedrick_] Ven conmigo y será nuestro Príncipe Phobos en mansiones antiguas y con comida de la mesa del rey."
+msgstr "[_cedrick_] Ven conmigo y será nuestro Príncipe Fobos en mansiones antiguas y con comida de la mesa del rey."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:107 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_35c0f922:
 msgid "[_raythor_] (Эта девочка доверилась мне, рассказала, что произошло с ней и с ее братом. Она рассказывала мне о своем мире, а я ей о своем.)"
@@ -134,7 +134,7 @@ msgstr "[_raythor_] (Esta chica confío en mí y me contó lo que les había pas
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:108 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_1a98b42d:
 msgid "[_raythor_] (Я должен хоть как-то помочь ей, но.. Черт, этот змей сумел меня напугать. Он прав, с монстрами, вроде него и Фобоса, мне не сравниться..)"
-msgstr "[_raythor_] (Tengo que hacer algo para ayudarla, pero... Maldición, esa serpiente logró asustarme. Tiene razón, no soy rival para monstruos como él y Phobos..)"
+msgstr "[_raythor_] (Tengo que hacer algo para ayudarla, pero... Maldición, esa serpiente logró asustarme. Tiene razón, no soy rival para monstruos como él y Fobos..)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:116 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_cc98dbda:
 msgid "[_alchemy_] (Рейтер, даже не смотря на то, что ты пытался переспать со мной.. Я думала, в этой ситуации ты прикроешь меня.. Ты же знаешь, что он со мной сделал..)"
@@ -166,11 +166,11 @@ msgstr "[_cedrick_] (Debería haberlo puesto en su sitio hace mucho tiempo.)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:145 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_cf035ac7:
 msgid "[_cedrick_] (Осталось отдать Алхими Фобосу и можно возвращаться на Землю)"
-msgstr "[_cedrick_] (Solo queda entregar a Alchemy a Phobos y podre volver a la Tierra)"
+msgstr "[_cedrick_] (Solo queda entregar a Alchemy a Fobos y podre volver a la Tierra)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:146 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_52f7cec5:
 msgid "[_cedrick_] (Что ж, это будет нелегко.. Сейчас Фобос в таком настроении, когда любое неправильно сказанное слово может стоить жизни)"
-msgstr "[_cedrick_] (Bueno, eso no será fácil... Phobos está ahora de un humor en el que cualquier palabra equivocada podría costarme la vida)"
+msgstr "[_cedrick_] (Bueno, eso no será fácil... Fobos está ahora de un humor en el que cualquier palabra equivocada podría costarme la vida)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:147 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_8b2ed21d:
 msgid "[_cedrick_] (Истощение магических сил все больше превращает его в полоумного тирана. Надеюсь меня не ждет та же участь..)"
@@ -178,7 +178,7 @@ msgstr "[_cedrick_] (El agotamiento de sus poderes mágicos lo está convirtiend
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:148 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_f2481008:
 msgid "[_cedrick_] Послушай меня, девчонка. Сейчас мы пойдем к Князю Фобосу. Если все пройдет гладко, ты будешь служить ему. Если нет, тебя убьют без промедлений"
-msgstr "[_cedrick_] Escúchame, niña. Ahora iremos a ver al Príncipe Phobos. Si todo va bien, le servirás. Si no, serás asesinada sin demora"
+msgstr "[_cedrick_] Escúchame, niña. Ahora iremos a ver al Príncipe Fobos. Si todo va bien, le servirás. Si no, serás asesinada sin demora"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:149 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_one_36f38db9:
 msgid "[_cedrick_] Уясни сразу, при встрече с князем - преклоняй колени, будь покорна и слушайся каждого его приказа. Тебе ясно?"
@@ -194,7 +194,7 @@ msgstr "[_phobos_] ¡Tú! ¡¿Cómo te atreves a irrumpir en mis aposentos con u
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:179 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_two_517c4f66:
 msgid "[_cedrick_] Князь Фобос, это мое скромное подношение вам из другого мира"
-msgstr "[_cedrick_] Príncipe Phobos, esta es mi humilde ofrenda desde otro mundo"
+msgstr "[_cedrick_] Príncipe Fobos, esta es mi humilde ofrenda desde otro mundo"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:183 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_two_e8aa5ffb:
 msgid "[_phobos_] ...Продолжай"
@@ -230,7 +230,7 @@ msgstr "[_phobos_] ¿Te acostaste con esa mortal?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:240 #-#-# translate crowdin reiter_s_attempt_to_alchemy_success_three_486cee4f:
 msgid "[_cedrick_] Нет, Князь Фобос. Но с ней успели переспать наши стражники во время моего отсутствия..."
-msgstr "[_cedrick_] No, Príncipe Phobos. Pero nuestros guardias lograron acostarse con ella mientras yo no estaba..."
+msgstr "[_cedrick_] No, Príncipe Fobos. Pero nuestros guardias lograron acostarse con ella mientras yo no estaba..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:252 #-#-# translate crowdin reiter_s_attempt_to_alchemy_complete_success_00beba68:
 msgid "[_cedrick_] ...Да. Я спал с ней. Много раз."
@@ -318,7 +318,7 @@ msgstr "[_phobos_] Hmm, bueno, ahora te estás esforzando demasiado"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:298 #-#-# translate crowdin gallery_d_033_60d9bd54:
 msgid "[_alchemy_] П-простите, Князь Фобос"
-msgstr "[_alchemy_] Lo siento, Príncipe Phobos"
+msgstr "[_alchemy_] Lo siento, Príncipe Fobos"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:300 #-#-# translate crowdin gallery_d_033_57025270:
 msgid "[_cedrick_] Мой князь, не разрешите присоединиться. Моя миссия требует довольно много сил, а возможность восстановиться была бы достойной платой за.."
@@ -382,7 +382,7 @@ msgstr "[_alchemy_] ...lo entiendo. Haré todo lo posible para... ser una mujer 
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:332 #-#-# translate crowdin gallery_d_033_a0e52245:
 msgid "[_cedrick_] И каким образом я должен ее обучать, Князь Фобос? У меня есть ограничения?"
-msgstr "[_cedrick_] ¿Y cómo se supone que voy a entrenarla, Príncipe Phobos? ¿Tengo limitaciones?"
+msgstr "[_cedrick_] ¿Y cómo se supone que voy a entrenarla, Príncipe Fobos? ¿Tengo limitaciones?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:336 #-#-# translate crowdin gallery_d_033_9a61788f:
 msgid "[_phobos_] Это не мое дело, Седрик. Опять же, источники смогут смыть все. У нее отличное тело, но без должного опыта оно не стоит моего времени"
@@ -394,7 +394,7 @@ msgstr "[_cedrick_] Te escucho"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:344 #-#-# translate crowdin gallery_d_033_645755f3:
 msgid "[_phobos_] И еще. Раз уж зашла речь о подготовке моей новой спутницы.. Скажи Миранде, чтобы она подготовила кристаллическую эссенцию королевы морпионов"
-msgstr "[_phobos_] Una cosa más. Ya que hablamos de preparar a mi nueva compañera... Dile a Miranda que prepare la esencia de cristal de la reina de los Morphions"
+msgstr "[_phobos_] Una cosa más. Ya que hablamos de preparar a mi nueva compañera... Dile a Miranda que prepare la esencia de cristal de la reina de los Morpiones"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:348 #-#-# translate crowdin gallery_d_033_c2645ddc:
 msgid "[_cedrick_] Эм.. Как прикажете"
@@ -422,7 +422,7 @@ msgstr "[_cedrick_] ¿En serio? Las fuentes son un lugar estupendo donde nadie n
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:366 #-#-# translate crowdin gallery_d_033_f9dfbbb4:
 msgid "[_cedrick_] Власть Фобоса опьяняет? Или это такая у тебя реакция на мысли о спасении брата?"
-msgstr "[_cedrick_] ¿Es el poder de Phobos intoxicante? ¿O es tu reacción ante la idea de salvar a tu hermano?"
+msgstr "[_cedrick_] ¿Es el poder de Fobos intoxicante? ¿O es tu reacción ante la idea de salvar a tu hermano?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:370 #-#-# translate crowdin gallery_d_033_fe75951b:
 msgid "[_alchemy_] Да пошел ты, Седрик! Я не забуду все то, что ты причинил мне и моей семье"
@@ -434,7 +434,7 @@ msgstr "[_cedrick_] No olvides, chica, que tu carne sigue siendo tan suave"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:375 #-#-# translate crowdin gallery_d_033_f559bc0b:
 msgid "[_alchemy_] Фобос, который, судя по всему, самый главный в этом гребаном мире, поручил тебе за мной присматривать. Ты меня не тронешь!"
-msgstr "[_alchemy_] Phobos, que aparentemente es la persona más importante de este puto mundo, te ha puesto a cargo de cuidarme. ¡No puedes tocarme!"
+msgstr "[_alchemy_] Fobos, que aparentemente es la persona más importante de este puto mundo, te ha puesto a cargo de cuidarme. ¡No puedes tocarme!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:379 #-#-# translate crowdin gallery_d_033_2e31de91:
 msgid "[_cedrick_] Кх, это мы еще посмотрим, опыта можно набраться по-разному"
@@ -454,11 +454,11 @@ msgstr "[_alchemy_] ....."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:395 #-#-# translate crowdin gallery_d_033_d968361a:
 msgid "[_alchemy_] (Да что со мной такое.. Мне не может начинать это нравиться, это просто реакция организма.. В любом случае, главное, что Фобос моя надежда на спасение брата)"
-msgstr "[_alchemy_] (Qué me pasa... No puede empezar a gustarme, es solamente una reacción del cuerpo... En fin, lo importante es que Phobos es mi esperanza de salvar a mi hermano)"
+msgstr "[_alchemy_] (Qué me pasa... No puede empezar a gustarme, es solamente una reacción del cuerpo... En fin, lo importante es que Fobos es mi esperanza de salvar a mi hermano)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:396 #-#-# translate crowdin gallery_d_033_ddece43f:
 msgid "[_cedrick_] А знаешь, кажется у меня появилась идея, как от тебя избавиться и при этом выполнить задание Фобоса. Пошли-ка в бар, девчонка"
-msgstr "[_cedrick_] Sabes, creo que tengo una idea de cómo deshacerme de ti y seguir haciendo el trabajo de Phobos. Vamos al bar, chica"
+msgstr "[_cedrick_] Sabes, creo que tengo una idea de cómo deshacerme de ti y seguir haciendo el trabajo de Fobos. Vamos al bar, chica"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:400 #-#-# translate crowdin gallery_d_033_536bdd28:
 msgid "[_cedrick_] Только для начала, я пожалуй верну тебе твою одежду. В таком виде ты и пяти минут в городе не протянешь. И речь не о том, что тебя убьют"
@@ -546,15 +546,15 @@ msgstr "[_vanessa_] Oye, eso es raro viniendo de alguien cuya ropa le aprieta a�
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:479 #-#-# translate crowdin gallery_d_033_ad8d656f:
 msgid "[_cedrick_] Не забывайся, девчонка. Князь Фобос поручил мне сделать тебя опытнее, этим я и занимаюсь"
-msgstr "[_cedrick_] No te olvides de tu lugar, muchacha. El Príncipe Phobos me encargó que te hiciera más experimentada, eso es lo que estoy haciendo"
+msgstr "[_cedrick_] No te olvides de tu lugar, muchacha. El Príncipe Fobos me encargó que te hiciera más experimentada, eso es lo que estoy haciendo"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:480 #-#-# translate crowdin gallery_d_033_2a2f0434:
 msgid "[_cedrick_] К тому же не ты ли хотела спасти своего брата? Если ты так и не наберешься опыта, у тебя вообще ничего с Фобосом не удастся"
-msgstr "[_cedrick_] Además, ¿no eras tú quien querías salvar a tu hermano? Si no ganas experiencia, no tendrás éxito de ninguna manera con Phobos"
+msgstr "[_cedrick_] Además, ¿no eras tú quien querías salvar a tu hermano? Si no ganas experiencia, no tendrás éxito de ninguna manera con Fobos"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:484 #-#-# translate crowdin gallery_d_033_2fdb3be4:
 msgid "[_vanessa_] Хм, задание Фобоса? Дело звучит серьезно. Потребую за него много денег"
-msgstr "[_vanessa_] Hmm, ¿la misión Phobos? El caso suena serio. Voy a necesitar mucho dinero para ello"
+msgstr "[_vanessa_] Hmm, ¿la misión Fobos? El caso suena serio. Voy a necesitar mucho dinero para ello"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:488 #-#-# translate crowdin gallery_d_033_478eae92:
 msgid "[_cedrick_] Попридержи коней. Вся прибыль с этой девчонки уходит тебе, а вы за ней приглядываете и кормите. Это все"
@@ -646,7 +646,7 @@ msgstr "[_cedrick_] Pequeño miserable, me las pagarás.."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:597 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed12_0b912abb:
 msgid "[_cedrick_] Если не отдашь ее мне, я расскажу Фобосу, как ты пытался ее изнасиловать"
-msgstr "[_cedrick_] Si no me la das, le diré a Phobos cómo intentaste violarla"
+msgstr "[_cedrick_] Si no me la das, le diré a Fobos cómo intentaste violarla"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:601 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed12_fffef93a:
 msgid "[_raythor_] Хах, решил меня оклеветать, значит? Ты ее сюда всю дорогу голой тащил? Не лукавь, Седрик, ты и сам с ней развлекался"
@@ -654,7 +654,7 @@ msgstr "[_raythor_] Ja, ¿intentas calumniarme ahora?, ¿La arrastré desnuda ha
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:605 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed12_70931c63:
 msgid "[_raythor_] И знаешь, что? Я сам сообщу об этом Князю Фобосу, посмотрим, как он обрадуется"
-msgstr "[_raythor_] ¿Y sabes qué? Se lo diré yo mismo al Príncipe Phobos, a ver lo contento que se pone"
+msgstr "[_raythor_] ¿Y sabes qué? Se lo diré yo mismo al Príncipe Fobos, a ver lo contento que se pone"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:608 #-#-# translate crowdin reiter_s_attempt_to_alchemy_failed12_4e35304b:
 msgid "[_cedrick_] (Чертова крыса, спутал мне все карты!..)"
@@ -738,7 +738,7 @@ msgstr "¿Y los rebeldes, Raythor?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:10
 msgid "Я расскажу Фобосу, как ты пытался ее изнасиловать"
-msgstr "Le diré a Phobos cómo intentaste violarla"
+msgstr "Le diré a Fobos cómo intentaste violarla"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:163
 msgid "Милорд, это все часть вашего задания"
@@ -750,7 +750,7 @@ msgstr "Mi príncipe, he venido a hacer las paces"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:163
 msgid "Князь Фобос, это мое скромное подношение вам"
-msgstr "Príncipe Phobos, esta es mi humilde ofrenda para usted"
+msgstr "Príncipe Fobos, esta es mi humilde ofrenda para usted"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/reiter_s_attempt_to_alchemy.rpy:189
 msgid "Эта прелестная девушка для плотских утех, мой Княз"
