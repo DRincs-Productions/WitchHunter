@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-04-02 00:43\n"
+"PO-Revision-Date: 2026-07-22 14:07\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/characters.rpy:9
 msgid "Продавец"
@@ -18,7 +18,7 @@ msgstr "Comerciante"
 
 # game/scripts/sell_books_game/characters.rpy:17
 msgid "Князь Фобос"
-msgstr "Príncipe Phobos"
+msgstr "Príncipe Fobos"
 
 # game/scripts/sell_books_game/characters.rpy:32
 msgid "Элион"
@@ -174,7 +174,7 @@ msgstr "Teresa"
 
 # game/scripts/sell_books_game/characters.rpy:436
 msgid "Лилиан"
-msgstr "Lillian"
+msgstr "Lilian"
 
 # game/scripts/sell_books_game/characters.rpy:443
 msgid "Калеб"
@@ -282,7 +282,7 @@ msgstr "Chloe"
 
 # game/scripts/sell_books_game/characters.rpy:650
 msgid "Королева морпионов"
-msgstr "Reina Morphion"
+msgstr "Reina Morpiones"
 
 # game/scripts/sell_books_game/characters.rpy:657
 msgid "Томас Браун"
@@ -314,11 +314,11 @@ msgstr "Guerrero herido"
 
 # game/scripts/sell_books_game/characters.rpy:706
 msgid "Король морпионов"
-msgstr "Rey Morphion"
+msgstr "Rey Morpiones"
 
 # game/scripts/sell_books_game/characters.rpy:713
 msgid "Юный принц Фобос"
-msgstr "Joven príncipe Phobos"
+msgstr "Joven príncipe Fobos"
 
 # game/scripts/sell_books_game/characters.rpy:721
 msgid "Юный Седрик"
