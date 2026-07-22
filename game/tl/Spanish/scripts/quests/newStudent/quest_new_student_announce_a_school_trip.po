@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-23 15:57\n"
+"PO-Revision-Date: 2026-07-22 21:19\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:4 #-#-# translate crowdin quest_new_student_announce_a_school_trip_85cabb3f:
 msgid "[_cedrick_] В следующие выходные состоится школьная поездка на горнолыжный курорт на горе Хезерфилд."
@@ -22,7 +22,7 @@ msgstr "[_pupils_] ¿Es ese el volcán inactivo? ¡Qué bonito!"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:6 #-#-# translate crowdin quest_new_student_announce_a_school_trip_6b1f31a4:
 msgid "[_cedrick_] ...Поездка была любезно проспонсирована Мистером Шмидом, отцом Сондры. Так что для вас она абсолютно бесплатно и поехать может любой желающий."
-msgstr "[_cedrick_] ...El viaje ha sido amablemente patrocinado por el Sr. Schmid, padre de Sondra. Así que es completamente gratis para ti y cualquiera puede ir."
+msgstr "[_cedrick_] …El viaje ha sido amablemente patrocinado por el Sr. Schmid, padre de Sondra. Así que es completamente gratis para ti y cualquiera puede ir."
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:7 #-#-# translate crowdin quest_new_student_announce_a_school_trip_afa04ebb:
 msgid "[_pupils_] Ооо, халява! А лыжи нужно свои брать?"
@@ -74,7 +74,7 @@ msgstr "[_cedrick_] ¿Will Vandom?"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:21 #-#-# translate crowdin quest_new_student_announce_a_school_trip_732dec45:
 msgid "[_will_] Не поеду.."
-msgstr "[_will_] No voy.."
+msgstr "[_will_] No voy…"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:22 #-#-# translate crowdin quest_new_student_announce_a_school_trip_2948199f:
 msgid "[_cedrick_] (Хм, никто из стражниц не поедет? Я начинаю жалеть о том, что ввязался в эту поездку)"
@@ -94,7 +94,7 @@ msgstr "[_cedrick_] ¿Sondra Schmid?"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:26 #-#-# translate crowdin quest_new_student_announce_a_school_trip_da595a72:
 msgid "[_sondra_] Разумеется поеду.."
-msgstr "[_sondra_] Por supuesto que iré.."
+msgstr "[_sondra_] Por supuesto que iré…"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:27 #-#-# translate crowdin quest_new_student_announce_a_school_trip_839950a7:
 msgid "[_cedrick_] Мэтт Олсен?"
@@ -102,7 +102,7 @@ msgstr "[_cedrick_] ¿Matt Olsen?"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:28 #-#-# translate crowdin quest_new_student_announce_a_school_trip_db883e25:
 msgid "[_matt_] Да, я поеду.."
-msgstr "[_matt_] Sí, iré.."
+msgstr "[_matt_] Sí, iré…"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:29 #-#-# translate crowdin quest_new_student_announce_a_school_trip_98561895:
 msgid "[_cedrick_] Эндрю Хорнби?"
@@ -114,7 +114,7 @@ msgstr "[_will_] Lo siento"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:31 #-#-# translate crowdin quest_new_student_announce_a_school_trip_9f816743:
 msgid "[_will_] Я передумала, я тоже поеду.."
-msgstr "[_will_] He cambiado de opinión, yo también voy.."
+msgstr "[_will_] He cambiado de opinión, yo también voy…"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:32 #-#-# translate crowdin quest_new_student_announce_a_school_trip_35ac8579:
 msgid "[_cedrick_] Хорошо, я исправлю"
@@ -126,11 +126,11 @@ msgstr "[_cedrick_] (¿Will? Eso sí que es interesante.)"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:35 #-#-# translate crowdin quest_new_student_announce_a_school_trip_5f9b772e:
 msgid "...."
-msgstr "...."
+msgstr "…"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:36 #-#-# translate crowdin quest_new_student_announce_a_school_trip_07bdde05:
 msgid "....."
-msgstr "....."
+msgstr "…"
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:37 #-#-# translate crowdin quest_new_student_announce_a_school_trip_36b208de:
 msgid "[_cedrick_] (Так нужно будет самому не забыть обзавестись теплой одеждой перед поездкой. Должно быть я смогу купить ее в волмарте)"
