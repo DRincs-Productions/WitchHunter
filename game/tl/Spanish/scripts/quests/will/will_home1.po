@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 15:41\n"
+"PO-Revision-Date: 2026-07-22 21:22\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_home1.rpy:8 #-#-# translate crowdin will_home1_ece55c08:
 msgid "[_susan_] Рик! Пришел помочь Вилл?"
@@ -50,7 +50,7 @@ msgstr "[_cedrick_sprite_] Es bueno tener un hobby"
 
 # game/scripts/quests/will/will_home1.rpy:41 #-#-# translate crowdin will_home1_e51e9cc1:
 msgid "[_will_] Наверное.."
-msgstr "[_will_] Supongo.."
+msgstr "[_will_] Supongo…"
 
 # game/scripts/quests/will/will_home1.rpy:46 #-#-# translate crowdin will_home1_65308c2c:
 msgid "*Спустя некоторое время*"
@@ -58,7 +58,7 @@ msgstr "*Después de un rato*"
 
 # game/scripts/quests/will/will_home1.rpy:52 #-#-# translate crowdin will_home1_23e40135:
 msgid "[_cedrick_sprite_] ...Вот так отчасти из-за экономической нестабильности и частым нападениям различных племен варваров распалась римская империя.."
-msgstr "[_cedrick_sprite_] ...Así fue como, en parte debido a la inestabilidad económica y a los frecuentes ataques de diversas tribus bárbaras, el Imperio Romano se derrumbó.."
+msgstr "[_cedrick_sprite_] …Así fue como, en parte debido a la inestabilidad económica y a los frecuentes ataques de diversas tribus bárbaras, el Imperio Romano se derrumbó…"
 
 # game/scripts/quests/will/will_home1.rpy:53 #-#-# translate crowdin will_home1_edcd22a1:
 msgid "[_will_] А это правда, что первые геи появились в Риме?"
@@ -66,7 +66,7 @@ msgstr "[_will_] ¿Es cierto que los primeros homosexuales vinieron de Roma?"
 
 # game/scripts/quests/will/will_home1.rpy:54 #-#-# translate crowdin will_home1_437f5535:
 msgid "[_cedrick_sprite_] Ну... На этот вопрос у историков нет однозначного ответа, скорее всего геи были и до римской империи, но широкое распространение получили благодаря ей.."
-msgstr "[_cedrick_sprite_] Bueno... Los historiadores no tienen una respuesta definitiva a esta pregunta, es probable que los homosexuales estuvieran presentes antes del Imperio Romano, pero se generalizaron gracias a él.."
+msgstr "[_cedrick_sprite_] Bueno… Los historiadores no tienen una respuesta definitiva a esta pregunta, es probable que los homosexuales estuvieran presentes antes del Imperio Romano, pero se generalizaron gracias a él…"
 
 # game/scripts/quests/will/will_home1.rpy:60 #-#-# translate crowdin will_home1_7b52b9e2:
 msgid "[_will_] Жаль что наши учителя в школе не могут преподавать материал так увлекательно"
@@ -74,7 +74,7 @@ msgstr "[_will_] Ojalá nuestros profesores en la escuela pudieran enseñar esta
 
 # game/scripts/quests/will/will_home1.rpy:61 #-#-# translate crowdin will_home1_b60f6daf:
 msgid "[_cedrick_sprite_] Что ж... Думаю на сегодня хватит, в следующий раз я расскажу тебе о средневековье"
-msgstr "[_cedrick_sprite_] Bueno... Creo que es suficiente por hoy, la próxima vez te hablaré de la Edad Media"
+msgstr "[_cedrick_sprite_] Bueno… Creo que es suficiente por hoy, la próxima vez te hablaré de la Edad Media"
 
 # game/scripts/quests/will/will_home1.rpy:67 #-#-# translate crowdin will_home1_a00c8e7a:
 msgid "[_will_] Хорошо, спасибо за урок, пока Рик"
