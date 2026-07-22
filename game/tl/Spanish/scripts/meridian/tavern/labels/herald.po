@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:28\n"
+"PO-Revision-Date: 2026-07-22 21:16\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/meridian/tavern/labels/herald.rpy:21 #-#-# translate crowdin herald_78013ee1:
 msgid "[_cedrick_] Я принес тебе золото!"
@@ -26,7 +26,7 @@ msgstr "[_herald_] ¿Trajiste el oro?"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:33 #-#-# translate crowdin herald_cbcc2ae8:
 msgid "[_cedrick_] Нет... Еще нет..."
-msgstr "[_cedrick_] No... Todavía no..."
+msgstr "[_cedrick_] No… Todavía no…"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:34 #-#-# translate crowdin herald_6f71cd4c:
 msgid "[_herald_] Тогда не мешай мне запивать свое горе!"
