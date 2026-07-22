@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 13:59\n"
+"PO-Revision-Date: 2026-07-22 21:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/learn_history.rpy:366 #-#-# translate crowdin learn_history_c9230321:
 msgid "[_cedrick_] Сегодня я устал, лучше продолжу завтра"
@@ -26,7 +26,7 @@ msgstr "El dios sol en el antiguo Egipto"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Ра-Атум"
-msgstr "Ra Atum"
+msgstr "Ra-Atum"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Осирис"
@@ -34,7 +34,7 @@ msgstr "Osiris"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Аллах"
-msgstr "Al-lah"
+msgstr "Alá"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Красный бог"
@@ -62,7 +62,7 @@ msgstr "Espartaco"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Он был убит заговорщиками из ближайшего окружения несколькими десятками ударов мечей?"
-msgstr "¿Quién fue asesinado por conspiradores de su círculo íntimo con unos cuantos golpes de espada?"
+msgstr "¿Quién fue asesinado por conspiradores de su círculo más cercano con varias decenas de estocadas?"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Калигула"
@@ -86,7 +86,7 @@ msgstr "¿Cómo le llamaban a los primeros gobernantes de Roma?"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Царь"
-msgstr "Zar"
+msgstr "Rey"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Вождь"
@@ -98,7 +98,7 @@ msgstr "Emperador"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Князь"
-msgstr "Duque"
+msgstr "Príncipe"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "\"Отец истории\" в Древней Греции"
@@ -138,7 +138,7 @@ msgstr "Templo de Artemisa"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Храм Арестотеля"
-msgstr "Templo de Arestóteles"
+msgstr "Templo de Aristóteles"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Этот правитель Великой Римской Империи умел делать одновременно 7 никак не связанных между собой дел"
@@ -198,7 +198,7 @@ msgstr "Jeroglíficos del antiguo Egipto"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Латинский алфавит"
-msgstr "Pinyin"
+msgstr "Alfabeto latino"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Как называли рабов, которым давали оружие и заставляли драться друг с другом на смерть?"
@@ -210,7 +210,7 @@ msgstr "Gladiadores"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Домашние"
-msgstr "Inicio"
+msgstr "Domésticos"
 
 # game/scripts/bookshop/learn_history.rpy:2
 msgid "Животные"
