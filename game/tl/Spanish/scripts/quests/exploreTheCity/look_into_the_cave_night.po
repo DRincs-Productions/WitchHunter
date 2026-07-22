@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:32\n"
+"PO-Revision-Date: 2026-07-22 21:17\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:8 #-#-# translate crowdin look_into_the_cave_night_56bcbf25:
 msgid "[_cedrick_sprite_] Ах... Здесь так темно, я ни черта не вижу! Нужно немного времени, чтобы мои глаза смогли привыкнуть к этой темноте…"
-msgstr "[_cedrick_sprite_] Ah... ¡Está tan oscuro aquí, que no puedo ver nada! Mis ojos tardan un poco en acostumbrarse a esta oscuridad…"
+msgstr "[_cedrick_sprite_] Ah… ¡Está tan oscuro aquí, que no puedo ver nada! Mis ojos tardan un poco en acostumbrarse a esta oscuridad…"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:13 #-#-# translate crowdin look_into_the_cave_night_3a13eb24:
 msgid "[_blankChar_] ААААА!"
@@ -62,7 +62,7 @@ msgstr "[_blankChar_] ¡Blunk no volverá allí! ¡Por esas brujas malvadas!"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:30 #-#-# translate crowdin look_into_the_cave_night_60c64cf5:
 msgid "[_cedrick_] Ясно..."
-msgstr "[_cedrick_] Ya veo..."
+msgstr "[_cedrick_] Ya veo…"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:31 #-#-# translate crowdin look_into_the_cave_night_32293e27:
 msgid "[_cedrick_] Не бойся, я определенно не собираюсь тебя мыть…"
@@ -74,7 +74,7 @@ msgstr "[_cedrick_] (Aunque alguien debería hacerlo. ¡Dios, qué hedor!)"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:36 #-#-# translate crowdin look_into_the_cave_night_811e09e7:
 msgid "[_cedrick_] Подожди! Ты же тот контрабандист с Меридиана..."
-msgstr "[_cedrick_] ¡Espera! Tú eres ese contrabandista de Meridian..."
+msgstr "[_cedrick_] ¡Espera! Tú eres ese contrabandista de Meridian…"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:37 #-#-# translate crowdin look_into_the_cave_night_b09847a8:
 msgid "[_blankChar_] Бланк не контрбандист! Бланк бизнесмен!"
@@ -82,7 +82,7 @@ msgstr "[_blankChar_] ¡Blunk no es un contrabandista! ¡Blunk es un hombre de n
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:38 #-#-# translate crowdin look_into_the_cave_night_dbcf998f:
 msgid "[_cedrick_] (Бизнесмен... Ага, просто мелкий воришка. Однако он может быть полезен...)"
-msgstr "[_cedrick_] (Un hombre de negocios... Sí, sólo un ladronzuelo. Sin embargo, podría ser útil...)"
+msgstr "[_cedrick_] (Un hombre de negocios… Sí, sólo un ladronzuelo. Sin embargo, podría ser útil…)"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:39 #-#-# translate crowdin look_into_the_cave_night_baea92f1:
 msgid "[_cedrick_] Возможно, у тебя есть что-то ценное на продажу… Хотя здесь столько тухлого мусора… Может у тебя есть какая-нибудь информация о тех ведьмах?"
@@ -98,7 +98,7 @@ msgstr "[_blankChar_] ¡Un rascador de lengua plegable!"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:48 #-#-# translate crowdin look_into_the_cave_night_6079f0b5:
 msgid "[_cedrick_] Мне не нужн... Подожди!"
-msgstr "[_cedrick_] No necesito... ¡Espera!"
+msgstr "[_cedrick_] No necesito… ¡Espera!"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:49 #-#-# translate crowdin look_into_the_cave_night_34f32496:
 msgid "[_cedrick_] Это же телефон, где ты его достал?"
@@ -114,11 +114,11 @@ msgstr "[_cedrick_] Nada. ¿Dónde lo robaste?"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:58 #-#-# translate crowdin look_into_the_cave_night_8eab897a:
 msgid "[_blankChar_] Бланк не крал! Одолжил по старой дружбе... "
-msgstr "[_blankChar_] ¡Blunk no robo! Lo tomé prestado de un viejo amigo... "
+msgstr "[_blankChar_] ¡Blunk no robo! Lo tomé prestado de un viejo amigo… "
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:59 #-#-# translate crowdin look_into_the_cave_night_04f3be58:
 msgid "[_cedrick_] А неважно... За сколько продашь?"
-msgstr "[_cedrick_] No importa... ¿Por cuánto lo venderás?"
+msgstr "[_cedrick_] No importa… ¿Por cuánto lo venderás?"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:60 #-#-# translate crowdin look_into_the_cave_night_667ad927:
 msgid "[_blankChar_] Бланк хотеть 1000 золотых!"
@@ -142,7 +142,7 @@ msgstr "[_blankChar_] ¡Blunk también tiene trozos de carne! ¡2.000 de oro!"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:68 #-#-# translate crowdin look_into_the_cave_night_b4b59138:
 msgid "[_cedrick_] Эмм... нет, спасибо... может в другой раз."
-msgstr "[_cedrick_] Erm... no gracias... tal vez en otra ocasión."
+msgstr "[_cedrick_] Eh… no gracias… tal vez en otra ocasión."
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:69 #-#-# translate crowdin look_into_the_cave_night_0897b038:
 msgid "[_cedrick_] (нужно будет потыкаться и разобраться в телефоне)"
