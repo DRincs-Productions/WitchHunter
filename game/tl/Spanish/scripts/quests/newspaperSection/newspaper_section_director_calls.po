@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-11 04:04\n"
+"PO-Revision-Date: 2026-07-22 15:39\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:6 #-#-# translate crowdin newspaper_section_director_calls_534a0246:
 msgid "[_martin_]  Ах, вот вы где, мистер Хоффман! Я вас обыскался"
@@ -38,7 +38,7 @@ msgstr "[_cedrick_] Bueno, Martin. Gracias por avisarme."
 
 # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:22 #-#-# translate crowdin newspaper_section_director_calls_2a669677:
 msgid "[_centered_] {size=36}Через пять минут в кабинете директора{/size}"
-msgstr "[_centered_] {size=36}Cinco minutos despues en la oficina del director.{/size}"
+msgstr "[_centered_] {size=36}Cinco minutos después, en la oficina del director{/size}"
 
 # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:26 #-#-# translate crowdin newspaper_section_director_calls_ac90e423:
 msgid "[_cedrick_] Вызывали?"
