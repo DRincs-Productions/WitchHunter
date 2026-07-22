@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 15:40\n"
+"PO-Revision-Date: 2026-07-22 21:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:2 #-#-# translate crowdin invariably_cedrick_1_63272ad7:
 msgid "[_cedrick_] Добрый вечер. У вас заказан столик?"
@@ -34,7 +34,7 @@ msgstr "[_cedrick_] Disculpe, por ahora todas las mesas están ocupadas. Pero, p
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:13 #-#-# translate crowdin invariably_cedrick_3_f689912c:
 msgid "[_cedrick_] Через дорогу продается отличный бабл ти. Можете пока попробовать его, погулять по парку и вернуться"
-msgstr "[_cedrick_] está vendiendo mucho dinero al otro lado de la calle. Puedes probarlo mientras das un paseo por el parque y regresas"
+msgstr "[_cedrick_] Al otro lado de la calle venden un excelente té de burbujas. Pueden probarlo, dar una vuelta por el parque y regresar."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:14 #-#-# translate crowdin invariably_cedrick_3_37bf9a45:
 msgid "[_cedrick_] Столик ваш, если придете через 20 минут"
@@ -50,11 +50,11 @@ msgstr "[_restaurant_goer_6_] Un joven tan cortés, ¿sí, cariño?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:17 #-#-# translate crowdin invariably_cedrick_3_aba2e11f:
 msgid "[_restaurant_goer_7_] Ага, еще и такой красавчик"
-msgstr "[_restaurant_goer_7_] Agha, también tan guapo"
+msgstr "[_restaurant_goer_7_] Ajá, también tan guapo"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:18 #-#-# translate crowdin invariably_cedrick_3_7405dc9d:
 msgid "[_restaurant_goer_6_] ..."
-msgstr "[_restaurant_goer_6_] ..."
+msgstr "[_restaurant_goer_6_] …"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:19 #-#-# translate crowdin invariably_cedrick_3_c4dc91a5:
 msgid "[_restaurant_goer_6_] Так, в смысле?"
@@ -62,7 +62,7 @@ msgstr "[_restaurant_goer_6_] ¿De acuerdo, quiero decir?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:20 #-#-# translate crowdin invariably_cedrick_3_5a89b56e:
 msgid "[_cedrick_] (Хах, думаю после этих слов они уже не вернутся..)"
-msgstr "[_cedrick_] (Hah, creo que después de estas palabras no volverán.)"
+msgstr "[_cedrick_] (Ja, creo que después de estas palabras no volverán.)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:24 #-#-# translate crowdin invariably_cedrick_4_9669f8ea:
 msgid "[_cedrick_] Следующий!"
@@ -78,7 +78,7 @@ msgstr "[_restaurant_goer_8_] Sí. La mesa debe reservarse a nombre de Silvio."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:27 #-#-# translate crowdin invariably_cedrick_4_2f665184:
 msgid "[_cedrick_] Хм.. Сейчас посмотрю"
-msgstr "[_cedrick_] Hmm.. Ya lo veré"
+msgstr "[_cedrick_] Hmm… Ya lo veré"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:28 #-#-# translate crowdin invariably_cedrick_4_ab1ecd37:
 msgid "[_cedrick_] Не помните какой конкретно был столик? Угловой для компании или для двоих?"
@@ -90,7 +90,7 @@ msgstr "[_tony_] Para dos. Chico, vamos más rápido, no quiero detener a otros 
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:30 #-#-# translate crowdin invariably_cedrick_4_6ef555cc:
 msgid "[_cedrick_] Пацан? Хах. Простите, но я не могу найти вашего имени в списке"
-msgstr "[_cedrick_] ¿Niña? Hah. Lo siento, pero no encuentro tu nombre en la lista"
+msgstr "[_cedrick_] ¿Niña? Ja. Lo siento, pero no encuentro tu nombre en la lista"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:31 #-#-# translate crowdin invariably_cedrick_4_1b031679:
 msgid "[_tony_] Да ты издеваешься!"
@@ -98,7 +98,7 @@ msgstr "[_tony_] ¡Estás bromeando!"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:33 #-#-# translate crowdin invariably_cedrick_4_2e62511c:
 msgid "[_haylin_] (Мммфф.. Ч-что там происходит.. Буйный клиент..)"
-msgstr "[_haylin_] (Mmff.. Lo que está pasando ahí... El motín...”)"
+msgstr "[_haylin_] (Mmff… Lo que está pasando ahí… El motín…”)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:34 #-#-# translate crowdin invariably_cedrick_4_cc2e9b4d:
 msgid "[_cedrick_] (Думаю это надолго. Хай Лин, придется потерпеть..)"
@@ -126,7 +126,7 @@ msgstr "[_cedrick_] No creo que sea importante. Eres el mismo cliente que los de
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:53 #-#-# translate crowdin invariably_cedrick_4_bbcf77ee:
 msgid "[_tony_] Слушай сюда, шкет, я, Сильвио мать его Данте.."
-msgstr "[_tony_] Escucha, mocoso: soy Silvio, el maldito Dante..."
+msgstr "[_tony_] Escucha, mocoso: soy Silvio, el maldito Dante…"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:55 #-#-# translate crowdin invariably_cedrick_4_fde31832:
 msgid "[_johnlin_] Сил! Какого черта ты делаешь в моем ресторане?! Я же сказала никогда больше здесь не появляться"
@@ -142,7 +142,7 @@ msgstr "[_johnlin_] No tenemos nada de qué hablar contigo, Silvio, ¡sal de ah�
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:61 #-#-# translate crowdin invariably_cedrick_4_93b12f82:
 msgid "[_tony_] Речь о твоих долгах. Мы либо обсудим это лично, либо у всех на глазах, мне плевать"
-msgstr "[_tony_] es sobre sus deudas. Lo discutiremos en persona, o delante de todos, no me importa"
+msgstr "[_tony_] Se trata de tus deudas. Lo hablamos en privado o delante de todos; me da igual."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:62 #-#-# translate crowdin invariably_cedrick_4_2433f236:
 msgid "[_tony_] Хотел ведь по-хорошему, заказал столик"
@@ -154,11 +154,11 @@ msgstr "[_cedrick_] Señor, le pediré que se vaya"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:66 #-#-# translate crowdin invariably_cedrick_4_ba6c2d99:
 msgid "[_tony_] Не лезь, пиздюк, тебя никто не спрашивал"
-msgstr "[_tony_] No te muevas, peduk, nadie te preguntó"
+msgstr "[_tony_] No te metas, mocoso; nadie te preguntó."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:68 #-#-# translate crowdin invariably_cedrick_4_47ebef09:
 msgid "[_johnlin_] Р-рик, не надо.."
-msgstr "[_johnlin_] R-rh, no..."
+msgstr "[_johnlin_] R-rh, no…"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:69 #-#-# translate crowdin invariably_cedrick_4_dde439ff:
 msgid "[_cedrick_] Вы задерживаете других посетителей. Мешаете бизнесу"
@@ -174,11 +174,11 @@ msgstr "[_cedrick_] No necesitamos armar más revuelo. Llamaré enseguida a mi a
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:75 #-#-# translate crowdin invariably_cedrick_4_447322ad:
 msgid "[_tony_] Марие Медине? Пиздюк, да ты блефуешь"
-msgstr "[_tony_] ¿María Medina? Pizduk, estás faroleando"
+msgstr "[_tony_] ¿A Marie Medina? Mocoso, estás mintiendo."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:77 #-#-# translate crowdin invariably_cedrick_4_0fb2c0f5:
 msgid "[_cedrick_] Хах, хочешь проверить? Не знаю уж что тут происходит, но судя по твоему поведению ты мутный тип с какими-то криминальными связями"
-msgstr "[_cedrick_] Hah, ¿quieres comprobarlo? No sé qué está pasando aquí, pero a juzgar por tu comportamiento, eres un tipo turbio con algunas conexiones criminales"
+msgstr "[_cedrick_] Ja, ¿quieres comprobarlo? No sé qué está pasando aquí, pero a juzgar por tu comportamiento, eres un tipo turbio con algunas conexiones criminales"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:79 #-#-# translate crowdin invariably_cedrick_4_45ef639c:
 msgid "[_cedrick_] А всех таких людей вроде тебя объединяет знаешь что, Сильвио?"
@@ -186,11 +186,11 @@ msgstr "[_cedrick_] ¿Y toda esta gente como tú sabes qué, Silvio?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:81 #-#-# translate crowdin invariably_cedrick_4_f689ef80:
 msgid "[_tony_] Просвети уж, умник"
-msgstr "[_tony_]HEHEHEAD, Smart"
+msgstr "[_tony_] Ilumínanos, listillo"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:83 #-#-# translate crowdin invariably_cedrick_4_644ec41f:
 msgid "[_cedrick_] Вы все как один с микрофонами прослушки в жопе. Даже если не подозреваете об этом"
-msgstr "[_cedrick_] Todos ustedes son como uno con micrófonos que hacen wiretapping en el culo. Incluso si no lo sabes"
+msgstr "[_cedrick_] Todos ustedes llevan micrófonos de escucha en el trasero, aunque ni siquiera lo sepan."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:84 #-#-# translate crowdin invariably_cedrick_4_25550378:
 msgid "[_cedrick_] Любой правительственный агент только и мечтает о том, чтобы залезть к тебе в дом, осмотреть твой гараж, проверить содержимое твоей машины"
@@ -210,7 +210,7 @@ msgstr "[_cedrick_] Una simple pelea y todos tus sucios secretos saldrán. Enton
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:90 #-#-# translate crowdin invariably_cedrick_4_5379e471:
 msgid "[_tony_] ..."
-msgstr "[_tony_] ..."
+msgstr "[_tony_] …"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:92 #-#-# translate crowdin invariably_cedrick_4_dc676f1d:
 msgid "[_cedrick_] А ты готов?"
@@ -218,7 +218,7 @@ msgstr "[_cedrick_] ¿Estás listo?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:94 #-#-# translate crowdin invariably_cedrick_4_68f131b2:
 msgid "[_tony_] ...."
-msgstr "[_tony_] ...."
+msgstr "[_tony_] …"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:97 #-#-# translate crowdin invariably_cedrick_4_f447c171:
 msgid "[_cedrick_] Медина у меня на быстром наборе. Думаю в отличии от продажных копов, которые закрыли бы на все глаза, Медина вцепится в тебя мертвой хваткой"
@@ -226,7 +226,7 @@ msgstr "[_cedrick_] Medina está en mi set rápido. Creo que, a diferencia de lo
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:98 #-#-# translate crowdin invariably_cedrick_4_270e5198:
 msgid "[_tony_] ......."
-msgstr "[_tony_] ......."
+msgstr "[_tony_] …"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:100 #-#-# translate crowdin invariably_cedrick_4_f638664d:
 msgid "[_tony_] Я пойду. Не смею больше вас задерживать, господа. Джоан, еще увидимся"
@@ -234,11 +234,11 @@ msgstr "[_tony_] Me voy. No puedo retenerte más, caballeros. Joan, nos vemos de
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:101 #-#-# translate crowdin invariably_cedrick_4_0d9b9265:
 msgid "[_cedrick_] Если и увидитесь, то я буду рядом, Сил"
-msgstr "[_cedrick_] Si ves, estaré allí,"
+msgstr "[_cedrick_] Si llegan a verse, yo estaré cerca, Sil."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:103 #-#-# translate crowdin invariably_cedrick_4_d9d65c68:
 msgid "[_tony_] Пф.. Не зазнавайся, пиздюк.."
-msgstr "[_tony_] Pf. No te hagas conceder, monstruo..."
+msgstr "[_tony_] Pf. No te hagas conceder, monstruo…"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:116 #-#-# translate crowdin proverka_haaylin_vibro_98e124ae:
 msgid "[_restaurant_goer_1_] Эй, что это за стоны!?"
@@ -254,9 +254,9 @@ msgstr "[_restaurant_goer_3_] ¿Qué pasa en este restaurante?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:119 #-#-# translate crowdin proverka_haaylin_vibro_d8039f96:
 msgid "[_cedrick_] (Ч-черт, нас поймали.. Это зашло слишком далеко)"
-msgstr "[_cedrick_] (Maldita sea, nos han atrapado... Se fue demasiado lejos)"
+msgstr "[_cedrick_] (Maldita sea, nos han atrapado… Se fue demasiado lejos)"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:120 #-#-# translate crowdin proverka_haaylin_vibro_64b31956:
 msgid "[_haylin_] Р-рик, что ты наделал.."
-msgstr "[_haylin_] R-r-Rick, lo que has hecho..."
+msgstr "[_haylin_] R-r-Rick, lo que has hecho…"
 
