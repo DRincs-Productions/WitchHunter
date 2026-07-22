@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-14 02:54\n"
+"PO-Revision-Date: 2026-07-22 14:04\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:5 #-#-# translate crowdin newspaper_section_ghosts_a20cefa7:
 msgid "..."
@@ -234,7 +234,7 @@ msgstr "[_pupils_] ¡Mi taquilla!"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:104 #-#-# translate crowdin newspaper_section_ghosts_b18e300e:
 msgid "[_cedrick_] (похоже им не удалось избавится от вепря..)"
-msgstr "[_cedrick_] "
+msgstr "[_cedrick_] (Parece que no lograron deshacerse del jabalí...)"
 
 # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:105 #-#-# translate crowdin newspaper_section_ghosts_503fa0ff:
 msgid "[_pupils_] Это сделал призрак??"
