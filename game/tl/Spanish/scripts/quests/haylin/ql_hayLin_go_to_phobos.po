@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:38\n"
+"PO-Revision-Date: 2026-07-22 14:04\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:4 #-#-# translate crowdin ql_hayLin_go_to_phobos_80d3b9ee:
 msgid "[_cedrick_] Мой Князь...?"
@@ -30,7 +30,7 @@ msgstr "[_phobos_] Deberías darte prisa..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:8 #-#-# translate crowdin ql_hayLin_go_to_phobos_63fe0ba0:
 msgid "[_raythor_] Князь Фобос, к вам пожаловал гость!"
-msgstr "[_raythor_] ¡Príncipe Phobos!, ¡ha llegado un visitante!"
+msgstr "[_raythor_] ¡Príncipe Fobos!, ¡ha llegado un visitante!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:9 #-#-# translate crowdin ql_hayLin_go_to_phobos_51767206:
 msgid "[_phobos_] Гость!? Гони его прочь!"
@@ -46,7 +46,7 @@ msgstr "[_phobos_] Hm... Ok, déjalo entrar..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:16 #-#-# translate crowdin ql_hayLin_go_to_phobos_0c63bd59:
 msgid "[_jink1_] Джинк знал... лучше князю фобосу доложить все..."
-msgstr "[_jink1_] Jink sabía... mejor informar de todo al Príncipe Phobos..."
+msgstr "[_jink1_] Jink sabía... mejor informar de todo al Príncipe Fobos..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:21 #-#-# translate crowdin ql_hayLin_go_to_phobos_dae64d04:
 msgid "[_raythor_] Слушай меня, если пришел с ерундой... останешься без головы..."
@@ -102,7 +102,7 @@ msgstr "[_raythor_] ¡Como usted ordene, mi Príncipe!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:52 #-#-# translate crowdin ql_hayLin_go_to_phobos_4db33673:
 msgid "[_phobos_] А теперь все вон отсюда! В-о-о-о-н!"
-msgstr "[_phobos_] ¡Ahora vete de aquí! ¡W-o-o-n!"
+msgstr "[_phobos_] ¡Y ahora váyanse todos de aquí! ¡F-f-f-fuera!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:54 #-#-# translate crowdin ql_hayLin_go_to_phobos_a20cefa7:
 msgid "..."
