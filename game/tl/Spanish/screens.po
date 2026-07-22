@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 15:37\n"
+"PO-Revision-Date: 2026-07-22 21:14\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:71
 msgid "[tooltip]"
@@ -22,15 +22,15 @@ msgstr "Encontré un error tipográfico"
 
 # game/screens.rpy:203
 msgid "Пропуск"
-msgstr "Descartar"
+msgstr "Saltar"
 
 # game/screens.rpy:440
 msgid "Начать"
-msgstr "Inicio"
+msgstr "Comenzar"
 
 # game/screens.rpy:441
 msgid "Загрузить"
-msgstr "Descargar"
+msgstr "Cargar"
 
 # game/screens.rpy:442
 msgid "Настройки"
@@ -46,7 +46,7 @@ msgstr "Menú de trucos"
 
 # game/screens.rpy:445
 msgid "Поддержать"
-msgstr "Contribuir"
+msgstr "Apoyar"
 
 # game/screens.rpy:446
 msgid "Титры"
@@ -110,7 +110,7 @@ msgstr "Carga rápida"
 
 # game/screens.rpy:841
 msgid "Быстрый пропуск"
-msgstr "Pase rápido"
+msgstr "Salto rápido"
 
 # game/screens.rpy:842
 msgid "Авто пропуск"
