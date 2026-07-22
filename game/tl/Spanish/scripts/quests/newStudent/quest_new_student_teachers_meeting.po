@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:40\n"
+"PO-Revision-Date: 2026-07-22 15:39\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:8 #-#-# translate crowdin quest_new_student_teachers_meeting_d9616179:
 msgid "[_physteacher_] Рик! Дружище, спасибо, что выручил в тот раз. Знатно я тогда перебрал.."
@@ -130,7 +130,7 @@ msgstr "[_cedrick_] (Maldita sea, uno de los pequeños imbéciles me delató...)
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:102 #-#-# translate crowdin quest_new_student_teachers_meeting_5bb20f09:
 msgid "[_centered_] {size=37}спустя несколько минут на собрании учителей {/size}"
-msgstr "[_centered_] {size=37}Unos minutos despues, en la reunión de profesores {/size}"
+msgstr "[_centered_] {size=37}Unos minutos después, en la reunión de profesores{/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:110 #-#-# translate crowdin quest_new_student_teachers_meeting_ca263fd0:
 msgid "[_directris_] Как вы уже знаете, к нам перевелась новая ученица по обмену из Швейцарии."
