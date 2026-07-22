@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-27 03:44\n"
+"PO-Revision-Date: 2026-07-22 14:03\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:5 #-#-# translate crowdin getAlchemyFromRaythor_2cc482bf:
 msgid "[_raythor_] О, снова ты, Седрик? Какими судьбами?"
@@ -42,7 +42,7 @@ msgstr "[_cedrick_] Por ejemplo, según las antiguas leyes, quien matara al coma
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:30 #-#-# translate crowdin getAlchemyFromRaythor_49009236:
 msgid "[_cedrick_] В итоге князь Фобос упразднил этот закон, а знаешь почему?"
-msgstr "[_cedrick_] Como resultado, el Príncipe Phobos originalmente abolió esta ley, ¿y sabes por qué?"
+msgstr "[_cedrick_] Como resultado, el Príncipe Fobos originalmente abolió esta ley, ¿y sabes por qué?"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:34 #-#-# translate crowdin getAlchemyFromRaythor_1e0f2cbb:
 msgid "[_raythor_] Ну и почему же?"
@@ -54,7 +54,7 @@ msgstr "[_cedrick_] Durante todo el tiempo que estuvo vigente esta ley, fueron m
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:39 #-#-# translate crowdin getAlchemyFromRaythor_019a3b07:
 msgid "[_cedrick_] Князь Фобос упразднил этот закон, потому что ему надоело попусту терять людей, ведь было очевидно, что нет в Меридиане солдата, который одолел бы меня"
-msgstr "[_cedrick_] El Príncipe Phobos abolió esta ley porque estaba cansado de desperdiciar a la gente, porque era obvio que no había ningún soldado en Meridian que pudiera derrotarme."
+msgstr "[_cedrick_] El Príncipe Fobos abolió esta ley porque estaba cansado de desperdiciar a la gente, porque era obvio que no había ningún soldado en Meridian que pudiera derrotarme."
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:40 #-#-# translate crowdin getAlchemyFromRaythor_7d6acc64:
 msgid "[_cedrick_]  И знаешь что? Будь этот закон все еще в силе, ты бы и дня не прожил, Райтер"
@@ -78,7 +78,7 @@ msgstr "[_str1_] ¡Oh, sí, esta perra chupa genial!"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:55 #-#-# translate crowdin gallery_d_044_d0d48ac8:
 msgid "[_alchemy_] Мммммввввмб!!!"
-msgstr "[_alchemy_] Mmmmmmmmmm!!!!"
+msgstr "[_alchemy_] Mmmmmmmmm!!!!"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:56 #-#-# translate crowdin gallery_d_044_ba0afdc0:
 msgid "[_cedrick_] (Что, черт возьми, происходит?)"
@@ -110,7 +110,7 @@ msgstr "[_str2_] Uhhhh chicos, su coño es demasiado bueno, no puedo soportarlo 
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:63 #-#-# translate crowdin gallery_d_044_ef4eb170:
 msgid "[_alchemy_] Мммммвввваааб!!!"
-msgstr "[_alchemy_] Mmmmmmmmmm!!!!"
+msgstr "[_alchemy_] Mmmmmmmmm!!!!"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:64 #-#-# translate crowdin gallery_d_044_66f6ad04:
 msgid "[_str1_] Тогда устроим ей незабываемый дождь!"
@@ -134,7 +134,7 @@ msgstr "[_str3_] ¡L-Lord Cedric! ¿Por qué estás...?"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:72 #-#-# translate crowdin gallery_d_044_1c126983:
 msgid "[_cedrick_] Молчать! Кто вам позволил трахаться с девчонкой прямо в казарме!? Вы что, забыли правила!"
-msgstr "[_cedrick_] ¡Calla! ¿¡Quién te permitió follarte a una chica en el cuartel!? ¿Has olvidado las reglas?"
+msgstr "[_cedrick_] ¡Calla! ¿¡Quién te permitió cogerte a una chica en el cuartel!? ¿Has olvidado las reglas?"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:73 #-#-# translate crowdin gallery_d_044_25af8284:
 msgid "[_str1_] П-приносим свои извинения, главнокомандующий Седрик..."
@@ -142,7 +142,7 @@ msgstr "[_str1_] N-nos disculpamos, comandante en jefe Cedric..."
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:74 #-#-# translate crowdin gallery_d_044_8716d493:
 msgid "[_cedrick_] Я больше не ваш главнокомандующий, солдат. Но это не дает вам права нарушать устав! Никаких девок в казарме. Хотите трахаться – делайте это за пределами замка"
-msgstr "[_cedrick_] Ya no soy tu comandante en jefe, soldado. ¡Pero esto no le da derecho a violar la regla! No hay chicas en el cuartel. Si quieres follar hazlo fuera del castillo."
+msgstr "[_cedrick_] Ya no soy tu comandante en jefe, soldado. ¡Pero esto no le da derecho a violar la regla! No hay chicas en el cuartel. Si quieres coger hazlo fuera del castillo."
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:75 #-#-# translate crowdin gallery_d_044_9851aca8:
 msgid "[_str2_] Т-так точно, Лорд Седрик!"
