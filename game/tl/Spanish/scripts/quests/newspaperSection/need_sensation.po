@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:04\n"
+"PO-Revision-Date: 2026-07-22 15:39\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newspaperSection/need_sensation.rpy:6 #-#-# translate crowdin need_sensation_3a6e34d5:
 msgid "[_bess_] А давайте напишем про, то что директриса завела роман с одним из учеников!"
@@ -214,7 +214,7 @@ msgstr "[_irma_] Escuchamos un ruido."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:190 #-#-# translate crowdin need_sensation_13b62ad0:
 msgid "[_martin_] Я видел приведение, это чистый эксклюзив! Ждите фото!"
-msgstr "[_martin_] Vi un fantasma. ¡Es totalmente exclusiva! ¡Esperen las fotos!"
+msgstr "[_martin_] ¡Vi un fantasma! ¡Es una exclusiva! ¡Esperen las fotos!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:194 #-#-# translate crowdin need_sensation_6ec5bb32:
 msgid "[_tarani_] Мартин, запомни, это называется кондиционер"
@@ -326,7 +326,7 @@ msgstr "[_bess_] Soy yo, lo siento... me asusté."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:241 #-#-# translate crowdin need_sensation_b15689b7:
 msgid "[_martin_] Меня кто-то толкнул, и я уронил фонарик"
-msgstr "[_martin_] Soy yo, lo siento... me asusté."
+msgstr "[_martin_] Alguien me empujó y se me cayó la linterna."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:246 #-#-# translate crowdin need_sensation_a20cefa7_5:
 msgid "..."
