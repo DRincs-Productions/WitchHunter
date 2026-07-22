@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:08\n"
+"PO-Revision-Date: 2026-07-22 15:41\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/game_with_elion.rpy:6 #-#-# translate crowdin game_with_elion_c962de1f:
 msgid "[_cedrick_] Элион? Элион, я пришел!"
@@ -82,7 +82,7 @@ msgstr "[_elion_] Bueno, ¿conectamos la consola?"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:42 #-#-# translate crowdin game_with_elion_a00a4bf0:
 msgid "[_elion_] Тааак, сейчас распакуем. Давай посмотрим, что там за игры"
-msgstr "[_elion_] Bueno, vamos a desempaquemos. Veamos qué juegos contiene"
+msgstr "[_elion_] Bueeeno, vamos a abrirlo. Veamos qué juegos hay dentro."
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:43 #-#-# translate crowdin game_with_elion_5cb41734:
 msgid "[_cedrick_] (Игры? Черт, они что, идут отдельно?)"
@@ -510,7 +510,7 @@ msgstr "[_cedrick_] ¡Pero por supuesto!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:288 #-#-# translate crowdin cedrick_final_win_6433638a:
 msgid "[_elion_] Урааа! Ну все, сейчас я тебя сделаю!!"
-msgstr "[_elion_] ¡Hurra! ¡Eso es, ahora voy a acabar contigo!!"
+msgstr "[_elion_] ¡Siii! ¡Ahora sí voy a ganarte!"
 
 # game/scripts/quests/questMotherDay/game_with_elion.rpy:289 #-#-# translate crowdin cedrick_final_win_3841a78e:
 msgid "[_cedrick_] Еще посмотрим!"
