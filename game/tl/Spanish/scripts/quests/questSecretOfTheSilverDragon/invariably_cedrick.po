@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:05\n"
+"PO-Revision-Date: 2026-07-22 15:40\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:2 #-#-# translate crowdin invariably_cedrick_1_63272ad7:
 msgid "[_cedrick_] Добрый вечер. У вас заказан столик?"
@@ -30,7 +30,7 @@ msgstr "[_restaurant_goer_6_] Hola. No reservamos una mesa, ¿tienes un lugar pa
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:12 #-#-# translate crowdin invariably_cedrick_3_750a5ed0:
 msgid "[_cedrick_] Простите, на данный момент все места заняты. Но судя по моим наблюдениям примерно через 20 минут одна пара уходит"
-msgstr "[_cedrick_] Disculpe, en este momento no tenemos mesas libres. Pero, por lo que veo, una pareja se irá dentro de unos veinte minutos."
+msgstr "[_cedrick_] Disculpe, por ahora todas las mesas están ocupadas. Pero, por lo que veo, una pareja se irá dentro de unos veinte minutos."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:13 #-#-# translate crowdin invariably_cedrick_3_f689912c:
 msgid "[_cedrick_] Через дорогу продается отличный бабл ти. Можете пока попробовать его, погулять по парку и вернуться"
@@ -74,7 +74,7 @@ msgstr "[_cedrick_] Buenas noches. ¿Tienes una mesa?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:26 #-#-# translate crowdin invariably_cedrick_4_eb1d374a:
 msgid "[_restaurant_goer_8_] Да. Столик должен быть забронирован на имя Сильвио"
-msgstr "[_restaurant_goer_8_] Sí. La mesa debe reservarse en nombre de silvio"
+msgstr "[_restaurant_goer_8_] Sí. La mesa debe reservarse a nombre de Silvio."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:27 #-#-# translate crowdin invariably_cedrick_4_2f665184:
 msgid "[_cedrick_] Хм.. Сейчас посмотрю"
@@ -126,11 +126,11 @@ msgstr "[_cedrick_] No creo que sea importante. Eres el mismo cliente que los de
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:53 #-#-# translate crowdin invariably_cedrick_4_bbcf77ee:
 msgid "[_tony_] Слушай сюда, шкет, я, Сильвио мать его Данте.."
-msgstr "[_tony_] Escucha aquí, patina, yo, Silvio madre su Dante..."
+msgstr "[_tony_] Escucha, mocoso: soy Silvio, el maldito Dante..."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:55 #-#-# translate crowdin invariably_cedrick_4_fde31832:
 msgid "[_johnlin_] Сил! Какого черта ты делаешь в моем ресторане?! Я же сказала никогда больше здесь не появляться"
-msgstr "[_johnlin_] ¡Poder! ¿Qué diablos haces en mi restaurante? Te dije que no volvieras a estar aquí"
+msgstr "[_johnlin_] ¡Sil! ¿Qué demonios haces en mi restaurante? ¡Te dije que no volvieras a aparecer por aquí!"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:57 #-#-# translate crowdin invariably_cedrick_4_6a3f4484:
 msgid "[_tony_] Я буду появляться там, где захочу, Джоан. Я пришел чтобы поговорить"
@@ -170,7 +170,7 @@ msgstr "[_tony_] ¿Y qué? Ja, ¿vas a llamar a la policía?"
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:73 #-#-# translate crowdin invariably_cedrick_4_4be56df5:
 msgid "[_cedrick_] Нет, лишняя шумиха нам ни к чему. Я просто сразу позвоню своей подруге Медине из Интерпола"
-msgstr "[_cedrick_] No, no necesitamos ningún bombo extra. Llamaré a mi amiga Medina de la interpol de inmediato"
+msgstr "[_cedrick_] No necesitamos armar más revuelo. Llamaré enseguida a mi amiga Medina, de Interpol."
 
 # game/scripts/quests/questSecretOfTheSilverDragon/invariably_cedrick.rpy:75 #-#-# translate crowdin invariably_cedrick_4_447322ad:
 msgid "[_tony_] Марие Медине? Пиздюк, да ты блефуешь"
