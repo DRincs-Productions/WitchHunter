@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:02\n"
+"PO-Revision-Date: 2026-07-22 21:16\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/meridian/miranda/miranda.rpy:18
 msgid "Подчинение стражниц"
-msgstr "La subordinación de los guardianas"
+msgstr "La subordinación de las Guardianas"
 
 # game/scripts/meridian/miranda/miranda.rpy:18
 msgid "Зелье для Ян Лин"
@@ -22,7 +22,7 @@ msgstr "Una poción para Yan Lin"
 
 # game/scripts/meridian/miranda/miranda.rpy:18
 msgid "Попросить клонировать Тома Леира"
-msgstr "Pedir la clonación de Tom Leir"
+msgstr "Pedir la clonación de Tom Lair"
 
 # game/scripts/meridian/miranda/miranda.rpy:18
 msgid "Отдать клок волос для приготовления зелья"
@@ -34,7 +34,7 @@ msgstr "Pídele a Miranda una poción de vejez"
 
 # game/scripts/meridian/miranda/miranda.rpy:18
 msgid "Попросить ноздрю дракона"
-msgstr "Pide fosa nasal de dragón"
+msgstr "Pide la fosa nasal de dragón"
 
 # game/scripts/meridian/miranda/miranda.rpy:18
 msgid "Узнать о девушке в колбе"
@@ -46,7 +46,7 @@ msgstr "10 glándulas Morpiones"
 
 # game/scripts/meridian/miranda/miranda.rpy:18
 msgid "Поиск королевы морпионов"
-msgstr "En busca de la reina Morpiones"
+msgstr "En busca de la Reina de los Morpiones"
 
 # game/scripts/meridian/miranda/miranda.rpy:18
 msgid "Я добыл Кристаллическую эссенцию"
