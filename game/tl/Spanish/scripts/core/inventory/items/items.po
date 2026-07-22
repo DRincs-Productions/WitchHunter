@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:00\n"
+"PO-Revision-Date: 2026-07-22 21:15\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
 msgid "Звезда Трибы"
@@ -38,7 +38,7 @@ msgstr "¡La raíz de una planta muy rara!"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Китайская Чавкающая Капуста"
-msgstr "Brotes Chinos Chabby"
+msgstr "Col china mordedora"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Магический овощ выращенный в Китае."
@@ -190,11 +190,11 @@ msgstr "Glándula de Morpión"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Сок из желез морпионов"
-msgstr "Jugo de las glándulas morphionares"
+msgstr "Jugo de glándulas de morpión"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Кристаллическая железа королевы морпионов"
-msgstr "Glándula cristalina de la Reina Morpiones"
+msgstr "Glándula cristalina de la Reina de los Morpiones"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Кристаллическая эссенция"
@@ -222,7 +222,7 @@ msgstr "Vicodin"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Сексуальный комплект для ролевых игр"
-msgstr "Juego de rol sexy"
+msgstr "Conjunto sexy para juegos de rol"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Виброяйцо с пультом управления\n"
