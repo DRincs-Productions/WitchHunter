@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:36\n"
+"PO-Revision-Date: 2026-07-22 14:03\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/askIngredientForAgePotionForLilian.rpy:5 #-#-# translate crowdin askIngredientForAgePotionForLilian_6211143e:
 msgid "[_cedrick_] Ты ведь Ведьмак, верно?"
@@ -50,7 +50,7 @@ msgstr "[_cedrick_] ¿¡Doscientos!? ¡Eso es un robo!"
 
 # game/scripts/quests/growingUpLilian/askIngredientForAgePotionForLilian.rpy:14 #-#-# translate crowdin askIngredientForAgePotionForLilian_8babadeb:
 msgid "[_herald_] Я и так скинул тебе цену... Знаешь ли... Его не так-то и просто достать... Этот цветок растет только в эльфийских лесах... В местах, окропленной старшей кровью... "
-msgstr "[_herald_] Ya te he hecho un descuento... Sabes... No es fácil de conseguir... Esta flor solo crece en los bosques de los elfos... En lugares salpicados con la sangre antigua... "
+msgstr "[_herald_] Ya te he hecho un descuento... Sabes... No es fácil de conseguir... Esta flor solo crece en los bosques de los elfos... En lugares salpicados con la sangre antigua..."
 
 # game/scripts/quests/growingUpLilian/askIngredientForAgePotionForLilian.rpy:15 #-#-# translate crowdin askIngredientForAgePotionForLilian_074df6c2:
 msgid "[_herald_] Да и существовать мне тоже надо на что-то... В ваших местах довольно сложно найти заказ..."
@@ -58,7 +58,7 @@ msgstr "[_herald_] Y también necesito algo para vivir... Es bastante difícil e
 
 # game/scripts/quests/growingUpLilian/askIngredientForAgePotionForLilian.rpy:16 #-#-# translate crowdin askIngredientForAgePotionForLilian_69ceaeaa:
 msgid "[_cedrick_] Существовать, ага... Ты же просто сидишь тут и хлещешь этот вонючий эль! Я тебя тут вижу каждый раз, когда захожу в таверну. Ты вообще отсюда, хоть иногда, выходишь!? Жалуется он мне, еще тут, на отсутствие заказов... Вот у куртизанки, рядом с тобой, заказов хоть отбавляй!"
-msgstr "[_cedrick_] Si existen... ¡Solo te sientas ahí bebiendo esa apestosa cerveza! Te veo aquí cada vez que entro en la taberna. ¡¿Nunca sales de aquí?! Se queja conmigo por la falta de encargos... ¡La cortesana de al lado tiene muchos pedidos!"
+msgstr "[_cedrick_] ¿Sobrevivir, sí...? ¡Si lo único que haces es sentarte ahí a beber esa cerveza apestosa! Te veo aquí cada vez que entro en la taberna. ¿Acaso sales alguna vez? Y todavía te quejas de que no hay encargos... ¡La cortesana que está a tu lado tiene trabajo de sobra!"
 
 # game/scripts/quests/growingUpLilian/askIngredientForAgePotionForLilian.rpy:17 #-#-# translate crowdin askIngredientForAgePotionForLilian_76e3286e:
 msgid "[_herald_] У меня заказы другого вида, а мои деньги — это мое личное дело."
@@ -70,7 +70,7 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/growingUpLilian/askIngredientForAgePotionForLilian.rpy:19 #-#-# translate crowdin askIngredientForAgePotionForLilian_953835ed:
 msgid "[_herald_] Ну так что, будешь играть? "
-msgstr "[_herald_] Entonces, ¿vas a jugar? "
+msgstr "[_herald_] Entonces, ¿vas a jugar?"
 
 # game/scripts/quests/growingUpLilian/askIngredientForAgePotionForLilian.rpy:35 #-#-# translate crowdin askIngredientForAgePotionForLilian_aff7b304:
 msgid "[_cedrick_] У меня нет столько золота..."
