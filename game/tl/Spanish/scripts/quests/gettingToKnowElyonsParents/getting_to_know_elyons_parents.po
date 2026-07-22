@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-21 03:40\n"
+"PO-Revision-Date: 2026-07-22 14:03\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:5 #-#-# translate crowdin getting_to_know_elyons_parents_ffa6edae:
 msgid "[_elion_] ..Рик, есть минутка?"
@@ -318,7 +318,7 @@ msgstr "[_cedrick_] (Hm, una familia tan agradable a primera vista, no sabrías 
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:166 #-#-# translate crowdin getting_to_know_elyons_parents_1df5c004:
 msgid "[_cedrick_] (Хотя, с Томасом надо быть поосторожнее. Не думаю, что он подозревает во мне человека, присланного Фобосом, но все же..)"
-msgstr "[_cedrick_] (Aunque hay que tener cuidado con Thomas. No creo que sospeche que soy un hombre enviado por Phobos, pero aun así...)"
+msgstr "[_cedrick_] (Aunque hay que tener cuidado con Thomas. No creo que sospeche que soy un hombre enviado por Fobos, pero aun así...)"
 
 # game/scripts/quests/gettingToKnowElyonsParents/getting_to_know_elyons_parents.rpy:167 #-#-# translate crowdin getting_to_know_elyons_parents_8c192c6d:
 msgid "[_cedrick_] (В первую очередь нужно завоевать их доверие, потом разберусь, что с ними делать дальше...)"
