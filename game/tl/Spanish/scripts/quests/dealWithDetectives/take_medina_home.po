@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:02\n"
+"PO-Revision-Date: 2026-07-22 15:38\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:3 #-#-# translate crowdin take_medina_home_74be0a74:
 msgid "[_centered_] {size=37}СЕДРИК ОТВОДИТ МЕДИНУ ДОМОЙ, В ВЫСОТКУ, В КОТОРОЙ ТАК ЖЕ ЖИВЕТ И КОРНЕЛИЯ{/size}"
@@ -270,7 +270,7 @@ msgstr "[_elion_] Rick es un falso sospechoso... Yo... Me alegro mucho..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:94 #-#-# translate crowdin gallery_d_071_65eb48d8:
 msgid "[_elion_] Я так перепугалась за тебя, Рик.. Сначала я была в шоке, но потом поняла, что ты не мог всего этого сделать.. Я знала.."
-msgstr "[_elion_] Estaba tan asustado por ti, Rick... Al principio estaba en shock, pero luego me di cuenta de que no podías hacer todo esto... Lo sabía..."
+msgstr "[_elion_] Estaba muy asustada por ti, Rick... Al principio quedé en shock, pero luego comprendí que no podías haber hecho todo eso... Lo sabía..."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:95 #-#-# translate crowdin gallery_d_071_b3725b3a:
 msgid "[_cedrick_] Да, Элион.. Ты умница.."
