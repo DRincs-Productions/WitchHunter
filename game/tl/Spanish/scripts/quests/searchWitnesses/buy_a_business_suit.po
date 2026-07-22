@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:06\n"
+"PO-Revision-Date: 2026-07-22 15:40\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:3 #-#-# translate crowdin buy_a_business_suit_cdeda416:
 msgid "У меня сейчас не хватает денег на деловой костюм"
@@ -18,7 +18,7 @@ msgstr "No tengo suficiente dinero para un traje de negocios ahora mismo"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:8 #-#-# translate crowdin buy_a_business_suit_397c72f0:
 msgid "[_cedrick_] (Какого черта!? Самый дешевый костюм стоит 1000$? Что за обдираловка..)"
-msgstr "[_cedrick_] (¿Qué diablos es? ¿Es el $100 más barato? Qué raquitismo.)"
+msgstr "[_cedrick_] (¿¡Qué demonios!? ¿El traje más barato cuesta $1000? ¡Qué robo...!)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:11 #-#-# translate crowdin buy_a_business_suit_adddbe49:
 msgid "[_cedrick_] (Хм.. А вот неплохой галстук ценой всего 50$..)"
@@ -454,7 +454,7 @@ msgstr "[_unknown_girl_] Aahhh... ¿Por qué..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:248 #-#-# translate crowdin gallery_d_076_9f5b06be:
 msgid "[_cedrick_] (Ага, женские стоны, как я и думал..)"
-msgstr "[_cedrick_] (Aga, gemidos de mujeres, como pensaba.)"
+msgstr "[_cedrick_] (Ajá, gemidos de mujer, justo como pensaba...)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:249 #-#-# translate crowdin gallery_d_076_fa1e33f7:
 msgid "[_unknown_man_] Эй, будь потише. Нас могут услышать"
@@ -1330,7 +1330,7 @@ msgstr "[_alchemy_] A D-dany no le importa"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:624 #-#-# translate crowdin gallery_d_080_db78f07a:
 msgid "[_cedrick_] Ну и как же так в итоге вышло, а, Алхими?"
-msgstr "[_cedrick_], Bueno, ¿cómo terminó, ah, alhim?"
+msgstr "[_cedrick_] Bueno, Alchemy, ¿cómo terminamos así?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:625 #-#-# translate crowdin gallery_d_080_5cc8ac43:
 msgid "[_cedrick_] Ты вроде как уже с Фобосом, но занимаешься сексом ты все равно со мной"
@@ -1346,7 +1346,7 @@ msgstr "[_alchemy_] No. No. Aah... Solo contigo..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:628 #-#-# translate crowdin gallery_d_080_bfcd377e:
 msgid "[_alchemy_] Я.. Ууух.. Не знаю.. Не знаю, как объяснить.."
-msgstr "[_alchemy_] Yo... Wuhu... No sé. No sé cómo explicar..."
+msgstr "[_alchemy_] Y-yo... Uuuh... No lo sé... No sé cómo explicarlo..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:629 #-#-# translate crowdin gallery_d_080_5962d98e:
 msgid "[_alchemy_] Видимо это, ааах.. По старой памяти.. Я привыкла, что меня трахаешь ты.."
@@ -1478,7 +1478,7 @@ msgstr "[_alchemy_] Hah, y pensé que estaba aquí fanática de los miembros. Ve
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:684 #-#-# translate crowdin gallery_d_080_1582123a:
 msgid "[_cedrick_] Уууууф, я кончаю!!"
-msgstr "[_cedrick_] Uuuuf, estoy triste!!"
+msgstr "[_cedrick_] ¡Uuuuf, me corro!"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:687 #-#-# translate crowdin gallery_d_080_2496110f:
 msgid "[_will_] Д-да... Мммм..."
@@ -1974,7 +1974,7 @@ msgstr "[_cedrick_] ¡¿¡No tan duro!? ¿Sabes lo que has hecho?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:903 #-#-# translate crowdin gallery_d_081_3ad9e44c:
 msgid "[_cedrick_] Жестко теперь могут драть меня! Ты вообще знаешь, что делают в тюрячке? Смотрела фильмы Кевина Смита?"
-msgstr "[_cedrick_] ¡Ahora pueden luchar contra mí! ¿Sabes lo que haces en el prisionero? ¿Viste las películas de Kevin Smith?"
+msgstr "[_cedrick_] ¡Ahora sí podrán cogerme duro! ¿Sabes lo que hacen en la cárcel? ¿Has visto las películas de Kevin Smith?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:904 #-#-# translate crowdin gallery_d_081_8c4dfc7b:
 msgid "[_irma_] Я.. Оооов.. Я не хотела.."
@@ -2506,7 +2506,7 @@ msgstr "[_theresa_] Puede estar de vuelta en su lugar. Otra encuesta de la defen
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1113 #-#-# translate crowdin gallery_d_081_d9227291:
 msgid "[_maktinen_] Джоэль Мактиннен, агент Интерпола"
-msgstr "[_maktinen_] Joel Maktinen, agente de interpol"
+msgstr "[_maktinen_] Joel Maktinen, agente de Interpol."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1114 #-#-# translate crowdin gallery_d_081_a67a65d1:
 msgid "[_theresa_] И так, сторона обвинения может задать вам несколько вопросов, если таковые остались"
@@ -3130,7 +3130,7 @@ msgstr "[_cedrick_] Todo porque en su corte hay cretino y ladrones, que se manif
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1569 #-#-# translate crowdin gallery_d_083_eb569c58:
 msgid "[_cedrick_] А это значит, Тереза, что следующие 15 минут я могу делать с тобой все, что захочу. И это в первую очередь результат твоей собственной некомпетенции"
-msgstr "[_cedrick_] Y eso significa teresa, eso es lo que puedo hacer contigo todo lo que quiero hacer contigo. Y esto es principalmente el resultado de su propia incompetencia"
+msgstr "[_cedrick_] Y eso significa, Theresa, que durante los próximos quince minutos puedo hacer contigo lo que quiera. Todo esto es, ante todo, consecuencia de tu propia incompetencia."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1573 #-#-# translate crowdin gallery_d_083_c7cada68:
 msgid "[_theresa_] ...Я буду кричать"
@@ -3150,7 +3150,7 @@ msgstr "[_cedrick_] Hah, ¿crees que vendría aquí si solo tuviera palabras vac
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1585 #-#-# translate crowdin gallery_d_083_8c1e4214:
 msgid "[_gordon_on_the_phone_] Да уж, Тереза, и как только ты до этого докатилась? Делаешь мне минет на рабочем месте, прямо под столом. Как не стыдно?"
-msgstr "[_gordon_on_the_phone_] ¿Lo es, Teresa, y tan pronto como lo tienes? Me estás haciendo una mamada en el lugar de trabajo, justo debajo de la mesa. ¿Qué no es una pena?"
+msgstr "[_gordon_on_the_phone_] Vaya, Theresa, ¿cómo llegaste a esto? Me haces una mamada en el trabajo, justo debajo del escritorio. ¿No te da vergüenza?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1586 #-#-# translate crowdin gallery_d_083_10d3ae28:
 msgid "[_theresa_] Ч-что!? Откуда у тебя эта запись!?.."
@@ -3166,7 +3166,7 @@ msgstr "[_cedrick_] No le importa de dónde saqué este disco. Lo importante es 
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1591 #-#-# translate crowdin gallery_d_083_9528c724:
 msgid "[_gordon_on_the_phone_] Если хочешь на кого-то злиться, то злись на своего непутевого мужа.."
-msgstr "[_gordon_on_the_phone_] Si quieres estar enojado con alguien, estaban enojados con tu desafortunado esposo."
+msgstr "[_gordon_on_the_phone_] Si quieres enojarte con alguien, enójate con ese marido inútil que tienes..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1593 #-#-# translate crowdin gallery_d_083_a8d2ea78:
 msgid "[_theresa_] Ублюдок.. Так ты и вправду это сделал, поэтому пришел ко мне.. А я тебе верила, думала ты хороший челове.."
@@ -3218,7 +3218,7 @@ msgstr "[_cedrick_] Créeme, lo he visto"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1614 #-#-# translate crowdin gallery_d_083_c0255dbd:
 msgid "[_gordon_on_the_phone_] Решишь вдруг отказать мне в помощи за мою услугу и твоей карьере конец"
-msgstr "[_gordon_on_the_phone_] Decide de repente se niega a ayudarme para mi servicio y tu final de carrera"
+msgstr "[_gordon_on_the_phone_] Si después de este favor se te ocurre negarte a ayudarme, tu carrera se acabará."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1615 #-#-# translate crowdin gallery_d_083_ab51d71d_1:
 msgid "[_theresa_] ..."
@@ -3402,11 +3402,11 @@ msgstr "[_theresa_] Mmm!! Mww!!"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1709 #-#-# translate crowdin gallery_d_083_5362cf55:
 msgid "[_cedrick_] (Но, черт, грудь у нее что надо.. А еще, хах, она намокла за то время, что я трогал ее за грудь)"
-msgstr "[_cedrick_] (Pero, maldita sea, sus pechos tienen... Y sin embargo, ja, se mojó por el tiempo que la toqué por el pecho)"
+msgstr "[_cedrick_] (Pero, mierda, tiene unos pechos increíbles... Y, ja, se mojó mientras se los tocaba.)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1711 #-#-# translate crowdin gallery_d_083_c216326b:
 msgid "[_cedrick_] (Черт, неужели в этом городе все женщины за 30 извращенки? Как этим не воспользоваться?)"
-msgstr "[_cedrick_] (Maldito, ¿hay todas las mujeres en esta ciudad para 30 perversiones? ¿Cómo no aprovechar esto?)"
+msgstr "[_cedrick_] (Mierda, ¿todas las mujeres mayores de treinta de esta ciudad son unas pervertidas? ¿Cómo no voy a aprovecharlo?)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1713 #-#-# translate crowdin gallery_d_083_1d215d2b:
 msgid "[_theresa_] Ммммм..."
@@ -3414,83 +3414,83 @@ msgstr "[_theresa_] Mmmm..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1714 #-#-# translate crowdin gallery_d_083_751e233b:
 msgid "[_cedrick_] (Хах, ее хватка слабеет, она все менее охотно отталкивает меня.. Интересно, может это можно будет использовать в будущем)"
-msgstr "[_cedrick_] (Hah, su agarre se está debilitando, ella está cada vez menos dispuesta a alejarme. Curiosamente, tal vez se pueda utilizar en el futuro)"
+msgstr "[_cedrick_] (Ja, su resistencia se debilita y cada vez intenta apartarme con menos ganas... Quizá pueda aprovechar esto en el futuro.)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1716 #-#-# translate crowdin gallery_d_083_81cd66a8:
 msgid "[_theresa_] (У-ублюдок, что он себе позволяет.. Я.. Я судья, я.. ааахх..)"
-msgstr "[_theresa_] (Muy amplio que se permite. Yo.. Soy un juez, soy... Aahhh...)"
+msgstr "[_theresa_] (B-bastardo, ¿cómo se atreve...? Y-yo... soy jueza... aaah...)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1718 #-#-# translate crowdin gallery_d_083_bdb9de4a:
 msgid "[_theresa_] (Черт, как же умело он управляется с моей киской своими пальцами.. И где только такой пацан мог научиться такому..)"
-msgstr "[_theresa_] (Maldita sea la habilidad con la que maneja mi coño con los dedos. Y donde solo un niño así podría aprender esto.)"
+msgstr "[_theresa_] (Mierda, qué bien sabe manejar mi coño con los dedos... ¿Dónde habrá aprendido algo así un tipo como él...?)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1719 #-#-# translate crowdin gallery_d_083_a3e1788b:
 msgid "[_theresa_] (Аааххх.. Я судья этого города.. А меня лапает.. И целует.. Тот, кого я должна судить..)"
-msgstr "[_theresa_] (Aca.. Soy el juez de esta ciudad. Y estoy golpeando... Y los besos... La que tengo que juzgar.)"
+msgstr "[_theresa_] (Aaah... Soy la jueza de esta ciudad... y quien me manosea... y me besa... es el hombre al que debo juzgar...)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1721 #-#-# translate crowdin gallery_d_083_72d8fe24:
 msgid "[_theresa_] (А его пальцы в моей киске.. Оооххх.. Неужели мне это нравится? Ууууффф..)"
-msgstr "[_theresa_] (Y sus dedos en mi coño.. Oh... ¿Realmente me gusta? Utufff...)"
+msgstr "[_theresa_] (Y sus dedos están dentro de mi coño... Oooh... ¿De verdad me gusta esto? Ufff...)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1722 #-#-# translate crowdin gallery_d_083_af319284:
 msgid "[_theresa_] (Со мной ведь это не в первый раз.. Ааааххх.. Я представитель власти.. И когда меня таких гадким образом используют..)"
-msgstr "[_theresa_] (Esta no es la primera vez. Aahhhhhhhh soy un representante de las autoridades... Y cuando estoy tan fea usada.)"
+msgstr "[_theresa_] (No es la primera vez que me pasa... Aaah... Soy una representante de la autoridad... Y cuando me usan de una forma tan repugnante...)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1723 #-#-# translate crowdin gallery_d_083_e88c7f52:
 msgid "[_theresa_] (Плевав на мое положение и статус.. Ууууухххх.. Меня и вправду это возбуждает..)"
-msgstr "[_theresa_] (Escupiendo en mi posición y estado.. Uuhuhhhhhhhh"
+msgstr "[_theresa_] (Sin importarles mi cargo ni mi posición... Uuuh... De verdad me excita...)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1724 #-#-# translate crowdin gallery_d_083_f1c0a634:
 msgid "[_cedrick_] Тереза, ты стала сильнее сжимать мои пальцы своей киской. Не уж то тебе это нравится?"
-msgstr "[_cedrick_] Teresa, te hace más difícil apretarme los dedos con tu coño. ¿No es eso lo que te gusta?"
+msgstr "[_cedrick_] Theresa, ahora aprietas mis dedos con más fuerza dentro de tu coño. ¿Acaso te gusta?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1726 #-#-# translate crowdin gallery_d_083_7fc27091:
 msgid "[_theresa_] Ч-что!? Я не.. Да как будто мне может нравится что-то подобное от кого-то вроде тебя"
-msgstr "[_theresa_] ¿¡Qué!? Yo no... Es como si pudiera gustar algo así de alguien como tú"
+msgstr "[_theresa_] ¿¡Q-qué!? Y-yo no... Como si pudiera gustarme algo así viniendo de alguien como tú."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1727 #-#-# translate crowdin gallery_d_083_516eed74:
 msgid "[_cedrick_] Хах. Тогда думаю ты будешь не против, если мы поменяем позу"
-msgstr "[_cedrick_] H. H. Entonces creo que no te importará si cambiamos la pose"
+msgstr "[_cedrick_] Ja. Entonces supongo que no te molestará que cambiemos de posición."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1730 #-#-# translate crowdin gallery_d_083_f256a50b:
 msgid "[_theresa_] Ах, я-я не.. Ч-что ты делаешь"
-msgstr "[_theresa_] Ah, no lo hago. ¿Qué estás haciendo"
+msgstr "[_theresa_] Ah, y-yo no... ¿Q-qué estás haciendo?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1734 #-#-# translate crowdin gallery_d_083_8a2c0d6e:
 msgid "[_theresa_] З-зачем ты раздеваешься.. Неужели ты..?"
-msgstr "[_theresa_] ¿Por qué vas a salir...? ¿Estás...?"
+msgstr "[_theresa_] ¿P-por qué te estás desnudando...? ¿Acaso vas a...?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1738 #-#-# translate crowdin gallery_d_083_a32e21d0:
 msgid "[_cedrick_] Вот, так-то лучше. За то время, что у нас осталось, вряд ли я успею трахнуть тебя так, чтобы нам обоим понравилось"
-msgstr "[_cedrick_] Es mejor. Durante el tiempo que nos queda, es poco probable que tenga tiempo de cogerte para que nos guste a los dos"
+msgstr "[_cedrick_] Eso está mejor. Con el poco tiempo que nos queda, no alcanzaría a cogerte de una forma que ambos disfrutáramos."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1740 #-#-# translate crowdin gallery_d_083_57afdf70:
 msgid "[_cedrick_] Да и заставлять тебя сосать мне не хотелось, все же я не так жесток, как Гордон"
-msgstr "[_cedrick_] No quería hacerte apestar, pero no soy tan cruel como Gordon"
+msgstr "[_cedrick_] Y tampoco quería obligarte a chupármela; después de todo, no soy tan cruel como Gordon."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1742 #-#-# translate crowdin gallery_d_083_95062644:
 msgid "[_theresa_] Д-да неужели?"
-msgstr "[_theresa_] - Sí, ¿verdad?"
+msgstr "[_theresa_] ¿D-de veras?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1743 #-#-# translate crowdin gallery_d_083_1515a143:
 msgid "[_cedrick_] Несмотря на жестокие слова, Тереза, как я и сказал в начале, мне нужны гарантии. Только и всего"
-msgstr "[_cedrick_] A pesar de las palabras crueles, Teresa, como dije al principio, necesito garantías. Solo y todo"
+msgstr "[_cedrick_] A pesar de mis duras palabras, Theresa, como dije al principio, necesito garantías. Eso es todo."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1745 #-#-# translate crowdin gallery_d_083_ba6b894f:
 msgid "[_theresa_] К-как твой член между моих бедер относится к этим гарантиям?"
-msgstr "[_theresa_] K-¿Cómo tu pene entre mis caderas se refiere a estas garantías?"
+msgstr "[_theresa_] ¿Q-qué tiene que ver tu verga entre mis muslos con esas garantías?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1747 #-#-# translate crowdin gallery_d_083_776b75d3:
 msgid "[_cedrick_] Никак. Абсолютно. Я потерял контроль. А потом понял, что тебе тоже это нравится. И решил воспользоваться возможностью"
-msgstr "[_cedrick_] No es nada. Absolutamente. He perdido el control. Y luego me di cuenta de que a ti también te gustaba. Y decidió aprovechar la oportunidad"
+msgstr "[_cedrick_] Nada. Absolutamente nada. Perdí el control. Luego comprendí que tú también lo disfrutabas y decidí aprovechar la oportunidad."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1749 #-#-# translate crowdin gallery_d_083_c812c73c:
 msgid "[_theresa_] Вечно вы молодые стараетесь ухватить возможность за хвост, да?"
-msgstr "[_theresa_] Siempre eres joven tratando de aprovechar la oportunidad por la cola, ¿verdad?"
+msgstr "[_theresa_] Los jóvenes siempre intentan aprovechar cualquier oportunidad, ¿verdad?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1751 #-#-# translate crowdin gallery_d_083_cd795b41:
 msgid "[_cedrick_] Хах, я далеко не так молод, как тебе кажется, но я не мог не ухватиться за такую пикантную возможность"
-msgstr "[_cedrick_] Hach, no soy tan joven como piensas, pero no pude evitar aprovechar una oportunidad tan picante"
+msgstr "[_cedrick_] Ja, no soy ni de lejos tan joven como crees, pero no podía dejar pasar una oportunidad tan provocativa."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1753 #-#-# translate crowdin gallery_d_083_51ec00de:
 msgid "[_theresa_] П-понятно.. Т-ты извращенец.."
@@ -3498,11 +3498,11 @@ msgstr "[_theresa_] Ya veo. Eres un pervertido..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1755 #-#-# translate crowdin gallery_d_083_44941167:
 msgid "[_cedrick_] Я извращенец? Это не я подыгрываю бедрами, массируя член того, кто изначально склонял меня к этому против моей воли. Это все твоя работа"
-msgstr "[_cedrick_] ¿Yo soy el pervertido? No soy yo quien mueve las caderas mientras masajea el pene de quien al principio me obligó a hacer esto contra mi voluntad. Todo esto es obra tuya."
+msgstr "[_cedrick_] ¿Yo soy el pervertido? No soy quien mueve las caderas para masajear la verga de alguien que al principio me llevó a esto contra mi voluntad. Todo esto lo haces tú."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1756 #-#-# translate crowdin gallery_d_083_404f9cd1:
 msgid "[_cedrick_] Так что если тут и есть извращенцы, то их двое, Тереза"
-msgstr "[_cedrick_] Así que si hay pervertidos, hay dos de ellos, Theresa"
+msgstr "[_cedrick_] Así que, si aquí hay pervertidos, somos dos, Theresa."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1758 #-#-# translate crowdin gallery_d_083_d22d1d9f:
 msgid "[_theresa_] У-уххх.."
@@ -3510,47 +3510,47 @@ msgstr "[_theresa_] U-uhhh..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1760 #-#-# translate crowdin gallery_d_083_d65fa7dc:
 msgid "[_cedrick_] Хах, ты так легко это принимаешь? А до этого так сильно сопротивлялась. Что случилось"
-msgstr "[_cedrick_] Hah, ¿estás tomando esto tan fácilmente? Y antes de eso, me resistí mucho. ¿Qué pasó"
+msgstr "[_cedrick_] Ja, ¿ahora lo aceptas con tanta facilidad? Hace un momento te resistías con todas tus fuerzas. ¿Qué cambió?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1762 #-#-# translate crowdin gallery_d_083_939cd617:
 msgid "[_theresa_] М-мне хватает ума не строить из себя святую перед тем, кто был пальцами в моей киске и понял, что мне это нравится"
-msgstr "[_theresa_] Tengo la mente correcta de no enojar al santo frente al que era el dedo en mi coño y me di cuenta de que me gusta"
+msgstr "[_theresa_] Tengo suficiente sentido común para no fingir que soy una santa ante alguien que metió los dedos en mi coño y descubrió que me gusta."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1763 #-#-# translate crowdin gallery_d_083_917209f4:
 msgid "[_theresa_] Если уж меня раскрыли, то я не собираюсь тратить силы на ложь. Ведь я прекрасно знаю кто я. И теперь ты это знаешь, ч-черт.."
-msgstr "[_theresa_] Si he estado expuesto, no voy a desperdiciar mi energía en una mentira. Sé quién soy. Y ahora lo sabes, ch-D'..."
+msgstr "[_theresa_] Ya que me descubriste, no desperdiciaré fuerzas mintiendo. Sé perfectamente quién soy. Y ahora tú también lo sabes, m-mierda..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1765 #-#-# translate crowdin gallery_d_083_bc2c1fbe:
 msgid "[_cedrick_] Хах, слова по-настоящему мудрой женщины.."
-msgstr "[_cedrick_] Hach, las palabras de una mujer verdaderamente sabia."
+msgstr "[_cedrick_] Ja, palabras de una mujer verdaderamente sabia..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1766 #-#-# translate crowdin gallery_d_083_936ba370:
 msgid "[_cedrick_] И извращенки"
-msgstr "[_cedrick_] Y Pervertidos"
+msgstr "[_cedrick_] Y pervertida."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1768 #-#-# translate crowdin gallery_d_083_3cfa3cac:
 msgid "[_theresa_] Ох, к-кто бы говори.."
-msgstr "[_theresa_] Oh, quien diga."
+msgstr "[_theresa_] Oh, m-mira quién habla..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1769 #-#-# translate crowdin gallery_d_083_dda55f16:
 msgid "[_bob_] Госпожа Тереза, вы в порядке?"
-msgstr "[_bob_] La Sra. Teresa, ¿estás bien?"
+msgstr "[_bob_] Señora Theresa, ¿se encuentra bien?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1771 #-#-# translate crowdin gallery_d_083_12318620:
 msgid "[_cedrick_] В-вот черт!"
-msgstr "[_cedrick_] ¡Eso es el infierno!"
+msgstr "[_cedrick_] ¡M-mierda!"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1773 #-#-# translate crowdin gallery_d_083_dad47176:
 msgid "[_theresa_] Так, быстро, подтягивай свои штаны"
-msgstr "[_theresa_] Así que, rápido, apriétate los pantalones"
+msgstr "[_theresa_] Rápido, súbete los pantalones."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1774 #-#-# translate crowdin gallery_d_083_7a24ac8f:
 msgid "[_bob_] Я вхожу"
-msgstr "[_bob_] Estoy entrando"
+msgstr "[_bob_] Voy a entrar."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1776 #-#-# translate crowdin gallery_d_083_7e80aedd:
 msgid "[_cedrick_] (Я не успею..)"
-msgstr "[_cedrick_] (No podré)."
+msgstr "[_cedrick_] (No alcanzaré...)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1778 #-#-# translate crowdin gallery_d_083_a20cefa7:
 msgid "..."
@@ -3558,11 +3558,11 @@ msgstr "..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1783 #-#-# translate crowdin gallery_d_083_abbe6972:
 msgid "[_bob_] Э-эй, а ты что здесь делаешь!?"
-msgstr "[_bob_] ¡Oye, ¿qué estás haciendo aquí?"
+msgstr "[_bob_] O-oye, ¿qué haces aquí?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1785 #-#-# translate crowdin gallery_d_083_4a070cbd:
 msgid "[_theresa_] Все хорошо, Боб, это я его сюда позвала"
-msgstr "[_theresa_] Muy bien, Bob, lo llamé aquí"
+msgstr "[_theresa_] Todo está bien, Bob. Yo le pedí que viniera."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1786 #-#-# translate crowdin gallery_d_083_fc702c84:
 msgid "[_cedrick_] (Ч-черт, она так сильно сжимает мой член сейчас.. Видимо от стресса)"
@@ -3570,59 +3570,59 @@ msgstr "[_cedrick_] (Maldita sea, ella está apretando tan fuerte mi verga ahora
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1788 #-#-# translate crowdin gallery_d_083_bba619f2:
 msgid "[_theresa_] Нам нужно было уладить кое-какие вопросы. Рик скоро уходит"
-msgstr "[_theresa_] Tuvimos que resolver algunas preguntas. Rick está a punto de irse"
+msgstr "[_theresa_] Teníamos que resolver unos asuntos. Rick está a punto de irse."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1790 #-#-# translate crowdin gallery_d_083_6c5fad30:
 msgid "[_bob_] А, ясно. Просто это. Я нашел Роба без сознания и всего мокрого. Подумал, вдруг и с вами что-то случилось"
-msgstr "[_bob_] A, claro. Es sólo eso. Encontré a Rob inconsciente y todo mojado. Pensé que algo les había pasado a todos."
+msgstr "[_bob_] Ah, entiendo. Encontré a Rob inconsciente y empapado. Pensé que quizá a usted también le había ocurrido algo."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1792 #-#-# translate crowdin gallery_d_083_a8dd8004:
 msgid "[_theresa_] Н-нет, все хорошо, спасибо за заботу"
-msgstr "[_theresa_] N-n-no, todo está bien, gracias por su cuidado"
+msgstr "[_theresa_] N-no, todo está bien. Gracias por preocuparte."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1794 #-#-# translate crowdin gallery_d_083_b8ce7dd3:
 msgid "[_bob_] Ну, если хорошо, тогда хорошо"
-msgstr "[_bob_] Bueno, si está bien, entonces bien"
+msgstr "[_bob_] Bueno, si todo está bien, me alegro."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1796 #-#-# translate crowdin gallery_d_083_57015940:
 msgid "[_theresa_] Д-да.. Можешь идти"
-msgstr "[_theresa_] D-Da... Puedes irte"
+msgstr "[_theresa_] S-sí... Puedes irte."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1798 #-#-# translate crowdin gallery_d_083_da1ea7c4:
 msgid "[_theresa_] (Рик, черт.. Я чувствую как он пульсирует..)"
-msgstr "[_theresa_] (Rick, diablo. Siento que está pulsando.)"
+msgstr "[_theresa_] (Rick, mierda... Siento cómo palpita...)"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1799 #-#-# translate crowdin gallery_d_083_5d84903d:
 msgid "[_bob_] Ох, кстати говоря. Я хотел обсудить с вами повышение зарплаты, но вас не было на месте"
-msgstr "[_bob_] Oh, por cierto. Quería hablar de aumentos salariales contigo, pero no estabas ahí"
+msgstr "[_bob_] Oh, por cierto: quería hablar con usted sobre un aumento, pero no estaba en su oficina."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1801 #-#-# translate crowdin gallery_d_083_eb9e36fd:
 msgid "[_theresa_] Б-боб, сейчас не самое подходящее время"
-msgstr "[_theresa_] B-Bob, ahora no es el momento adecuado"
+msgstr "[_theresa_] B-Bob, ahora no es un buen momento."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1803 #-#-# translate crowdin gallery_d_083_38c8512a:
 msgid "[_bob_] Но вы же на месте. Так что с зарплатой"
-msgstr "[_bob_] Pero estás en el lugar. Así que con el sueldo"
+msgstr "[_bob_] Pero ahora sí está aquí. Entonces, ¿qué hay del aumento?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1805 #-#-# translate crowdin gallery_d_083_7afa4a5c:
 msgid "[_theresa_] Я-я.. Ууххх.. Я обсужу это с окружным прокурором, а теперь можешь уйти?"
-msgstr "[_theresa_] Y-yo... Uh... Hablaré de esto con el fiscal, ¿y ahora puedes irte?"
+msgstr "[_theresa_] Y-yo... Uuuh... Lo hablaré con el fiscal de distrito. Ahora, ¿puedes irte?"
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1807 #-#-# translate crowdin gallery_d_083_0270575b:
 msgid "[_bob_] Хорошо"
-msgstr "[_bob_] Es bueno"
+msgstr "[_bob_] De acuerdo."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1809 #-#-# translate crowdin gallery_d_083_791ba98c:
 msgid "[_theresa_] Фух.."
-msgstr "[_theresa_] Fuchs."
+msgstr "[_theresa_] Uf..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1810 #-#-# translate crowdin gallery_d_083_18ea1d88:
 msgid "[_cedrick_] Фух..."
-msgstr "[_cedrick_] Fuch..."
+msgstr "[_cedrick_] Uf..."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1812 #-#-# translate crowdin gallery_d_083_07620ebb:
 msgid "[_bob_] И еще, госпожа судья"
-msgstr "[_bob_] Y más, señora jueza"
+msgstr "[_bob_] Una cosa más, señora jueza."
 
 # game/scripts/quests/searchWitnesses/buy_a_business_suit.rpy:1814 #-#-# translate crowdin gallery_d_083_8cab03c3:
 msgid "[_theresa_] Ч-что еще, Боб!?"
