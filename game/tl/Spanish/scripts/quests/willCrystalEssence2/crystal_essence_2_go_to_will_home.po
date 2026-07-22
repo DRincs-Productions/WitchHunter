@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:07\n"
+"PO-Revision-Date: 2026-07-22 15:41\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:3 #-#-# translate crowdin crystal_essence_2_go_to_will_home_8f648b59:
 msgid "[_centered_] {size=37}В ДОМЕ СЕМЕЙСТВА ВЭНДОМ{/size}"
@@ -386,7 +386,7 @@ msgstr "[_cedrick_] Susan, podrías hablar más comprensiva y abiertamente con t
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:158 #-#-# translate crowdin gallery_d_060_e8a5d7ba:
 msgid "[_cedrick_] Не стоит стесняться говорить прямо, что когда-нибудь Вилл найдет того, с кем сможет, кхм.. Проводить время так же хорошо, как мы с тобой"
-msgstr "[_cedrick_] No sea tímido para ser honesto de que algún día Will encontrará a alguien con quien pueda, kmm. ¿Pasar tiempo tan bien como tú y yo"
+msgstr "[_cedrick_] No hace falta que te dé vergüenza admitir que algún día Will encontrará a alguien con quien pueda, ejem... pasarla tan bien como tú y yo."
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:160 #-#-# translate crowdin gallery_d_060_bb82fde7:
 msgid "[_susan_] Р-Рик!"
