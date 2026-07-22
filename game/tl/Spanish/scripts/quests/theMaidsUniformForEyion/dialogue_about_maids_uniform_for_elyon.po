@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:07\n"
+"PO-Revision-Date: 2026-07-22 21:21\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/theMaidsUniformForEyion/dialogue_about_maids_uniform_for_elyon.rpy:3 #-#-# translate crowdin dialogue_about_maids_uniform_for_elyon_39163069:
 msgid "[_cedrick_] Элион, я тут недавно подумал, а не заказать ли тебе рабочую форму?"
@@ -22,11 +22,11 @@ msgstr "[_elion_] Hmm, por qué de repente decidiste preocuparte por ello, he es
 
 # game/scripts/quests/theMaidsUniformForEyion/dialogue_about_maids_uniform_for_elyon.rpy:9 #-#-# translate crowdin dialogue_about_maids_uniform_for_elyon_f4e70807:
 msgid "[_cedrick_] Ну.."
-msgstr "[_cedrick_] Bueno..."
+msgstr "[_cedrick_] Bueno…"
 
 # game/scripts/quests/theMaidsUniformForEyion/dialogue_about_maids_uniform_for_elyon.rpy:10 #-#-# translate crowdin dialogue_about_maids_uniform_for_elyon_cf0d0007:
 msgid "[_cedrick_] (После того, как я увидел форму в одном журнале и представил ее на Элион, ммм…)"
-msgstr "[_cedrick_] (Después de ver la forma en una revista y la presenté a Elyon, mmm...)"
+msgstr "[_cedrick_] (Después de ver la forma en una revista y la presenté a Elyon, mmm…)"
 
 # game/scripts/quests/theMaidsUniformForEyion/dialogue_about_maids_uniform_for_elyon.rpy:11 #-#-# translate crowdin dialogue_about_maids_uniform_for_elyon_f9582ae2:
 msgid "[_cedrick_] Думаю это поможет продажам, к тому же сделает это место в целом более, эм, тематическим.."
@@ -34,7 +34,7 @@ msgstr "[_cedrick_] Piensa que ayudará a las ventas, además, hará que este lu
 
 # game/scripts/quests/theMaidsUniformForEyion/dialogue_about_maids_uniform_for_elyon.rpy:14 #-#-# translate crowdin dialogue_about_maids_uniform_for_elyon_e79eb523:
 msgid "[_elion_] Поможет продажам? Тематическим? Рик, что это там за форма такая.."
-msgstr "[_elion_] ¿Ayudará a las ventas? ¿Temática? Rick, ¿qué tipo de forma es esa...?"
+msgstr "[_elion_] ¿Ayudará a las ventas? ¿Temática? Rick, ¿qué tipo de forma es esa…?"
 
 # game/scripts/quests/theMaidsUniformForEyion/dialogue_about_maids_uniform_for_elyon.rpy:15 #-#-# translate crowdin dialogue_about_maids_uniform_for_elyon_cd183fc0:
 msgid "[_cedrick_] Закажу и узнаешь, хехе"
