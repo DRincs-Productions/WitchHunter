@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-09 13:44\n"
+"PO-Revision-Date: 2026-07-22 14:04\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:5 #-#-# translate crowdin get_members_for_newspaper_club_7dd13b6d:
 msgid "[_elion_] Похоже школьная газета теперь выпускает полный отстой"
@@ -58,7 +58,7 @@ msgstr "[_tarani_]No hace falta ser director para entender que una película es 
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:30 #-#-# translate crowdin get_members_for_newspaper_club_2597ca78:
 msgid "[_bess_] Мы забыли спросить нашу невыносимую всезнайку Тарани Кук! Должно быть ты гордишься этим. Прилежная, умная ученица! Ну конечно, нам всем следует ориентироваться на тебя!"
-msgstr "[_bess_] ¡Olvidamos preguntarle a nuestra insufrible sabelotodo, Tarani Cook! Debes estar orgullosa de eso. ¡Una estudiante diligente e inteligente! ¡Claro que todos deberíamos admirarte!"
+msgstr "[_bess_] ¡Olvidamos preguntarle a nuestra insufrible sabelotodo, Taranee Cook! Debes estar orgullosa de eso. ¡Una estudiante diligente e inteligente! ¡Claro que todos deberíamos admirarte!"
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:34 #-#-# translate crowdin get_members_for_newspaper_club_98f84176:
 msgid "[_tarani_] ..."
@@ -162,7 +162,7 @@ msgstr "...."
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:133 #-#-# translate crowdin get_members_for_newspaper_club_cefef014:
 msgid "[_irma_] Вечера и субботы в школе! Молодец, Тарани!"
-msgstr "[_irma_] ¡Tardes y sábados en la escuela! ¡Bien hecho, Tarani!"
+msgstr "[_irma_] ¡Tardes y sábados en la escuela! ¡Bien hecho, Taranee!"
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:137 #-#-# translate crowdin get_members_for_newspaper_club_447bb3f7:
 msgid "[_martin_] Привет, Леди-Босс ! Теперь мы всегда будем вместе!"
