@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 10:56\n"
+"PO-Revision-Date: 2026-07-22 14:04\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:11 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_0_4d328d30:
 msgid "[_haylin_] Ну и?"
@@ -230,7 +230,7 @@ msgstr "..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:175 #-#-# translate crowdin gallery_d_018_cf864fb6:
 msgid "Хай Лин незаметно вылезает из под стола"
-msgstr "Hay Ling sale sigilosamente de debajo de la mesa"
+msgstr "Hay Lin sale sigilosamente de debajo de la mesa"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:180 #-#-# translate crowdin gallery_d_018_c0a2a4f2:
 msgid "[_haylin_] Когда ты принесешь еще лекарства для бабушки?"
