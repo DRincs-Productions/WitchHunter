@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:06\n"
+"PO-Revision-Date: 2026-07-22 21:21\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/skating/corneliaCallToSkating.rpy:12 #-#-# translate crowdin corneliaCallToSkating_d4c2dcac:
 msgid "[_cornelia_] Привет, Рик!"
@@ -30,7 +30,7 @@ msgstr "[_cedrick_] Tal vez."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:22 #-#-# translate crowdin corneliaCallToSkating_0eae0b9b:
 msgid "[_cornelia_] Прости меня за то, что вчера поцеловала тебя, я была не в себе и мне до сих пор неловко..."
-msgstr "[_cornelia_] Perdóname por besarte ayer, no era yo misma y todavía estoy avergonzado..."
+msgstr "[_cornelia_] Perdóname por besarte ayer; no era yo misma y todavía me da vergüenza…"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:26 #-#-# translate crowdin corneliaCallToSkating_326fc3a0:
 msgid "[_elion_] Что ты сделала?"
@@ -38,7 +38,7 @@ msgstr "[_elion_] ¿Hiciste que?"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:31 #-#-# translate crowdin corneliaCallToSkating_43857e71:
 msgid "[_cornelia_] Это получилось случайно..."
-msgstr "[_cornelia_] Fue un accidente..."
+msgstr "[_cornelia_] Fue un accidente…"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:35 #-#-# translate crowdin corneliaCallToSkating_a20cefa7:
 msgid "..."
@@ -54,15 +54,15 @@ msgstr "[_cornelia_] ¡Elyon, espera! ¿Todavía quieres ir a patinar sobre hiel
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:44 #-#-# translate crowdin corneliaCallToSkating_b9d8c96f:
 msgid "[_elion_] Прости, но я, наверное, не смогу. У меня еще много работы здесь, да и в школе задали много домашки..."
-msgstr "[_elion_] Lo siento, pero probablemente no pueda. Tengo mucho trabajo que hacer aquí, y muchos deberes de la escuela..."
+msgstr "[_elion_] Lo siento, pero probablemente no pueda. Tengo mucho trabajo que hacer aquí, y muchos deberes de la escuela…"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:48 #-#-# translate crowdin corneliaCallToSkating_da94d6f9:
 msgid "[_cedrick_] Хех... Коньки? Я всегда хотел научиться кататься на них, но как-то не довелось..."
-msgstr "[_cedrick_] Je... ¿Patinar? Siempre he querido aprender a patinar, pero nunca pude a hacerlo..."
+msgstr "[_cedrick_] Je… ¿Patinar? Siempre he querido aprender a patinar, pero nunca pude a hacerlo…"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:52 #-#-# translate crowdin corneliaCallToSkating_b7cbf477:
 msgid "[_cornelia_]  Я могу тебя научить!"
-msgstr "[_cornelia_]  ¡Puedo enseñarte!"
+msgstr "[_cornelia_] ¡Puedo enseñarte!"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:53 #-#-# translate crowdin corneliaCallToSkating_34aa0960:
 msgid "[_cedrick_] Ну даже не знаю, не хочу быть обузой."
@@ -70,7 +70,7 @@ msgstr "[_cedrick_] No sé, no quiero ser una carga."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:57 #-#-# translate crowdin corneliaCallToSkating_8d8450e3:
 msgid "[_cornelia_] Ну давай! Я научу тебя кататься, а ты ...как-нибудь посидишь с моей сестрой, идет? "
-msgstr "[_cornelia_] ¡Vamos! Yo te enseñaré a patinar y tú... podrías cuidar a mi hermana algún día. ¿Trato hecho?"
+msgstr "[_cornelia_] ¡Vamos! Yo te enseñaré a patinar y tú… podrías cuidar a mi hermana algún día. ¿Trato hecho?"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:58 #-#-# translate crowdin corneliaCallToSkating_da6db167:
 msgid "[_cornelia_] Услуга за услугу."
@@ -78,7 +78,7 @@ msgstr "[_cornelia_] Un favor, por un favor."
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:62 #-#-# translate crowdin corneliaCallToSkating_780503c7:
 msgid "[_cedrick_] Ну хорошо... Я за тобой зайду..."
-msgstr "[_cedrick_] Muy bien, entonces... Iré a buscarte..."
+msgstr "[_cedrick_] Muy bien, entonces… Iré a buscarte…"
 
 # game/scripts/quests/skating/corneliaCallToSkating.rpy:66 #-#-# translate crowdin corneliaCallToSkating_9566f82d:
 msgid "[_cornelia_] Договорились!"
