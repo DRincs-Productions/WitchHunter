@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:05\n"
+"PO-Revision-Date: 2026-07-22 15:40\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:7 #-#-# translate crowdin conversation_with_guards_edb4f255:
 msgid "[_cedrick_] Дальше я сам, Булдж, спасибо. Как закончу я тебя вызову"
@@ -274,39 +274,39 @@ msgstr "[_will_] (Debería haber sido Yo.)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:190 #-#-# translate crowdin itog_grade_4e7b29a3:
 msgid "[_irma_] (Корнелии это судя по всему искренне нравится..)"
-msgstr "[_irma_] (Cornetlies son sinceramente gustados.)"
+msgstr "[_irma_] (A Cornelia parece gustarle de verdad...)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:192 #-#-# translate crowdin itog_grade_873cca31:
 msgid "[_tarani_] (Как она только может получать удовольствие от подобного..)"
-msgstr "[_tarani_] (Como ella puede disfrutar de este...)"
+msgstr "[_tarani_] (¿Cómo puede disfrutar algo así...?)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:193 #-#-# translate crowdin itog_grade_277d3735:
 msgid "[_cornelia_] (Аааххх.. Так приятно чувствовать себя нужной.. Даже если это кто-то вроде Седрика..)"
-msgstr "[_cornelia_] (Aca.. Es tan agradable sentirse bien. Aunque sea alguien como Cedric.)"
+msgstr "[_cornelia_] (Aaah... Qué bien se siente ser necesaria... aunque sea para alguien como Cedric...)"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:198 #-#-# translate crowdin itog_grade_46081999:
 msgid "[_cedrick_] Булдж, подойди"
-msgstr "[_cedrick_] ¡Bulj, ven"
+msgstr "[_cedrick_] Bulj, acércate."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:199 #-#-# translate crowdin itog_grade_462ee1a0:
 msgid "[_bulj_] Вызывали, сэр?"
-msgstr "[_bulj_] ¿Llamó a ppm, señor?"
+msgstr "[_bulj_] ¿Me llamó, señor?"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:200 #-#-# translate crowdin itog_grade_a632bcec:
 msgid "[_cedrick_] Да. Я составил список инструментов и магических предметов, необходимый мне. Как быстро сможешь достать"
-msgstr "[_cedrick_] Sí. He compilado una lista de herramientas y temas mágicos que necesito. ¿Qué tan rápido puedes llegar"
+msgstr "[_cedrick_] Sí. Preparé una lista de las herramientas y objetos mágicos que necesito. ¿Cuánto tardarás en conseguirlos?"
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:201 #-#-# translate crowdin itog_grade_cbc7d4c7:
 msgid "[_bulj_] Так.. Это у нас есть в казарме.."
-msgstr "[_bulj_] Así Que... Lo tenemos en el cuartel."
+msgstr "[_bulj_] Veamos... Esto lo tenemos en el cuartel..."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:202 #-#-# translate crowdin itog_grade_5fd98188:
 msgid "[_bulj_] Это в пыточной найдется.."
-msgstr "[_bulj_] Está en la tortura."
+msgstr "[_bulj_] Esto se encuentra en la cámara de tortura..."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:203 #-#-# translate crowdin itog_grade_0fd9ecbd:
 msgid "[_bulj_] Ух, и эту тварь хотите задействовать? Сурово.."
-msgstr "[_bulj_] Uh, ¿y esta cosa que quieres usar? Es duro."
+msgstr "[_bulj_] Uf, ¿también quiere usar a esa criatura? Qué extremo..."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:204 #-#-# translate crowdin itog_grade_b93c531d:
 msgid "[_bulj_] Так, и зелья, восстанавливающие магическую силу. Я так понимаю вам 10 штук, на два использования.. Это будет готово только через пару дней"
@@ -466,7 +466,7 @@ msgstr "[_will_] Bueno, ¡eso es lo que! Mi trasero será mucho mejor. Solo dame
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:293 #-#-# translate crowdin gallery_d_085_eb0a6e37:
 msgid "[_tarani_] Мда, твои мозги видимо уже начисто оттрахали"
-msgstr "[_tarani_] Mda, tus cerebros aparentemente ya están completamente jodidos"
+msgstr "[_tarani_] Vaya, parece que ya te cogieron el cerebro hasta dejártelo vacío."
 
 # game/scripts/quests/questReportForPrincePhobos/conversation_with_guards.rpy:294 #-#-# translate crowdin gallery_d_085_42ae7144:
 msgid "[_irma_] (В-вилл готова на подобное, лишь бы изменить решение Рика.. Может, она боится наказания? Д-должна ли я последовать ее примеру..)"
