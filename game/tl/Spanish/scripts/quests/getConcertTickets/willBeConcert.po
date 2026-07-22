@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:33\n"
+"PO-Revision-Date: 2026-07-22 21:18\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getConcertTickets/willBeConcert.rpy:14 #-#-# translate crowdin willBeConcert_1a064a8d:
 msgid "[_alchemy_] Элион! Пойдем, скорее, в школу! Мы же опоздаем..."
-msgstr "[_alchemy_] ¡Elyon! ¡Démonos prisa y vayamos a la escuela! Vamos a llegar tarde..."
+msgstr "[_alchemy_] ¡Elyon! ¡Démonos prisa y vayamos a la escuela! Vamos a llegar tarde…"
 
 # game/scripts/quests/getConcertTickets/willBeConcert.rpy:15 #-#-# translate crowdin willBeConcert_5a242ffc:
 msgid "[_elion_] Да? я иду"
-msgstr "[_elion_] ¿Sí?, Ya voy"
+msgstr "[_elion_] ¿Sí? Ya voy"
 
 # game/scripts/quests/getConcertTickets/willBeConcert.rpy:20 #-#-# translate crowdin willBeConcert_323ae8a8:
 msgid "[_elion_] Рик, я ушла!"
@@ -34,7 +34,7 @@ msgstr "[_alchemy_] ¡Por cierto! ¿¡Te has enterado de que los Sortie Union va
 
 # game/scripts/quests/getConcertTickets/willBeConcert.rpy:35 #-#-# translate crowdin willBeConcert_fcb0d080:
 msgid "[_elion_] Правда? Корнелия их просто обожает..."
-msgstr "[_elion_] ¿En serio?, a Cornelia le encantan..."
+msgstr "[_elion_] ¿En serio? A Cornelia le encantan…"
 
 # game/scripts/quests/getConcertTickets/willBeConcert.rpy:39 #-#-# translate crowdin willBeConcert_a20cefa7:
 msgid "..."
@@ -42,9 +42,9 @@ msgstr "..."
 
 # game/scripts/quests/getConcertTickets/willBeConcert.rpy:40 #-#-# translate crowdin willBeConcert_caaa944f:
 msgid "[_cedrick_] (Хм... А это может быть полезно!)"
-msgstr "[_cedrick_] (Hmmm... ¡Esto podría ser útil!)"
+msgstr "[_cedrick_] (Hmmm… ¡Esto podría ser útil!)"
 
 # game/scripts/quests/getConcertTickets/willBeConcert.rpy:41 #-#-# translate crowdin willBeConcert_f52066bd:
 msgid "[_cedrick_] (Возможно мне стоит позвать Корнелию на этот концерт. Это поможет мне сблизиться с ней...)"
-msgstr "[_cedrick_] (Quizá debería invitar a Cornelia a este concierto. Me ayudaría a acercarme a ella...)"
+msgstr "[_cedrick_] (Quizá debería invitar a Cornelia a este concierto. Me ayudaría a acercarme a ella…)"
 
