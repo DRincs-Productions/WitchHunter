@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-11-24 07:32\n"
+"PO-Revision-Date: 2026-07-22 14:00\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestCrushingOfIrmaAndTaranee.rpy:3
 msgid "Сокрушение Ирмы и Тарани"
-msgstr "La destrucción de Irma y Tarani"
+msgstr "La destrucción de Irma y Taranee"
 
 # game/scripts/core/quests/QuestCrushingOfIrmaAndTaranee.rpy:17
 msgid "Запланировать с Мирандой сокрушение Ирмы и Тарани"
@@ -22,5 +22,5 @@ msgstr "Planea con Miranda aplastar a Irma y Taranis."
 
 # game/scripts/core/quests/QuestCrushingOfIrmaAndTaranee.rpy:17
 msgid "Сокрушить Ирму и Тарани"
-msgstr "Aplastar a Irma y Tarani"
+msgstr "Aplastar a Irma y Taranee"
 
