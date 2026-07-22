@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-29 03:45\n"
+"PO-Revision-Date: 2026-07-22 14:03\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/sitWithLilian.rpy:10 #-#-# translate crowdin sitWithLilian_cdd6670c:
 msgid "Звук дверного звонка"
@@ -374,7 +374,7 @@ msgstr "[_lilith_] No tienes que decírmelo, ya sé que acerté."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:228 #-#-# translate crowdin sitWithLilian_b622afdb:
 msgid "[_lilith_] То, что ты слушаешь характеризует тебя как личность. Зная твои вкусы я могу узнать всего тебя. А в музыкальных вкусах людей я никогда не ошибаюсь"
-msgstr "[_lilith_] Lo que escuchas te caracteriza como persona. Conociendo vuestros gustos puedo llegar a conoceros a todos. Nunca me equivoco sobre los gustos musicales de la gente."
+msgstr "[_lilith_] Lo que escuchas te define como persona. Conociendo tus gustos puedo conocerte por completo. Y nunca me equivoco con los gustos musicales de la gente."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:230 #-#-# translate crowdin sitWithLilian_8161d6fe:
 msgid "[_cedrick_] (Это что, правда какая-то магия? Или просто ее выдумки? Может это просто особое музыкальное чутье?)"
@@ -430,7 +430,7 @@ msgstr "[_lilith_] No sé qué pasa entre Cornelia y tú, y para ser honesto, no
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:248 #-#-# translate crowdin sitWithLilian_864c13d4:
 msgid "[_lilith_] Но если ты планируешь таким образом залезть ко мне в трусы, то даже не надейся. Я не такая простушка, как моя сестрица"
-msgstr "[_lilith_] Pero si planeas meterte en mis bragas de esta manera, ni siquiera lo esperes. No soy tan simple como mi hermana."
+msgstr "[_lilith_] Pero si planeas meterte en mis panties de esta manera, ni siquiera lo esperes. No soy tan simple como mi hermana."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:250 #-#-# translate crowdin sitWithLilian_fc74cce5:
 msgid "[_cedrick_] Воу, Лилит, я и не думал ни о чем таком"
