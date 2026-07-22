@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-20 20:55\n"
+"PO-Revision-Date: 2026-07-22 14:01\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/meridian/castle_label.rpy:12
 msgid "Тронный зал"
@@ -26,7 +26,7 @@ msgstr "A Miranda"
 
 # game/scripts/meridian/castle_label.rpy:12
 msgid "В комнату к Лилиан"
-msgstr "A la habitación de Lillian"
+msgstr "A la habitación de Lilian"
 
 # game/scripts/meridian/castle_label.rpy:12
 msgid "Казармы"
@@ -74,5 +74,5 @@ msgstr "Calabozo de Cornelia"
 
 # game/scripts/meridian/castle_label.rpy:78
 msgid "Темница Ирмы и Тарани"
-msgstr "Calabozo de Irma y Tarani"
+msgstr "Calabozo de Irma y Taranee"
 
