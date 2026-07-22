@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:07\n"
+"PO-Revision-Date: 2026-07-22 21:22\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/thomas_comes.rpy:14 #-#-# translate crowdin thomas_comes_9d746d5e:
 msgid "*звук двери*"
@@ -26,7 +26,7 @@ msgstr "[_cedrick_] Rick Hoffman"
 
 # game/scripts/quests/will/thomas_comes.rpy:21 #-#-# translate crowdin thomas_comes_3b8375fa:
 msgid "[_tomas_] Послушай, я вижу что ты очень сблизился с Сьюзан и Вилл, но это моя семья и я не могу позволить посторонним вмешиваться в нее"
-msgstr "[_tomas_] Mira, puedo ver que te has vuelto muy cercano a Susan y Will, pero esta es mi familia y no puedo permitir que los extraños interfirieran con ella"
+msgstr "[_tomas_] Escucha, veo que te has acercado mucho a Susan y Will, pero son mi familia y no puedo permitir que un extraño se entrometa."
 
 # game/scripts/quests/will/thomas_comes.rpy:22 #-#-# translate crowdin thomas_comes_e6322e04:
 msgid "[_tomas_] Когда-то я совершил ошибку, но я исправился и планирую наверстать упущенное"
@@ -42,7 +42,7 @@ msgstr "[_cedrick_] ¿O si no qué?"
 
 # game/scripts/quests/will/thomas_comes.rpy:30 #-#-# translate crowdin thomas_comes_ae8d906d:
 msgid "[_tomas_] Узнаешь..."
-msgstr "[_tomas_] Lo descubrirás..."
+msgstr "[_tomas_] Lo descubrirás…"
 
 # game/scripts/quests/will/thomas_comes.rpy:36 #-#-# translate crowdin thomas_comes_cdff0bd0:
 msgid "[_tomas_] Я надеюсь мы друг друга поняли"
@@ -58,11 +58,11 @@ msgstr "[_cedrick_] Sí, probablemente tengas razón"
 
 # game/scripts/quests/will/thomas_comes.rpy:39 #-#-# translate crowdin thomas_comes_8c0d8143:
 msgid "[_cedrick_] Кстати, я слышал ты был хорошим игроком в покер..."
-msgstr "[_cedrick_] Por cierto, escuche que eras un buen jugador de póquer..."
+msgstr "[_cedrick_] Por cierto, escuche que eras un buen jugador de póquer…"
 
 # game/scripts/quests/will/thomas_comes.rpy:45 #-#-# translate crowdin thomas_comes_068efee6:
 msgid "[_tomas_] Это уже в прошлом..."
-msgstr "[_tomas_] Eso ya es pasado..."
+msgstr "[_tomas_] Eso ya es pasado…"
 
 # game/scripts/quests/will/thomas_comes.rpy:46 #-#-# translate crowdin thomas_comes_7fa758bc:
 msgid "[_cedrick_] недавно я выиграл интересную игру, как покер, только на костях, не желаешь взглянуть?"
@@ -70,11 +70,11 @@ msgstr "[_cedrick_] Hace poco obtuve un juego interesante, como el póquer, pero
 
 # game/scripts/quests/will/thomas_comes.rpy:47 #-#-# translate crowdin thomas_comes_ea37f80b:
 msgid "[_tomas_] Не думаю что это хорошая идея.."
-msgstr "[_tomas_] No creo que sea una buena idea.."
+msgstr "[_tomas_] No creo que sea una buena idea…"
 
 # game/scripts/quests/will/thomas_comes.rpy:48 #-#-# translate crowdin thomas_comes_83285055:
 msgid "[_cedrick_] Давай сыграем разок, на интерес только и всего.. Здесь довольно мало хороших игроков"
-msgstr "[_cedrick_] Juguemos una partida, solo por diversión... No hay muchos buenos jugadores por aquí"
+msgstr "[_cedrick_] Juguemos una partida, solo por diversión… No hay muchos buenos jugadores por aquí"
 
 # game/scripts/quests/will/thomas_comes.rpy:54 #-#-# translate crowdin thomas_comes_5a00240f:
 msgid "[_tomas_] Ты меня заинтриговал"
@@ -90,7 +90,7 @@ msgstr "[_cedrick_] Bueno, perdí otra vez"
 
 # game/scripts/quests/will/thomas_comes.rpy:66 #-#-# translate crowdin thomas_comes_c7c56713:
 msgid "[_cedrick_] На самом деле не так уж и интересно играть без каких либо ставок... Пропадает стимул"
-msgstr "[_cedrick_] Realmente no es tan divertido jugar sin apuestas... El incentivo desaparece"
+msgstr "[_cedrick_] Realmente no es tan divertido jugar sin apuestas… El incentivo desaparece"
 
 # game/scripts/quests/will/thomas_comes.rpy:67 #-#-# translate crowdin thomas_comes_0121163c:
 msgid "[_cedrick_] Может сыграем на символическую сумму, скажем 10 баксов?"
@@ -98,7 +98,7 @@ msgstr "[_cedrick_] ¿Qué tal una cantidad simbólica de dinero, digamos $10?"
 
 # game/scripts/quests/will/thomas_comes.rpy:68 #-#-# translate crowdin thomas_comes_6ad2da09:
 msgid "[_tomas_] Я.. Ладно только один раз..."
-msgstr "[_tomas_] Yo... Muy bien solo una vez..."
+msgstr "[_tomas_] Yo… Muy bien solo una vez…"
 
 # game/scripts/quests/will/thomas_comes.rpy:73 #-#-# translate crowdin thomas_comes_62b1660e:
 msgid "*спустя еще несколько минут*"
@@ -114,27 +114,27 @@ msgstr "[_cedrick_] Demonios, pareces un jugador muy bueno"
 
 # game/scripts/quests/will/thomas_comes.rpy:84 #-#-# translate crowdin thomas_comes_2fe63301:
 msgid "[_tomas_] Да в былые времена я обыгрывал лучших дилеров по всему штату.."
-msgstr "[_tomas_] Sí, en los viejos tiempos, solía ganarle a los mejores proveedores de todo el estado.."
+msgstr "[_tomas_] Sí, en los viejos tiempos, solía ganarle a los mejores proveedores de todo el estado…"
 
 # game/scripts/quests/will/thomas_comes.rpy:85 #-#-# translate crowdin thomas_comes_be3e64e7:
 msgid "[_tomas_] Чтож было занято поиграть, но у меня еще есть дела, Сьюзан поручила мне заплатить за квартиру..."
-msgstr "[_tomas_] Bueno, he estado ocupado jugando, pero todavía tengo cosas que hacer, Susan me ordenó pagar el alquiler..."
+msgstr "[_tomas_] Bueno, he estado ocupado jugando, pero todavía tengo cosas que hacer, Susan me ordenó pagar el alquiler…"
 
 # game/scripts/quests/will/thomas_comes.rpy:86 #-#-# translate crowdin thomas_comes_498d01b6:
 msgid "[_cedrick_] В таком случае... Может сыграем на большую сумму..."
-msgstr "[_cedrick_] En ese caso... Tal vez podamos jugar por más dinero..."
+msgstr "[_cedrick_] En ese caso… Tal vez podamos jugar por más dinero…"
 
 # game/scripts/quests/will/thomas_comes.rpy:87 #-#-# translate crowdin thomas_comes_c977b609:
 msgid "[_cedrick_] скажем 100 баксов??"
-msgstr "[_cedrick_] Digamos, ¿¿$100??"
+msgstr "[_cedrick_] Digamos, ¿$100??"
 
 # game/scripts/quests/will/thomas_comes.rpy:88 #-#-# translate crowdin thomas_comes_3e2db16c:
 msgid "[_cedrick_] Только подумай, сможешь потратить эти деньги на Вилл и Сьюзан..."
-msgstr "[_cedrick_] Solo piénsalo, ¿puedes gastar ese dinero en Will y Susan..."
+msgstr "[_cedrick_] Solo piénsalo, ¿puedes gastar ese dinero en Will y Susan…"
 
 # game/scripts/quests/will/thomas_comes.rpy:89 #-#-# translate crowdin thomas_comes_2e197541:
 msgid "[_tomas_] Я смотрю, ты не знаешь когда нужно остановится...."
-msgstr "[_tomas_] Veo que no sabes cuando parar...."
+msgstr "[_tomas_] Veo que no sabes cuándo detenerte…"
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/will/thomas_comes.rpy:81
 msgid "Проигрыш:"
