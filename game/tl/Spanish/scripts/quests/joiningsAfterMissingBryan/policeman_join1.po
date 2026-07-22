@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:39\n"
+"PO-Revision-Date: 2026-07-22 21:19\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:10 #-#-# translate crowdin policeman_join1_baeae049:
 msgid "[_tomlair_] Добрый вечер."
@@ -18,11 +18,11 @@ msgstr "[_tomlair_] Buenas noches."
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:11 #-#-# translate crowdin policeman_join1_cf91d5f2:
 msgid "[_cedrick_sprite_] Добрый, что вы здесь делаете в столь позднее время? Я собираюсь закрываться.."
-msgstr "[_cedrick_sprite_] Buenas noches, ¿qué hace aquí a estas horas?. Estoy a punto de cerrar.."
+msgstr "[_cedrick_sprite_] Buenas noches. ¿Qué hace aquí a estas horas? Estoy a punto de cerrar…"
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:12 #-#-# translate crowdin policeman_join1_a607838e:
 msgid "[_tomlair_] Прошу прощения за столь поздний визит... Меня зовут Том Лэир, я офицер полиции.."
-msgstr "[_tomlair_] Pido disculpas por esta visita tan tardía... Mi nombre es Tom Lair, soy oficial de policía.."
+msgstr "[_tomlair_] Pido disculpas por esta visita tan tardía… Mi nombre es Tom Lair, soy oficial de policía…"
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:13 #-#-# translate crowdin policeman_join1_f1a42b5e:
 msgid "[_tomlair_] Недавно в городе пропал мальчик, его зовут Брайан Макнайт, вы знаете что-нибудь об этом?"
@@ -30,7 +30,7 @@ msgstr "[_tomlair_] Hace poco desapareció un chico en la ciudad, se llama Brian
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:14 #-#-# translate crowdin policeman_join1_978ece22:
 msgid "[_cedrick_sprite_] Впервые слышу.."
-msgstr "[_cedrick_sprite_] Es la primera vez que lo oigo.."
+msgstr "[_cedrick_sprite_] Es la primera vez que lo oigo…"
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:15 #-#-# translate crowdin policeman_join1_3e38f4e1:
 msgid "[_tomlair_] Один из граждан сообщил, что незадолго до своей пропажи, мальчик посещал этот магазин."
@@ -38,7 +38,7 @@ msgstr "[_tomlair_] Un ciudadano dijo que poco antes de su desaparición, el chi
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:16 #-#-# translate crowdin policeman_join1_645b7301:
 msgid "[_tomlair_] Рыжеволосый мальчик, рост примерно 165, зеленая толстовка..."
-msgstr "[_tomlair_] Chico pelirrojo, de 165 de altura, sudadera verde..."
+msgstr "[_tomlair_] Chico pelirrojo, de 165 de altura, sudadera verde…"
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:17 #-#-# translate crowdin policeman_join1_98306e7f:
 msgid "[_cedrick_sprite_] Здесь довольно много посетителей, я не могу всех запомнить"
@@ -62,7 +62,7 @@ msgstr "[_cedrick_sprite_] ¿Bernard?"
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:37 #-#-# translate crowdin policeman_join1_efe32efe:
 msgid "[_tomlair_] Бернард Блэк, владелец магазина..."
-msgstr "[_tomlair_] Bernard Black, propietario de la tienda..."
+msgstr "[_tomlair_] Bernard Black, propietario de la tienda…"
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:38 #-#-# translate crowdin policeman_join1_5a2ec326:
 msgid "[_cedrick_sprite_] Ах да, дело в том, что недавно я купил этот магазин, теперь я новый владелец"
@@ -70,7 +70,7 @@ msgstr "[_cedrick_sprite_] Oh sí, la cosa es, que recientemente compré esta ti
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:39 #-#-# translate crowdin policeman_join1_15c49f2c:
 msgid "[_tomlair_] Странно... Он не говорил о том, что собирается его продавать"
-msgstr "[_tomlair_] Extraño... No dijo que iba a venderla"
+msgstr "[_tomlair_] Qué extraño… No dijo que pensara venderlo."
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:40 #-#-# translate crowdin policeman_join1_4d10713b:
 msgid "[_cedrick_sprite_] Да, но у него внезапно подкосило здоровье, знаете как это бывает, старость не радость"
@@ -78,7 +78,7 @@ msgstr "[_cedrick_sprite_] Sí, pero repentinamente su salud se deterioró, ya s
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:41 #-#-# translate crowdin policeman_join1_497bba12:
 msgid "[_tomlair_]  И где сейчас находится предыдущий владелец?"
-msgstr "[_tomlair_]  ¿Y dónde se encuentra ahora?"
+msgstr "[_tomlair_] ¿Y dónde se encuentra ahora?"
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:42 #-#-# translate crowdin policeman_join1_0918c250:
 msgid "[_cedrick_sprite_] Не имею ни малейшего понятия"
@@ -86,23 +86,23 @@ msgstr "[_cedrick_sprite_] No tengo la menor idea"
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:43 #-#-# translate crowdin policeman_join1_95ee157f:
 msgid "[_tomlair_] Хм.. Я могу посмотреть на документы владением магазина?"
-msgstr "[_tomlair_] Um... ¿Puedo echar un vistazo a los papeles de propiedad de la tienda?"
+msgstr "[_tomlair_] Um… ¿Puedo echar un vistazo a los papeles de propiedad de la tienda?"
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:44 #-#-# translate crowdin policeman_join1_528ef165:
 msgid "[_cedrick_sprite_] Эм знаете, они еще не готовы.. И думаю, что я не обязан показывать их вам. У вас нету ордера или чего-то там еще... "
-msgstr "[_cedrick_sprite_] Um, verá, no están listos todavía. Y no creo que tenga que enseñárselos. No tiene una orden ni nada... "
+msgstr "[_cedrick_sprite_] Um, verá, no están listos todavía. Y no creo que tenga que enseñárselos. No tiene una orden ni nada… "
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:45 #-#-# translate crowdin policeman_join1_6f089daf:
 msgid "[_tomlair_] Не обязаны.. Но эта ситуация с продажей магазина выглядит довольно подозрительно, мы могли бы избежать недопонимания..."
-msgstr "[_tomlair_] No tiene por qué... Pero esta situación sobre la venta de la tienda parece bastante sospechosa, podríamos evitar malentendidos..."
+msgstr "[_tomlair_] No tiene por qué… Pero esta situación sobre la venta de la tienda parece bastante sospechosa, podríamos evitar malentendidos…"
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:46 #-#-# translate crowdin policeman_join1_8a6bce07:
 msgid "[_cedrick_sprite_] Тем не менее.. Я не собираюсь показывать вам документы, пока в этом не возникнет необходимость.."
-msgstr "[_cedrick_sprite_] Sin embargo.. No voy a mostrarte los documentos hasta que surja la necesidad.."
+msgstr "[_cedrick_sprite_] Sin embargo… No voy a mostrarte los documentos hasta que surja la necesidad…"
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:47 #-#-# translate crowdin policeman_join1_addbd8ea:
 msgid "[_tomlair_] Ну раз так.. я вас понял. Если у вас появятся какие-либо сведения о пропавшем мальчике, прошу, незамедлительно сообщите в департамент полиции."
-msgstr "[_tomlair_] Si ese es el caso... lo entiendo. Si tiene alguna información sobre el niño desaparecido, por favor notifique al departamento de policía inmediatamente."
+msgstr "[_tomlair_] Si ese es el caso… lo entiendo. Si tiene alguna información sobre el niño desaparecido, por favor notifique al departamento de policía inmediatamente."
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:48 #-#-# translate crowdin policeman_join1_5becdc2e:
 msgid "[_cedrick_sprite_] Как скажете, офицер"
@@ -118,5 +118,5 @@ msgstr "[_cedrick_sprite_] Le deseo suerte."
 
 # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:54 #-#-# translate crowdin policeman_join1_99534c08:
 msgid "[_cedrick_sprite_] (Кажется, что он меня подозревает.. Нужно быть осторожнее.. Если он снова начнет выяснять о пропаже владельца возможно придется от него избавится...)"
-msgstr "[_cedrick_sprite_] (Parece que sospecha de mí... Tengo que tener cuidado... Si empieza a averiguar otra vez lo del dueño desaparecido, puede que tenga que deshacerme de él...)"
+msgstr "[_cedrick_sprite_] (Parece que sospecha de mí… Tengo que tener cuidado… Si empieza a averiguar otra vez lo del dueño desaparecido, puede que tenga que deshacerme de él…)"
 
