@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:44\n"
+"PO-Revision-Date: 2026-07-22 14:05\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:6 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_33e12e8d:
 msgid "[_medina_] Добрый вечер"
@@ -34,7 +34,7 @@ msgstr "[_cedrick_] Sí"
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:15 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_3e673591:
 msgid "[_medina_] Я детектив Медина, а это детектив Мактиннен"
-msgstr "[_medina_] Soy la detective Medina, y él es el detective McTiennan"
+msgstr "[_medina_] Soy la detective Medina, y él es el detective Maktinen"
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:16 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_83190316:
 msgid "[_medina_] Мы пришли узнать… Когда вы в последний раз видели офицера Лэира?"
