@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-16 03:10\n"
+"PO-Revision-Date: 2026-07-22 14:08\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:162 #-#-# translate crowdin podskazka_f6227483:
 msgid "Следующая мини игра представляет из себя некое подобие мини игры из старых флеш игр и вероятно вы могли уже сталкивался с подобным."
-msgstr ""
+msgstr "El próximo mini juego es una especie de mini-juego de los viejos juegos flash y probablemente ya podrías haber encontrado esto."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:163 #-#-# translate crowdin podskazka_f5b15ec8:
 msgid "На экране у вас присутствует Триггер который управляется игроком путем нажатия. Раннер который перемещается случайным образом в верх или низ с разной скоростью. И шкала возбуждения Седрика которая заполняется если раннер убегает из зоны триггера."
-msgstr ""
+msgstr "En la pantalla tienes el disparador que es controlado por el jugador haciendo clic. Un corredor que se mueve aleatoriamente a la parte superior o inferior a diferentes velocidades. Y la escala de excitación de Cedric se llena si el corredor huye de la zona de activación."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:166 #-#-# translate crowdin podskazka_9056b119:
 msgid "Единственное что может контролировать игрок это поднятие триггера который поднимается если вы быстро кликаете по экрану левой кнопкой мыши или быстро нажмите пальцем по экрану в случае игры на Андроид устройствах. Если же ничего не нажимать триггер опускается."
-msgstr ""
+msgstr "Lo único que un jugador puede controlar es recoger un disparador que se eleva si se cierra la pantalla con el botón izquierdo del ratón o se presiona rápidamente el dedo en la pantalla en el caso de jugar en los dispositivos Android. Si no presionas el gatillo, está caído."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:169 #-#-# translate crowdin podskazka_5a3b64c1:
 msgid "Ваша задача сделать так чтобы триггер большую часть времени находился внутри раннера который будет менять свое местоположение, и тем самым не допустить заполнения шкалы возбуждения Седрика в течении отведенного времени. Если же шкала возбуждения заполнится до конца вы проиграете!"
-msgstr ""
+msgstr "Su tarea es asegurarse de que el desencadenante la mayor parte del tiempo estaba dentro del corredor que cambiará su ubicación, y por lo tanto evitar que la escala de emoción de cedric se complete durante el tiempo asignado. ¡Si la escala de arrogancia se llena hasta el final, pierdes!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:170 #-#-# translate crowdin podskazka_26f7e424:
 msgid "Удачной игры!"
@@ -34,23 +34,23 @@ msgstr "¡Disfruta el juego!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:199 #-#-# translate crowdin win1_920ca08d:
 msgid "[_susan_] Только в этот раз придется без фартука на голое тело, ахах.. Не хочу, чтобы Вилл увидела меня в таком виде, сам понимаешь..."
-msgstr ""
+msgstr "[_susan_] Solo que esta vez tendré que estar desnuda bajo el delantal, jaja... No quiero que Will me vea así, ya entiendes..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:200 #-#-# translate crowdin win1_e0bf11d0:
 msgid "[_cedrick_] Аааага... Ух..."
-msgstr ""
+msgstr "[_cedrick_] Aaaga... Uh..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:201 #-#-# translate crowdin win1_28c7337f:
 msgid "[_susan_] Хм, кстати... А где он?"
-msgstr ""
+msgstr "[_susan_] Hmm, por cierto... ¿Dónde está?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:202 #-#-# translate crowdin win1_c9724d18:
 msgid "[_cedrick_] А-ааа? К-кто?"
-msgstr ""
+msgstr "[_cedrick_] ¿A-aaah? ¿Q-quién?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:203 #-#-# translate crowdin win1_6b96ac0f:
 msgid "[_susan_] Фартук..."
-msgstr ""
+msgstr "[_susan_] Delantal..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:204 #-#-# translate crowdin win1_49316299:
 msgid "[_cedrick_] ..."
@@ -58,7 +58,7 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:205 #-#-# translate crowdin win1_faf25b5d:
 msgid "[_susan_] В котором я была..."
-msgstr ""
+msgstr "[_susan_] Yo estaba..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:206 #-#-# translate crowdin win1_f89f7db9:
 msgid "[_cedrick_] ....."
@@ -66,11 +66,11 @@ msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:207 #-#-# translate crowdin win1_5450766b:
 msgid "[_susan_] Когда ты меня трахал"
-msgstr ""
+msgstr "[_susan_] Cuando me cogiste"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:208 #-#-# translate crowdin win1_743ce1ed:
 msgid "[_cedrick_] Ааааа..."
-msgstr ""
+msgstr "[_cedrick_] Aaaaa..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:209 #-#-# translate crowdin win1_49316299_1:
 msgid "[_cedrick_] ..."
@@ -78,39 +78,39 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:210 #-#-# translate crowdin win1_1f688984:
 msgid "[_cedrick_] Я не знаю..."
-msgstr ""
+msgstr "[_cedrick_] No sé..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:211 #-#-# translate crowdin win1_75d21f13:
 msgid "[_susan_] Хм, ну, видимо в стирке..."
-msgstr ""
+msgstr "[_susan_] Hmm, bueno, aparentemente en la lavandería..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:212 #-#-# translate crowdin win1_49eb9d2b:
 msgid "[_cedrick_] В-видимо..."
-msgstr ""
+msgstr "[_cedrick_] Probablemente..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:213 #-#-# translate crowdin win1_f9911d31:
 msgid "[_will_] (Ммммххх... Н-нет, он на мне... В этот раз на мне, ахах...)"
-msgstr ""
+msgstr "[_will_] (Mmmkh... N, no, está en mí... Esta vez sobre mí, ahhhhhhhh"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:214 #-#-# translate crowdin win1_f936042d:
 msgid "[_cedrick_] (Что ж, хотя бы Вилл не издает лишних звуков... Но, ух, главное мне самому их тоже не издавать...)"
-msgstr ""
+msgstr "[_cedrick_] (Bueno, al menos Will no hace sonidos innecesarios... Pero, lo principal para mí tampoco los publico.)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:215 #-#-# translate crowdin win1_742dda03:
 msgid "[_cedrick_] (С-стоп... Вилл, ты чего там удумала...)"
-msgstr ""
+msgstr "[_cedrick_] (Detente... Will, ¿qué te pareció?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:216 #-#-# translate crowdin win1_fdf18291:
 msgid "[_will_] (П-прости мне мой эгоизм, Рик, но я тоже хочу почувствовать тебя... Мне нужно больше...)"
-msgstr ""
+msgstr "[_will_] (P-p-ph-iss mi egoísmo, Rick, pero también quiero sentirte... Necesito más...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:217 #-#-# translate crowdin win1_a2c2b5da:
 msgid "[_cedrick_] Ч-черт... Я попал..."
-msgstr ""
+msgstr "[_cedrick_] M-mierda... Me atraparon..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:228 #-#-# translate crowdin win2_1c0c79f9:
 msgid "[_will_] (Мххх, дааа, вот так...)"
-msgstr ""
+msgstr "[_will_] (Mhhhhhhhh"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:229 #-#-# translate crowdin win2_49316299:
 msgid "[_cedrick_] ..."
@@ -122,127 +122,127 @@ msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:231 #-#-# translate crowdin win2_16b0a7f8:
 msgid "[_susan_] Рик, все хорошо?"
-msgstr ""
+msgstr "[_susan_] Rick, ¿está todo bien?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:232 #-#-# translate crowdin win2_57043ceb:
 msgid "[_cedrick_] Д-да, а ч-чтооо такое?"
-msgstr ""
+msgstr "[_cedrick_] S-sí, ¿q-qué pasa?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:233 #-#-# translate crowdin win2_8cdd0217:
 msgid "[_susan_] Хм, не знаю.. ты какой-то напряженный..."
-msgstr ""
+msgstr "[_susan_] Hmm, no lo sé. Estás un poco tensa..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:234 #-#-# translate crowdin win2_61ac5e06:
 msgid "[_cedrick_] Что? Пф, да нет..."
-msgstr ""
+msgstr "[_cedrick_] ¿Qué? Pff, no..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:235 #-#-# translate crowdin win2_2322a138:
 msgid "[_susan_] Или скорее... Очень сосредоточенный..."
-msgstr ""
+msgstr "[_susan_] O más... Muy concentrado..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:236 #-#-# translate crowdin win2_bc0b9d30:
 msgid "[_will_] (Аааххх... С-сосредоточен на моей киске...)"
-msgstr ""
+msgstr "[_will_] (Aahhhhhhhh se concentró en mi coño...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:237 #-#-# translate crowdin win2_2a4b6b03:
 msgid "[_cedrick_] (Вот черт, Сьюзан уже умудряется хорошо считывать мои эмоции, ее так просто не обманешь...)"
-msgstr ""
+msgstr "[_cedrick_] (Aquí el infierno, Susan ya es buena leyendo mis emociones, no puedes engañarla tan fácilmente...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:238 #-#-# translate crowdin win2_e6e6bc85:
 msgid "[_cedrick_] (Яяя... ух... и вправду сейчас стараюсь быть очень сосредоточенным...)"
-msgstr ""
+msgstr "[_cedrick_] (Yo Soy... Vaya... Realmente estoy tratando de estar muy concentrado ahora.)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:239 #-#-# translate crowdin win2_a37c1104:
 msgid "[_cedrick_] Эм... Скоро экзамены, серьезный этап в жизни каждого, кхм... ученика..."
-msgstr ""
+msgstr "[_cedrick_] Mm... Pronto exámenes, una etapa seria en la vida de todos, kmm... El estudiante..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:240 #-#-# translate crowdin win2_75a5fe8a:
 msgid "[_cedrick_] Н-но и в жизни преподавателей тоже... В-вот я поэтому и начинаю... З-заранее готовиться..."
-msgstr ""
+msgstr "[_cedrick_] N-no y en la vida de los profesores también... Por eso estoy empezando... Prepararse con antelación..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:241 #-#-# translate crowdin win2_caa6583d:
 msgid "[_cedrick_] Яяя ведь относительно недавно стал учителем, э-это мои первые такие серьезные экзамены..."
-msgstr ""
+msgstr "[_cedrick_] Yaya, porque relativamente recientemente se convirtió en maestra, uh, mis primeros exámenes tan serios..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:242 #-#-# translate crowdin win2_2f3df04b:
 msgid "[_cedrick_] П-поэтому я иногда повторяю в голове учебный материал..."
-msgstr ""
+msgstr "[_cedrick_] A veces repito el material de entrenamiento en mi cabeza."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:243 #-#-# translate crowdin win2_001a88cb:
 msgid "[_susan_] Ох, так вот что это за эмоция... Ты сосредоточен и при этом волнуешься... Все, теперь понимаю..."
-msgstr ""
+msgstr "[_susan_] Oh, así que esto es lo que esta emoción... Estás concentrado y preocupado... Eso es, ahora entiendo..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:244 #-#-# translate crowdin win2_2e5ed815:
 msgid "[_cedrick_] (О-она даже это заметила... Видимо она и вправду держится за меня как за надежного мужчину и поэтому очень внимательно ко мне относится...)"
-msgstr ""
+msgstr "[_cedrick_] (Oh-ella incluso se dio cuenta de esto... Aparentemente, ella realmente me sigue como un hombre confiable y, por lo tanto, me trata con mucho cuidado ...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:245 #-#-# translate crowdin win2_b8c1b73f:
 msgid "[_cedrick_] (Раньше я был бы польщен, н-но сейчас не то чтобы это было плюсом...)"
-msgstr ""
+msgstr "[_cedrick_] (Me habría sentido halagado antes, pero ahora no es ese plus...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:246 #-#-# translate crowdin win2_a3b90f51:
 msgid "[_susan_] Знаешь, я даже уважаю твой ответственный подход к экзаменам... Сразу видно я выбрала правильного мужчину"
-msgstr ""
+msgstr "[_susan_] Ya sabes, incluso respeto tu enfoque responsable de los exámenes... Inmediatamente se puede ver que elegí al hombre adecuado"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:247 #-#-# translate crowdin win2_31fcaea0:
 msgid "[_cedrick_] Ахах, т-ты преувеличиваешь... Н-но я польщен..."
-msgstr ""
+msgstr "[_cedrick_] Jaja, e-exageras... P-pero me halaga..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:248 #-#-# translate crowdin win2_862d9d12:
 msgid "[_susan_] Рик, тебе не стоит так беспокоиться... К тому же это важный день для учеников, а вот для преподавателей..."
-msgstr ""
+msgstr "[_susan_] Rick, no tienes que preocuparte por... Además, este es un día importante para los estudiantes, pero para los profesores ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:249 #-#-# translate crowdin win2_ca0abe9e:
 msgid "[_susan_] Хм, в какой-то степени это не отличается от их обычной рутины..."
-msgstr ""
+msgstr "[_susan_] Hmm, en cierta medida no es diferente de su rutina habitual."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:250 #-#-# translate crowdin win2_1b155c81:
 msgid "[_cedrick_] В-возможно ты права, я заморачиваюсь..."
-msgstr ""
+msgstr "[_cedrick_] Tal vez tengas razón, me estoy molestando..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:251 #-#-# translate crowdin win2_8bf5200f:
 msgid "[_susan_] Зато потом.. Учителя отдыхают... А у учеников появляется возможность пойти на бал перед каникулами"
-msgstr ""
+msgstr "[_susan_] Pero entonces. Los profesores están descansando... Y los estudiantes tienen la oportunidad de ir a la pelota antes de las vacaciones"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:252 #-#-# translate crowdin win2_ebb39f31:
 msgid "[_cedrick_] Б-бал?"
-msgstr ""
+msgstr "[_cedrick_] ¿B-ball?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:253 #-#-# translate crowdin win2_1f2dfbd9:
 msgid "[_susan_] Да, знаешь... Все ищут себе пару, танцуют, развлекаются, выпивают... Преподаватели тоже, ахах"
-msgstr ""
+msgstr "[_susan_] Sí, ya sabes... Todo el mundo está buscando una pareja, bailando, divirtiéndose, bebiendo... Profesores también, ahhhhhhhh"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:254 #-#-# translate crowdin win2_ca654225:
 msgid "[_susan_] Может мы даже с тобой тоже там потанцуем"
-msgstr ""
+msgstr "[_susan_] ¿Puede incluso tú y yo también"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:255 #-#-# translate crowdin win2_91dc0534:
 msgid "[_cedrick_] Б-было бы чудесно..."
-msgstr ""
+msgstr "[_cedrick_] Sería maravilloso..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:256 #-#-# translate crowdin win2_289a14ac:
 msgid "[_cedrick_] (В-вот черт... Я близок к тому, чтобы кончить... Н-нужно быть максимально сосредоточенным...)"
-msgstr ""
+msgstr "[_cedrick_] (M-mierda... Estoy a punto de correrme... D-debo concentrarme al máximo...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:263 #-#-# translate crowdin win3_df466f16:
 msgid "[_susan_] Хм, кстати говоря об учащихся... Наша соня все еще не проснулась? Может мне ее проведать?"
-msgstr ""
+msgstr "[_susan_] Hmm, por cierto, sobre los estudiantes... ¿Nuestra sonya aún no se ha despertado? ¿Tal vez pueda comprobarlo?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:264 #-#-# translate crowdin win3_d3baf5a5:
 msgid "[_cedrick_] Д-да, давай..."
-msgstr ""
+msgstr "[_cedrick_] D-da, vamos..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:266 #-#-# translate crowdin win3_06ca00ea:
 msgid "[_susan_] Тогда схожу проверю ее"
-msgstr ""
+msgstr "[_susan_] Entonces lo comprobaré"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:271 #-#-# translate crowdin gallery_d_102_46edae12:
 msgid "[_will_] Ммммххх... Р-рик... У тебя не только стальной член, но и стальная выдержка..."
-msgstr ""
+msgstr "[_will_] Mmm... R-rick... No solo tienes un pene de acero, pero tienes un tachuelo..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:273 #-#-# translate crowdin gallery_d_102_515b7631:
 msgid "[_will_] Я уж, если честно, надеялась, что ты издашь хоть какой-нибудь звук..."
-msgstr ""
+msgstr "[_will_] Yo, para ser honesto, esperaba que hicieras algún sonido..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:275 #-#-# translate crowdin gallery_d_102_49316299:
 msgid "[_cedrick_] ..."
@@ -250,31 +250,31 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:277 #-#-# translate crowdin gallery_d_102_5f42c680:
 msgid "[_will_] Стало немного обидно, что ты не реагируешь, хоть я так стараюсь..."
-msgstr ""
+msgstr "[_will_] Se volvió un poco decepcionante que no reacciones, aunque estoy tratando de..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:279 #-#-# translate crowdin gallery_d_102_47af8215:
 msgid "[_will_] Но ты не издал ни звука... Сурово..."
-msgstr ""
+msgstr "[_will_] Pero no hiciste un sonido... Es un duro..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:281 #-#-# translate crowdin gallery_d_102_664b22e0:
 msgid "[_cedrick_] С-сурово будет сейчас, когда твоя мама вернется на кухню и увидит тебя под столом всю в моей сперме..."
-msgstr ""
+msgstr "[_cedrick_] Va a ser tan malo ahora que tu madre está de vuelta en la cocina y te ve debajo de la mesa todo en mi esperma..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:283 #-#-# translate crowdin gallery_d_102_bdf3141b:
 msgid "[_will_] Ох... Т-точно... Она ушла?"
-msgstr ""
+msgstr "[_will_] Oh... Eso es correcto... ¿Se ha ido?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:285 #-#-# translate crowdin gallery_d_102_b21fc42c:
 msgid "[_cedrick_] Мда, тебе явно надо привести себя в порядок... "
-msgstr ""
+msgstr "[_cedrick_] Mda, obviamente necesitas ponerte en orden..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:287 #-#-# translate crowdin gallery_d_102_2b59b946:
 msgid "[_will_] Мххх, ну после такого застольного секса то точно..."
-msgstr ""
+msgstr "[_will_] Mxx, bueno, después de un sexo de mesa, eso es seguro..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:289 #-#-# translate crowdin gallery_d_102_ff51be87:
 msgid "[_will_] Или вернее сказать... подстольного..."
-msgstr ""
+msgstr "[_will_] O más bien decir... Sustrato..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:291 #-#-# translate crowdin gallery_d_102_49316299_1:
 msgid "[_cedrick_] ..."
@@ -282,75 +282,75 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:293 #-#-# translate crowdin gallery_d_102_c0f2c595:
 msgid "[_will_] Мог бы хоть посмеяться... Ладно..."
-msgstr ""
+msgstr "[_will_] Podría estar riendo... Muy bien..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:295 #-#-# translate crowdin gallery_d_102_28b6921b:
 msgid "[_cedrick_] Так, быстро беги в ванну, пока она не вернулась..."
-msgstr ""
+msgstr "[_cedrick_] Así que, corre rápidamente al baño antes de que ella regrese..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:297 #-#-# translate crowdin gallery_d_102_c1d01ef0:
 msgid "[_will_] Р-рик.. Я же говорила, что ванная между кухней и моей спальней... Если мама меня увидит на пути, то поймет, чем мы тут занимались..."
-msgstr ""
+msgstr "[_will_] R-Rick... Te dije el baño entre la cocina y mi habitación... Si mi madre me ve en el camino, sabrá lo que hemos estado haciendo aquí."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:299 #-#-# translate crowdin gallery_d_102_7322a77a:
 msgid "[_will_] А я между прочим все еще в одном фартуке на голое тело..."
-msgstr ""
+msgstr "[_will_] Y todavía estoy en un delantal en un cuerpo desnudo..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:301 #-#-# translate crowdin gallery_d_102_063a0ef2:
 msgid "[_cedrick_] Не поймет... У меня есть идея... Довольно рисковая, но может сработать..."
-msgstr ""
+msgstr "[_cedrick_] no entenderá... Tengo una idea... Muy arriesgado, pero puede funcionar..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:302 #-#-# translate crowdin gallery_d_102_88cc8f12:
 msgid "[_cedrick_] Только ты должна будешь сказать все в точности как я тебе скажу..."
-msgstr ""
+msgstr "[_cedrick_] Solo tú tienes que decir exactamente lo que te digo..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:304 #-#-# translate crowdin gallery_d_102_4f353167:
 msgid "[_will_] Эм, х-хорошо..."
-msgstr ""
+msgstr "[_will_] Emm, e-está bien..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:306 #-#-# translate crowdin gallery_d_102_a4dcb7d1:
 msgid "[_cedrick_] Давай быстрее, пока она не вернулась на кухню... Тогда мы будем точно обречены..."
-msgstr ""
+msgstr "[_cedrick_] Vamos a ser más rápidos antes de que vuelva a la cocina... Entonces estaremos condenados..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:308 #-#-# translate crowdin gallery_d_102_8f979284:
 msgid "[_will_] П-поняла..."
-msgstr ""
+msgstr "[_will_] Entendido..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:313 #-#-# translate crowdin gallery_d_102_175d7834:
 msgid "[_centered_] {size=37}Вилл выбирается из под стола и идет в сторону ванной{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Will sale de debajo de la mesa y va hacia el baño{/size}"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:314 #-#-# translate crowdin gallery_d_102_c2d3ca9f:
 msgid "[_cedrick_] (Н-надеюсь сработает...)"
-msgstr ""
+msgstr "[_cedrick_] (Espero que funcione...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:323 #-#-# translate crowdin gallery_d_102_b0f4ac79:
 msgid "[_susan_] В-вилл!? Что с тобой!? П-почему ты в таком виде!?"
-msgstr ""
+msgstr "[_susan_] W-Will!? ¿¡Qué te pasa!? ¿Por qué estás en esta forma?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:329 #-#-# translate crowdin gallery_d_102_5e0368df:
 msgid "[_will_] Эм, ну..."
-msgstr ""
+msgstr "[_will_] Mm, bueno..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:335 #-#-# translate crowdin gallery_d_102_9f870392:
 msgid "[_susan_] Объяснитесь, юная леди!"
-msgstr ""
+msgstr "[_susan_] ¡Explíquelo, jovencita!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:341 #-#-# translate crowdin gallery_d_102_93eab68c:
 msgid "[_will_] Я п-просто была в душе и..."
-msgstr ""
+msgstr "[_will_] Estaba en la ducha y..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:347 #-#-# translate crowdin gallery_d_102_d31d051d:
 msgid "[_susan_] Иии?"
-msgstr ""
+msgstr "[_susan_] ¿Tú?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:353 #-#-# translate crowdin gallery_d_102_5bccb482:
 msgid "[_will_] Эм... Я поняла, что забыла свою одежду в комнате... А в ванной был только этот фартук в стирке... Вот я и надела его, чтобы хоть в чем-то дойти до комнаты..."
-msgstr ""
+msgstr "[_will_] Mm... Me di cuenta de que había olvidado mi ropa en la habitación... Y en el baño solo había este delantal en la lavandería... Así que me lo puse para llegar a la habitación al menos..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:359 #-#-# translate crowdin gallery_d_102_5220aece:
 msgid "[_susan_] ....."
-msgstr ""
+msgstr "[_susan_] ....."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:363 #-#-# translate crowdin gallery_d_102_8fba1ecf:
 msgid "[_will_] ....."
@@ -358,11 +358,11 @@ msgstr "[_will_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:367 #-#-# translate crowdin gallery_d_102_45272c5c:
 msgid "[_will_] Ахах, я... Т-только проснулась... Вот и не подумала об одежде..."
-msgstr ""
+msgstr "[_will_] Ahh, yo... Acabo de despertar... No pensé en la ropa..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:373 #-#-# translate crowdin gallery_d_102_53c989fe:
 msgid "[_will_] П-пошла в душ в чем мать родила... Б-буквально..."
-msgstr ""
+msgstr "[_will_] Fui a la ducha en lo que su madre dio a luz a... Literalmente..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:378 #-#-# translate crowdin gallery_d_102_ffd7540e:
 msgid "[_susan_] ..."
@@ -370,103 +370,103 @@ msgstr "[_susan_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:382 #-#-# translate crowdin gallery_d_102_dcf0fd7b:
 msgid "[_susan_] (Фух...)"
-msgstr ""
+msgstr "[_susan_] (Pu...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:383 #-#-# translate crowdin gallery_d_102_3c0a9a50:
 msgid "[_susan_] (Х-хорошо, что она не зашла в ванну раньше... Все же Рик был прав, мы рисковали...)"
-msgstr ""
+msgstr "[_susan_] (M-menos mal que no ha ido al baño antes... Todavía Rick tenía razón, nos arriesgamos a ...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:384 #-#-# translate crowdin gallery_d_102_519a49f5:
 msgid "[_susan_] (А еще если бы он увидел ее полностью голой... Ситуация была бы неловкой с обеих сторон... Мягко говоря...)"
-msgstr ""
+msgstr "[_susan_] (Y si la hubiera visto completamente desnuda... La situación sería incómoda por ambas partes. Para decirlo suavemente...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:388 #-#-# translate crowdin gallery_d_102_ad340001:
 msgid "[_susan_] (Но этот ее наряд... Кхм... Кое-что напоминает...)"
-msgstr ""
+msgstr "[_susan_] (Pero este outfit... Km... Algo me recuerda...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:392 #-#-# translate crowdin gallery_d_102_31b8b804:
 msgid "[_susan_] (Неужели она надела его не только ради того, чтобы прикрыться?)"
-msgstr ""
+msgstr "[_susan_] (¿Se lo puso no solo para cubrir?)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:397 #-#-# translate crowdin gallery_d_102_95446ff9:
 msgid "[_susan_] (М-может она оделась так же, чтобы сравнить, как моя и ее фигура смотрятся в таком вот откровенном наряде?)"
-msgstr ""
+msgstr "[_susan_] (¿Tal vez se vistió de la misma manera que para comparar cómo mi figura y la mía se ven así en un atuendo franco?)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:401 #-#-# translate crowdin gallery_d_102_09ab96d4:
 msgid "[_susan_] (Ох, да, в таком возрасте это бывает... Она уже совсем взрослая... Задумывается о таких похабных вещах...)"
-msgstr ""
+msgstr "[_susan_] (Oh, sí, a esta edad sucede... Ya es adulta... Pensando en cosas tan sucias.)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:402 #-#-# translate crowdin gallery_d_102_9a124f1f:
 msgid "[_susan_] (Кхм, п-прямо как ее мама... Не знаю уж гордиться ею или беспокоиться...)"
-msgstr ""
+msgstr "[_susan_] (Khm, al igual que su madre... No sé si estoy orgulloso de ello o me preocupo.)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:406 #-#-# translate crowdin gallery_d_102_ace8d8b5:
 msgid "[_susan_] (Хм, а фигура ведь и вправду отличная, сразу видно плавание дало свои плоды... Да и я ее всегда правильно кормила... Вон в итоге какую грудь отрастила...)"
-msgstr ""
+msgstr "[_susan_] (Hmm, y la figura es realmente genial, se puede ver el viaje que dio sus frutos ... Y siempre le alimenté bien... Al final, ¿qué pechos crecieron...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:410 #-#-# translate crowdin gallery_d_102_dedcb126:
 msgid "[_will_] (Она что, пялится на мои сиськи?)"
-msgstr ""
+msgstr "[_will_] (¿Está mirando mis tetas?)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:414 #-#-# translate crowdin gallery_d_102_1355bdb9:
 msgid "[_will_] Эм... М-мам?"
-msgstr ""
+msgstr "[_will_] Mm... ¿Mm-M?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:420 #-#-# translate crowdin gallery_d_102_5af8be5a:
 msgid "[_susan_] (Д-да, не правильно было бы ругать ее в этой ситуации... Она познает свою сексуальность, если наказывать ее за это, то она закроется...)"
-msgstr ""
+msgstr "[_susan_] (Sí, no sería correcto regañarla en esta situación... Ella conoce su sexualidad, si la castigas por ella, entonces ella cerrará.)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:424 #-#-# translate crowdin gallery_d_102_81bcd3c6:
 msgid "[_susan_] (А к каким последствиям может привести сексуальная замкнутость в таком бурном возрасте, один только бог знает...)"
-msgstr ""
+msgstr "[_susan_] (Y qué consecuencias pueden llevar al aislamiento sexual a una edad tan rápida, solo Dios sabe ...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:425 #-#-# translate crowdin gallery_d_102_2252669a:
 msgid "[_susan_] (П-помню некоторые мамы мне рассказывали случаи, когда после постоянных выговоров за распутное поведение дочери вдруг начинали вести себя нормально...)"
-msgstr ""
+msgstr "[_susan_] (Recuerdo que algunas madres me dijeron casos cuando, después de constantes reprimendas por el comportamiento de las zorras, mi hija de repente comenzó a comportarse normalmente...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:429 #-#-# translate crowdin gallery_d_102_da4fa8d7:
 msgid "[_susan_] (А-а потом их находили в постели с собственными отцами, ж-жуть...)"
-msgstr ""
+msgstr "[_susan_] (Y luego fueron encontrados en la cama con sus propios padres, cuerno...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:430 #-#-# translate crowdin gallery_d_102_bbee8a4a:
 msgid "[_susan_] (А Рик ведь ей даже не отец, т-тут ситуация еще опаснее...)"
-msgstr ""
+msgstr "[_susan_] (Y Rick ni siquiera es su padre, entonces la situación es aún más peligrosa...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:436 #-#-# translate crowdin gallery_d_102_dfe67ac9:
 msgid "[_susan_] (Л-лучше буду поощрять ее начинания, чтобы ее не переклинило на теме секса и ее сексуальности в какой-то момент...)"
-msgstr ""
+msgstr "[_susan_] (Prefiero alentar sus esfuerzos para que no se sienta abrumada en el tema del sexo y la sexualidad en algún momento ...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:440 #-#-# translate crowdin gallery_d_102_115886fa:
 msgid "[_susan_] Кхм..."
-msgstr ""
+msgstr "[_susan_] Khm..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:444 #-#-# translate crowdin gallery_d_102_383f712d:
 msgid "[_susan_] Н-ну ты и растяпа, Вилл..."
-msgstr ""
+msgstr "[_susan_] B-bueno, eres muy torpe, Will..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:448 #-#-# translate crowdin gallery_d_102_fa66d004:
 msgid "[_susan_] Л-ладно, беги давай в комнату, пока Рик не увидел тебя в таком виде"
-msgstr ""
+msgstr "[_susan_] Muy bien, entra en la habitación hasta que Rick te vio así."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:454 #-#-# translate crowdin gallery_d_102_9e9882d5:
 msgid "[_will_] Х-хорошо..."
-msgstr ""
+msgstr "[_will_] E-está bien..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:460 #-#-# translate crowdin gallery_d_102_faf9f978:
 msgid "[_susan_] И-и еще, Вилл..."
-msgstr ""
+msgstr "[_susan_] Y, Will..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:466 #-#-# translate crowdin gallery_d_102_0b840fdb:
 msgid "[_will_] Д-да, мам?"
-msgstr ""
+msgstr "[_will_] - ¿Sí, mamá?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:470 #-#-# translate crowdin gallery_d_102_036070bb:
 msgid "[_will_] (Н-неужели попалась... Она что, поняла, что меня не было в душе? Потому что вода не была включена? Или еще что...)"
-msgstr ""
+msgstr "[_will_] (¿Se molesta...? ¿Se dio cuenta de que no estaba en la ducha? ¿Porque el agua no estaba encendida? O algo más...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:474 #-#-# translate crowdin gallery_d_102_8f0c66d2:
 msgid "[_susan_] О-отличная фигура, дочка... Ты у меня выросла просто нереальной красоткой..."
-msgstr ""
+msgstr "[_susan_] Excelente figura, hija... Creciste conmigo solo una belleza irreal..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:479 #-#-# translate crowdin gallery_d_102_bcd124bf:
 msgid "[_will_] ..."
@@ -474,27 +474,27 @@ msgstr "[_will_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:485 #-#-# translate crowdin gallery_d_102_87b90f0f:
 msgid "[_will_] Эм..."
-msgstr ""
+msgstr "[_will_] Mm..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:491 #-#-# translate crowdin gallery_d_102_0dac6fa0:
 msgid "[_will_] С-спасибо, мам...?"
-msgstr ""
+msgstr "[_will_] G-gracias, ¿mamá...?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:497 #-#-# translate crowdin gallery_d_102_7b9e0d21:
 msgid "[_susan_] Ладно, беги уже..."
-msgstr ""
+msgstr "[_susan_] De acuerdo, corre ya..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:498 #-#-# translate crowdin gallery_d_102_98488de1:
 msgid "[_will_] (Ч-что это на нее нашло...)"
-msgstr ""
+msgstr "[_will_] (¿Q-qué le pasó...?)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:504 #-#-# translate crowdin gallery_d_102_ae2c1b84:
 msgid "[_susan_] (Фух... Вот это сцена... Не ожидала, что нужно будет говорить со своей дочерью в таком ключе)"
-msgstr ""
+msgstr "[_susan_] (Puja... Esta es la escena... No esperaba hablar con mi hija en este velo."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:508 #-#-# translate crowdin gallery_d_102_f81b9e65:
 msgid "[_susan_] (Н-но, думаю, поощрять ее будет правильным решением...)"
-msgstr ""
+msgstr "[_susan_] (Pero creo que alentador será la decisión correcta...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:511 #-#-# translate crowdin gallery_d_102_a20cefa7:
 msgid "..."
@@ -502,191 +502,191 @@ msgstr "..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:514 #-#-# translate crowdin gallery_d_102_6a25968a:
 msgid "[_cedrick_] (Да уж, ну и утро...)"
-msgstr ""
+msgstr "[_cedrick_] (Sí, bien, mañana...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:516 #-#-# translate crowdin gallery_d_102_97e38aed:
 msgid "[_will_] (Ух, все прошло не совсем так, как я планировала... Но по итогу утро вышло довольно горячим...)"
-msgstr ""
+msgstr "[_will_] (Wow, no salió exactamente como lo planeé... Pero al final, la mañana era bastante caliente ...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:518 #-#-# translate crowdin gallery_d_102_60c12c27:
 msgid "[_susan_] Кхм, Вилл, ну что, готова к сегодняшнему дню?"
-msgstr ""
+msgstr "[_susan_] Km, ¿Will, bueno, listo para hoy?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:520 #-#-# translate crowdin gallery_d_102_00ec3354:
 msgid "[_will_] М? Сегодняшнему дню?"
-msgstr ""
+msgstr "[_will_] ¿M? ¿Hoy?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:522 #-#-# translate crowdin gallery_d_102_aa5976d5:
 msgid "[_susan_] Ну, ты что, забыла? Наш локальный праздник. Каждый год отмечаем"
-msgstr ""
+msgstr "[_susan_] Bueno, ¿lo olvidaste? Nuestras vacaciones locales. Celebramos cada año"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:524 #-#-# translate crowdin gallery_d_102_7125cbb6:
 msgid "[_will_] Ох, т-точно..."
-msgstr ""
+msgstr "[_will_] Oh, exactamente..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:526 #-#-# translate crowdin gallery_d_102_044c4d1c:
 msgid "[_cedrick_] Праздник? Какой праздник?"
-msgstr ""
+msgstr "[_cedrick_] ¿Una fiesta? ¿Qué tipo de celebración?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:528 #-#-# translate crowdin gallery_d_102_eddec7f7:
 msgid "[_susan_] У нас с Вилл есть небольшая традиция - отмечать вместе день матери"
-msgstr ""
+msgstr "[_susan_] Tenemos un poco de tradición - celebrar el día de la madre juntos"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:530 #-#-# translate crowdin gallery_d_102_2d250e0f:
 msgid "[_cedrick_] Оу..."
-msgstr ""
+msgstr "[_cedrick_] Ou..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:533 #-#-# translate crowdin gallery_d_102_46e40b17:
 msgid "[_will_] (Черт, я совсем потеряла счет времени после пребывания в темнице...)"
-msgstr ""
+msgstr "[_will_] (Maldita sea, perdí completamente la cantidad de tiempo después de permanecer en la prisión...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:536 #-#-# translate crowdin gallery_d_102_88b32143:
 msgid "[_susan_] Хах, Рик, ты не подумай. Мы не отмечаем мой персональный день как матери, я не настолько эгоистична. Праздник скорее случайно выпал на эту дату"
-msgstr ""
+msgstr "[_susan_] Hach, Rick, ¿no lo piensas? No celebramos mi día personal como madre, no soy tan egoísta. Las vacaciones cayeron accidentalmente en esta fecha"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:538 #-#-# translate crowdin gallery_d_102_ffa12d62:
 msgid "[_cedrick_] Тогда что именно вы отмечаете в этот день? В честь чего праздник?"
-msgstr ""
+msgstr "[_cedrick_] Entonces, ¿qué está celebrando exactamente en este día? ¿En honor a qué fiesta?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:540 #-#-# translate crowdin gallery_d_102_fd0f37d2:
 msgid "[_susan_] Хм.. Укрепляем узы дочки и матери, я бы так сказала..."
-msgstr ""
+msgstr "[_susan_] Hmm.. Fortaleciendo los lazos de mi hija y mi madre, diría que así..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:542 #-#-# translate crowdin gallery_d_102_acd40f2b:
 msgid "[_cedrick_] То есть сегодня вы будете заняты? Ничего, я пока подготовлюсь к экзаменам"
-msgstr ""
+msgstr "[_cedrick_] ¿Así que vas a estar ocupado hoy? Está bien, me prepararé para los exámenes"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:544 #-#-# translate crowdin gallery_d_102_062c8528:
 msgid "[_cedrick_] (Хах, может смогу отдохнуть у них дома в одиночестве какое-то время)"
-msgstr ""
+msgstr "[_cedrick_] (Ja, tal vez pueda descansar en su casa solo por un tiempo)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:546 #-#-# translate crowdin gallery_d_102_75a1b759:
 msgid "[_will_] Ч-что? Н-нет..."
-msgstr ""
+msgstr "[_will_] ¿Qué carajo es? N-No..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:548 #-#-# translate crowdin gallery_d_102_50dfc5d3:
 msgid "[_susan_] Ох, Рик, нет нет нет... В этом году мы отмечаем этот праздник с тобой"
-msgstr ""
+msgstr "[_susan_] Oh, Rick, no, no, no... Este año celebramos esta fiesta contigo."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:550 #-#-# translate crowdin gallery_d_102_faf04d18:
 msgid "[_cedrick_] ...Ч-что!?"
-msgstr ""
+msgstr "[_cedrick_] ...H."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:552 #-#-# translate crowdin gallery_d_102_d94959fc:
 msgid "[_will_] П-правда, мам!? Урааа!!"
-msgstr ""
+msgstr "[_will_] ¿¡Cierto, mamá!? ¡¡¡Hurra!!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:554 #-#-# translate crowdin gallery_d_102_cfde7678:
 msgid "[_susan_] Ахах, я так и знала, что тебе тоже понравится"
-msgstr ""
+msgstr "[_susan_] Ahah, sabía que a ti también te gustaría"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:556 #-#-# translate crowdin gallery_d_102_b97448b7:
 msgid "[_cedrick_] Эм.. Хах, даже не знаю, что сказать..."
-msgstr ""
+msgstr "[_cedrick_] Mm. Ja, ni siquiera sé qué decir..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:558 #-#-# translate crowdin gallery_d_102_033e9278:
 msgid "[_will_] Ты что, не рад, Рик?"
-msgstr ""
+msgstr "[_will_] ¿Estás feliz, arroz?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:560 #-#-# translate crowdin gallery_d_102_22d3551c:
 msgid "[_cedrick_] Конечно рад, просто..."
-msgstr ""
+msgstr "[_cedrick_] De seguro que está contento, solo..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:561 #-#-# translate crowdin gallery_d_102_e8b08b4b:
 msgid "[_cedrick_] Это так неожиданно..."
-msgstr ""
+msgstr "[_cedrick_] Es tan inesperado..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:563 #-#-# translate crowdin gallery_d_102_7d1561e2:
 msgid "[_susan_] Ох, Рик, ты растрогался от такого предложения... так мило..."
-msgstr ""
+msgstr "[_susan_] Oh, Rick, hiciste una oferta así... Tan lindo..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:565 #-#-# translate crowdin gallery_d_102_2693d35e:
 msgid "[_cedrick_] Хах, немного..."
-msgstr ""
+msgstr "[_cedrick_] Hah, un poco..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:567 #-#-# translate crowdin gallery_d_102_c5180d8b:
 msgid "[_will_] Ну и!? Какая тогда сегодня программа, если Рик в этом году с нами?"
-msgstr ""
+msgstr "[_will_] ¡¿Y qué?! Entonces, ¿qué haremos hoy ahora que Rick está con nosotros este año?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:569 #-#-# translate crowdin gallery_d_102_a4e46d44:
 msgid "[_susan_] Хммм... Для начала я думала пойти на пляж.. А вечер провести уже дома"
-msgstr ""
+msgstr "[_susan_] Hmm... Primero, pensé que había ido a la playa. Pase la noche en casa"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:571 #-#-# translate crowdin gallery_d_102_c0d0b1bf:
 msgid "[_cedrick_] Пляж? В Шеффилде и пляж есть?"
-msgstr ""
+msgstr "[_cedrick_] ¿La playa? ¿Hay una playa en Sheffield?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:573 #-#-# translate crowdin gallery_d_102_b69065e0:
 msgid "[_susan_] Да, пляж Корморан. До него нужно будет ехать на машине, но в целом мы до него быстро доберемся. Нужно только собрать вещи"
-msgstr ""
+msgstr "[_susan_] Sí, playa de cormorán. Él tendrá que conducir, pero en general, llegaremos rápidamente a Él. Solo necesitas coleccionar cosas"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:575 #-#-# translate crowdin gallery_d_102_9548e265:
 msgid "[_will_] Пляж, ооотлично!!"
-msgstr ""
+msgstr "[_will_] Playa, genial!!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:577 #-#-# translate crowdin gallery_d_102_d5f7ec7b:
 msgid "[_susan_] Хах, конечно, будет где тебе поплавать и мне позагорать. Все как мы любим"
-msgstr ""
+msgstr "[_susan_] Hach, por supuesto, estará donde nadarás y tomaré el sol. Todo como amamos"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:579 #-#-# translate crowdin gallery_d_102_1f1ea2ea:
 msgid "[_cedrick_] Да, звучит отлично.. Если подумать, то я никогда не был на пляже"
-msgstr ""
+msgstr "[_cedrick_] Sí, suena genial.. Si lo piensas, nunca he estado en la playa"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:581 #-#-# translate crowdin gallery_d_102_49272e1d:
 msgid "[_will_] С-серьезно, Рик!?"
-msgstr ""
+msgstr "[_will_] ¡S-serio, Rick!?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:583 #-#-# translate crowdin gallery_d_102_61fe9c36:
 msgid "[_susan_] Ого, получается с нами у тебя будет первый раз. И в такой день, как символично все складывается"
-msgstr ""
+msgstr "[_susan_] Wow, es tu primera vez con nosotros. Y en un día como simbólicamente todo se desarrolla"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:585 #-#-# translate crowdin gallery_d_102_d04677fc:
 msgid "[_will_] (Хм, а если подумать, то ведь и правда... Вряд ли на Меридиане есть пляжи...)"
-msgstr ""
+msgstr "[_will_] (Hmm, y si lo piensas, es verdad... Es poco probable que haya playas en Meridian ...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:586 #-#-# translate crowdin gallery_d_102_9738547d:
 msgid "[_will_] (Я так привыкла к Рику что уже и забыла, что он с Меридиана... Его ведь даже не Рик зовут, он Седрик...)"
-msgstr ""
+msgstr "[_will_] (Estoy tan acostumbrado a Rick que ya he olvidado que está con Meridian... Ni siquiera es el nombre de Rick, es Cedric...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:587 #-#-# translate crowdin gallery_d_102_2a0dbe92:
 msgid "[_will_] (Если задуматься, это наверное все еще странно для него... Он должен был заточить нас в подземелье...)"
-msgstr ""
+msgstr "[_will_] (Si lo piensas, probablemente todavía sea raro para él... Se suponía que nos pondría en el calabozo...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:588 #-#-# translate crowdin gallery_d_102_81436cfe:
 msgid "[_will_] (Но решил довериться нам и вместе свергнуть Фобоса... До этого жизнь Рика скорее всего всегда была полна сражений и завоеваний...)"
-msgstr ""
+msgstr "[_will_] (Pero decidí confiar en nosotros y juntos derrocar a Fobos... Antes de eso, la vida de rick estaba siempre llena de batallas y conquistas."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:589 #-#-# translate crowdin gallery_d_102_6caf2431:
 msgid "[_will_] (А в итоге он едет с нами на пляж.. впервые в жизни...)"
-msgstr ""
+msgstr "[_will_] (Y al final va con nosotros a la playa.. Por primera vez en mi vida...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:590 #-#-# translate crowdin gallery_d_102_d3d37315:
 msgid "[_will_] (...)"
-msgstr ""
+msgstr "[_will_] (...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:591 #-#-# translate crowdin gallery_d_102_c7a3c20c:
 msgid "[_will_] (Его жизнь... и вправду не похожа на мою... На нашу... Но все же я рада, что он с нами... Со мной...)"
-msgstr ""
+msgstr "[_will_] (Su vida... En realidad no se parece a Mi... En nuestro... Pero me alegro de que esté con nosotros... Conmigo...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:593 #-#-# translate crowdin gallery_d_102_a4f754a5:
 msgid "[_susan_] Вилл? О чем-то задумалась?"
-msgstr ""
+msgstr "[_susan_] ¿Will? ¿Pensando en algo?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:595 #-#-# translate crowdin gallery_d_102_44f3ed2f:
 msgid "[_will_] Эм.. Думаю что надеть на пляж"
-msgstr ""
+msgstr "[_will_] Mm. Creo que se puso en la playa"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:597 #-#-# translate crowdin gallery_d_102_d238b868:
 msgid "[_susan_] Хах, понимаю. Ох, и не забудь, вечером подарки. А пока завтракаем и собираемся"
-msgstr ""
+msgstr "[_susan_] Hah, lo sé. Y no lo olvides, regalos esta noche. Mientras tanto, desayunamos y nos reunimos"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:599 #-#-# translate crowdin gallery_d_102_6e7db622:
 msgid "[_cedrick_] Подарки?"
-msgstr ""
+msgstr "[_cedrick_] ¿Regalos?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:601 #-#-# translate crowdin gallery_d_102_cfdce34c:
 msgid "[_will_] Да, мы с мамой обычно дарим друг-другу что-нибудь символическое..."
-msgstr ""
+msgstr "[_will_] Sí, mi madre y yo nos damos algo simbólico..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:603 #-#-# translate crowdin gallery_d_102_b4f96dc9:
 msgid "[_cedrick_] Хм.."
@@ -694,19 +694,19 @@ msgstr "[_cedrick_] Mmmm..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:605 #-#-# translate crowdin gallery_d_102_f7f0043f:
 msgid "[_cedrick_] (По-хорошему мне тоже стоит что-нибудь подарить...)"
-msgstr ""
+msgstr "[_cedrick_] (Tengo que dar algo bueno también...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:607 #-#-# translate crowdin gallery_d_102_7bd7c959:
 msgid "[_susan_] Тогда расходимся по комнатам. Увидимся через час!"
-msgstr ""
+msgstr "[_susan_] Luego divergimos por las habitaciones. ¡Nos vemos en una hora!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:609 #-#-# translate crowdin gallery_d_102_5177ce06:
 msgid "[_will_] Х-хорошо"
-msgstr ""
+msgstr "[_will_] E-está bien"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:611 #-#-# translate crowdin gallery_d_102_69136f54:
 msgid "[_cedrick_] А-ага..."
-msgstr ""
+msgstr "[_cedrick_] A-aga..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:614 #-#-# translate crowdin gallery_d_102_a20cefa7_1:
 msgid "..."
@@ -714,19 +714,19 @@ msgstr "..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:618 #-#-# translate crowdin gallery_d_102_36381a87:
 msgid "[_cedrick_] Вилл, ты что-то хотела?"
-msgstr ""
+msgstr "[_cedrick_] Will, ¿querías algo?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:622 #-#-# translate crowdin gallery_d_102_f8034396:
 msgid "[_will_] Я совсем забыла про подарок маме!!"
-msgstr ""
+msgstr "[_will_] Me he olvidado por completo del regalo a mi madre!!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:626 #-#-# translate crowdin gallery_d_102_f4fbe725:
 msgid "[_cedrick_] Это вполне ожидаемо, учитывая недавние события. Не то чтобы у тебя было время думать о маме"
-msgstr ""
+msgstr "[_cedrick_] Esto es bastante esperado, dados los acontecimientos recientes. No es que tengas tiempo para pensar en tu madre"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:630 #-#-# translate crowdin gallery_d_102_e09b6d6a:
 msgid "[_will_] Эм, Рик, неловко будет тебя просить... Н-но..."
-msgstr ""
+msgstr "[_will_] Om, Rick, va a ser incómodo preguntarte... N-No..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:631 #-#-# translate crowdin gallery_d_102_9a7e9929:
 msgid "[_cedrick_] Что?"
@@ -734,19 +734,19 @@ msgstr "[_cedrick_] ¿Qué?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:635 #-#-# translate crowdin gallery_d_102_eae3e70e:
 msgid "[_will_] Не мог бы ты... помочь купить маме подарок? Я на мели..."
-msgstr ""
+msgstr "[_will_] ¿Podrías...? ¿Ayudar a mamá a comprar un regalo? Estoy en el suelo..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:641 #-#-# translate crowdin gallery_d_102_b34292b3:
 msgid "[_cedrick_] Хах, серьезно..."
-msgstr ""
+msgstr "[_cedrick_] Hah, en serio..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:645 #-#-# translate crowdin gallery_d_102_7569a286:
 msgid "[_will_] А-агам..."
-msgstr ""
+msgstr "[_will_] A-agham..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:649 #-#-# translate crowdin gallery_d_102_87b496f8:
 msgid "[_cedrick_] Пф..."
-msgstr ""
+msgstr "[_cedrick_] Pf..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:653 #-#-# translate crowdin gallery_d_102_8fba1ecf_1:
 msgid "[_will_] ....."
@@ -754,11 +754,11 @@ msgstr "[_will_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:654 #-#-# translate crowdin gallery_d_102_d85ff460:
 msgid "[_cedrick_] Ладно, я все равно тоже собирался сходить ей за подарком"
-msgstr ""
+msgstr "[_cedrick_] De acuerdo, todavía iba a ir a ella por un regalo"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:658 #-#-# translate crowdin gallery_d_102_1642e8b2:
 msgid "[_will_] Д-да!? То есть ты поможешь мне?"
-msgstr ""
+msgstr "[_will_] ¡¿Sí!? ¿Así que me ayudarás?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:662 #-#-# translate crowdin gallery_d_102_5e3336f7:
 msgid "[_cedrick_] Да..."
@@ -766,71 +766,71 @@ msgstr "[_cedrick_] Sí..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:666 #-#-# translate crowdin gallery_d_102_0d3a36a3:
 msgid "[_will_] Отлично!"
-msgstr ""
+msgstr "[_will_] ¡Eso es genial!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:670 #-#-# translate crowdin gallery_d_102_70c8fd98:
 msgid "[_will_] Есть одно колье, которое мама очень хотела"
-msgstr ""
+msgstr "[_will_] Hay un collar que mi madre realmente quería"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:674 #-#-# translate crowdin gallery_d_102_ea270fc7:
 msgid "[_cedrick_] К-колье..."
-msgstr ""
+msgstr "[_cedrick_] El collar..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:675 #-#-# translate crowdin gallery_d_102_9de02fd0:
 msgid "[_cedrick_] Теперь я понял, почему ты сказала, что намели... Надеюсь у меня то на него денег хватит"
-msgstr ""
+msgstr "[_cedrick_] Ahora entiendo por qué dijiste que tenías... Espero tener suficiente dinero para él"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:679 #-#-# translate crowdin gallery_d_102_15a91ef3:
 msgid "[_will_] Ох, Рик, ну ты же лорд, у тебя должны быть деньги"
-msgstr ""
+msgstr "[_will_] Oh, Rick, eres el señor, tienes dinero"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:680 #-#-# translate crowdin gallery_d_102_2af5a490:
 msgid "[_cedrick_] Хаха, очень смешно..."
-msgstr ""
+msgstr "[_cedrick_] Jaja, muy divertido..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:684 #-#-# translate crowdin gallery_d_102_d5afe0cc:
 msgid "[_will_] А что, разве нет?"
-msgstr ""
+msgstr "[_will_], ¿qué, no?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:688 #-#-# translate crowdin gallery_d_102_6afb235d:
 msgid "[_cedrick_] Все деньги давным давно в казне у Фобоса. От моего статуса Лорда только слово и осталось"
-msgstr ""
+msgstr "[_cedrick_] Todo el dinero mucho tiempo en el tesoro de Fobos. De mi estado de señor solo palabra y izquierda"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:689 #-#-# translate crowdin gallery_d_102_f101a9da:
 msgid "[_cedrick_] Даже как статус оно не имеет особого смысла, ведь Фобос может и про него забыть в любой, нужный ему момент"
-msgstr ""
+msgstr "[_cedrick_] Incluso como un estado, no tiene mucho sentido, porque Fobos puede olvidarse de él en cualquier momento que necesite"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:690 #-#-# translate crowdin gallery_d_102_f66300d0:
 msgid "[_cedrick_] Когда он забрал весомую часть моих сил, статус лорда мне не помог... Как и статус главнокомандующего, которого меня так же лишили"
-msgstr ""
+msgstr "[_cedrick_] Cuando tomó una parte significativa de mi fuerza, el estado de señor no me ayudó... Así como el estatus del comandante en jefe, de quien también fui privado"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:694 #-#-# translate crowdin gallery_d_102_2864e2b1:
 msgid "[_will_] К-какой кошмар... Все было настолько плохо..."
-msgstr ""
+msgstr "[_will_] Qué pesadilla... Fue tan malo..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:698 #-#-# translate crowdin gallery_d_102_4800aa6a:
 msgid "[_cedrick_] Да, это было его главным мотиватором для меня..."
-msgstr ""
+msgstr "[_cedrick_] Sí, fue su principal motivador para Mí..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:702 #-#-# translate crowdin gallery_d_102_7dc1c416:
 msgid "[_cedrick_] Уничтожь стражниц, приведи Элион и тогда статус и силы снова твои"
-msgstr ""
+msgstr "[_cedrick_] Destruye a los guardianas, trae a Elyon y luego el estatus y la fuerza de nuevo tuyo"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:706 #-#-# translate crowdin gallery_d_102_6f8b301f:
 msgid "[_will_] Т-теперь понятно, почему ты так загорелся идеей его свергнуть..."
-msgstr ""
+msgstr "[_will_] Ahora está claro por qué estás tan emocionado por la idea de derrocarlo..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:710 #-#-# translate crowdin gallery_d_102_6710b31d:
 msgid "[_cedrick_] Так было не сразу..."
-msgstr ""
+msgstr "[_cedrick_] No fue inmediatamente..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:714 #-#-# translate crowdin gallery_d_102_542684b3:
 msgid "[_will_] П-подожди... Э-элион!? А она тут при чем..."
-msgstr ""
+msgstr "[_will_] E-espera... ¿¡E-Elyon!? ¿Qué tiene que ver ella...?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:715 #-#-# translate crowdin gallery_d_102_ebaf31af:
 msgid "[_cedrick_] Черт... Ты же не в курсе..."
-msgstr ""
+msgstr "[_cedrick_] Maldición... No sabes..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:719 #-#-# translate crowdin gallery_d_102_49316299_2:
 msgid "[_cedrick_] ..."
@@ -838,11 +838,11 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:720 #-#-# translate crowdin gallery_d_102_848ad6c5:
 msgid "[_cedrick_] Да вы же все не в курсе... И мы собрались свергать Фобоса... Черт, нужно было провести вам лекцию о нынешнем положении дел, пока вы были все в одном месте..."
-msgstr ""
+msgstr "[_cedrick_] Sí, no eres consciente de... Y vamos a derrocar a Fobos... Maldita sea, tenías que darte una conferencia sobre el estado actual de las cosas mientras estabas en un solo lugar..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:724 #-#-# translate crowdin gallery_d_102_816b75f0:
 msgid "[_will_] Да, но вместо этого ты с нами развлекался, что, если подумать, намного лучше любой лекции..."
-msgstr ""
+msgstr "[_will_] Sí, pero en cambio te divertiste con nosotros, qué, si lo piensas, mucho mejor que cualquier conferencia..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:729 #-#-# translate crowdin gallery_d_102_49316299_3:
 msgid "[_cedrick_] ..."
@@ -850,103 +850,103 @@ msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:733 #-#-# translate crowdin gallery_d_102_1ba82c78:
 msgid "[_cedrick_] Ладно, об этом в следующий раз.. А пока, нужно разобраться с подарком до того как мы уедем на пляж"
-msgstr ""
+msgstr "[_cedrick_] Bien, esta próxima vez... Mientras tanto, debe lidiar con el regalo antes de ir a la playa"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:737 #-#-# translate crowdin gallery_d_102_5d73770e:
 msgid "[_will_] Д-да, и об этом... Как раз на этот случай мне пришла посылка в магазин. Не мог бы ты и ее забрать?"
-msgstr ""
+msgstr "[_will_] S-sí, y sobre eso... Justo para esta ocasión llegó un paquete a la tienda. ¿Podrías recogerlo también?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:741 #-#-# translate crowdin gallery_d_102_a7bc20a9:
 msgid "[_cedrick_] На этот случай? Ты же не знала о том, что мы поедем на пляж"
-msgstr ""
+msgstr "[_cedrick_] ¿En ese caso? No sabías que íbamos a la playa"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:745 #-#-# translate crowdin gallery_d_102_fd91b3b4:
 msgid "[_will_] Эм, ну, да.. Изначально оно предназначалось для другого случая... Но и на пляж тоже хорошо подойдет... Я думаю..."
-msgstr ""
+msgstr "[_will_] Mm, bueno, sí. Inicialmente, estaba destinado a otra ocasión... Pero la playa también es muy adecuada... Creo que..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:749 #-#-# translate crowdin gallery_d_102_e2f617f7:
 msgid "[_will_] Нужно будет только немного над ним поработать..."
-msgstr ""
+msgstr "[_will_] solo necesitará trabajar un poco en Él."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:753 #-#-# translate crowdin gallery_d_102_732c4ece:
 msgid "[_cedrick_] Не знаю, о чем ты, но..."
-msgstr ""
+msgstr "[_cedrick_] No sé de qué hablas, pero..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:754 #-#-# translate crowdin gallery_d_102_2d438822:
 msgid "[_cedrick_] Эх, ладно. Скажешь что за посылка, я заберу"
-msgstr ""
+msgstr "[_cedrick_] Eh, está bien. Dime cuál es el paquete, me encargaré"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:758 #-#-# translate crowdin gallery_d_102_b6944185:
 msgid "[_will_] Отлично!! Спасибо, Рик..."
-msgstr ""
+msgstr "[_will_] Es genial!! Gracias, Rick..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:759 #-#-# translate crowdin gallery_d_102_773c333a:
 msgid "[_cedrick_] Ага..."
-msgstr ""
+msgstr "[_cedrick_] Agha..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:764 #-#-# translate crowdin gallery_d_102_50f2563c:
 msgid "[_centered_] {size=37}На пути в магазин{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}De camino a la tienda{/size}"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:766 #-#-# translate crowdin gallery_d_102_73fb2bd7:
 msgid "[_cedrick_] (Хм, а что мне самому подарить для Сьюзан?)"
-msgstr ""
+msgstr "[_cedrick_] (Hmm, ¿qué le doy a Susan?)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:767 #-#-# translate crowdin gallery_d_102_65682d57:
 msgid "[_cedrick_] (Пожалуй...)"
-msgstr ""
+msgstr "[_cedrick_] (Por Favor...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:768 #-#-# translate crowdin gallery_d_102_f9ae9273:
 msgid "[_cedrick_] (Да, точно, подарю ей какое-нибудь эротическое белье... И ей будет приятно и мне самому радость для глаз...)"
-msgstr ""
+msgstr "[_cedrick_] (Sí, le daré ropa interior erótica... Y ella estará complacida conmigo y yo soy la alegría por los ojos...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:769 #-#-# translate crowdin gallery_d_102_ed0b1f8a:
 msgid "[_cedrick_] (Я в конце концов сегодня на отдыхе)"
-msgstr ""
+msgstr "[_cedrick_] (por fin estoy de vacaciones)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:770 #-#-# translate crowdin gallery_d_102_700e5ddb:
 msgid "[_cedrick_] (Нужно будет только убедиться, что мне хватит налички...)"
-msgstr ""
+msgstr "[_cedrick_] (Solo tienes que asegurarte de que tengo suficiente dinero en efectivo...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:771 #-#-# translate crowdin gallery_d_102_92ec1eee:
 msgid "[_cedrick_] (Хах, черт, чем я вообще занят...)"
-msgstr ""
+msgstr "[_cedrick_] (Ja, diablos con lo que generalmente estoy ocupado...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:772 #-#-# translate crowdin gallery_d_102_0e7d105c:
 msgid "[_cedrick_] (Думаю о подарке для Сьюзан, еду сегодня на пляж вместе с ней и Вилл... Участвую в их празднике...)"
-msgstr ""
+msgstr "[_cedrick_] (Pienso en un regalo para Susan, yendo a la playa con ella y Will... Participa en su celebración...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:773 #-#-# translate crowdin gallery_d_102_304422ec:
 msgid "[_cedrick_] (Все это никак не поможет мне в свержении Фобоса... Но... Хм, мне это нравится...)"
-msgstr ""
+msgstr "[_cedrick_] (Todo esto no me ayudará en el derrocamiento de Fobos... Pero... Um, me gusta...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:774 #-#-# translate crowdin gallery_d_102_84fbe944:
 msgid "[_cedrick_] (Как будто бы эмоциональная разрядка после того спектакля, что я устроил в темницах...)"
-msgstr ""
+msgstr "[_cedrick_] (Como si la distensión emocional después de la actuación que había organizado...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:775 #-#-# translate crowdin gallery_d_102_cfbf2b5d:
 msgid "[_cedrick_] (Надеюсь мне и вправду просто нужен отдых и это не говорит о том, что я так размяк из-за этой семейки...)"
-msgstr ""
+msgstr "[_cedrick_] (espero que realmente solo necesite un descanso y eso no significa que sea tan más suave debido a esta familia ...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:789 #-#-# translate crowdin game_over_6c506db5:
 msgid "[_cedrick_] Ааааххх... Ч-черт.. Это слишком..."
-msgstr ""
+msgstr "[_cedrick_] Aahhh... Ch-dispositivo. Es también..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:791 #-#-# translate crowdin game_over_4dd47a83:
 msgid "[_susan_] Р-рик? Что такое!? Что у тебя с лицом..."
-msgstr ""
+msgstr "[_susan_] ¿R-rick? ¿¡Qué es!? ¿Qué pasa con tu cara..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:793 #-#-# translate crowdin game_over_0b3bd9fc:
 msgid "[_cedrick_] Т-твою мать, это уже перебор..."
-msgstr ""
+msgstr "[_cedrick_] T-t-tu madre, es demasiado..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:795 #-#-# translate crowdin game_over_3b8f47fc:
 msgid "[_susan_] Что... П-подожди..."
-msgstr ""
+msgstr "[_susan_] ¿Qué... Espere un minuto..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:797 #-#-# translate crowdin game_over_324dbac1:
 msgid "[_susan_] Что у тебя под столом?"
-msgstr ""
+msgstr "[_susan_] ¿Qué hay debajo de tu mesa?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:800 #-#-# translate crowdin game_over_ffd7540e:
 msgid "[_susan_] ..."
@@ -954,23 +954,23 @@ msgstr "[_susan_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:802 #-#-# translate crowdin game_over_3d6364ba:
 msgid "[_susan_] В-вилл!?"
-msgstr ""
+msgstr "[_susan_] W-Will!?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:804 #-#-# translate crowdin game_over_698b6876:
 msgid "[_will_] П-привет, мам..."
-msgstr ""
+msgstr "[_will_] Oye, mamá..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:806 #-#-# translate crowdin game_over_4a0b1871:
 msgid "[_susan_] Ч-что тут происходит!?!?"
-msgstr ""
+msgstr "[_susan_] C-¿¡¿Qué está pasando aquí!??"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:808 #-#-# translate crowdin game_over_61059d0d:
 msgid "[_will_] Эм.. я просто решила устроить Рику приятное утро..."
-msgstr ""
+msgstr "[_will_] Mm. Acabo de decidir arreglar a Rick una buena mañana..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:810 #-#-# translate crowdin game_over_35b75104:
 msgid "[_susan_] Приятное утро!?!?!?"
-msgstr ""
+msgstr "[_susan_] Una mañana agradable!??"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:812 #-#-# translate crowdin game_over_f89f7db9:
 msgid "[_cedrick_] ....."
@@ -978,11 +978,11 @@ msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:814 #-#-# translate crowdin game_over_38607c19:
 msgid "[_susan_] Вилл Вандом, быстро в свою комнату!! С тобой у нас будет крайне неприятный и серьезный разговор... Позже..."
-msgstr ""
+msgstr "[_susan_] Will Vandom, rápido a tu habitación!! Tendremos una conversación muy desagradable y seria contigo... Más tarde..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:816 #-#-# translate crowdin game_over_7cfb0348:
 msgid "[_susan_] А ты, Рик..."
-msgstr ""
+msgstr "[_susan_] Y tú, Rick..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:818 #-#-# translate crowdin game_over_f89f7db9_1:
 msgid "[_cedrick_] ....."
@@ -990,15 +990,15 @@ msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:820 #-#-# translate crowdin game_over_5534b7c6:
 msgid "[_susan_] Рик..."
-msgstr ""
+msgstr "[_susan_] Rick..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:821 #-#-# translate crowdin game_over_094f9f80:
 msgid "[_cedrick_] (Не думаю, что тут будет уместно хоть что-то говорить...)"
-msgstr ""
+msgstr "[_cedrick_] (no creo que sea apropiado decir nada...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:823 #-#-# translate crowdin game_over_5e237ecf:
 msgid "[_susan_] В-выметайся из моего дома, подлец!!"
-msgstr ""
+msgstr "[_susan_] ¡L-lárgate de mi casa, desgraciado!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:825 #-#-# translate crowdin game_over_2ef90216:
 msgid "[_cedrick_] (...)"
@@ -1006,31 +1006,31 @@ msgstr "[_cedrick_] (...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:827 #-#-# translate crowdin game_over_5024f65e:
 msgid "[_cedrick_] (Да, как и ожидалось...)"
-msgstr ""
+msgstr "[_cedrick_] (Sí, como se esperaba...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:829 #-#-# translate crowdin game_over_5b13a0af:
 msgid "[_centered_] {size=37}ОБЛАЖАЛСЯ{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}INCLINADO{/size}"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:834 #-#-# translate crowdin game_over_febba7a6:
 msgid "[_cedrick_] Ааааххх... Ч-черт... Это слишком..."
-msgstr ""
+msgstr "[_cedrick_] Aahhh... Ch-dispositivo... Es también..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:836 #-#-# translate crowdin game_over_4dd47a83_1:
 msgid "[_susan_] Р-рик? Что такое!? Что у тебя с лицом..."
-msgstr ""
+msgstr "[_susan_] ¿R-rick? ¿¡Qué es!? ¿Qué pasa con tu cara..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:837 #-#-# translate crowdin game_over_0b3bd9fc_1:
 msgid "[_cedrick_] Т-твою мать, это уже перебор..."
-msgstr ""
+msgstr "[_cedrick_] T-t-tu madre, es demasiado..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:838 #-#-# translate crowdin game_over_3b8f47fc_1:
 msgid "[_susan_] Что... П-подожди..."
-msgstr ""
+msgstr "[_susan_] ¿Qué... Espere un minuto..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:840 #-#-# translate crowdin game_over_324dbac1_1:
 msgid "[_susan_] Что у тебя под столом?"
-msgstr ""
+msgstr "[_susan_] ¿Qué hay debajo de tu mesa?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:842 #-#-# translate crowdin game_over_ffd7540e_1:
 msgid "[_susan_] ..."
@@ -1038,23 +1038,23 @@ msgstr "[_susan_] ..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:843 #-#-# translate crowdin game_over_3d6364ba_1:
 msgid "[_susan_] В-вилл!?"
-msgstr ""
+msgstr "[_susan_] W-Will!?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:845 #-#-# translate crowdin game_over_698b6876_1:
 msgid "[_will_] П-привет, мам..."
-msgstr ""
+msgstr "[_will_] Oye, mamá..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:847 #-#-# translate crowdin game_over_4a0b1871_1:
 msgid "[_susan_] Ч-что тут происходит!?!?"
-msgstr ""
+msgstr "[_susan_] C-¿¡¿Qué está pasando aquí!??"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:849 #-#-# translate crowdin game_over_61059d0d_1:
 msgid "[_will_] Эм.. я просто решила устроить Рику приятное утро..."
-msgstr ""
+msgstr "[_will_] Mm. Acabo de decidir arreglar a Rick una buena mañana..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:851 #-#-# translate crowdin game_over_35b75104_1:
 msgid "[_susan_] Приятное утро!?!?!?"
-msgstr ""
+msgstr "[_susan_] Una mañana agradable!??"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:852 #-#-# translate crowdin game_over_f89f7db9_2:
 msgid "[_cedrick_] ....."
@@ -1062,11 +1062,11 @@ msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:853 #-#-# translate crowdin game_over_38607c19_1:
 msgid "[_susan_] Вилл Вандом, быстро в свою комнату!! С тобой у нас будет крайне неприятный и серьезный разговор... Позже..."
-msgstr ""
+msgstr "[_susan_] Will Vandom, rápido a tu habitación!! Tendremos una conversación muy desagradable y seria contigo... Más tarde..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:855 #-#-# translate crowdin game_over_7cfb0348_1:
 msgid "[_susan_] А ты, Рик..."
-msgstr ""
+msgstr "[_susan_] Y tú, Rick..."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:856 #-#-# translate crowdin game_over_f89f7db9_3:
 msgid "[_cedrick_] ....."
@@ -1074,15 +1074,15 @@ msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:857 #-#-# translate crowdin game_over_452ae7a7:
 msgid "[_susan_] Рик.."
-msgstr ""
+msgstr "[_susan_] Rick."
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:858 #-#-# translate crowdin game_over_094f9f80_1:
 msgid "[_cedrick_] (Не думаю, что тут будет уместно хоть что-то говорить...)"
-msgstr ""
+msgstr "[_cedrick_] (no creo que sea apropiado decir nada...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:859 #-#-# translate crowdin game_over_5e237ecf_1:
 msgid "[_susan_] В-выметайся из моего дома, подлец!!"
-msgstr ""
+msgstr "[_susan_] ¡L-lárgate de mi casa, desgraciado!"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:860 #-#-# translate crowdin game_over_2ef90216_1:
 msgid "[_cedrick_] (...)"
@@ -1090,17 +1090,17 @@ msgstr "[_cedrick_] (...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:862 #-#-# translate crowdin game_over_5024f65e_1:
 msgid "[_cedrick_] (Да, как и ожидалось...)"
-msgstr ""
+msgstr "[_cedrick_] (Sí, como se esperaba...)"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:864 #-#-# translate crowdin game_over_5b13a0af_1:
 msgid "[_centered_] {size=37}ОБЛАЖАЛСЯ{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}INCLINADO{/size}"
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:866
 msgid "Пройти фрагмент заново?"
-msgstr ""
+msgstr "¿Pasando el fragmento de nuevo?"
 
 # game/scripts/quests/questSleeplessNight/mini_games_koncentration.rpy:866
 msgid "Вернутся в главное меню"
-msgstr ""
+msgstr "Vuelta al menú principal"
 
