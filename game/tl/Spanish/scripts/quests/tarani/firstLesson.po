@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:14\n"
+"PO-Revision-Date: 2026-07-22 15:41\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/firstLesson.rpy:10 #-#-# translate crowdin firstLesson_c00ee63f:
 msgid "[_cedrick_] Меня зовут Рик Хоффман и с этого дня я ваш новый учитель истории."
@@ -58,7 +58,7 @@ msgstr "[_haylin_] Ahora toca biología. Taranee, ¿no vienes?"
 
 # game/scripts/quests/tarani/firstLesson.rpy:43 #-#-# translate crowdin firstLesson_9f97bdb3:
 msgid "[_irma_] Шутишь? Чтобы наша Тарани прогуляла урок?! Да не в жизнь!"
-msgstr "[_irma_] ¿Me estás tomando el pelo? ¡¿Así que nuestra Taranee puede faltar a clase?! ¡No puede ser!"
+msgstr "[_irma_] ¿Bromeas? ¿Nuestra Taranee saltándose una clase? ¡Ni en sueños!"
 
 # game/scripts/quests/tarani/firstLesson.rpy:49 #-#-# translate crowdin firstLesson_e3e6a377:
 msgid "[_tarani_] Не хочу.. Препарировать лягушек… Какая мерзость.."
