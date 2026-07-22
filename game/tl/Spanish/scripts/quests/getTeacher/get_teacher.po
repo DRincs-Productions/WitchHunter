@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:34\n"
+"PO-Revision-Date: 2026-07-22 21:18\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getTeacher/get_teacher.rpy:8 #-#-# translate crowdin get_teacher_b110a719:
 msgid "Седрик заходит в комнату журналистики"
@@ -18,7 +18,7 @@ msgstr "Cedric entra en la sala de periodismo"
 
 # game/scripts/quests/getTeacher/get_teacher.rpy:15 #-#-# translate crowdin get_teacher_42bd7654:
 msgid "[_courtney_] Этот кабинет только для членов клуба журналистики.."
-msgstr "[_courtney_] Esta sala es solo para miembros del club de periodismo.."
+msgstr "[_courtney_] Esta sala es solo para miembros del club de periodismo…"
 
 # game/scripts/quests/getTeacher/get_teacher.rpy:16 #-#-# translate crowdin get_teacher_2586fa9d:
 msgid "[_cedrick_] Не подскажите где находится кабинет директора?"
@@ -26,11 +26,11 @@ msgstr "[_cedrick_] ¿Puede decirme dónde está la oficina del director?"
 
 # game/scripts/quests/getTeacher/get_teacher.rpy:17 #-#-# translate crowdin get_teacher_a60f3e24:
 msgid "[_bess_] Этажом выше..."
-msgstr "[_bess_] En el piso de arriba..."
+msgstr "[_bess_] En el piso de arriba…"
 
 # game/scripts/quests/getTeacher/get_teacher.rpy:18 #-#-# translate crowdin get_teacher_da5b444e:
 msgid "[_courtney_] Она сегодня не в настроении.."
-msgstr "[_courtney_] Hoy no está de humor.."
+msgstr "[_courtney_] Hoy no está de humor…"
 
 # game/scripts/quests/getTeacher/get_teacher.rpy:19 #-#-# translate crowdin get_teacher_0ce16304:
 msgid "[_bess_] Впрочем как и всегда"
@@ -38,7 +38,7 @@ msgstr "[_bess_] Como siempre"
 
 # game/scripts/quests/getTeacher/get_teacher.rpy:20 #-#-# translate crowdin get_teacher_31be702b:
 msgid "[_cedrick_] Спасибо.."
-msgstr "[_cedrick_] Gracias.."
+msgstr "[_cedrick_] Gracias…"
 
 # game/scripts/quests/getTeacher/get_teacher.rpy:25 #-#-# translate crowdin get_teacher_3225d445:
 msgid "* Несколько минут спустя в кабинете директора… *"
