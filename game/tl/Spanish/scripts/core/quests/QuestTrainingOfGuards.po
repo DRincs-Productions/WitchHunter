@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-19 02:59\n"
+"PO-Revision-Date: 2026-07-22 14:08\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestTrainingOfGuards.rpy:3
 msgid "Подготовка стражниц завесы"
-msgstr "Preparando a los Guardianes del Velo"
+msgstr "Preparando a los guardianas del Velo"
 
 # game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
 msgid "Обсудить план с Мирандой и Булджем в лаборатории Миранды"
-msgstr "Discute el plan con Miranda y Bulge en el laboratorio de Miranda"
+msgstr "Discute el plan con Miranda y Bulj en el laboratorio de Miranda"
 
 # game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
 msgid "Отправится к Фобосу в тронный зал"
@@ -42,7 +42,7 @@ msgstr "Ve con Fobos nuevamente en la sala del trono"
 
 # game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
 msgid "Проверить Ирму и Тарани в казармах"
-msgstr "Mira a Irma y Tarani en el calabozo"
+msgstr "Mira a Irma y Taranee en el calabozo"
 
 # game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
 msgid "Навестить Корнелию и Хай Лин в борделе"
@@ -58,5 +58,5 @@ msgstr "Regresa al burdel"
 
 # game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
 msgid "Собрать стражниц в борделе"
-msgstr "Reúne a los guardias en el burdel"
+msgstr "Reúne a los guardianas en el burdel"
 
