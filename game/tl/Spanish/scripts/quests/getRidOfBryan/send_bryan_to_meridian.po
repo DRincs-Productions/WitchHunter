@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:34\n"
+"PO-Revision-Date: 2026-07-22 21:18\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getRidOfBryan/send_bryan_to_meridian.rpy:2 #-#-# translate crowdin send_bryan_to_meridian_669e932f:
 msgid "Теперь нужно избавится от него."
@@ -18,7 +18,7 @@ msgstr "Ahora tengo que deshacerme de él."
 
 # game/scripts/quests/getRidOfBryan/send_bryan_to_meridian.rpy:3 #-#-# translate crowdin send_bryan_to_meridian_2d12c5a7:
 msgid "Полагаю, его можно будет выгодно продать в качестве раба в угольные шахты."
-msgstr "Supongo que podría venderse rentablemente como esclavo de las minas de carbón."
+msgstr "Supongo que podría venderlo por un buen precio como esclavo para las minas de carbón."
 
 # game/scripts/quests/getRidOfBryan/send_bryan_to_meridian.rpy:9 #-#-# translate crowdin send_bryan_to_meridian_c6ec21bf:
 msgid "[_centered_] {size=37}Вы продаете Брайана в качестве раба на угольные шахты. Парень довольно хиленький и при том вы его изрядно избили.. В связи с этим, вам удается выручить лишь 50 золотых.{/size} [withDissolve1]"
