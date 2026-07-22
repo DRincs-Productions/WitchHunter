@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-29 01:44\n"
+"PO-Revision-Date: 2026-07-22 21:18\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:3 #-#-# translate crowdin corneliaCallToSitWithLilian_9449d1fb:
 msgid "[_cedrick_] Лучше будет написать Корнелии утром или днем."
@@ -38,7 +38,7 @@ msgstr "¿Quién? ¿Te refieres a la ensalada?"
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:21
 msgid "Нет..."
-msgstr "No..."
+msgstr "No…"
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:23
 msgid "Нет, то Цезарь. Я нашел кота Лилит"
@@ -54,7 +54,7 @@ msgstr "Genial, tal vez sea menos gruñona con él."
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:41
 msgid "Могу ли я..."
-msgstr "Puedo..."
+msgstr "Puedo…"
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:43
 msgid "Могу ли я как-то тебе его передать?"
@@ -82,7 +82,7 @@ msgstr "También puedes traerle a Napoleón."
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:77
 msgid "Эм.."
-msgstr "Um..."
+msgstr "Um…"
 
 # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:79
 msgid "Эм.. Да, пожалуй, я мог бы к ней заглянуть"
