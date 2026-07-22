@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 15:39\n"
+"PO-Revision-Date: 2026-07-22 21:17\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:5 #-#-# translate crowdin getAlchemyFromRaythor_2cc482bf:
 msgid "[_raythor_] О, снова ты, Седрик? Какими судьбами?"
@@ -18,7 +18,7 @@ msgstr "[_raythor_] Oh, ¿tú otra vez, Cedric? ¿Qué te trae por aquí?"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:9 #-#-# translate crowdin getAlchemyFromRaythor_e5ae04c2:
 msgid "[_cedrick_] Я одолел Гаргойла и Песчаного демона, твоя армия готова, осталось только доспехи с оружием подлатать"
-msgstr "[_cedrick_] Derroté a Gargoyle y al Sand Demon, tu ejército está listo, solo queda remendar las armaduras y las armas."
+msgstr "[_cedrick_] Derroté a la Gárgola y al Demonio de Arena. Tu ejército está listo; solo falta reparar las armaduras y las armas."
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:13 #-#-# translate crowdin getAlchemyFromRaythor_918c8507:
 msgid "[_raythor_] Ааааа, привыкаешь к новой роли? Пришел отчитаться о выполненном задании своему главнокомандующему, похвально. "
@@ -38,7 +38,7 @@ msgstr "[_cedrick_] Ya sabes, hace 100 años, cuando aún no habías nacido, nue
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:29 #-#-# translate crowdin getAlchemyFromRaythor_83249418:
 msgid "[_cedrick_] Например, по старым законам, тот, кто убил главнокомандующего собственными силами в честном бою, без сторонней помощи и грязных трюков, мог в итоге занять его место"
-msgstr "[_cedrick_] Por ejemplo, según las antiguas leyes, quien matara al comandante en jefe con sus propias fuerzas en una pelea justa, sin ayuda externa ni trucos sucios, eventualmente podría ocupar su lugar."
+msgstr "[_cedrick_] Por ejemplo, según las antiguas leyes, quien matara al comandante en jefe por sus propios medios en un combate justo, sin ayuda externa ni trucos sucios, al final podía ocupar su lugar."
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:30 #-#-# translate crowdin getAlchemyFromRaythor_49009236:
 msgid "[_cedrick_] В итоге князь Фобос упразднил этот закон, а знаешь почему?"
@@ -50,7 +50,7 @@ msgstr "[_raythor_] Entonces ¿por qué?"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:38 #-#-# translate crowdin getAlchemyFromRaythor_1315e562:
 msgid "[_cedrick_] За все то время, пока действовал этот закон, набралось больше сотни смельчаков, бросивших мне вызов... и ни один не ушел от меня живым"
-msgstr "[_cedrick_] Durante todo el tiempo que estuvo vigente esta ley, fueron más de cien temerarios los que me desafiaron... y ninguno me dejó con vida."
+msgstr "[_cedrick_] Durante todo el tiempo que estuvo vigente esta ley, fueron más de cien temerarios los que me desafiaron… y ninguno me dejó con vida."
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:39 #-#-# translate crowdin getAlchemyFromRaythor_019a3b07:
 msgid "[_cedrick_] Князь Фобос упразднил этот закон, потому что ему надоело попусту терять людей, ведь было очевидно, что нет в Меридиане солдата, который одолел бы меня"
@@ -62,7 +62,7 @@ msgstr "[_cedrick_] ¿Y adivina qué? Si esta ley todavía estuviera vigente, no
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:44 #-#-# translate crowdin getAlchemyFromRaythor_b77eea8f:
 msgid "[_raythor_] ......"
-msgstr "[_raythor_] ......"
+msgstr "[_raythor_] …"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:45 #-#-# translate crowdin getAlchemyFromRaythor_fff6679e:
 msgid "[_cedrick_] До скорого. Наслаждайся своим статусом, пока можешь. Скоро я заберу его назад"
@@ -90,7 +90,7 @@ msgstr "[_str2_] ¡Oooooh, ella ya sabe muy bien cómo recibirlo por el culo!"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:58 #-#-# translate crowdin gallery_d_044_60a3d27f:
 msgid "[_alchemy_] Мммбббрр...."
-msgstr "[_alchemy_] Mmmmmmmm...."
+msgstr "[_alchemy_] Mmmmmmmm…"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:59 #-#-# translate crowdin gallery_d_044_daac4b58:
 msgid "[_str3_] Как круто, что мы смогли найти себе такую зверушку!"
@@ -130,7 +130,7 @@ msgstr "[_cedrick_] Ok, eso es todo, ¡basta, malditos animales!"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:71 #-#-# translate crowdin gallery_d_044_b115b0f3:
 msgid "[_str3_] Л-Лорд Седрик! Почему вы..."
-msgstr "[_str3_] ¡L-Lord Cedric! ¿Por qué estás...?"
+msgstr "[_str3_] ¡L-Lord Cedric! ¿Por qué estás…?"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:72 #-#-# translate crowdin gallery_d_044_1c126983:
 msgid "[_cedrick_] Молчать! Кто вам позволил трахаться с девчонкой прямо в казарме!? Вы что, забыли правила!"
@@ -138,7 +138,7 @@ msgstr "[_cedrick_] ¡Calla! ¿¡Quién te permitió cogerte a una chica en el c
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:73 #-#-# translate crowdin gallery_d_044_25af8284:
 msgid "[_str1_] П-приносим свои извинения, главнокомандующий Седрик..."
-msgstr "[_str1_] N-nos disculpamos, comandante en jefe Cedric..."
+msgstr "[_str1_] N-nos disculpamos, comandante en jefe Cedric…"
 
 # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:74 #-#-# translate crowdin gallery_d_044_8716d493:
 msgid "[_cedrick_] Я больше не ваш главнокомандующий, солдат. Но это не дает вам права нарушать устав! Никаких девок в казарме. Хотите трахаться – делайте это за пределами замка"
