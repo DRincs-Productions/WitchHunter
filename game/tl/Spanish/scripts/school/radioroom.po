@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-04-02 00:43\n"
+"PO-Revision-Date: 2026-07-22 21:22\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/school/radioroom.rpy:27 #-#-# translate crowdin radioroom_c8f725d2:
 msgid "[_courtney_] Что ты здесь делаешь, эта комната только для персонала"
@@ -18,11 +18,11 @@ msgstr "[_courtney_] ¿Qué estás haciendo aquí? Esta habitación es solo para
 
 # game/scripts/school/radioroom.rpy:28 #-#-# translate crowdin radioroom_53ab2461:
 msgid "[_bess_] Так что если у тебя нет хорошей сплетни или вроде того.. проваливай.."
-msgstr "[_bess_] Así que si no tienes un buen chisme o algo... piérdete.."
+msgstr "[_bess_] Así que si no tienes un buen chisme o algo… piérdete…"
 
 # game/scripts/school/radioroom.rpy:29 #-#-# translate crowdin radioroom_1e367c7b:
 msgid "[_cedrick_sprite_] Пожалуй кое-что есть..."
-msgstr "[_cedrick_sprite_] Creo que hay algo..."
+msgstr "[_cedrick_sprite_] Creo que hay algo…"
 
 # game/scripts/school/radioroom.rpy:30 #-#-# translate crowdin radioroom_a20cefa7:
 msgid "..."
