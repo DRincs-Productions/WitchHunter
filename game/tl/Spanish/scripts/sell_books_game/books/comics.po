@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:20\n"
+"PO-Revision-Date: 2026-07-22 21:22\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Хранители"
@@ -22,7 +22,7 @@ msgstr "Dc Comics"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Бэтмен Возвращение темного рыцаря"
-msgstr "Batman Returns: The Dark Knight"
+msgstr "Batman: El regreso del Caballero Oscuro"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Бетмен"
@@ -70,7 +70,7 @@ msgstr "Linterna Verde"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Новые Люди Икс"
-msgstr "New X-Men"
+msgstr "Nuevos X-Men"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Люди Икс"
@@ -90,7 +90,7 @@ msgstr "Spider-Man"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Совершенный Человек-Паук"
-msgstr "Ultímate Spider-Man"
+msgstr "Ultimate Spider-Man"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Сказания"
