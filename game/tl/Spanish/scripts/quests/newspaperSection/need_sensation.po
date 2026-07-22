@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-11 04:03\n"
+"PO-Revision-Date: 2026-07-22 14:04\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newspaperSection/need_sensation.rpy:6 #-#-# translate crowdin need_sensation_3a6e34d5:
 msgid "[_bess_] А давайте напишем про, то что директриса завела роман с одним из учеников!"
@@ -314,7 +314,7 @@ msgstr "Bahhh...ahhh."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:238 #-#-# translate crowdin need_sensation_dbb5767e:
 msgid "[_courtney_] Ааааа!!"
-msgstr "[_courtney_] ¡¡Ааааh!!"
+msgstr "[_courtney_] ¡Aaaaaah!"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:239 #-#-# translate crowdin need_sensation_68c7f9a8:
 msgid "[_courtney_] Меня кто-то трогает!! Это призрак!!"
@@ -334,7 +334,7 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:250 #-#-# translate crowdin need_sensation_5c3fb5d8:
 msgid "[_courtney_] А куда делись Ирма и Тарани?"
-msgstr "[_courtney_] ¿Y a dónde fueron Irma y Tarani?"
+msgstr "[_courtney_] ¿Y a dónde fueron Irma y Taranee?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:254 #-#-# translate crowdin need_sensation_721474a6:
 msgid "[_cedrick_] Оставайтесь здесь. Я попробую их найти и вернусь к вам."
@@ -398,7 +398,7 @@ msgstr "..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:287 #-#-# translate crowdin need_sensation_92f4a757:
 msgid "[_irma_] Мне нужно найти Тарани..."
-msgstr "[_irma_] Necesito encontrar a Tarani."
+msgstr "[_irma_] Necesito encontrar a Taranee."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:290 #-#-# translate crowdin need_sensation_49846a9f:
 msgid "Ирма убегает"
@@ -634,7 +634,7 @@ msgstr "[_cedrick_] Dimelo mañana y ahora vete a casa."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:434 #-#-# translate crowdin gallery_d_022_515d86dd:
 msgid "[_martin_] А как же Ирма с Тарани? Вы их нашли?"
-msgstr "[_martin_] ¿Qué hay de Irma y Tarani? ¿Las encontraste?"
+msgstr "[_martin_] ¿Qué hay de Irma y Taranee? ¿Las encontraste?"
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:438 #-#-# translate crowdin gallery_d_022_cf5dc892:
 msgid "[_cedrick_]  Они уже ушли ..."
