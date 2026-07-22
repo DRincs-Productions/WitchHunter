@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-04-26 16:01\n"
+"PO-Revision-Date: 2026-07-22 13:59\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/label_first_meet.rpy:4 #-#-# translate crowdin first_meet_8bd86d07:
 msgid "[_cedrick_] Что-ж, пока никто сюда не явился, самое время начать изучать местные книги"
@@ -174,7 +174,7 @@ msgstr "[_cedrick_sprite_] Pueden dejar sus direcciones y les entregaré los lib
 
 # game/label_first_meet.rpy:159 #-#-# translate crowdin first_meet_38164c3e:
 msgid "[_cornelia_] А может мы просто дадим вам наши мобильные номера и вы сообщите когда найдете книги?"
-msgstr "[_cornelia_] ¿Qué tal si te damos nuestros números de móvil y nos avisas cuando encuentres los libros?"
+msgstr "[_cornelia_] ¿Qué tal si te damos nuestros números de celular y nos avisas cuando encuentres los libros?"
 
 # game/label_first_meet.rpy:160 #-#-# translate crowdin first_meet_e00b6067:
 msgid "[_cedrick_]  Эм... К сожалению, я недавно потерял свой телефон..."
@@ -234,5 +234,5 @@ msgstr "Has recibido la dirección de Elyon."
 
 # game/label_first_meet.rpy:213 #-#-# translate crowdin first_meet_5e6a07aa:
 msgid "[_cedrick_] ({i}Похоже, что Звезда Трибы и вправду сработала... Нужно сообщить об этом принцу Фобосу.{/i})"
-msgstr "[_cedrick_] ({i}Parece que la Estrella de Threbe realmente funcionó... Debo hacérselo saber al Príncipe Phobos.{/i})"
+msgstr "[_cedrick_] ({i}Parece que la Estrella de Threbe realmente funcionó... Debo hacérselo saber al Príncipe Fobos.{/i})"
 
