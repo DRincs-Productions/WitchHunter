@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:15\n"
+"PO-Revision-Date: 2026-07-22 21:21\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/giveDragonNostril.rpy:7 #-#-# translate crowdin giveDragonNostril_edff8098:
 msgid "[_blankChar_] Ты принес фотоаппарат и ноздря дракона?"
-msgstr "[_blankChar_] ¿Trajiste una cámara y una fosa nasal de Dragón?"
+msgstr "[_blankChar_] ¿Trajiste la cámara y la fosa nasal de dragón?"
 
 # game/scripts/quests/tarani/giveDragonNostril.rpy:17 #-#-# translate crowdin giveDragonNostril_77755ca5:
 msgid "[_blankChar_] Фотографии будут готовы через несколько дней"
@@ -22,5 +22,5 @@ msgstr "[_blankChar_] Las fotos estarán listas en unos días"
 
 # game/scripts/quests/tarani/giveDragonNostril.rpy:21 #-#-# translate crowdin giveDragonNostril_33d62163:
 msgid "[_cedrick_] Я в процессе..."
-msgstr "[_cedrick_] Estoy en el proceso de..."
+msgstr "[_cedrick_] Estoy en el proceso de…"
 
