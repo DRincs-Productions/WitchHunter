@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:04\n"
+"PO-Revision-Date: 2026-07-22 15:40\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:7 #-#-# translate crowdin gallery_d_023_f58b35e9:
 msgid "[_bess_] Мистер Хоффман... Наконец, вы решили нас навестить?"
@@ -150,7 +150,7 @@ msgstr "[_bess_] Oh, ya... Hermana, siempre vas un paso por delante."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:73 #-#-# translate crowdin gallery_d_023_c7c8d038:
 msgid "[_bess_] Ничего страшного... Я подменю тебя, сестрица..."
-msgstr "[_bess_] Está bien, yo me encargaré de ti, hermana."
+msgstr "[_bess_] No pasa nada... Yo te cubriré, hermanita..."
 
 # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:77 #-#-# translate crowdin gallery_d_023_a20cefa7_1:
 msgid "..."
