@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:32\n"
+"PO-Revision-Date: 2026-07-22 15:39\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:8 #-#-# translate crowdin talk_with_elyon_about_bad_cornelia_5059e0a4:
 msgid "[_cedrick_] Что стряслось, элион? У тебя хмурый вид."
-msgstr "[_cedrick_] ¿Qué pasa, Elyon?, Tienes el ceño fruncido."
+msgstr "[_cedrick_] ¿Qué pasó, Elyon? Te ves preocupada."
 
 # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:11 #-#-# translate crowdin talk_with_elyon_about_bad_cornelia_c7d80b81:
 msgid "[_elion_] Кажется, я окончательно поругалась с корнелией... Я не знаю, что мне делать.."
