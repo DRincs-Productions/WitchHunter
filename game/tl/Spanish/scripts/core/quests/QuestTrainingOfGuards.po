@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:08\n"
+"PO-Revision-Date: 2026-07-22 21:23\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestTrainingOfGuards.rpy:3
 msgid "Подготовка стражниц завесы"
-msgstr "Preparando a los guardianas del Velo"
+msgstr "Preparando a las Guardianas del Velo"
 
 # game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
 msgid "Обсудить план с Мирандой и Булджем в лаборатории Миранды"
@@ -58,5 +58,5 @@ msgstr "Regresa al burdel"
 
 # game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
 msgid "Собрать стражниц в борделе"
-msgstr "Reúne a los guardianas en el burdel"
+msgstr "Reúne a las Guardianas en el burdel"
 
