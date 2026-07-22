@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:05\n"
+"PO-Revision-Date: 2026-07-22 21:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:6 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_33e12e8d:
 msgid "[_medina_] Добрый вечер"
@@ -18,7 +18,7 @@ msgstr "[_medina_] Buenas noches"
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:11 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_e7c275c3:
 msgid "[_cedrick_] Простите, но мы уже закрыты..."
-msgstr "[_cedrick_] Lo siento, pero ya hemos cerrado..."
+msgstr "[_cedrick_] Lo siento, pero ya hemos cerrado…"
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:12 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_73a967ba:
 msgid "[_maktinen_] У нас к вам всего несколько вопросов"
@@ -42,7 +42,7 @@ msgstr "[_medina_] Estamos aquí para averiguar… ¿Cuándo fue la última vez 
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:17 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_11aa34fd:
 msgid "[_cedrick_] Лэир, хм... Ах да! Кажется, он заходил какое-то время назад… Расспрашивал что-то о пропаже детей… Но я не помню точно, когда это было..."
-msgstr "[_cedrick_] Oficial, hmmm... ¡Oh, sí! Creo que vino hace algún tiempo… Preguntó algo sobre los niños desaparecidos… Pero no recuerdo exactamente cuándo fue eso..."
+msgstr "[_cedrick_] Oficial, hmmm… ¡Oh, sí! Creo que vino hace algún tiempo… Preguntó algo sobre los niños desaparecidos… Pero no recuerdo exactamente cuándo fue eso…"
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:21 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_6597ffb9:
 msgid "[_maktinen_] Офицер Лэир приходил к вам и расспрашивал вас о пропаже Брайана и Алхими Макнайт… С тех пор его никто не видел…"
@@ -66,7 +66,7 @@ msgstr "[_maktinen_] ¡Bastardo! ¡Deja de hacerte el tonto y dinos lo que sabes
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:37 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_5d947f9f:
 msgid "[_medina_] Пойдем, Джоэл… Скоро мы найдем виновного... Сейчас у нас нету достаточных оснований, чтобы..."
-msgstr "[_medina_] Vamos, Joel… Pronto encontraremos al culpable... Ahora mismo no tenemos suficientes pruebas para..."
+msgstr "[_medina_] Vamos, Joel… Pronto encontraremos al culpable… Ahora mismo no tenemos suficientes pruebas para…"
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:41 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_7a3e8106:
 msgid "[_maktinen_] Я слежу за тобой, ничтожество…"
@@ -74,9 +74,9 @@ msgstr "[_maktinen_] Te estoy vigilando, miserable…"
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:45 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_82ee04e8:
 msgid "[_cedrick_] (Фух… Пронесло... Похоже, что у них нету доказательств… Но судя по всему… Ха! Я главный подозреваемый…)"
-msgstr "[_cedrick_] (Uf… Se han ido... Parece que no tienen pruebas… Pero por lo que parece… Yo soy el principal sospechoso…)"
+msgstr "[_cedrick_] (Uf… Se han ido… Parece que no tienen pruebas… Pero por lo que parece… Yo soy el principal sospechoso…)"
 
 # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:46 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_1dc146bb:
 msgid "[_cedrick_] (Возможно, Миранда сможет как-нибудь клонировать Тома Лэира для того, чтобы его клон показался в полицейском участке… Нужно поговорить с ней об этом… Хорошо, что я оставил его в живых…)"
-msgstr "[_cedrick_] (Quizás Miranda pueda clonar de alguna manera a Tom Lair para que su clon aparezca en la estación de policía… Tengo que hablar con ella sobre eso… Menos mal que lo mantuve vivo…)"
+msgstr "[_cedrick_] (Quizá Miranda pueda clonar a Tom Lair para que el clon se presente en la comisaría… Tengo que hablar con ella… Menos mal que lo dejé con vida…)"
 
