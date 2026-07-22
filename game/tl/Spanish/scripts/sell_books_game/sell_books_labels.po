@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 15:41\n"
+"PO-Revision-Date: 2026-07-22 21:23\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/sell_books_game/sell_books_labels.rpy:39 #-#-# translate crowdin sell_books_new_customer_b19a31e4:
 msgid "[_customer_] Здравствуйте, а у вас есть {color=#8fe3ff}[book_name]{/color}?"
@@ -58,7 +58,7 @@ msgstr "[_cedrick_seller_] Lamentablemente, no disponemos de este libro"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:95 #-#-# translate crowdin sell_books_customer_menu_9d74c268:
 msgid "[_customer_] Очень жаль..."
-msgstr "[_customer_] Lástima..."
+msgstr "[_customer_] Lástima…"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:114 #-#-# translate crowdin sell_books_remainder_badd5757:
 msgid "[_customer_] Мне нужен учебник {color=#8fe3ff}[book_name]{/color}"
@@ -90,7 +90,7 @@ msgstr "[_customer_] ¿No tendrás por casualidad un cómic sobre el héroe \"{c
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:138 #-#-# translate crowdin sell_books_remainder_81cb7337:
 msgid "[_customer_] Посоветуйте мне {color=#8fe3ff}[book_parameter_value]{/color}?"
-msgstr "[_customer_] Recomiendame {color=#8fe3ff}[book_parameter_value]{/color}?"
+msgstr "[_customer_] Recomiéndame {color=#8fe3ff}[book_parameter_value]{/color}"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:141 #-#-# translate crowdin sell_books_remainder_e73699a4:
 msgid "[_customer_] У вас есть комиксы издательства {color=#8fe3ff}[book_parameter_value]{/color}?"
@@ -106,7 +106,7 @@ msgstr "[_customer_] Gracias, es justo lo que necesito"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:165 #-#-# translate crowdin sell_books_sell_book_f0266961:
 msgid "[_cedrick_seller_] С вас [money] $"
-msgstr "[_cedrick_seller_] De ti $[money]"
+msgstr "[_cedrick_seller_] Son [money] $"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:170 #-#-# translate crowdin sell_books_sell_book_7a5ab945:
 msgid "[_customer_] Вот, держите"
@@ -134,7 +134,7 @@ msgstr "[_cedrick_seller_] ¡Fuera de aquí! ¡O te dispararé en la cabeza!"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:243 #-#-# translate crowdin sell_books_scare_robber_915c91dd:
 msgid "[_robber_] Черт!!! Надо сваливать!"
-msgstr "[_robber_] ¡¡Mierda!! ¡Tengo que salir de aquí!"
+msgstr "[_robber_] ¡Mierda!! ¡Tengo que salir de aquí!"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:264 #-#-# translate crowdin sell_books_robber_get_money_in_cashbox_311b46d1:
 msgid "[_robber_] Приятно иметь с тобой дело. Хе-хе"
@@ -146,7 +146,7 @@ msgstr "[_cedrick_seller_] ¡Qué cabrón!"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:270 #-#-# translate crowdin sell_books_robber_get_money_in_cashbox_5bba12f5:
 msgid "[_robber_] Какого хера касса пуста? Повезло тебе..."
-msgstr "[_robber_] ¿Por qué coño está la caja vacía? Qué suerte tienes..."
+msgstr "[_robber_] ¿Por qué coño está la caja vacía? Qué suerte tienes…"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:285 #-#-# translate crowdin sell_books_scare_away_thief_0409d746:
 msgid "[_cedrick_seller_] А ну прочь из моего магазина! Мелкий воришка!"
@@ -154,7 +154,7 @@ msgstr "[_cedrick_seller_] ¡Fuera de mi tienda! ¡Pequeño ladrón!"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:308 #-#-# translate crowdin sell_books_finish_4220feff:
 msgid "Ваш доход [profit] $"
-msgstr "Sus ingresos $[profit]"
+msgstr "Tus ingresos: [profit] $"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:309 #-#-# translate crowdin sell_books_finish_1c485c2e:
 msgid "Вы приобрели новые книги из тех что проданы или пропали, в количестве: \"[restored_books_length]\""
@@ -174,7 +174,7 @@ msgstr "Para comprar libros nuevos, puede pedirlos en línea utilizando su telé
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:316 #-#-# translate crowdin sell_books_finish_509f5d05:
 msgid "Общий доход [total_profit] $"
-msgstr "Ingresos totales $[total_profit]"
+msgstr "Ingresos totales: [total_profit] $"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:319 #-#-# translate crowdin sell_books_finish_7dbf9639:
 msgid "Все ваши книги и деньги были исчерпаны"
@@ -182,7 +182,7 @@ msgstr "Todos tus libros y tu dinero se han agotado"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:324 #-#-# translate crowdin sell_books_finish_8262983b:
 msgid "Ваш доход 0 $"
-msgstr "Sus ingresos $0"
+msgstr "Tus ingresos: 0 $"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:325 #-#-# translate crowdin sell_books_finish_556c0c8b:
 msgid "Вам не хватает денег, чтобы запастись хотя бы одной книгой"
@@ -190,7 +190,7 @@ msgstr "No tienes suficiente dinero para abastecerte de al menos un libro"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:326 #-#-# translate crowdin sell_books_finish_462a5c3a:
 msgid "В вашем магазине осталось [books_available_length] книг"
-msgstr "Quedan [books_available_length] libros en su tienda"
+msgstr "Quedan [books_available_length] libros en tu tienda"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:327 #-#-# translate crowdin sell_books_finish_8343992b_1:
 msgid "Для покупки новых книг, вы можете заказать их через интернет при помощи телефона"
@@ -198,15 +198,15 @@ msgstr "Para comprar libros nuevos, puede pedirlos en línea utilizando su telé
 
 # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/sell_books_labels.rpy:61
 msgid "какую нибудь мангу"
-msgstr "algunos mangas"
+msgstr "algún manga"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:61
 msgid "какой нибудь комикс, только не японский, пожалуйста"
-msgstr "un cómic, no japonés, por favor"
+msgstr "algún cómic, pero que no sea japonés, por favor"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:85
 msgid "Отдать книгу"
-msgstr "Regala el libro"
+msgstr "Entregar el libro"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:85
 msgid "Напомните, какую книгу вам нужно"
