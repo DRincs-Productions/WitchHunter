@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:05\n"
+"PO-Revision-Date: 2026-07-22 21:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:4 #-#-# translate crowdin remembered_about_the_alchemy_2e06d5bd:
 msgid "[_cedrick_] (Черт, все эти горнолыжные приключения изрядно меня утомили..)"
-msgstr "[_cedrick_] (Maldita sea, todas estas aventuras de esquí me están agotando...)"
+msgstr "[_cedrick_] (Maldita sea, todas estas aventuras de esquí me están agotando…)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:5 #-#-# translate crowdin remembered_about_the_alchemy_fc3216d1:
 msgid "[_cedrick_] (Сколько вообще времени прошло с тех пор, как Фобос поручил мне это задание под прикрытием? Вроде бы это было не так давно. Я начинаю слегка терять счет времени..)"
-msgstr "[_cedrick_] (¿Cuánto tiempo ha pasado desde que Fobos me dio esta misión encubierta? No parece que haya pasado tanto tiempo. Empiezo a perder un poco la noción del tiempo...)"
+msgstr "[_cedrick_] (¿Cuánto tiempo ha pasado desde que Fobos me dio esta misión encubierta? No parece que haya pasado tanto tiempo. Empiezo a perder un poco la noción del tiempo…)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:6 #-#-# translate crowdin remembered_about_the_alchemy_b2751624:
 msgid "[_cedrick_] (Пора бы уже заканчивать с заданием и вернуться на Меридиан. Не думал, что буду немного скучать по этому месту. Скоро я верну свой титул и тогда все станет как раньше)"
@@ -42,11 +42,11 @@ msgstr "[_elion_] Oh, Rick, pareces cansado. ¿Cuánto has dormido últimamente?
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:13 #-#-# translate crowdin remembered_about_the_alchemy_ad0decfb:
 msgid "[_cedrick_] У вас в школе близится последнее полугодие. Контрольных, соответственно, тоже прибавилось, а вместе с контрольными и число их проверок.."
-msgstr "[_cedrick_] Tu escuela se acerca al último semestre. También ha aumentado el número de pruebas y de exámenes.."
+msgstr "[_cedrick_] Tu escuela se acerca al último semestre. También ha aumentado el número de pruebas y de exámenes…"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:15 #-#-# translate crowdin remembered_about_the_alchemy_6fa24ce9:
 msgid "[_elion_] Так.. Вот, держи, пока ты спал, я сходила за кофе, но оно тебе явно нужнее, чем мне."
-msgstr "[_elion_] Así que... Toma, mientras dormías, fui por un café, pero obviamente tú lo necesitas más que yo."
+msgstr "[_elion_] Así que… Toma, mientras dormías, fui por un café, pero obviamente tú lo necesitas más que yo."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:17 #-#-# translate crowdin remembered_about_the_alchemy_eece8e05:
 msgid "[_cedrick_] Хах, ну спасибо, Элион"
@@ -58,11 +58,11 @@ msgstr "[_cedrick_] Hmm, muy buen café"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:21 #-#-# translate crowdin remembered_about_the_alchemy_7d6c3449:
 msgid "[_elion_] Эх.. Последнее полугодие. Получается, с пропажи Алхими прошел уже почти целый месяц.."
-msgstr "[_elion_] Eh... El último semestre. Así que ha pasado casi un mes desde que Alchemy desapareció.."
+msgstr "[_elion_] Eh… El último semestre. Así que ha pasado casi un mes desde que Alchemy desapareció…"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:23 #-#-# translate crowdin remembered_about_the_alchemy_2ef90216:
 msgid "[_cedrick_] (...)"
-msgstr "[_cedrick_] (...)"
+msgstr "[_cedrick_] (…)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:24 #-#-# translate crowdin remembered_about_the_alchemy_e31fcb2e:
 msgid "[_cedrick_] (ПРОШЕЛ УЖЕ ЦЕЛЫЙ МЕСЯЦ?!)"
@@ -74,7 +74,7 @@ msgstr "[_cedrick_] (¡Cuánto tiempo hace que no la visito en el calabozo! Nadi
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:27 #-#-# translate crowdin remembered_about_the_alchemy_ce431ea3:
 msgid "[_cedrick_] (Черт.. Я должен как-то спровадить Элион на время и тут же отправляться на Меридиан!)"
-msgstr "[_cedrick_] (Maldita sea... ¡Tengo que enviar a Elyon lejos por un tiempo de alguna manera y luego ir a Meridian inmediatamente!)"
+msgstr "[_cedrick_] (Mierda… Tengo que quitarme a Elyon de encima un rato e ir de inmediato a Meridian.)"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:29 #-#-# translate crowdin remembered_about_the_alchemy_ae2e60cd:
 msgid "[_elion_] Рик, все хорошо? Ты выглядишь обеспокоенным. Может кофе не свежий?"
@@ -82,7 +82,7 @@ msgstr "[_elion_] Rick, ¿va todo bien? Pareces preocupado. ¿Tal vez el café n
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:30 #-#-# translate crowdin remembered_about_the_alchemy_03e20868:
 msgid "[_cedrick_] Нет.. Просто я как раз вспомнил о том, что один клиент сегодня придет за новым выпуском Неуязвимого, а я его так и не заказал.."
-msgstr "[_cedrick_] No... Acabo de recordar que un cliente viene hoy a recoger un nuevo número de Unbreakable y nunca lo pedí.."
+msgstr "[_cedrick_] No… Acabo de recordar que un cliente viene hoy a recoger un nuevo número de Unbreakable y nunca lo pedí…"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:32 #-#-# translate crowdin remembered_about_the_alchemy_66a34ff7:
 msgid "[_elion_] Ох, обычно ты не забываешь заказы. Видимо совсем вымотался.. Давай я поищу его в ближайших магазинах, а ты пока отдохнешь?"
@@ -106,5 +106,5 @@ msgstr "[_elion_] No hay de qué. Siempre me alegra ayudarte, después de todo l
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:40 #-#-# translate crowdin remembered_about_the_alchemy_00a240a4:
 msgid "[_cedrick_] Так, она ушла. Теперь срочно на Меридиан"
-msgstr "[_cedrick_] Bien, se ha ido. Ahora, urgente a Meridian"
+msgstr "[_cedrick_] Bien, se fue. Ahora debo ir de inmediato a Meridian."
 
