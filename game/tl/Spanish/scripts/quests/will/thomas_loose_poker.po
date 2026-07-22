@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:17\n"
+"PO-Revision-Date: 2026-07-22 21:22\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/thomas_loose_poker.rpy:4 #-#-# translate crowdin thomas_loose_poker_73c76c52:
 msgid "[_tomas_] Черт, как я мог проиграть! эти деньги сьюзан мне дала чтобы заплатить за квартиру"
@@ -22,11 +22,11 @@ msgstr "[_tomas_] ¡Por favor, déjame recuperarlo!"
 
 # game/scripts/quests/will/thomas_loose_poker.rpy:6 #-#-# translate crowdin thomas_loose_poker_52375465:
 msgid "[_cedrick_] А тебе есть что поставить... извини.."
-msgstr "[_cedrick_] No tienes algo que apostar... Lo siento.."
+msgstr "[_cedrick_] No tienes algo que apostar… Lo siento…"
 
 # game/scripts/quests/will/thomas_loose_poker.rpy:7 #-#-# translate crowdin thomas_loose_poker_edbf83e4:
 msgid "[_tomas_] Проклятье...."
-msgstr "[_tomas_] Maldición...."
+msgstr "[_tomas_] Maldición…"
 
 # game/scripts/quests/will/thomas_loose_poker.rpy:8 #-#-# translate crowdin thomas_loose_poker_64215ec7:
 msgid "[_cedrick_] (Пологаю Сьюзан выгонит его как только узнает что он ввязался в азартные игры, и к тому же проиграл деньги)"
