@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 15:39\n"
+"PO-Revision-Date: 2026-07-22 21:18\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/sitWithLilian.rpy:10 #-#-# translate crowdin sitWithLilian_cdd6670c:
 msgid "Звук дверного звонка"
@@ -30,7 +30,7 @@ msgstr "[_lilith_] Ah, ¿eres tú? ¿Cornelia todavía te hizo arrastrarte y vig
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:26 #-#-# translate crowdin sitWithLilian_d931d353:
 msgid "[_cedrick_] Эм, да, привет.. я.."
-msgstr "[_cedrick_] Um, sí, hola... yo..."
+msgstr "[_cedrick_] Um, sí, hola… yo…"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:30 #-#-# translate crowdin sitWithLilian_525fb3f5:
 msgid "[_lilith_] Ладно, проходи"
@@ -42,11 +42,11 @@ msgstr "[_cedrick_] Lilith, tengo algo para ti."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:38 #-#-# translate crowdin sitWithLilian_e713752a:
 msgid "[_lilith_] Слушай, не нужно строить из себя добряка.."
-msgstr "[_lilith_] Escucha, no necesitas fingir ser un buen tipo..."
+msgstr "[_lilith_] Escucha, no necesitas fingir ser un buen tipo…"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:42 #-#-# translate crowdin sitWithLilian_7188ec3a:
 msgid "[_lilith_] То, что Корнелия попросила тебя присмотреть за мной еще не значит, что со мной нужно нянчиться. Я подыхаю от температуры, но я не тупая и я не ребенок"
-msgstr "[_lilith_] Sólo porque Cornelia te pidió que me cuidaras no significa que necesite que me cuiden. Me muero de fiebre, pero no soy estúpido ni soy una niña."
+msgstr "[_lilith_] Que Cornelia te pidiera vigilarme no significa que debas tratarme como a una niña. Me muero de fiebre, pero no soy estúpida ni una cría."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:46 #-#-# translate crowdin sitWithLilian_4b8ce0d6:
 msgid "[_cedrick_] (Да уж, с ее характером нужно аккуратнее подбирать слова. Использовать ее явно будет непросто. Придется подбираться к ней постепенно)"
@@ -54,7 +54,7 @@ msgstr "[_cedrick_] (Sí, con su personaje necesitas elegir tus palabras con má
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:47 #-#-# translate crowdin sitWithLilian_53cd9e30:
 msgid "[_cedrick_] Вот. Это Наполеон, кажется.."
-msgstr "[_cedrick_] Aquí. Este es Napoleón, creo..."
+msgstr "[_cedrick_] Aquí. Este es Napoleón, creo…"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:51 #-#-# translate crowdin sitWithLilian_24da6c1b:
 msgid "[_lilith_] Н-наполеон!?.."
@@ -70,7 +70,7 @@ msgstr "[_lilith_] Ven rápidamente a mis brazos."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:68 #-#-# translate crowdin sitWithLilian_eb153b4e:
 msgid "[_lilith_] Г-где.. где ты его нашел?"
-msgstr "[_lilith_] ¿D-dónde... dónde lo encontraste?"
+msgstr "[_lilith_] ¿D-dónde… dónde lo encontraste?"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:72 #-#-# translate crowdin sitWithLilian_4fd3a263:
 msgid "[_cedrick_] Эм.. В пещере возле реки. Пришлось повозиться, кажется к тому моменту какая-то местная здоровенная жаба собиралась его сожрать"
@@ -82,7 +82,7 @@ msgstr "[_cedrick_] Afortunadamente, pude recuperar a Napoleón de sus manos."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:80 #-#-# translate crowdin sitWithLilian_c7624065:
 msgid "[_lilith_] Вот черт.. Бедный, настрадался ты наверное"
-msgstr "[_lilith_] Maldita sea... Pobrecito, debes haber sufrido."
+msgstr "[_lilith_] Maldita sea… Pobrecito, debes haber sufrido."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:84 #-#-# translate crowdin sitWithLilian_7214d6ae:
 msgid "[_cedrick_] Ох, жаба была не настолько сильная, справился с одного удара"
@@ -94,11 +94,11 @@ msgstr "[_cedrick_] (Un golpe de cien dólares a mi billetera.)"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:90 #-#-# translate crowdin sitWithLilian_a59d2f04:
 msgid "[_lilith_] Эм.. Я про Наполеона.."
-msgstr "[_lilith_] Um... estoy hablando de Napoleón."
+msgstr "[_lilith_] Um… estoy hablando de Napoleón."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:94 #-#-# translate crowdin sitWithLilian_49316299:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:96 #-#-# translate crowdin sitWithLilian_bdf2aa88:
 msgid "[_cedrick_] Хах, да это я просто так пошутил"
@@ -106,11 +106,11 @@ msgstr "[_cedrick_] Jaja, solo estaba bromeando."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:100 #-#-# translate crowdin sitWithLilian_e19676fd:
 msgid "[_lilith_] ..."
-msgstr "[_lilith_] ..."
+msgstr "[_lilith_] …"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:102 #-#-# translate crowdin sitWithLilian_c7a63beb:
 msgid "[_cedrick_] (Мда, выставить себя героем тоже не получилось.. Скорее выставил себя идиотом)"
-msgstr "[_cedrick_] (Hmm, tampoco funcionó hacer que yo pareciera un héroe... más bien me hice ver como un idiota.)"
+msgstr "[_cedrick_] (Hmm, tampoco funcionó hacer que yo pareciera un héroe… más bien me hice ver como un idiota.)"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:106 #-#-# translate crowdin sitWithLilian_efe72857:
 msgid "[_lilith_] Ладно, проходи. Мне лучше тоже долго в коридоре не стоять"
@@ -122,7 +122,7 @@ msgstr "[_centered_] {size=37}CEDRIC Y LILY SE SENTARON EN EL SOFÁ Y EMPEZARON 
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:117 #-#-# translate crowdin sitWithLilian_e309c730:
 msgid "[_cedrick_] Эм.. Хм.."
-msgstr "[_cedrick_] Mmmm..."
+msgstr "[_cedrick_] Mmmm…"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:118 #-#-# translate crowdin sitWithLilian_bedb0687:
 msgid "[_cedrick_] (Черт, я даже не знаю, о чем с ней можно заговорить.. Ее типаж мне непонятен..)"
@@ -142,7 +142,7 @@ msgstr "[_cedrick_] (Entonces necesitas estudiar mejor su personaje. Entender qu
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:123 #-#-# translate crowdin sitWithLilian_e38503bf:
 msgid "[_cedrick_] Эм.. Что смотришь по телевизору?"
-msgstr "[_cedrick_] Um... ¿Qué estás viendo en la televisión?"
+msgstr "[_cedrick_] Um… ¿Qué estás viendo en la televisión?"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:125 #-#-# translate crowdin sitWithLilian_8eda1c0e:
 msgid "[_lilith_] В основном всякие музыкальные телеканалы с альтернативным роком. Иногда аниме.."
@@ -154,11 +154,11 @@ msgstr "[_cedrick_] Hmm, ¿es por eso que te vistes así? ¿Es esto un cosplay?"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:129 #-#-# translate crowdin sitWithLilian_7f9364d2:
 msgid "[_lilith_] Пф, еще чего.. Я что, похожа на одну из этих анимешных дурочек?"
-msgstr "[_lilith_] Pfft, de ninguna manera.. ¿Parezco uno de esos tontos del anime?"
+msgstr "[_lilith_] Pfft, de ninguna manera… ¿Parezco uno de esos tontos del anime?"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:131 #-#-# translate crowdin sitWithLilian_49316299_1:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:133 #-#-# translate crowdin sitWithLilian_000cf7fc:
 msgid "[_cedrick_] Конечно нет.."
@@ -174,7 +174,7 @@ msgstr "[_cedrick_] Interesante."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:138 #-#-# translate crowdin sitWithLilian_e508aeeb:
 msgid "[_cedrick_] И эта музыка.. Эм.. Альтернативный рок?"
-msgstr "[_cedrick_] Y esta música... Um... ¿Rock alternativo?"
+msgstr "[_cedrick_] Y esta música… Um… ¿Rock alternativo?"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:140 #-#-# translate crowdin sitWithLilian_05977ad2:
 msgid "[_lilith_] Альтернативный рок, мелодичный дэт-метал, металкор, хард-рок, готик-метал, иногда гранж.."
@@ -186,11 +186,11 @@ msgstr "[_cedrick_] No tiene ningún sentido. Pero es muy interesante."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:144 #-#-# translate crowdin sitWithLilian_60b8a980:
 msgid "[_lilith_] Эм.. Могу включить канал с этой музыкой, если хочешь"
-msgstr "[_lilith_] Um... puedo cambiar el canal con esta música si quieres."
+msgstr "[_lilith_] Um… puedo cambiar el canal con esta música si quieres."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:145 #-#-# translate crowdin sitWithLilian_30bda0b0:
 msgid "[_lilith_] В смысле.. Я и так собиралась его включить, просто, раз уж и ты здесь, то мог бы тоже послушать"
-msgstr "[_lilith_] Quiero decir... iba a cambiarlo de todos modos, pero ya que estás aquí, también podría escucharlo."
+msgstr "[_lilith_] Quiero decir… iba a cambiarlo de todos modos, pero ya que estás aquí, también podría escucharlo."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:146 #-#-# translate crowdin sitWithLilian_ef641d2d:
 msgid "[_lilith_] Хотя тебе в любом случае придется, раз притащился сюда, потому что включать всякую попсу я не собираюсь. Или что там тебе нравится"
@@ -206,7 +206,7 @@ msgstr "[_lilith_] No escucharías a compositores más underground como Chopin o
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:150 #-#-# translate crowdin sitWithLilian_b4500d72:
 msgid "[_cedrick_] Оу.. Вау.. Эм.."
-msgstr "[_cedrick_] Oh... vaya... um..."
+msgstr "[_cedrick_] Oh… vaya… um…"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:152 #-#-# translate crowdin sitWithLilian_2f8210a6:
 msgid "[_lilith_] Ага, у всех такая реакция, ты далеко не первый. То, что я слушаю тяжелую музыку не значит, что у меня ограниченный кругозор"
@@ -238,15 +238,15 @@ msgstr "[_centered_] {size=37}Después de un rato{/size} [withDissolve1]"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:173 #-#-# translate crowdin sitWithLilian_49316299_2:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:175 #-#-# translate crowdin sitWithLilian_87b7ed4a:
 msgid "[_cedrick_] ......"
-msgstr "[_cedrick_] ......"
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:177 #-#-# translate crowdin sitWithLilian_99cc9aca:
 msgid "[_cedrick_] ........."
-msgstr "[_cedrick_] ........."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:179 #-#-# translate crowdin sitWithLilian_dddaa650:
 msgid "[_lilith_] Эй, ты там живой? Чего застыл?"
@@ -254,7 +254,7 @@ msgstr "[_lilith_] Oye, ¿estás vivo ahí? ¿Por qué estás congelado?"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:181 #-#-# translate crowdin sitWithLilian_daeb769a:
 msgid "[_cedrick_] Эм…"
-msgstr "[_cedrick_] Um..."
+msgstr "[_cedrick_] Um…"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:182 #-#-# translate crowdin sitWithLilian_ec175904:
 msgid "[_lilith_] Не по вкусу, да? Большинство такую музыку не переваривает. Я не удивлена, что и тебе не понравилось.."
@@ -266,7 +266,7 @@ msgstr "[_cedrick_] En realidad suena muy emocionante. Nunca me había encontrad
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:186 #-#-# translate crowdin sitWithLilian_1f26a579:
 msgid "[_lilith_] Хах, не верю.. Говоришь так, словно всю жизнь до этого жил в пещере"
-msgstr "[_lilith_] Ja, no lo creo... Hablas como si hubieras vivido en una cueva toda tu vida."
+msgstr "[_lilith_] Ja, no lo creo… Hablas como si hubieras vivido en una cueva toda tu vida."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:188 #-#-# translate crowdin sitWithLilian_58496ccf:
 msgid "[_cedrick_] Эта музыка наполняет такой брутальной агрессивной энергией. Но как ни странно, мне нравится это чувство, этот эмоциональный подъем"
@@ -278,7 +278,7 @@ msgstr "[_lilith_] Jejeje. Continúa."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:192 #-#-# translate crowdin sitWithLilian_d3438828:
 msgid "[_cedrick_] Эти струнные мелодии буквально пронизывают тело своей жесткостью и мелодичностью. Как если бы у мурашек на теле появился свой ритм"
-msgstr "[_cedrick_] Estas melodías de cuerdas literalmente impregnan el cuerpo con su dureza y melodía. Es como si la piel de gallina tuviera su propio ritmo."
+msgstr "[_cedrick_] Estas melodías de cuerda atraviesan el cuerpo con su fuerza y musicalidad. Como si la piel erizada tuviera su propio ritmo."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:193 #-#-# translate crowdin sitWithLilian_4004426c:
 msgid "[_cedrick_] Слушая такую музыку днями напролет, в какой-то момент точно захочется внешне проявить те чувства, что эта музыка у тебя вызывает.."
@@ -298,7 +298,7 @@ msgstr "[_cedrick_] Ja, no, realmente no es mi estilo. Al menos por ahora. Pero 
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:200 #-#-# translate crowdin sitWithLilian_4f5ddfaa:
 msgid "[_lilith_] Хм.. Ну, ты как минимум правильно прочувствовал музыку. Смог принять в себе те эмоции, что она в тебе пробуждает"
-msgstr "[_lilith_] Hmm... Bueno, al menos conoces bien la música. Pude aceptar las emociones que despierta en ti."
+msgstr "[_lilith_] Hmm… Bueno, al menos conoces bien la música. Pude aceptar las emociones que despierta en ti."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:201 #-#-# translate crowdin sitWithLilian_a60c6d40:
 msgid "[_lilith_] А мне казалось ты очередной тупой мудак, как все дружки Корнелии, которых она приводила, только более старый"
@@ -354,11 +354,11 @@ msgstr "[_lilith_] En general, usted es claramente de una familia noble, incluso
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:221 #-#-# translate crowdin sitWithLilian_782da11f:
 msgid "[_cedrick_] ...."
-msgstr "[_cedrick_] ...."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:222 #-#-# translate crowdin sitWithLilian_87b7ed4a_1:
 msgid "[_cedrick_] ......"
-msgstr "[_cedrick_] ......"
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:224 #-#-# translate crowdin sitWithLilian_60663faa:
 msgid "[_lilith_] Попала в точку, да?"
@@ -366,7 +366,7 @@ msgstr "[_lilith_] Di en el blanco, ¿verdad?"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:225 #-#-# translate crowdin sitWithLilian_22440fde:
 msgid "[_cedrick_] (Какого черта..)"
-msgstr "[_cedrick_] (Qué demonios...)"
+msgstr "[_cedrick_] (Qué demonios…)"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:227 #-#-# translate crowdin sitWithLilian_1be9a55b:
 msgid "[_lilith_] Можешь не говорить, я и так знаю, что угадала"
@@ -390,7 +390,7 @@ msgstr "[_cedrick_] (¿Quién sabe qué más podría estar escondiendo?)"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:233 #-#-# translate crowdin sitWithLilian_104cf01d:
 msgid "[_cedrick_] (Хм.. Может она носит на себе какой-то скрытый волшебный артефакт, сама того не подозревая?)"
-msgstr "[_cedrick_] (Hmm... ¿Quizás lleva consigo algún artefacto mágico oculto sin saberlo?)"
+msgstr "[_cedrick_] (Hmm… ¿Quizás lleva consigo algún artefacto mágico oculto sin saberlo?)"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:234 #-#-# translate crowdin sitWithLilian_5943f766:
 msgid "[_cedrick_] (Стоит проверить по возможности..)"
@@ -450,7 +450,7 @@ msgstr "[_cedrick_] (Maldita sea, ella también es inteligente. ¿Es esta realme
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:256 #-#-# translate crowdin sitWithLilian_6991e261:
 msgid "[_cedrick_] Эм.. Знаешь, запомнить твое имя с первого раза - это простое проявление вежливости"
-msgstr "[_cedrick_] Um... Ya sabes, recordar tu nombre la primera vez es un simple acto de cortesía."
+msgstr "[_cedrick_] Um… Ya sabes, recordar tu nombre la primera vez es un simple acto de cortesía."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:257 #-#-# translate crowdin sitWithLilian_78ba5e83:
 msgid "[_cedrick_] Пришел я сюда потому что меня попросила Корнелия. А кота я нашел считай случайно"
@@ -462,11 +462,11 @@ msgstr "[_cedrick_] Y sí, no soy el novio de Cornelia. Definitivamente eres bue
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:260 #-#-# translate crowdin sitWithLilian_fb9dfcdf:
 msgid "[_lilith_] Хм.. И что ты пытаешься этим мне доказать?"
-msgstr "[_lilith_] Hmm... ¿Y qué intentas demostrarme con esto?"
+msgstr "[_lilith_] Hmm… ¿Y qué intentas demostrarme con esto?"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:261 #-#-# translate crowdin sitWithLilian_5d004fd1:
 msgid "[_cedrick_] Пф.."
-msgstr "[_cedrick_] Pff..."
+msgstr "[_cedrick_] Pff…"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:262 #-#-# translate crowdin sitWithLilian_61a736e8:
 msgid "[_cedrick_] (Если так продолжится дальше, то она загонит меня в проигрышную позицию. Лучше отступить)"
@@ -486,7 +486,7 @@ msgstr "[_cedrick_] Espero que te mejores pronto. Entonces dejaré de molestarte
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:268 #-#-# translate crowdin sitWithLilian_920da52d:
 msgid "[_lilith_] Эм.."
-msgstr "[_lilith_] Mm..."
+msgstr "[_lilith_] Mm…"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:269 #-#-# translate crowdin sitWithLilian_139acbfe:
 msgid "[_lilith_] Окей, Рик. Хорошего дня. Думаю выход найдешь сам"
@@ -498,11 +498,11 @@ msgstr "[_cedrick_] Si, no me perderé."
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:274 #-#-# translate crowdin sitWithLilian_1190ec31:
 msgid "[_cedrick_] (И все же она та еще стерва.. даже похлеще своей сестры)"
-msgstr "[_cedrick_] (Y aun así sigue siendo una perra... incluso peor que su hermana.)"
+msgstr "[_cedrick_] (Y aun así sigue siendo una perra… incluso peor que su hermana.)"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:275 #-#-# translate crowdin sitWithLilian_5dbcb57e:
 msgid "[_cedrick_] (В какой-то момент мне показалось, что мы находим общий язык.. Но по итогу сейчас она держит меня на еще большем расстоянии, чем до этого..)"
-msgstr "[_cedrick_] (En algún momento me pareció que estábamos encontrando un lenguaje común... Pero como resultado, ahora ella me mantiene a una distancia aún mayor que antes.)"
+msgstr "[_cedrick_] (En algún momento me pareció que estábamos encontrando un lenguaje común… Pero como resultado, ahora ella me mantiene a una distancia aún mayor que antes.)"
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:276 #-#-# translate crowdin sitWithLilian_7edf9517:
 msgid "[_cedrick_] (Странная девчонка..)"
