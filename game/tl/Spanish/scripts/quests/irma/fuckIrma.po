@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:04\n"
+"PO-Revision-Date: 2026-07-22 15:39\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/irma/fuckIrma.rpy:13 #-#-# translate crowdin fuckIrma_df80b5ca:
 msgid "[_irma_] Профессор Хоффман! Здравствуйте, я пришла помочь.."
@@ -58,7 +58,7 @@ msgstr "[_elion_] ¡¡¡Oh tú!!!"
 
 # game/scripts/quests/irma/fuckIrma.rpy:61 #-#-# translate crowdin fuckIrma_07132fca:
 msgid "[_cedrick_] Живо прекратите свою болтовню и беритесь за работу!"
-msgstr "[_cedrick_] ¡Deja de parlotear ahora mismo y ponte a trabajar!"
+msgstr "[_cedrick_] ¡Dejen de parlotear y pónganse a trabajar de inmediato!"
 
 # game/scripts/quests/irma/fuckIrma.rpy:64 #-#-# translate crowdin fuckIrma_89c59728:
 msgid "[_elion_] ..."
