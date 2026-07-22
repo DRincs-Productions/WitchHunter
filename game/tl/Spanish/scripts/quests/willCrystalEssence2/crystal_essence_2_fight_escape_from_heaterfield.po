@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-09 11:07\n"
+"PO-Revision-Date: 2026-07-22 14:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:5 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_ced621b1:
 msgid "[_miranda_] Рик! У меня срочное донесение от Фобо.."
@@ -34,7 +34,7 @@ msgstr "[_cedrick_] ......"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:13 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_2734f177:
 msgid "[_cedrick_] Чертовы стражницы!"
-msgstr "[_cedrick_] ¡Malditos guardias!"
+msgstr "[_cedrick_] ¡Malditos guardianas!"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:17 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_a20cefa7:
 msgid "..."
@@ -70,7 +70,7 @@ msgstr "[_cedrick_]¿Quién más podría haber despertado allí.."
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:42 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_8542ac31:
 msgid "[_broken_warrior_] Король Морпионов.. Он ищет свою королеву.. Ту.. Ту, что вы убили..."
-msgstr "[_broken_warrior_] El Rey Morpion... Está buscando a su reina... La... La que mataste..."
+msgstr "[_broken_warrior_] El Rey Morpiones... Está buscando a su reina... La... La que mataste..."
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:43 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_12bda3de:
 msgid "[_cedrick_] ....Да ты издеваешься"
@@ -86,7 +86,7 @@ msgstr "[_broken_warrior_] Ni siquiera Gárgola y Demonio de Arena pudieron con 
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:52 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_756b1159:
 msgid "[_cedrick_] (Даже эти двое? С ними и у меня были проблемы, а Король Морпионов их одновременно одолел..)"
-msgstr "[_cedrick_] (¿Incluso estos dos? Yo también tuve problemas con ellos, y el Rey Morpion los derrotó al mismo tiempo...)"
+msgstr "[_cedrick_] (¿Incluso estos dos? Yo también tuve problemas con ellos, y el Rey Morpiones los derrotó al mismo tiempo...)"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:56 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_d4ebf490:
 msgid "[_broken_warrior_] Войско Райтера уже почти полностью разгромлено, этот монстр неостановим.."
@@ -98,7 +98,7 @@ msgstr "[_cedrick_] Bueno, no hay nada sorprendente en eso... Reiter no tiene ex
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:64 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_fa056b8d:
 msgid "[_broken_warrior_] Король Морпионов идет в сторону замка.. Только вы сможете его остановить, Лорд Седрик..."
-msgstr "[_broken_warrior_] El Rey Morpion se dirige hacia el castillo... Sólo tú puedes detenerlo, Lord Cedric..."
+msgstr "[_broken_warrior_] El Rey Morpiones se dirige hacia el castillo... Sólo tú puedes detenerlo, Lord Cedric..."
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:68 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_4c0bfc57:
 msgid "[_cedrick_] .........."
