@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 15:38\n"
+"PO-Revision-Date: 2026-07-22 21:16\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/police_station/police_station.rpy:13 #-#-# translate crowdin police_station_inaccessible_door_ae1873e0:
 msgid "[_cedrick_] Заперто.. К тому же это явно не та дверь"
-msgstr "[_cedrick_] Cerrado... Además, esta es claramente la puerta equivocada."
+msgstr "[_cedrick_] Cerrado… Además, esta es claramente la puerta equivocada."
 
 # game/scripts/police_station/police_station.rpy:21 #-#-# translate crowdin police_station_lose_23632d6b:
 msgid "[_centered_] {size=37}В полицейском участке сработала сигнальная сирена, все выходы из здания перекрыты. Седрик в ловушке{/size}"
@@ -22,7 +22,7 @@ msgstr "[_centered_] {size=37}En la comisaría sonó la sirena de alarma y se bl
 
 # game/scripts/police_station/police_station.rpy:24 #-#-# translate crowdin police_station_lose_8d084e2b:
 msgid "[_cedrick_] (Черт, и угораздило же меня так попасться..)"
-msgstr "[_cedrick_] (Maldita sea, logré que me atraparan así...)"
+msgstr "[_cedrick_] (Maldita sea, logré que me atraparan así…)"
 
 # game/scripts/police_station/police_station.rpy:25 #-#-# translate crowdin police_station_lose_4142f222:
 msgid "[_cedrick_] (Я мог сожрать дежурного, но это не имело бы никакого смысла. Полиция окружила здание чертовски быстро, скрытно сбежать бы мне не удалось)"
@@ -46,7 +46,7 @@ msgstr "..."
 
 # game/scripts/police_station/police_station.rpy:40 #-#-# translate crowdin police_station_guard1_lose_757efc14:
 msgid "[_sergeant_] Что вы здесь делаете!? Вы не должны находиться в участке в такое время. Прием-прием, у меня здесь посторонний"
-msgstr "[_sergeant_] ¿¡Qué estás haciendo aquí!? No deberías estar en la estación en este momento. Me copian, Me copian, tengo un extraño aquí."
+msgstr "[_sergeant_] ¿¡Qué hace aquí!? No debería estar en la estación a estas horas. Cambio, cambio: tengo un intruso aquí."
 
 # game/scripts/police_station/police_station.rpy:41 #-#-# translate crowdin police_station_guard1_lose_7aceab69:
 msgid "[_cedrick_] Черт, это был не тот коридор"
@@ -54,11 +54,11 @@ msgstr "[_cedrick_] Maldita sea, ese era el pasillo equivocado."
 
 # game/scripts/police_station/police_station.rpy:50 #-#-# translate crowdin police_station_guard2_lose_549e211f:
 msgid "sergeant [special_delimiter] Руки вверх, не двигаться!? У нас нарушитель, прием! Повторяю, у нас нарушитель!"
-msgstr "sergeant [special_delimiter] ¡¿Manos arriba, no te muevas?! Tenemos un intruso, ¡Me copian! Repito, ¡tenemos un intruso!"
+msgstr "sergeant [special_delimiter] ¡Manos arriba, no se mueva! Tenemos un intruso. ¡Cambio! Repito: ¡tenemos un intruso!"
 
 # game/scripts/police_station/police_station.rpy:51 #-#-# translate crowdin police_station_guard2_lose_fa4902d0:
 msgid "[_cedrick_] Вот же ж черт, меня поймали.."
-msgstr "[_cedrick_] Maldita sea, me atraparon..."
+msgstr "[_cedrick_] Maldita sea, me atraparon…"
 
 # game/scripts/police_station/police_station.rpy:64 #-#-# translate crowdin police_station_street_9a257e45:
 msgid "[_cedrick_] (Снаружи никого нет. Лучше не идти через заднюю дверь, обычно в полиции все запасные ходы охраняются лучше центрального. Тихо взломаю его и попаду внутрь)"
@@ -70,7 +70,7 @@ msgstr "[_cedrick_] (¿Está abierto? Al parecer alguien entró hace poco. Neces
 
 # game/scripts/police_station/police_station.rpy:75 #-#-# translate crowdin police_station_main_hall_076e0cad:
 msgid "(Хм, на проходной никого.. Вот же любители отлынивать от работы. Ну да ладно, мне же лучше. Так, первым делом стоит свериться с чертежом здания)"
-msgstr "(Hmm, no hay nadie en el puesto de control... Son personas a las que les gusta tomarse un tiempo libre en el trabajo. Oh, bueno, es lo mejor. Entonces, lo primero que debes hacer es revisar el plano del edificio.)"
+msgstr "(Mmm, no hay nadie en el puesto de control… Sí que les gusta holgazanear. Bueno, mejor para mí. Primero debo consultar el plano del edificio.)"
 
 # game/scripts/police_station/police_station.rpy:89 #-#-# translate crowdin police_station_map_00b0fb3a:
 msgid "[_cedrick_] (А вот и карта. Дежурство в западном и северо-восточном крыле. Вот почему здесь никого нет, понятно. Что ж, теперь знаю, куда соваться не стоит)"
@@ -90,7 +90,7 @@ msgstr "[_centered_] {size=37}Cedric logró noquear al sargento antes de que pud
 
 # game/scripts/police_station/police_station.rpy:123 #-#-# translate crowdin police_station_main_guards_1_eb1f036e:
 msgid "[_cedrick_] (Фух, успел вырубить его.. Но в это крыло мне лучше не соваться...)"
-msgstr "[_cedrick_] (Uf, logré noquearlo... Pero es mejor para mí no entrometerme en esta ala...)"
+msgstr "[_cedrick_] (Uf, logré noquearlo… Pero es mejor para mí no entrometerme en esta ala…)"
 
 # game/scripts/police_station/police_station.rpy:125 #-#-# translate crowdin police_station_main_guards_1_cd56832b:
 msgid "[_cedrick_] (Мне нечего там делать)"
@@ -106,7 +106,7 @@ msgstr "Cedric logró noquear a la detective antes de que pudiera dar la alarma.
 
 # game/scripts/police_station/police_station.rpy:157 #-#-# translate crowdin police_station_room2_guards_bffc177f:
 msgid "[_cedrick_] (Успел.. Но в это крыло мне лучше не соваться...)"
-msgstr "[_cedrick_] (Lo logré... Pero es mejor para mí no entrometerme en esta ala...)"
+msgstr "[_cedrick_] (Lo logré… Pero es mejor para mí no entrometerme en esta ala…)"
 
 # game/scripts/police_station/police_station.rpy:159 #-#-# translate crowdin police_station_room2_guards_cd56832b:
 msgid "[_cedrick_] (Мне нечего там делать)"
@@ -146,7 +146,7 @@ msgstr "[_gordon_] ¿No entendiste?"
 
 # game/scripts/police_station/police_station.rpy:197 #-#-# translate crowdin gallery_d_067_cf75aaeb:
 msgid "[_woman_prisoner_] То есть.. Е-есть, комиссар Гордон"
-msgstr "[_woman_prisoner_] Eso es... E-eso es, Comisionado Gordon."
+msgstr "[_woman_prisoner_] Eso es… E-eso es, Comisionado Gordon."
 
 # game/scripts/police_station/police_station.rpy:198 #-#-# translate crowdin gallery_d_067_a6d2fe44:
 msgid "[_gordon_] Опять неверно.."
@@ -154,7 +154,7 @@ msgstr "[_gordon_] Te equivocas de nuevo."
 
 # game/scripts/police_station/police_station.rpy:199 #-#-# translate crowdin gallery_d_067_5abba122:
 msgid "[_woman_prisoner_] Эм.. Как скажешь, папочка?"
-msgstr "[_woman_prisoner_] Um... ¿Qué dices, papá?"
+msgstr "[_woman_prisoner_] Um… ¿Qué dices, papá?"
 
 # game/scripts/police_station/police_station.rpy:200 #-#-# translate crowdin gallery_d_067_06f32c69:
 msgid "[_gordon_] Вот, теперь угадала. Не выбивайся из образа.."
@@ -162,35 +162,35 @@ msgstr "[_gordon_] Ya lo tienes. No te salgas del personaje."
 
 # game/scripts/police_station/police_station.rpy:201 #-#-# translate crowdin gallery_d_067_2d2facf4:
 msgid "[_woman_prisoner_] Х-хорошо.. Мммм.."
-msgstr "[_woman_prisoner_] O-ok... Mmmm..."
+msgstr "[_woman_prisoner_] O-ok… Mmmm…"
 
 # game/scripts/police_station/police_station.rpy:202 #-#-# translate crowdin gallery_d_067_ff454efa:
 msgid "[_gordon_] О да, ты такая горячая.. Молодая рыжеволосая девчонка, черт, ты так похожа на.."
-msgstr "[_gordon_] Oh, sí, eres tan sexy... Joven pelirroja, maldita sea, te pareces mucho a..."
+msgstr "[_gordon_] Oh, sí, eres tan sexy… Joven pelirroja, maldita sea, te pareces mucho a…"
 
 # game/scripts/police_station/police_station.rpy:203 #-#-# translate crowdin gallery_d_067_666da3ee:
 msgid "[_woman_prisoner_] Ааааах.. Н-на кого?"
-msgstr "[_woman_prisoner_] Aaaah.. ¿A-a quién?"
+msgstr "[_woman_prisoner_] Aaaah… ¿A-a quién?"
 
 # game/scripts/police_station/police_station.rpy:204 #-#-# translate crowdin gallery_d_067_83491cf6:
 msgid "[_gordon_] А, впрочем тебе этого знать не стоит.. Просто продолжай.."
-msgstr "[_gordon_] Oh, pero no necesitas saber eso... Sólo continúa..."
+msgstr "[_gordon_] Oh, pero no necesitas saber eso… Sólo continúa…"
 
 # game/scripts/police_station/police_station.rpy:205 #-#-# translate crowdin gallery_d_067_7d6bd053:
 msgid "[_woman_prisoner_] Х-хорошо, папочка.."
-msgstr "[_woman_prisoner_] Está bien, papi..."
+msgstr "[_woman_prisoner_] Está bien, papi…"
 
 # game/scripts/police_station/police_station.rpy:206 #-#-# translate crowdin gallery_d_067_02603164:
 msgid "[_gordon_] Оооо даааа.. Барбара, да!"
-msgstr "[_gordon_] Ohhhhhhh... ¡Bárbara, sí!"
+msgstr "[_gordon_] Ohhhhhhh… ¡Bárbara, sí!"
 
 # game/scripts/police_station/police_station.rpy:207 #-#-# translate crowdin gallery_d_067_22440fde:
 msgid "[_cedrick_] (Какого черта..)"
-msgstr "[_cedrick_] (Qué demonios...)"
+msgstr "[_cedrick_] (Qué demonios…)"
 
 # game/scripts/police_station/police_station.rpy:208 #-#-# translate crowdin gallery_d_067_3949b495:
 msgid "[_cedrick_] (Ну, зато теперь я знаю, что Гордон мне не помешает.. Стоп.. Кажется я понял, какой пароль)"
-msgstr "[_cedrick_] (Bueno, pero ahora sé que Gordon no me molestará... Espera... Creo que entiendo cuál es la contraseña)"
+msgstr "[_cedrick_] (Bueno, pero ahora sé que Gordon no me molestará… Espera… Creo que entiendo cuál es la contraseña)"
 
 # game/scripts/police_station/police_station.rpy:215 #-#-# translate crowdin gallery_d_067_cd56832b:
 msgid "[_cedrick_] (Мне нечего там делать)"
@@ -198,7 +198,7 @@ msgstr "[_cedrick_] (No tengo nada que hacer ahí.)"
 
 # game/scripts/police_station/police_station.rpy:511 #-#-# translate crowdin police_sheff_office_056f5798:
 msgid "[_cedrick_] (Что ж, и наш пароль это..)"
-msgstr "[_cedrick_] (Bueno, nuestra contraseña es...)"
+msgstr "[_cedrick_] (Bueno, nuestra contraseña es…)"
 
 # game/scripts/police_station/police_station.rpy:520 #-#-# translate crowdin police_sheff_office_989212d7:
 msgid "[_cedrick_] (Я на месте. Нужно зайти в компьютер, пока меня не обнаружили)"
@@ -206,15 +206,15 @@ msgstr "[_cedrick_] (Ya estoy allí. Necesito iniciar sesión en la computadora 
 
 # game/scripts/police_station/police_station.rpy:523 #-#-# translate crowdin police_sheff_office_96cf48ee:
 msgid "[_cedrick_] (Черт..)"
-msgstr "[_cedrick_] (Tonterías...)"
+msgstr "[_cedrick_] (Tonterías…)"
 
 # game/scripts/police_station/police_station.rpy:524 #-#-# translate crowdin police_sheff_office_b2c6f693:
 msgid "[_cedrick_] (Ну конечно же он заблокирован, это же главный компьютер в полицейском участке.. Мне нужен пароль..)"
-msgstr "[_cedrick_] (Bueno, por supuesto que está bloqueado, es la computadora principal de la estación de policía... necesito la contraseña...)"
+msgstr "[_cedrick_] (Bueno, por supuesto que está bloqueado, es la computadora principal de la estación de policía… necesito la contraseña…)"
 
 # game/scripts/police_station/police_station.rpy:525 #-#-# translate crowdin police_sheff_office_0e153a3c:
 msgid "[_cedrick_] (Хм.. Может в участке я смогу найти подсказку? Нужно проверить другие комнаты и не попасться полиции в западном и северо-восточном крыле)"
-msgstr "[_cedrick_] (Hmm... ¿Tal vez pueda encontrar una pista en la estación? Necesito revisar otras habitaciones y evitar ser atrapado por la policía en el ala oeste y noreste.)"
+msgstr "[_cedrick_] (Hmm… ¿Tal vez pueda encontrar una pista en la estación? Necesito revisar otras habitaciones y evitar ser atrapado por la policía en el ala oeste y noreste.)"
 
 # game/scripts/police_station/police_station.rpy:530 #-#-# translate crowdin police_sheff_office_9cdcaeb5:
 msgid "[_cedrick_] (Я все еще не знаю пароль, мне нечего там делать)"
@@ -226,19 +226,19 @@ msgstr "system [special_delimiter] Aceptado"
 
 # game/scripts/police_station/police_station.rpy:564 #-#-# translate crowdin police_computer_input_password_be1b8ff2:
 msgid "[_cedrick_] (Старый извращенец.. Ладно, я вошел в систему, теперь нужно найти информацию о Медине)"
-msgstr "[_cedrick_] (Viejo pervertido... Está bien, ya he iniciado sesión, ahora necesito encontrar información sobre Medina.)"
+msgstr "[_cedrick_] (Viejo pervertido… Está bien, ya he iniciado sesión, ahora necesito encontrar información sobre Medina.)"
 
 # game/scripts/police_station/police_station.rpy:573 #-#-# translate crowdin police_computer_input_password_89e4f7e2:
 msgid "system [special_delimiter] Отказано"
-msgstr "system [special_delimiter] Aceptado"
+msgstr "system [special_delimiter] Rechazado"
 
 # game/scripts/police_station/police_station.rpy:574 #-#-# translate crowdin police_computer_input_password_9201bf31:
 msgid "[_cedrick_] Черт.."
-msgstr "[_cedrick_] (Tonterías...)"
+msgstr "[_cedrick_] (Tonterías…)"
 
 # game/scripts/police_station/police_station.rpy:583 #-#-# translate crowdin police_computer_folders_4b6a12e6:
 msgid "[_cedrick_] (Это явно не та папка, что мне нужна..)"
-msgstr "[_cedrick_] (Obviamente no es la carpeta que quiero...)"
+msgstr "[_cedrick_] (Obviamente no es la carpeta que quiero…)"
 
 # §translate crowdin strings: #|#|# # game/scripts/police_station/police_station.rpy:112
 msgid "Нейтрализовать Сержанта"
