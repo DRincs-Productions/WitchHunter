@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:04\n"
+"PO-Revision-Date: 2026-07-22 15:39\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:5 #-#-# translate crowdin get_members_for_newspaper_club_7dd13b6d:
 msgid "[_elion_] Похоже школьная газета теперь выпускает полный отстой"
@@ -34,7 +34,7 @@ msgstr "[_tarani_] Y qué fotos, mirad como le quitaron el moño!"
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:10 #-#-# translate crowdin get_members_for_newspaper_club_0c0bb56b:
 msgid "[_cornelia_]  Кстати о фото, как я вам на них?"
-msgstr "[_cornelia_] Hablando de fotos, ¿cómo te gusta que aparezca en ellas?"
+msgstr "[_cornelia_] Por cierto, hablando de las fotos, ¿cómo salgo en ellas?"
 
 # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:11 #-#-# translate crowdin get_members_for_newspaper_club_7b295b08:
 msgid "[_elion_] Корни, тебя там нет..."
