@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:21\n"
+"PO-Revision-Date: 2026-07-22 21:15\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestTarani.rpy:3
 msgid "Тарани Кук"
@@ -18,7 +18,7 @@ msgstr "Conoce a Taranee"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Провести первый урок"
-msgstr "Realizar la primera lección"
+msgstr "Dar la primera lección"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Провести урок и проверить контрольную работу занизив оценку Тарани"
@@ -38,7 +38,7 @@ msgstr "Habla con Taranee después de clase"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Провести очередной урок"
-msgstr "Realizar otra lección"
+msgstr "Dar otra lección"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Распросить о Тарани в школьном клубе журналистике"
@@ -62,15 +62,15 @@ msgstr "Consigue una cámara para Blunk"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Узнать у миранды где достать Ноздрю дракона"
-msgstr "Pregúntale a Miranda dónde conseguir el Dragón Nostril"
+msgstr "Pregúntale a Miranda dónde conseguir la fosa nasal de dragón"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Добыть клык Ларвека Миранде в обмен на Ноздрю дракона"
-msgstr "Consigue un colmillo de Larvek para Miranda a cambio del Dragón Nostril"
+msgstr "Consigue un colmillo de Larvek para Miranda a cambio de la fosa nasal de dragón"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Отдать Бланку Ноздрю дракона и фотоаппарат"
-msgstr "Dale a Blunck el Dragón Nostril y la cámara"
+msgstr "Entrégale a Blunk la fosa nasal de dragón y la cámara"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Дождаться когда Бланк сделает фотографии Найджела и забрать их"
@@ -82,7 +82,7 @@ msgstr "Chantajear a Taranee con las fotos de Nigel"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Попросить Тарани сделать нам приятное после урока"
-msgstr "Pedirle a Tarane que te haga sentir bien después de clase"
+msgstr "Pídele a Taranee que te haga sentir bien después de clase"
 
 # game/scripts/core/quests/QuestTarani.rpy:41
 msgid "Попросить Тарани поработать ртом"
