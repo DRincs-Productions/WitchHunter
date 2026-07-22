@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:04\n"
+"PO-Revision-Date: 2026-07-22 21:19\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:8 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_ee0ae87e:
 msgid "[_YanLin_] Добро пожаловать в ресторан азиатской кухни Серебряный дракон! Ах, это вы! Решили снова нас посетить?"
@@ -18,15 +18,15 @@ msgstr "[_YanLin_] ¡Bienvenido al restaurante asiático Silver Dragon! ¡Ah, er
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:9 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_428c446a:
 msgid "[_cedrick_] Ну да... А Хай Лин здесь?"
-msgstr "[_cedrick_] Correcto... ¿Está Hay Lin aquí?"
+msgstr "[_cedrick_] Correcto… ¿Está Hay Lin aquí?"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:10 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_b89e74b9:
 msgid "[_YanLin_] Хо-хо-хо! Вам понравилась моя внучка? Она о вас тоже очень хорошего мнения..."
-msgstr "[_YanLin_] ¡Ho-ho-ho! ¿Te gustó mi nieta? Ella piensa muy bien de ti también..."
+msgstr "[_YanLin_] ¡Ho-ho-ho! ¿Te gustó mi nieta? Ella piensa muy bien de ti también…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:11 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_af4a9031:
 msgid "[_YanLin_] Она уже закончила свою смену, так что вас обслужит Калеб... Как только он освободится..."
-msgstr "[_YanLin_] Ella ya terminó su turno, así que serás atendido por Caleb... Tan pronto como se desocupe..."
+msgstr "[_YanLin_] Ella ya terminó su turno, así que serás atendido por Caleb… Tan pronto como se desocupe…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:16 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_0d9cbd99:
 msgid "[_chenlin_] Так поздно? Ты еще маленькая девочка!"
@@ -58,15 +58,15 @@ msgstr "[_chenlin_] ¡Cuando vivas en tu propia casa, podrás salir todo lo que 
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:38 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_018ba33a:
 msgid "[_johnlin_] Правильно отец говорит, сейчас время небезопасное, по новостям показывали, что уже несколько людей пропало..."
-msgstr "[_johnlin_] Tu padre tiene razón, no es un momento seguro, mostraron en las noticias que varias personas ya han desaparecido..."
+msgstr "[_johnlin_] Tu padre tiene razón, no es un momento seguro, mostraron en las noticias que varias personas ya han desaparecido…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:42 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_497fdf48:
 msgid "[_haylin_] Рррррр!!!"
-msgstr "[_haylin_] ¡¡¡Rrrrr!!!"
+msgstr "[_haylin_] ¡Rrrrr!!!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:46 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_72bb880a:
 msgid "[_cedrick_] Извините, я случайно услышал ваш разговор... Я бы мог мог сходить с Хай Лин, если вы боитесь отпускать ее одну..."
-msgstr "[_cedrick_] Lo siento, escuché su conversación por accidente... Podría ir con Hay Lin si tienen miedo de dejarla ir sola..."
+msgstr "[_cedrick_] Lo siento, escuché su conversación por accidente… Podría ir con Hay Lin si tienen miedo de dejarla ir sola…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:50 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_f14624c6:
 msgid "[_haylin_] Рик?"
@@ -78,7 +78,7 @@ msgstr "[_johnlin_] Perdona, ¿quién eres tú? ¿Y por qué estás espiando con
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:58 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_521b8cd6:
 msgid "[_haylin_] Это наш новый школьный учитель истории..."
-msgstr "[_haylin_] Este es nuestro nuevo profesor de historia de la escuela..."
+msgstr "[_haylin_] Este es nuestro nuevo profesor de historia de la escuela…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:62 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_2eaeef1f:
 msgid "[_cedrick_] Рик Хоффман"
@@ -86,11 +86,11 @@ msgstr "[_cedrick_] Rick Hoffman"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:66 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_a79621fb:
 msgid "[_chenlin_] Чэнь Лин, очень приятно... А это моя жена Джоан лин"
-msgstr "[_chenlin_] Chen Lin, un placer... Y esta es mi esposa Joan Lin"
+msgstr "[_chenlin_] Chen Lin, un placer… Y esta es mi esposa Joan Lin"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:70 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_b3cb7b93:
 msgid "[_johnlin_] Хай Лин, а ты уверена в порядочности этого человека? Он выглядит довольно молодо для учителя..."
-msgstr "[_johnlin_] Hay Lin, ¿estás segura de la integridad de este hombre? Parece muy joven para ser profesor..."
+msgstr "[_johnlin_] Hay Lin, ¿estás segura de la integridad de este hombre? Parece muy joven para ser profesor…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:74 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_74d7cbf0:
 msgid "[_haylin_] Ну ма-а-ам! Конечно! Рик хороший человек"
@@ -98,11 +98,11 @@ msgstr "[_haylin_] ¡Sí señora! ¡Por supuesto! Rick es un buen hombre"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:79 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_92672ea1:
 msgid "[_johnlin_] Хорошо... Но скажите, зачем вам эта возня? Как-то не очень складывается в голове..."
-msgstr "[_johnlin_] Bien... Pero dime, ¿por qué estás tomando tantas molestias? Realmente no le encuentro sentido..."
+msgstr "[_johnlin_] Bien… Pero dime, ¿por qué estás tomando tantas molestias? Realmente no le encuentro sentido…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:80 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_c4bd1933:
 msgid "[_cedrick_] Да мне не сложно, я и сам собирался сходить на эту... премьеру..."
-msgstr "[_cedrick_] No me importa, planeaba ir a ese... estreno..."
+msgstr "[_cedrick_] No me importa, planeaba ir a ese… estreno…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:84 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_48d50106:
 msgid "[_haylin_] Правда? Не знала, что вам такое нравится!"
@@ -110,11 +110,11 @@ msgstr "[_haylin_] ¿De verdad? ¡No sabía que te gustaran ese tipo de cosas!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:88 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_b273aa13:
 msgid "[_johnlin_] Хм..."
-msgstr "[_johnlin_] Hmmm..."
+msgstr "[_johnlin_] Hmmm…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:92 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_5ad4956c:
 msgid "[_chenlin_] Ну, в таком случае... Почему бы и нет."
-msgstr "[_chenlin_] Bueno, en ese caso... por qué no."
+msgstr "[_chenlin_] Bueno, en ese caso… por qué no."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:96 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_173b157e:
 msgid "[_chenlin_] Но Хай Лин должна быть дома не позже полуночи, вам ясно!?"
@@ -126,19 +126,19 @@ msgstr "[_haylin_] ¡Muy bien!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:105 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_07762899:
 msgid "[_cedrick_] Не волнуйтесь, я прослежу, чтобы она вернулась домой вовремя... Вы можете положиться на меня..."
-msgstr "[_cedrick_] No te preocupes, me aseguraré de que llegue a casa a tiempo... Puedes confiar en mí..."
+msgstr "[_cedrick_] No te preocupes, me aseguraré de que llegue a casa a tiempo… Puedes confiar en mí…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:109 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_084b6399:
 msgid "[_johnlin_] Надеемся на это..."
-msgstr "[_johnlin_] Eso esperamos..."
+msgstr "[_johnlin_] Eso esperamos…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:111 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_0f2837e4:
 msgid "[_chenlin_] Ну, нам нужно вернуться на кухню... У нас еще есть несколько заказов..."
-msgstr "[_chenlin_] Bueno, tenemos que volver a la cocina... Todavía tenemos algunos pedidos más..."
+msgstr "[_chenlin_] Bueno, tenemos que volver a la cocina… Todavía tenemos algunos pedidos más…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:112 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_c502864c:
 msgid "[_cedrick_] Был рад с вами познакомится..."
-msgstr "[_cedrick_] Fue un placer conocerlos..."
+msgstr "[_cedrick_] Fue un placer conocerlos…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:113 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_a20cefa7:
 msgid "..."
@@ -150,7 +150,7 @@ msgstr "[_haylin_] ¡Gracias, Rick! ¡Podría haberme perdido un estreno tan ENO
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:124 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_879001da:
 msgid "[_haylin_] Фильм скоро начнется! Я сейчас быстренько соберусь..."
-msgstr "[_haylin_] ¡La película está a punto de empezar! Voy a prepararme rápidamente..."
+msgstr "[_haylin_] ¡La película está a punto de empezar! Voy a prepararme rápidamente…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:126 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_780d435c:
 msgid "Спустя несколько минут"
@@ -166,23 +166,23 @@ msgstr "Después de un rato, fuera del cine"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:138 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_6e1bf4ca:
 msgid "[_haylin_] Какая очередь... Девочки должны быть уже в холле..."
-msgstr "[_haylin_] Qué cola... Las chicas ya deberían estar en el pasillo..."
+msgstr "[_haylin_] Qué cola… Las chicas ya deberían estar en el pasillo…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:139 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_e15801d3:
 msgid "[_cedrick_] Я могу не идти с тобой, если ты не хочешь.. По правде говоря, я не такой большой фанат всего этого... Я даже не могу вспомнить, когда я в последний раз смотрел кино... Я просто сказал это перед твоими родителями, чтобы тебя отпустили..."
-msgstr "[_cedrick_] No tengo que ir contigo si no quieres. A decir verdad, no soy muy fan de todo esto... Ni siquiera recuerdo la última vez que vi una película... Solo dije eso delante de tus padres para que te dejaran ir..."
+msgstr "[_cedrick_] No tengo que ir contigo si no quieres. A decir verdad, no soy muy fan de todo esto… Ni siquiera recuerdo la última vez que vi una película… Solo dije eso delante de tus padres para que te dejaran ir…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:140 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_e394b318:
 msgid "[_cedrick_] Да и наверняка твои подруги будут не особо рады тому, что ты приведешь учителя..."
-msgstr "[_cedrick_] Y seguro que a tus amigas no les hará mucha gracia que lleves a un profesor..."
+msgstr "[_cedrick_] Y seguro que a tus amigas no les hará mucha gracia que lleves a un profesor…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:141 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_58f9db8a:
 msgid "[_haylin_] Нет, ты что! Пойдем скорее, они не будут против... Тебе должно понравится!"
-msgstr "[_haylin_] ¡No! Ven rápido, no les importará... ¡Te gustará!"
+msgstr "[_haylin_] ¡No! Ven rápido, no les importará… ¡Te gustará!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:142 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_63c35754:
 msgid "[_cedrick_] Ну, если ты так говоришь..."
-msgstr "[_cedrick_] Bueno, si tú lo dices..."
+msgstr "[_cedrick_] Bueno, si tú lo dices…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:145 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_1b43d2d1:
 msgid "Отстояв огромную очередь, вы попадаете в холл кинотеатра. Вы купили билеты и наткнулись на подруг Хай Лин"
@@ -194,15 +194,15 @@ msgstr "[_cedrick_] Hola, chicas"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:150 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_50990df5:
 msgid "[_will_] Рик..?"
-msgstr "[_will_] ¿Rick..?"
+msgstr "[_will_] ¿Rick…?"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:154 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_57b0b579:
 msgid "[_tarani_] Ты привела школьного учителя..?"
-msgstr "[_tarani_] ¿Trajiste al profesor..?"
+msgstr "[_tarani_] ¿Trajiste al profesor…?"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:158 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_bd5e4b5f:
 msgid "[_cornelia_] Ты чего так долго..?"
-msgstr "[_cornelia_] ¿Por qué tardaste tanto..?"
+msgstr "[_cornelia_] ¿Por qué tardaste tanto…?"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:159 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_f0d5eefc:
 msgid "[_haylin_] Мои родители не хотели меня отпускать, но Рик смог вовремя меня выручить!"
@@ -210,7 +210,7 @@ msgstr "[_haylin_] Mis padres no querían dejarme venir, ¡pero Rick pudo sacarm
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:163 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_268f62b8:
 msgid "[_irma_] Ну ладно... Пойдем скорее! Мы можем опоздать на начало сеанса!"
-msgstr "[_irma_] Muy bien... ¡Vamos rápido! ¡Podríamos llegar tarde al inicio de la función!"
+msgstr "[_irma_] Muy bien… ¡Vamos rápido! ¡Podríamos llegar tarde al inicio de la función!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:165 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_a20cefa7_1:
 msgid "..."
@@ -218,7 +218,7 @@ msgstr "..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:167 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_98f84176:
 msgid "[_tarani_] ..."
-msgstr "[_tarani_] ..."
+msgstr "[_tarani_] …"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:168 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_547aca53:
 msgid "[_haylin_] Тихо! Сейчас начнется!"
@@ -226,11 +226,11 @@ msgstr "[_haylin_] ¡Silencio! ¡Está a punto de empezar!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:169 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_5f9b772e:
 msgid "...."
-msgstr "...."
+msgstr "…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:171 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_5eff4b3c:
 msgid "Мир изменился... И я чувствую это в воде, чувствую это в земле, ощущаю в воздухе... Многое из того, что было — ушло... И не осталось тех, кто помнит об этом..."
-msgstr "El mundo ha cambiado... Y puedo sentirlo en el agua, sentirlo en la tierra, sentirlo en el aire... Mucho de lo que solía ser ha desaparecido... Y no queda nadie para recordarlo..."
+msgstr "El mundo ha cambiado… Y puedo sentirlo en el agua, sentirlo en la tierra, sentirlo en el aire… Mucho de lo que solía ser ha desaparecido… Y no queda nadie para recordarlo…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:177 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_a20cefa7_2:
 msgid "..."
@@ -238,15 +238,15 @@ msgstr "..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:178 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_07bdde05:
 msgid "....."
-msgstr "....."
+msgstr "…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:181 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_4cd79cd3:
 msgid "[_haylin_] Ри-и-ик! Вставааааай..."
-msgstr "[_haylin_] ¡Ri-Y-yo-ic! Despierta..."
+msgstr "[_haylin_] ¡Ri-Y-yo-ic! Despierta…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:185 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_3c086469:
 msgid "[_cedrick_] Ох, кажется я малость задремал..."
-msgstr "[_cedrick_] Oh, creo que me quede dormido..."
+msgstr "[_cedrick_] Oh, creo que me quede dormido…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:189 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_67b17661:
 msgid "[_haylin_] Задремал? Ха-ха-ха!"
@@ -254,7 +254,7 @@ msgstr "[_haylin_] ¿Dormido? ¡Ja, ja, ja!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:193 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_f8265fed:
 msgid "[_haylin_] Все уже ушли..."
-msgstr "[_haylin_] Ya se fueron todos..."
+msgstr "[_haylin_] Ya se fueron todos…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:197 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_a52575b4:
 msgid "[_cedrick_] Как кино?"
@@ -266,15 +266,15 @@ msgstr "[_haylin_] Fue la mejor película que he visto. ¡Johnny Depp estuvo inc
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:202 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_3d700fc7:
 msgid "[_cedrick_] Извини... Видимо кино — это не мое..."
-msgstr "[_cedrick_] Lo siento... Aparentemente el cine no es lo mío..."
+msgstr "[_cedrick_] Lo siento… Aparentemente el cine no es lo mío…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:207 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_e642ba44:
 msgid "[_haylin_] Тебе не нужно извиняться... Если бы не ты, то я бы сидела дома, а не здесь..."
-msgstr "[_haylin_] No necesitas disculparte... Si no fuera por ti, estaría sentado en casa en vez de aquí..."
+msgstr "[_haylin_] No necesitas disculparte… Si no fuera por ti, estaría sentado en casa en vez de aquí…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:208 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_5f17434a:
 msgid "[_cedrick_] Ну, думаю пора отвести тебя домой..."
-msgstr "[_cedrick_] Bueno, creo que es hora de llevarte a casa..."
+msgstr "[_cedrick_] Bueno, creo que es hora de llevarte a casa…"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:210 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_96483234:
 msgid "Отведя Хай Лин домой, седрик возвращается в книжный магазин"
