@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:04\n"
+"PO-Revision-Date: 2026-07-22 15:39\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:5 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d54f4eca:
 msgid "[_cedrick_] Элион, ты ведь не отправляешься школьную поездку?"
@@ -358,7 +358,7 @@ msgstr "[_cedrick_] El baño de mujeres está detrás del otro tabique."
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:254 #-#-# translate crowdin gallery_d_029_ab74fcb9:
 msgid "[_sondra_] Охх, я такая невнимательная.. Мне так тяжело дается ваш сложный язык. Должно быть, я перепутала.."
-msgstr "[_sondra_] Ohh, soy tan desatenta. Me cuesta mucho entender tu complicado lenguaje. Debo estar confundida.."
+msgstr "[_sondra_] Ohh, soy muy distraída... Me cuesta mucho su complicado idioma. Debo haberme confundido..."
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:255 #-#-# translate crowdin gallery_d_029_274947f2:
 msgid "[_sondra_] Но, раз я уже здесь..."
@@ -958,7 +958,7 @@ msgstr "[_will_] Estás... No tienes ropa interior..."
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:546 #-#-# translate crowdin gallery_d_030_98525f60:
 msgid "[_will_] И у тебя... Я вижу твой... Твою штуку."
-msgstr "[_will_] Esto... Puedo ver tu... Tu cosa."
+msgstr "[_will_] Y tú... Puedo ver tu... tu cosa."
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:547 #-#-# translate crowdin gallery_d_030_bd656b4b:
 msgid "[_will_] (Черт, теперь я точно знаю, что мама в нем нашла.)"
