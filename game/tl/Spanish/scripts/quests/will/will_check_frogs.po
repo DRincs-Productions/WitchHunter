@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:07\n"
+"PO-Revision-Date: 2026-07-22 21:22\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_check_frogs.rpy:13 #-#-# translate crowdin will_check_frogs_7fd3ab08:
 msgid "[_will_] Привет, Рик, верно?"
@@ -22,7 +22,7 @@ msgstr "[_cedrick_sprite_] ¿Sí?"
 
 # game/scripts/quests/will/will_check_frogs.rpy:20 #-#-# translate crowdin will_check_frogs_48044e8b:
 msgid "[_will_] Послушай, в прошлый раз я заметила что у вас помимо книг продаются различные коллекционные игрушки, и подумала..."
-msgstr "[_will_] Mira, la última vez me di cuenta de que vendías varios juguetes de colección además de libros, y pensé..."
+msgstr "[_will_] Mira, la última vez me di cuenta de que vendías varios juguetes de colección además de libros, y pensé…"
 
 # game/scripts/quests/will/will_check_frogs.rpy:26 #-#-# translate crowdin will_check_frogs_dc1b4173:
 msgid "[_will_] У вас случайно нет коллекционной лягушки из Cut the Rope?"
@@ -34,7 +34,7 @@ msgstr "[_cedrick_sprite_] ¿Cortar la cuerda?"
 
 # game/scripts/quests/will/will_check_frogs.rpy:28 #-#-# translate crowdin will_check_frogs_4f5f384a:
 msgid "[_will_] Ну как бы объяснить, это популярная мобильная игра"
-msgstr "[_will_] ¿Cómo explicarlo?, es un popular juego para móviles"
+msgstr "[_will_] ¿Cómo explicarlo? Es un popular juego para móviles"
 
 # game/scripts/quests/will/will_check_frogs.rpy:29 #-#-# translate crowdin will_check_frogs_324e887b:
 msgid "[_cedrick_sprite_] Понятно, но боюсь что у нас нет в наличии подобных игрушек"
@@ -46,7 +46,7 @@ msgstr "[_will_] Lástima que no estén disponibles en ninguna parte de nuestra 
 
 # game/scripts/quests/will/will_check_frogs.rpy:36 #-#-# translate crowdin will_check_frogs_6977534a:
 msgid "[_will_] И почему мы переехали в такое захолустье.."
-msgstr "[_will_] ¿Por qué nos mudamos a un lugar tan atrasado?.."
+msgstr "[_will_] ¿Por qué nos mudamos a un lugar tan atrasado?…"
 
 # game/scripts/quests/will/will_check_frogs.rpy:37 #-#-# translate crowdin will_check_frogs_d821f42d:
 msgid "[_cedrick_sprite_] Кстати говоря, я как раз планировал расширять ассортимент магазина и раз она так популярна, то почему бы не заказать"
@@ -66,7 +66,7 @@ msgstr "[_will_] Gracias, pero será mejor que venga yo, la librería está de c
 
 # game/scripts/quests/will/will_check_frogs.rpy:51 #-#-# translate crowdin will_check_frogs_510c9b12:
 msgid "[_cedrick_sprite_] (... Жаль неплохо было бы узнать где она живет..)"
-msgstr "[_cedrick_sprite_] (... Lástima, sería bueno saber dónde vive...)"
+msgstr "[_cedrick_sprite_] (… Lástima, sería bueno saber dónde vive…)"
 
 # game/scripts/quests/will/will_check_frogs.rpy:52 #-#-# translate crowdin will_check_frogs_a120d588:
 msgid "[_cedrick_sprite_] Хорошо, думаю они придут в течении недели"
@@ -78,5 +78,5 @@ msgstr "[_will_] Gracias de nuevo, bueno, me voy"
 
 # game/scripts/quests/will/will_check_frogs.rpy:54 #-#-# translate crowdin will_check_frogs_9473ab28:
 msgid "[_cedrick_sprite_] (... Мне нужен телефон чтобы сделать заказ)"
-msgstr "[_cedrick_sprite_] (... Necesito el teléfono para hacer el pedido)"
+msgstr "[_cedrick_sprite_] (… Necesito el teléfono para hacer el pedido)"
 
