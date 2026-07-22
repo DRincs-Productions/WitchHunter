@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:08\n"
+"PO-Revision-Date: 2026-07-22 15:41\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/sell_books_game/sell_books_labels.rpy:39 #-#-# translate crowdin sell_books_new_customer_b19a31e4:
 msgid "[_customer_] Здравствуйте, а у вас есть {color=#8fe3ff}[book_name]{/color}?"
@@ -158,7 +158,7 @@ msgstr "Sus ingresos $[profit]"
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:309 #-#-# translate crowdin sell_books_finish_1c485c2e:
 msgid "Вы приобрели новые книги из тех что проданы или пропали, в количестве: \"[restored_books_length]\""
-msgstr "Compraste libros nuevos de aquellos que se vendieron o desaparecieron, por la cantidad: \"[restored_books_length]\""
+msgstr "Has comprado [restored_books_length] libros nuevos para reponer los vendidos o desaparecidos."
 
 # game/scripts/sell_books_game/sell_books_labels.rpy:310 #-#-# translate crowdin sell_books_finish_9b87f17a:
 msgid "На новые книги было потрачено [restored_books_cost] $"
