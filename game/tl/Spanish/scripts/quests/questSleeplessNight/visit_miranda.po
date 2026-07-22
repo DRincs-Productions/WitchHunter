@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:08\n"
+"PO-Revision-Date: 2026-07-22 21:23\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:7 #-#-# translate crowdin visit_miranda_5ce6eb98:
 msgid "[_miranda_] Седрик, а вот и ты. Я как раз хотела сообщить тебе пару новостей"
@@ -22,11 +22,11 @@ msgstr "[_cedrick_] ¿Qué pasa, Miranda? ¿Fobos otra vez?"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:15 #-#-# translate crowdin visit_miranda_5d85246a:
 msgid "[_miranda_] Нет, он как раз таки сейчас спокоен. Видимо пребывание стражниц на Меридиане все же осталось для него незамеченным"
-msgstr "[_miranda_] Es no, es solo calma ahora mismo. Al parecer, la estancia de los guardianas en el meridiano seguía siendo desapercibida para él"
+msgstr "[_miranda_] No, ahora mismo está tranquilo. Al parecer no se dio cuenta de que las Guardianas estaban en Meridian."
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:19 #-#-# translate crowdin visit_miranda_5149d71e:
 msgid "[_cedrick_] Отлично. Тогда в чем дело?"
-msgstr "[_cedrick_] es genial. ¿Entonces cuál es el asunto?"
+msgstr "[_cedrick_] Perfecto. Entonces, ¿qué ocurre?"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:23 #-#-# translate crowdin visit_miranda_1ee94613:
 msgid "[_miranda_] Охотник. Тот, кого Фобос послал найти новую базу Повстанцев и найти беглеца Райтера. Я слышала он делает успехи"
@@ -38,19 +38,19 @@ msgstr "[_cedrick_] ¿En qué sentido?"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:31 #-#-# translate crowdin visit_miranda_4d7feb93:
 msgid "[_miranda_] Несколько промежуточных баз повстанцев он уже разгромил. В одиночку"
-msgstr "[_miranda_] Unas pocas bases intermedias de los rebeldes ya han destruido. ¿Solo"
+msgstr "[_miranda_] Ya destruyó varias bases intermedias de los rebeldes. Él solo."
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:35 #-#-# translate crowdin visit_miranda_db18798e:
 msgid "[_cedrick_] Черт... Нельзя дать ему разгромить повстанцев. И тем более найти Райтера. Ведь после этого он возьмется за стражниц. А они не готовы..."
-msgstr "[_cedrick_] Maldición... No se puede permitir que derrote a los rebeldes. Y aún más para encontrar a Reiter. Después de eso, se casará con los guardianas. Y no están listos..."
+msgstr "[_cedrick_] Maldición… No se puede permitir que derrote a los rebeldes. Y aún más para encontrar a Reiter. Después de eso, se casará con las Guardianas. Y no están listos…"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:36 #-#-# translate crowdin visit_miranda_2d54a087:
 msgid "[_cedrick_] Хм, кстати об этом. Пожалуй внесу уровень их общей подготовки в блокнот, чтобы отслеживать прогресс."
-msgstr "[_cedrick_] Hmm, por cierto. Probablemente contribuiré al nivel de su preparación general en el cuaderno para monitorear el progreso."
+msgstr "[_cedrick_] (Mmm, a propósito. Creo que anotaré en el cuaderno el nivel general de su entrenamiento para seguir sus progresos.)"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:40 #-#-# translate crowdin visit_miranda_93c4add6:
 msgid "[_cedrick_] Хм... Если подумать... Сейчас уровень сил Стражниц можно оценить в 1/10 от того уровня, что им необходим для победы над Фобосом"
-msgstr "[_cedrick_] Hmm... Si piensas en ello... Ahora el nivel de las fuerzas de los guardianas se puede estimar en 1/10 del nivel que necesitan para derrotar a Fobos"
+msgstr "[_cedrick_] Hmm… Si piensas en ello… Ahora el nivel de las fuerzas de las Guardianas se puede estimar en 1/10 del nivel que necesitan para derrotar a Fobos"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:45 #-#-# translate crowdin visit_miranda_af8deee8:
 msgid "[_miranda_] О, теперь ты ведешь записи их прогресса?"
@@ -62,19 +62,19 @@ msgstr "[_cedrick_] Sí, ahora necesito tener en cuenta el hecho de que son mis 
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:53 #-#-# translate crowdin visit_miranda_1b74cc76:
 msgid "[_miranda_] Хах, надо же"
-msgstr "[_miranda_] Hah, bueno"
+msgstr "[_miranda_] Ja, bueno"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:57 #-#-# translate crowdin visit_miranda_51f2c269:
 msgid "[_miranda_] К слову об этом, Седрик. Возможно мои слова сейчас прозвучат очень некстати, но..."
-msgstr "[_miranda_] Hablando de esto, Cedric. Tal vez mis palabras sean muy inapropiadas ahora, pero..."
+msgstr "[_miranda_] Hablando de esto, Cedric. Tal vez mis palabras sean muy inapropiadas ahora, pero…"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:61 #-#-# translate crowdin visit_miranda_9f59a467:
 msgid "[_cedrick_] Но... Что?"
-msgstr "[_cedrick_] Pero... ¿Qué? ¿Qué?"
+msgstr "[_cedrick_] Pero… ¿Qué? ¿Qué?"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:65 #-#-# translate crowdin visit_miranda_b8b4fbb5:
 msgid "[_miranda_] Ты неважно выглядишь... Мне кажется тебе нужен небольшой отдых. Ты хорошо поработал со стражницами, но не изводи себя"
-msgstr "[_miranda_] No te ves bien... Creo que necesitas descansar un poco. Hiciste un buen trabajo con los guardianas, pero no te acoses"
+msgstr "[_miranda_] No te ves bien… Creo que necesitas descansar un poco. Hiciste un buen trabajo con las Guardianas, pero no te acoses"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:69 #-#-# translate crowdin visit_miranda_fcfcb1b4:
 msgid "[_cedrick_] Серьезно? Отдыхать, пока Охотник наступает нам на пятки?"
@@ -82,7 +82,7 @@ msgstr "[_cedrick_] ¿En serio? ¿Descansar mientras el Cazador nos pisa los tal
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:73 #-#-# translate crowdin visit_miranda_42614f1d:
 msgid "[_miranda_] Один день не станет катастрофой. К тому же, Седрик, сила короля морпионов не дает лишь плюсы плюсы, есть и побочные эффекты"
-msgstr "[_miranda_] Un día no será un desastre. Además, Cedric, la fuerza del rey de los independentistas no solo da ventajas, hay efectos secundarios"
+msgstr "[_miranda_] Un día no será una catástrofe. Además, Cedric, el poder del Rey de los Morpiones no solo aporta ventajas; también tiene efectos secundarios."
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:77 #-#-# translate crowdin visit_miranda_33f64a44:
 msgid "[_miranda_] Чем слабее ты ментально, тем сложнее тебе контролировать свою силу монстра"
@@ -94,7 +94,7 @@ msgstr "[_miranda_] En el pasado, esto no te ha sucedido en el pasado, pero ahor
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:82 #-#-# translate crowdin visit_miranda_49316299:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:86 #-#-# translate crowdin visit_miranda_03339204:
 msgid "[_miranda_] Когда ты последний раз вообще нормально спал?"
@@ -102,7 +102,7 @@ msgstr "[_miranda_] ¿Cuándo fue la última vez que dormiste normalmente?"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:90 #-#-# translate crowdin visit_miranda_49316299_1:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:91 #-#-# translate crowdin visit_miranda_6ff9f90c:
 msgid "[_cedrick_] Вчера в спальном мешке"
@@ -126,11 +126,11 @@ msgstr "[_miranda_] ¿Will? ¿Esa pequeña perra?"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:111 #-#-# translate crowdin visit_miranda_3fc9066e:
 msgid "[_cedrick_] Хах, она теперь наш союзник, Миранда. К тому же у них есть нормальная кровать"
-msgstr "[_cedrick_] Hah, ahora es nuestra aliada, Miranda. Además, tienen una cama normal"
+msgstr "[_cedrick_] Ja, ahora es nuestra aliada, Miranda. Además, tienen una cama normal"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:115 #-#-# translate crowdin visit_miranda_10242dc1:
 msgid "[_miranda_] ..."
-msgstr "[_miranda_] ..."
+msgstr "[_miranda_] …"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:119 #-#-# translate crowdin visit_miranda_9154be05:
 msgid "[_miranda_] Ладно, думаю тебе не повредит провести день-другой в спокойном человеческом обществе"
@@ -146,11 +146,11 @@ msgstr "[_miranda_] No te lastimes. Sabes que estoy celoso"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:131 #-#-# translate crowdin visit_miranda_10242dc1_1:
 msgid "[_miranda_] ..."
-msgstr "[_miranda_] ..."
+msgstr "[_miranda_] …"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:135 #-#-# translate crowdin visit_miranda_ae22afb7:
 msgid "[_cedrick_] Хах, можешь не переживать. Что ж, я пойду"
-msgstr "[_cedrick_] Hah, no tienes que preocuparte. Bueno, yo me voy"
+msgstr "[_cedrick_] Ja, no tienes que preocuparte. Bueno, yo me voy"
 
 # game/scripts/quests/questSleeplessNight/visit_miranda.rpy:139 #-#-# translate crowdin visit_miranda_a8a61ac8:
 msgid "[_miranda_] Удачи, Седрик"
