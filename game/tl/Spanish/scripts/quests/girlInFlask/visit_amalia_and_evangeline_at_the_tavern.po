@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-26 10:55\n"
+"PO-Revision-Date: 2026-07-22 14:03\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:4 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_bf69d8dd:
 msgid "Седрик подходит к двери комнаты и слышит разговор на повышенных тонах"
@@ -206,7 +206,7 @@ msgstr "[_cedrick_] En vano. Es en vano"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:144 #-#-# translate crowdin gallery_d_026_b9b685bd:
 msgid "[_evangelin_] Когда ты уже кончишь!"
-msgstr "[_evangelin_] ¡Cuándo vas a terminar!"
+msgstr "[_evangelin_] ¿Cuándo vas a correrte?"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:146 #-#-# translate crowdin gallery_d_026_7258fdde:
 msgid "Евангелина ускоряется"
