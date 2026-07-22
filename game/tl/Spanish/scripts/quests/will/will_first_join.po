@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-21 05:49\n"
+"PO-Revision-Date: 2026-07-22 14:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_first_join.rpy:10 #-#-# translate crowdin will_first_join_e5ef2ecb:
 msgid "[_girl_] ..."
@@ -114,7 +114,7 @@ msgstr "[_cedrick_sprite_] ¿Cómo es posible que necesites libros de texto en m
 
 # game/scripts/quests/will/will_first_join.rpy:103 #-#-# translate crowdin will_first_join_f1a4763c:
 msgid "[_will_] А... Дело в том, что я недавно сюда переехала, и мне пришлось сменить школу"
-msgstr "[_will_] А... El caso es que hace poco me mudé aquí y tuve que cambiar de escuela"
+msgstr "[_will_] A... La cosa es que hace poco me mudé aquí, y tuve que cambiar la escuela"
 
 # game/scripts/quests/will/will_first_join.rpy:104 #-#-# translate crowdin will_first_join_2201f81b:
 msgid "[_will_] Это все из-за маминой работы"
@@ -202,5 +202,5 @@ msgstr "[_cedrick_sprite_] (Así que hace un mes se mudó a esta ciudad e inmedi
 
 # game/scripts/quests/will/will_first_join.rpy:176 #-#-# translate crowdin will_first_join_11d7c7d1:
 msgid "[_cedrick_sprite_] (И помимо этого хранительница Сердца Кондракара и стражницы земли знакомы с Наследницей престола, интересно, знают ли они кем она является на самом деле?)"
-msgstr "[_cedrick_sprite_] (Y encima el guardián del Corazón de Kandrakar y los guardianes de la tierra conocen a la Heredera al trono, me pregunto si sabrán quién es en realidad)"
+msgstr "[_cedrick_sprite_] (Y encima el guardián del Corazón de Kandrakar y los guardianas de la tierra conocen a la Heredera al trono, me pregunto si sabrán quién es en realidad)"
 
