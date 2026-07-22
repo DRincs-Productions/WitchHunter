@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:17\n"
+"PO-Revision-Date: 2026-07-22 14:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/thomas_comes.rpy:14 #-#-# translate crowdin thomas_comes_9d746d5e:
 msgid "*звук двери*"
@@ -98,7 +98,7 @@ msgstr "[_cedrick_] ¿Qué tal una cantidad simbólica de dinero, digamos $10?"
 
 # game/scripts/quests/will/thomas_comes.rpy:68 #-#-# translate crowdin thomas_comes_6ad2da09:
 msgid "[_tomas_] Я.. Ладно только один раз..."
-msgstr "[_tomas_] Я.. Bien, solo esta vez..."
+msgstr "[_tomas_] Yo... Muy bien solo una vez..."
 
 # game/scripts/quests/will/thomas_comes.rpy:73 #-#-# translate crowdin thomas_comes_62b1660e:
 msgid "*спустя еще несколько минут*"
