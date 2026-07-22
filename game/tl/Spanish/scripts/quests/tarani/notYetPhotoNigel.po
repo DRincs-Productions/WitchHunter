@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:15\n"
+"PO-Revision-Date: 2026-07-22 21:21\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/notYetPhotoNigel.rpy:6 #-#-# translate crowdin notYetPhotoNigel_2bbfeb2b:
 msgid "[_cedrick_] Ты выполнил мою просьбу?"
@@ -18,5 +18,5 @@ msgstr "[_cedrick_] ¿Ha atendido mi pedido?"
 
 # game/scripts/quests/tarani/notYetPhotoNigel.rpy:7 #-#-# translate crowdin notYetPhotoNigel_eb1e4887:
 msgid "[_blankChar_] Еще нет, Бланк занятой! Приходи позже.."
-msgstr "[_blankChar_] ¡Aún no, Blunk está ocupado! Vuelve después.."
+msgstr "[_blankChar_] ¡Aún no, Blunk está ocupado! Vuelve después…"
 
