@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:37\n"
+"PO-Revision-Date: 2026-07-22 14:03\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/growingUpLilian/dontGetAgePotionForLilian.rpy:10 #-#-# translate crowdin dontGetAgePotionForLilian_6d7479d3:
 msgid "[_lilian_] Рик!"
@@ -34,7 +34,7 @@ msgstr "[_lilian_] Pero no he crecido ni un centímetro..."
 
 # game/scripts/quests/growingUpLilian/dontGetAgePotionForLilian.rpy:20 #-#-# translate crowdin dontGetAgePotionForLilian_8270e22d:
 msgid "[_cedrick_] Не волнуйся, вскоре я смогу сделать тебя действительно взрослой, но тебе придется немного подождать..."
-msgstr "[_cedrick_] No te preocupes, pronto podré convertirte en un adulto de verdad, pero tendrás que esperar un poco..."
+msgstr "[_cedrick_] No te preocupes, pronto podré convertirte en una adulta de verdad, pero tendrás que esperar un poco..."
 
 # game/scripts/quests/growingUpLilian/dontGetAgePotionForLilian.rpy:21 #-#-# translate crowdin dontGetAgePotionForLilian_a20cefa7:
 msgid "..."
