@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-11-24 07:32\n"
+"PO-Revision-Date: 2026-07-22 14:00\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
 msgid "Звезда Трибы"
@@ -54,7 +54,7 @@ msgstr "Rana muerta, vísceras, abominación"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Мобильный телефон"
-msgstr "Teléfono móvil"
+msgstr "celular"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Телефон с контактками учеников из школы"
@@ -82,19 +82,19 @@ msgstr "Ropa femenina"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Подойдет для Элион"
-msgstr "Adecuada para Elion"
+msgstr "Adecuada para Elyon"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Трусики"
-msgstr "Bragas"
+msgstr "Panties"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Использованные трусики Миранды"
-msgstr "Las bragas usadas de Miranda"
+msgstr "Las panties usadas de Miranda"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Хвост большого морпиона"
-msgstr "La cola de un gran morphión"
+msgstr "La cola de un gran Morpión"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Можно использовать для приготвления зелья"
@@ -186,7 +186,7 @@ msgstr "Ropa abrigada"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Железа морпиона"
-msgstr "Glándula de Morphion"
+msgstr "Glándula de Morpión"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Сок из желез морпионов"
@@ -194,7 +194,7 @@ msgstr "Jugo de las glándulas morphionares"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Кристаллическая железа королевы морпионов"
-msgstr "Glándula cristalina de la Reina Morphion"
+msgstr "Glándula cristalina de la Reina Morpiones"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Кристаллическая эссенция"
