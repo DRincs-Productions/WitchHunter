@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:14\n"
+"PO-Revision-Date: 2026-07-22 21:14\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/DayTimer.rpy:7
 msgid "Пн"
-msgstr "Lu"
+msgstr "Lun"
 
 # game/scripts/core/DayTimer.rpy:7
 msgid "Вт"
@@ -22,11 +22,11 @@ msgstr "Mar"
 
 # game/scripts/core/DayTimer.rpy:7
 msgid "Ср"
-msgstr "Mi"
+msgstr "Mié"
 
 # game/scripts/core/DayTimer.rpy:7
 msgid "Чт"
-msgstr "Ju"
+msgstr "Jue"
 
 # game/scripts/core/DayTimer.rpy:7
 msgid "Пт"
@@ -34,11 +34,11 @@ msgstr "Vie"
 
 # game/scripts/core/DayTimer.rpy:7
 msgid "Сб"
-msgstr "Sab"
+msgstr "Sáb"
 
 # game/scripts/core/DayTimer.rpy:7
 msgid "Вс"
-msgstr "Do"
+msgstr "Dom"
 
 # game/scripts/core/DayTimer.rpy:16
 msgid "Понедельник"
