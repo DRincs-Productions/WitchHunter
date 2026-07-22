@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:40\n"
+"PO-Revision-Date: 2026-07-22 14:04\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/learn_phone/learn_phone.rpy:7 #-#-# translate crowdin learn_phone_8e758cfd:
 msgid "[_cedrick_] Так, а здесь у нас хранятся сообщения..."
@@ -118,7 +118,7 @@ msgstr "[_Somka108_] El botón de apagado: cierra el teléfono."
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:80 #-#-# translate crowdin learn_phone_yea_2d3ccc20:
 msgid "[_Somka108_] Фуф, ну вроде все! От всей команды разработчиков желаем вам хорошей игры!"
-msgstr "[_Somka108_] Uf, ¡eso es todo! De parte de todo el equipo de desarrollo, ¡os deseamos un buen juego!"
+msgstr "[_Somka108_] Uf, ¡eso es todo! De parte de todo el equipo de desarrollo, ¡les deseamos que disfruten el juego!"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:86 #-#-# translate crowdin learn_phone_next_b8700daa:
 msgid "[_elion_] Оу, я вижу ты наконец-таки приобрел телефон!"
@@ -126,7 +126,7 @@ msgstr "[_elion_] ¡Veo que por fin te has comprado un teléfono!"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:89 #-#-# translate crowdin learn_phone_next_6048632d:
 msgid "[_cedrick_] Да, вроде того. Просто пытаюсь угнаться за современным миром. Прикольная мобилка, да?"
-msgstr "[_cedrick_] Sí, más o menos. Solo trato de mantenerme al día con el mundo moderno. Un móvil muy genial, ¿eh?"
+msgstr "[_cedrick_] Sí, más o menos. Solo trato de mantenerme al día con el mundo moderno. un celular muy genial, ¿eh?"
 
 # game/scripts/quests/learn_phone/learn_phone.rpy:92 #-#-# translate crowdin learn_phone_next_96911177:
 msgid "[_elion_] Это похвально, Рик! ты молодец!"
