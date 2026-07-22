@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:05\n"
+"PO-Revision-Date: 2026-07-22 21:20\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:4 #-#-# translate crowdin report_to_prince_phobos_71772b4c:
 msgid "[_phobos_] А вот и ты, Седрик. Как ты посмел опоздать на доклад!?"
@@ -26,7 +26,7 @@ msgstr "[_phobos_] No me importan tus excusas."
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:10 #-#-# translate crowdin report_to_prince_phobos_49316299:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:14 #-#-# translate crowdin report_to_prince_phobos_2df9a143:
 msgid "[_phobos_] Каковы результаты твоей миссии под прикрытием? Чего ты достиг за столь долгий срок?"
@@ -70,11 +70,11 @@ msgstr "[_phobos_] Hmm, suena como si tuvieras absolutamente todo bajo control y
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:37 #-#-# translate crowdin report_to_prince_phobos_d40dce7e:
 msgid "[_cedrick_] Премного благодарен столь высокой оценкой, мой князь. Я был бы искренне рад, если бы дела обстояли именно так"
-msgstr "[_cedrick_] está muy agradecido por un gran aprecio, mi príncipe. Me alegraría sinceramente si este fuera el caso."
+msgstr "[_cedrick_] Le agradezco mucho tan alta valoración, mi príncipe. Me alegraría sinceramente que así fuera."
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:41 #-#-# translate crowdin report_to_prince_phobos_cc056de9:
 msgid "[_cedrick_] На деле же каждый из этих этапов имел свои трудности. Полицейского, чье тело я заменил, сейчас находится на подводной шахте"
-msgstr "[_cedrick_] De hecho, cada una de estas etapas tenía sus propias dificultades. El policía, cuyo cuerpo reemplacé, está ahora en la mina submarina"
+msgstr "[_cedrick_] Sin embargo, cada una de esas etapas tuvo sus dificultades. El policía cuyo cuerpo suplanté está ahora en la mina submarina."
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:42 #-#-# translate crowdin report_to_prince_phobos_e8c0e4dd:
 msgid "[_cedrick_] Правительственного агента я подчинил, находясь на тот момент у грани своих физических и моральных сил"
@@ -90,15 +90,15 @@ msgstr "[_cedrick_] Por no hablar de los muchos otros habitantes de la tierra, a
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:48 #-#-# translate crowdin report_to_prince_phobos_f0a04c60:
 msgid "[_phobos_] Иными словами..."
-msgstr "[_phobos_] En otras palabras..."
+msgstr "[_phobos_] En otras palabras…"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:49 #-#-# translate crowdin report_to_prince_phobos_49316299_1:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:53 #-#-# translate crowdin report_to_prince_phobos_9bfa77cf:
 msgid "[_phobos_] На твоем пути было множество преград, каждую из которых ты успешно устранил. Как и одну из последних, а именно Короля Морпионов"
-msgstr "[_phobos_] Había muchos obstáculos en su camino, cada uno de los cuales eliminó con éxito. Como uno de los últimos, es decir, el rey del Morpiones"
+msgstr "[_phobos_] Había muchos obstáculos en su camino, cada uno de los cuales eliminó con éxito. Como uno de los últimos, es decir, el Rey de los Morpiones"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:54 #-#-# translate crowdin report_to_prince_phobos_2d214d15:
 msgid "[_phobos_] Это заслуживает уважения, Седрик. Не с моей стороны, но со стороны стражников так точно"
@@ -146,7 +146,7 @@ msgstr "[_phobos_] Sí, este idiota está empezando a decepcionarme cada vez má
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:81 #-#-# translate crowdin report_to_prince_phobos_49316299_2:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:85 #-#-# translate crowdin report_to_prince_phobos_214f6813:
 msgid "[_phobos_] Что касается Элион, Седрик, я надеюсь в скором времени ты приведешь ее ко мне"
@@ -162,7 +162,7 @@ msgstr "[_phobos_] Exactamente para este regreso cuento, Cedric"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:91 #-#-# translate crowdin report_to_prince_phobos_cf354c77:
 msgid "[_cedrick_] И еще одна деталь, мой Князь…"
-msgstr "[_cedrick_] Y otro detalle, mi príncipe..."
+msgstr "[_cedrick_] Y otro detalle, mi príncipe…"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:95 #-#-# translate crowdin report_to_prince_phobos_cb2b21fe:
 msgid "[_phobos_] Что еще, Седрик?"
@@ -170,7 +170,7 @@ msgstr "[_phobos_] ¿Qué más, Cedric?"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:96 #-#-# translate crowdin report_to_prince_phobos_a84d5170:
 msgid "[_cedrick_] Алхими, девушка с земли, отданная вам в дар. Боюсь, ей придется вернуться на Землю…"
-msgstr "[_cedrick_] Alchemy, una chica de la tierra, te la dieron como regalo. Me temo que tendrá que volver a la Tierra..."
+msgstr "[_cedrick_] Alchemy, una chica de la tierra, te la dieron como regalo. Me temo que tendrá que volver a la Tierra…"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:100 #-#-# translate crowdin report_to_prince_phobos_3bfdc471:
 msgid "[_phobos_] Ты отдал мне ее в качестве извинений, а теперь смеешь просить, чтобы я отдать ее?! Говоришь мне подобные вещи прямо в лицо, Седрик!?"
@@ -178,11 +178,11 @@ msgstr "[_phobos_] Me lo diste como disculpa, y ahora te atreves a pedirme que l
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:101 #-#-# translate crowdin report_to_prince_phobos_49316299_3:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:102 #-#-# translate crowdin report_to_prince_phobos_43a64b3b:
 msgid "[_phobos_] ..."
-msgstr "[_phobos_] ..."
+msgstr "[_phobos_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:106 #-#-# translate crowdin report_to_prince_phobos_70a495a2:
 msgid "[_phobos_] Хаха, насмешил ты меня, Седрик. Мне хотелось увидеть твою реакцию. К моему удивлению ты встретил мою ярость с достоинством"
@@ -198,7 +198,7 @@ msgstr "[_phobos_] Era tan simple, Elyon habría estado aquí hace mucho tiempo 
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:109 #-#-# translate crowdin report_to_prince_phobos_49316299_4:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:110 #-#-# translate crowdin report_to_prince_phobos_e21457bb:
 msgid "[_phobos_] Если ее нужно вернуть для того, чтобы твоя миссия оставалась в тайне, то так тому и быть"
@@ -218,7 +218,7 @@ msgstr "[_phobos_] No es la primera ni será la última, Cedric. Sería sorprend
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:117 #-#-# translate crowdin report_to_prince_phobos_a18df50a:
 msgid "[_cedrick_] Это верно…"
-msgstr "[_cedrick_] Esto es cierto..."
+msgstr "[_cedrick_] Esto es cierto…"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:121 #-#-# translate crowdin report_to_prince_phobos_15fce169:
 msgid "[_phobos_] Она твоя, Седрик, можешь забрать ее"
@@ -234,11 +234,11 @@ msgstr "[_cedrick_] Gracias, mi señor"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:131 #-#-# translate crowdin report_to_prince_phobos_43a64b3b_1:
 msgid "[_phobos_] ..."
-msgstr "[_phobos_] ..."
+msgstr "[_phobos_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:135 #-#-# translate crowdin report_to_prince_phobos_43a64b3b_2:
 msgid "[_phobos_] ..."
-msgstr "[_phobos_] ..."
+msgstr "[_phobos_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:136 #-#-# translate crowdin report_to_prince_phobos_243dfb83:
 msgid "[_phobos_] И еще кое-что, Седрик"
@@ -246,19 +246,19 @@ msgstr "[_phobos_] Y otra cosa, Cedric"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:137 #-#-# translate crowdin report_to_prince_phobos_6586ca6b:
 msgid "[_cedrick_] ..Я вас слушаю"
-msgstr "[_cedrick_] .. Te escucho"
+msgstr "[_cedrick_] … Te escucho"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:141 #-#-# translate crowdin report_to_prince_phobos_77da3399:
 msgid "[_phobos_] С тобой что-то произошло? Ты какой-то.. Ни такой, как обычно. Более собранный. Более серьезный. Более внимательный к словам"
-msgstr "[_phobos_] ¿Te ha pasado algo? Eres una especie de... No es así como siempre. Más recogidos. Más serio. Más atento a las palabras"
+msgstr "[_phobos_] ¿Te ha pasado algo? Eres una especie de… No es así como siempre. Más recogidos. Más serio. Más atento a las palabras"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:142 #-#-# translate crowdin report_to_prince_phobos_557071e9:
 msgid "[_phobos_] Исходящая от тебя энергия немного поменялась. Что случилось?"
-msgstr "[_phobos_] Emastizing de ti ha cambiado un poco. ¿Qué pasa?"
+msgstr "[_phobos_] La energía que emanas ha cambiado un poco. ¿Qué ocurrió?"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:146 #-#-# translate crowdin report_to_prince_phobos_2e44b966:
 msgid "[_cedrick_] Это.. Это результат экспериментов Миранды, мой князь. В последнем сражении Король Морпионов знатно меня потрепал"
-msgstr "[_cedrick_] Es... Este es el resultado de los experimentos de Miranda, mi príncipe. En la última batalla, el rey de los Morpiones me golpeó"
+msgstr "[_cedrick_] Es… Este es el resultado de los experimentos de Miranda, mi príncipe. En la última batalla, el rey de los Morpiones me golpeó"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:147 #-#-# translate crowdin report_to_prince_phobos_d623dd96:
 msgid "[_cedrick_] Миранда подлатала меня своими зельями, но видимо они дали своего рода побочный эффект"
@@ -266,19 +266,19 @@ msgstr "[_cedrick_] Miranda me dibujó con sus pociones, pero al parecer dieron 
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:151 #-#-# translate crowdin report_to_prince_phobos_2af335d9:
 msgid "[_phobos_] Хм… Это вполне естественно, что тебе было тяжко в сражении с королем Морпионов, учитывая, что я забрал часть твоей силы"
-msgstr "[_phobos_] Hmm... Es bastante natural que fueras duro en la batalla con el rey morpy, dado que yo tomé parte de tu fuerza"
+msgstr "[_phobos_] Mmm… Es natural que te costara tanto luchar contra el Rey de los Morpiones, teniendo en cuenta que te quité parte de tu poder."
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:155 #-#-# translate crowdin report_to_prince_phobos_36f761a6:
 msgid "[_phobos_] Но ведь даже так ты справился, верно?"
-msgstr "[_phobos_], pero incluso eso es lo que hiciste, ¿verdad?"
+msgstr "[_phobos_] Pero incluso eso es lo que hiciste, ¿verdad?"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:159 #-#-# translate crowdin report_to_prince_phobos_49316299_5:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:163 #-#-# translate crowdin report_to_prince_phobos_37615ee6:
 msgid "[_phobos_] Что ж, я понял. Можешь идти, Седрик"
-msgstr "[_phobos_], bueno, lo entiendo. Puedes irte, Cedric"
+msgstr "[_phobos_] Bueno, lo entiendo. Puedes irte, Cedric"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:164 #-#-# translate crowdin report_to_prince_phobos_c4d8f4cc:
 msgid "[_cedrick_] Да, милорд"
@@ -286,7 +286,7 @@ msgstr "[_cedrick_] Sí, milord"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:166 #-#-# translate crowdin report_to_prince_phobos_3770622e:
 msgid "[_cedrick_] (Все прошло почти так, как я планировал. Но он.. он что-то почувствовал. Это была моя новая сила. Или же он почувствовал мое четкое желание свергнуть его?)"
-msgstr "[_cedrick_] (Todo salió casi como lo planeé. Pero él es... Él sintió algo. Era mi nueva fuerza. ¿O sintió mi claro deseo de derrocarlo?)"
+msgstr "[_cedrick_] (Todo salió casi como lo planeé. Pero él es… Él sintió algo. Era mi nueva fuerza. ¿O sintió mi claro deseo de derrocarlo?)"
 
 # game/scripts/quests/questReportForPrincePhobos/report_to_prince_phobos.rpy:167 #-#-# translate crowdin report_to_prince_phobos_a6dfd37b:
 msgid "[_cedrick_] Нужно быть аккуратнее с этим"
