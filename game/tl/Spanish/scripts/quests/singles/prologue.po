@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:13\n"
+"PO-Revision-Date: 2026-07-22 14:06\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/singles/prologue.rpy:10 #-#-# translate crowdin prologue_659381e6:
 msgid "[_centered_] {size=37}Меридиан\n"
 "Замок Князя Фобоса{/size} [withDissolve1]"
 msgstr "[_centered_] {size=37} Meridian\n"
-"El castillo del príncipe Phobos{/size} [withDissolve1]"
+"El castillo del príncipe Fobos{/size} [withDissolve1]"
 
 # game/scripts/quests/singles/prologue.rpy:43 #-#-# translate crowdin prologue_60da2d23:
 msgid "[_phobos_] И вот ты снова подвел меня..."
@@ -136,7 +136,7 @@ msgstr "[_phobos_] También me llevo algunos de tus poderes mágicos, me ayudar�
 
 # game/scripts/quests/singles/prologue.rpy:86 #-#-# translate crowdin prologue_e0fe2ed0:
 msgid "Вы видите луч ослепительно яркого света... Вы чувствуете как Фобос забирает вашу магическую силу... Вы дрожите и вам становится не по себе..."
-msgstr "Ves un rayo de luz cegadoramente brillante... Sientes que Phobos te quita tu poder mágico... Tiemblas y te sientes incómodo..."
+msgstr "Ves un rayo de luz cegadoramente brillante... Sientes que Fobos te quita tu poder mágico... Tiemblas y te sientes incómodo..."
 
 # game/scripts/quests/singles/prologue.rpy:88 #-#-# translate crowdin prologue_798eb46f:
 msgid "[_phobos_] Теперь тебе будет сложнее поддерживать форму змея и.."
@@ -144,7 +144,7 @@ msgstr "[_phobos_] Ahora te será más difícil mantener la forma de serpiente y
 
 # game/scripts/quests/singles/prologue.rpy:93 #-#-# translate crowdin prologue_d336fd0d:
 msgid "[_miranda_] Князь Фобос..."
-msgstr "[_miranda_] Príncipe Phobos..."
+msgstr "[_miranda_] Príncipe Fobos..."
 
 # game/scripts/quests/singles/prologue.rpy:99 #-#-# translate crowdin prologue_3178c7fe:
 msgid "[_phobos_] {b}Как ты смеешь перебивать меня!?{/b}"
@@ -188,7 +188,7 @@ msgstr "[_phobos_] Recuerda, su magia no es diferente de la nuestra y si son emo
 
 # game/scripts/quests/singles/prologue.rpy:155 #-#-# translate crowdin prologue_2dda1fc4:
 msgid "[_cedrick_] Я вас понял, Князь Фобос"
-msgstr "[_cedrick_] Te escucho, Príncipe Phobos"
+msgstr "[_cedrick_] Te escucho, Príncipe Fobos"
 
 # game/scripts/quests/singles/prologue.rpy:157 #-#-# translate crowdin prologue_8ce3802c:
 msgid "[_cedrick_] (Этот ублюдок отнял мои силы! Почему я обязан пресмыкаться перед ним... Если бы он не был так силен, то я бы смог избавиться от него...)"
@@ -232,7 +232,7 @@ msgstr "[_cedrick_] ¿Eres el propietario de este lugar?"
 
 # game/scripts/quests/singles/prologue.rpy:181 #-#-# translate crowdin prologue_d54da9ef:
 msgid "[_bernardblack_] У…ум.. умоляю тебя! Не убивайте меня..."
-msgstr "[_bernardblack_] У… Mi mente... ¡Por favor! No me mates..."
+msgstr "[_bernardblack_] W... ¡Te lo ruego! No me mates..."
 
 # game/scripts/quests/singles/prologue.rpy:182 #-#-# translate crowdin prologue_fdf1065f:
 msgid "[_cedrick_] Отвечай на вопрос, жалкий старикашка! Это твоя лавка?"
@@ -260,7 +260,7 @@ msgstr "[_centered_] {size=37}Unos días después…{/size}"
 
 # game/scripts/quests/singles/prologue.rpy:200 #-#-# translate crowdin prologue_2e328cc3:
 msgid "[_cedrick_] ({i}Что за жалкое место, какой бардак! И почему я должен прибираться здесь. Я {size=22}ЛОРД{/size}, а не какая-то служанка! У меня голубая кровь!{/i})"
-msgstr "[_cedrick_] ({i}¡Qué lugar tan miserable, qué desorden! Y por qué tengo que limpiar aquí. ¡Soy un Lord, no una sirvienta! ¡Tengo sangre azul!{/i})"
+msgstr "[_cedrick_] ({i}¡Qué lugar tan miserable, qué desorden! ¿Y por qué tengo que limpiar aquí? ¡Soy un {size=22}LORD{/size}, no una sirvienta! ¡Tengo sangre azul!{/i})"
 
 # game/scripts/quests/singles/prologue.rpy:201 #-#-# translate crowdin prologue_e28e9226:
 msgid "[_cedrick_] ({i}Этот старый торгаш заслужил оказаться у меня в желудке, он совсем не следил за порядком в магазине.{/i})"
