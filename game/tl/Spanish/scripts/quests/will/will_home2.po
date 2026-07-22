@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:07\n"
+"PO-Revision-Date: 2026-07-22 15:41\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_home2.rpy:8 #-#-# translate crowdin will_home2_e6b4288c:
 msgid "[_cedrick_sprite_] Эм.."
@@ -38,7 +38,7 @@ msgstr "[_cedrick_sprite_] Tal vez pensó que no sería justo para los otros est
 
 # game/scripts/quests/will/will_home2.rpy:14 #-#-# translate crowdin will_home2_7e69f389:
 msgid "[_colins_] Ну может и так, ах что это я, проходите"
-msgstr "[_colins_] Bueno, puede que sí, ah, qué hago, pasa"
+msgstr "[_colins_] Bueno, quizá tengas razón... Ah, pero qué hago: pasa."
 
 # game/scripts/quests/will/will_home2.rpy:19 #-#-# translate crowdin will_home2_ea9065c1:
 msgid "*Некоторое время спустя*"
