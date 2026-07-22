@@ -10,39 +10,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-26 15:44\n"
+"PO-Revision-Date: 2026-07-22 14:08\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:3 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_f03422ad:
 msgid "[_cedrick_] (Что ж, вот и настал этот день...)"
-msgstr ""
+msgstr "[_cedrick_] (Bueno, ese es el día...)"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:4 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_e85da16e:
 msgid "[_cedrick_] (Хай Лин я отправил на Меридиан, Булдж ее встретит. Далее он все сделает согласно моей инструкции)"
-msgstr ""
+msgstr "[_cedrick_] (Hay Lin lo envié a Meridian, la bullice se encontrará con ella. Él hará todo de acuerdo a mis instrucciones)"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:5 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_682d9c89:
 msgid "[_cedrick_] (Все стражницы в сборе. Заточены мною в подземелье, все пятеро...)"
-msgstr ""
+msgstr "[_cedrick_] (Todos los guardianas de la colección. Estoy en la mazmorra, los cinco...)"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:6 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_a38260a3:
 msgid "[_cedrick_] (Раньше их история на этом бы и закончилась.. Одно из ключевых заданий Фобоса выполнено)"
-msgstr ""
+msgstr "[_cedrick_] (Anteriormente su historia habría terminado allí. Una de las tareas clave de Fobos se ha completado)"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:7 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_9799b245:
 msgid "[_cedrick_] (Еще немного и можно было бы распрощаться с рутинным заданием на Земле. Продолжать гонять повстанцев по лесу, истребив их до последнего)"
-msgstr ""
+msgstr "[_cedrick_] (Un poco más y podría decir adiós a una tarea rutinaria en la Tierra. Continúe impulsando a los rebeldes en el bosque, exponiéndolos a la última)"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:8 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_3b8a3308:
 msgid "[_cedrick_] (А после насладиться в пабе выпивкой и распутными девками, отдав Элион Фобосу, чтобы тот выкачал из нее всю магическую силу...)"
-msgstr ""
+msgstr "[_cedrick_] (Y luego disfrutar de las chicas bebiendo y zorras en el pub, dando a Elyon Fobos para bombear todo el poder mágico...)"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:9 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_76bb6bf8:
 msgid "[_cedrick_] (Но это были бы мысли прошлого меня...)"
-msgstr ""
+msgstr "[_cedrick_] (Pero estos serían los pensamientos del pasado...)"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:10 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_50db4abc:
 msgid "[_cedrick_] (Теперь... Теперь все иначе...)"
-msgstr ""
+msgstr "[_cedrick_] (Ahora... Es diferente ahora.)"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:11 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_a20cefa7:
 msgid "..."
@@ -54,27 +54,27 @@ msgstr "...."
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:14 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_49989edc:
 msgid "[_elion_] Ох, Рик, ты тут"
-msgstr ""
+msgstr "[_elion_] Oh, Rick, estás aquí"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:16 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_5af0ccbc:
 msgid "[_elion_] А я, эм... я как раз хотела на верхних полках прибраться. Поможешь?"
-msgstr ""
+msgstr "[_elion_] A Yo, um... Sólo quería limpiar los estantes superiores. ¿Ayudarás?"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:18 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_0c84122b:
 msgid "[_cedrick_] Ты хотела прибраться в магазине посреди ночи?"
-msgstr ""
+msgstr "[_cedrick_] ¿Querías limpiar en medio de la noche?"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:20 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_e99031f1:
 msgid "[_elion_] Ну, эм... Может, я скорее хотела, чтобы ты мне помог посреди ночи.. Ч-что скажешь?"
-msgstr ""
+msgstr "[_elion_] Bueno, um... Tal vez prefiero que me ayudes en medio de la noche. ¿Qué dices tú?"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:21 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_8ca8796e:
 msgid "[_cedrick_] Элион, сейчас не самое подходящее время.. Мне нужно срочно уйти по делам и меня не будет какое-то время"
-msgstr ""
+msgstr "[_cedrick_] Elyon, ahora no es el momento adecuado. Necesito ir a los negocios y no lo haré por un tiempo"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:23 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_4f707675:
 msgid "[_elion_] Срочные дела посреди ночи?"
-msgstr ""
+msgstr "[_elion_] ¿Cosas urgentes en medio de la noche?"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:24 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_6efc5ce5:
 msgid "[_cedrick_] Эм..."
@@ -82,11 +82,11 @@ msgstr "[_cedrick_] Um..."
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:25 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_81af28fe:
 msgid "[_cedrick_] (Черт, поймала меня в ту же самую ловушку... Надо срочно что-то придумать)"
-msgstr ""
+msgstr "[_cedrick_] (Maldita sea, me pilló en la misma trampa... Hay que pensar en algo urgentemente)"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:26 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_e2cbc3d8:
 msgid "[_cedrick_] Я встречаюсь с одним поставщиком комиксов из Китая... Это подпольное издательство, по сути их работа нелегальна, но зато комиксы в несколько раз дешевле"
-msgstr ""
+msgstr "[_cedrick_] Me encuentro con un proveedor de cómics de China... Se trata de una editorial subterránea, de hecho su trabajo es ilegal, pero los cómics son varias veces más baratos"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:27 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_89c59728:
 msgid "[_elion_] ..."
@@ -94,23 +94,23 @@ msgstr "[_elion_] ..."
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:29 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_2cacea33:
 msgid "[_elion_] Правда? А это не опасно?"
-msgstr ""
+msgstr "[_elion_] ¿En serio? ¿No es peligroso?"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:30 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_74da0a02:
 msgid "[_cedrick_] Да-да, я не первый день с ними работаю. Их директор Кадзума Кирю - отличный парень. Единственная беда - заключать сделки получается только ночью"
-msgstr ""
+msgstr "[_cedrick_], Sí, no voy a trabajar con ellos para el primer día. Su director Kazuma kiryu es un gran tipo. El único problema - resulta hacer tratos sólo por la noche"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:32 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_06729600:
 msgid "[_elion_] Ну... Хорошо..."
-msgstr ""
+msgstr "[_elion_] Bueno... Muy bien..."
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:33 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_9120d4cf:
 msgid "[_cedrick_] Присмотришь за магазином?"
-msgstr ""
+msgstr "[_cedrick_] ¿Cuidarás de la tienda?"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:35 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_58602eba:
 msgid "[_elion_] Да, присмотрю"
-msgstr ""
+msgstr "[_elion_] Sí, voy a buscar"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:37 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_89c59728_1:
 msgid "[_elion_] ..."
@@ -122,7 +122,7 @@ msgstr "[_elion_] ....."
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:40 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_5e5deb74:
 msgid "[_elion_] Рик..."
-msgstr ""
+msgstr "[_elion_] Rick..."
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:41 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_23dd3619:
 msgid "[_cedrick_] М? Что такое?"
@@ -130,17 +130,17 @@ msgstr "[_cedrick_] ¿Hmm? ¿Qué es?"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:43 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_afc7017c:
 msgid "[_elion_] Ты ведь не забыл о нашем свидании?"
-msgstr ""
+msgstr "[_elion_] No te olvidaste de nuestra cita, ¿verdad?"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:45 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_cecd924a:
 msgid "[_cedrick_] Нет, Элион, конечно нет"
-msgstr ""
+msgstr "[_cedrick_] No, Elyon, por supuesto que no"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:46 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_97a3fc8a:
 msgid "[_cedrick_] Я правда сейчас очень занят... Но как только освобожусь, мы обязательно сходим куда ты только захочешь"
-msgstr ""
+msgstr "[_cedrick_] Estoy muy ocupado ahora mismo... Pero tan pronto como esté libre, definitivamente iremos a donde solo quieras"
 
 # game/scripts/quests/questTrainingOfGuards/cedric_monologue_in_the_bookshop_2.rpy:48 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2_c407fc98:
 msgid "[_elion_] Я-я поняла.. Х-хорошо, удачи там!..."
-msgstr ""
+msgstr "[_elion_] Yo-yo entiendo... ¡Muy bien, buena suerte ahí!"
 
