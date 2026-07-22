@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:38\n"
+"PO-Revision-Date: 2026-07-22 14:04\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:8 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_ee0ae87e:
 msgid "[_YanLin_] Добро пожаловать в ресторан азиатской кухни Серебряный дракон! Ах, это вы! Решили снова нас посетить?"
@@ -90,7 +90,7 @@ msgstr "[_chenlin_] Chen Lin, un placer... Y esta es mi esposa Joan Lin"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:70 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_b3cb7b93:
 msgid "[_johnlin_] Хай Лин, а ты уверена в порядочности этого человека? Он выглядит довольно молодо для учителя..."
-msgstr "[_johnlin_] Hai Lin, ¿estás segura de la integridad de este hombre? Parece muy joven para ser profesor..."
+msgstr "[_johnlin_] Hay Lin, ¿estás segura de la integridad de este hombre? Parece muy joven para ser profesor..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:74 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_74d7cbf0:
 msgid "[_haylin_] Ну ма-а-ам! Конечно! Рик хороший человек"
@@ -242,7 +242,7 @@ msgstr "....."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:181 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_4cd79cd3:
 msgid "[_haylin_] Ри-и-ик! Вставааааай..."
-msgstr "[_haylin_] ¡Ri-i-i-ic! Despierta..."
+msgstr "[_haylin_] ¡Ri-Y-yo-ic! Despierta..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:185 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_3c086469:
 msgid "[_cedrick_] Ох, кажется я малость задремал..."
