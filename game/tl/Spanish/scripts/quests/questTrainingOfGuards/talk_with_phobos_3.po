@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:08\n"
+"PO-Revision-Date: 2026-07-22 21:23\n"
 
 # TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:7 #-#-# translate crowdin talk_with_phobos_3_9da5787d:
 msgid "[_phobos_] Ты вовремя, Седрик. Я даже удивлен"
@@ -26,7 +26,7 @@ msgstr "[_phobos_] Para mi respuesta"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:19 #-#-# translate crowdin talk_with_phobos_3_24d1ac3e:
 msgid "[_cedrick_] (Что?...)"
-msgstr "[_cedrick_] (¿Qué?...)"
+msgstr "[_cedrick_] (¿Qué?…)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:23 #-#-# translate crowdin talk_with_phobos_3_2194bca6:
 msgid "[_phobos_] Ты спрашивал меня сегодня, почему я выбрал Райтера, хоть я и знал, что в качестве главнокомандующего он бесполезен"
@@ -34,7 +34,7 @@ msgstr "[_phobos_] Hoy me preguntaste por qué elegí el Reiter, aunque sabía q
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:27 #-#-# translate crowdin talk_with_phobos_3_b7337b50:
 msgid "[_cedrick_] Ах... Д-да, верно... И каков ваш ответ?"
-msgstr "[_cedrick_] Ah... Sí, claro, cierto... ¿Y cuál es tu respuesta?"
+msgstr "[_cedrick_] Ah… Sí, claro, cierto… ¿Y cuál es tu respuesta?"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:31 #-#-# translate crowdin talk_with_phobos_3_6f53d8d8:
 msgid "[_phobos_] Все просто, Седрик. Все из-за моей излишней сентиментальности"
@@ -42,7 +42,7 @@ msgstr "[_phobos_] Es simple, Cedric. Todo por mi excesivo sentimentalismo"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:35 #-#-# translate crowdin talk_with_phobos_3_09cca77d:
 msgid "[_cedrick_] ...О чем вы говорите?"
-msgstr "[_cedrick_]... ¿De qué estás hablando?"
+msgstr "[_cedrick_]… ¿De qué estás hablando?"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:39 #-#-# translate crowdin talk_with_phobos_3_cd358e91:
 msgid "[_phobos_] Изначально я выбрал Райтера лишь ради одного - подтолкнуть моего старого друга и бывшего товарища по оружию к прогрессу"
@@ -50,15 +50,15 @@ msgstr "[_phobos_] Inicialmente elegí el Reiter solo por el bien de uno: empuja
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:43 #-#-# translate crowdin talk_with_phobos_3_49316299:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:47 #-#-# translate crowdin talk_with_phobos_3_d81a9ec8:
 msgid "[_phobos_] Я думал, что уж Райтер то точно разожжет в тебе огонь и ненависть, на реактивной тяге которой ты снесешь стражниц с лица земли"
-msgstr "[_phobos_] Pensé que Reiter definitivamente encendería un fuego y odio en ti, en los antojos de chorro de los que desgarrarás a los guardianas de la faz de la tierra"
+msgstr "[_phobos_] Creí que Reiter despertaría en ti suficiente odio y fuego para que, impulsado por ellos, borraras a las Guardianas de la faz de la Tierra."
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:51 #-#-# translate crowdin talk_with_phobos_3_081682b7:
 msgid "[_cedrick_] Без... без своих способностей?"
-msgstr "[_cedrick_] Sin... ¿Sin tus habilidades?"
+msgstr "[_cedrick_] Sin… ¿Sin tus habilidades?"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:55 #-#-# translate crowdin talk_with_phobos_3_91c5fb13:
 msgid "[_phobos_] Перестань, Седрик. Эти стены яркое свидетельство того, на что ты способен. На них не только следы от когтей и хвоста, но ведь и от меча, от ударов руками"
@@ -66,7 +66,7 @@ msgstr "[_phobos_] Basta, Cedric. Estas paredes son una clara muestra de lo que 
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:56 #-#-# translate crowdin talk_with_phobos_3_542f2c39:
 msgid "[_phobos_] Да, для моего деда казалась сокрушительной та победа, в которой ты обрушил на меня потолок. Но для меня, хах..."
-msgstr "[_phobos_] Sí, para mi abuelo, la victoria en la que derribaste el techo sobre mí parecía aplastante. Pero para mí, ja..."
+msgstr "[_phobos_] Sí, para mi abuelo, la victoria en la que derribaste el techo sobre mí parecía aplastante. Pero para mí, ja…"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:57 #-#-# translate crowdin talk_with_phobos_3_6e489a4b:
 msgid "[_phobos_] Для меня куда более унизительными были те бои, в которых ты побеждал меня, не используя ни магию ни свою форму змея..."
@@ -74,11 +74,11 @@ msgstr "[_phobos_] Para mí, mucho más humillantes fueron las peleas en las que
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:61 #-#-# translate crowdin talk_with_phobos_3_abd71ba1:
 msgid "[_phobos_] Ты умудрялся победить меня, будущего князя, используя лишь арсенал, доступный даже... людям."
-msgstr "[_phobos_] Me las arreglaste para derrotarme, el futuro príncipe, usando solo un arsenal accesible incluso... La gente."
+msgstr "[_phobos_] Me las arreglaste para derrotarme, el futuro príncipe, usando solo un arsenal accesible incluso… La gente."
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:65 #-#-# translate crowdin talk_with_phobos_3_49316299_1:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:69 #-#-# translate crowdin talk_with_phobos_3_0279bb0a:
 msgid "[_phobos_] Это повергало меня в настоящий ужас тогда, знаешь? Я изо всех сил стремился к прогрессу, чтобы такого больше никогда не произошло"
@@ -90,15 +90,15 @@ msgstr "[_phobos_] Y aquí estoy el príncipe. ¿Quién eres, Cedric? ¿Qué te 
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:77 #-#-# translate crowdin talk_with_phobos_3_87b7ed4a:
 msgid "[_cedrick_] ......"
-msgstr "[_cedrick_] ......"
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:81 #-#-# translate crowdin talk_with_phobos_3_384cfcab:
 msgid "[_cedrick_] Ваш прогресс куда стремительнее моего, Ваша светлость, так что вполне естественно, что со временем я начал отставать и..."
-msgstr "[_cedrick_] Tu progreso es mucho más rápido que el mío, tu señoría, así que es natural que con el tiempo comenzara a rezagarme y..."
+msgstr "[_cedrick_] Tu progreso es mucho más rápido que el mío, tu señoría, así que es natural que con el tiempo comenzara a rezagarme y…"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:85 #-#-# translate crowdin talk_with_phobos_3_67cf3759:
 msgid "[_phobos_] Хватит с меня этого бреда. Я прекрасно знаю, на что способен. Речь сейчас не обо мне, а о тебе. Ты стал слабее"
-msgstr "[_phobos_] ya me queda bastante como tontería. Sé perfectamente de lo que soy capaz. Ahora no se trata de mí, se trata de ti. Te has vuelto más débil"
+msgstr "[_phobos_] Ya basta de tonterías. Sé perfectamente de qué soy capaz. Esto no se trata de mí, sino de ti. Te has debilitado."
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:86 #-#-# translate crowdin talk_with_phobos_3_03ed1ee6:
 msgid "[_phobos_] Ты ослабел задолго до того, как я отнял твои силы"
@@ -106,11 +106,11 @@ msgstr "[_phobos_] Te debilitaste mucho antes de que yo tomara tu fuerza"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:90 #-#-# translate crowdin talk_with_phobos_3_99cc9aca:
 msgid "[_cedrick_] ........."
-msgstr "[_cedrick_] ........."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:94 #-#-# translate crowdin talk_with_phobos_3_22647460:
 msgid "[_phobos_] Я... Хм, да, верно... Было ошибкой считать, что назначения Райтера поможет вернуть твой потерянный потенциал"
-msgstr "[_phobos_] Yo... Um, sí, eso es correcto... Fue un error creer que las citas de los reiter te ayudarán a recuperar tu potencial perdido"
+msgstr "[_phobos_] Yo… Um, sí, eso es correcto… Fue un error creer que las citas de los reiter te ayudarán a recuperar tu potencial perdido"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:98 #-#-# translate crowdin talk_with_phobos_3_71825ddd:
 msgid "[_phobos_] Это все моя сентиментальность сыграла со мной в злую шутку"
@@ -118,7 +118,7 @@ msgstr "[_phobos_] Es todo mi sentimentalismo que jugó conmigo en una broma cru
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:102 #-#-# translate crowdin talk_with_phobos_3_253a5d33:
 msgid "[_cedrick_] (Сентиментальность? Он сейчас вообще серьезно? Гребаный психопат...)"
-msgstr "[_cedrick_] (¿Sentimentalidad? ¿Está realmente en serio ahora? El maldito psicópata...)"
+msgstr "[_cedrick_] (¿Sentimentalidad? ¿Está realmente en serio ahora? El maldito psicópata…)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:106 #-#-# translate crowdin talk_with_phobos_3_7edd45fb:
 msgid "[_phobos_] И этого больше не повторится. Лишь я один властен над всем, не стоит об этом забывать. Если захочу, то даже прошлое я смогу переписать"
@@ -134,23 +134,23 @@ msgstr "[_phobos_] Te lo mostraré"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:117 #-#-# translate crowdin talk_with_phobos_3_aa8aee0d:
 msgid "[_cedrick_] Ч-что... Что за..."
-msgstr "[_cedrick_] ¿Qué... ¿Qué es..."
+msgstr "[_cedrick_] ¿Qué… ¿Qué es…"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:119 #-#-# translate crowdin talk_with_phobos_3_2f8fd24c:
 msgid "[_cedrick_] (Это... Это не иллюзия... И даже не физическая завеса... Это переписывание физической реальности...)"
-msgstr "[_cedrick_] (Esta Es... Esto no es una ilusión... Y ni siquiera un velo físico... Es una reescritura de la realidad física...)"
+msgstr "[_cedrick_] (Esto… Esto no es una ilusión… Ni siquiera un velo físico… Es una reescritura de la realidad física…)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:122 #-#-# translate crowdin talk_with_phobos_3_0e3435ac:
 msgid "[_cedrick_] (Он полностью изменяет комнату... Одним лишь своим желанием... И с этой силой нам придется тягаться?...)"
-msgstr "[_cedrick_] (Cambia completamente la habitación... Solo uno de tus deseos... ¿Y con esta fuerza tendremos que competir?...)"
+msgstr "[_cedrick_] (Cambia completamente la habitación… Solo uno de tus deseos… ¿Y con esta fuerza tendremos que competir?…)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:124 #-#-# translate crowdin talk_with_phobos_3_feef0367:
 msgid "[_phobos_] Вот. Как видишь, от некогда позорного прошлого теперь не осталось и следа"
-msgstr "[_phobos_] está aquí. Como puede ver, no hay rastro del pasado una vez vergonzoso del pasado una vez vergonzoso"
+msgstr "[_phobos_] Aquí está. Como ves, ya no queda ni rastro de aquel pasado vergonzoso."
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:125 #-#-# translate crowdin talk_with_phobos_3_c07752e1:
 msgid "[_cedrick_] (Какого черта? Он так распинался о значимости этой комнаты, а теперь...)"
-msgstr "[_cedrick_] (¿Cuál es el punto de ? Estaba tan crucificado sobre la importancia de esta habitación, y ahora...)"
+msgstr "[_cedrick_] (¿Qué demonios? Habló y habló de la importancia de esta habitación, y ahora…)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:128 #-#-# translate crowdin talk_with_phobos_3_c3cc710e:
 msgid "[_phobos_] А теперь слушай, Седрик"
@@ -162,7 +162,7 @@ msgstr "[_phobos_] Retiro la posición de Reiter como comandante en jefe. Ahora 
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:136 #-#-# translate crowdin talk_with_phobos_3_e3aca383:
 msgid "[_cedrick_] И... И кто же..."
-msgstr "[_cedrick_] Y... Y quién es quién..."
+msgstr "[_cedrick_] Y… Y quién es quién…"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:140 #-#-# translate crowdin talk_with_phobos_3_a5b1fc4e:
 msgid "[_phobos_] Охотник"
@@ -170,7 +170,7 @@ msgstr "[_phobos_] Cazador"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:144 #-#-# translate crowdin talk_with_phobos_3_f77cbb7d:
 msgid "[_cedrick_] О-охотник..."
-msgstr "[_cedrick_] Oh cazador..."
+msgstr "[_cedrick_] Oh cazador…"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:148 #-#-# translate crowdin talk_with_phobos_3_89c6a660:
 msgid "[_phobos_] Сейчас он занят тем, что ищет новую базу повстанцев в лесу. Учитывая его навыки, проблемы это не составит"
@@ -178,7 +178,7 @@ msgstr "[_phobos_] Ahora está ocupado buscando una nueva base rebelde en el bos
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:149 #-#-# translate crowdin talk_with_phobos_3_f2eee6eb:
 msgid "[_phobos_] После чего я поручу ему найти Райтера. И после того, как Охотник лично казнит прошлого главнокомандующего, будет назначен новый"
-msgstr "[_phobos_], Después de eso, le instruiré para encontrar a Reiter. Y después de que el cazador ejecuta personalmente al ex comandante en jefe, un nuevo"
+msgstr "[_phobos_] Después de eso, le instruiré para encontrar a Reiter. Y después de que el cazador ejecuta personalmente al ex comandante en jefe, un nuevo"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:153 #-#-# translate crowdin talk_with_phobos_3_c1ff0690:
 msgid "[_phobos_] И после этого, Седрик, Охотник возьмет на себя твои обязанности"
@@ -186,7 +186,7 @@ msgstr "[_phobos_] Y después de eso, Cedric, el cazador asumirá sus responsabi
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:157 #-#-# translate crowdin talk_with_phobos_3_d3eb9ae0:
 msgid "[_cedrick_] Ч-что..."
-msgstr "[_cedrick_] ¿Qué..."
+msgstr "[_cedrick_] ¿Qué…"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:161 #-#-# translate crowdin talk_with_phobos_3_c8743787:
 msgid "[_phobos_] Ты на земле уже достаточно долгое время, но все равно ни привел к нам ни одной стражницы. Уверен, охотник справится с этой задачей лучше"
@@ -202,11 +202,11 @@ msgstr "[_phobos_] Al menos eres mejor que él, Cedric. Para ser como la gente"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:170 #-#-# translate crowdin talk_with_phobos_3_21025df0:
 msgid "[_cedrick_] (Чертов ублюдок, он...)"
-msgstr "[_cedrick_] (Maldito bastardo, él...)"
+msgstr "[_cedrick_] (Maldito bastardo, él…)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:171 #-#-# translate crowdin talk_with_phobos_3_49316299_2:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:172 #-#-# translate crowdin talk_with_phobos_3_9db030e3:
 msgid "[_cedrick_] Получается, перетасовывание казарм сегодня было ради этого?"
@@ -218,33 +218,33 @@ msgstr "[_phobos_] Corresponsal, los guardias cambian de lugar, ya que se formar
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:180 #-#-# translate crowdin talk_with_phobos_3_459755e2:
 msgid "[_cedrick_] (Проклятье... У нас огромные проблемы)"
-msgstr "[_cedrick_] (Maldito... Tenemos grandes problemas)"
+msgstr "[_cedrick_] (Maldición… Tenemos graves problemas.)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:184 #-#-# translate crowdin talk_with_phobos_3_3020facb:
 msgid "[_phobos_] А теперь ступай, Седрик. На сегодня у меня больше нет с тобой никаких дел"
-msgstr "[_phobos_] Ahora vete, Cedric. No tengo nada que ver contigo hoy"
+msgstr "[_phobos_] Ahora vete, Cedric. Por hoy no tengo más asuntos que tratar contigo."
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:188 #-#-# translate crowdin talk_with_phobos_3_49316299_3:
 msgid "[_cedrick_] ..."
-msgstr "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:189 #-#-# translate crowdin talk_with_phobos_3_b4442662:
 msgid "[_cedrick_] Как прикажете..."
-msgstr "[_cedrick_] Como usted pide..."
+msgstr "[_cedrick_] Como ordene…"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:194 #-#-# translate crowdin talk_with_phobos_3_06c388ba:
 msgid "[_cedrick_] (С одной стороны, большим плюсом для нас является то, что Фобос не видит во мне источник угрозы. Он скорее тотально разочарован)"
-msgstr "[_cedrick_] (Por un lado, una gran ventaja para nosotros es que Fobos no me ve como una fuente de amenaza. Es más probable que esté totalmente decepcionado."
+msgstr "[_cedrick_] (Por un lado, nos beneficia mucho que Fobos no me considere una amenaza. Más bien está totalmente decepcionado.)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:195 #-#-# translate crowdin talk_with_phobos_3_703b8f09:
 msgid "[_cedrick_] (То, что он меня недооценивает, его и погубит. Но, с другой стороны...)"
-msgstr "[_cedrick_] (Lo que me subestima lo destruirá. Pero en el otro lado...)"
+msgstr "[_cedrick_] (Que me subestime será su perdición. Pero, por otro lado…)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:196 #-#-# translate crowdin talk_with_phobos_3_3dadd1ff:
 msgid "[_cedrick_] (Именно из-за этого теперь он больше надеется на Охотника. И с охотником у нас могут быть большие проблемы)"
-msgstr "[_cedrick_] (Por eso ahora espera al cazador. Y podemos tener grandes problemas con el cazador)"
+msgstr "[_cedrick_] (Precisamente por eso ahora deposita más esperanzas en el Cazador. Y el Cazador podría causarnos graves problemas.)"
 
 # game/scripts/quests/questTrainingOfGuards/talk_with_phobos_3.rpy:197 #-#-# translate crowdin talk_with_phobos_3_15ccb5bc:
 msgid "[_cedrick_] (Но... Об этом позже. Сейчас я должен завершить свои дела с Корнелией и Хай Лин)"
-msgstr "[_cedrick_] (Pero... Sobre eso más tarde. Ahora tengo que terminar mi negocio con Cornelia y Hay Lin)"
+msgstr "[_cedrick_] (Pero… ya me ocuparé de eso. Ahora debo terminar mis asuntos con Cornelia y Hay Lin.)"
 
