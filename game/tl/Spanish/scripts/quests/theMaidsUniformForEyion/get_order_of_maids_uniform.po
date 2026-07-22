@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-22 14:07\n"
+"PO-Revision-Date: 2026-07-22 21:21\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:3 #-#-# translate crowdin get_order_of_maids_uniform_c0bc3184:
 msgid "[_cedrick_] Элион, твоя новая рабочая форма пришла, готова примерить?"
@@ -18,7 +18,7 @@ msgstr "[_cedrick_] Elyon, su nuevo formulario de trabajo está aquí, ¿listo p
 
 # game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:8 #-#-# translate crowdin get_order_of_maids_uniform_c16e5e60:
 msgid "[_elion_] Агам, дай наконец посмотреть, что ты там выбрал. Сейчас пойду примерить"
-msgstr "[_elion_] Agam, déjame finalmente ver lo que elegiste allí. Me voy a probar"
+msgstr "[_elion_] Ajá, déjame ver de una vez qué elegiste. Voy a probármelo."
 
 # game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:12 #-#-# translate crowdin get_order_of_maids_uniform_a20cefa7:
 msgid "..."
@@ -34,7 +34,7 @@ msgstr "[_elion_] Rick, ¿qué es? ¿Por qué está así? Uh, ¡eso es!"
 
 # game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:15 #-#-# translate crowdin get_order_of_maids_uniform_24b44f7f:
 msgid "[_cedrick_] Хах, а что не так?"
-msgstr "[_cedrick_] Hach, ¿qué pasa?"
+msgstr "[_cedrick_] Ja, ¿qué pasa?"
 
 # game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:16 #-#-# translate crowdin get_order_of_maids_uniform_78c17b24:
 msgid "[_elion_] А то, что это форма развратной горничной!"
@@ -70,5 +70,5 @@ msgstr "[_elion_] Uh, bueno, si lo dices. Muy bien, Rick, gracias. Intentaré ac
 
 # game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:35 #-#-# translate crowdin get_order_of_maids_uniform_142dc6eb:
 msgid "[_cedrick_] (Фух, выкрутился..)"
-msgstr "[_cedrick_] (Pie, fuera..)"
+msgstr "[_cedrick_] (Pie, fuera…)"
 
