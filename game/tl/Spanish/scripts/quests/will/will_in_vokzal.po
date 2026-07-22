@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 10:18\n"
+"PO-Revision-Date: 2026-07-22 14:07\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/will/will_in_vokzal.rpy:11 #-#-# translate crowdin will_in_vokzal_fc70fe0a:
 msgid "[_will_] Рик!?"
@@ -106,7 +106,7 @@ msgstr "[_cedrick_] En ese caso, no me importa"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:112 #-#-# translate crowdin will_in_vokzal_1fac36bc:
 msgid "[_cedrick_] (Это отличный шанс сблизиться с семейкой Вендомов, если повезет мне удастся поразвлечься с обеими, кроме того это может помочь мне выполнить поручение Фобоса)"
-msgstr "[_cedrick_] (Es una gran oportunidad para acercarme a la familia Vandom, si tengo suerte quizá pueda divertirme con ambas, además podría ayudarme a hacer mi tarea para Phobos)"
+msgstr "[_cedrick_] (Es una gran oportunidad para acercarme a la familia Vandom, si tengo suerte quizá pueda divertirme con ambas, además podría ayudarme a hacer mi tarea para Fobos)"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:113 #-#-# translate crowdin will_in_vokzal_b01fbba9:
 msgid "*Спустя некоторое время за столом*"
