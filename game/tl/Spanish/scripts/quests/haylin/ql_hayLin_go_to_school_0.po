@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:38\n"
+"PO-Revision-Date: 2026-07-22 15:39\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:7 #-#-# translate crowdin ql_hayLin_go_to_school_0_3b26d3ac:
 msgid "[_haylin_] Эм... Привет, Эрик!"
@@ -38,7 +38,7 @@ msgstr "[_bess_] ¡Pronto lo descubrirán!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:14 #-#-# translate crowdin ql_hayLin_go_to_school_0_a4793216:
 msgid "[_bolelshica1_] Эри-и-ик, дорогой!"
-msgstr "[_bolelshica1_] ¡Eri-ee-eeek, cariño!"
+msgstr "[_bolelshica1_] ¡Eri-i-ic, cariño!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:15 #-#-# translate crowdin ql_hayLin_go_to_school_0_14335f7f:
 msgid "[_bolelshica2_] Отвали, стерва! Он мой!"
@@ -66,7 +66,7 @@ msgstr "[_bolelshica2_] No pensaste que Eric hablaría con alguien como tú, ore
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:23 #-#-# translate crowdin ql_hayLin_go_to_school_0_20c5a867:
 msgid "[_uria_] Ха-ха-ха! Вы только поглядите! Щелкунчик скобки свои раскрыла! Ха-ха-ха-ха!!!"
-msgstr "[_uria_] ¡Ja, ja, ja! ¡Mira! ¡El Cascanueces ha sacado sus brackets! ¡¡¡Ja, ja, ja!!!"
+msgstr "[_uria_] ¡Ja, ja, ja! ¡Miren eso! ¡La Cascanueces abrió la boca con todo y brackets! ¡Ja, ja, ja, ja!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:24 #-#-# translate crowdin ql_hayLin_go_to_school_0_a281f702:
 msgid "[_cedrick_] Эй, вы, а ну умолкли! Урия! Останешься после уроков… И вы, трое, тоже! За компанию..."
