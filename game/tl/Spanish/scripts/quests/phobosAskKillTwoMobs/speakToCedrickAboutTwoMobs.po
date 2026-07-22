@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:41\n"
+"PO-Revision-Date: 2026-07-22 21:19\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:9 #-#-# translate crowdin speakToCedrickAboutTwoMobs_3dd11241:
 msgid "[_cedrick_] Мой князь! Я выполнил ваше задание! Они согласны служить вам."
@@ -18,15 +18,15 @@ msgstr "[_cedrick_] ¡Mi príncipe! ¡He completado tu tarea! Están de acuerdo 
 
 # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:13 #-#-# translate crowdin speakToCedrickAboutTwoMobs_31eb9720:
 msgid "[_phobos_] Отлично, через несколько дней мы нападем на запретный город и сразим мятежников..."
-msgstr "[_phobos_] Genial, en unos días atacaremos la ciudad prohibida y derrotaremos a los rebeldes..."
+msgstr "[_phobos_] Genial, en unos días atacaremos la ciudad prohibida y derrotaremos a los rebeldes…"
 
 # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:14 #-#-# translate crowdin speakToCedrickAboutTwoMobs_8d630a0f:
 msgid "[_phobos_] Сразу после того как наши кузнецы восстановят доспехи и оружие..."
-msgstr "[_phobos_] Tan pronto como nuestros herreros hayan preparado las armaduras y las armas..."
+msgstr "[_phobos_] Tan pronto como nuestros herreros hayan preparado las armaduras y las armas…"
 
 # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:15 #-#-# translate crowdin speakToCedrickAboutTwoMobs_c0dbbc2c:
 msgid "[_cedrick_] Да, мой князь.."
-msgstr "[_cedrick_] Sí, mi príncipe.."
+msgstr "[_cedrick_] Sí, mi príncipe…"
 
 # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:26 #-#-# translate crowdin speakToCedrickAboutTwoMobs_a5a68edb:
 msgid "[_phobos_] И еще кое-что, Седрик. Не забудь так же отчитаться перед своим главнокомандующим Райтером, ты же помогал с его заданием"
@@ -34,7 +34,7 @@ msgstr "[_phobos_] Una cosa más, Cedric. No te olvides de informar a tu Comanda
 
 # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:30 #-#-# translate crowdin speakToCedrickAboutTwoMobs_dec7cab7:
 msgid "[_cedrick_] ...Будет сделано, мой князь"
-msgstr "[_cedrick_] ...se hará, mi príncipe"
+msgstr "[_cedrick_] …se hará, mi príncipe"
 
 # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:34 #-#-# translate crowdin speakToCedrickAboutTwoMobs_363d5c15:
 msgid "[_phobos_] Свободен!"
