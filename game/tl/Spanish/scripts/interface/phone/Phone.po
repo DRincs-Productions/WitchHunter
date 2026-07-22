@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-11-11 09:24\n"
+"PO-Revision-Date: 2026-07-22 21:16\n"
 
 # TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/interface/phone/Phone.rpy:14
 msgid "Сообщения"
@@ -98,7 +98,7 @@ msgstr ";* .i."
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Брайан.. мне очень плохо"
-msgstr "Brian... Me siento muy mal"
+msgstr "Brian… Me siento muy mal"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Томас"
