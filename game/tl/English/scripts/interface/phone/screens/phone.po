@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/interface/phone/screens/phone.po\n"
+"X-Crowdin-File-ID: 8197\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2024-01-27 15:17\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/interface/phone/screens/phone.rpy:52 #-#-# translate crowdin phone_no_signal_ac135db3:
+msgid "[_cedrick_] Нет связи... Не думаю что на Меридиане вообще связь возможна, мне придется вернуться в Хитерфилд"
+msgstr "[_cedrick_] No connection... I don't think connection is even possible on Meridian. I will have to return to Heatherfield"
+

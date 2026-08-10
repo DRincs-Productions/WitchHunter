@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/core/inventory/items/items.po\n"
+"X-Crowdin-File-ID: 8031\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2024-11-12 18:07\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
+msgid "Звезда Трибы"
+msgstr "Stern des Stammes"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Древний артефакт который должен привлечь наследницу престола"
+msgstr "Ein altes Artefakt das den Thronfolger anlocken soll"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Плюшевый Тоторо"
+msgstr "Teddy Totoro"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Плюшовая игрушка Тоторо"
+msgstr "Totoro Plüschtier"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Корень Мандрагоры"
+msgstr "Alraunwurzel"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Корень очень редкого растения!"
+msgstr "Die Wurzel einer sehr seltenen Pflanze!"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Китайская Чавкающая Капуста"
+msgstr "Chinakohl in Stücken"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Магический овощ выращенный в Китае."
+msgstr "Ein magisches Gemüse das in China angebaut wird."
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Мертвая лягушка"
+msgstr "Toter Frosch"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Мертвая лягушка, кишки, мерзость"
+msgstr "Toter Frosch, Eingeweide, Abscheulichkeit"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Мобильный телефон"
+msgstr "Mobiltelefon"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Телефон с контактками учеников из школы"
+msgstr "Ein Telefon mit Schülerkontakten aus der Schule"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Красная Кепка"
+msgstr "Rote Kappe"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Детская красная кепка"
+msgstr "Die rote Mütze eines Kindes"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Шоколадка"
+msgstr "Schokolade"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Вкусная шоколадка"
+msgstr "Ein leckerer Schokoriegel"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Женская одежда"
+msgstr "Kleidung für Frauen"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Подойдет для Элион"
+msgstr "Es ist gut für Elyon"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Трусики"
+msgstr "Höschen"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Использованные трусики Миранды"
+msgstr "Mirandas gebrauchte Schlüpfer"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Хвост большого морпиона"
+msgstr "Der Schwanz des großen Morpion"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Можно использовать для приготвления зелья"
+msgstr "Du kannst damit Tränke herstellen"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Микрофон"
+msgstr "Mikrofon"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Фотоаппарат"
+msgstr "Kamera"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Ноздря дракона"
+msgstr "Das Nasenloch des Drachens"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Клык Ларвека"
+msgstr "Larvekzahn"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Золотая цепь"
+msgstr "Goldkette"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Модная футболка"
+msgstr "Ausgefallenes T-Shirt"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Билеты на концерт"
+msgstr "Konzertkarten"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Зелье возраста"
+msgstr "Ein Zaubertrank des Alters"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Феаинневедд"
+msgstr "Gekonnt"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Кот"
+msgstr "Katze"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Одежда большого размера"
+msgstr "Kleidung in Übergröße"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Клочок волос"
+msgstr "Ein Stück Haar"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Пустой магический сосуд"
+msgstr "Ein leeres magisches Gefäß"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Заполненный магический сосуд"
+msgstr "Ein gefülltes magisches Gefäß"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Повседневная одежда"
+msgstr "Freizeitkleidung"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Пижама"
+msgstr "Schlafanzug"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Форма служанки"
+msgstr "Dienstmädchenuniform"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Афродизиак"
+msgstr "Aphrodisiakum"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Цветок с красной сердцевиной"
+msgstr "Eine Blume mit einem roten Kern"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Голубая капля"
+msgstr "Blauer Tropfen"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Теплая одежда"
+msgstr "Warme Kleidung"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Железа морпиона"
+msgstr "Morpion-Eisen"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Сок из желез морпионов"
+msgstr "Saft aus den Drüsen von Morpionen"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Кристаллическая железа королевы морпионов"
+msgstr "Das Kristalleisen der Morpionkönigin"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Кристаллическая эссенция"
+msgstr "Kristall-Essenz"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Женский купальный костюм"
+msgstr "Badeanzug für Frauen"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Мужские плавки"
+msgstr "Badehose für Männer"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Продукты для ужина"
+msgstr "Produkte für das Abendessen"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Зелье восстановления магии"
+msgstr "Magischer Wiederherstellungstrank"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Викодин"
+msgstr "Vicodin"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Сексуальный комплект для ролевых игр"
+msgstr "Sexy Rollenspiel-Kit"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Виброяйцо с пультом управления\n"
+"(суперпредложение: два комплекта по цене одного)"
+msgstr "\n"
+"Vibro-Ei mit Fernsteuerung (Superangebot: zwei Sets zum Preis von einem)"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Посылка для Вилл"
+msgstr "Ein Päckchen für Will"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Роскошное колье"
+msgstr "Luxuriöse Halskette"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Кружевное эротическое белье"
+msgstr "Erotische Spitzenunterwäsche"
+

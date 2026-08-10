@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/will/go_to_the_cinema_with_susan.po\n"
+"X-Crowdin-File-ID: 8743\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2026-07-22 21:22\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:7 #-#-# translate crowdin go_to_the_cinema_with_susan_a8338db7:
+msgid "[_cedrick_] Привет Сьюзан... Понимаю ты сказала что у нас не чего не получится но..."
+msgstr "[_cedrick_] Oye, Susan… Sé que dijiste que no funcionaría, pero…"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:13 #-#-# translate crowdin go_to_the_cinema_with_susan_f46c8cc9:
+msgid "[_susan_] Ах Рик прости, зря я дала этому ублюдку шанс, он опять ввязался в азартные игры и проиграл те деньги что я дала ему на оплату квартиры"
+msgstr "[_susan_] Oh Rick lo siento, no debería haberle dado una oportunidad a ese bastardo, está jugando de nuevo y perdió el dinero que le di para pagar el alquiler"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:14 #-#-# translate crowdin go_to_the_cinema_with_susan_6e75fe40:
+msgid "[_susan_] Похоже что люди не меняются..."
+msgstr "[_susan_] Parece que la gente no cambia…"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:15 #-#-# translate crowdin go_to_the_cinema_with_susan_bc05525c:
+msgid "[_cedrick_] Значит у нас все в силе?"
+msgstr "[_cedrick_] Entonces, ¿estamos bien?"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:22 #-#-# translate crowdin gallery_d_005_fcfc14bf:
+msgid "[_susan_] Если ты не против.. Прости что я так с тобой поступила..."
+msgstr "[_susan_] Si no te importa… Siento lo que te hice…"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:23 #-#-# translate crowdin gallery_d_005_172bddc7:
+msgid "[_cedrick_] Тогда может... Сходим в кино?"
+msgstr "[_cedrick_] Entonces qué te parece sí… ¿Vamos al cine?"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:24 #-#-# translate crowdin gallery_d_005_e0ba8bbc:
+msgid "[_susan_] Когда?"
+msgstr "[_susan_] ¿Cuándo?"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:25 #-#-# translate crowdin gallery_d_005_0b79aaff:
+msgid "[_cedrick_] Прямо сейчас"
+msgstr "[_cedrick_] Ahora"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:31 #-#-# translate crowdin gallery_d_005_c015b547:
+msgid "[_susan_] Но я не готова, мне нужно переодеться и.."
+msgstr "[_susan_] Pero no estoy preparada, necesito cambiarme y…"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:32 #-#-# translate crowdin gallery_d_005_9133218a:
+msgid "[_cedrick_] Ерунда, ты прекрасно выглядишь"
+msgstr "[_cedrick_] Tonterías, estás estupenda"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:38 #-#-# translate crowdin gallery_d_005_cf67c13e:
+msgid "*спустя некоторое время в кино*"
+msgstr "*después de un rato, en el cine*"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:44 #-#-# translate crowdin gallery_d_005_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:45 #-#-# translate crowdin gallery_d_005_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:46 #-#-# translate crowdin gallery_d_005_a20cefa7_2:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:51 #-#-# translate crowdin gallery_d_005_afbdb33c:
+msgid "[_cedrick_] интересный фильм не находишь?"
+msgstr "[_cedrick_] Una película interesante, ¿no crees?"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:53 #-#-# translate crowdin gallery_d_005_d6c78f53:
+msgid "[_susan_] ММ да.."
+msgstr "[_susan_] MM sí…"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:57 #-#-# translate crowdin gallery_d_005_deec2a8f:
+msgid "*Сьюзан расстегнула ширинку на джинсах и начала нежно поглаживать член Седрика*"
+msgstr "*Susan abrió la cremallera de los pantalones de Cedric y empezó a acariciarle el pene con suavidad*"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:61 #-#-# translate crowdin gallery_d_005_a07f568b:
+msgid "[_cedrick_] Сьюзан..."
+msgstr "[_cedrick_] Susan…"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:65 #-#-# translate crowdin gallery_d_005_190387b7:
+msgid "[_cedrick_] Мы ведь в общественном месте."
+msgstr "[_cedrick_] Estamos en un lugar público."
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:69 #-#-# translate crowdin gallery_d_005_cce252f6:
+msgid "[_susan_] ...ничего"
+msgstr "[_susan_] …No es nada"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:73 #-#-# translate crowdin gallery_d_005_54e2d03e:
+msgid "Сьюзан продолжает мастурбировать член седркиа"
+msgstr "Susan sigue masturbando el pene de Cedric"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:77 #-#-# translate crowdin gallery_d_005_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:81 #-#-# translate crowdin gallery_d_005_b3ec4a21:
+msgid "[_cedrick_] (Похоже она очень опытна в этом деле... Я еле сдерживаюсь...)"
+msgstr "[_cedrick_] (Parece muy experimentada en esto… Apenas puedo contenerme…)"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:85 #-#-# translate crowdin gallery_d_005_782da11f:
+msgid "[_cedrick_] ...."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:89 #-#-# translate crowdin gallery_d_005_ca3bb28b:
+msgid "[_cedrick_] сьюзан..."
+msgstr "[_cedrick_] susan…"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:93 #-#-# translate crowdin gallery_d_005_3db1aff6:
+msgid "[_cedrick_] Я почти..."
+msgstr "[_cedrick_] Ya casi…"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:97 #-#-# translate crowdin gallery_d_005_adf04ea7:
+msgid "*седрик кончает на руку сьюзан*"
+msgstr "* Cedric se corre en la mano de Susan*"
+
+# game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:98 #-#-# translate crowdin gallery_d_005_cfbb7a1c:
+msgid "[_susan_] Можеш считать что это мои извинения"
+msgstr "[_susan_] Puedes considerarlo como mi disculpa"
+

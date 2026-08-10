@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.po\n"
+"X-Crowdin-File-ID: 8611\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-11-11 09:44\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:3 #-#-# translate crowdin cedric_monologue_in_the_bookshop_41c4e7ce:
+msgid "[_cedrick_] (Итак, я отдохнул и набрался сил. Теперь нужно спланировать свои дальнейшие действия..)"
+msgstr "[_cedrick_] (Quindi, mi sono riposato e ho recuperato le forze. Ora devo pianificare i miei prossimi passi...)"
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:4 #-#-# translate crowdin cedric_monologue_in_the_bookshop_a2d46730:
+msgid "[_cedrick_] (Перед выходом из суда я попросил Алхими дождаться Вилл, Ирму и Корнелию, чтобы они вместе отправились на Меридиан)"
+msgstr "[_cedrick_] (Prima di lasciare il tribunale, ho chiesto ad Alchemy di aspettare Will, Irma e Cornelia per andare insieme a Meridian)."
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:5 #-#-# translate crowdin cedric_monologue_in_the_bookshop_c82dbcc3:
+msgid "[_cedrick_] (Там их должен встретить Булдж и незаметно провести в замок. Заодно проверю надежность Булджа как главного исполнителя)"
+msgstr "[_cedrick_] (Bulge dovrebbe incontrarli lì e farli entrare di nascosto nel castello. Allo stesso tempo, verificherò l'affidabilità di Bulge come esecutore principale)."
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:6 #-#-# translate crowdin cedric_monologue_in_the_bookshop_098ae814:
+msgid "[_cedrick_] (Хм, мне уже тоже пора бы выдвигаться)"
+msgstr "[_cedrick_] (Hmm, a questo punto dovrei trasferirmi anch'io)."
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:7 #-#-# translate crowdin cedric_monologue_in_the_bookshop_2a66d640:
+msgid "[_cedrick_] (Сегодняшний день ознаменуется началом падения стражниц)"
+msgstr "[_cedrick_] (Oggi inizierà la caduta delle guardie)."
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:8 #-#-# translate crowdin cedric_monologue_in_the_bookshop_db3513a3:
+msgid "[_cedrick_] (Основная проблема - Тарани и Хай Лин)"
+msgstr "[_cedrick_] (Il problema principale sono Taranee e Hay Lin)"
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:9 #-#-# translate crowdin cedric_monologue_in_the_bookshop_f0162614:
+msgid "[_cedrick_] (С Хай Лин я давно не пересекался, она не ходила на мои уроки и не присоединилась к совместной атаке Ирмы и Тарани)"
+msgstr "[_cedrick_] (Non incrocio Hay Lin da molto tempo, non ha seguito i miei corsi né si è unita all'attacco congiunto di Irma e Taranee)."
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:10 #-#-# translate crowdin cedric_monologue_in_the_bookshop_760157bc:
+msgid "[_cedrick_] (Даже вся эта судебная история обошла ее стороной. Хм, она явно пытается держаться от меня подальше. Возможно даже от всей истории со стражницами)"
+msgstr "[_cedrick_] (Anche la storia del tribunale l'ha ignorata). È chiaro che sta cercando di stare lontana da me. Forse anche la storia del tutore)."
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:11 #-#-# translate crowdin cedric_monologue_in_the_bookshop_c12307c6:
+msgid "[_cedrick_] (Пожалуй стоит ей напомнить, что моя помощь ей необходима)"
+msgstr "[_cedrick_] (Forse dovrei ricordarle che ha bisogno del mio aiuto)."
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:12 #-#-# translate crowdin cedric_monologue_in_the_bookshop_ec0b5776:
+msgid "[_cedrick_] (Другая проблема - Тарани. Если рычаги давления на Хай Лин я знаю и поработать с ее сознанием не будет большой проблемой. То вот Тарани..)"
+msgstr "[_cedrick_] (L'altro problema è Taranee. Se conosco la leva su Hay Lin e lavoro sulla sua mente, non sarà un grosso problema. Ma Taranee)."
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:13 #-#-# translate crowdin cedric_monologue_in_the_bookshop_8fbc0d66:
+msgid "[_cedrick_] (Черт.. В чем же слабость этой девчонки, я должен выяснить. Иначе в будущем ее несломленный характер может создать брешь во всем моем плане)"
+msgstr "[_cedrick_] (Dannazione... Qual è la debolezza di questa ragazza, devo scoprirlo. Altrimenti, il suo carattere infrangibile potrebbe creare una falla in tutto il mio piano in futuro)."
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:14 #-#-# translate crowdin cedric_monologue_in_the_bookshop_555881dc:
+msgid "[_cedrick_] (Хм, можем Миранда сможет подсказать? Думаю у нее найдется какое-нибудь очередное зелье на этот случай)"
+msgstr "[_cedrick_] (Miranda può darci un indizio? Credo che abbia una specie di pozione per questo)."
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:15 #-#-# translate crowdin cedric_monologue_in_the_bookshop_f3238a53:
+msgid "[_cedrick_] (Но перед этим.. Я должен предстать перед Фобосом с докладом о последних событиях..)"
+msgstr "[_cedrick_] (Ma prima di questo. Devo presentarmi davanti a Phobos per riferire sugli ultimi eventi...)"
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:16 #-#-# translate crowdin cedric_monologue_in_the_bookshop_48558f38:
+msgid "[_cedrick_] (Благо в этот раз я заранее все продумал и предугадал его каверзные вопросы. На столько, на сколько это возможно...)"
+msgstr "[_cedrick_] (Questa volta avevo pensato a tutto in anticipo e avevo anticipato le sue domande difficili. Per quanto possibile...)"
+
+# game/scripts/quests/questReportForPrincePhobos/cedric_monologue_in_the_bookshop.rpy:17 #-#-# translate crowdin cedric_monologue_in_the_bookshop_37813957:
+msgid "[_cedrick_] (Пора выдвигаться)"
+msgstr "[_cedrick_] (E' ora di andarsene)"
+

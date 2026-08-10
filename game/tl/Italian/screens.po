@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 7923\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2024-04-26 14:48\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:71
+msgid "[tooltip]"
+msgstr "[tooltip]"
+
+# game/screens.rpy:92
+msgid "Нашел опечатку"
+msgstr "Trovato un errore di battitura"
+
+# game/screens.rpy:203
+msgid "Пропуск"
+msgstr "Passo"
+
+# game/screens.rpy:440
+msgid "Начать"
+msgstr "Inizio"
+
+# game/screens.rpy:441
+msgid "Загрузить"
+msgstr "Carica"
+
+# game/screens.rpy:442
+msgid "Настройки"
+msgstr "Impostazioni"
+
+# game/screens.rpy:443
+msgid "Галерея"
+msgstr "Galleria"
+
+# game/screens.rpy:444
+msgid "Чит-меню"
+msgstr "Menu baro"
+
+# game/screens.rpy:445
+msgid "Поддержать"
+msgstr "Supporto"
+
+# game/screens.rpy:446
+msgid "Титры"
+msgstr "Titoli"
+
+# game/screens.rpy:447
+msgid "Выйти"
+msgstr "Vai a"
+
+# game/screens.rpy:484
+msgid "Вернуться в игру"
+msgstr "Riprendi la partita"
+
+# game/screens.rpy:487
+msgid "Сохранить"
+msgstr "Salvare"
+
+# game/screens.rpy:495
+msgid "Главное меню"
+msgstr "Menu principale"
+
+# game/screens.rpy:586
+msgid "Empty Slot."
+msgstr "Slot vuoto."
+
+# game/screens.rpy:623
+msgid "Это сохранение не поддерживает текущую версию игры [game_version]. Загрузка этого сохранения может привести к ошибкам!"
+msgstr "Questo salvataggio non supporta la versione attuale del gioco [game_version]. Il download di questo salvataggio può causare errori!"
+
+# game/screens.rpy:663
+msgid "Авто"
+msgstr "Auto"
+
+# game/screens.rpy:668
+msgid "Быстро"
+msgstr "Veloce"
+
+# game/screens.rpy:689
+msgid "Далее"
+msgstr "Avanti"
+
+# game/screens.rpy:801
+msgid "Да"
+msgstr "Si"
+
+# game/screens.rpy:805
+msgid "Нет"
+msgstr "No"
+
+# game/screens.rpy:837
+msgid "Меню"
+msgstr "Menu"
+
+# game/screens.rpy:838
+msgid "Быстрое сохранение"
+msgstr "Salvataggio rapido"
+
+# game/screens.rpy:839
+msgid "Быстрая Загрузка"
+msgstr "Caricamento rapido"
+
+# game/screens.rpy:841
+msgid "Быстрый пропуск"
+msgstr "Passaggio veloce"
+
+# game/screens.rpy:842
+msgid "Авто пропуск"
+msgstr "Passaggio automatico"
+
+# game/screens.rpy:843
+msgid "Скрыть"
+msgstr "Nascondere"
+

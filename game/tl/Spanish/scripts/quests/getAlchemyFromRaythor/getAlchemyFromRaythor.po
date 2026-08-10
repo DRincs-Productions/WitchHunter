@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.po\n"
+"X-Crowdin-File-ID: 8353\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2026-07-22 21:17\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:5 #-#-# translate crowdin getAlchemyFromRaythor_2cc482bf:
+msgid "[_raythor_] О, снова ты, Седрик? Какими судьбами?"
+msgstr "[_raythor_] Oh, ¿tú otra vez, Cedric? ¿Qué te trae por aquí?"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:9 #-#-# translate crowdin getAlchemyFromRaythor_e5ae04c2:
+msgid "[_cedrick_] Я одолел Гаргойла и Песчаного демона, твоя армия готова, осталось только доспехи с оружием подлатать"
+msgstr "[_cedrick_] Derroté a la Gárgola y al Demonio de Arena. Tu ejército está listo; solo falta reparar las armaduras y las armas."
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:13 #-#-# translate crowdin getAlchemyFromRaythor_918c8507:
+msgid "[_raythor_] Ааааа, привыкаешь к новой роли? Пришел отчитаться о выполненном задании своему главнокомандующему, похвально. "
+msgstr "[_raythor_] Ahhh, ¿te estás acostumbrando a tu nuevo cargo? Viniste a informar a tu comandante en jefe de que cumpliste la misión. Admirable."
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:17 #-#-# translate crowdin getAlchemyFromRaythor_14440ad4:
+msgid "[_cedrick_] Я сделал это за тебя, потому что ты даже со своей армией не смог бы победить этих двоих"
+msgstr "[_cedrick_] Lo hice por ti porque ni siquiera con tu ejército podrías derrotar a estos dos."
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:21 #-#-# translate crowdin getAlchemyFromRaythor_355f925a:
+msgid "[_raythor_] А зачем побеждать их мне, когда я могу послать тебя?"
+msgstr "[_raythor_] ¿Por qué debería derrotarlos cuando puedo enviarte?"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:25 #-#-# translate crowdin getAlchemyFromRaythor_85de82e4:
+msgid "[_cedrick_] ...Знаешь, лет 100 назад, когда ты еще даже не родился, у нас в армии были иные обычаи, нежели сейчас"
+msgstr "[_cedrick_] Ya sabes, hace 100 años, cuando aún no habías nacido, nuestro ejército tenía costumbres diferentes a las de ahora."
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:29 #-#-# translate crowdin getAlchemyFromRaythor_83249418:
+msgid "[_cedrick_] Например, по старым законам, тот, кто убил главнокомандующего собственными силами в честном бою, без сторонней помощи и грязных трюков, мог в итоге занять его место"
+msgstr "[_cedrick_] Por ejemplo, según las antiguas leyes, quien matara al comandante en jefe por sus propios medios en un combate justo, sin ayuda externa ni trucos sucios, al final podía ocupar su lugar."
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:30 #-#-# translate crowdin getAlchemyFromRaythor_49009236:
+msgid "[_cedrick_] В итоге князь Фобос упразднил этот закон, а знаешь почему?"
+msgstr "[_cedrick_] Como resultado, el Príncipe Fobos originalmente abolió esta ley, ¿y sabes por qué?"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:34 #-#-# translate crowdin getAlchemyFromRaythor_1e0f2cbb:
+msgid "[_raythor_] Ну и почему же?"
+msgstr "[_raythor_] Entonces ¿por qué?"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:38 #-#-# translate crowdin getAlchemyFromRaythor_1315e562:
+msgid "[_cedrick_] За все то время, пока действовал этот закон, набралось больше сотни смельчаков, бросивших мне вызов... и ни один не ушел от меня живым"
+msgstr "[_cedrick_] Durante todo el tiempo que estuvo vigente esta ley, fueron más de cien temerarios los que me desafiaron… y ninguno me dejó con vida."
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:39 #-#-# translate crowdin getAlchemyFromRaythor_019a3b07:
+msgid "[_cedrick_] Князь Фобос упразднил этот закон, потому что ему надоело попусту терять людей, ведь было очевидно, что нет в Меридиане солдата, который одолел бы меня"
+msgstr "[_cedrick_] El Príncipe Fobos abolió esta ley porque estaba cansado de desperdiciar a la gente, porque era obvio que no había ningún soldado en Meridian que pudiera derrotarme."
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:40 #-#-# translate crowdin getAlchemyFromRaythor_7d6acc64:
+msgid "[_cedrick_]  И знаешь что? Будь этот закон все еще в силе, ты бы и дня не прожил, Райтер"
+msgstr "[_cedrick_] ¿Y adivina qué? Si esta ley todavía estuviera vigente, no vivirías ni un día, Reiter."
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:44 #-#-# translate crowdin getAlchemyFromRaythor_b77eea8f:
+msgid "[_raythor_] ......"
+msgstr "[_raythor_] …"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:45 #-#-# translate crowdin getAlchemyFromRaythor_fff6679e:
+msgid "[_cedrick_] До скорого. Наслаждайся своим статусом, пока можешь. Скоро я заберу его назад"
+msgstr "[_cedrick_] Nos vemos pronto. Disfruta de tu estatus mientras puedas. Lo recuperaré pronto."
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:48 #-#-# translate crowdin gallery_d_044_b044bb4f:
+msgid "[_centered_] {size=37}ПРОХОДЯ МИМО КАЗАРМЫ СТРАЖНИКОВ, СЕДРИК ЗАМЕЧАЕТ, КАК ОНИ РАЗВЛЕКАЮТСЯ С КАКОЙ-ТО ДЕВОЧНКОЙ{/size}"
+msgstr "[_centered_] {size=37}AL PASAR POR EL CUARTEL DE LOS GUARDIAS, CEDRIC SE DA CUENTA DE QUE SE DIVIERTEN CON UNA CHICA{/size}"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:54 #-#-# translate crowdin gallery_d_044_0b41ca7c:
+msgid "[_str1_] О дааа, эта сука отлично сосет!"
+msgstr "[_str1_] ¡Oh, sí, esta perra chupa genial!"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:55 #-#-# translate crowdin gallery_d_044_d0d48ac8:
+msgid "[_alchemy_] Мммммввввмб!!!"
+msgstr "[_alchemy_] Mmmmmmmmm!!!!"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:56 #-#-# translate crowdin gallery_d_044_ba0afdc0:
+msgid "[_cedrick_] (Что, черт возьми, происходит?)"
+msgstr "[_cedrick_] (¿Qué diablos está pasando?)"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:57 #-#-# translate crowdin gallery_d_044_4f3e306f:
+msgid "[_str2_] Ооооох, она уже так хорошо умеет принимать в задницу!"
+msgstr "[_str2_] ¡Oooooh, ella ya sabe muy bien cómo recibirlo por el culo!"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:58 #-#-# translate crowdin gallery_d_044_60a3d27f:
+msgid "[_alchemy_] Мммбббрр...."
+msgstr "[_alchemy_] Mmmmmmmm…"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:59 #-#-# translate crowdin gallery_d_044_daac4b58:
+msgid "[_str3_] Как круто, что мы смогли найти себе такую зверушку!"
+msgstr "[_str3_] ¡Qué genial que hayamos podido encontrar un animal así por nosotros mismos!"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:60 #-#-# translate crowdin gallery_d_044_3e4988e5:
+msgid "[_str1_] Точно, братан!"
+msgstr "[_str1_] ¡Exactamente, hermano!"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:61 #-#-# translate crowdin gallery_d_044_049c2b7d:
+msgid "[_cedrick_] (Мда, так Алхими не долго протянет)"
+msgstr "[_cedrick_] (Hmm, Alchemy no durará mucho así.)"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:62 #-#-# translate crowdin gallery_d_044_1faed98d:
+msgid "[_str2_] Ухххх, мужики, ее пизда слишком хороша, я больше не могу, сейчас кончу!"
+msgstr "[_str2_] Uhhhh chicos, su coño es demasiado bueno, no puedo soportarlo más, ¡estoy a punto de correrme!"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:63 #-#-# translate crowdin gallery_d_044_ef4eb170:
+msgid "[_alchemy_] Мммммвввваааб!!!"
+msgstr "[_alchemy_] Mmmmmmmmm!!!!"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:64 #-#-# translate crowdin gallery_d_044_66f6ad04:
+msgid "[_str1_] Тогда устроим ей незабываемый дождь!"
+msgstr "[_str1_] ¡Entonces regalémosle una lluvia inolvidable!"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:67 #-#-# translate crowdin gallery_d_044_0c4b02cb:
+msgid "[_str3_] Оооо даааа"
+msgstr "[_str3_] Ooh siii."
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:68 #-#-# translate crowdin gallery_d_044_f08382d4:
+msgid "[_alchemy_] Аааааввввваааа!!!"
+msgstr "[_alchemy_] Aaaaaaahhhhhh!!!"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:69 #-#-# translate crowdin gallery_d_044_d8c32141:
+msgid "[_cedrick_] Так, все, заканчивайте, сраные животные!"
+msgstr "[_cedrick_] Ok, eso es todo, ¡basta, malditos animales!"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:71 #-#-# translate crowdin gallery_d_044_b115b0f3:
+msgid "[_str3_] Л-Лорд Седрик! Почему вы..."
+msgstr "[_str3_] ¡L-Lord Cedric! ¿Por qué estás…?"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:72 #-#-# translate crowdin gallery_d_044_1c126983:
+msgid "[_cedrick_] Молчать! Кто вам позволил трахаться с девчонкой прямо в казарме!? Вы что, забыли правила!"
+msgstr "[_cedrick_] ¡Calla! ¿¡Quién te permitió cogerte a una chica en el cuartel!? ¿Has olvidado las reglas?"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:73 #-#-# translate crowdin gallery_d_044_25af8284:
+msgid "[_str1_] П-приносим свои извинения, главнокомандующий Седрик..."
+msgstr "[_str1_] N-nos disculpamos, comandante en jefe Cedric…"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:74 #-#-# translate crowdin gallery_d_044_8716d493:
+msgid "[_cedrick_] Я больше не ваш главнокомандующий, солдат. Но это не дает вам права нарушать устав! Никаких девок в казарме. Хотите трахаться – делайте это за пределами замка"
+msgstr "[_cedrick_] Ya no soy tu comandante en jefe, soldado. ¡Pero esto no le da derecho a violar la regla! No hay chicas en el cuartel. Si quieres coger hazlo fuera del castillo."
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:75 #-#-# translate crowdin gallery_d_044_9851aca8:
+msgid "[_str2_] Т-так точно, Лорд Седрик!"
+msgstr "[_str2_] ¡A-así es, Lord Cedric!"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:76 #-#-# translate crowdin gallery_d_044_c9da3aee:
+msgid "[_cedrick_] Я забираю девчонку"
+msgstr "[_cedrick_] Me llevo a la chica."
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:77 #-#-# translate crowdin gallery_d_044_5f7367ee:
+msgid "[_centered_] {size=37}СЕДРИК ЗАБИРАЕТ АЛХИМИ С СОБОЙ{/size}"
+msgstr "[_centered_] {size=37}CEDRIC SE LLEVA A ALCHEMY CON ÉL{/size}"
+
+# game/scripts/quests/getAlchemyFromRaythor/getAlchemyFromRaythor.rpy:78 #-#-# translate crowdin gallery_d_044_0d16abb9:
+msgid "[_cedrick_] (Черт, девчонка отрубилась. Надо дать ей время оклематься после произошедшего. Пусть пока отдыхает в камере)"
+msgstr "[_cedrick_] (Maldita sea, la chica se desmayó. Necesitamos darle tiempo para que se recupere de lo sucedido. Déjela descansar en la celda por ahora.)"
+

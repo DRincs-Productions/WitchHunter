@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questMotherDay/minigame_beachstrike.po\n"
+"X-Crowdin-File-ID: 13020\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2024-04-27 21:05\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/minigame_beachstrike.rpy:234 #-#-# translate crowdin podskazka2_9bab1fc4:
+msgid "Следующая мини игра представляет из себя тир где от вас требуется избавляется от урии и его банды до того как они успеют сделать фото."
+msgstr "Il prossimo minigioco è un tiro a segno in cui dovrete sbarazzarvi di Uriah e della sua banda prima che possano scattare una foto."
+
+# game/scripts/quests/questMotherDay/minigame_beachstrike.rpy:235 #-#-# translate crowdin podskazka2_54e87bf2:
+msgid "У вас есть прицел который необходимо навести на появившегося противника и кликнуть ( либо просто нажать на противника в случаи если вы играете на андроид). Нужно делать это как можно быстрее чтобы они не успели сделать фотографию."
+msgstr "Avete un cannocchiale che dovete puntare verso il nemico e cliccare (o semplicemente cliccare sul nemico se state giocando su Android). Dovete farlo il più velocemente possibile, in modo che il nemico non abbia il tempo di scattare una foto."
+
+# game/scripts/quests/questMotherDay/minigame_beachstrike.rpy:238 #-#-# translate crowdin podskazka2_60c1b540:
+msgid "Справа вверху вы можете увидеть количество сделанных бандой Урии фотографий, если их наберется 3 вы проиграете."
+msgstr "In alto a destra si può vedere il numero di foto scattate dalla banda di Uriah, se sono 3 si perde."
+
+# game/scripts/quests/questMotherDay/minigame_beachstrike.rpy:241 #-#-# translate crowdin podskazka2_e50fb1e7:
+msgid "Также сверху располагается таймер в течении которого вам нужно продержатся не давая банде Урии сделать необходимое количество фотографий для успешного заверешния задачи."
+msgstr "C'è anche un timer durante il quale bisogna resistere senza lasciare che la banda di Uriah scatti il numero di foto necessario per completare con successo il compito."
+
+# game/scripts/quests/questMotherDay/minigame_beachstrike.rpy:242 #-#-# translate crowdin podskazka2_96706d16:
+msgid "Продержитесь необходимое количество времени для успешного завершения мини игры (либо же проиграйте и посмотрите что будет далее)"
+msgstr "Resistere per il tempo richiesto per completare con successo il minigioco (o perdere e vedere cosa succede dopo)"
+
+# game/scripts/quests/questMotherDay/minigame_beachstrike.rpy:243 #-#-# translate crowdin podskazka2_26f7e424:
+msgid "Удачной игры!"
+msgstr "Buon divertimento!"
+

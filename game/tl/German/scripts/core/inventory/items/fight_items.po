@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/core/inventory/items/fight_items.po\n"
+"X-Crowdin-File-ID: 8029\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2024-10-03 23:44\n"
+
+# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Большое Зелье Здоровья"
+msgstr "Großer Gesundheitstrank"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье восстанавливает 100 единиц здоровья"
+msgstr "Der Trank stellt 100 Lebenspunkte wieder her"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Малое Зелье Здоровья"
+msgstr "Kleiner Gesundheitstrank"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье восстанавливает 50 единиц здоровья"
+msgstr "Der Trank stellt 50 Einheiten Gesundheit wieder her"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье с ядом"
+msgstr "Gifttrank"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Отравляет врага на 5 ходов, каждый ход враг получает 15 урона"
+msgstr "Vergiftet den Feind 5 Runden lang, jede Runde erleidet der Feind 15 Schaden"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Сонное зелье"
+msgstr "Schlaftrunk"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Заставляет уснуть врага на 3 хода"
+msgstr "Verursacht, dass der Gegner 3 Runden lang schläft"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Паутинное зелье"
+msgstr "Zaubertrank der Spinne"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Замедляет врага на 4 хода"
+msgstr "Verlangsamt den Feind für 4 Runden"
+

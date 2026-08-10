@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/core/quests/QuestDealWithDetectives.po\n"
+"X-Crowdin-File-ID: 8049\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2023-11-11 09:18\n"
+
+# TODO: Translation updated at 2023-07-25 15:56 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestDealWithDetectives.rpy:3
+msgid "Разобраться с детективами"
+msgstr ""
+
+# game/scripts/core/quests/QuestDealWithDetectives.rpy:16
+msgid "Проникнуть в полицейский участок"
+msgstr ""
+
+# game/scripts/core/quests/QuestDealWithDetectives.rpy:16
+msgid "Найти информацию о Медине в полицейском участке"
+msgstr ""
+
+# game/scripts/core/quests/QuestDealWithDetectives.rpy:16
+msgid "Отвести Медину домой"
+msgstr ""
+

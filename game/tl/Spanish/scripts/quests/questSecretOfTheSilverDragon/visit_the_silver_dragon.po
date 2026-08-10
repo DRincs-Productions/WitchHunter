@@ -1,0 +1,1726 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.po\n"
+"X-Crowdin-File-ID: 8635\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2026-07-22 21:20\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:4 #-#-# translate crowdin visit_the_silver_dragon_ada0e601:
+msgid "[_haylin_] Р-рик!? Что ты.."
+msgstr "[_haylin_] R-rick!? ¿Qué eres tú…?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:5 #-#-# translate crowdin visit_the_silver_dragon_8bde9c86:
+msgid "[_cedrick_] Я пришел сегодня помочь вам в ресторане. Твоя мама меня попросила"
+msgstr "[_cedrick_] He venido a ayudarte en un restaurante hoy. Tu madre me lo pidió"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:9 #-#-# translate crowdin visit_the_silver_dragon_87c5dd71:
+msgid "[_haylin_] ..."
+msgstr "[_haylin_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:10 #-#-# translate crowdin visit_the_silver_dragon_e9f06cd3:
+msgid "[_cedrick_] И еще я пришел отдать то, что поможет твоей бабушке. Или ты забыла?"
+msgstr "[_cedrick_] Y vine a dar lo que ayudará a tu abuela. ¿O lo olvidaste?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:14 #-#-# translate crowdin visit_the_silver_dragon_6378059a:
+msgid "[_haylin_] Нет, не забыла.."
+msgstr "[_haylin_] No, no lo he olvidado."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:15 #-#-# translate crowdin visit_the_silver_dragon_bc8d4a1b:
+msgid "[_cedrick_] Тогда давай отойдем в твою комнату"
+msgstr "[_cedrick_] Entonces vamos a tu habitación"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:19 #-#-# translate crowdin visit_the_silver_dragon_87c5dd71_1:
+msgid "[_haylin_] ..."
+msgstr "[_haylin_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:22 #-#-# translate crowdin visit_the_silver_dragon_72358297:
+msgid "[_centered_] {size=37}В КОМНАТЕ ХАЙ ЛИН{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}LA HABITACIÓN DE Hay Lin{/size} [withDissolve1]"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:27 #-#-# translate crowdin gallery_d_087_cf555ccd:
+msgid "[_haylin_] И что на этот раз ты собрался со мной делать.."
+msgstr "[_haylin_] Y qué fue esta vez que vas a hacer conmigo."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:31 #-#-# translate crowdin gallery_d_087_7a7638cd:
+msgid "[_cedrick_] Ну, во первых, отдать тебе сосуд с водой из источника.."
+msgstr "[_cedrick_] Bueno, en primer lugar, date un recipiente de agua de la fuente."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:35 #-#-# translate crowdin gallery_d_087_079fa205:
+msgid "[_haylin_] А во-вторых.."
+msgstr "[_haylin_] Y segundo."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:39 #-#-# translate crowdin gallery_d_087_c93d80e0:
+msgid "[_cedrick_] Ирма и Тарани ведь просили твоей помощи, когда планировали напасть на меня?"
+msgstr "[_cedrick_] ¿Irma y Taranee pidieron tu ayuda cuando planearon atacarme?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:43 #-#-# translate crowdin gallery_d_087_8d1c0a42:
+msgid "[_haylin_] Да, они приходили.."
+msgstr "[_haylin_] Sí, vinieron…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:47 #-#-# translate crowdin gallery_d_087_c820bd37:
+msgid "[_cedrick_] И почему ты отказалась?"
+msgstr "[_cedrick_] ¿Y por qué te negaste?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:51 #-#-# translate crowdin gallery_d_087_7fddfd9c:
+msgid "[_haylin_] Я.. Вся эта история со стражницами.. Мне так надоела.. Я не просила этой силы, я не хотела, чтобы меня связывало с еще какими-то четырьмя девчонками.."
+msgstr "[_haylin_] Yo… Toda esta historia con las Guardianas. Estoy tan cansada de… No pedí ese poder, no quería estar atado a otras cuatro chicas."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:52 #-#-# translate crowdin gallery_d_087_c4c95076:
+msgid "[_haylin_] Я же их почти не знаю.. По крайней мере далеко не так хорошо, как свою семью.."
+msgstr "[_haylin_] Apenas los conozco. Al menos no tan bueno como tu familia."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:56 #-#-# translate crowdin gallery_d_087_afb87ef4:
+msgid "[_haylin_] Мама, бабушка, папа - вот что для меня самое важное. Я хочу сберечь свою семью, вот и все.Поэтому.."
+msgstr "[_haylin_] Mamá, abuela, papá, eso es lo más importante para mí. Quiero salvar a mi familia, eso es todo."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:57 #-#-# translate crowdin gallery_d_087_fd19c6ec:
+msgid "[_haylin_] Поэтому я не хотела идти против тебя.."
+msgstr "[_haylin_] Así que no quise ir en contra de ti."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:61 #-#-# translate crowdin gallery_d_087_48575009:
+msgid "[_cedrick_] Но ты и не предупредила"
+msgstr "[_cedrick_] Pero no te lo advertiste"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:65 #-#-# translate crowdin gallery_d_087_e9b8435b:
+msgid "[_haylin_] Не предупредила.."
+msgstr "[_haylin_] No advirtió…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:69 #-#-# translate crowdin gallery_d_087_87c5dd71:
+msgid "[_haylin_] ..."
+msgstr "[_haylin_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:73 #-#-# translate crowdin gallery_d_087_e9b8435b_1:
+msgid "[_haylin_] Не предупредила.."
+msgstr "[_haylin_] No advirtió…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:77 #-#-# translate crowdin gallery_d_087_8ea922b1:
+msgid "[_cedrick_] В любом случае, не могу не восхищаться твоей рациональностью и искреннем желанием сохранить свою семью"
+msgstr "[_cedrick_] En cualquier caso, no puedo dejar de admirar tu racionalidad y sincero deseo de salvar a mi familia"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:81 #-#-# translate crowdin gallery_d_087_85525aee:
+msgid "[_cedrick_] Они и вправду самое важное"
+msgstr "[_cedrick_] Son realmente los más importantes"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:85 #-#-# translate crowdin gallery_d_087_c3f8d9b4:
+msgid "[_haylin_] Хватит слов, ты просто пользуешься моим положением.."
+msgstr "[_haylin_] Es suficiente palabra, solo usas mi posición."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:86 #-#-# translate crowdin gallery_d_087_5abadbb5:
+msgid "[_cedrick_] Все так. А еще, теперь Ирма и Тарани заточены в темнице замка Фобоса. Как и Вилл"
+msgstr "[_cedrick_] Así es. Además, ahora Irma y Taranee están encerradas en las mazmorras del castillo de Fobos, igual que Will."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:90 #-#-# translate crowdin gallery_d_087_62590884:
+msgid "[_haylin_] Ч-что.. Н-нет.."
+msgstr "[_haylin_] ¿Qué? ¿Qué? No. No."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:91 #-#-# translate crowdin gallery_d_087_5e1736d1:
+msgid "[_cedrick_] И кто знает, может, если бы ни твоя трусость, сейчас я был бы повержен"
+msgstr "[_cedrick_] ¿Y quién sabe, tal vez si tu cobardía, sería derrotado ahora"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:95 #-#-# translate crowdin gallery_d_087_87c5dd71_1:
+msgid "[_haylin_] ..."
+msgstr "[_haylin_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:96 #-#-# translate crowdin gallery_d_087_2a4021d4:
+msgid "[_cedrick_] Но ты не помогла им. Потому что семья важнее. Хорошая девочка, Хай Лин"
+msgstr "[_cedrick_] Pero no los ayudaste. Porque la familia es más importante. ¡Buena chica, Hay Lin"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:100 #-#-# translate crowdin gallery_d_087_1af5fb72:
+msgid "[_haylin_] Я.."
+msgstr "[_haylin_] Yo…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:104 #-#-# translate crowdin gallery_d_087_87c5dd71_2:
+msgid "[_haylin_] ..."
+msgstr "[_haylin_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:108 #-#-# translate crowdin gallery_d_087_a2b0980f:
+msgid "[_haylin_] Давай просто покончим с этим!"
+msgstr "[_haylin_] ¡Acabemos con esto!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:109 #-#-# translate crowdin gallery_d_087_5b780033:
+msgid "[_cedrick_] Да, конечно. Я отдам тебе эссенцию, а потом мы пойдем вместе на рабочую смену в твоем любимом ресторанчике"
+msgstr "[_cedrick_] Sí, por supuesto. Te daré la esencia, y luego iremos juntos a un turno de trabajo en tu restaurante favorito"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:113 #-#-# translate crowdin gallery_d_087_87c5dd71_3:
+msgid "[_haylin_] ..."
+msgstr "[_haylin_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:117 #-#-# translate crowdin gallery_d_087_81f56208:
+msgid "[_cedrick_] Но сначала. Помимо спасительного сосуда для твоей бабушки, я также хочу отдать тебе вот это"
+msgstr "[_cedrick_] Pero antes… Además del recipiente que salvará a tu abuela, también quiero darte esto."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:121 #-#-# translate crowdin gallery_d_087_c2ca7376:
+msgid "[_haylin_] Ч-что это?.."
+msgstr "[_haylin_] W-¿Qué es?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:125 #-#-# translate crowdin gallery_d_087_2403f894:
+msgid "[_haylin_] Это то, о чем я думаю"
+msgstr "[_haylin_] Es lo que estoy pensando"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:126 #-#-# translate crowdin gallery_d_087_e17abf10:
+msgid "[_cedrick_] Именно"
+msgstr "[_cedrick_] Exacto."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:130 #-#-# translate crowdin gallery_d_087_67a27905:
+msgid "[_haylin_] Я не стану вставлять это в себя.."
+msgstr "[_haylin_] No voy a metérmelo dentro…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:131 #-#-# translate crowdin gallery_d_087_35b8606c:
+msgid "[_cedrick_] Нет станешь. Иначе твоя бабушка долго не протянет, ты же сама прекрасно понимаешь"
+msgstr "[_cedrick_] No lo harás. De lo contrario, tu abuela no durará mucho, y tú misma lo sabes bien."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:135 #-#-# translate crowdin gallery_d_087_87c5dd71_4:
+msgid "[_haylin_] ..."
+msgstr "[_haylin_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:136 #-#-# translate crowdin gallery_d_087_bc236cd3:
+msgid "[_cedrick_] Вставь в себя эту игрушку и мы пойдем работать"
+msgstr "[_cedrick_] Inserta este juguete y nos pondremos a trabajar"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:140 #-#-# translate crowdin gallery_d_087_76e18fcb:
+msgid "[_haylin_] Зачем тебе все это.."
+msgstr "[_haylin_] ¿Por qué necesitas todo esto?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:141 #-#-# translate crowdin gallery_d_087_53a1947c:
+msgid "[_cedrick_] Хах, скоро узнаешь"
+msgstr "[_cedrick_] Ja, pronto lo sabrás"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:145 #-#-# translate crowdin gallery_d_087_0fdafe6d:
+msgid "[_haylin_] (Лишь бы мои родители ничего не заметили..)"
+msgstr "[_haylin_] (Si solo mis padres no han notado nada.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:149 #-#-# translate crowdin gallery_d_087_cf23cb85:
+msgid "[_haylin_] Хорошо, давай ее сюда"
+msgstr "[_haylin_] De acuerdo, déjala aquí"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:155 #-#-# translate crowdin gallery_d_087_4cfc95ba:
+msgid "[_centered_] {size=37}Хай Лин вставляет виброяйцо{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Hay Lin se introduce el huevo vibrador{/size} [withDissolve1]"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:157 #-#-# translate crowdin gallery_d_087_4b5b9ed1:
+msgid "[_haylin_] Уххх.. Чувствую, как оно меня заполняет.."
+msgstr "[_haylin_] Uh… Siento que me llena…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:158 #-#-# translate crowdin gallery_d_087_5cdfc00c:
+msgid "[_cedrick_] Отлично. Идем"
+msgstr "[_cedrick_] Perfecto. Vamos."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:163 #-#-# translate crowdin gallery_d_087_4cc87b28:
+msgid "[_cedrick_] Ах, точно. Совсем забыл"
+msgstr "[_cedrick_] Ah, así es. Me olvidé por completo"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:165 #-#-# translate crowdin gallery_d_087_7da9198c:
+msgid "[_haylin_] Ч-что ты забыл, Рик?"
+msgstr "[_haylin_] C-¿qué has olvidado, Rick?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:166 #-#-# translate crowdin gallery_d_087_8a543233:
+msgid "[_cedrick_] Забыл проверить, работает ли оно"
+msgstr "[_cedrick_] Olvidé comprobar si funciona"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:167 #-#-# translate crowdin gallery_d_087_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:175 #-#-# translate crowdin gallery_d_087_bb474eca:
+msgid "[_haylin_] Мххх.."
+msgstr "[_haylin_] Mxx…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:176 #-#-# translate crowdin gallery_d_087_4dba01d8:
+msgid "[_cedrick_] И как, работает?"
+msgstr "[_cedrick_] ¿Y cómo funciona?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:180 #-#-# translate crowdin gallery_d_087_94955d7f:
+msgid "[_haylin_] Д-да.. Оно работает, Р-рик.. М-может перестанешь?"
+msgstr "[_haylin_] D-Da… Funciona, R-rick… ¿Puedes detenerlo?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:181 #-#-# translate crowdin gallery_d_087_8f749e73:
+msgid "[_cedrick_] Хах, хорошо, пока выключу"
+msgstr "[_cedrick_] Ja, bien mientras me apago"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:190 #-#-# translate crowdin gallery_d_087_fe2d5d6f:
+msgid "[_haylin_] Ааааххх.. Р-рик, оно работает.. Работает.. П-перестань.."
+msgstr "[_haylin_] Aahhh… R-rick, funciona. Obras. P-parar."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:191 #-#-# translate crowdin gallery_d_087_bcf61b8a:
+msgid "[_cedrick_] Хах, ладно, пока что выключу"
+msgstr "[_cedrick_] Ja, está bien, hasta ahora me voy a apagar"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:196 #-#-# translate crowdin gallery_d_087_831f996f:
+msgid "[_cedrick_] (Пожалуй стоило начать с минимальной мощности)"
+msgstr "[_cedrick_] (Tal vez valió la pena comenzar con una potencia mínima)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:200 #-#-# translate crowdin gallery_d_087_4997d001:
+msgid "[_haylin_] (Это было неожиданно..)"
+msgstr "[_haylin_] (Fue inesperado.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:202 #-#-# translate crowdin gallery_d_087_e62dea8c:
+msgid "[_haylin_] (Но он точно не последний раз включает эту штуку.. Нужно начать привыкать..)"
+msgstr "[_haylin_] (Pero sin duda volverá a encender esa cosa… Tengo que empezar a acostumbrarme…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:211 #-#-# translate crowdin gallery_d_087_3e91ecae:
+msgid "[_haylin_] Аааааааххх!! Р-рик!! Какого.. К-какого черта ты творишь!!"
+msgstr "[_haylin_] Aahhhh!! R-rick!! ¿Qué… ¡¿Qué diablos estás haciendo?!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:215 #-#-# translate crowdin gallery_d_087_486a963e:
+msgid "[_haylin_] Я.. Яяяя.. ааааххх.. В-выключи эээту штуку!!"
+msgstr "[_haylin_] Yo… Supongo que… Aahhhhhhhh de esta cosa!!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:216 #-#-# translate crowdin gallery_d_087_4f0972e8:
+msgid "[_cedrick_] Ого, так вот какая максимальная мощность"
+msgstr "[_cedrick_] Wow, así que esa es la potencia máxima"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:220 #-#-# translate crowdin gallery_d_087_279d2d9d:
+msgid "[_haylin_] Аааахх… П-проверил!? А теперь выключи.. В-выключай давай!!"
+msgstr "[_haylin_] Aaaah… ¿¡Y-ya lo comprobaste!? Ahora apágalo… ¡A-apágalo de una vez!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:225 #-#-# translate crowdin gallery_d_087_ac45133c:
+msgid "[_cedrick_] (Хах, это было интересно, но пожалуй сразу включать на полную мощность довольно рискованно)"
+msgstr "[_cedrick_] (Ja, fue interesante, pero tal vez encender inmediatamente a plena capacidad es bastante arriesgado)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:234 #-#-# translate crowdin gallery_d_087_c5e6e69e:
+msgid "[_johnlin_] О, Рик, ты уже здесь"
+msgstr "[_johnlin_] Oh, Rick, estás aquí"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:239 #-#-# translate crowdin gallery_d_087_ace8501e:
+msgid "[_chenlin_] Здравствуйте, Рик. Привет, дочка"
+msgstr "[_chenlin_] Hola, Rick. Hola, hija"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:248 #-#-# translate crowdin gallery_d_087_5ab120de:
+msgid "[_cedrick_] Добрый день, Миссис Джоан, Мистер Чен"
+msgstr "[_cedrick_] Buenas tardes, señora. Joan, señor. ¿Chen"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:254 #-#-# translate crowdin gallery_d_087_5eeebcad:
+msgid "[_johnlin_] Хай Лин, ты сегодня рано"
+msgstr "[_johnlin_] Hay Lin, hoy llegas temprano"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:263 #-#-# translate crowdin gallery_d_087_eb283bd1:
+msgid "[_haylin_] Д-да, я пораньше освободилась со школы сегодня.."
+msgstr "[_haylin_] D-da, salí de la escuela temprano hoy."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:271 #-#-# translate crowdin gallery_d_087_06aed2c1:
+msgid "[_johnlin_] Хм, хорошо. Ну что, Рик, поможешь нам сегодня?"
+msgstr "[_johnlin_] Hmm, está bien. Rick, ¿puedes ayudarnos esta noche?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:279 #-#-# translate crowdin gallery_d_087_cd5b042e:
+msgid "[_cedrick_] С большим удовольствием, миссис Джоан"
+msgstr "[_cedrick_] Con mucho gusto, la señora. ¿Joan"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:286 #-#-# translate crowdin gallery_d_087_312d8b92:
+msgid "[_johnlin_] Ахах, не называй меня так, у нас не такая уж и большая разница в возрасте. Можешь просто Джоан"
+msgstr "[_johnlin_] Jajaja, no me llames así; no nos llevamos tantos años. Puedes llamarme Joan."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:295 #-#-# translate crowdin gallery_d_087_47c15fea:
+msgid "[_cedrick_] Хорошо, Джоан"
+msgstr "[_cedrick_]H Bien, Joan"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:303 #-#-# translate crowdin gallery_d_087_65577a18:
+msgid "[_johnlin_] (Такой учтивый, когда мы разговариваем при моем муже с дочкой. Так сразу и не подумаешь, насколько жестким он может быть в постели..)"
+msgstr "[_johnlin_] (Tan cortés cuando hablamos con mi esposo y mi hija. Así que inmediatamente no pensarás en lo mucho que puede estar en la cama.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:311 #-#-# translate crowdin gallery_d_087_d7f36525:
+msgid "[_haylin_] Д-давайте уже начнем обслуживать гостей.."
+msgstr "[_haylin_] D-De una vez, empecemos a atender a los clientes…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:312 #-#-# translate crowdin gallery_d_087_045eff6a:
+msgid "[_cedrick_] Да, конечно"
+msgstr "[_cedrick_] Sí, por supuesto."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:320 #-#-# translate crowdin gallery_d_087_cb0a8b52:
+msgid "[_johnlin_] И так, Рик, для начала можешь постоять на кассе. Думаю с этим ты отлично справишься, все же у тебя свой магазин"
+msgstr "[_johnlin_] Y así, Rick, puedes pararte en la taquilla para empezar. Creo que lo harás muy bien, todavía tienes tu propia tienda"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:328 #-#-# translate crowdin gallery_d_087_315c4cc3:
+msgid "[_cedrick_] Как скажете, Джоан"
+msgstr "[_cedrick_] Cómo dices, Joan"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:336 #-#-# translate crowdin gallery_d_087_f4666174:
+msgid "[_johnlin_] Хай Лин, ты пока принимаешь заказы. Я буду относить еду гостям. Чен, ты на кухне"
+msgstr "[_johnlin_] Hay Lin, estás tomando órdenes por ahora. Llevaré la comida a los invitados. Chen, estás en la cocina"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:345 #-#-# translate crowdin gallery_d_087_02b8b7df:
+msgid "[_chenlin_] Хорошо, дорогая"
+msgstr "[_chenlin_] Bueno, querida"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:353 #-#-# translate crowdin minigame_3_43592652:
+msgid "[_johnlin_] И так, все за работу!"
+msgstr "[_johnlin_] ¡Y así, todo por el trabajo!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:355 #-#-# translate crowdin minigame_3_91b58356:
+msgid "[_cedrick_] (Хм, нужно быть аккуратным при использовании виброяйца)"
+msgstr "[_cedrick_] (Hmm, debe tener cuidado al usar una dama vibratoria)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:356 #-#-# translate crowdin minigame_3_856ffef8:
+msgid "[_cedrick_] (Если Джоан заметит, думаю особых проблем не будет, но нельзя, чтобы гости что-то заподозрили)"
+msgstr "[_cedrick_] (Si Joan se da cuenta, no creo que haya ningún problema especial, pero no se puede hacer que los invitados sospechen nada)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:357 #-#-# translate crowdin minigame_3_c179811b:
+msgid "[_cedrick_] (Я должен слегка развратить Хай Лин перед финальным ужином, но нужно знать меру)"
+msgstr "[_cedrick_] (tengo que acostarme un poco antes de la cena final, pero necesitas saber la medida)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:361 #-#-# translate crowdin minigame_3_d077a124:
+msgid "[_haylin_] Добрый день, что будете заказывать?"
+msgstr "[_haylin_] Buenas tardes, ¿qué pedirá?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:362 #-#-# translate crowdin minigame_3_2bce89b8:
+msgid "[_restaurant_goer_1_] Мне, пожалуйста, салат из овощей с имбирно-чесночным соусом иии.."
+msgstr "[_restaurant_goer_1_] Por favor, por favor, ensalada de verduras con salsa de jengibre-granate…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:363 #-#-# translate crowdin minigame_3_fd3d13d2:
+msgid "[_restaurant_goer_1_] Хм, апельсиновый сок, пожалуйста"
+msgstr "[_restaurant_goer_1_] Hm, jugo de naranja, por favor"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:365 #-#-# translate crowdin minigame_3_8edf6075:
+msgid "[_haylin_] У нас, к сожалению, остался только яблочный"
+msgstr "[_haylin_] Tenemos, por desgracia, solo manzana"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:366 #-#-# translate crowdin minigame_3_b0ee6447:
+msgid "[_restaurant_goer_1_] Жаль.. Ну тогда давайте яблочный"
+msgstr "[_restaurant_goer_1_] Es una pena… Bueno, entonces, da la manzana"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:368 #-#-# translate crowdin minigame_3_29ba17bc:
+msgid "[_haylin_] Хорошо, а вы что желаете?"
+msgstr "[_haylin_] Bien, ¿qué quieres?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:370 #-#-# translate crowdin minigame_3_c3fba66e:
+msgid "[_restaurant_goer_2_] Мне два номера девять.."
+msgstr "[_restaurant_goer_2_] Soy dos habitaciones nueve…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:372 #-#-# translate crowdin minigame_3_c234c28f:
+msgid "[_restaurant_goer_2_] Номер девять большой.."
+msgstr "[_restaurant_goer_2_] Número nueve grande…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:374 #-#-# translate crowdin minigame_3_ddbcc05a:
+msgid "[_restaurant_goer_2_] Номер шесть с дополнительным соусом.."
+msgstr "[_restaurant_goer_2_] Número seis con salsa extra."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:375 #-#-# translate crowdin minigame_3_79e224e1:
+msgid "[_restaurant_goer_2_] Номер семь, два номера сорок пятый.."
+msgstr "[_restaurant_goer_2_] Número siete, dos habitaciones cuadragésima quinta."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:377 #-#-# translate crowdin minigame_3_1f0f8586:
+msgid "[_restaurant_goer_2_] Один с сыром и большую содовую.."
+msgstr "[_restaurant_goer_2_] Solitario con queso y soda grande…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:384 #-#-# translate crowdin minigame_3_0617848c:
+msgid "[_haylin_] Эм.. Кхм.."
+msgstr "[_haylin_] Mm. Ejem."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:386 #-#-# translate crowdin minigame_3_4bec08c4:
+msgid "[_haylin_] Я.. Я уточню, есть ли у нас все ингридиенты на кухне.."
+msgstr "[_haylin_] Yo… Te diré si tenemos todos los ingredientes de la cocina."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:388 #-#-# translate crowdin minigame_3_21564680:
+msgid "[_haylin_] Ух.."
+msgstr "[_haylin_] Uh…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:389 #-#-# translate crowdin minigame_3_13abd3d9:
+msgid "[_restaurant_goer_2_] Хорошо, но не заставляйте меня сильно ждать, я голоден"
+msgstr "[_restaurant_goer_2_]H Es bueno, pero no me hagas esperar mucho, tengo hambre"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:391 #-#-# translate crowdin minigame_3_cc720990:
+msgid "[_haylin_] Х-хорошо, сэр"
+msgstr "[_haylin_] Muy bien, señor"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:393 #-#-# translate crowdin minigame_3_dda9251b:
+msgid "[_haylin_] (Эта штука так неожиданно заработала.. ух, хорошо, что мощность была не такой большой..)"
+msgstr "[_haylin_] (Esta cosa funcionó tan inesperadamente… Vaya, es bueno que el poder no fuera tan grande.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:400 #-#-# translate crowdin minigame_3_9d9eac7c:
+msgid "[_haylin_] А-аах.. Уф.."
+msgstr "[_haylin_] A-aah… Uf."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:401 #-#-# translate crowdin minigame_3_b2b33996:
+msgid "[_restaurant_goer_1_] С вами все впорядке?"
+msgstr "[_restaurant_goer_1_] ¿Está bien contigo?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:403 #-#-# translate crowdin minigame_3_5dc6ae7d:
+msgid "[_haylin_] Ух.. Д-да, просто я не уверена, что в-все ингредиенты сейчас доступны.."
+msgstr "[_haylin_] Uh… Sí, no estoy seguro de si todos los ingredientes están disponibles."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:405 #-#-# translate crowdin minigame_3_9c9d173b:
+msgid "[_restaurant_goer_2_] Ох, ну тогда уточните узнайте и возвращайтесь"
+msgstr "[_restaurant_goer_2_] Oh, bueno, entonces echa un vistazo y vuelve"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:407 #-#-# translate crowdin minigame_3_2591a4e4:
+msgid "[_haylin_] Д-да, я спрошу у повара.."
+msgstr "[_haylin_] S-sí, le preguntaré al cocinero…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:409 #-#-# translate crowdin minigame_3_95120a82:
+msgid "[_restaurant_goer_2_] Хорошо. И можно быстрее? Я с самого утра не ел"
+msgstr "[_restaurant_goer_2_] Bien. ¿Y podría ser más rápido? No he comido desde esta mañana."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:410 #-#-# translate crowdin minigame_3_7f80ca7d:
+msgid "[_restaurant_goer_1_] Дорогой, но сейчас все еще утро.."
+msgstr "[_restaurant_goer_1_] Querida, pero todavía es por la mañana."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:412 #-#-# translate crowdin minigame_3_de33a449:
+msgid "[_restaurant_goer_2_] К этому времени я уже завтракаю второй раз"
+msgstr "[_restaurant_goer_2_] En este momento desayuno por segunda vez"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:414 #-#-# translate crowdin minigame_3_96f3a9e3:
+msgid "[_restaurant_goer_1_] И-и то верно.."
+msgstr "[_restaurant_goer_1_] Y así es…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:415 #-#-# translate crowdin minigame_3_b5cac010:
+msgid "[_haylin_] (Ух, Рик, мог бы быть и помягче.. Включил ее прямо во время разговора с гостями..)"
+msgstr "[_haylin_] (Wow, Rick, podría ser más suave… Lo encendió durante una conversación con los invitados.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:416 #-#-# translate crowdin minigame_3_62f3c6b3:
+msgid "[_haylin_] (Ч-что, если бы они заметили..)"
+msgstr "[_haylin_] (H-¿qué pasa si se dan cuenta…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:424 #-#-# translate crowdin minigame_3_cb04ee61:
+msgid "[_haylin_] А-аааххх!!"
+msgstr "[_haylin_] A-aahakhh!!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:425 #-#-# translate crowdin minigame_3_7899511b:
+msgid "[_restaurant_goer_1_] Ч-что с вами!?"
+msgstr "[_restaurant_goer_1_] W-¿¡Qué te pasa!?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:427 #-#-# translate crowdin minigame_3_ae321fb3:
+msgid "[_haylin_] Я.. Кхм.. Яяя просто вспомнила, что у нас не осталось ингредиентов для.. аахх.. н-номера пять.."
+msgstr "[_haylin_] Yo… Ejem… S-solo recordé que ya no nos quedan ingredientes para… aaah… el n-número cinco…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:429 #-#-# translate crowdin minigame_3_7b5fef3b:
+msgid "[_restaurant_goer_2_] Ох, ну.. эм.. вы так не расстраивайтесь.. мы можем заказать что-нибудь еще"
+msgstr "[_restaurant_goer_2_] Oh, bueno… Um. No estás tan molesto… Podemos pedir otra cosa"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:431 #-#-# translate crowdin minigame_3_dccbe00f:
+msgid "[_haylin_] Х-хорошо.. Ух.. Тогда я подойду чуть позже.."
+msgstr "[_haylin_] Muy bien. Uh… Entonces estaré allí más tarde…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:433 #-#-# translate crowdin minigame_3_4c05b6f7:
+msgid "[_haylin_] (Р-рик, какого черта.. т-такой резкий и мощный импульс, он его на максимум что-ли включил..)"
+msgstr "[_haylin_] (R-Rick, ¿qué demonios…? E-ese impulso tan brusco y potente… ¿lo puso al máximo?)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:434 #-#-# translate crowdin minigame_3_375507c7:
+msgid "[_haylin_] (Если так продолжится, клиенты могут что-нибудь заподозрить.. или того хуже, мои родители начнут что-то подозревать..)"
+msgstr "[_haylin_] (Si esto continúa, los clientes pueden sospechar cualquier cosa. O peor aún, mis padres empezarán a sospechar algo.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:441 #-#-# translate crowdin minigame_3_7e4c255e:
+msgid "[_centered_] {size=37}Седрик все оставшееся утро простоял за прилавком{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Cedric toda la mañana restante se paró detrás del mostrador{/size} [withDissolve1]"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:445 #-#-# translate crowdin minigame_3_debe30c7:
+msgid "[_chenlin_] Рик, ну как ты тут, справляешься?"
+msgstr "[_chenlin_] Rick, ¿cómo estás aquí, de acuerdo?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:449 #-#-# translate crowdin minigame_3_34d09eea:
+msgid "[_cedrick_] Да, все отлично, Мистер Чен"
+msgstr "[_cedrick_] Sí, todo es genial, Sr. ¿Chen"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:450 #-#-# translate crowdin minigame_3_0cddbe11:
+msgid "[_cedrick_] За кассой куда проще следить, когда всякая мелюзга не пытается украсть у тебя книги каждые пять секунд.."
+msgstr "[_cedrick_] Es mucho más fácil vigilar la caja cuando los mocosos no intentan robarte libros cada cinco segundos…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:454 #-#-# translate crowdin minigame_3_cc85d877:
+msgid "[_chenlin_] Хах, вижу это наболевшее.."
+msgstr "[_chenlin_] Ja, veo esto doloroso…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:458 #-#-# translate crowdin minigame_3_85f3fc32:
+msgid "[_cedrick_] Вы даже не представляете. Иногда за восьмичасовой рабочий день мне приходится наставлять на людей дробовик раз по десять"
+msgstr "[_cedrick_] No tienes ni idea. A veces, en una jornada laboral de ocho horas, tengo que instruir a la gente una escopeta diez veces"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:462 #-#-# translate crowdin minigame_3_0f53a261:
+msgid "[_chenlin_] Оу, как.. Кхм, как интересно.. Надеюсь тебе не придется делать подобное в нашем ресторане, ахахах.."
+msgstr "[_chenlin_] Oh… Ejem, qué interesante… Espero que no tengas que hacer algo así en nuestro restaurante, jajaja…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:466 #-#-# translate crowdin minigame_3_0eff90f9:
+msgid "[_cedrick_] Да, я тоже надеюсь.."
+msgstr "[_cedrick_]Y Sí, espero que también."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:470 #-#-# translate crowdin minigame_3_1cbb1bc3:
+msgid "[_chenlin_] Кхм.. эм.. Давай днем Хай Лин подменит тебя за прилавком. А ты поможешь мне на кухне. Х-хорошо?"
+msgstr "[_chenlin_] Ejem… Um. Tomemos el día de Hay Lin para reemplazarte con un mostrador. Y me ayudarás en la cocina. ¿Eso es bueno?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:474 #-#-# translate crowdin minigame_3_ff17d692:
+msgid "[_cedrick_] Да, почему бы и нет. С ножами я тоже умею обращаться"
+msgstr "[_cedrick_] Sí, ¿por qué no? Con cuchillos también sé cómo manejar"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:478 #-#-# translate crowdin minigame_3_3a8e87b6:
+msgid "[_chenlin_] Эм, я о них ничего и не говорил.. Думал ты поможешь мне растягивать лапшу или напитать рис бульоном.."
+msgstr "[_chenlin_] M, no dije nada sobre ellos. Pensaste que podrías ayudarme a estirar los fideos o alimentar el arroz con un caldo."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:482 #-#-# translate crowdin minigame_3_81e1aa8f:
+msgid "[_cedrick_] А, да, точно. Хаха, простите, Чен, я на своей кухне в основном только ножами и орудую"
+msgstr "[_cedrick_] A, sí, es cierto. Jaja, lo siento, Chen, estoy en mi cocina con cuchillos y estoy tan descansando"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:486 #-#-# translate crowdin minigame_3_561dcd4c:
+msgid "[_chenlin_] Я тебя понял.. Ну хорошо, можешь взять на себя нарезку"
+msgstr "[_chenlin_] Te entiendo. Bueno, bueno, puedes tomar el corte"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:490 #-#-# translate crowdin minigame_3_ef8e1f0b:
+msgid "[_cedrick_] Как скажете так и будет, в конце концов это ваша кухня и ваш ресторан"
+msgstr "[_cedrick_] Cómo lo dices y serás, al final es tu cocina y tu restaurante"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:494 #-#-# translate crowdin minigame_3_27a17bff:
+msgid "[_chenlin_] Да, давай лучше будем использовать твои сильные стороны"
+msgstr "[_chenlin_]Y Sí, seamos mejores para usar tus fortalezas"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:498 #-#-# translate crowdin minigame_3_69a06f42:
+msgid "[_chenlin_] (Чем больше узнаю об этом Рике, тем более опасным типом он мне кажется.. Наставлять дробовик на людей, жуть..)"
+msgstr "[_chenlin_] (Cuanto más conozco a Rick, más peligroso me parece. Instruir la escopeta sobre la gente, el horror.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:499 #-#-# translate crowdin minigame_3_1084a21c:
+msgid "[_chenlin_] (Надеюсь моя Хай Лин не будет водиться с подобными парнями..)"
+msgstr "[_chenlin_] (Espero que mi Hay Lin no esté con tales tipos.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:500 #-#-# translate crowdin minigame_3_8afc36ea:
+msgid "[_chenlin_] (Хотя, если ее вкус к парням такой же, как у ее матери в том же возрасте.. Боже, боюсь даже представить..)"
+msgstr "[_chenlin_] (Aunque si su gusto por los chicos es el mismo que el de su madre a la misma edad. Dios, tengo miedo de imaginar…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:501 #-#-# translate crowdin minigame_3_b3333963:
+msgid "[_chenlin_] (Спокойно, Чен, не думай об этом.. Просто иди на кухню и растяни лапшу, все будет хорошо..)"
+msgstr "[_chenlin_] (¡Ponte bien, Chen, no pienses en eso! Solo tienes que ir a la cocina y estirar los fideos, todo estará bien.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:505 #-#-# translate crowdin minigame_3_d21974df:
+msgid "[_centered_] {size=37}Днем Хай Лин встает за кассу, Рик готовит на кухне{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Durante el día, Hay Lin defiende la caja registradora, Rick cocina en la cocina{/size} [withDissolve1]"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:510 #-#-# translate crowdin minigame_3_97d78f4b:
+msgid "[_haylin_] Добрый день! У вас забронирован столик?"
+msgstr "[_haylin_] ¡Buenas tardes! ¿Tienes una mesa reservada?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:512 #-#-# translate crowdin minigame_3_36dab97f:
+msgid "[_restaurant_goer_3_] Да, на 14:30, тот, что возле окна"
+msgstr "[_restaurant_goer_3_] Sí, a las 14:30, la que está cerca de la ventana"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:514 #-#-# translate crowdin minigame_3_27d65343:
+msgid "[_haylin_] Хорошо. Он освободится через 5 минут"
+msgstr "[_haylin_] Bien. Quedará libre en cinco minutos."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:516 #-#-# translate crowdin minigame_3_3cd15972:
+msgid "[_haylin_] Желаете что-нибудь еще? Особые азиатские напитки? Газировка из японии? Может быть тайская жвачка?"
+msgstr "[_haylin_] ¿Quieres algo más? ¿Bebidas especiales asiáticas? ¿Soda de Japón? ¿Tal vez goma thai?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:518 #-#-# translate crowdin minigame_3_9e7a3746:
+msgid "[_restaurant_goer_3_] Спасибо, ничего не нужно"
+msgstr "[_restaurant_goer_3_] Gracias, nada necesita"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:519 #-#-# translate crowdin minigame_3_2381305c:
+msgid "[_restaurant_goer_4_] О, я хотела бы такие кислые конфеты, у них еще внутри жвачка"
+msgstr "[_restaurant_goer_4_] Oh, me gustaría un caramelo tan agrio, todavía tienen chicle dentro"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:520 #-#-# translate crowdin minigame_3_8a7af74c:
+msgid "[_restaurant_goer_3_] Это те, о которые я в прошлый раз чуть зуб не сломал?"
+msgstr "[_restaurant_goer_3_] ¿Los que casi me rompo el diente la última vez?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:521 #-#-# translate crowdin minigame_3_8adbfda6:
+msgid "[_restaurant_goer_4_] Ну а не надо было их грызть.. Они для того, чтобы сосать и наслаждаться"
+msgstr "[_restaurant_goer_4_] No debiste morderlos… Son para chuparlos y disfrutarlos."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:527 #-#-# translate crowdin minigame_3_74452cb3:
+msgid "[_haylin_] Ааахх.."
+msgstr "[_haylin_] Aahh…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:529 #-#-# translate crowdin minigame_3_788717d0:
+msgid "[_haylin_] (Ч-черт, вот опять началось..)"
+msgstr "[_haylin_] (Maldita sea, empezó de nuevo.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:530 #-#-# translate crowdin minigame_3_f3fff390:
+msgid "[_restaurant_goer_3_] Да, в этом я явно не силен. Чего не скажешь о тебе, дорогая"
+msgstr "[_restaurant_goer_3_] Sí, obviamente no soy fuerte en eso. ¿Qué puedes decir de ti, cariño"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:531 #-#-# translate crowdin minigame_3_15f14767:
+msgid "[_restaurant_goer_4_] Хах, ну знаешь ли.. Даже не знаю, воспринимать это как комплимент или как колкость.."
+msgstr "[_restaurant_goer_4_] Ja, ya sabes. Ni siquiera sé si es un cumplido o un idiota."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:532 #-#-# translate crowdin minigame_3_72c539c2:
+msgid "[_haylin_] (Р-рик, ты как будто ловишь отдельный кайф от того, что это происходит на публике.. иначе зачем еще.. уууфф..)"
+msgstr "[_haylin_] (R-Rick, parece que te excita especialmente que esto ocurra en público… Si no, ¿por qué…? Uuuff…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:533 #-#-# translate crowdin minigame_3_52d44510:
+msgid "[_restaurant_goer_3_] Ох, ты что, мне и вправду нравится как ты.."
+msgstr "[_restaurant_goer_3_] Oh, ¿qué es lo que realmente me gustas?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:535 #-#-# translate crowdin minigame_3_37f8b56f:
+msgid "[_haylin_] Г-господа, вы будете что-нибудь брать?"
+msgstr "[_haylin_] ¿Sr. Dios, ¿vas a tomar algo?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:537 #-#-# translate crowdin minigame_3_c8402329:
+msgid "[_restaurant_goer_3_] ..."
+msgstr "[_restaurant_goer_3_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:538 #-#-# translate crowdin minigame_3_a4ce2eb6:
+msgid "[_restaurant_goer_4_] ..."
+msgstr "[_restaurant_goer_4_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:539 #-#-# translate crowdin minigame_3_8587dc93:
+msgid "[_restaurant_goer_3_] Кислые конфеты!"
+msgstr "[_restaurant_goer_3_] ¡Caramelos agrios!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:540 #-#-# translate crowdin minigame_3_f42d9185:
+msgid "[_restaurant_goer_4_] Да, вон те с киви!"
+msgstr "[_restaurant_goer_4_] ¡Sí, hay aquellos con kiwi!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:541 #-#-# translate crowdin minigame_3_433be22c:
+msgid "[_restaurant_goer_3_] Ахаха, подумали об одних и тех же"
+msgstr "[_restaurant_goer_3_] Ahaha, pensó en lo mismo"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:542 #-#-# translate crowdin minigame_3_4e397346:
+msgid "[_restaurant_goer_4_] Я отлично знаю твои вкусы"
+msgstr "[_restaurant_goer_4_] Conozco tus gustos"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:543 #-#-# translate crowdin minigame_3_fd8aa01c:
+msgid "[_restaurant_goer_3_] И то, какой я на вкус тоже"
+msgstr "[_restaurant_goer_3_] Y lo que realmente hago también"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:544 #-#-# translate crowdin minigame_3_11b345a7:
+msgid "[_restaurant_goer_4_] Ну ты и пошляк!"
+msgstr "[_restaurant_goer_4_] ¡Vaya pervertido!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:546 #-#-# translate crowdin minigame_3_62c2bff8:
+msgid "[_haylin_] (Еще и эта пошлая парочка.. словно весь мир вокруг меня постепенно становится все более развратным.. или это все мои мысли..)"
+msgstr "[_haylin_] (Santo. Esta pareja vulgar. Era como si el mundo entero a mi alrededor se estuviera volviendo gradualmente más depravado. O todo son mis pensamientos.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:547 #-#-# translate crowdin minigame_3_2f143fd6:
+msgid "[_restaurant_goer_3_] Ахаха, но тебе же нравится"
+msgstr "[_restaurant_goer_3_] Ahaha, pero te gusta"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:548 #-#-# translate crowdin minigame_3_e316c896:
+msgid "[_restaurant_goer_4_] Ммм, да, пожалуй.."
+msgstr "[_restaurant_goer_4_] Mmm, sí, supongo."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:550 #-#-# translate crowdin minigame_3_ace5e589:
+msgid "[_haylin_] В-вот ваши конфеты, держите и присаживайтесь. Скоро вам принесут меню"
+msgstr "[_haylin_] ¿Tus dulces, se agarran y se sientan? Pronto recibirás un menú"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:551 #-#-# translate crowdin minigame_3_e76f821d:
+msgid "[_restaurant_goer_3_] Спасибо"
+msgstr "[_restaurant_goer_3_] Gracias"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:553 #-#-# translate crowdin minigame_3_6202cd2d:
+msgid "[_haylin_] Фуххх.."
+msgstr "[_haylin_] Ufff…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:554 #-#-# translate crowdin minigame_3_93d70037:
+msgid "[_haylin_] (Н-не так уж и сложно, если привыкнуть)"
+msgstr "[_haylin_] (No es tan difícil acostumbrarse a ello)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:562 #-#-# translate crowdin minigame_3_c327163e:
+msgid "[_haylin_] Ааааахх.. Р-рик.."
+msgstr "[_haylin_] Aahh… R-rick…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:563 #-#-# translate crowdin minigame_3_1aff9663:
+msgid "[_restaurant_goer_3_] Что, простите?"
+msgstr "[_restaurant_goer_3_] ¿Qué, lo siento?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:565 #-#-# translate crowdin minigame_3_26598aff:
+msgid "[_haylin_] Н-нет, ничего.. в-вспомнила один бренд конфет.. аааххх.. очень жестких и горячих.."
+msgstr "[_haylin_] N-no, nada. Recordé una marca de dulces. Aahhhhhhhh muy duro y caliente."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:566 #-#-# translate crowdin minigame_3_dc676ccc:
+msgid "[_restaurant_goer_4_] Ого, а что за бренд, не подскажете?"
+msgstr "[_restaurant_goer_4_] Wow, ¿qué tipo de marca, puede decir?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:568 #-#-# translate crowdin minigame_3_cbadacc8:
+msgid "[_haylin_] (Ч-черт, что я несу.. у меня уже голова идет кругом, теперь придется выкручиваться..)"
+msgstr "[_haylin_] (M-mierda, ¿qué estoy diciendo…? Ya me da vueltas la cabeza; ahora tendré que improvisar…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:570 #-#-# translate crowdin minigame_3_f6239b92:
+msgid "[_haylin_] Ммм.. В-вот, вот эти.. очень м-мощные"
+msgstr "[_haylin_] Mmm… Aquí, aquí están estos… Muy mm-potente"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:572 #-#-# translate crowdin minigame_3_50ed560f:
+msgid "[_restaurant_goer_3_] С имбирем? Мне нравится"
+msgstr "[_restaurant_goer_3_] ¿Con el jengibre? Me gusta"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:573 #-#-# translate crowdin minigame_3_e035857a:
+msgid "[_restaurant_goer_4_] Фу, конфеты со вкусом корня?"
+msgstr "[_restaurant_goer_4_] Fu, ¿caramelo con raíz?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:574 #-#-# translate crowdin minigame_3_807962a3:
+msgid "[_restaurant_goer_3_] Если его правильно нарезать и замариновать то получается довольно вкусно. К тому же тебе самой нравится имбирное печенье"
+msgstr "[_restaurant_goer_3_] Si se corta y marina adecuadamente es bastante sabroso. Además, a ti mismo te gustan las galletas de jengibre"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:575 #-#-# translate crowdin minigame_3_b8fcb762:
+msgid "[_restaurant_goer_4_] Нууу, это другое.."
+msgstr "[_restaurant_goer_4_] Bueno, eso es distinto…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:577 #-#-# translate crowdin minigame_3_3d62e247:
+msgid "[_haylin_] (Е-если они так и продолжат болтать, меня могут заподозрить..)"
+msgstr "[_haylin_] (S-si siguen charlando así, podrían sospechar de mí…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:579 #-#-# translate crowdin minigame_3_ed21cd2e:
+msgid "[_haylin_] В-вот, имбирные конфеты, ааах, д-держите и присаживайтесь"
+msgstr "[_haylin_] Aquí, dulces de jengibre, aah, sostengan y siéntense"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:580 #-#-# translate crowdin minigame_3_5bfc3aad:
+msgid "[_restaurant_goer_4_] Да, спасибо"
+msgstr "[_restaurant_goer_4_] Sí, gracias"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:583 #-#-# translate crowdin minigame_3_ca6439b2:
+msgid "[_haylin_] Уууухх.."
+msgstr "[_haylin_] Uuh…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:584 #-#-# translate crowdin minigame_3_e13e9f03:
+msgid "[_haylin_] (Еще бы немного.. Ааахх.. Это сложнее, чем кажется..)"
+msgstr "[_haylin_] (Un poco más. Aahh… Es más complicado de lo que parece.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:593 #-#-# translate crowdin minigame_3_23731d8c:
+msgid "[_haylin_] Аааааххххх.. Ч-черт.."
+msgstr "[_haylin_] Aaaaah… M-mierda…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:594 #-#-# translate crowdin minigame_3_c8402329_1:
+msgid "[_restaurant_goer_3_] ..."
+msgstr "[_restaurant_goer_3_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:595 #-#-# translate crowdin minigame_3_a4ce2eb6_1:
+msgid "[_restaurant_goer_4_] ..."
+msgstr "[_restaurant_goer_4_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:597 #-#-# translate crowdin minigame_3_6541012b:
+msgid "[_haylin_] (Р-рик, ты придурок, ч-что ты вытворяешь.. п-прямо в тот момент, когда я принимаю заказ)"
+msgstr "[_haylin_] (Rick, eres un idiota, lo que estás haciendo… Justo en el momento en que acepto el pedido)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:598 #-#-# translate crowdin minigame_3_45571682:
+msgid "[_restaurant_goer_3_] Девушка, с вами все впорядке?"
+msgstr "[_restaurant_goer_3_] Chica, ¿estás bien?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:600 #-#-# translate crowdin minigame_3_96611626:
+msgid "[_haylin_] Д-да.. Ух.. П-просто утром на кухне обожглась.. Аххх.. В-все еще болит"
+msgstr "[_haylin_] D-Da… Uh… Por la mañana en la cocina estaba quemada. Ahhhhhhhh"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:602 #-#-# translate crowdin minigame_3_ff4d97dd:
+msgid "[_restaurant_goer_4_] Хмм, я бы не сказала, что ваше лицо выражает боль"
+msgstr "[_restaurant_goer_4_] Hmm, no diría que tu rostro expresa dolor"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:603 #-#-# translate crowdin minigame_3_f3a50d9b:
+msgid "[_restaurant_goer_4_] Скорее.."
+msgstr "[_restaurant_goer_4_] Más bien."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:604 #-#-# translate crowdin minigame_3_8fac135a:
+msgid "[_restaurant_goer_3_] Д-дорогая, давай лучше не будем.. Думаю тебе показалось.."
+msgstr "[_restaurant_goer_3_] C-Cariño, mejor no… Creo que lo imaginaste…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:606 #-#-# translate crowdin minigame_3_c49870a2:
+msgid "[_haylin_] (О нет, о-они заметили.. какой, ааахх, к-кошмар..)"
+msgstr "[_haylin_] (Oh no, se han dado cuenta… ¿Qué, aahh, una pesadilla…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:607 #-#-# translate crowdin minigame_3_2dcce1fa:
+msgid "[_restaurant_goer_4_] Нет, ну а вспомни случай в бассейне с той девушкой в развратном боди!"
+msgstr "[_restaurant_goer_4_] No, bueno, recuerda el caso en la piscina con esa chica en un cuerpo depravado!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:609 #-#-# translate crowdin minigame_3_89a6deee:
+msgid "[_restaurant_goer_4_] Блондинчик трахал ее под водой прямо в задницу, я точно видела!"
+msgstr "[_restaurant_goer_4_] Rubia la cogió bajo el agua justo en el culo, ¡definitivamente lo vi!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:610 #-#-# translate crowdin minigame_3_dda232be:
+msgid "[_restaurant_goer_4_] Клянусь тебе, иногда мне кажется, что все в этом городе повернуты на сексе"
+msgstr "[_restaurant_goer_4_] Te lo juro, a veces me parece que todos en esta ciudad están excitados el sexo"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:611 #-#-# translate crowdin minigame_3_4d9bae89:
+msgid "[_restaurant_goer_3_] Д-дорогая.. Давай будем обсуждать это не здесь"
+msgstr "[_restaurant_goer_3_] D-darth… No hablemos de esto aquí"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:613 #-#-# translate crowdin minigame_3_64e2afa1:
+msgid "[_haylin_] В-вот ваше меню, м-можете присаживаться за столик. Скоро к вам подойдет наш официант"
+msgstr "[_haylin_] Aquí está su menú, puede sentarse a la mesa. Pronto nuestro camarero vendrá a ti"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:614 #-#-# translate crowdin minigame_3_ac797708:
+msgid "[_restaurant_goer_3_] С-спасибо. Надеюсь ожог не сильно болит"
+msgstr "[_restaurant_goer_3_] Gracias. Gracias. Espero que la quemadura no duela mucho"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:616 #-#-# translate crowdin minigame_3_b31a05f2:
+msgid "[_haylin_] Д-да, все хорошо.."
+msgstr "[_haylin_] S-sí, todo está bien…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:617 #-#-# translate crowdin minigame_3_fe7f2d93:
+msgid "[_haylin_] (И-и так мне нужно будет продержаться до конца дня.. О боже..)"
+msgstr "[_haylin_] (Y así tendré que aguantar el resto del día. Oh, Dios mío.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:622 #-#-# translate crowdin minigame_3_78ec18f0:
+msgid "[_centered_] {size=37}Хай Лин простояла за прилавком до второй половины дня{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Hay Lin permaneció detrás del mostrador hasta la tarde{/size} [withDissolve1]"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:626 #-#-# translate crowdin minigame_3_3debc480:
+msgid "[_haylin_] М-мам, можешь меня подменить.. Я, кхм, мне что-то стало тяжеловато стоять за кассой.."
+msgstr "[_haylin_] M-mamá, ¿puedes cubrirme? Ejem… Me cuesta seguir de pie detrás de la caja…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:631 #-#-# translate crowdin minigame_3_9de13565:
+msgid "[_johnlin_] Ох, хорошо, дорогая, конечно"
+msgstr "[_johnlin_] Oh, bueno, cariño, por supuesto"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:637 #-#-# translate crowdin minigame_3_26d43504:
+msgid "[_haylin_] С-спасиб.."
+msgstr "[_haylin_] Gracias. Gracias."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:643 #-#-# translate crowdin minigame_3_0a411ef5:
+msgid "[_johnlin_] Рик тебя подменит. Думаю он как раз закнчил на кухне"
+msgstr "[_johnlin_] Rick te reemplazará. Creo que acaba de terminar en la cocina"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:647 #-#-# translate crowdin minigame_3_e5943e4a:
+msgid "[_haylin_] Р-рик!? Н-нет, мама, только не.."
+msgstr "[_haylin_] R-rick!? N-no, mamá, pero no…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:651 #-#-# translate crowdin minigame_3_1546e276:
+msgid "[_johnlin_] Чееен! Вы с Риком там закончили на кухне?"
+msgstr "[_johnlin_] ¡Cheeeen! ¿Rick y tú ya terminaron en la cocina?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:655 #-#-# translate crowdin minigame_3_de73b472:
+msgid "[_chenlin_] О-он за пару часов покромсал на фарш то, на что у меня обычно уходит пол дня.."
+msgstr "[_chenlin_] E-en un par de horas picó lo que a mí normalmente me lleva medio día…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:659 #-#-# translate crowdin minigame_3_6a6cdb1b:
+msgid "[_johnlin_] То есть вы закончили даже раньше. Ох наш Рик, ну не молодец ли"
+msgstr "[_johnlin_] Es decir, has terminado incluso antes. Oh, nuestro Rick, bueno, no está curado"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:663 #-#-# translate crowdin minigame_3_2a5b2d08:
+msgid "[_chenlin_] Он сделал все поварскими тесаками, Джоан.. Я говорил ему взять мясорубку.. А он только смеялся.. И рубил.. Кромсал все двумя руками.."
+msgstr "[_chenlin_] Lo hizo todo con cuchillas de cocina, Joan… Le dije que usara la picadora de carne, pero él solo se reía… y cortaba… lo despedazaba todo con ambas manos…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:667 #-#-# translate crowdin minigame_3_36e12531:
+msgid "[_johnlin_] Я рада, что ты так высоко ценишь работу Рика на кухне, дорогой, но ему нужно заменить Хай Лин за прилавком, ей нездоровится"
+msgstr "[_johnlin_] Me alegra que valores tanto el trabajo de Rick en la cocina, cariño, pero debe reemplazar a Hay Lin en el mostrador; ella no se siente bien."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:668 #-#-# translate crowdin minigame_3_315cc156:
+msgid "[_chenlin_] (Джоан не видела того, что видел я..)"
+msgstr "[_chenlin_] (Joan no ha visto lo que he visto.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:669 #-#-# translate crowdin minigame_3_e31baef5:
+msgid "[_chenlin_] (Этот Рик.. очень страшный человек..)"
+msgstr "[_chenlin_] (Este Rick… es un hombre aterrador…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:673 #-#-# translate crowdin minigame_3_afd4446d:
+msgid "[_haylin_] М-мам, может не стоит"
+msgstr "[_haylin_] Mm, tal vez no valga la pena"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:677 #-#-# translate crowdin minigame_3_d9a4eeaf:
+msgid "[_johnlin_] Дорогая, я сегодня разношу еду, хотя это вообще не входит в мои обязанности. Отец может только готовить на кухне и мыть полы"
+msgstr "[_johnlin_] Cariño, hoy estoy sirviendo la comida, aunque no forma parte de mis tareas. Tu padre solo puede cocinar en la cocina y lavar los pisos."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:683 #-#-# translate crowdin minigame_3_f82a47cd:
+msgid "[_johnlin_] А Рик уже справился со всем на кухне, пусть встает за прилавок, у него хорошо получается"
+msgstr "[_johnlin_] Un Rick ya ha hecho frente a todo en la cocina, le deja que se ponga detrás del mostrador, lo hace bien"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:689 #-#-# translate crowdin minigame_3_60370d95:
+msgid "[_haylin_] Л-ладно, мама, как скажешь"
+msgstr "[_haylin_] E-está bien, mamá, como digas."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:695 #-#-# translate crowdin minigame_3_4b5b1e94:
+msgid "[_johnlin_] Вот и хорошо. Вечером у нас большая загруженность. С заказами то я сама справлюсь, но на кассе обычно выстраивается большая очередь"
+msgstr "[_johnlin_] Bien. Por las noches tenemos mucho trabajo. Puedo ocuparme sola de los pedidos, pero suele formarse una gran fila en la caja."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:696 #-#-# translate crowdin minigame_3_44b34375:
+msgid "[_johnlin_] Побудь там с Риком, если вдруг придется принимать по несколько человек одновременно"
+msgstr "[_johnlin_] Quédate allí con Rick si tienes que tomar varias personas al mismo tiempo"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:702 #-#-# translate crowdin minigame_3_89951a3a:
+msgid "[_haylin_] Х-хорошо"
+msgstr "[_haylin_] E-está bien"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:706 #-#-# translate crowdin minigame_3_4f80ba82:
+msgid "[_centered_] {size=37}Вечером Рик стоит за прилавком с Хай Лин{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Por la noche, Rick está detrás del mostrador junto a Hay Lin{/size} [withDissolve1]"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:716 #-#-# translate crowdin minigame_3_0169f066:
+msgid "[_haylin_] (Ааххх.. Т-так и знала, что если у прилавка будет Рик, то все станет только хуже..)"
+msgstr "[_haylin_] (Aaah… S-sabía que tener a Rick en el mostrador solo empeoraría las cosas…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:719 #-#-# translate crowdin minigame_3_109f328a:
+msgid "[_haylin_] (Н-но теперь я хотя бы могу сдерживать свой голос, используя руки..)"
+msgstr "[_haylin_] (P-pero al menos ahora puedo ahogar la voz con las manos…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:722 #-#-# translate crowdin minigame_3_1137f039:
+msgid "[_haylin_] (Аааххх.. я.. я как будто привыкла к этой вибрации за весь день.. она.. ах.. чувствуется во всем теле..)"
+msgstr "[_haylin_] (Aaah… Y-yo… Es como si me hubiera acostumbrado a esta vibración después de todo el día… Se siente… ah… por todo el cuerpo…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:725 #-#-# translate crowdin minigame_3_0889b9a7:
+msgid "[_haylin_] (Н-не хочется это признавать.. Н-но мне как будто бы уже становится приятно от этого.. Н-не могу бороться с реакцией своего тела..)"
+msgstr "[_haylin_] (N-no quiero admitirlo… P-pero parece que ya empieza a gustarme… N-no puedo luchar contra la reacción de mi cuerpo.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:728 #-#-# translate crowdin minigame_3_73beca27:
+msgid "[_haylin_] (Аааахх.. Э-это было трудно.. Н-но я сдержалась..)"
+msgstr "[_haylin_] (Aaah… E-eso fue difícil… P-pero me contuve…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:736 #-#-# translate crowdin minigame_3_927345e1:
+msgid "[_haylin_] (Ааааххх.. Р-рик, мог бы и помягче.. Э-эта штука во мне уже целый день..)"
+msgstr "[_haylin_] (Aaah… R-Rick, podrías ser más suave… E-esta cosa lleva dentro de mí todo el día…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:739 #-#-# translate crowdin minigame_3_19852ba9:
+msgid "[_haylin_] (Я.. Яяя ели сдерживаюсь.. Эта штука нещадно стимулирует мои самые чувствительные места..)"
+msgstr "[_haylin_] (Y-yo… A-apenas me contengo… Esta cosa estimula sin piedad mis zonas más sensibles…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:742 #-#-# translate crowdin minigame_3_39513b1c:
+msgid "[_haylin_] (Мххх.. Д-да сколько можно… Эта штука работает так активно, неужели Рик не боится, что нас застукают?..)"
+msgstr "[_haylin_] (Mmm… ¿C-cuánto más…? Esta cosa vibra con tanta fuerza… ¿Rick no teme que nos descubran?…) "
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:745 #-#-# translate crowdin minigame_3_92656757:
+msgid "[_haylin_] (Аааххх.. С-словно вибрация яйца уже доходит до моего мозга.. т-так странно, но так приятно.. С этими ощущениями невозможно бороться..)"
+msgstr "[_haylin_] (Aaah… Es como si la vibración del huevo ya me llegara al cerebro… Es extraño, pero se siente tan bien… Es imposible resistirse a estas sensaciones…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:748 #-#-# translate crowdin minigame_3_9a971e4c:
+msgid "[_haylin_] (Ммммввв.. Р-рик.. Я еле сдержала голос.. Ты совсем меня не щадишь..)"
+msgstr "[_haylin_] (Mmm… R-Rick… Apenas pude contener la voz… No tienes ninguna consideración conmigo…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:756 #-#-# translate crowdin minigame_3_b66b20ea:
+msgid "[_haylin_] (Ч-черт.. Эта штука.. Она прямо таки пробуряется в мою киску, аааххх.. Т-так тяжело сдерживаться..)"
+msgstr "[_haylin_] (M-mierda… Esta cosa… Se me está metiendo de lleno en el coño, aaah… E-es tan difícil contenerme…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:759 #-#-# translate crowdin minigame_3_268795fe:
+msgid "[_haylin_] (Ааахх.. Уууфф.. Я уже не соображаю.. Боже, кажется, еще немного и я отключусь…)"
+msgstr "[_haylin_] (Aaah… Ufff… Ya no puedo pensar… Dios, creo que un poco más y perderé el conocimiento…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:762 #-#-# translate crowdin minigame_3_a47b6455:
+msgid "[_haylin_] (Ааахх.. Уууфф.. Н-не могу, ноги дрожат, тело трясет.. Все силы уходят только на то, чтобы сдержать свои стоны.. В таком состоянии я уже даже спрятаться не смогу..)"
+msgstr "[_haylin_] (Aah… Wuuff… No puedo, me tiemblan las piernas, el cuerpo está temblando. Toda su fuerza solo se queda para mantener sus gemidos. En este estado, ni siquiera puedo esconderme.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:765 #-#-# translate crowdin minigame_3_9a5e0ad3:
+msgid "[_haylin_] (Я.. уухх.. я скоро кончу.. эта штука.. у меня уже все немеет, но при этом волнами накрывает удовольствие.. и каждая волна.. сильнее предыдущей)"
+msgstr "[_haylin_] (Yo… uuh… pronto me voy a correr… esta cosa… ya tengo todo entumecido, pero el placer me invade en oleadas… y cada oleada… es más fuerte que la anterior.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:768 #-#-# translate crowdin minigame_3_c3837eaf:
+msgid "[_haylin_] (Я.. яяя не удержусь.. Р-риик.. К-кончаю..)"
+msgstr "[_haylin_] (Yo… no podré contenerme… R-Rick… M-me vengo…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:770 #-#-# translate crowdin minigame_3_7ecbae85:
+msgid "[_haylin_] Аааааххх.."
+msgstr "[_haylin_] Aahhh…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:772 #-#-# translate crowdin minigame_3_0eea5323:
+msgid "[_tony_] Ч-что это было?"
+msgstr "[_tony_] W-¿Qué era?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:773 #-#-# translate crowdin minigame_3_e31267a1:
+msgid "[_cedrick_] О чем вы?"
+msgstr "[_cedrick_] ¿De qué estás hablando?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:774 #-#-# translate crowdin minigame_3_5aa188b2:
+msgid "[_tony_] Этот звук. Я же не один его слышал!?"
+msgstr "[_tony_] Este sonido. ¡No soy el único que lo escuchó!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:775 #-#-# translate crowdin minigame_3_82f701e1:
+msgid "[_cedrick_] Прошу, не задерживайте очередь. Вы уже достаточно отняли у нас времени.."
+msgstr "[_cedrick_] Por favor, no retrase la cola. Nos has tomado suficiente tiempo."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:776 #-#-# translate crowdin minigame_3_9f828b74:
+msgid "[_tony_] ..Дурдом какой-то"
+msgstr "[_tony_] …Otro falvo"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:781 #-#-# translate crowdin minigame_3_a1ef9d3c:
+msgid "[_centered_] {size=37}До конца вечера ресторан проработал без происшествий{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}El restaurante funcionó sin incidentes durante el resto de la noche{/size} [withDissolve1]"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:786 #-#-# translate crowdin minigame_3_2b1f834f:
+msgid "[_chenlin_] В благодарность за сегодняшнюю помощь, Рик, мы решили устроить застолье. Спасибо тебе"
+msgstr "[_chenlin_] En agradecimiento por la ayuda de hoy, Rick, decidimos tener una fiesta. Gracias"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:788 #-#-# translate crowdin minigame_3_c60f8ec5:
+msgid "[_cedrick_] Конечно, Мистер Чен, всегда рад вам помочь"
+msgstr "[_cedrick_] De seguro, Sr. Chen, siempre feliz de ayudarte"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:790 #-#-# translate crowdin minigame_3_dc1952d9:
+msgid "[_johnlin_] Р-рик, честно говоря, я даже не знаю, как тебя отблагодарить за тот случай у прилавка.."
+msgstr "[_johnlin_] R-rh, francamente, ni siquiera sé cómo agradecerle por el caso en el mostrador."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:791 #-#-# translate crowdin minigame_3_f9fc3785:
+msgid "[_cedrick_] Ох, Джоан, о чем ты. Я просто прогнал назойливого клиента"
+msgstr "[_cedrick_] Oh, Joan, lo que quieres decir. Me escapé con un cliente molesto"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:793 #-#-# translate crowdin minigame_3_a70b3f6c:
+msgid "[_chenlin_] Ч-что? О чем вы?"
+msgstr "[_chenlin_] ¿Qué carajo es? ¿De qué estás hablando?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:795 #-#-# translate crowdin minigame_3_8aa0ffac:
+msgid "[_johnlin_] Сегодня приходил Сил. Снова выпрашивал плату за долги. И Рик его прогнал"
+msgstr "[_johnlin_] Ha venido hoy la fuerza. Volvió a pedir una cuota por deudas. Y Rick lo ahuyentó"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:797 #-#-# translate crowdin minigame_3_a58ea3aa:
+msgid "[_chenlin_] Ч-что!? Прогнал Сильвио!? Сильвио Данте.."
+msgstr "[_chenlin_] ¿¡Qué!? ¿Persiguido por Silvio?? Silvio Dante…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:799 #-#-# translate crowdin minigame_3_78189c9a:
+msgid "[_chenlin_] Как у тебя только смелости хватило.. Н-надеюсь у нас из-за этого не будет проблем.."
+msgstr "[_chenlin_] Cómo acabas de tener el coraje… Espero que no tengamos un problema por eso."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:801 #-#-# translate crowdin minigame_3_01ac7e47:
+msgid "[_cedrick_] Простите, если доставил вам потенциальные неприятности. Если что-то произойдет, я использую свои связи в Интерполе, чтобы вас защитить"
+msgstr "[_cedrick_] Perdóname si te meto en problemas. Si ocurre algo, usaré mis contactos en Interpol para protegerte."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:803 #-#-# translate crowdin minigame_3_bdf06fed:
+msgid "[_chenlin_] В-в Интерполе.. Р-рик, я думал ты простой владелец книжного магазина.."
+msgstr "[_chenlin_] E-en Interpol… R-Rick, creí que solo eras el dueño de una librería…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:805 #-#-# translate crowdin minigame_3_170d679f:
+msgid "[_cedrick_] Хахах, так и есть. Просто, кхм, у меня за последнее время появилось много связей. Хоть и не все проходило гладко, думаю вы и сами слышали ту историю в суде"
+msgstr "[_cedrick_] Jaja, así es. Sólo, uh, he tenido un montón de conexiones últimamente. Aunque no todo salió bien, creo que usted mismo escuchó esa historia en la corte"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:806 #-#-# translate crowdin minigame_3_3467f7a8:
+msgid "[_cedrick_] Но мне оправдали. И человек, который помог мне с этим, как раз девушка из Интерпола"
+msgstr "[_cedrick_] Pero me absolvieron. Y quien me ayudó fue precisamente una agente de Interpol."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:808 #-#-# translate crowdin minigame_3_42982f81:
+msgid "[_chenlin_] Поразительно.."
+msgstr "[_chenlin_] Increíblemente…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:809 #-#-# translate crowdin minigame_3_be88e607:
+msgid "[_cedrick_] Так что можете не беспокоиться. Мои связи теперь ваши связи"
+msgstr "[_cedrick_] Para que no tengas que preocuparte. Mis conexiones son sus conexiones ahora"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:811 #-#-# translate crowdin minigame_3_803ea363:
+msgid "[_johnlin_] Правда Рик поразительный, Чен? И этот человек, между прочим, встречается с нашей дочерью"
+msgstr "[_johnlin_] ¿Realmente Rick es increíble, Chen? Y este hombre, por cierto, se encuentra con nuestra hija"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:813 #-#-# translate crowdin minigame_3_07ca60fd:
+msgid "[_chenlin_] Ч-что!?"
+msgstr "[_chenlin_] ¿¡Qué!?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:815 #-#-# translate crowdin minigame_3_759ac68c:
+msgid "[_haylin_] Что.."
+msgstr "[_haylin_] ¿Qué…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:817 #-#-# translate crowdin minigame_3_230032be:
+msgid "[_cedrick_] Кхм.. Джоан, я бы не хотел так это афишировать.."
+msgstr "[_cedrick_] Ejem… Joan, no quiero anunciarlo de esa manera."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:819 #-#-# translate crowdin minigame_3_983f965a:
+msgid "[_johnlin_] Рик, здесь никого кроме нас нет. Думаю уже нечего стесняться"
+msgstr "[_johnlin_] Rick, no hay nadie aquí más que nosotros. Creo que no hay nada que ser tímido"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:821 #-#-# translate crowdin minigame_3_3f4acf79:
+msgid "[_haylin_] Н-нет, как же так.."
+msgstr "[_haylin_] N-no, cómo…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:822 #-#-# translate crowdin minigame_3_1b5131a0:
+msgid "[_cedrick_] Хах, я скорее беспокоюсь за Хай Лин. Она же у нас скромница, сами знаете.."
+msgstr "[_cedrick_] Ja, estoy más preocupado por Hay Lin. Es una modestia, ¿sabes?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:824 #-#-# translate crowdin minigame_3_7cace218:
+msgid "[_chenlin_] Т-так, я.. кхм.. я протестую.. Моя дочь слишком юна чтобы, эм.. чтобы встречаться с вами!"
+msgstr "[_chenlin_] B-bueno, yo… ejem… protesto. ¡Mi hija es demasiado joven para… eh… salir con usted!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:826 #-#-# translate crowdin minigame_3_824ea049:
+msgid "[_johnlin_] Ох, ты хотел сказать Рик для нее слишком взрослый, Чен?"
+msgstr "[_johnlin_] Oh, ¿te refieres a que Rick es demasiado viejo, Chen?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:828 #-#-# translate crowdin minigame_3_607a8546:
+msgid "[_chenlin_] А.. Эм, да.."
+msgstr "[_chenlin_] A… Um, sí."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:830 #-#-# translate crowdin minigame_3_8c7f4411:
+msgid "[_johnlin_] Хай Лин уже давно не маленькая и сама решает, с кем встречаться а с кем нет"
+msgstr "[_johnlin_] Hay Lin no es pequeño durante mucho tiempo y decide a quién conocer y quién no"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:832 #-#-# translate crowdin minigame_3_87c5dd71:
+msgid "[_haylin_] ..."
+msgstr "[_haylin_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:834 #-#-# translate crowdin minigame_3_fe2a30a5:
+msgid "[_chenlin_] Джоан, ты ведешь себя странно. Обычно ты наоборот чересчур ее опекаешь"
+msgstr "[_chenlin_] Joan, estás actuando raro. Por lo general, por el contrario, lo superas demasiado"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:836 #-#-# translate crowdin minigame_3_753cd87b:
+msgid "[_johnlin_] Она не может вечно оставаться только нашей дочерью, Чен. Она растет, у нее появляются новые увлечения.. Новые желания.."
+msgstr "[_johnlin_] No puede quedarse para siempre solo nuestra hija, Chen. Crece, tiene nuevos pasatiempos. Nuevos deseos…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:837 #-#-# translate crowdin minigame_3_a5ab7704:
+msgid "[_johnlin_] Это нормально и мы как ответственные родители должны принять это"
+msgstr "[_johnlin_] Es normal y nosotros como padres responsables debemos aceptar esto"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:839 #-#-# translate crowdin minigame_3_d91db916:
+msgid "[_haylin_] Н-нет, подождите.."
+msgstr "[_haylin_] N-no, espera."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:841 #-#-# translate crowdin minigame_3_f502691e:
+msgid "[_johnlin_] К тому же вспомни нас в ее возрасте, разве мы не были такими же?"
+msgstr "[_johnlin_] Además, ¿recuerdas a su edad, no éramos iguales?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:842 #-#-# translate crowdin minigame_3_af25a5c9:
+msgid "[_johnlin_] Не говоря уже о том, на сколько ты был старше меня, когда мы начали встречаться"
+msgstr "[_johnlin_] Sin mencionar lo mayor que eras mayor que yo cuando empezamos a salir"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:843 #-#-# translate crowdin minigame_3_a6100df7:
+msgid "[_johnlin_] Если я правильно понимаю, между тобой и мной разница в возрасте даже больше, чем между Хай Лин и Риком"
+msgstr "[_johnlin_] Si lo entiendo bien, hay aún más edad entre tú y yo que entre Hay Lin y Rick"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:845 #-#-# translate crowdin minigame_3_567bdd5c:
+msgid "[_chenlin_] Н-нет, это другое.. Джоан, тогда были совсем другие времена.. Другие нравы.."
+msgstr "[_chenlin_] N-no, es diferente. Joan, entonces hubo momentos muy diferentes. Otros modales…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:847 #-#-# translate crowdin minigame_3_d714194e:
+msgid "[_johnlin_] Нравы остались те же, Чен, просто ты.."
+msgstr "[_johnlin_]Moses Son lo mismo, Chen, solo tú…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:849 #-#-# translate crowdin minigame_3_2bec047e:
+msgid "[_chenlin_] Я.. что? Постарел? Ты это хочешь сказать?"
+msgstr "[_chenlin_] Yo… ¿Qué? ¿Qué? ¿Vejez? ¿Estás diciendo eso?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:851 #-#-# translate crowdin minigame_3_d2cd3967:
+msgid "[_johnlin_] Давай не будем.. Не здесь и не сейчас.."
+msgstr "[_johnlin_] No lo hagamos. No aquí ni ahora."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:853 #-#-# translate crowdin minigame_3_04b92600:
+msgid "[_chenlin_] Нет уж, Джоан, раз уж начала, давай договаривай"
+msgstr "[_chenlin_] No, Joan, desde que ha empezado, hagamos un trato"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:854 #-#-# translate crowdin minigame_3_f9008c15:
+msgid "[_cedrick_] (Ого, его это явно задело за живое.. Возможно за этим конфликтом скрывается нечто большее, чем наши с Хай Лин так называемые отношения)"
+msgstr "[_cedrick_] (Vaya, esto le tocó un nervio. Quizá haya algo más detrás de este conflicto que nuestra supuesta relación con Hay Lin.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:856 #-#-# translate crowdin minigame_3_431ec325:
+msgid "[_haylin_] М-мам, пап, я.."
+msgstr "[_haylin_] Mm-mam, papá, yo…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:863 #-#-# translate crowdin minigame_3_b89a679d:
+msgid "[_haylin_] Я-я.. Аааххх.. К-кхм.."
+msgstr "[_haylin_] Y-yo… Aaaah… E-ejem…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:864 #-#-# translate crowdin minigame_3_a5bd5dba:
+msgid "[_chenlin_] Х-хай Лин, все впорядке?"
+msgstr "[_chenlin_] H-Hay Lin, ¿de acuerdo?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:866 #-#-# translate crowdin minigame_3_c483dd21:
+msgid "[_haylin_] (Ч-черт, Рик.. П-пытается меня заткнуть.. А я только расслабилась..)"
+msgstr "[_haylin_] (Maldita sea, Rick. Intentando callarme. Me acabo de relajar.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:867 #-#-# translate crowdin minigame_3_6a3a8fa9:
+msgid "[_johnlin_] ..."
+msgstr "[_johnlin_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:869 #-#-# translate crowdin minigame_3_3505061c:
+msgid "[_haylin_] Я.. Мммх.. В-все впорядке.. Я просто хотела сказать, что.."
+msgstr "[_haylin_] Yo… Mmm… Muy bien. Solo quería decir que…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:871 #-#-# translate crowdin minigame_3_9955c85b:
+msgid "[_haylin_] (Ч-что же делать.. Это зашло слишком далеко.. Рик уже обманул маму и сейчас прямо за семейным столом закрепляет ложь о том, что мы встречаемся..)"
+msgstr "[_haylin_] (¿Qué hago…? Esto ha ido demasiado lejos… Rick ya engañó a mamá y ahora, en plena mesa familiar, consolida la mentira de que salimos…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:872 #-#-# translate crowdin minigame_3_72b36d5b:
+msgid "[_haylin_] (Если так пойдет и дальше, я окончательно попаду в его ловушку.. А со временем и родителей встанут на его сторону..)"
+msgstr "[_haylin_] (Si eso continúa, finalmente caeré en su trampa. Y con el tiempo, los padres se pondrán de su lado.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:873 #-#-# translate crowdin minigame_3_d47fabe8:
+msgid "[_haylin_] (Я.. Д-должна что-нибудь сделать.. Иначе потом будет поздно..)"
+msgstr "[_haylin_] (Yo… D-debería hacer algo… Será demasiado tarde más tarde.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:875 #-#-# translate crowdin minigame_3_d20b4b56:
+msgid "[_haylin_] Рик и я.. Это все.."
+msgstr "[_haylin_] Rick y yo… Es todo…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:880 #-#-# translate crowdin minigame_3_dad96dbd:
+msgid "[_cedrick_] (Хм, пожалуй не стану ее останавливать.. Посмотрим, как она выкрутится из этого)"
+msgstr "[_cedrick_] (Mmm, mejor no la detengo… Veamos cómo sale de esta.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:882 #-#-# translate crowdin minigame_3_1d329a11:
+msgid "[_haylin_] Я, кхм.."
+msgstr "[_haylin_] Yo, ejem…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:884 #-#-# translate crowdin minigame_3_c69b673e:
+msgid "[_haylin_] (Ч-что я должна сказать.. Эта новость настолько застало меня врасплох, что я даже не успела все обдумать..)"
+msgstr "[_haylin_] (¿Q-qué debo decir…? La noticia me tomó tan desprevenida que ni siquiera he tenido tiempo de asimilarla…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:885 #-#-# translate crowdin minigame_3_ffac5b8c:
+msgid "[_haylin_] (Самое шокирующее это то, что подобное сказал даже не Рик, а моя мама.."
+msgstr "[_haylin_] (Lo más impactante es que eso es lo que dijo ni siquiera Rick, sino mi madre."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:886 #-#-# translate crowdin minigame_3_01ae0940:
+msgid "[_haylin_] (К-когда он только смог ей все это рассказать.. На сколько сильно на нее повлиял..)"
+msgstr "[_haylin_] (C-cuando pudo decirle todo esto. Cuánto la afectó mucho.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:887 #-#-# translate crowdin minigame_3_41c04690:
+msgid "[_haylin_] (Черт.. Он даже не пытается меня остановить, хоть и может включить игрушку..)"
+msgstr "[_haylin_] (Maldito. Ni siquiera está tratando de detenerme, aunque pueda encender el juguete.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:888 #-#-# translate crowdin minigame_3_bb84fdca:
+msgid "[_haylin_] (Настолько уверен в том, что у него все под контролем?)"
+msgstr "[_haylin_] (¿Tan seguro de que tiene todo bajo control?)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:889 #-#-# translate crowdin minigame_3_c79d80c2:
+msgid "[_haylin_] (Или же.. у него и вправду все под контролем..)"
+msgstr "[_haylin_] (O… Realmente tiene todo bajo control.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:894 #-#-# translate crowdin minigame_3_56f8aa6f:
+msgid "[_haylin_] (Возможно он уже давно пустил корни в мою семью.. Бабушка ведь не единственная, через кого он может мною манипулировать..)”"
+msgstr "[_haylin_] (Tal vez ha arraigado durante mucho tiempo en mi familia. La abuela no es la única a través de la cual puede manipularme.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:895 #-#-# translate crowdin minigame_3_f96e90ea:
+msgid "[_haylin_] (А я даже не подозревала, какая же я дура.. Пытаюсь сейчас выступать, когда как он подготовил все давным давно..)"
+msgstr "[_haylin_] (ni siquiera sabía cómo era. Estoy tratando de hablar cuando él ha estado preparando todo durante mucho tiempo.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:896 #-#-# translate crowdin minigame_3_7b0916ad:
+msgid "[_haylin_] (Я была в проигрышной позиции изначально.. Все это развлечение с игрушками было лишь фарсом..)"
+msgstr "[_haylin_] (Yo estaba en una posición perdedora inicialmente. Todo este entretenimiento con juguetes fue solo una farsa.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:897 #-#-# translate crowdin minigame_3_039ed2cc:
+msgid "[_haylin_] (Настоящее представление, направленное на подавление моей воли, происходит сейчас..)"
+msgstr "[_haylin_] (La idea actual de suprimir mi voluntad está sucediendo ahora.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:899 #-#-# translate crowdin minigame_3_820945bb:
+msgid "[_chenlin_] П-прости, дочка, нам не стоило ругаться при вас.."
+msgstr "[_chenlin_] P-perdón, hija; no debimos discutir delante de ustedes…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:901 #-#-# translate crowdin minigame_3_1494865c:
+msgid "[_chenlin_] Вы с Риком.. Кхм.."
+msgstr "[_chenlin_] Tú y Rick. Ejem."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:903 #-#-# translate crowdin minigame_3_763d3a67:
+msgid "[_chenlin_] (Я не хочу, чтобы моя дочь водилась с типом вроде него.. Побыв с ним всего день он нагнал на меня жути, возможно, даже сам того не подозревая..)"
+msgstr "[_chenlin_] (No quiero que mi hija sea encontrada con un tipo como él. Habiendo estado con él solo un día me alcanzó, tal vez incluso sin saberlo.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:905 #-#-# translate crowdin minigame_3_8a304010:
+msgid "[_chenlin_] (Но.. Возможно Хай Лин счастлива с ним.. Я давно ее такой не видел.. Прямо на месте усидеть не может, щеки красные..)"
+msgstr "[_chenlin_] (No. Tal vez Hay Lin está contento con él. No la he visto así en mucho tiempo. Justo en el acto no puede sentarse, las mejillas son rojas.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:906 #-#-# translate crowdin minigame_3_52e32b52:
+msgid "[_chenlin_] (Мда.. Она и вправду пошла в мать.. Та тоже по молодости западала на таких вот плохих парней..)"
+msgstr "[_chenlin_] (M.D. Ella realmente fue con su madre. Ella también, en mi juventud, se enamoró de tan malos chicos.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:908 #-#-# translate crowdin minigame_3_f3dd60f0:
+msgid "[_chenlin_] (Черт..)"
+msgstr "[_chenlin_] (Maldita sea)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:910 #-#-# translate crowdin minigame_3_760030a9:
+msgid "[_chenlin_] Хай Лин.. Как ответственный отец, который любит свою дочь, я обязан принять твой выбор"
+msgstr "[_chenlin_] Hay Lin. Como padre responsable que ama a su hija, debo aceptar tu elección"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:912 #-#-# translate crowdin minigame_3_417c1430:
+msgid "[_chenlin_] Если так ты будешь счастлива.. Я.. Я не против"
+msgstr "[_chenlin_] Si eres feliz. Yo… No me importa"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:914 #-#-# translate crowdin minigame_3_a0c04d7a:
+msgid "[_haylin_] П-папа, я.."
+msgstr "[_haylin_] P-p-p, yo…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:915 #-#-# translate crowdin minigame_3_49784d8f:
+msgid "[_cedrick_] (Отлично. Самое время для финального аккорда в этой похоронной для семейной жизни Хай Лин мелодии)"
+msgstr "[_cedrick_] (Excelente. Es hora del acorde final de esta melodía fúnebre para la vida familiar de Hay Lin.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:920 #-#-# translate crowdin minigame_3_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:923 #-#-# translate crowdin minigame_3_5f38d999:
+msgid "Звук пришедшего сообщения на телефоне"
+msgstr "El sonido de un mensaje en el teléfono"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:925 #-#-# translate crowdin minigame_3_230803b4:
+msgid "[_chenlin_] М? Хай Лин, по моему это твой телефон"
+msgstr "[_chenlin_] ¿M? Hay Lin, creo que es tu teléfono"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:927 #-#-# translate crowdin minigame_3_db38acf7:
+msgid "[_haylin_] Д-да, это мой.. я посмотрю что там.."
+msgstr "[_haylin_] S-sí, es el mío… Veré qué hay…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:931 #-#-# translate crowdin minigame_3_03b48f9d:
+msgid "[_haylin_] (Ч-что…)"
+msgstr "[_haylin_] (Qué…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:933 #-#-# translate crowdin minigame_3_45ad81da:
+msgid "[_haylin_] (Н-не может быть..)"
+msgstr "[_haylin_] (N-no puede ser…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:935 #-#-# translate crowdin minigame_3_d79d535c:
+msgid "[_haylin_] (Это.. Это что.. Мама?)"
+msgstr "[_haylin_] (Esto… ¿Qué es esto…? ¿Mamá?)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:936 #-#-# translate crowdin minigame_3_da17ebe3:
+msgid "[_haylin_] (И.. И Седрик?)"
+msgstr "[_haylin_] (Yo… ¿Y Cedric?)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:937 #-#-# translate crowdin minigame_3_3033675f:
+msgid "[_haylin_] (Н-нет.. О нет.. Только не..)"
+msgstr "[_haylin_] (N-No. Oh No. Sólo que no…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:938 #-#-# translate crowdin minigame_3_b7424a51:
+msgid "[_haylin_] (Т-только не это..)"
+msgstr "[_haylin_] (No solo eso.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:939 #-#-# translate crowdin minigame_3_17e9ae00:
+msgid "[_haylin_] (К-как же так..)"
+msgstr "[_haylin_] (¿C-cómo puede ser…?)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:940 #-#-# translate crowdin minigame_3_1ba54209:
+msgid "За окном начинается сильный ливень"
+msgstr "Fuera de la ventana comienza una fuerte lluvia"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:943 #-#-# translate crowdin minigame_3_e46d042c:
+msgid "[_haylin_] (Неужели он.. Воспользовался моей мамой..)"
+msgstr "[_haylin_] (¿Acaso él… se aprovechó de mi madre…?)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:944 #-#-# translate crowdin minigame_3_14954972:
+msgid "[_haylin_] (Чтобы надавить на меня еще сильнее..)"
+msgstr "[_haylin_] (Para presionarme todavía más…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:945 #-#-# translate crowdin minigame_3_423a0533:
+msgid "[_haylin_] (Боже, а что.. что если папа узнает..)"
+msgstr "[_haylin_] (Dios, ¿qué… ¿Y si mi papá se entera?)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:946 #-#-# translate crowdin minigame_3_cd35b43a:
+msgid "[_haylin_] (Они же тогда точно разведутся.. И тогда..)"
+msgstr "[_haylin_] (Entonces se divorciarán. Y luego…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:947 #-#-# translate crowdin minigame_3_9a4fc897:
+msgid "[_haylin_] (Тогда всему конец.. Бабушка этого не переживет..)"
+msgstr "[_haylin_] (Entonces el final de ella. La abuela no sobrevivirá a esto.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:948 #-#-# translate crowdin minigame_3_b8cae5b9:
+msgid "[_haylin_] (Вся моя семья.. Вся моя жизнь развалится..)"
+msgstr "[_haylin_] (Toda mi familia… Toda mi vida se derrumbará…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:949 #-#-# translate crowdin minigame_3_6959c659:
+msgid "[_haylin_] (Н-нет.. Не хочу..)"
+msgstr "[_haylin_] (N-No. No quiero…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:954 #-#-# translate crowdin minigame_3_6d75f303:
+msgid "[_cedrick_] (Да, это жестоко.. По крайней мере для их мира точно..)"
+msgstr "[_cedrick_] (Sí, es cruel. Al menos para su mundo.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:955 #-#-# translate crowdin minigame_3_6c97351a:
+msgid "[_cedrick_] (Кто-нибудь с Меридиана мог бы сказать, что убить отца и мать на глазах у их ребенка куда более жестоко)"
+msgstr "[_cedrick_] (Alguien con Meridian podría decir que matar a un padre y una madre frente a su hijo es mucho más cruel)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:956 #-#-# translate crowdin minigame_3_53b3fb09:
+msgid "[_cedrick_] (Но я занимался и подобным, когда подавлял очередное восстание. И могу точно сказать.. Когда на твоих глазах все рушится - это непередаваемо больно)"
+msgstr "[_cedrick_] (Pero yo hice lo mismo cuando suprimí otra revuelta. Y puedo decir con seguridad… Cuando todo se colapsa en los ojos, duele indescriptiblemente)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:957 #-#-# translate crowdin minigame_3_c81bfc09:
+msgid "[_cedrick_] (Но вот когда тебе дают понять, что все на волоске. Что ты можешь все потерять, но пока не потерял..)"
+msgstr "[_cedrick_] (Pero cuando se te da claro que todo está al borde. Que se puede perder todo, pero no lo ha perdido todavía.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:958 #-#-# translate crowdin minigame_3_f484b580:
+msgid "[_cedrick_] (И дальше все зависит лишь от того, как хорошо ты себя ведешь.. Это куда более разрушительно для человека в долгосрочной перспективе)"
+msgstr "[_cedrick_] (Y entonces todo depende solo de lo bien que te comportes. Esto es mucho más destructivo para una persona a largo plazo)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:959 #-#-# translate crowdin minigame_3_e1199a6d:
+msgid "[_cedrick_] (Потому что потеря приводит к жажде борьбы и отмщения. Поэтому повстанцы сейчас так яростно сражаются. Они уже все потеряли)"
+msgstr "[_cedrick_] (Porque la pérdida conduce a una sed de lucha y venganza. Por lo tanto, los rebeldes están luchando tan ferozmente ahora. Ya lo han perdido todo)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:960 #-#-# translate crowdin minigame_3_0f3c21da:
+msgid "[_cedrick_] (А вот когда тебе есть что терять.. Когда все самое дорогое находится в руках у того, кто может все это отнять..)"
+msgstr "[_cedrick_] (Y ahí es cuando tienes algo que perder. Cuando todo lo más caro está en manos de alguien que puede tomarlo todo.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:961 #-#-# translate crowdin minigame_3_05f1c90e:
+msgid "[_cedrick_] (Вот тогда приходит отчаяние.. И сейчас Хай Лин накрывает именно оно..)"
+msgstr "[_cedrick_] (Esto es lo que viene la desesperación… Y ahora cubre a Hay Lin.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:962 #-#-# translate crowdin minigame_3_a523b9b7:
+msgid "[_cedrick_] (Мда.. Из всех стражниц она самая безобидная, не хотел я для нее такой судьбы)"
+msgstr "[_cedrick_] (M.D. De todas las Guardianas, ella es la más inofensiva, no quería tal destino para ella)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:963 #-#-# translate crowdin minigame_3_9900afde:
+msgid "[_cedrick_] (Будь моя воля, я бы сказал ей, что не разрушу ее семью. Что это лишь манипуляция и подобные жертвы мне ни к чему)"
+msgstr "[_cedrick_] (¿Quiere mi voluntad, le diría que no destruiré a su familia? Que esto es solo manipulación y sacrificios similares no necesito nada que hacer)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:964 #-#-# translate crowdin minigame_3_96ca7b7e:
+msgid "[_cedrick_] (Но.. тогда я не добьюсь желаемого.. Поэтому, прости, Хай Лин..)"
+msgstr "[_cedrick_] (No. Entonces no conseguiré lo que quería. Así que, lo siento, Hay Lin.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:965 #-#-# translate crowdin minigame_3_fe83084b:
+msgid "[_cedrick_] (Я развею твое отчаянье.. Но позже.. Когда ты встанешь на мою сторону..)"
+msgstr "[_cedrick_] (Voy a disipar su desesperación… Pero más tarde… Cuando te paras de mi lado.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:970 #-#-# translate crowdin minigame_3_9b87d99c:
+msgid "[_chenlin_] Хай Лин, все хорошо?"
+msgstr "[_chenlin_] Hay Lin, ¿está bien?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:972 #-#-# translate crowdin minigame_3_6ceb6f11:
+msgid "[_haylin_] Д-да.."
+msgstr "[_haylin_] D-Da…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:973 #-#-# translate crowdin minigame_3_813bac4b:
+msgid "[_haylin_] Да, папа.."
+msgstr "[_haylin_] Sí, papá."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:975 #-#-# translate crowdin minigame_3_448d99fa:
+msgid "[_haylin_] Спасибо, что принял наши отношения с Риком. Я это очень ценю"
+msgstr "[_haylin_] Gracias por aceptar nuestra relación con Rick. Realmente lo aprecio"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:977 #-#-# translate crowdin minigame_3_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:978 #-#-# translate crowdin minigame_3_2c595be4:
+msgid "[_chenlin_] ..."
+msgstr "[_chenlin_] …"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:980 #-#-# translate crowdin minigame_3_8f026de5:
+msgid "[_johnlin_] Вооот и славно, а то последние 10 минут за столом чувствовалось какое-то напряжение"
+msgstr "[_johnlin_] Así está mucho mejor; durante los últimos diez minutos se notaba cierta tensión en la mesa."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:982 #-#-# translate crowdin minigame_3_e5231ea2:
+msgid "[_johnlin_] Рада, что все все уладили"
+msgstr "[_johnlin_] Me alegra que todos hayan resuelto sus diferencias."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:984 #-#-# translate crowdin minigame_3_c2e3d896:
+msgid "[_johnlin_] И мы правда рады вашим отношениям с Хай Лин, Рик"
+msgstr "[_johnlin_] Y estamos muy contentos con tu relación con Hay Lin, Rick"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:985 #-#-# translate crowdin minigame_3_69cf9cf6:
+msgid "[_cedrick_] Ох, вы даже не представляете, как я рад, Джоан"
+msgstr "[_cedrick_] Oh, no tienes idea de lo feliz que estoy, Joan"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:987 #-#-# translate crowdin minigame_3_6f283c96:
+msgid "[_johnlin_] Хм.. А тем временем на улице пошел жуткий ливень.. Да уж, давно такого не было.."
+msgstr "[_johnlin_] Hmm… Mientras tanto, había un terrible aguacero en la calle. Sí, ha pasado mucho tiempo desde…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:989 #-#-# translate crowdin minigame_3_95369da7:
+msgid "[_johnlin_] Хм, Рик, может останешься у нас? А то промокнешь до нитки"
+msgstr "[_johnlin_] Hmm, Rick, ¿puedes quedarte con nosotros? Te vas a mojar hasta el hilo"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:990 #-#-# translate crowdin minigame_3_3bb0e826:
+msgid "[_johnlin_] К тому же уже так поздно, последнее время на улице в это время не безопасно"
+msgstr "[_johnlin_] Además, es tan tarde, recientemente en la calle en este momento no es seguro"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:992 #-#-# translate crowdin minigame_3_204462a4:
+msgid "[_chenlin_] Т-так! Если Рик остается, то он спит на отдельной кровати! У нас как раз есть диван в зале на верхнем этаже"
+msgstr "[_chenlin_] ¡B-bien! Si Rick se queda, dormirá en otra cama. Tenemos un sofá en la sala del piso de arriba."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:993 #-#-# translate crowdin minigame_3_7fef0995:
+msgid "[_cedrick_] Хаха, конечно, мистер Чен, я и не думал о других вариантах"
+msgstr "[_cedrick_] Haha, por supuesto, Sr. Chen, nunca pensé en otras opciones"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:994 #-#-# translate crowdin minigame_3_e992a037:
+msgid "[_cedrick_] Вы накормили меня вкусной едой и предоставили кров. Теперь это уже я должен вас благодарить, несмотря на сегодняшнюю помощь"
+msgstr "[_cedrick_] Me alimentaste con comida deliciosa y me proporcionaste el refugio. Ahora tengo que darte las gracias, a pesar de la ayuda de hoy"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:996 #-#-# translate crowdin minigame_3_1f6aff00:
+msgid "[_chenlin_] Хаха, ты уже не обольщайся, Рик…"
+msgstr "[_chenlin_] Haha, no te dejes engañar más, Rick…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:997 #-#-# translate crowdin minigame_3_8828d662:
+msgid "[_chenlin_] Зал находится между нашей спальней и кухней, а я любитель попялиться в холодильник посреди ночи, так что боюсь сон будет не самый комфортный"
+msgstr "[_chenlin_] La habitación está situada entre nuestro dormitorio y la cocina, y soy un aficionado a mirar en la nevera en medio de la noche, así que tengo miedo de que el sueño no sea el más cómodo"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:999 #-#-# translate crowdin minigame_3_d18e5317:
+msgid "[_cedrick_] Ох, не переживайте, я крепко сплю"
+msgstr "[_cedrick_] Oh, no te preocupes, estoy durmiendo profundamente"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1001 #-#-# translate crowdin minigame_3_bc65c92c:
+msgid "[_chenlin_] Вот мы и проверим! Ахахаха"
+msgstr "[_chenlin_] ¡Eso es lo que vamos a comprobar! Jajaja."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1002 #-#-# translate crowdin minigame_3_70e7cc30:
+msgid "[_cedrick_] (Не могу понять, это он добродушничает или издевается..)"
+msgstr "[_cedrick_] (No sé si está siendo amable o si se burla de mí…)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1004 #-#-# translate crowdin minigame_3_f48b014b:
+msgid "[_johnlin_] Что ж, тогда давайте уберем со стола и все отправимся спать. Не хочу сильно смещать свой режим, ведь завтра у нас работы меньше не станет"
+msgstr "[_johnlin_] Bueno, entonces vamos a bajar de la mesa y ir a la cama. No quiero cambiar mucho mi régimen, porque mañana no vamos a trabajar menos"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1006 #-#-# translate crowdin minigame_3_14e04943:
+msgid "[_cedrick_] И это к лучшему, Джоан. Думаю лучше быть загруженным работой, чем остаться без дохода"
+msgstr "[_cedrick_] Y eso es lo mejor, Joan. Creo que es mejor estar ocupado con el trabajo que quedarse sin ingresos"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1008 #-#-# translate crowdin minigame_3_bc61ba38:
+msgid "[_johnlin_] Хм, тоже верно. Сразу видно владельца собственного небольшого бизнеса, Рик"
+msgstr "[_johnlin_] Hmm, eso también es cierto. Inmediatamente visible el dueño de su propio pequeño negocio, Rick"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1010 #-#-# translate crowdin minigame_3_29bc1983:
+msgid "[_cedrick_] Хах.."
+msgstr "[_cedrick_] Je."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1012 #-#-# translate crowdin minigame_3_f16b65a7:
+msgid "[_chenlin_] Так, тогда мы с Риком на посуде, вы пока задвиньте все стулья в ресторане. И после этого пойдем спать"
+msgstr "[_chenlin_] Así que, entonces Rick y yo estamos en los platos, tú estás empujando todas las sillas en el restaurante. Y luego vamos a la cama"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1015 #-#-# translate crowdin minigame_3_a6d6ae99:
+msgid "[_centered_] {size=37}Поздно ночью{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}A altas horas de la noche{/size} [withDissolve1]"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1018 #-#-# translate crowdin minigame_3_55925e47:
+msgid "[_cedrick_] (Черт, не думал, что это все так затянется.. Иметь свой книжный магазинчик явно лучше, чем ресторан..)"
+msgstr "[_cedrick_] (Maldita sea, no pensé que iba a ser tan largo. Tener una librería es mejor que un restaurante.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1019 #-#-# translate crowdin minigame_3_b0a5f721:
+msgid "[_cedrick_] (Что ж, ладно.. Пора и вправду на боковую. Надеюсь этот Чен не будет сильно мешаться)"
+msgstr "[_cedrick_] (Bueno… Ya es hora de ir a dormir. Espero que Chen no estorbe demasiado.)"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1025 #-#-# translate crowdin minigame_3_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1026 #-#-# translate crowdin minigame_3_0fd4d656:
+msgid "......"
+msgstr "…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1027 #-#-# translate crowdin minigame_3_278c7e29:
+msgid "........."
+msgstr "…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1028 #-#-# translate crowdin minigame_3_b80dbb01:
+msgid "[_cedrick_] Ч-что за!"
+msgstr "[_cedrick_] ¡Qué desastre!"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1029 #-#-# translate crowdin minigame_3_38382f96:
+msgid "[_johnlin_] Тсссс, не шуми так, Рик. Чен может проснуться"
+msgstr "[_johnlin_] Tsss, no hagas ruido, Rick. Chen puede despertar"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1041 #-#-# translate crowdin minigame_3_d6f54838:
+msgid "[_cedrick_] Какого черта, Джоан? Настолько невтерпеж"
+msgstr "[_cedrick_] ¿Qué demonios, Joan? ¿Tanta prisa tienes?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1045 #-#-# translate crowdin minigame_3_a8fadfff:
+msgid "[_johnlin_] Мммх, посмотрите на него. Разбудила его минетом, а он еще и недоволен. Неужели я настолько плоха в этом?"
+msgstr "[_johnlin_] Mmm, míralo. Lo despertó con una mamada, y también estaba insatisfecho. ¿Estoy tan mal por eso?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1049 #-#-# translate crowdin minigame_3_33fb3e3c:
+msgid "[_cedrick_] Ух, нет, все отлично.. Но не в 4 же ночи.. Кто говорил про режим?"
+msgstr "[_cedrick_] Oído, no, todo está bien… Pero no a las 4 en punto. ¿Quién habló del régimen?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1053 #-#-# translate crowdin minigame_3_b034ff6e:
+msgid "[_johnlin_] Я, но.. Когда тебя весь день так дразнили, устоять довольно сложно, знаешь ли.."
+msgstr "[_johnlin_] Sí, pero… Cuando llevan todo el día provocándote así, es bastante difícil resistirse, ¿sabes?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1057 #-#-# translate crowdin minigame_3_f89b4d63:
+msgid "[_cedrick_] Хах, я использовал игрушку весь день, но ты даже виду не подала. Сразу видно опытная"
+msgstr "[_cedrick_] Ja, usé el juguete todo el día, pero ni siquiera lo echaste un vistazo. Inmediatamente visible experimentado"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1061 #-#-# translate crowdin minigame_3_6e98cb04:
+msgid "[_johnlin_] Ммммвв.. Конечно, таким меня не проймешь.. Особенно когда нужно сохранить лицо перед гостями и мужем.."
+msgstr "[_johnlin_] Mmm… Por supuesto, no me llevarás así. Especialmente cuando necesita ahorrar la cara frente a los huéspedes y el esposo."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1062 #-#-# translate crowdin minigame_3_06252676:
+msgid "[_johnlin_] Но вот кое-кому явно было сегодня сложнее.."
+msgstr "[_johnlin_] Pero algunos de los más difíciles hoy en día."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1066 #-#-# translate crowdin minigame_3_7f572c56:
+msgid "[_cedrick_] Хах, значит ты заметила?"
+msgstr "[_cedrick_] Ja, ¿te diste cuenta?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1070 #-#-# translate crowdin minigame_3_c6229d5a:
+msgid "[_johnlin_] Заметила.. Твои импульсы были слегка невпопад, словно подразумевались не для меня"
+msgstr "[_johnlin_] Señaló… Tus impulsos eran un poco inadvertidos, como si no estuvieran implícitos para mí"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1071 #-#-# translate crowdin minigame_3_cf675353:
+msgid "[_johnlin_] Ты что же это, использовал один пульт и для игрушки во мне и для игрушки в Хай Лин?"
+msgstr "[_johnlin_] ¿Qué estás haciendo, usaste un control remoto y para un juguete en mí y para un juguete en Hay Lin?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1075 #-#-# translate crowdin minigame_3_528531ed:
+msgid "[_cedrick_] Хах, черт, ты меня поймала.."
+msgstr "[_cedrick_] Ja, maldita sea, me atrapaste…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1079 #-#-# translate crowdin minigame_3_19338ca9:
+msgid "[_johnlin_] Аааммм.. Мда, ребята, интересные у вас развлечения для вашего возраста"
+msgstr "[_johnlin_] Aaaamm… Vaya, chicos, tienen pasatiempos interesantes para su edad."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1083 #-#-# translate crowdin minigame_3_1b8688e8:
+msgid "[_cedrick_] Думаю в ее возрасте ты баловалась тем же"
+msgstr "[_cedrick_] Piense a su edad que se entregó de la misma manera"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1087 #-#-# translate crowdin minigame_3_67bac539:
+msgid "[_johnlin_] Ох, там все было даже жестче"
+msgstr "[_johnlin_] Oh, todo fue aún más difícil"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1091 #-#-# translate crowdin minigame_3_8fdf49d9:
+msgid "[_cedrick_] Могу представить.."
+msgstr "[_cedrick_] Me imagino…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1095 #-#-# translate crowdin minigame_3_4d9ed2db:
+msgid "[_johnlin_] В любом случае, раз весь день ты уделял внимание не мне.. Тогда удели внимание этой ночью"
+msgstr "[_johnlin_] En cualquier caso, una vez todo el día me prestaste atención. Entonces presta atención a esa noche"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1099 #-#-# translate crowdin minigame_3_21d1b363:
+msgid "[_cedrick_] Джоан, ты так сильно пристрастилась к моему члену за столь короткое время?"
+msgstr "[_cedrick_] Joan, ¿te volviste tan adicta a mi pene en tan poco tiempo?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1103 #-#-# translate crowdin minigame_3_4598eb5b:
+msgid "[_johnlin_] К хорошему быстро привыкаешь.."
+msgstr "[_johnlin_] Para el bien se acostumbra rápidamente a…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1104 #-#-# translate crowdin minigame_3_73cbaeb8:
+msgid "[_johnlin_] К тому же хочу насладиться этим, пока есть возможность.."
+msgstr "[_johnlin_] Además, quiero disfrutarlo mientras tengo la oportunidad."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1105 #-#-# translate crowdin minigame_3_1344d068:
+msgid "[_johnlin_] Думаю чем серьезнее будут ваши с Хай Лин отношения, тем меньше у нас будет возможности заниматься подобным"
+msgstr "[_johnlin_] Piense que cuanto más serio sea el suyo con Hay Lin, menos tendremos la oportunidad de hacerlo"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1109 #-#-# translate crowdin minigame_3_e620f099:
+msgid "[_cedrick_] Знаешь, я бы не.."
+msgstr "[_cedrick_] Ya sabes, yo no…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1118 #-#-# translate crowdin minigame_3_5664c166:
+msgid "[_johnlin_] Ч-черт, он все же проснулся.."
+msgstr "[_johnlin_] M-mierda, todavía está despierto."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1119 #-#-# translate crowdin minigame_3_374e5243:
+msgid "[_cedrick_] Не двигайся пока включен свет, думаю тогда он не заметит. Не привлекай внимание звуками"
+msgstr "[_cedrick_] No te muevas hasta que la luz esté encendida, no creo que se dé cuenta. No llames la atención con los sonidos"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1120 #-#-# translate crowdin minigame_3_c3bc6a25:
+msgid "[_johnlin_] Мммв.. Это довольно сложно…"
+msgstr "[_johnlin_] Mmm… Es bastante complicado…"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1121 #-#-# translate crowdin minigame_3_f87c22db:
+msgid "Далее будет небольшая мини игра, желаете пройти обучение?"
+msgstr "A continuación habrá un pequeño minijuego. ¿Quieres ver el tutorial?"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1132 #-#-# translate crowdin tut_joan_be34c59f:
+msgid "В данной мини игре вы занимаетесь сексом с Джоан Лин."
+msgstr "En este mini-juego tienes sexo con Joan Lin."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1133 #-#-# translate crowdin tut_joan_e744ef5e:
+msgid "В процессе игры заполняются две шкалы: шкала удовольствия (розовая) и шкала обнаружения (синяя)."
+msgstr "Durante el juego, se llenan dos escalas: una escala de placer (rosa) y una escala de detección (azul)."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1134 #-#-# translate crowdin tut_joan_efd61ea6:
+msgid "При заполнении шкалы удовольствия, Седрик и Джоан меняют позу. Цель игры: полностью заполнить розовую шкалу. При заполнении синей шкалы Чен Лин замечает вас и это приведет к концу игры."
+msgstr "Cuando se llenan con la escala de diversión, Cedric y Joan cambian su postura. El objetivo del juego es llenar la escala rosa completamente. Al llenar la escala azul, Chen ling te nota y esto te llevará al final del juego."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1136 #-#-# translate crowdin tut_joan_c49e015d:
+msgid "Скорость секса с Джоан Лин зависит от того где находится ваш курсор (или палец в случаи игры на Android). "
+msgstr "La velocidad del sexo con Joan Lin depende de dónde esté el cursor (o los dedos en los casos de jugar en Android)."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1138 #-#-# translate crowdin tut_joan_139a9d15:
+msgid "Чем ближе ваш курсор находится к правой части экрана, тем быстрее Седрик и Джоан будут заниматься сексом и тем быстрее будет заполняться розовая шкала."
+msgstr "Cuanto más cerca esté el cursor del lado derecho de la pantalla, más rápido tendrán Cedric y Joan sexo y más rápido se llenará la escala rosa."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1139 #-#-# translate crowdin tut_joan_7650f7b0:
+msgid "Чем выше скорость, тем больше производится шума, что пропорционально влияет на заполнение синей шкалы."
+msgstr "Cuanto mayor es la velocidad, más ruido se hace, lo que afecta proporcionalmente al llenado de la escala azul."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1141 #-#-# translate crowdin tut_joan_d56eca80:
+msgid "В том же время если отвести курсор в левую часть экрана Джоан и Седрик остановятся, что приведет к снижению заполнения синей и розовой шкалы."
+msgstr "Al mismo tiempo, si se toma el cursor hacia el lado izquierdo de la pantalla Joan y Cedric paran, lo que conducirá a una disminución en el relleno de la escala azul y rosa."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1143 #-#-# translate crowdin tut_joan_62fa40e3:
+msgid "Старайтесь заниматься сексом когда Чен Лин ест за столом, и останавливаться, когда он находится у холодильника."
+msgstr "Trate de tener relaciones sexuales cuando Chen Lin come en la mesa y deténgase cuando esté en el refrigerador."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1144 #-#-# translate crowdin tut_joan_a037ed48:
+msgid "Чену проще услышать посторонний шум, когда он находится у холодильника, поэтому синяя шкала заполняется быстрее."
+msgstr "Es más fácil para Chen escuchar el ruido extraño cuando está en el refrigerador, por lo que la escala azul se llena más rápido."
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:1146 #-#-# translate crowdin tut_joan_c778bb29:
+msgid "На этом все. Приятной игры."
+msgstr "Eso es todo. Que disfrutes el juego."
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:169
+msgid "Минимальная мощность"
+msgstr "Potencia mínima"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:169
+msgid "Cредняя мощность"
+msgstr "Potencia media"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:169
+msgid "Максимальная мощность"
+msgstr "Potencia máxima"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:379
+msgid "Минимальная мощность +1"
+msgstr "Potencia mínima +1"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:379
+msgid "Cредняя мощность +2"
+msgstr "Potencia media +2"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:379
+msgid "Максимальная мощность +3"
+msgstr "Potencia máxima +3"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:859
+msgid "Включить игрушку"
+msgstr "Enciende el juguete"
+
+# game/scripts/quests/questSecretOfTheSilverDragon/visit_the_silver_dragon.rpy:859
+msgid "Не включать игрушку"
+msgstr "No incluya el juguete"
+

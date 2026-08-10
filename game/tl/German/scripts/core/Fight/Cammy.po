@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/core/Fight/Cammy.po\n"
+"X-Crowdin-File-ID: 13004\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2024-10-04 00:58\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Fight/Cammy.rpy:28
+msgid "КАММИ"
+msgstr "Wenig"
+
+# game/scripts/core/Fight/Cammy.rpy:54
+msgid "{skill_name} {quantity_mp} MP"
+msgstr "{skill_name} {quantity_mp} MP"
+
+# game/scripts/core/Fight/Cammy.rpy:71
+msgid "Сон"
+msgstr "Schlaf"
+
+# game/scripts/core/Fight/Cammy.rpy:77
+msgid "Мощный удар"
+msgstr "Starker Schlag"
+
+# game/scripts/core/Fight/Cammy.rpy:77
+msgid "Ультра удар"
+msgstr "Ultra-Punsch"
+

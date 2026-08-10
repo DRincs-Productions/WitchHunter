@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.po\n"
+"X-Crowdin-File-ID: 8403\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:3 #-#-# translate crowdin corneliaCallToSitWithLilian_9449d1fb:
+msgid "[_cedrick_] Лучше будет написать Корнелии утром или днем."
+msgstr "[_cedrick_] Sarebbe meglio scrivere a Cornelia al mattino o al pomeriggio."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:93 #-#-# translate crowdin corneliaCallToSitWithLilian_806557c6:
+msgid "[_cedrick_] (Черт, заставила быть сиделкой)"
+msgstr "[_cedrick_] (Accidenti, mi ha fatto fare la badante)."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:94 #-#-# translate crowdin corneliaCallToSitWithLilian_edfd8f8c:
+msgid "[_cedrick_] (Хм, но ее беспомощность мне только на руку)"
+msgstr "[_cedrick_] (Ma la sua impotenza va a mio vantaggio)."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:95 #-#-# translate crowdin corneliaCallToSitWithLilian_c1596ad3:
+msgid "[_cedrick_] (Навещу Лилит сегодня вечером)"
+msgstr "[_cedrick_] (Stasera andrò a trovare Lilith)"
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:11
+msgid "Корнелия, привет. Эм, кажется я нашел Наполеона"
+msgstr "Cornelia, ciao. Credo di aver trovato Napoleone"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:16
+msgid "Кого? Ты про салат?"
+msgstr "Chi? Intendi l'insalata?"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:21
+msgid "Нет..."
+msgstr "No..."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:23
+msgid "Нет, то Цезарь. Я нашел кота Лилит"
+msgstr "No, è Caesar. Ho trovato il gatto di Lilith"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:28
+msgid "Оу, черт, точно.."
+msgstr "Oh, merda, è vero."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:34
+msgid "Круто, может хоть с ним она будет меньше ворчать"
+msgstr "Bene, forse sarà meno scontrosa con lui."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:41
+msgid "Могу ли я..."
+msgstr "Posso..."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:43
+msgid "Могу ли я как-то тебе его передать?"
+msgstr "C'è un modo per darglielo?"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:47
+msgid "Эм, слушай, Рик.. Раз такое дело.."
+msgstr "Ascolta, Rick. Per quello che vale."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:53
+msgid "Лилиан все еще болеет, а я сегодня буду очень занята"
+msgstr "Lillian è ancora malata e oggi avrò molto da fare."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:59
+msgid "Не мог бы ты за ней присмотреть? Она хоть и стерва, но сейчас довольно беспомощная"
+msgstr "Potresti tenerla d'occhio? È una stronza, ma al momento è piuttosto indifesa."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:65
+msgid "Я переживаю за нее.."
+msgstr "Sono preoccupato per lei."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:71
+msgid "Заодно принесешь ей Наполеона"
+msgstr "Puoi portarle anche Napoleone."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:77
+msgid "Эм.."
+msgstr "Erm."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:79
+msgid "Эм.. Да, пожалуй, я мог бы к ней заглянуть"
+msgstr "Sì, credo che potrei andare lì."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:84
+msgid "Супер. Спасибо тебе, Рик <3 <3 <3"
+msgstr "Super. Grazie, Rick <3 <3 <3 <3 <3"
+

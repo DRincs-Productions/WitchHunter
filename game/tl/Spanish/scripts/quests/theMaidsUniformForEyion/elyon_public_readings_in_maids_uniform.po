@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.po\n"
+"X-Crowdin-File-ID: 8731\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2026-07-22 21:21\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:5 #-#-# translate crowdin gallery_d_051_3f79294a:
+msgid "[_cedrick_] Гарри взглянул на нее, рассеянно опустил руку и дотронулся до шрама на лбу."
+msgstr "[_cedrick_] Harry la miró, bajó la mano distraídamente y se tocó la cicatriz de la frente."
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:6 #-#-# translate crowdin gallery_d_051_5b3c3558:
+msgid "[_cedrick_] — Я знаю."
+msgstr "[_cedrick_] – Lo sé."
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:7 #-#-# translate crowdin gallery_d_051_18711147:
+msgid "[_cedrick_] Шрам уже девятнадцать лет не беспокоил Гарри. Все было хорошо."
+msgstr "[_cedrick_] La cicatriz no ha sido molestada por Harry en diecinueve años. Todo estaba bien."
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:8 #-#-# translate crowdin gallery_d_051_c93b0dcb:
+msgid "[_cedrick_] конец.."
+msgstr "[_cedrick_] Fin…"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:9 #-#-# translate crowdin gallery_d_051_6834996e:
+msgid "[_girl_] хоть эта книга и для детей я бы не позволил читать такое своему ребенку.."
+msgstr "[_girl_] Al menos este libro para niños no le permitiría leer esto a mi hijo."
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:10 #-#-# translate crowdin gallery_d_051_5aa184a2:
+msgid "[_guy_]  пф а мне не понравилось, в этой книге слишком много сюжетных дыр..."
+msgstr "[_guy_] No me gustó el pf, este libro tiene demasiados agujeros de historia."
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:12 #-#-# translate crowdin gallery_d_051_5f9b772e:
+msgid "...."
+msgstr "…"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:14 #-#-# translate crowdin gallery_d_051_1bfee6ee:
+msgid "[_cedrick_] Элион, подожди, не торопись уходить"
+msgstr "[_cedrick_] Elyon, espera, no te apresures a irte"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:17 #-#-# translate crowdin gallery_d_051_566954c3:
+msgid "[_elion_] Что такое, Рик, тебе не здоровится?"
+msgstr "[_elion_] ¿Qué pasa, Rick, no lo haces?"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:18 #-#-# translate crowdin gallery_d_051_dbf90a61:
+msgid "[_cedrick_] Нет, просто.. Из-за тебя я почти все время просидел со стояком в штанах и пытался его прикрыть!"
+msgstr "[_cedrick_] No, solo… ¡Por tu culpa, casi siempre me siento con un elevador en los pantalones y trato de cubrirlo!"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:21 #-#-# translate crowdin gallery_d_051_d043bf37:
+msgid "[_elion_] Ч-что!?"
+msgstr "[_elion_] ¿¡Q-qué!?"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:22 #-#-# translate crowdin gallery_d_051_8fe101c6:
+msgid "[_cedrick_] Ты должна с ним что-то сделать. Сейчас!"
+msgstr "[_cedrick_] Tienes que hacer algo con él. ¡Ahora!"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:25 #-#-# translate crowdin gallery_d_051_25d826fa:
+msgid "[_elion_] Р-рик, я... Нас же могут увидеть"
+msgstr "[_elion_] R-rh, YO… Podemos ser vistos"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:26 #-#-# translate crowdin gallery_d_051_b2c45286:
+msgid "[_cedrick_] Да плевать, в это время уже никто не заглядывает. Ну же, Элион, я же так часто делал тебе приятно, не хочешь отплатить тем же.."
+msgstr "[_cedrick_] No nos importa, nadie mira esta vez. Vamos, Elyon, te he hecho tanto que hacer tan a menudo, que no quieres pagar lo mismo…"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:29 #-#-# translate crowdin gallery_d_051_7fbdf54c:
+msgid "[_elion_] Ну, я.. Ммм.. Хорошо, сейчас.. У меня есть одна идея"
+msgstr "[_elion_] Bueno, Yo… Mmm… Muy bien, ahora… Tengo una idea"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:30 #-#-# translate crowdin gallery_d_051_8ec34b1b:
+msgid "[_cedrick_] (О, она так сразу согласилась, да еще и проявила инициативу. Моя работа над ее развратностью явно не прошла даром)"
+msgstr "[_cedrick_] (Oh, ella estuvo de acuerdo de inmediato, e incluso tomó la iniciativa. Mi trabajo en su libertinaje claramente no desapareció en vano)"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:33 #-#-# translate crowdin gallery_d_051_104ea2ba:
+msgid "[_elion_] Вставай здесь и доставай член, а я сяду напротив"
+msgstr "[_elion_] Sube aquí y trae la verga, y me sentaré frente a ti"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:34 #-#-# translate crowdin gallery_d_051_1a0cd96c:
+msgid "[_cedrick_] Хах, как скажешь"
+msgstr "[_cedrick_] Ja, como usted dice"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:38 #-#-# translate crowdin gallery_d_051_b03ea77b:
+msgid "[_cedrick_] О-ооо, Элион, так вот что ты придумала?"
+msgstr "[_cedrick_] O-ooh, Elyon, ¿qué se te ocurrió?"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:41 #-#-# translate crowdin gallery_d_051_0524ddb6:
+msgid "[_elion_] Д-да.. По правде говоря, одна мысль о твоем стояке, возникшим из-за меня, который ты прятал все это время, дико меня возбудила.."
+msgstr "[_elion_] D-Da… A decir verdad, un pensamiento de tu ascensor, que surgió de mí, que escondiste todo este tiempo, me emocionó salvajemente…"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:42 #-#-# translate crowdin gallery_d_051_f042a65e:
+msgid "[_cedrick_] Ммм, правда? Тебя возбуждают такие вещи?"
+msgstr "[_cedrick_] Mmm, ¿no? ¿Estás emocionado por estas cosas?"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:43 #-#-# translate crowdin gallery_d_051_370074d3:
+msgid "[_elion_] Н-не знаю.. Может дело в том, что это было конкретно с тобой.. В любом случае, я захотела помочь тебе с твоей проблемой и при этом ласкать себя сама.."
+msgstr "[_elion_] N-No lo sé. Tal vez fue específicamente contigo. De todos modos, quería ayudarte con tu problema y acariciarte…"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:44 #-#-# translate crowdin gallery_d_051_8d8c4596:
+msgid "[_cedrick_] Хах, вот как ты решила действовать? Но, уффф, есть же масса других способов того, как мы могли бы помочь друг другу.. Н-не стоит, аааххх"
+msgstr "[_cedrick_] Ja, ¿así es como decidiste hacer? Pero, uhf, hay muchas otras maneras en que podríamos ayudarnos unos a otros. N-no vale la pena, aahhh"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:47 #-#-# translate crowdin gallery_d_051_e365e43e:
+msgid "[_elion_] Мммм, да.."
+msgstr "[_elion_] Mmm, sí."
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:48 #-#-# translate crowdin gallery_d_051_aee9b8ae:
+msgid "[_cedrick_] Не стоит брать всю работу на себя.. Я тоже мог бы помочь твоей киске почувствовать себя лучше. Н-например, своим членом.."
+msgstr "[_cedrick_] No deberías hacer todo el trabajo sola… Yo también podría ayudar a que tu vagina se sienta mejor. P-por ejemplo, con mi pene…"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:49 #-#-# translate crowdin gallery_d_051_b9eb2c41:
+msgid "[_elion_] Мммввв, н-не сейчас, Рик.. Я.. я еще не готова, ааахх"
+msgstr "[_elion_] Mmvvvv, no ahora, Rick. Yo… Aún no estoy lista, aahh"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:50 #-#-# translate crowdin gallery_d_051_9d99f840:
+msgid "[_cedrick_] Тогда как следует поработай своими ножками до тех пор, пока твоя киска не будет готова.."
+msgstr "[_cedrick_] Luego trabaja correctamente con tus piernas hasta que tu coño esté listo."
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:51 #-#-# translate crowdin gallery_d_051_30b08a7f:
+msgid "[_elion_] Я... Я.. Аааам, я почти.. Почти.. К-кончаю.."
+msgstr "[_elion_] Yo… Yo… Aaaam, casi… Casi… M-me vengo…"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:52 #-#-# translate crowdin gallery_d_051_4cac539e:
+msgid "[_cedrick_] Я тоже, Элион.. П-приготовся.."
+msgstr "[_cedrick_] Yo también, Elyon. P-preparado…"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:56 #-#-# translate crowdin gallery_d_051_832cfef4:
+msgid "[_elion_] Аххх.. ааах.. это было.. так необычно.."
+msgstr "[_elion_] Ahhhhhhhh aah… Fue… Tan inusual."
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:57 #-#-# translate crowdin gallery_d_051_7f6124ca:
+msgid "[_cedrick_] Фуххх.. Не знал, что тебе нравится подобное"
+msgstr "[_cedrick_] Ufff… No sabía que te gustara algo así"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:59 #-#-# translate crowdin gallery_d_051_e10cd906:
+msgid "[_elion_] Я.. я и сама не знала.. я просто.. просто вдруг захотела, понимаешь?"
+msgstr "[_elion_] Yo… No me conocía a mí misma. Solo estoy… De repente ella quería, ¿sabes?"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:61 #-#-# translate crowdin gallery_d_051_f24d4c7f:
+msgid "[_cedrick_] (Хах, все же развратная сторона семьи Фобоса дает о себе знать. Ну, мне это только на руку)"
+msgstr "[_cedrick_] (Ja, el lado depravado de la familia de Fobos se hace notar. Bueno, eso me conviene.)"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:62 #-#-# translate crowdin gallery_d_051_b12b9aff:
+msgid "[_elion_] Л-ладно.. Давай быстренько приберем здесь, пока никто не пришел"
+msgstr "[_elion_] Muy bien. Vamos rápidamente a llegar hasta que nadie llegue"
+
+# game/scripts/quests/theMaidsUniformForEyion/elyon_public_readings_in_maids_uniform.rpy:63 #-#-# translate crowdin gallery_d_051_572dbb75:
+msgid "[_cedrick_] Да, давай я помогу"
+msgstr "[_cedrick_]Y Sí, déjame ayudar"
+

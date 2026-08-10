@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/bookshop/thomas_comes_to_play.po\n"
+"X-Crowdin-File-ID: 7961\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"PO-Revision-Date: 2024-01-30 13:18\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/thomas_comes_to_play.rpy:5 #-#-# translate crowdin thomas_comes_to_play_fa425594:
+msgid "Приходит Томас чтобы сыграть в покер."
+msgstr ""
+
+# game/scripts/bookshop/thomas_comes_to_play.rpy:8 #-#-# translate crowdin thomas_comes_to_play_8b062288:
+msgid "[_cedrick_] Привет Томас, извини, я потратил деньги днем и поэтому не смогу с тобой сейчас сыграть."
+msgstr ""
+
+# game/scripts/bookshop/thomas_comes_to_play.rpy:9 #-#-# translate crowdin thomas_comes_to_play_34dddcc5:
+msgid "[_tomas_] Плохо, не делай так больше."
+msgstr ""
+

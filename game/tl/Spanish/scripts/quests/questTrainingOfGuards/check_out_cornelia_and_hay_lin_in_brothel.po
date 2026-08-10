@@ -1,0 +1,754 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.po\n"
+"X-Crowdin-File-ID: 13044\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2026-07-22 21:23\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:6 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_732140d9:
+msgid "[_vanessa_] Ох, а вот и мой любимый революционер. А я то уж тебя заждалась"
+msgstr "[_vanessa_] Oh, aquí está mi revolucionario favorito. Y yo te estaba esperando"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:10 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_8c11ca4d:
+msgid "[_cedrick_] К-какого... Ванесса, ты еще громче этого сказать не могла!? Нас же обоих могут казнить..."
+msgstr "[_cedrick_] ¿Qué… Vanessa, ¿no podrías decirlo más fuerte!? Ambos podemos ser ejecutados…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:14 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_9f7cc0e8:
+msgid "[_vanessa_] Да расслабься ты. В этом баре одни пьянчуги, они либо нас не слышат, либо им никто не поверит"
+msgstr "[_vanessa_] Relájate. En este bar solo hay borrachos: o no nos oyen o nadie les creerá."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:18 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_88a0b2d4:
+msgid "[_vanessa_] Даже если я скажу, что сегодня ты пойдешь убивать их жен и детей - они не отреагируют. Единственное слово, на которое у них есть реакция как у собак - это слово выпивка"
+msgstr "[_vanessa_] Incluso si digo que hoy irás a matar a sus esposas e hijos, no reaccionarán. La única palabra que tienen una reacción como los perros es la palabra bebida"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:22 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_2bf959a0:
+msgid "[_drunkard_] Кто-то сказал выпивка!?"
+msgstr "[_drunkard_] ¿Alguien ha dicho una copa?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:26 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_5671b88f:
+msgid "[_vanessa_] Тебе показалось, дорогуша..."
+msgstr "[_vanessa_] Te lo imaginaste, querida…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:30 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_a0ced0d6:
+msgid "[_drunkard_] Да мне похер, тащите выпивку"
+msgstr "[_drunkard_] Dios Me cojo, arrastra una copa"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:34 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_715e0050:
+msgid "[_vanessa_] Можете обратиться за этим к бармену"
+msgstr "[_vanessa_] Puede preguntar a un camarero por esto"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:38 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_ae5748f0:
+msgid "[_vanessa_] Ох, о чем это мы... Твои девочки у меня, уверена готовятся к встречи с тобой в томном ожидании"
+msgstr "[_vanessa_] Oh, ¿de qué hablábamos…? Tengo a tus chicas; seguro que esperan con impaciencia el encuentro contigo."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:42 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_1c5180e4:
+msgid "[_cedrick_] Хах, не уверен..."
+msgstr "[_cedrick_] Ja, no estoy seguro…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:46 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_3d6186ee:
+msgid "[_vanessa_] Объяснишь еще раз, почему ты выбрал именно это место?"
+msgstr "[_vanessa_] Explique de nuevo, ¿por qué eligió este lugar?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:50 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_5006f528:
+msgid "[_cedrick_] Потому что, как ни странно, но я знаю, что могу тебе доверять. На меридиане для меня сейчас три ключевые фигуры - это Миранда, Булдж и ты"
+msgstr "[_cedrick_] Porque, por extraño que parezca, sé que puedo confiar en ti. Ahora mismo, mis tres figuras clave en Meridian son Miranda, Bulj y tú."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:51 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_487e7cc7:
+msgid "[_cedrick_] В какой-то степени я разделил стражниц между тремя вашими зонами влияния"
+msgstr "[_cedrick_] Hasta cierto punto, dividí las Guardianas entre tus tres zonas de influencia"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:55 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_71e02a4e:
+msgid "[_vanessa_] Не клади яйца в одну корзину, да? Ты как всегда предусмотрителен. Есть в нашей профессии тоже одна поговорка, связанная с яйцами"
+msgstr "[_vanessa_] No pongas tus huevos en un carrito, ¿verdad? Siempre eres prudente. También hay una tabla en nuestra profesión asociada con los huevos"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:59 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_be5e2fc4:
+msgid "[_cedrick_] Даже слышать не хочу..."
+msgstr "[_cedrick_] Ni siquiera quiere oír…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:63 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_9774bacd:
+msgid "[_vanessa_] Ох, как грубо..."
+msgstr "[_vanessa_] Oh, como grosero…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:67 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_37ec92d1:
+msgid "[_cedrick_] И так. Я уверен, что посреди подготовки Корнелии и Хай Лин, Фобос вызовет меня. Поэтому проговорю все еще раз"
+msgstr "[_cedrick_] Bien. Estoy seguro de que Fobos me llamará mientras preparo a Cornelia y Hay Lin. Por eso volveré a explicarlo todo."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:68 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_8f332963:
+msgid "[_cedrick_] По сути происходящее - это устроенный мною спектакль"
+msgstr "[_cedrick_] En esencia, todo esto es una representación organizada por mí."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:72 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_4d1f9afe:
+msgid "[_vanessa_] О, ролевая игра?"
+msgstr "[_vanessa_] Oh, ¿juego de rol?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:76 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_3dbdb8e5:
+msgid "[_cedrick_] Эм... Можно и так сказать..."
+msgstr "[_cedrick_] Mm… Podrías decir So…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:77 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_8df911ed:
+msgid "[_cedrick_] В любом случае, моя задача сейчас - убедить стражниц в том, что все, что с ними будет происходить дальше является приказом Фобоса"
+msgstr "[_cedrick_] En cualquier caso, mi tarea ahora es convencer a las Guardianas de que todo lo que les sucede a continuación es el orden de Fobos"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:78 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_1f9a037f:
+msgid "[_cedrick_] А я в свою очередь не только являюсь жертвой обстоятельств, но и не в восторге от происходящего в целом и в принципе готов сотрудничать с ними"
+msgstr "[_cedrick_] Yo, por mi parte, no solo soy víctima de las circunstancias, sino que tampoco me entusiasma nada de lo que está pasando y, en principio, estoy dispuesto a colaborar con ustedes."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:79 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_e0937662:
+msgid "[_cedrick_] Главное чтобы они поверили в то, что если не попросят меня о помощи, то после этого вся их жизнь бесповоротно разрушится"
+msgstr "[_cedrick_] Lo principal es que creen que si no me piden ayuda, entonces toda su vida colapsará irrevocablemente"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:83 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_b50f14a7:
+msgid "[_vanessa_] Жестокую однако игру ты затеял. Но звучит вполне эффективно"
+msgstr "[_vanessa_] Es un cruel, pero tú empezaste el juego. Pero suena bastante efectivo"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:87 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_a402ffe7:
+msgid "[_cedrick_] Сейчас я не могу попросить о помощи Миранду или Булджа. Если кто-то из них задержится здесь, то это будет подозрительно"
+msgstr "[_cedrick_] Ahora no puedo pedir ayuda a Miranda ni a Bulj. Si alguno de ellos se demora aquí, resultará sospechoso."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:88 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_d3820d7a:
+msgid "[_cedrick_] К тому же я не хочу привлекать к борделю особое внимания. Поэтому Корнелию и Хай Лин я оставлю на тебя, если Фобос вызовет меня"
+msgstr "[_cedrick_] Además, no quiero llamar demasiado la atención sobre el burdel. Por eso dejaré a Cornelia y Hay Lin a tu cargo si Fobos me llama."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:89 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_767617c7:
+msgid "[_cedrick_] Главное помни, что ты должна делать вид, что являешься прихвостнем Фобоса и выполняешь его приказы"
+msgstr "[_cedrick_] Recuerda principalmente lo que debes pretender que eres el secuaz de Fobos y sigue sus órdenes"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:90 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_a9c1eef8:
+msgid "[_cedrick_] А задача, которую тебе дал Фобос - это сделать из этих девушек идеальных наложниц. Так что по сути они отданы тебе для тренировки"
+msgstr "[_cedrick_] La tarea que te dio Fobos es hacer de estas chicas perfectas concubinas. Así que en realidad te son dados para el entrenamiento"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:94 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_6f0af511:
+msgid "[_vanessa_] Будет сделано, мой капитан!"
+msgstr "[_vanessa_] ¡Se hará, mi capitán!"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:98 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_af66603e:
+msgid "[_vanessa_] ..."
+msgstr "[_vanessa_] …"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:102 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_7afd6243:
+msgid "[_vanessa_] Ох, кстати о тренировках! Ко мне тут недавно приехала старая подруга, она ооочень хороша в тренировках"
+msgstr "[_vanessa_] Oh, por cierto, sobre el entrenamiento! Una vieja amiga vino a mí aquí recientemente, ella es muy buena en el entrenamiento"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:106 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_114c219f:
+msgid "[_vanessa_] В свое время могла обучить самым сложным техникам, на освоение которых уходят десятилетия, всего за три дня!"
+msgstr "[_vanessa_] En mis tiempos podía enseñar en solo tres días las técnicas más difíciles, esas que normalmente requieren décadas de práctica."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:110 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_3ec7ce2e:
+msgid "[_cedrick_] Что? И кто это?"
+msgstr "[_cedrick_] ¿Qué? ¿Y quién es?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:114 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_acae6c97:
+msgid "[_vanessa_] Хах. Джулия! Подойдешь?"
+msgstr "[_vanessa_] Ja. ¡Julia! ¿Puedes venir?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:115 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_2445eb85:
+msgid "[_cedrick_] (Джулия? Получается, здесь работают Ванесса, Хлоя и Джулия? Да это точно не настоящие их имена. Больше похоже на псевдоним порно-актрис...)"
+msgstr "[_cedrick_] (¿Julia? ¿Así que aquí trabajan Vanessa, Chloe y Julia? Seguro que no son sus nombres reales; parecen seudónimos de actrices porno.)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:120 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_e268188f:
+msgid "[_julia_] Вызывала меня, Ран... Кхм, Ванесса?"
+msgstr "[_julia_] Me causó, herida… ¿Km, Vanessa?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:124 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_a7baf6b6:
+msgid "[_cedrick_] (Ого, темненькая? А она довольно горяча)"
+msgstr "[_cedrick_] (¿Wow, oscuro? Hace bastante calor.)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:128 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_721b73ec:
+msgid "[_vanessa_] Да, вот тот самый мужчина, о котором я тебе рассказывала"
+msgstr "[_vanessa_] Sí, aquí está el hombre del que te hablé"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:134 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_ab58ac57:
+msgid "[_julia_] Хооо? Выглядит сильным. Эй, парниша, не хочешь устроить спарринг?"
+msgstr "[_julia_] ¿Hoo? Se ve fuerte. Oye, chico, quieres pelear."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:135 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_99de6a8a:
+msgid "[_cedrick_] (Парниша? Говорит так, словно она старше меня...)"
+msgstr "[_cedrick_] (¿Chicos? Dice que ella es mayor que yo…)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:139 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_fbc706b6:
+msgid "[_cedrick_] Хах, на развлечения в постели с тобой у меня сегодня нет времени"
+msgstr "[_cedrick_] Ja, no tengo tiempo para divertirme en la cama contigo hoy"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:143 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_505d674b:
+msgid "[_julia_] Я имею в виду не секс, малыш. Я говорю о реальном сражении. Хочу попробовать тебя в деле, так сказать. А там может и до интима дойдет"
+msgstr "[_julia_] No me refiero al sexo, bebé. Estoy hablando de una batalla real. Quiero probarte en el negocio, por así decirlo. Y puede llegar a la intimidad"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:147 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_481f784a:
+msgid "[_cedrick_] Сражение, да? Хм, если так подумать, то я вряд ли смогу сейчас дать тебе бой в полную силу"
+msgstr "[_cedrick_] Batalla, ¿eh? Hmm, si lo crees, difícilmente puedo darte una pelea con toda su fuerza ahora"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:151 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_e9269956:
+msgid "[_julia_] Ясно. Тогда вернемся к этому, когда будешь на пике своей прежней формы"
+msgstr "[_julia_] Entiendo. Volvamos a esto cuando hayas recuperado tu mejor forma."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:155 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_7c0bb146:
+msgid "[_cedrick_] Эм... Ладно..."
+msgstr "[_cedrick_] Mm… Muy bien…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:161 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_c7c91156:
+msgid "[_vanessa_] Седрик, я позвала сюда Джулию, поскольку в тренировке девочек, да и не только их, она на самом деле куда опытнее меня"
+msgstr "[_vanessa_] Cedric, llamé a Julia porque tiene mucha más experiencia que yo entrenando a chicas, y no solo en eso."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:167 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_f7dd227a:
+msgid "[_julia_] Хах, да, уж этого у меня не отнять"
+msgstr "[_julia_] Ja, sí, no puedo tomarlo de"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:168 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_67d55de1:
+msgid "[_cedrick_] (Хм... Должен ли я довериться Джулии и ее опыту? Или может выбрать проверенную Ванессу?)"
+msgstr "[_cedrick_] (Hmm… ¿Debo confiar en Julia y en su experiencia? ¿O puedes elegir una Vanessa probada?)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:169 #-#-# translate crowdin check_out_cornelia_and_hay_lin_in_brothel_8908c170:
+msgid "[_cedrick_] (Опыт против лояльности... Если так подумать, на поле боя мне часто встречалась похожая дилемма. Эффективнее тот, кто более опытен в бою или тот, чья лояльность не подвергается сомнению?)"
+msgstr "[_cedrick_] (Experiencia contra la lealtad… Si lo piensas, a menudo me encuentro con un dilema similar en el campo de batalla. Más efectivo es uno que tiene más experiencia en la batalla o alguien cuya lealtad no es cuestionada?)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:173 #-#-# translate crowdin questTrainingOfGuards_3_ad387e4e:
+msgid "[_cedrick_] (Пожалуй я выберу того, кто уже проверен временем. То, на что способна Джулия, я узнаю в другой раз)"
+msgstr "[_cedrick_] (Creo que elegiré a alguien cuya eficacia ya está comprobada. Lo que puede hacer Julia lo averiguaré en otra ocasión.)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:177 #-#-# translate crowdin questTrainingOfGuards_3_06337d6f:
+msgid "[_cedrick_] Я поручаю это тебе, Ванесса"
+msgstr "[_cedrick_] Te lo encomiendo, Vanessa"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:183 #-#-# translate crowdin questTrainingOfGuards_3_672cbe85:
+msgid "[_vanessa_] Что ж, если так. Я не подведу, Седрик"
+msgstr "[_vanessa_] Bueno, si es así. No te decepcionaré, Cedric"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:188 #-#-# translate crowdin questTrainingOfGuards_3_add99c5f:
+msgid "[_cedrick_] (Думаю было бы глупо отказываться от кого-то более опытного. К тому же если мне самому предоставили возможность воспользоваться ее помощью)"
+msgstr "[_cedrick_] (Creo que sería una tontería renunciar a alguien más experimentado. Además, si me dieron la oportunidad de usar su ayuda)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:192 #-#-# translate crowdin questTrainingOfGuards_3_d7203cbb:
+msgid "[_cedrick_] Я поручаю это Джулии"
+msgstr "[_cedrick_] Se lo confío a Julia"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:196 #-#-# translate crowdin questTrainingOfGuards_3_aca6a3aa:
+msgid "[_julia_] О, уверяю, ты будешь доволен результатом"
+msgstr "[_julia_] Oh, te aseguro que estarás contento con el resultado"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:202 #-#-# translate crowdin questTrainingOfGuards_3_91516ace:
+msgid "[_vanessa_] Хорошо, тогда я посвящу Джулию во все подробности"
+msgstr "[_vanessa_]H Bueno, entonces dedicaré a Julia a todos los detalles"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:209 #-#-# translate crowdin questTrainingOfGuards_3_ffbded12:
+msgid "[_cedrick_] Учитывая, что Фобос может вызвать меня в любой момент, лучше не тратить попусту время"
+msgstr "[_cedrick_] Dado que Fobos puede causarme en cualquier momento, es mejor no perder el tiempo"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:210 #-#-# translate crowdin questTrainingOfGuards_3_f153d8d3:
+msgid "[_cedrick_] Первым делом заглянем в комнату Хай Лин"
+msgstr "[_cedrick_] Primera mirada a la habitación de Hay Lin"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:213 #-#-# translate crowdin questTrainingOfGuards_3_862cd156:
+msgid "[_centered_] {size=37}В комнате Хай Лин{/size}"
+msgstr "[_centered_] {size=37}En la habitación de Hay Lin{/size}"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:219 #-#-# translate crowdin gallery_d_095_fc9e9f2d:
+msgid "[_cedrick_] (Ого.. А это уже явно Ванесса постарались. На Хай Лин костюм ее мамы тоже отлично сидит)"
+msgstr "[_cedrick_] (Vaya… Está claro que Vanessa se esforzó. El traje de su madre también le queda muy bien a Hay Lin.)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:221 #-#-# translate crowdin gallery_d_095_2f425a58:
+msgid "[_haylin_] Мммххмхмм.. Ф-фто здесь!? Я флышала посторонние шаги.."
+msgstr "[_haylin_] Mmkhmkhmchmm… F-f-f-f-está aquí!? Estaba dando pasos extraños."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:222 #-#-# translate crowdin gallery_d_095_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:223 #-#-# translate crowdin gallery_d_095_ebe82564:
+msgid "[_haylin_] П-пофалуйста, не трогайте меня.."
+msgstr "[_haylin_] P-Por favor, no me toques…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:224 #-#-# translate crowdin gallery_d_095_fa2fa8e8:
+msgid "[_cedrick_] Боже, Хай Лин, что они с тобой сделали"
+msgstr "[_cedrick_] Dios, Hay Lin, ¿qué te hicieron?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:226 #-#-# translate crowdin gallery_d_095_fb98f518:
+msgid "[_haylin_] Р-рик!? Фто значит они со мной сделали? Это ты сделал это со мной!"
+msgstr "[_haylin_] ¿R-Rick? ¿Qué quieres decir con ‘lo que me hicieron’? ¡Tú me hiciste esto!"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:227 #-#-# translate crowdin gallery_d_095_48fed7dc:
+msgid "[_cedrick_] Н-но не я же связал тебя..."
+msgstr "[_cedrick_] Pero no te dejé en contacto…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:228 #-#-# translate crowdin gallery_d_095_7aaa836d:
+msgid "[_haylin_] Но это тфоими силами я оказалась фдесь... Если бы не ты, всего бы этого не произошло... Бофе, как я от всего этого уфтала..."
+msgstr "[_haylin_] Pero fue por tus poderes que acabé aquí… Si no fuera por ti, nada de esto habría pasado… Dios, estoy tan cansada de todo…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:229 #-#-# translate crowdin gallery_d_095_9a2b4629:
+msgid "[_cedrick_] (Мда, ее здесь продержали явно дольше, чем следовало... Хм, ладно, нужно придерживаться сценария...)"
+msgstr "[_cedrick_] (Vaya, está claro que la retuvieron aquí más tiempo del debido… Mmm, de acuerdo, debo seguir el guion…)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:230 #-#-# translate crowdin gallery_d_095_fd3d6ed7:
+msgid "[_cedrick_] Хай Лин, прости, но в первую очередь я выполнял приказ от Фобоса"
+msgstr "[_cedrick_] Hay Lin, lo siento, pero en primer lugar estaba siguiendo la orden de Fobos"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:232 #-#-# translate crowdin gallery_d_095_ca7f7dc5:
+msgid "[_haylin_] Так шначит это Фобос зафтавил тебя заняться сексом с моей мамой!? Боже, бедный папа... Ефли он узнает..."
+msgstr "[_haylin_] ¿¡Entonces fue Fobos quien te obligó a tener sexo con mi mamá!? Dios, pobre papá… Si llega a enterarse…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:233 #-#-# translate crowdin gallery_d_095_ded2ae53:
+msgid "[_cedrick_] Так, давай-ка я освобожу тебя для начала. Хотя бы сниму кляп и повязку"
+msgstr "[_cedrick_] Así que, déjame liberarte para el principio. Al menos quita la mordaza y el vendaje"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:238 #-#-# translate crowdin gallery_d_095_22c03a20:
+msgid "[_haylin_] Аххх... Боже... Теперь даже свет тусклой комнаты кажется таким ярким..."
+msgstr "[_haylin_] Ahhhhhhhh. Ahora incluso la luz de una habitación tenue parece tan brillante…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:239 #-#-# translate crowdin gallery_d_095_554bb58d:
+msgid "[_cedrick_] Хай Лин, я бы освободил твои руки, но тогда это вызовет подозрения у смотрящей за тобой девушки"
+msgstr "[_cedrick_] Hay Lin, te liberaría las manos, pero luego causará sospechas a la chica que te observa"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:241 #-#-# translate crowdin gallery_d_095_619cda06:
+msgid "[_haylin_] Ч-что?... О чем ты вообще"
+msgstr "[_haylin_] ¿Qué?… De lo que hablas"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:242 #-#-# translate crowdin gallery_d_095_c103fcd0:
+msgid "[_cedrick_] Я введу тебя в курс дела, но перед этим... Кхм, мне придется трахнуть тебя"
+msgstr "[_cedrick_] Te traigo de vuelta al caso, pero antes de eso… Km, voy a tener que cogerte"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:244 #-#-# translate crowdin gallery_d_095_7aa27891:
+msgid "[_haylin_] Серьезно... Да как ты только..."
+msgstr "[_haylin_] Es en serio… Cómo lo haces todo…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:249 #-#-# translate crowdin gallery_d_095_9c126dc4:
+msgid "[_haylin_] Аааахххх..."
+msgstr "[_haylin_] Aahxyh…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:250 #-#-# translate crowdin gallery_d_095_a6e2aaf1:
+msgid "[_cedrick_] Хай Лин, выслушай меня... Все серьезнее, чем кажется..."
+msgstr "[_cedrick_] Hay Lin, escúchame… Esto es más grave de lo que parece…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:252 #-#-# translate crowdin gallery_d_095_914bf3a7:
+msgid "[_haylin_] Ах, значит теперь ты трахаешь меня серьезно? Мммхх... Ч-черт, почему же он так туго ощущается во мне..."
+msgstr "[_haylin_] Ah, ¿así que ahora sí vas a darme con todo? Mmmmh… M-mierda, ¿por qué se siente tan apretado dentro de mí…?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:254 #-#-# translate crowdin gallery_d_095_b47aaa68:
+msgid "[_cedrick_] Хай Лин... Из-за того, что я собрал вас всех вместе, поймал всех стражниц, как мне и было приказано... Из-за этого Фобос перешел к следующей части своего плана"
+msgstr "[_cedrick_] Hay Lin… Porque los reuní a todos, atrapé a todas las Guardianas, como me ordenaron… Debido a esto, Fobos pasó a la siguiente parte de su plan"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:256 #-#-# translate crowdin gallery_d_095_e33e6e4c:
+msgid "[_haylin_] Аааххх... И... И что это значит?"
+msgstr "[_haylin_] Aahhh… Y… ¿Qué significa eso?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:258 #-#-# translate crowdin gallery_d_095_6b78e5d1:
+msgid "[_cedrick_] Это значит, что теперь всем, что с вами связано, больше занимаюсь не я. Теперь всем этим занимается Фобос и его прихвостни"
+msgstr "[_cedrick_] Significa que ahora todo lo que tiene que ver contigo ya no es Yo. Ahora todo esto lo hacen Fobos y sus secuaces"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:260 #-#-# translate crowdin gallery_d_095_ebf0fa7f:
+msgid "[_haylin_] Н-не думаю, что ситуация станет сильно хуже... Ммммвв... Н-нужно еще постараться поискать кого-то хуже тебя..."
+msgstr "[_haylin_] N-No creo que la situación vaya a empeorar… Mmm W… Todavía tienes que tratar de buscar a alguien peor que tú."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:262 #-#-# translate crowdin gallery_d_095_18209e3b:
+msgid "[_cedrick_] Ты в этом уверена? Ты хоть представляешь, на что способен Фобос?"
+msgstr "[_cedrick_] ¿Estás seguro de eso? ¿Tienes idea de lo que Fobos es capaz?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:263 #-#-# translate crowdin gallery_d_095_09f4a177:
+msgid "[_haylin_] ....."
+msgstr "[_haylin_] …"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:265 #-#-# translate crowdin gallery_d_095_678429c7:
+msgid "[_haylin_] Аааххх... Я... Я так устала, Рик... Всем нужно меня пленить и манипулировать мной... А я просто хотела спасти свою бабушку..."
+msgstr "[_haylin_] Aaaah… Estoy tan cansada, Rick… Todos quieren capturarme y manipularme… Yo solo quería salvar a mi abuela…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:267 #-#-# translate crowdin gallery_d_095_e23ed2df:
+msgid "[_cedrick_] (Черт, она явно не в том расположении духа... Даже с Тарани было проще)"
+msgstr "[_cedrick_] (Maldita sea, claramente no está del estado de ánimo correcto… Incluso con Taranee era más fácil)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:268 #-#-# translate crowdin gallery_d_095_1878e0ef:
+msgid "[_cedrick_] Хай Лин, я..."
+msgstr "[_cedrick_] Hay Lin, Yo…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:270 #-#-# translate crowdin gallery_d_095_10baf0b4:
+msgid "[_cedrick_] Я обещаю, что буду регулярно приносить твоей бабушке воду из источника"
+msgstr "[_cedrick_] Te prometo que llevaré regularmente agua a tu abuela de la fuente"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:272 #-#-# translate crowdin gallery_d_095_e9a7e648:
+msgid "[_haylin_] А-ага... Будешь заносить ей воду, а после приходить к моей маме, чтобы в очередной раз трахнуть ее... Ммммввв..."
+msgstr "[_haylin_] Ajá… Le traerás agua, y luego vendrás a mi mamá a cogerla de nuevo… Mmmuvvv…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:274 #-#-# translate crowdin gallery_d_095_3b6d181d:
+msgid "[_cedrick_] Я понял... Сейчас ты не настроена на разговор... Я понимаю. Просто знай, что... Что я не хотел, чтобы все до этого дошло..."
+msgstr "[_cedrick_] Entiendo… No estás en una conversación ahora mismo… Lo entiendo. Solo sé que… Que no quería conseguirlo…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:276 #-#-# translate crowdin gallery_d_095_6dd040e8:
+msgid "[_haylin_] Д-да неужели... Мммххх... П-просто заканчивай уже с этим... Аааххх... Аааахххх..."
+msgstr "[_haylin_] ¿D-de verdad…? Mmmm… T-termina de una vez con esto… Aaaah… Aaaaaah…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:278 #-#-# translate crowdin gallery_d_095_ef8375e6:
+msgid "[_cedrick_] (Черт, несмотря на ее отстраненность, ее киска чертовски сильно меня сжимает... Видимо это от накопившегося напряжения, возникшего пока она сидела здесь закованная)"
+msgstr "[_cedrick_] (Maldita sea, a pesar de su desapego, su coño me está apretando… Aparentemente, esto es por la tensión acumulada que surgió mientras estaba sentada aquí encadenada)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:279 #-#-# translate crowdin gallery_d_095_e334b4bf:
+msgid "[_cedrick_] Уххх, я скоро кончу..."
+msgstr "[_cedrick_] Ufff, estoy a punto de correrme…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:281 #-#-# translate crowdin gallery_d_095_2f7ad2cb:
+msgid "[_haylin_] Ммммхххх..."
+msgstr "[_haylin_] Mmmmhhh…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:285 #-#-# translate crowdin gallery_d_095_95144c27:
+msgid "[_cedrick_] (Так... Мне явно нужно поменять подход... Возможно, лучшим решением было бы начать с Корнелии... Хай Лин сейчас слишком отстранилась)"
+msgstr "[_cedrick_] (Bien… Sin duda tengo que cambiar de enfoque… Quizá lo mejor sea empezar por Cornelia… Hay Lin está demasiado distante ahora.)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:286 #-#-# translate crowdin gallery_d_095_e350fbe3:
+msgid "[_cedrick_] (Что, впрочем, не удивительно. Я совсем недавно манипулировал ей в ресторане и открыто заявил, что трахаю ее мать)"
+msgstr "[_cedrick_] (¿Qué, sin embargo, no es sorprendente? Recientemente la manipulé en el restaurante y dije abiertamente que me estaba cogiendo a su madre)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:288 #-#-# translate crowdin gallery_d_095_c921b9f7:
+msgid "[_cedrick_] (После такого было бы глупо ожидать, что она хоть как-то прислушается ко мне... Осадок от этого явно пройдет не скоро)"
+msgstr "[_cedrick_] (Después de esto, sería absurdo esperar que me escuchara siquiera… El resentimiento tardará mucho en desaparecer.)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:289 #-#-# translate crowdin gallery_d_095_2dbc74fe:
+msgid "[_cedrick_] Хай Лин, мне... Мне нужно отлучиться..."
+msgstr "[_cedrick_] Hay Lin, Yo… Necesito irme…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:291 #-#-# translate crowdin gallery_d_095_81f6e830:
+msgid "[_haylin_] Иди уже..."
+msgstr "[_haylin_] Vete ya…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:292 #-#-# translate crowdin gallery_d_095_a6ecfb8e:
+msgid "[_cedrick_] (Хм, а когда-то она казалась самой невинной из всех стражниц. Если подумать, то это даже интересно)"
+msgstr "[_cedrick_] (Hmm, y una vez parecía el más inocente de todas las Guardianas. Si lo piensas, es incluso interesante)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:293 #-#-# translate crowdin gallery_d_095_4a6def47:
+msgid "[_cedrick_] (Ладно, пора наведаться к Корнелии)"
+msgstr "[_cedrick_] (Está bien, es hora de visitar Cornelia)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:296 #-#-# translate crowdin gallery_d_095_9210744d:
+msgid "[_centered_] {size=37}Седрик отправляется к Корнелии{/size}"
+msgstr "[_centered_] {size=37}Cedric va con Cornelia{/size}"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:304 #-#-# translate crowdin gallery_d_095_a2a4b300:
+msgid "[_cedrick_] Корнелия, я..."
+msgstr "[_cedrick_] Cornelia, yo…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:308 #-#-# translate crowdin gallery_d_095_3db63175:
+msgid "[_cornelia_] Седрик, я все слышала. В этом месте на удивление довольно тонкие стены..."
+msgstr "[_cornelia_] Cedric, lo he oído. En este lugar, sorprendentemente paredes bastante delgadas…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:309 #-#-# translate crowdin gallery_d_095_8ec716f0:
+msgid "[_cedrick_] (Проклятье... Почему именно с этими двумя все идет не так...)"
+msgstr "[_cedrick_] (Maldito… ¿Por qué este va mal con estos dos…)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:313 #-#-# translate crowdin gallery_d_095_c1434071:
+msgid "[_cedrick_] Эм, значит ты..."
+msgstr "[_cedrick_] Um, así que…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:317 #-#-# translate crowdin gallery_d_095_6e3344c9:
+msgid "[_cornelia_] Честно говоря, стоны Хай Лин и слова о ее матери меня даже возбудили. Что, кстати, удивило даже меня саму..."
+msgstr "[_cornelia_] Honestamente, los hilos de Hay Lin y las palabras sobre su madre incluso me emocionaron. Lo que, por cierto, me sorprendió incluso…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:321 #-#-# translate crowdin gallery_d_095_6efc5ce5:
+msgid "[_cedrick_] Эм..."
+msgstr "[_cedrick_] Um…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:325 #-#-# translate crowdin gallery_d_095_e97df5aa:
+msgid "[_cornelia_] А чего ты удивляешься? Ты довольно давно не трахал меня. Мое тело изголодалось. Или же ты забыл о том, что говорил мне?"
+msgstr "[_cornelia_] ¿Por qué te sorprende? No me has jodido en mucho tiempo. Mi cuerpo tiene hambre. ¿O olvidaste lo que me dijiste?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:329 #-#-# translate crowdin gallery_d_095_d577744a:
+msgid "[_cornelia_] Я же все еще нужна тебе, верно?"
+msgstr "[_cornelia_] Aún me necesitas, ¿verdad?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:333 #-#-# translate crowdin gallery_d_095_cff4d6b7:
+msgid "[_cedrick_] (Хах, что ж... В случае с ней сила короля морпионов все же сослужила мне какую-то службу. В ее симпатии сомневаться не приходится)"
+msgstr "[_cedrick_] (Eh, bueno… En el caso de ella, la fuerza del rey de las marsopas me sirvió. No hay duda de su simpatía)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:334 #-#-# translate crowdin gallery_d_095_01dc0a53:
+msgid "[_cedrick_] (Однако... Я все еще должен убедить ее в том, что нам необходимо объединиться против Фобоса)"
+msgstr "[_cedrick_] (Sin Embargo… Todavía tengo que convencerla de que necesitamos unirnos contra Fobos)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:335 #-#-# translate crowdin gallery_d_095_a167c2bc:
+msgid "[_cedrick_] Значит ты слышала наш с Хай Лин разговор. Что думаешь?"
+msgstr "[_cedrick_] Así que has oído hablar de la conversación de Hay Lin. ¿Qué opinas?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:339 #-#-# translate crowdin gallery_d_095_2c017a34:
+msgid "[_cornelia_] Из того, что я поняла, теперь Фобос будет заправлять всем связанным с нами? И ты от этого явно не в восторге"
+msgstr "[_cornelia_] Por lo que entiendo, ¿ahora Fobos dirigirá todos los asociados con nosotros? Y claramente no estás contento con eso"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:343 #-#-# translate crowdin gallery_d_095_ab6b5edc:
+msgid "[_cedrick_] Все так"
+msgstr "[_cedrick_] Todo así"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:347 #-#-# translate crowdin gallery_d_095_c996d946:
+msgid "[_cornelia_] Хм..."
+msgstr "[_cornelia_] Hmm…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:351 #-#-# translate crowdin gallery_d_095_ef9385cd:
+msgid "[_cornelia_] Ну что, значит устроим бунт?"
+msgstr "[_cornelia_] Entonces, ¿vamos a hacer un motín?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:355 #-#-# translate crowdin gallery_d_095_49316299_1:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:356 #-#-# translate crowdin gallery_d_095_d083c24b:
+msgid "[_cedrick_] Эм... я..."
+msgstr "[_cedrick_] Mm… Estoy…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:360 #-#-# translate crowdin gallery_d_095_057ca9e0:
+msgid "[_cornelia_] Седрик, я почти что начала встречаться с Калебом, буквально командиром повстанцев"
+msgstr "[_cornelia_] Cedric, estuve a punto de salir con Caleb, el mismísimo comandante de los rebeldes."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:364 #-#-# translate crowdin gallery_d_095_49b97496:
+msgid "[_cornelia_] За это время я начала кое-что понимать. Как минимум человека, который желает свергнуть Фобоса, я сразу смогу распознать"
+msgstr "[_cornelia_] Durante este tiempo, empecé a entender algo. Al menos una persona que quiere derrocar a Fobos, puedo reconocer inmediatamente"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:368 #-#-# translate crowdin gallery_d_095_31a53aee:
+msgid "[_cornelia_] Как минимум, если он будет со мной достаточно откровенен"
+msgstr "[_cornelia_] Por lo menos, si está conmigo lo suficientemente franco"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:372 #-#-# translate crowdin gallery_d_095_c424ac3c:
+msgid "[_cedrick_] И ты... Кхм... Ты понимаешь, чему это грозит для нас? И что мы не справимся друг без друга?"
+msgstr "[_cedrick_] Y tú… Km… ¿Sabes lo que es para nosotros? ¿Y qué podemos fallar sin el otro?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:376 #-#-# translate crowdin gallery_d_095_838281e1:
+msgid "[_cornelia_] Хах, само собой. Думаю, если бы ты мог справиться с Фобосом в одиночку, то давно бы уже это сделал"
+msgstr "[_cornelia_] Ja, por supuesto. Creo que si pudieras manejar a Fobos solo, lo habrías hecho hace mucho tiempo"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:380 #-#-# translate crowdin gallery_d_095_474eede0:
+msgid "[_cedrick_] (Интересно, на столько же ли это очевидно для самого Фобоса?)"
+msgstr "[_cedrick_] (Me pregunto ¿cuánto es obvio para el propio Fobos?)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:384 #-#-# translate crowdin gallery_d_095_4e4b0052:
+msgid "[_cornelia_] Да и мы, если бы могли освободить Меридиан от гнета Фобоса, то давно бы уже сделали это"
+msgstr "[_cornelia_] Si hubiéramos podido liberar Meridian del yugo de Fobos, ya lo habríamos hecho hace mucho."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:388 #-#-# translate crowdin gallery_d_095_b1ebf931:
+msgid "[_cornelia_] О повстанцах так и вообще говорить не приходится..."
+msgstr "[_cornelia_] Acerca de los rebeldes no quiere decir tanto…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:392 #-#-# translate crowdin gallery_d_095_24be0d10:
+msgid "[_cornelia_] В общем, этот союз жизненно необходим всем нам. Иначе мы навечно останемся прозябать здесь как наложницы Фобоса, а ты так и будешь у него в шестерках ходить"
+msgstr "[_cornelia_] Esta unión es vital para todos nosotros. De lo contrario, vegetaremos para siempre aquí como favoritos, y usted caminará en sus seises"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:396 #-#-# translate crowdin gallery_d_095_706d1cff:
+msgid "[_cedrick_] (Вау...)"
+msgstr "[_cedrick_] (Wow…)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:397 #-#-# translate crowdin gallery_d_095_c0531b45:
+msgid "[_cedrick_] Корнелия, ты..."
+msgstr "[_cedrick_] Cornelia, tú…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:401 #-#-# translate crowdin gallery_d_095_c66df519:
+msgid "[_cornelia_] Но сначала, Седрик. Ты трахнешь меня. Все разговоры потом. Покажи мне, насколько сильно я тебе нужна"
+msgstr "[_cornelia_] Pero primero, Cedric, me vas a coger. Hablamos después. Muéstrame cuánto me necesitas."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:402 #-#-# translate crowdin gallery_d_095_e4ccebd8:
+msgid "[_cedrick_] Хах, дважды просить не придется"
+msgstr "[_cedrick_] Ja, dos veces no tendrás que preguntar"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:404 #-#-# translate crowdin gallery_d_095_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:408 #-#-# translate crowdin gallery_d_095_c0f346fc:
+msgid "[_cornelia_] Мммххх... Да, вот так... Черт, я соскучилась по этому члену..."
+msgstr "[_cornelia_] Mmkh… Sí, eso es todo… Maldita sea, me perdí este pene…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:409 #-#-# translate crowdin gallery_d_095_8820f28a:
+msgid "[_cedrick_] Уххх... Ты так сильно сжимаешься... Даже сильнее чем Хай Лин"
+msgstr "[_cedrick_] Uh… Estás tan apretada… Incluso más fuerte que Hay Lin"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:410 #-#-# translate crowdin gallery_d_095_cedd5ca8:
+msgid "[_cornelia_] Само собой... Аааааххх... Ведь меня питает не только биологическая потребность, но и эмоциональная"
+msgstr "[_cornelia_] Por supuesto… Aaaaah… Después de todo, no solo me alimenta una necesidad biológica, sino también emocional."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:411 #-#-# translate crowdin gallery_d_095_b3929151:
+msgid "[_cedrick_] (Черт... На самом деле после Хай Лин мне стоило все еще немного прийти в себя...)"
+msgstr "[_cedrick_] (Mierda… La verdad es que todavía necesitaba recuperarme un poco después de Hay Lin…)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:412 #-#-# translate crowdin gallery_d_095_11dac310:
+msgid "[_cornelia_] Аааавв... Дааа... Седрик, продолжай..."
+msgstr "[_cornelia_] Aaav… - Sí… Cedric, sigue…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:413 #-#-# translate crowdin gallery_d_095_4402e2f7:
+msgid "[_cornelia_] М-мы, ты и я, с твоим членом.. Черт, мы сможем свергнуть не только Фобоса, но и вообще кого захотим..."
+msgstr "[_cornelia_] N-nosotros, tú y yo, con tu pene… Mierda, podríamos derrocar no solo a Fobos, sino a quien quisiéramos…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:414 #-#-# translate crowdin gallery_d_095_5c569dd0:
+msgid "[_cedrick_] (Мда, ее явно немного накрывает от этого. Корнелия и правда изголодалась по хорошему сексу.. Даже не особо думает над тем, что говорит...)"
+msgstr "[_cedrick_] (Sí, está claramente un poco cubierto de esto. Cornelia realmente se marchó de sexo. Ni siquiera piensa en lo que dice.)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:415 #-#-# translate crowdin gallery_d_095_7d7b11c3:
+msgid "[_cornelia_] Ммммввв... Как же приятно это чувствовать... То, что ты нуждаешься во мне... Что я нужна тебе..."
+msgstr "[_cornelia_] Mmmvv… Qué bueno sentirlo… El hecho de que me necesites… Lo que me necesitas…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:416 #-#-# translate crowdin gallery_d_095_a94eecbe:
+msgid "[_cedrick_] (Хм... А ведь если она слышала все, что происходила в соседней комнате, значит и Хай Лин слышит нас прямо сейчас... Это мой шанс продолжить спектакль)"
+msgstr "[_cedrick_] (Hmm… Pero si ella escuchó todo lo que pasó en la habitación de al lado, entonces Hay Lin nos escucha ahora mismo… Esta es mi oportunidad de continuar el show)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:417 #-#-# translate crowdin gallery_d_095_cf57fdf4:
+msgid "[_cedrick_] Д-да, Корнелия... Благодаря вам, я наконец смогу освободиться от гнета Фобоса..."
+msgstr "[_cedrick_] D-da, Cornelia… Gracias a ti, finalmente podré liberarme de la opresión de Fobos…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:418 #-#-# translate crowdin gallery_d_095_b34fdaf4:
+msgid "[_cedrick_] Я смогу делать то, что сам захочу, а не выполнять его приказы против своей воли..."
+msgstr "[_cedrick_] Puedo hacer lo que quiera, no seguir sus órdenes contra mi voluntad."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:419 #-#-# translate crowdin gallery_d_095_5cf7386c:
+msgid "[_cornelia_] Хах, неужели тебе не нравилось то, что ты делал? Даже в случае с мамой Хай Лин, а?"
+msgstr "[_cornelia_] Ja, ¿no te gustó lo que hiciste? Incluso en el caso de la madre de Hay Lin, ¿eh?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:420 #-#-# translate crowdin gallery_d_095_1d910a77:
+msgid "[_cedrick_] Уххх... Т-ты не понимаешь... Ваши силы напрямую зависят от вашей эмоциональной стабильности..."
+msgstr "[_cedrick_] Uh… No entiendes… Tu fuerza depende directamente de tu estabilidad emocional."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:421 #-#-# translate crowdin gallery_d_095_b7ced7cc:
+msgid "[_cedrick_] Чем сильнее вы сломлены эмоционально, тем слабее ваши способности как стражниц завесы..."
+msgstr "[_cedrick_] Cuanto más fuerte te rompas emocionalmente, más débiles serán tus habilidades como guardianas de velo…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:422 #-#-# translate crowdin gallery_d_095_fdee703d:
+msgid "[_cornelia_] Мммххх... Так значит, даже трахая маму Хай Лин, ты выполнял приказ Фобоса, хоть напрямую тебя об этом и не просили?"
+msgstr "[_cornelia_] Mmkh… Así que, incluso maldita mamá, ¿estabas siguiendo las órdenes de Fobos, incluso si te pedían eso directamente?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:423 #-#-# translate crowdin gallery_d_095_ccad6e88:
+msgid "[_cedrick_] В-верно... Моей задачей было сломить вас любой ценой и я выполнял этот приказ так, как умел. Т-только и всего..."
+msgstr "[_cedrick_] Eso es correcto… Mi tarea era romperte a toda costa y yo seguía este orden como sabía cómo. Solo y todo…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:424 #-#-# translate crowdin gallery_d_095_a03593c1:
+msgid "[_cornelia_] Аааааааввв... Мммххх... Я-ясно... П-получается, не прикажи Фобос поймать стражниц, ты бы не стал делать это с мамой Хай Лин?"
+msgstr "[_cornelia_] Aaaaaaaaa Yo-claramente… Resulta que no le dice a Fobos que atrape a las Guardianas, ¿no lo harías con la madre de Hay Lin?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:425 #-#-# translate crowdin gallery_d_095_c053861b:
+msgid "[_cedrick_] (А Корнелия довольно удачно подыгрывает мне)"
+msgstr "[_cedrick_] (Y Cornelia está jugando conmigo con bastante éxito)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:426 #-#-# translate crowdin gallery_d_095_d28cc96b:
+msgid "[_cedrick_] Т-тогда бы мне это было ни к чему... Д-даже если бы она сама предложила, я вряд ли бы стал разрушать такую семью..."
+msgstr "[_cedrick_] No necesito hacer eso en ese momento… Incluso si se hubiera propuesto, difícilmente habría destruido a una familia así."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:427 #-#-# translate crowdin gallery_d_095_4f8e29d5:
+msgid "[_cedrick_] Н-не подумай, что я такой правильный или сентиментальный... С-скорее мне просто не нужны заморочки, которые за этим следуют"
+msgstr "[_cedrick_] No creas que soy tan correcto o sentimental… Más bien, simplemente no necesito los problemas que siguen a esto"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:428 #-#-# translate crowdin gallery_d_095_3c9c64a9:
+msgid "[_cedrick_] Р-разведись Джоан Лин со своим мужем без стороннего вмешательства, может я бы и взялся за нее. Н-но я точно не делал бы этого против ее воли..."
+msgstr "[_cedrick_] Joan, divorciada, con Divorciado con su marido sin interferencia externa, tal vez yo lo hubiera tomado. Pero ciertamente no lo haría en contra de su voluntad…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:429 #-#-# translate crowdin gallery_d_095_9ce2d42d:
+msgid "[_cornelia_] Ммммм... К-какой ты у нас все таки правильный... П-продолжай говорить о том, как трахнул бы маму Хай Лин, д-давай... Я почти кончила..."
+msgstr "[_cornelia_] Mmm… Cómo eres tan correcto… Sigue hablando de cómo se cogió a mamá Hay Lin, vamos a… Casi termino…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:430 #-#-# translate crowdin gallery_d_095_5fa5b2fc:
+msgid "[_cedrick_] (Я понял... Она не подыгрывает мне... Ее просто это возбуждает... Что ж, в любом случае это мне на пользу)"
+msgstr "[_cedrick_] (Entiendo… Ella no está jugando conmigo… Sólo la emociona… Bueno, es bueno para mí de todos modos)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:431 #-#-# translate crowdin gallery_d_095_e87d923a:
+msgid "[_cedrick_] К-корнелия, уухххх... Я скоро кончу..."
+msgstr "[_cedrick_] C-Cornelia, uuhhh… Estoy por correrme…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:433 #-#-# translate crowdin gallery_d_095_07df07d9:
+msgid "[_cornelia_] Ааааххх, дааа, залей меня... Я тоже... П-почти..."
+msgstr "[_cornelia_] Aaaah, sííí, lléname… Yo también… C-casi…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:434 #-#-# translate crowdin gallery_d_095_e8c86a83:
+msgid "[_cornelia_] Мммммммввввв..."
+msgstr "[_cornelia_] Mmmmmvvv…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:440 #-#-# translate crowdin gallery_d_095_dc968aba:
+msgid "[_cornelia_] Аааххх... Ааааххх... Отлично..."
+msgstr "[_cornelia_] Aahhh… Aahhhhhhhh excelente…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:441 #-#-# translate crowdin gallery_d_095_f71efb02:
+msgid "[_cedrick_] Уххх... Не буду отрицать, мне это тоже понравилось. Скорее всего потому, что это было по обоюдному согласию"
+msgstr "[_cedrick_] Uh… No lo negaré, también me gustó. Probablemente porque fue por consentimiento mutuo"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:443 #-#-# translate crowdin gallery_d_095_df3aa5bd:
+msgid "[_cedrick_] Да, может прозвучит странно, после всего, что я натворил, но я не в восторге от того, что приходится совращать кого-то против их воли.."
+msgstr "[_cedrick_] Sí, puede sonar extraño, después de todo lo que he hecho, pero no estoy encantado de tener que seducir a alguien en contra de su voluntad."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:444 #-#-# translate crowdin gallery_d_095_3aa901eb:
+msgid "[_cornelia_] Д-да... Ммммм... Как скажешь..."
+msgstr "[_cornelia_] D-Da… Mmm… Lo que tú digas…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:451 #-#-# translate crowdin gallery_d_095_143e84d1:
+msgid "[_cedrick_] И так, Корнелия. Ты готова свергнуть Фобоса вместе со мной?"
+msgstr "[_cedrick_] Y así, Cornelia. ¿Estás listo para derrocar a Fobos conmigo?"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:455 #-#-# translate crowdin gallery_d_095_eb810a43:
+msgid "[_cornelia_] Уже ведь очевидно, что да"
+msgstr "[_cornelia_] Ya es obvio que sí."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:459 #-#-# translate crowdin gallery_d_095_ce8cbb54:
+msgid "[_cedrick_] Хорошо. Тогда..."
+msgstr "[_cedrick_] Bien. Entonces…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:460 #-#-# translate crowdin gallery_d_095_052deaea:
+msgid "[_bulj_] Л-лорд Седрик. Князь Фобос вызывает вас..."
+msgstr "[_bulj_] Señor Cedric. El príncipe Fobos te llama…"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:461 #-#-# translate crowdin gallery_d_095_13a707bb:
+msgid "[_cedrick_] (Как я и думал...)"
+msgstr "[_cedrick_] (Como pensaba…)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:462 #-#-# translate crowdin gallery_d_095_86bbc170:
+msgid "[_cedrick_] Корнелия, сейчас мне придется уйти и оставить вас на девушку, чьим приказом было сделать из вас идеальных наложниц для Фобоса"
+msgstr "[_cedrick_] Cornelia, ahora tendré que irme y dejarte en una chica cuyo orden era hacerte el vómito perfecto para Fobos"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:463 #-#-# translate crowdin gallery_d_095_c100562d:
+msgid "[_cedrick_] Прошу, продержитесь это время. Я как можно быстрее придумаю, как вытащить вас отсюда"
+msgstr "[_cedrick_] Por favor, espera este tiempo. Voy a averiguar cómo sacarte de aquí lo antes posible"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:464 #-#-# translate crowdin gallery_d_095_7b9ce2fd:
+msgid "[_cedrick_] (Сейчас эти слова я говорю скорее для Хай Лин, нежели для Корнелии. Ведь расположения Корнелии я уже добился, а вот Хай Лин во мне сомневается)"
+msgstr "[_cedrick_] (Ahora digo estas palabras más por Hay Lin que por Cornelia. Ya me gané la confianza de Cornelia, pero Hay Lin aún duda de mí.)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:465 #-#-# translate crowdin gallery_d_095_aa93b67d:
+msgid "[_cedrick_] (Необходимо дать ей понять, что объединиться со мной лучше, чем стать рабыней Фобоса)"
+msgstr "[_cedrick_] (Es necesario hacerle saber que es mejor unirse conmigo que convertirse en un esclavo de Fobos)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:466 #-#-# translate crowdin gallery_d_095_ebbbb71b:
+msgid "[_cedrick_] Пока меня не будет, позаботься о Хай Лин. Она явно чувствует себя неважно. За последнее время у нее было достаточно эмоциональных потрясений"
+msgstr "[_cedrick_] Mientras no esté, cuida de Hay Lin. Es evidente que no se siente bien. Últimamente ha sufrido suficientes conmociones emocionales."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:467 #-#-# translate crowdin gallery_d_095_dbaa48b0:
+msgid "[_cedrick_] И, к сожалению, я сам послужил причиной этих потрясений. Думаю сейчас ей необходима поддержка подруги"
+msgstr "[_cedrick_] Por desgracia, yo mismo provoqué esos trastornos. Creo que ahora necesita el apoyo de una amiga."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:471 #-#-# translate crowdin gallery_d_095_5b7b9388:
+msgid "[_cornelia_] Хорошо, Седрик, я поняла. Об этом мог бы меня и не просить, я и сама собиралась"
+msgstr "[_cornelia_] Está bien, Cedric, entendí. Ni siquiera hacía falta que me lo pidieras; ya pensaba hacerlo."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:475 #-#-# translate crowdin gallery_d_095_083bb618:
+msgid "[_cedrick_] Хах, рад, что могу на тебя рассчитывать"
+msgstr "[_cedrick_] Ja, me alegro de poder contar contigo"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:482 #-#-# translate crowdin gallery_d_095_fec99b8b:
+msgid "[_julia_] Седрик, тебе разве не пора к Фобосу? Дальше этими девчонками займусь я, как и было приказано нашим Князем"
+msgstr "[_julia_] Cedric, ¿no tienes que ir a Fobos? Entonces me ocuparé de estas chicas, como se ordenó a nuestro príncipe"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:486 #-#-# translate crowdin gallery_d_095_b5ef6752:
+msgid "[_cedrick_] (Хм, отлично вжилась в роль. Значит проблем с убедительностью для Хай Лин не будет)"
+msgstr "[_cedrick_] (Hmm, bien utilizado en el papel. Así que no habrá problemas con la persuasión para Hay Lin)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:487 #-#-# translate crowdin gallery_d_095_f2328cdf:
+msgid "[_cedrick_] Да, ты права. Мне пора отправляться. До скорого"
+msgstr "[_cedrick_] Sí, tienes razón. Tengo que ir. Antes de la velocidad"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:494 #-#-# translate crowdin gallery_d_095_0550c15d:
+msgid "[_vanessa_] Седрик, думаю этих девочек теперь ты можешь доверить мне. Ни к чему заставлять нашего Князя ждать. Исполняй данный тебе приказ, а я исполню свой"
+msgstr "[_vanessa_] Cedric, creo que ya puedes confiarme a estas chicas. No conviene hacer esperar a nuestro Príncipe. Cumple la orden que te dieron y yo cumpliré la mía."
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:498 #-#-# translate crowdin gallery_d_095_a1dd18ca:
+msgid "[_cedrick_] (Хорошо сказала. Уверен, Хай Лин слышала это и еще раз убедилась в том, что это все воля Фобоса)"
+msgstr "[_cedrick_] (Bien dicho. Estoy seguro de que Hay Lin lo oyó y volvió a convencerse de que todo esto es voluntad de Fobos.)"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:499 #-#-# translate crowdin gallery_d_095_1f5f8e48:
+msgid "[_cedrick_] Верно... Мне пора выдвигаться. Удачи, Корнелия. Надеюсь вы с Хай Лин справитесь и не пострадаете"
+msgstr "[_cedrick_] Es cierto… Se supone que debo mudarme. Buena suerte, Cornelia. Espero que tú y Hay Lin puedan manejarlo y no salir herido"
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:171
+msgid "Ванесса"
+msgstr "Vanessa"
+
+# game/scripts/quests/questTrainingOfGuards/check_out_cornelia_and_hay_lin_in_brothel.rpy:171
+msgid "Джулия"
+msgstr "Julia"
+

@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/bookshop/imagemaplabels/bookshop_leave.po\n"
+"X-Crowdin-File-ID: 7951\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"PO-Revision-Date: 2024-01-30 13:18\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/imagemaplabels/bookshop_leave.rpy:6 #-#-# translate crowdin bookshop_leave_bbb233be:
+msgid "[_cedrick_] {i}(Пойду прогуляюсь..){/i}"
+msgstr ""
+
+# game/scripts/bookshop/imagemaplabels/bookshop_leave.rpy:9 #-#-# translate crowdin bookshop_leave_45f3d445:
+msgid "[_cedrick_] {i}(У меня дела в городе, Элион, оставляю магазин на тебя.){/i}"
+msgstr ""
+
+# game/scripts/bookshop/imagemaplabels/bookshop_leave.rpy:11 #-#-# translate crowdin bookshop_leave_f55d0982:
+msgid "[_cedrick_] {i}(Пожалуй, стоит сходить и немного осмотреться){/i}"
+msgstr ""
+

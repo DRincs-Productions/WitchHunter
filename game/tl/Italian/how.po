@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/how.po\n"
+"X-Crowdin-File-ID: 7919\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2024-04-26 14:47\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/how.rpy:98
+msgid "На этом версия [config.version] заканчивается."
+msgstr "Qui finisce la versione [config.version]."
+
+# game/how.rpy:104
+msgid "Если вам понравился наш проект, вы можете поддержать нас и получать больше эксклюзивных новостей по игре по данным ссылкам:"
+msgstr "Se vi piace il nostro progetto, potete sostenerci e ricevere altre notizie esclusive sul gioco tramite questi link:"
+
+# game/how.rpy:119
+msgid "Наш Patreon"
+msgstr "Il nostro Patreon"
+
+# game/how.rpy:122
+msgid "Наш Subscribestar"
+msgstr "I nostri abbonati"
+
+# game/how.rpy:125
+msgid "Наш itch.io"
+msgstr "Il nostro itch.io"
+
+# game/how.rpy:128
+msgid "Наш Boosty"
+msgstr "Il nostro Boosty"
+

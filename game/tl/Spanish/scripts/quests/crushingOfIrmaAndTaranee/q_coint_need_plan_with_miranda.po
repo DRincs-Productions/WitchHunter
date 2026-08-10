@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/crushingOfIrmaAndTaranee/q_coint_need_plan_with_miranda.po\n"
+"X-Crowdin-File-ID: 8299\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2025-03-22 01:33\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/q_coint_need_plan_with_miranda.rpy:2 #-#-# translate crowdin q_coint_need_plan_with_miranda_36e6c1ac:
+msgid "[_cedrick_] Мне не стоит высовываться, пока Медина не решит проблему с розыском. С поиском пропавших я помогу ей позже, а пока мне нужно отправляться к Миранде"
+msgstr "[_cedrick_] Debo permanecer fuera de la vista hasta que Medina resuelva el problema de las personas desaparecidas. La ayudaré con la búsqueda de personas desaparecidas más tarde, pero por ahora, tengo que ir con Miranda."
+

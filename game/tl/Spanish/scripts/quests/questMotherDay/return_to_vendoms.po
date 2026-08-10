@@ -1,0 +1,2838 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questMotherDay/return_to_vendoms.po\n"
+"X-Crowdin-File-ID: 13022\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2026-07-22 21:23\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:7 #-#-# translate crowdin return_to_vendoms_7b901386:
+msgid "[_susan_] Ну что, все готовы?"
+msgstr "[_susan_] ¿Están todos listos?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:16 #-#-# translate crowdin return_to_vendoms_41a3708d:
+msgid "[_will_] Да! У меня как раз все готово"
+msgstr "[_will_] ¡Sí! Lo tengo todo listo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:22 #-#-# translate crowdin return_to_vendoms_6a2a11fc:
+msgid "[_cedrick_] Я тоже уже готов"
+msgstr "[_cedrick_] Yo también estoy listo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:28 #-#-# translate crowdin return_to_vendoms_0fa51dba:
+msgid "[_susan_] Отлично. Тогда все в машину и на пляж!!"
+msgstr "[_susan_] ¡Genial! ¡Entonces suban al coche y a la playa!!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:33 #-#-# translate crowdin return_to_vendoms_55c38cf2:
+msgid "[_will_] Дааа!"
+msgstr "[_will_] ¡Sí!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:34 #-#-# translate crowdin return_to_vendoms_0c62d75e:
+msgid "[_cedrick_] (Хах, Вилл явно в приподнятом настроении. Интересно, это она правда так искренне рада празднику?)"
+msgstr "[_cedrick_] (Ja, Will está claramente de muy buen humor. Me pregunto si de verdad está tan emocionada por las vacaciones)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:35 #-#-# translate crowdin return_to_vendoms_54a9906c:
+msgid "[_cedrick_] (Или же есть другая причина для радости)"
+msgstr "[_cedrick_] (¿O existe otro motivo para alegrarse?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:38 #-#-# translate crowdin return_to_vendoms_151531fc:
+msgid "[_centered_] {size=37}Седрик, Сьюзан и Вилл едут на пляж{/size}"
+msgstr "[_centered_] {size=37}Cedric, Susan y Will van a la playa{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:40 #-#-# translate crowdin return_to_vendoms_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:41 #-#-# translate crowdin return_to_vendoms_5f9b772e:
+msgid "...."
+msgstr "…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:42 #-#-# translate crowdin return_to_vendoms_0fd4d656:
+msgid "......"
+msgstr "…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:51 #-#-# translate crowdin return_to_vendoms_cb16a2d8:
+msgid "[_susan_] Так, вот мы и здесь"
+msgstr "[_susan_] Así que, aquí estamos"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:57 #-#-# translate crowdin return_to_vendoms_4ddd357a:
+msgid "[_cedrick_] Какой свежий морской воздух..."
+msgstr "[_cedrick_] Qué aire fresco del mar…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:61 #-#-# translate crowdin return_to_vendoms_5f8b8763:
+msgid "[_susan_] Ох, точно, Рик, ты же впервые на пляже. И как тебе?"
+msgstr "[_susan_] Ah, cierto, Rick, esta es tu primera vez en la playa. ¿Qué te parece?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:65 #-#-# translate crowdin return_to_vendoms_92b83e91:
+msgid "[_cedrick_] Интересно... Но думаю я сложу свое мнение ближе к концу мероприятия"
+msgstr "[_cedrick_] Interesante… Pero creo que formaré mi opinión más cerca del final del evento"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:69 #-#-# translate crowdin return_to_vendoms_c5862961:
+msgid "[_susan_] Хах, поняла тебя. Ну что, Вилл, пойдем переодеваться?"
+msgstr "[_susan_] Jaja, ya entiendo. Bueno, Will, ¿vamos a cambiarnos?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:73 #-#-# translate crowdin return_to_vendoms_fc608b5f:
+msgid "[_will_] Д-да, точно. Пошли"
+msgstr "[_will_] S-si, claro. Vamos"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:78 #-#-# translate crowdin return_to_vendoms_112ba739:
+msgid "[_centered_] {size=37}Спустя немного времени{/size}"
+msgstr "[_centered_] {size=37}Después de un rato{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:83 #-#-# translate crowdin return_to_vendoms_6b9432ea:
+msgid "[_susan_] Что, серьезно? Тут все кабинки для переодевания сломаны!?"
+msgstr "[_susan_] ¿En serio? ¿Están todos los vestuarios rotos aquí!?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:91 #-#-# translate crowdin return_to_vendoms_17c2faad:
+msgid "[_will_] Думаю это Урия с его шайкой постарались. Слышала они тут недалеко прячутся и фоткают девушек, пока те переодеваются"
+msgstr "[_will_] Creo que fueron Uriah y su pandilla quienes hicieron esto. Oí que se esconden cerca y les toman fotos a las chicas mientras se cambian"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:97 #-#-# translate crowdin return_to_vendoms_b7608967:
+msgid "[_susan_] К-какой кошмар... Ну и молодежь нынче пошла..."
+msgstr "[_susan_] ¡Qué pesadilla! ¿Qué clase de jóvenes hay hoy en día…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:101 #-#-# translate crowdin return_to_vendoms_e16c490f:
+msgid "[_susan_] (Хотя, не то чтобы в мое время парни этим не занимались... За мной и самой помню подглядывали...)"
+msgstr "[_susan_] (Aunque, no es que los chicos no hicieran eso en mi época… Recuerdo que también me espiaban…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:105 #-#-# translate crowdin return_to_vendoms_4bb05df1:
+msgid "[_will_] Хм... Мы можем переодеваться в разных местах, чтобы они не смогли заснять нас всех разом"
+msgstr "[_will_] Mmm… Podemos cambiarnos de ropa en diferentes lugares para que no nos filmen a todos a la vez"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:109 #-#-# translate crowdin return_to_vendoms_97db0a23:
+msgid "[_will_] По-отдельности думаю они растеряются..."
+msgstr "[_will_] Individualmente, creo que estarían confundidos…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:115 #-#-# translate crowdin return_to_vendoms_ecfa9092:
+msgid "[_cedrick_] Я бы лучше прикрыл вас, пока вы переодеваетесь"
+msgstr "[_cedrick_] Prefiero cubrirte mientras te cambias"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:121 #-#-# translate crowdin return_to_vendoms_8d5555d5:
+msgid "[_susan_] Ты можешь прикрыть Вилл, пока я переодеваюсь в более укромном месте, Рик. Думаю так будет правильнее"
+msgstr "[_susan_] Puedes cubrir a Will mientras me cambio a un lugar más privado, Rick. Creo que sería lo mejor"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:127 #-#-# translate crowdin return_to_vendoms_932dfbb7:
+msgid "[_will_] Э-эм... Н-нет, подожди, п-пускай лучше он прикрывает тебя. С Урией я в одной школе учусь, так что если что задам ему трепку потом"
+msgstr "[_will_] Eh… N-no, espera, prefiero que él te cubra. Voy a la misma escuela que Uriah, así que si pasa algo, le daré una buena reprimenda después"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:133 #-#-# translate crowdin return_to_vendoms_d2cefb05:
+msgid "[_susan_] Ну не знаю... Рик, что думаешь?"
+msgstr "[_susan_] Bueno, no lo sé… Rick, ¿qué piensas?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:134 #-#-# translate crowdin return_to_vendoms_1045b5e1:
+msgid "[_cedrick_] Хм..."
+msgstr "[_cedrick_] Um…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:137 #-#-# translate crowdin return_to_vendoms_746ffe8e:
+msgid "[_cedrick_] Думаю Сьюзан права, Вилл. Она взрослая женщина и не нуждается в защите от школьных хулиганов"
+msgstr "[_cedrick_] Creo que Susan tiene razón, Will. Es una mujer adulta y no necesita protección contra los acosadores escolares"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:141 #-#-# translate crowdin return_to_vendoms_25e9f6d8:
+msgid "[_will_] Н-но..."
+msgstr "[_will_] P-pero…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:142 #-#-# translate crowdin return_to_vendoms_d05565bc:
+msgid "[_cedrick_] А вот ты потенциально можешь стать объектом для буллинга в школе. Поверь, не важно на сколько стальной у тебя характер. Буллинг может надломить каждого..."
+msgstr "[_cedrick_] Pero tú podrías convertirte en víctima de acoso escolar. Créeme: por muy fuerte que sea tu carácter, el acoso puede quebrar a cualquiera…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:148 #-#-# translate crowdin return_to_vendoms_c3fa9b59:
+msgid "[_will_] Ух... Л-ладно, как хочешь"
+msgstr "[_will_] Eh… B-bueno, como desees"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:154 #-#-# translate crowdin return_to_vendoms_83702155:
+msgid "[_susan_] Хорошо. Тогда увидимся у лежаков, когда переоденемся"
+msgstr "[_susan_] De acuerdo. Entonces nos vemos en las tumbonas cuando nos hayamos cambiado"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:158 #-#-# translate crowdin return_to_vendoms_ff042b3a:
+msgid "[_will_] (Блин, я хотела, чтобы Рик все увидел неожиданно. А теперь из-за этого гребаного Урии сюрприза не получится...)"
+msgstr "[_will_] (Maldita sea, quería que Rick lo viera todo por sorpresa. Y ahora, por culpa de ese maldito Uriah, no habrá sorpresa…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:162 #-#-# translate crowdin return_to_vendoms_42a3c7dd:
+msgid "[_centered_] {size=37}Вилл идет переодеваться, Седрик прикрывает ее{/size}"
+msgstr "[_centered_] {size=37}Will va a cambiarse, Cedric la cubre{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:168 #-#-# translate crowdin return_to_vendoms_4cfc9464:
+msgid "[_cedrick_] Думаю Вилл права, Сьюзан"
+msgstr "[_cedrick_] Creo que Will tiene razón, Susan"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:169 #-#-# translate crowdin return_to_vendoms_949f8c40:
+msgid "[_cedrick_] С Урией я могу и в школе разобраться, особенно если это коснется Вилл.."
+msgstr "[_cedrick_] Puedo lidiar con Uriah en la escuela, especialmente si se trata de Will…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:170 #-#-# translate crowdin return_to_vendoms_b59e9fd1:
+msgid "[_cedrick_] Но вот в твоем случае, тут моя компетенция заканчивается"
+msgstr "[_cedrick_] Pero en su caso, ahí termina mi competencia"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:171 #-#-# translate crowdin return_to_vendoms_e2cc3bbc:
+msgid "[_cedrick_] А что будет, если твои обнаженные фото сольют в интернет? Как это отразиться на твоей работе в it-компании?"
+msgstr "[_cedrick_] ¿Qué ocurre si tus fotos desnuda se filtran en internet? ¿Cómo afectará eso a tu trabajo en la empresa de informática?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:177 #-#-# translate crowdin return_to_vendoms_914bfdea:
+msgid "[_susan_] (Ох, а ведь и точно... Уж парни оттуда-то точно быстро мои фотки найдут, если они в интернете появятся...)"
+msgstr "[_susan_] (Ah, claro… Los chicos de allí seguro que encontrarán mis fotos enseguida si aparecen en Internet…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:181 #-#-# translate crowdin return_to_vendoms_84b407b9:
+msgid "[_susan_] Д-думаю ты прав, Рик..."
+msgstr "[_susan_] Creo que tienes razón, Rick…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:187 #-#-# translate crowdin return_to_vendoms_cee91699:
+msgid "[_will_] Отлично, тогда я пойду в укромное место, а вы возьмите на себя Урию с другими отморозками. Увидимся на пляже"
+msgstr "[_will_] Genial, entonces me iré a algún lugar apartado y tú te encargarás de Uriah y los demás matones. Nos vemos en la playa"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:191 #-#-# translate crowdin return_to_vendoms_0e4f8f51:
+msgid "[_susan_] Да, увидимся!"
+msgstr "[_susan_] ¡Sí, nos vemos!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:193 #-#-# translate crowdin return_to_vendoms_07e67464:
+msgid "[_centered_] {size=37}Сьюзан идет переодеваться, Седрик прикрывает ее{/size}"
+msgstr "[_centered_] {size=37}Susan va a cambiarse de ropa, Cedric la cubre{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:205 #-#-# translate crowdin gallery_d_103_e68f4ba5:
+msgid "[_cedrick_] Вилл, ты там скоро?"
+msgstr "[_cedrick_] Will, ¿estarás allí pronto?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:208 #-#-# translate crowdin gallery_d_103_8709b1a3:
+msgid "[_will_] Н-не смотри!! Рик!!"
+msgstr "[_will_] ¡No mires!! ¡Rick!!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:210 #-#-# translate crowdin gallery_d_103_75d2c83c:
+msgid "[_cedrick_] Хах, да чего я там не видел?"
+msgstr "[_cedrick_] Jaja, ¿qué es lo que no vi?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:212 #-#-# translate crowdin gallery_d_103_1875b1f6:
+msgid "[_cedrick_] С чего вдруг начала скромничать?"
+msgstr "[_cedrick_] ¿Por qué de repente te volviste tímida?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:214 #-#-# translate crowdin gallery_d_103_2b166d80:
+msgid "[_will_] Д-дело не в этом... Н-не смотри пока..."
+msgstr "[_will_] E-ese no es el punto… N-no mires todavía…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:216 #-#-# translate crowdin gallery_d_103_ff35d45d:
+msgid "[_will_] П-потом можешь обсмотреться сколько хочешь... Я тебе и дома все покажу..."
+msgstr "[_will_] Entonces, puedes mirar todo lo que quieras… También te enseñaré todo en casa…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:218 #-#-# translate crowdin gallery_d_103_5193cf2b:
+msgid "[_will_] Н-но пока подожди... Это сюрприз..."
+msgstr "[_will_] P-pero espera un momento… Es una sorpresa…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:220 #-#-# translate crowdin gallery_d_103_8a2e2433:
+msgid "[_cedrick_] Сюрприз? Еще один? Не многовато?"
+msgstr "[_cedrick_] ¿Sorpresa? ¿Otra más? ¿No es demasiado?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:222 #-#-# translate crowdin gallery_d_103_37ac6cb8:
+msgid "[_will_] Его я приготовила еще до того, как мы отправились в темницы"
+msgstr "[_will_] Lo preparé antes de que fuéramos a las mazmorras"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:224 #-#-# translate crowdin gallery_d_103_2c0ea923:
+msgid "[_cedrick_] Хм, ладно... Но полюбуюсь тобой еще немного, пока ты в такой позе..."
+msgstr "[_cedrick_] Mmm, de acuerdo… Pero te admiraré un poco más mientras mantienes esta pose…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:226 #-#-# translate crowdin gallery_d_103_dbfa1cf7:
+msgid "[_will_] Р-рик..."
+msgstr "[_will_] R-Rick…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:228 #-#-# translate crowdin gallery_d_103_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:230 #-#-# translate crowdin gallery_d_103_dbd7690d:
+msgid "[_will_] Е-если хочешь, дома я тебе потом как угодно могу попозировать..."
+msgstr "[_will_] S-si quieres, puedo posar para ti como yo quiera en casa…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:232 #-#-# translate crowdin gallery_d_103_378695a8:
+msgid "[_cedrick_] Но дома это ведь не здесь... Ты с мамой была права, в пляжах определенно есть своя прелесть..."
+msgstr "[_cedrick_] Pero aquí no es como en casa, ¿verdad? Tu madre y tú tenían razón, las playas definitivamente tienen su propio encanto…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:234 #-#-# translate crowdin gallery_d_103_25731385:
+msgid "[_will_] У-ууухх..."
+msgstr "[_will_] U-uuuhh…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:236 #-#-# translate crowdin gallery_d_103_bcd124bf:
+msgid "[_will_] ..."
+msgstr "[_will_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:238 #-#-# translate crowdin gallery_d_103_16d05cf7:
+msgid "[_will_] Я почти все... Прикроешь меня еще немного?"
+msgstr "[_will_] Ya casi termino… ¿Puedes cubrirme un poco más?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:240 #-#-# translate crowdin gallery_d_103_b08cf301:
+msgid "[_will_] Только не подглядывать..."
+msgstr "[_will_] Simplemente no mires…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:242 #-#-# translate crowdin gallery_d_103_42c5257a:
+msgid "[_cedrick_] Хах. Хорошо хорошо"
+msgstr "[_cedrick_] Ja. Bien, bien."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:245 #-#-# translate crowdin gallery_d_103_b933b214:
+msgid "[_centered_] {size=37}Седрик ждет еще какое-то время{/size}"
+msgstr "[_centered_] {size=37}Cedric espera un rato{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:248 #-#-# translate crowdin gallery_d_103_9dbc0174:
+msgid "[_will_] Я готова. Ну что, пойдем на пляж?"
+msgstr "[_will_] Estoy lista. Entonces, ¿vamos a la playa?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:249 #-#-# translate crowdin gallery_d_103_4f59e98b:
+msgid "[_cedrick_] Да, пошли"
+msgstr "[_cedrick_] Sí, vamos"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:256 #-#-# translate crowdin gallery_d_104_df799027:
+msgid "[_cedrick_] Сьюзан, ты там скоро?"
+msgstr "[_cedrick_] Susan, ¿estarás allí pronto?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:259 #-#-# translate crowdin gallery_d_104_e053dcdc:
+msgid "[_susan_] Р-рик, я еще не переоделась, подожди..."
+msgstr "[_susan_] R-rick, aún no me he cambiado, espera…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:261 #-#-# translate crowdin gallery_d_104_4bb1ca01:
+msgid "[_cedrick_] Ого, какой роскошный вид"
+msgstr "[_cedrick_] Guau, qué vista tan hermosa"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:263 #-#-# translate crowdin gallery_d_104_b9547864:
+msgid "[_susan_] Хах, и чего же нового для себя ты тут видел?"
+msgstr "[_susan_] Jaja, ¿y qué cosas nuevas viste aquí?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:265 #-#-# translate crowdin gallery_d_104_1dc36b0d:
+msgid "[_cedrick_] Дело ведь не в том, видел я это раньше или нет, а в том, что это новое для тебя амплуа"
+msgstr "[_cedrick_] No se trata de si lo he visto antes o no, sino de que este es un papel nuevo para ti"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:267 #-#-# translate crowdin gallery_d_104_d99099e3:
+msgid "[_cedrick_] Раньше ты при мне так пикантно не раздевалась"
+msgstr "[_cedrick_] Nunca te habías desnudado de forma tan provocativa delante de mí"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:269 #-#-# translate crowdin gallery_d_104_8d2c9198:
+msgid "[_susan_] Ммм, если хочешь, могу устроить тебе дома стриптиз"
+msgstr "[_susan_] Mmm, si quieres, puedo hacerte un striptease en casa"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:271 #-#-# translate crowdin gallery_d_104_92a69890:
+msgid "[_cedrick_] Звучит крайне заманчиво..."
+msgstr "[_cedrick_] Suena extremadamente tentador…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:273 #-#-# translate crowdin gallery_d_104_2dc3bce7:
+msgid "[_susan_] Ну тогда договорились, дорогой"
+msgstr "[_susan_] Bueno, entonces tenemos un trato, cariño"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:275 #-#-# translate crowdin gallery_d_104_613ac6ce:
+msgid "[_cedrick_] Ух, теперь смотря на твою фигуру так и хочется взять тебя прямо здесь"
+msgstr "[_cedrick_] Vaya, ahora que veo tu figura, me dan ganas de llevarte aquí mismo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:277 #-#-# translate crowdin gallery_d_104_06b82c06:
+msgid "[_susan_] Ахах, чтобы отменный контент для тех ребят точно был обеспечен?"
+msgstr "[_susan_] Jaja, ¿entonces definitivamente se les proporciona ese excelente contenido a esos chicos?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:279 #-#-# translate crowdin gallery_d_104_0de3f470:
+msgid "[_susan_] Давай-ка лучше присмотри пока за ними, я сейчас полностью оголюсь, чтобы надеть купальник"
+msgstr "[_susan_] Será mejor que los vigiles por ahora, voy a desnudarme por completo para ponerme un traje de baño"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:280 #-#-# translate crowdin gallery_d_104_5bfa9b76:
+msgid "[_susan_] Еще немного и освобожусь"
+msgstr "[_susan_] Un poquito más y estaré libre"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:282 #-#-# translate crowdin gallery_d_104_17daff60:
+msgid "[_cedrick_] Хорошо, тогда я прикрою"
+msgstr "[_cedrick_] De acuerdo, entonces te cubriré"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:284 #-#-# translate crowdin gallery_d_104_b933b214:
+msgid "[_centered_] {size=37}Седрик ждет еще какое-то время{/size}"
+msgstr "[_centered_] {size=37}Cedric espera un rato{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:288 #-#-# translate crowdin gallery_d_104_43d079e1:
+msgid "[_susan_] Я готова!"
+msgstr "[_susan_] ¡Estoy lista!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:289 #-#-# translate crowdin gallery_d_104_2f7149a9:
+msgid "[_cedrick_] Отлично, тогда пойдем на пляж. Думаю Вилл уже заждалась"
+msgstr "[_cedrick_] ¡Genial! Entonces, ¡vamos a la playa! Creo que Will ya está cansada de esperar"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:295 #-#-# translate crowdin gallery_d_104_65c01113:
+msgid "[_centered_] {size=37}На пляже{/size}"
+msgstr "[_centered_] {size=37}En la playa{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:299 #-#-# translate crowdin gallery_d_104_586cc42a:
+msgid "[_will_] О, а вот и вы"
+msgstr "[_will_] Oh, aquí estás"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:310 #-#-# translate crowdin gallery_d_104_8e8a61fc:
+msgid "[_cedrick_] (Проклятье... Это сложнее, чем я думал...)"
+msgstr "[_cedrick_] (Maldita sea… Esto es más difícil de lo que pensaba…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:313 #-#-# translate crowdin gallery_d_104_ae28e02d:
+msgid "[_uria_] Э-йо, пацаны, он выдохся!! А ну-ка, расчехляем свои приборы!!"
+msgstr "[_uria_] ¡Oigan, chicos, está sin aliento! ¡Vamos, saquemos nuestro equipo!!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:318 #-#-# translate crowdin gallery_d_104_d49f7997:
+msgid "[_kurt_] В смысле члены?"
+msgstr "[_kurt_] ¿A qué te refieres con miembros?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:325 #-#-# translate crowdin gallery_d_104_9514eb57:
+msgid "[_laurent_] Я думал мы сначала фоткаем, а потом дрочим..."
+msgstr "[_laurent_] Pensaba que primero haríamos fotos y luego nos masturbaríamos…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:331 #-#-# translate crowdin gallery_d_104_39b9222d:
+msgid "[_uria_] Бля, да не члены, вы долбаебы... Телефоны доставайте, надо фоткать!!"
+msgstr "[_uria_] Mierda, no las vergas, imbéciles… ¡Saquen los teléfonos, tenemos que tomar fotos!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:337 #-#-# translate crowdin gallery_d_104_8f5c0a35:
+msgid "[_kurt_] Ааа, блин, точняк"
+msgstr "[_kurt_] Aaah, maldita sea, exactamente"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:343 #-#-# translate crowdin gallery_d_104_43fccc4e:
+msgid "Звук вспышки камеры"
+msgstr "Sonido del flash de la cámara"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:344 #-#-# translate crowdin gallery_d_104_03e9244e:
+msgid "[_cedrick_] Черт... Сразу налетели, как стая голодных чаек..."
+msgstr "[_cedrick_] Maldita sea… Inmediatamente se abalanzaron como una bandada de gaviotas hambrientas…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:346 #-#-# translate crowdin gallery_d_104_ccbe39da:
+msgid "[_laurent_] Парни-парни, я заснял!"
+msgstr "[_laurent_] ¡Chicos, chicos, lo tengo!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:347 #-#-# translate crowdin gallery_d_104_7e985bdf:
+msgid "[_uria_] Мы получили что хотели, валим отсюда!"
+msgstr "[_uria_] ¡Tenemos lo que queríamos, salgamos de aquí!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:349 #-#-# translate crowdin gallery_d_104_71c46987:
+msgid "[_cedrick_] Вот засранцы, кто-то успел сфоткать..."
+msgstr "[_cedrick_] Oh, imbéciles, alguien tomó una foto…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:350 #-#-# translate crowdin gallery_d_104_9f3d5b10:
+msgid "[_cedrick_] Нужно побежать за ними и отнять телефон, пока они не убежали слишком далеко"
+msgstr "[_cedrick_] Tienes que correr tras ellos y quitarles el teléfono antes de que se alejen demasiado"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:354 #-#-# translate crowdin gallery_d_104_ad71c591:
+msgid "[_laurent_] Бля, для учителя истории он чертовски быстро бегает"
+msgstr "[_laurent_] Caramba, para ser profesor de historia corre rapidísimo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:355 #-#-# translate crowdin gallery_d_104_de21d019:
+msgid "[_uria_] Да это просто вы жирдяи физру прогуливали"
+msgstr "[_uria_] Es que ustedes, gordos, se saltaban las clases de educación física."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:357 #-#-# translate crowdin gallery_d_104_deb133c5:
+msgid "[_kurt_] Твою мать, я выронил свой телефон"
+msgstr "[_kurt_] ¡Mierda! Se me cayó el teléfono"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:358 #-#-# translate crowdin gallery_d_104_b9265b75:
+msgid "[_uria_] Криворукий мудак..."
+msgstr "[_uria_] Maldito inútil…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:360 #-#-# translate crowdin gallery_d_104_ca198321:
+msgid "[_cedrick_] (Это мой шанс! Плевать на этих мелких засранцев, нужно взять телефон!)"
+msgstr "[_cedrick_] (¡Esta es mi oportunidad! Al diablo con esos pequeños cabrones; tengo que tomar el teléfono.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:363 #-#-# translate crowdin gallery_d_104_739afe6a:
+msgid "[_cedrick_] (Нужно найти те фото и удалить... Так, что тут у нас)"
+msgstr "[_cedrick_] (Necesitas encontrar esas fotos y eliminar… Así que aquí tenemos)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:366 #-#-# translate crowdin gallery_d_104_10151032:
+msgid "[_cedrick_] (Что за...)"
+msgstr "[_cedrick_] (Qué Es…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:367 #-#-# translate crowdin gallery_d_104_13278760:
+msgid "[_cedrick_] (Что это за хрень?)"
+msgstr "[_cedrick_] (¿Qué clase de mierda es esta?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:368 #-#-# translate crowdin gallery_d_104_4f301b8c:
+msgid "[_cedrick_] (Если бы не пляжный антураж, я бы подумал, что это фото с Хэллоуина...)"
+msgstr "[_cedrick_] (Si no fuera por el entorno de playa, creo que es una foto de helloween…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:369 #-#-# translate crowdin gallery_d_104_a467e8c9:
+msgid "[_cedrick_] (Девушка выглядит на удивление знакомо...)"
+msgstr "[_cedrick_] (La chica parece sorprendentemente familiar…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:370 #-#-# translate crowdin gallery_d_104_aa0de2a5:
+msgid "[_cedrick_] (А мужик в маске… Черт, надеюсь это просто косплей и здесь на орудует маньяк)"
+msgstr "[_cedrick_] (Y el hombre de la máscara… Maldita sea, espero que sea solo un cosplay y aquí para un maníaco está empuñando)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:371 #-#-# translate crowdin gallery_d_104_95cc7e52:
+msgid "[_cedrick_] (Иначе шайка Урии будет наименьшей из наших проблем)"
+msgstr "[_cedrick_] (Hace otro, la papa frita será la menor de nuestras problemáticas)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:372 #-#-# translate crowdin gallery_d_104_5cb93643:
+msgid "[_cedrick_] (Но, черт, не могу отрицать, что выглядит это сцена довольно захватывающе)"
+msgstr "[_cedrick_] (Pero, diablos, no puedo negar que esta escena se ve bastante emocionante)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:373 #-#-# translate crowdin gallery_d_104_2ef90216:
+msgid "[_cedrick_] (...)"
+msgstr "[_cedrick_] (…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:374 #-#-# translate crowdin gallery_d_104_5dfe53ba:
+msgid "[_cedrick_] (......)"
+msgstr "[_cedrick_] (…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:375 #-#-# translate crowdin gallery_d_104_9714df9a:
+msgid "[_cedrick_] (Так, о чем это я...)"
+msgstr "[_cedrick_] (Entonces, ¿de qué estoy hablando…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:376 #-#-# translate crowdin gallery_d_104_bcd8b51a:
+msgid "[_cedrick_] (Нужно же найти то фото, что он сделал сейчас)"
+msgstr "[_cedrick_] (Tienes que encontrar la foto que ha hecho ahora)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:382 #-#-# translate crowdin gallery_d_104_10966c1c:
+msgid "[_cedrick_] (Кажется нашел...)"
+msgstr "[_cedrick_] (Parece encontrar…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:383 #-#-# translate crowdin gallery_d_104_84444edf:
+msgid "[_cedrick_] (Хм, размытое фото?)"
+msgstr "[_cedrick_] (Hmm, foto borrosa?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:384 #-#-# translate crowdin gallery_d_104_49519944:
+msgid "[_cedrick_] (Черт, Курт, какие же у тебя кривые руки...)"
+msgstr "[_cedrick_] (Maldita sea, kurt, ¿cuáles son tus manos torcidas…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:385 #-#-# translate crowdin gallery_d_104_e190c273:
+msgid "[_cedrick_] (Даже нормального фото сделать не смог)"
+msgstr "[_cedrick_] (Incluso no se pudo tomar una foto normal)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:386 #-#-# translate crowdin gallery_d_104_476aa7e0:
+msgid "[_cedrick_] (Тут же ничего толком не видно...)"
+msgstr "[_cedrick_] (Quiero decir que nada está claro…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:387 #-#-# translate crowdin gallery_d_104_b00475a8:
+msgid "[_cedrick_] (Ладно, наверное тем лучше для меня)"
+msgstr "[_cedrick_] (Está bien, probablemente mejor para mí)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:388 #-#-# translate crowdin gallery_d_104_8273209a:
+msgid "[_cedrick_] (Думаю Вилл и Сьюзан уже переоделись. Пора вернуться к ним)"
+msgstr "[_cedrick_] (Creo que Will y Susan ya han cambiado. Es hora de volver a ellos)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:403 #-#-# translate crowdin gallery_d_104_781cd6ea:
+msgid "[_susan_] В-вилл!? Ч-что это за наряд на тебе..."
+msgstr "[_susan_] W-Will!? ¿Cuál es el traje tuyo…?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:409 #-#-# translate crowdin gallery_d_104_9f6983f9:
+msgid "[_will_] Ну... Мне надоело постоянно ходить в плавательном костюме. К тому же он ведь спортивный, для соревнований, а не для пляжа"
+msgstr "[_will_] Bueno… Estoy cansada de caminar en traje de baño todo el tiempo. Además, es un deporte, para competiciones, no para la playa"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:413 #-#-# translate crowdin gallery_d_104_d9e83e1c:
+msgid "[_will_] Настоящего купальника у меня до этого не было. Вот я и решила, кхм, вот такой себе заказать"
+msgstr "[_will_] Antes no tenía un traje de baño de verdad. Así que decidí, km, así es como me ordeno"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:419 #-#-# translate crowdin gallery_d_104_309cf47e:
+msgid "[_susan_] (Боже, да с таким купальником можно было и не беспокоиться о том, что Урия и остальные сфоткают ее во время переодевания...)"
+msgstr "[_susan_] (Dios, con un traje de baño así ni siquiera habría tenido que preocuparme por que Uriah y los demás le tomaran fotos mientras se cambiaba…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:420 #-#-# translate crowdin gallery_d_104_5e22bd58:
+msgid "[_susan_] (В таком наряде практически все видно независимо от того, одета она или нет...)"
+msgstr "[_susan_] (Con un atuendo así se ve casi todo, esté vestida o no…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:424 #-#-# translate crowdin gallery_d_104_6430a82d:
+msgid "[_susan_] (Ох.. моя девочка.. Куда же тебя понесло..)"
+msgstr "[_susan_] (Oh… Mi niña… ¿A dónde fuiste?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:425 #-#-# translate crowdin gallery_d_104_cc4562d2:
+msgid "[_cedrick_] (Кажется, теперь я понял, что она имела ввиду, когда говорила, что его нужно будет доработать..)"
+msgstr "[_cedrick_] (creo que ahora me di cuenta de lo que quería decir cuando dijo que tendría que ser finalizado)."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:426 #-#-# translate crowdin gallery_d_104_4ed84155:
+msgid "[_cedrick_] (Это же, очевидно, вообще не костюм для пляжа.. Она купила его для откровенного и развратного секса..)"
+msgstr "[_cedrick_] (Obviamente no es un disfraz de playa. Lo compró para sexo absoluto y depravado.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:427 #-#-# translate crowdin gallery_d_104_a5488b61:
+msgid "[_cedrick_] (Ясно.. Поэтому она и не хотела, чтобы я видел его заранее, это был сюрприз для меня)"
+msgstr "[_cedrick_] (Claramente… Así que ella no quería que lo viera de antemano, fue una sorpresa para mí)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:431 #-#-# translate crowdin gallery_d_104_90cb852b:
+msgid "[_cedrick_] (Видимо она не ожидала предложения с пляжем и сориентировалась на ходу. Попыталась скрыть изначальную развратность, кхм, так называемого купальника..)"
+msgstr "[_cedrick_] (Al parecer, no esperaba que propusiera ir a la playa e improvisó. Intentó ocultar lo indecente que era desde el principio ese, ejem, supuesto traje de baño…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:432 #-#-# translate crowdin gallery_d_104_c877fa6e:
+msgid "[_cedrick_] (Сверху надела майку, а снизу решила надеть короткие шорты, при этом не застегнув.. Хах, она явно не сильно старалас)"
+msgstr "[_cedrick_] (Desde arriba poner una camiseta, y en la parte inferior decidió llevar pantalones cortos, sin cierre. Ja, ella claramente no es muy vieja)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:433 #-#-# translate crowdin gallery_d_104_2e446e9c:
+msgid "[_cedrick_] (Кстати о майке…)"
+msgstr "[_cedrick_] (A la manera de la camiseta…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:434 #-#-# translate crowdin gallery_d_104_5c38c539:
+msgid "[_cedrick_] Вилл, а почему твоя футболка мокрая?"
+msgstr "[_cedrick_] Will, ¿por qué está mojada tu camiseta?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:440 #-#-# translate crowdin gallery_d_104_f31ad8f4:
+msgid "[_susan_] Ох, а ведь и правда.."
+msgstr "[_susan_] Oh, pero es verdad."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:446 #-#-# translate crowdin gallery_d_104_746e44cd:
+msgid "[_will_] Эм.. Я просто гонялась за Урией, чтобы наподдать ему за ту попытку сфоткать. Но его подпевалы подкрались сзади и толкнули меня в бассейн"
+msgstr "[_will_] Mm. Solo estaba persiguiendo a Uriah para darle ese intento de tomar una foto. Pero sus garras se deslizaron por detrás y me empujaron a la piscina"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:450 #-#-# translate crowdin gallery_d_104_94bd6930:
+msgid "[_cedrick_] Мелкие ублюдки.."
+msgstr "[_cedrick_] Pequeños bastardos…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:454 #-#-# translate crowdin gallery_d_104_6cc79156:
+msgid "[_susan_] Да уж.. Ну и поколение.."
+msgstr "[_susan_] Sí. Bueno, la generación…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:455 #-#-# translate crowdin gallery_d_104_0b7423c7:
+msgid "[_cedrick_] (И все же… В таком купальнике она с таким же успехом могла надеть мокрую футболку и короткие шорты сразу на голое тело)"
+msgstr "[_cedrick_] (Aun así… Con un traje de baño así, igual podría haberse puesto una camiseta mojada y unos pantalones cortos directamente sobre el cuerpo desnudo.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:456 #-#-# translate crowdin gallery_d_104_cba2bdae:
+msgid "[_cedrick_] (Мне даже нравится ее развратно-креативный подход.. Но вот как на подобное отреагирует Сьюзан..)"
+msgstr "[_cedrick_] (Incluso me gusta su enfoque creativo y depravado… Pero ¿cómo reaccionará Susan ante algo así…?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:457 #-#-# translate crowdin gallery_d_104_764b4ce1:
+msgid "[_cedrick_] (Это интересно)"
+msgstr "[_cedrick_] (Es interesante)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:463 #-#-# translate crowdin gallery_d_104_22877a29:
+msgid "[_susan_] (Ну точно, как я сутра и думала.. Моя дочь на пути познания собственной сексуальности..)"
+msgstr "[_susan_] (Justo como pensé esta mañana… Mi hija está descubriendo su propia sexualidad…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:464 #-#-# translate crowdin gallery_d_104_501d953a:
+msgid "[_susan_] (Видимо сначала она сравнивала себя со мной в фартуке на голое тело. А теперь решила пойти дальше и открыто заявить о том, что она сексуальна..)"
+msgstr "[_susan_] (Al parecer, primero se comparó conmigo, con ese delantal sobre el cuerpo desnudo. Ahora decidió ir más lejos y declarar abiertamente que es sexy…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:465 #-#-# translate crowdin gallery_d_104_005aa117:
+msgid "[_susan_] (Боже, это все так быстро.. и внезапно..)"
+msgstr "[_susan_] (Dios, todo es tan rápido… Y de repente…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:466 #-#-# translate crowdin gallery_d_104_2f476108:
+msgid "[_susan_] (С чего вдруг такие изменения..)"
+msgstr "[_susan_] (Por qué tales cambios…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:472 #-#-# translate crowdin gallery_d_104_7840012d:
+msgid "[_susan_] (Хотя стоп, чего это я.. Тот случай с Риком, когда она нас застукала.. Она же после этого четко дала понять, что ей не хватает того же.. Что она завидует..)"
+msgstr "[_susan_] (Aunque los pies, ¿qué soy… El caso de Rick cuando nos atrapó… Después de eso, dejó en claro que le faltaba lo mismo. De lo que está celosa…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:473 #-#-# translate crowdin gallery_d_104_f87092ca:
+msgid "[_susan_] (Какая же я дура, раньше не заметила..)"
+msgstr "[_susan_] (Qué estúpido soy, no me he dado cuenta antes…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:477 #-#-# translate crowdin gallery_d_104_3d939d01:
+msgid "[_susan_] (Наша активная сексуальная жизнь с Риком заставляет комплексовать Вилл по-поводу своей сексуальности..)"
+msgstr "[_susan_] (Nuestra vida sexual activa con Rick te hace una Will compleja sobre su sexualidad.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:479 #-#-# translate crowdin gallery_d_104_fd9e3d87:
+msgid "[_susan_] (И теперь она хочет доказать, что тоже может быть сексуальной и желанной..)"
+msgstr "[_susan_] (Y ahora quiere demostrar que también puede ser sexy y deseable.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:480 #-#-# translate crowdin gallery_d_104_caa47b2e:
+msgid "[_susan_] (Т-таким вот.. абсолютно вульгарным образом..)"
+msgstr "[_susan_] (Así como así. Absolutamente vulgar manera.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:484 #-#-# translate crowdin gallery_d_104_6e3723cd:
+msgid "[_susan_] (Е-если я ее сейчас не поддержу, любой другой мой комментарий она воспримет в штыки)"
+msgstr "[_susan_] (Si no lo apoyo ahora, cualquier otro mi comentario ella tomará en bayonetas)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:488 #-#-# translate crowdin gallery_d_104_d16d6f65:
+msgid "[_susan_] (Мол я ее совсем не понимаю и прочее. И тогда кто знает, как еще она захочет, кхм, доказать свою сексуальность..)"
+msgstr "[_susan_] (Que no la entiendo en absoluto y todo eso. Y entonces, quién sabe de qué otra forma querrá, ejem, demostrar su sexualidad…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:492 #-#-# translate crowdin gallery_d_104_d99812f8:
+msgid "[_susan_] (Опять же, у нас буквально в доме живет мужчина, который ей не отец, а просто тот, кто трахает ее мать..)"
+msgstr "[_susan_] (Además, literalmente tenemos en casa a un hombre que no es su padre, sino el que se coge a su madre.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:494 #-#-# translate crowdin gallery_d_104_7cc7438d:
+msgid "[_susan_] (И при этом на нее совершенно не обращает внимания..)"
+msgstr "[_susan_] (Y no le presta atención en absoluto…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:498 #-#-# translate crowdin gallery_d_104_1fd1c6f1:
+msgid "[_susan_] (Да, теперь все встало на свои места.. Эх, все это так не вовремя..)"
+msgstr "[_susan_] (Sí, ahora todo ha caído en su lugar. Oh, no es a tiempo.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:503 #-#-# translate crowdin gallery_d_104_9421a012:
+msgid "[_will_] Ну и чего вы молчите? Настолько плохой пляжный костюм что-ли получился?"
+msgstr "[_will_] ¿Y por qué no dicen nada? ¿Tan mal quedó el traje de baño?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:509 #-#-# translate crowdin gallery_d_104_c04d713e:
+msgid "[_susan_] Н-нет!"
+msgstr "[_susan_] ¡N-No!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:515 #-#-# translate crowdin gallery_d_104_ce85f47c:
+msgid "[_cedrick_] Нет-нет, вполне себе отличный"
+msgstr "[_cedrick_] No-no, bastante genial"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:517 #-#-# translate crowdin gallery_d_104_d5fbcdea:
+msgid "[_cedrick_] Знаешь, теперь у вас с мамой практически парные пляжные костюмы. И у тебя и у нее он цельный, с вырезом в виде буквы v"
+msgstr "[_cedrick_] Sabes, tú y tu madre y yo tenemos trajes de playa casi emparejados. Y tú y ella lo tienen completo, con un recorte en forma de letra v"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:523 #-#-# translate crowdin gallery_d_104_1730a225:
+msgid "[_susan_] Р-рик.."
+msgstr "[_susan_] R-Rick…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:527 #-#-# translate crowdin gallery_d_104_dfe2739a:
+msgid "[_will_] Хах, а ведь и правда, я об этом не подумала. Спасибо, Рик!"
+msgstr "[_will_] Ja, pero realmente no lo pensé. Gracias, Rick!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:533 #-#-# translate crowdin gallery_d_104_b6e0be95:
+msgid "[_susan_] (Да, они похожи, вот только.. Мой костюм изначально подразумевался как провокационный..)"
+msgstr "[_susan_] (Sí, son similares, solo. Mi traje originalmente estaba destinado como un provocativo.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:534 #-#-# translate crowdin gallery_d_104_8052314c:
+msgid "[_susan_] (Но в итоге, если сравнивать, то даже в моем купальнике ткани больше, чем в ее..)"
+msgstr "[_susan_] (Aunque, si comparamos, hasta mi traje de baño tiene más tela que el suyo…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:538 #-#-# translate crowdin gallery_d_104_6d5df9b0:
+msgid "[_susan_] (По сравнению с ее купальником мой можно считать закрытым, как костюм монашки..)"
+msgstr "[_susan_] (En comparación con su traje de baño, mi traje de baño se puede considerar cerrado como un traje de monja)."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:539 #-#-# translate crowdin gallery_d_104_27520c19:
+msgid "[_susan_] (И все же.. Я не могу осуждать ее.. По крайней мере не сейчас.. Возможно потом мне стоит провести с ней серьезный разговор.. Но пока..)"
+msgstr "[_susan_] (Y aún así… No puedo culparla. Al menos no ahora. Tal vez entonces debería tener una conversación seria con ella. Pero por ahora…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:545 #-#-# translate crowdin gallery_d_104_6f9dea82:
+msgid "[_susan_] О-отличный костюм, Вилл.. Он прямо таки, кхм.. Подчеркивает все твои сильные стороны!"
+msgstr "[_susan_] Excelente traje, Will. Tiene razón, Ejem… ¡Enfatiza todas tus fortalezas!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:549 #-#-# translate crowdin gallery_d_104_ffd7540e:
+msgid "[_susan_] ..."
+msgstr "[_susan_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:553 #-#-# translate crowdin gallery_d_104_d9f56e11:
+msgid "[_susan_] Ты ж моя красотка"
+msgstr "[_susan_] Tú eres mi belleza"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:557 #-#-# translate crowdin gallery_d_104_09bcd0f4:
+msgid "[_will_] Ох, с-спасибо, мам… Не ожидала услышать от тебя подобное. Этот мамин день претендует на то, чтобы быть лучшим из всех"
+msgstr "[_will_] Oh, gracias, mamá… No esperaba oír eso de ti. El día de esta madre dice ser el mejor de todos"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:563 #-#-# translate crowdin gallery_d_104_042aba6d:
+msgid "[_susan_] Д-да.."
+msgstr "[_susan_] D-Da…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:564 #-#-# translate crowdin gallery_d_104_11dbf67e:
+msgid "[_cedrick_] (Огооо, Сьюзан, вот этого я не ожидал..)"
+msgstr "[_cedrick_] (Ogoy, Susan, no me lo esperaba.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:565 #-#-# translate crowdin gallery_d_104_a40563d8:
+msgid "[_cedrick_] (Пошла Вилл навстречу вместо того, чтобы отчитывать за откровенно развратный вид..)"
+msgstr "[_cedrick_] (Vaya a la Will en lugar de anotar para un aspecto francamente depravado.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:566 #-#-# translate crowdin gallery_d_104_723c25a6:
+msgid "[_cedrick_] (Интересно, чем это вызвано? Почему она пересмотрела свой взгляд на воспитание Вилл..)"
+msgstr "[_cedrick_] (Me pregunto ¿qué causó esto? ¿Por qué reconsideró su mirada a la educación de las Will?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:567 #-#-# translate crowdin gallery_d_104_98acc11c:
+msgid "[_cedrick_] (Хм, возможно..)"
+msgstr "[_cedrick_] (Hmm, posiblemente…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:571 #-#-# translate crowdin gallery_d_104_4af80e8c:
+msgid "[_cedrick_] (Да, точно, это было в книге по психологии по воспитанию детей от Фрейда..)"
+msgstr "[_cedrick_] (Sí, eso es exactamente lo que era en un libro sobre psicología de crianza de niños de Freud)."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:572 #-#-# translate crowdin gallery_d_104_a29fd8df:
+msgid "[_cedrick_] (Видимо Сьюзан решила, что ее дочь начала проявлять свою сексуальность и не порицает ее, чтобы у нее не появились комплексы и впоследствии, кхм..)"
+msgstr "[_cedrick_] (Video Susan decidió que su hija comenzó a mostrar su sexualidad y no le reprocha, por lo que no tenía complejos y posteriormente, Ejem.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:573 #-#-# translate crowdin gallery_d_104_0220560f:
+msgid "[_cedrick_] (Как выражаются люди на земле, Вилл не сорвало башню на теме секса)"
+msgstr "[_cedrick_] (Como dicen las personas en la tierra, Will no frustró una torre sobre el tema del sexo)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:574 #-#-# translate crowdin gallery_d_104_2676e0c9:
+msgid "[_cedrick_] (Ох, Сьюзан, к сожалению, крыша у твоей дочери съехала на теме секса еще до этого.. Я над этим очень сильно постарался..)"
+msgstr "[_cedrick_] (Oh, Susan, desafortunadamente, el techo de su hija ha ido sobre el tema del sexo antes. Me esforcé mucho en ello.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:575 #-#-# translate crowdin gallery_d_104_19087afe:
+msgid "[_cedrick_] (То, что видишь ты - это следствие, а не причина)"
+msgstr "[_cedrick_] (Lo que ves es una consecuencia, no una causa)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:576 #-#-# translate crowdin gallery_d_104_ee7b618c:
+msgid "[_cedrick_] (Но интересно, как далеко зайдет поощрение сексуальности Вилл со стороны Сьюзан. Возможно я даже смогу это использовать)"
+msgstr "[_cedrick_] (Pero me pregunto hasta dónde llegará la promoción de la sexualidad de la voluntad de Susan. Tal vez incluso pueda usarlo)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:580 #-#-# translate crowdin gallery_d_104_3869266e:
+msgid "[_will_] Отлично, и Рику и тебе нравится! Тогда я полностью довольна, можно идти купаться и загорать!"
+msgstr "[_will_] ¡Perfecto, les gusta a Rick y a ti! Estoy completamente satisfecha; ¡podemos ir a nadar y tomar el sol!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:584 #-#-# translate crowdin gallery_d_104_d76e3b5a:
+msgid "[_susan_] Кхм, д-да!"
+msgstr "[_susan_] Ejem, ¡sí!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:589 #-#-# translate crowdin gallery_d_104_6f7fdb1a:
+msgid "[_uria_] Ох йо, Вилл… ты случаем не потерялась? Стриптиз-клуб в двух кварталах отсюда!!"
+msgstr "[_uria_] Vaya, Will… ¿Te perdiste? ¡El club de striptease queda a dos cuadras de aquí!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:595 #-#-# translate crowdin gallery_d_104_f3569621:
+msgid "[_will_] П-пошел ты, Урия!"
+msgstr "[_will_] ¡Vete, Uriah!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:601 #-#-# translate crowdin gallery_d_104_bb7ee20d:
+msgid "[_kurt_] Эхэхэ, д-да, Вилл, ты видимо забыла принести с собой шест на пляж"
+msgstr "[_kurt_] Jeje, s-sí, Will, parece que olvidaste traer un tubo a la playa."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:605 #-#-# translate crowdin gallery_d_104_f3b81862:
+msgid "[_cedrick_] Урия. Ты случаем не забылся? Мы с тобой уже обсуждали подобное поведение"
+msgstr "[_cedrick_] Uriah. ¿No estarás olvidando tu lugar? Ya hablamos de este comportamiento."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:609 #-#-# translate crowdin gallery_d_104_d241d76a:
+msgid "[_cedrick_] Не испытывай мое терпение, сопляк"
+msgstr "[_cedrick_] No tengas paciencia, moco"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:610 #-#-# translate crowdin gallery_d_104_2aea71ca:
+msgid "[_uria_] ..."
+msgstr "[_uria_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:612 #-#-# translate crowdin gallery_d_104_e5652ec6:
+msgid "[_uria_] Кхм.."
+msgstr "[_uria_] Ejem…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:616 #-#-# translate crowdin gallery_d_104_b6961661:
+msgid "[_uria_] Пойдемте-ка отсюда, парни"
+msgstr "[_uria_] ¡Salgamos de aquí, chicos"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:622 #-#-# translate crowdin gallery_d_104_6116e725:
+msgid "[_laurent_] Эй, Урия, ты что, испугался этого очкастого задрота?"
+msgstr "[_laurent_] Uriah, ¿le tienes miedo de ese idiota?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:628 #-#-# translate crowdin gallery_d_104_8fa2643b:
+msgid "[_uria_] Я сказал пошли отсюда!"
+msgstr "[_uria_] ¡Lo he dicho desde aquí!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:631 #-#-# translate crowdin gallery_d_104_3a6d3077:
+msgid "[_uria_] На другой стороне берега тоже полно отменных сосок, пофоткаем их"
+msgstr "[_uria_] En el otro lado de la costa también está lleno de excelentes pezones, los conseguimos"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:637 #-#-# translate crowdin gallery_d_104_50d7b058:
+msgid "[_kurt_] О, ништяк!"
+msgstr "[_kurt_] ¡Oh, genial!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:641 #-#-# translate crowdin gallery_d_104_07bdde05:
+msgid "....."
+msgstr "…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:644 #-#-# translate crowdin gallery_d_104_5abe76d4:
+msgid "[_will_] С-спасибо, Рик"
+msgstr "[_will_] Gracias, Rick"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:648 #-#-# translate crowdin gallery_d_104_bed08ec5:
+msgid "[_cedrick_] Без проблем. Я должен был сделать это еще когда вы переодевались"
+msgstr "[_cedrick_] No hay problema. Tenía que hacerlo cuando te cambiaste de ropa"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:656 #-#-# translate crowdin gallery_d_104_dad66444:
+msgid "[_susan_] Ох, Рик, ты наш спаситель. Я боялась они будут весь день на нас пялиться"
+msgstr "[_susan_] Oh, Rick, eres nuestro salvador. Tenía miedo de que nos miraran todo el día"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:662 #-#-# translate crowdin gallery_d_104_1e8c42a4:
+msgid "[_will_] Это точно, бррр.."
+msgstr "[_will_] Eso seguro, brrr…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:668 #-#-# translate crowdin gallery_d_104_5780610b:
+msgid "[_cedrick_] Никто не смеет портить вам праздник. Сегодня ваш день, Вилл, Сьюзан. Празднуйте спокойно"
+msgstr "[_cedrick_] Nadie se atreve a arruinar tu fiesta. Es tu día, Will, Susan. ¡Celebra tranquilamente"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:672 #-#-# translate crowdin gallery_d_104_fca2f1f7:
+msgid "[_susan_] Ооов, Рик.."
+msgstr "[_susan_] Oow, Rick."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:678 #-#-# translate crowdin gallery_d_104_51699c63:
+msgid "[_will_] Теперь это не только наш с мамой праздник, но и твой тоже!"
+msgstr "[_will_] Ahora no solo son las vacaciones de nuestra madre, sino también las tuyas."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:684 #-#-# translate crowdin gallery_d_104_b140c9bd:
+msgid "[_cedrick_] Ахах, я, конечно, польщен, Вилл, но как-то странно вписывать меня в праздник, приуроченный ко дню матери"
+msgstr "[_cedrick_] Ahh, ciertamente estoy halagado, Will, pero es extraño escribirme en una fiesta dedicada al día de mi madre"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:688 #-#-# translate crowdin gallery_d_104_dfa66186:
+msgid "[_susan_] Хах, нет, Рик, Вилл права. Ты же теперь как полноценный член нашей семьи.."
+msgstr "[_susan_] Ja, no, Rick, Will tiene razón. Ahora eres un miembro de pleno derecho de nuestra familia."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:692 #-#-# translate crowdin gallery_d_104_ce65a756:
+msgid "[_cedrick_] Ох, это все так мило.. Я правда тронут.."
+msgstr "[_cedrick_] Oh, todo es tan bonito. Estoy muy conmovido."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:693 #-#-# translate crowdin gallery_d_104_405f0b1b:
+msgid "[_cedrick_] А теперь.. Давайте развлекаться!"
+msgstr "[_cedrick_] Y ahora. ¡Vamos a divertirnos!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:699 #-#-# translate crowdin gallery_d_104_187bef21:
+msgid "[_will_] Точно!! Я чур первая добегу до воды!"
+msgstr "[_will_] Seguro!! ¡Voy a hacer el primero en llegar al agua!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:705 #-#-# translate crowdin gallery_d_104_a688979f:
+msgid "[_cedrick_] Н-нет я!"
+msgstr "[_cedrick_] ¡N-no-lo soy!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:711 #-#-# translate crowdin gallery_d_104_c08d978e:
+msgid "[_susan_] Аахах, любите вы между собой соревноваться.."
+msgstr "[_susan_] Aach, te gusta competir entre sí."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:715 #-#-# translate crowdin gallery_d_104_c83f2fe2:
+msgid "[_centered_] {size=37}Семья Вандом вместе с Риком несколько часов вселились на пляже{/size}"
+msgstr "[_centered_] {size=37}La familia Vandom y Rick pasan varias horas en la playa{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:718 #-#-# translate crowdin gallery_d_104_bff6110a:
+msgid "[_cedrick_] Ух, это было насыщенно.."
+msgstr "[_cedrick_] Uf, eso fue intenso…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:719 #-#-# translate crowdin gallery_d_104_d2975ec4:
+msgid "[_cedrick_] (Хммм.. Но кому в этот раз я хочу уделить 'особое внимание'?)"
+msgstr "[_cedrick_] (Hmm… Pero, ¿a quién quiero prestar “atención especial” esta vez?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:723 #-#-# translate crowdin gallery_d_104_18b2e81a:
+msgid "[_cedrick_] (Да, пожалуй что Вилл.. В конце концов она так старалась с костюмом)"
+msgstr "[_cedrick_] (Sí, creo que Will… Al final, se esforzó mucho con el disfraz)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:724 #-#-# translate crowdin gallery_d_104_6c928504:
+msgid "[_cedrick_] (Пожалуй поищу ее возле воды)"
+msgstr "[_cedrick_] (Por favor, mírelo cerca del agua)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:725 #-#-# translate crowdin gallery_d_104_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:726 #-#-# translate crowdin gallery_d_104_07bdde05_1:
+msgid "....."
+msgstr "…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:727 #-#-# translate crowdin gallery_d_104_d1ddaffa:
+msgid "........"
+msgstr "…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:731 #-#-# translate crowdin gallery_d_105_67bb7fb4:
+msgid "[_cedrick_] Хах, вот я тебя и нашел.."
+msgstr "[_cedrick_] Ja, así que te encontré."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:733 #-#-# translate crowdin gallery_d_105_952b64c8:
+msgid "[_will_] Ммм, Рик, а я уже тебя заждалась.."
+msgstr "[_will_] Mmm, Rick, y ya te estoy esperando…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:735 #-#-# translate crowdin gallery_d_105_ec7c2b81:
+msgid "[_will_] Все думала, когда ты придешь.."
+msgstr "[_will_] Pensé que cuando vinieras."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:737 #-#-# translate crowdin gallery_d_105_38f6c80e:
+msgid "[_will_] Начала даже беспокоиться, не уж то тебе не понравился мой костюм.."
+msgstr "[_will_] Empezó a preocuparse, no es que te gustara mi disfraz."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:739 #-#-# translate crowdin gallery_d_105_94a4beb4:
+msgid "[_cedrick_] Костюм вышел отменный. Еще немного и ты была бы голой.."
+msgstr "[_cedrick_] El traje salió excelente. Un poco más y estarías desnudo."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:741 #-#-# translate crowdin gallery_d_105_c19e1acb:
+msgid "[_will_] Ахах, нууу, не настолько.."
+msgstr "[_will_] Jajaja, bueeeno, no tanto…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:743 #-#-# translate crowdin gallery_d_105_d6242b04:
+msgid "[_cedrick_] Ох, я тебя умоляю, одного движения ножниц достаточно, чтобы все твои прелести выскочили наружу"
+msgstr "[_cedrick_] Oh, te lo ruego, un movimiento de tijeras es suficiente para que todos tus encantos salgan"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:745 #-#-# translate crowdin gallery_d_105_6412778a:
+msgid "[_cedrick_] Честно говоря этот, кхм, купальник так сильно натянут, что порой мне кажется что он и безо всякой помощи может порваться"
+msgstr "[_cedrick_] Honestamente hablando, hmm, el traje de baño está tan apretado que a veces me parece que puede romper sin ninguna ayuda"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:747 #-#-# translate crowdin gallery_d_105_29359a6b:
+msgid "[_will_] Ммм, может и так.."
+msgstr "[_will_] Mmm, tal vez So…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:749 #-#-# translate crowdin gallery_d_105_9376bbe3:
+msgid "[_will_] Но я бы предпочла, чтобы ты думал не о том, как сильно натянут мой купальник, а о том, как сильно ты будешь натягивать меня.."
+msgstr "[_will_] Pero preferiría no pensar en lo mucho que se tira de mi traje de baño, pero en lo duro que me tiras…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:751 #-#-# translate crowdin gallery_d_105_bbb0b8dd:
+msgid "[_cedrick_] Ахахах.. Не могу не похвалить твое постоянное стремление ходить по грани. Что сегодня утром, что с этим купальником"
+msgstr "[_cedrick_] Ahah. No puedo evitar elogiar tu deseo constante de caminar al límite. ¿Qué pasa esta mañana, qué pasa con este traje de baño"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:753 #-#-# translate crowdin gallery_d_105_02ba8651:
+msgid "[_will_] Т-ты не сердишься?"
+msgstr "[_will_] ¿No estás ansioso?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:755 #-#-# translate crowdin gallery_d_105_fdd4eb20:
+msgid "[_cedrick_] По началу сердился, но посмотрев на реакцию Сьюзан понял, что такое твое искреннее желание присесть на мой член может дать и положительные плоды"
+msgstr "[_cedrick_] Al principio me enojé, pero al ver la reacción de Susan entendí que tu deseo sincero de sentarte sobre mi verga también puede dar buenos resultados"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:756 #-#-# translate crowdin gallery_d_105_1e3ce339:
+msgid "[_cedrick_] По крайней мере Сьюзан сейчас старается перестроиться и относиться к этому комплиментарно"
+msgstr "[_cedrick_] Al menos Susan ahora está tratando de reconstruirlo y tratarlo de cortesía"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:758 #-#-# translate crowdin gallery_d_105_2417d163:
+msgid "[_will_] Ох, даже так.. Хм, как думаешь, к чему это может привести?"
+msgstr "[_will_] Oh, incluso así… Hmm, ¿a qué crees que podría llevar esto?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:760 #-#-# translate crowdin gallery_d_105_82b56cfc:
+msgid "[_cedrick_] Посмотрим.."
+msgstr "[_cedrick_] Verá…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:762 #-#-# translate crowdin gallery_d_105_d1f7a853:
+msgid "[_will_] Думаешь, мы сможем через какое-то время разыграть при ней небольшую сценку, чтобы проверить?"
+msgstr "[_will_] ¿Crees que podemos jugar una pequeña escena con ella en un tiempo para comprobarlo?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:764 #-#-# translate crowdin gallery_d_105_190c28c8:
+msgid "[_cedrick_] Хах, ты как всегда торопишь события, Вилл.. Думаю время покажет, насколько мы можем раскачать эту лодку"
+msgstr "[_cedrick_] Ja, siempre tienes prisa, Will. Creo que el tiempo dirá cuánto podemos sacudir este barco"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:766 #-#-# translate crowdin gallery_d_105_f2339716:
+msgid "[_cedrick_] Работаем по социальной концепции Окна овертона"
+msgstr "[_cedrick_] Trabajando en el concepto social de overton window"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:768 #-#-# translate crowdin gallery_d_105_96940736:
+msgid "[_will_] Ч-чего?"
+msgstr "[_will_] ¿Qué? ¿Qué?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:770 #-#-# translate crowdin gallery_d_105_6fda5cc7:
+msgid "[_cedrick_] Эм.. Это идея о том, что можно уничтожить моральные принципы любого человека, постепенно ведя его от стадии недопустимого до приемлемого"
+msgstr "[_cedrick_] Ehm… Es la idea de que puedes destruir los principios morales de cualquier persona llevándola poco a poco de lo inadmisible a lo aceptable."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:772 #-#-# translate crowdin gallery_d_105_8ead6522:
+msgid "[_will_] Боже, Рик, ты же даже не из нашего мира, откуда ты все это знаешь?"
+msgstr "[_will_] Dios mío, Rick, ni siquiera eres de nuestro mundo, ¿cómo sabes todo esto?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:774 #-#-# translate crowdin gallery_d_105_de9a074c:
+msgid "[_cedrick_] Хах, я же владею книжным магазином. Провел в нем какое-то время прежде чем выйти в свет"
+msgstr "[_cedrick_] Ja, tengo una librería. Pasé algún tiempo en ella antes de salir al mundo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:776 #-#-# translate crowdin gallery_d_105_552cf1c9:
+msgid "[_will_] Хах, ясно.. Хорошо подготовился"
+msgstr "[_will_] Ja, claro. Bien preparado"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:778 #-#-# translate crowdin gallery_d_105_bcd124bf:
+msgid "[_will_] ..."
+msgstr "[_will_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:780 #-#-# translate crowdin gallery_d_105_fb55101f:
+msgid "[_will_] Подожди-ка, то есть ты не против, чтобы моя мама.. и я…"
+msgstr "[_will_] Espera, es decir, no te importa mi madre… Y yo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:782 #-#-# translate crowdin gallery_d_105_be1e3db0:
+msgid "[_cedrick_] Я пока не знаю, Вилл. Но интересно, как далеко Сьюзан может зайти. И, если верить принципу окна овертона, то зайти она может максимально далеко"
+msgstr "[_cedrick_] Aún no lo sé, Will. Pero me pregunto hasta dónde puede llegar Susan. Y, si usted cree en el principio de la ventana de overton, entonces puede ir lo más lejos posible"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:784 #-#-# translate crowdin gallery_d_105_bbe2a288:
+msgid "[_will_] Ого… Удивлена, что ты не против"
+msgstr "[_will_] Wow… Sorprendido que no te importa"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:786 #-#-# translate crowdin gallery_d_105_dbac91a0:
+msgid "[_cedrick_] (Укрепив узы с Вилл через Сьюзан, я смогу улучшить отношения с ней)"
+msgstr "[_cedrick_] (Al fortalecer los lazos con Will a través de Susan, puedo mejorar la relación con ella)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:788 #-#-# translate crowdin gallery_d_105_a828bc6f:
+msgid "[_cedrick_] (Не стоит забывать, что эффект силы королевы морпионов не вечен)"
+msgstr "[_cedrick_] (No olvides que el efecto del poder del rey de la monarquía no es eterno)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:790 #-#-# translate crowdin gallery_d_105_0b9b294a:
+msgid "[_cedrick_] (Не думаю, что отношение Вилл ко мне станет хуже само собой со временем, но она как минимум может стать менее внушаемой моим действиям)"
+msgstr "[_cedrick_] (No creo que la actitud de voluntad hacia mí empeore con el tiempo, pero al menos puede inculcarse menos en mis acciones)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:792 #-#-# translate crowdin gallery_d_105_e324be30:
+msgid "[_cedrick_] (Поэтому стоит к этому подготовиться. В конце концов она лидер стражниц, нельзя терять с ней связь)"
+msgstr "[_cedrick_] (Por lo que vale la pena prepararse para esto. Al final, ella es la líder de las Guardianas, no se puede perder el contacto con ella)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:794 #-#-# translate crowdin gallery_d_105_ef6eae28:
+msgid "[_will_] Кстати об этом…Мммм, не хочешь уединиться, Рик?"
+msgstr "[_will_] Hablando de eso… Mmmm, ¿quieres que estemos a solas, Rick?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:796 #-#-# translate crowdin gallery_d_105_764bd2f3:
+msgid "[_cedrick_] Кажется возле бассейна есть вместимая туалетная кабина с закрывающейся дверью"
+msgstr "[_cedrick_] Parece estar cerca de la piscina hay una capacidad de la cabina del inodoro con una puerta de cierre"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:798 #-#-# translate crowdin gallery_d_105_20d27035:
+msgid "[_will_] Ну так тогда чего мы стоим тут у воды? Пойдем уже к бассейну"
+msgstr "[_will_] Bueno, entonces, entonces, ¿qué estamos aquí junto al agua? Vamos a la piscina"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:802 #-#-# translate crowdin gallery_d_105_9f86da3a:
+msgid "[_centered_] {size=37}Вилл с Седрик незаметно идут вдвоем в туалет{/size}"
+msgstr "[_centered_] {size=37}Will y Cedric van discretamente juntos al baño{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:805 #-#-# translate crowdin gallery_d_105_70a77c29:
+msgid "[_will_] Мммххх, дааа, Рик, вот так.."
+msgstr "[_will_] Mmkh, sí, Rick, así."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:806 #-#-# translate crowdin gallery_d_105_b858f2dc:
+msgid "[_cedrick_] Тут точно никого нет?"
+msgstr "[_cedrick_] ¿No hay nadie aquí?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:807 #-#-# translate crowdin gallery_d_105_e279af0e:
+msgid "[_will_] Ааахх.. я-я.."
+msgstr "[_will_] Aahh… Yo-yo-yo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:808 #-#-# translate crowdin gallery_d_105_0ee8bf32:
+msgid "[_will_] Мммммм… Я не знаю.. Д-думала ты проверишь.."
+msgstr "[_will_] Mmmmm… No sé. Pensaste que lo comprobarías."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:809 #-#-# translate crowdin gallery_d_105_a0b56dcc:
+msgid "[_cedrick_] Ч-черт, думал ты проверила.."
+msgstr "[_cedrick_] M-mierda, creí que lo habías comprobado…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:810 #-#-# translate crowdin gallery_d_105_680efca9:
+msgid "[_will_] Уфффф…"
+msgstr "[_will_] Uffff…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:815 #-#-# translate crowdin gallery_d_105_399ebefc:
+msgid "[_will_] М-мог бы задаться этим вопросом до того, как начнешь меня трахать.."
+msgstr "[_will_] Podría hacer esta pregunta antes de que empieces a cogerme."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:817 #-#-# translate crowdin gallery_d_105_b16adbbe:
+msgid "[_cedrick_] Я думал ты этим займешься.."
+msgstr "[_cedrick_] Pensé que lo harías."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:819 #-#-# translate crowdin gallery_d_105_05fb1416:
+msgid "[_cedrick_] Хах, но ты видимо была слишком занята, соблазняя меня своей задницей"
+msgstr "[_cedrick_] Ja, pero al parecer estabas demasiado ocupada seduciéndome con el trasero."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:821 #-#-# translate crowdin gallery_d_105_8fa7bde5:
+msgid "[_will_] Аааххх.. А-а ты был слишком занят тем, что хотел вогнать свой член в мою киску"
+msgstr "[_will_] Aahhh… Y-y tú estabas demasiado ocupado intentando hundir tu verga en mi coño"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:823 #-#-# translate crowdin gallery_d_105_f562d6f2:
+msgid "[_will_] Ммммхх.. Н-неужели после всех тех развратностей в темнице, т-тебе все еще мало?"
+msgstr "[_will_] Mmmkh… ¿No es suficiente después de todas las depravaciones en la prisión, todavía no es suficiente?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:825 #-#-# translate crowdin gallery_d_105_fec49b79:
+msgid "[_cedrick_] Это была работа. А сейчас я отдыхаю.."
+msgstr "[_cedrick_] Fue un trabajo. Y ahora estoy descansando…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:827 #-#-# translate crowdin gallery_d_105_5dfa406a:
+msgid "[_will_] Уууухх.. Р-работаешь, трахая беззащитных девиц.. И-и отдыхаешь, т-трахая их же.. В-вместе с их матерями.."
+msgstr "[_will_] Uuuh… T-trabajas cogiendo a chicas indefensas… Y-y descansas cogiéndotelas también… J-junto con sus madres…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:829 #-#-# translate crowdin gallery_d_105_f03fe6d2:
+msgid "[_will_] К-как же хорошо ты, однако, устроился, Рик.. Н-не стыдно тебе."
+msgstr "[_will_] Q-qué bien te las arreglaste, Rick… ¿N-no te da vergüenza?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:831 #-#-# translate crowdin gallery_d_105_c3491ee8:
+msgid "[_cedrick_] Хах, конечно нет. Когда дело касается такой сочной киски, мне как-то не до чувства стыда"
+msgstr "[_cedrick_] Ja, claro que no. Ante un coño tan jugoso, no me queda espacio para la vergüenza."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:833 #-#-# translate crowdin gallery_d_105_dbfc69e5:
+msgid "[_will_] Мммммвв.. К-какой же ты развратник.. И все же в чем-то ты остаешься верен себе.. Ааааххх.."
+msgstr "[_will_] Mmmmv… K-qué pervertido eres… Y, aun así, en cierto modo sigues siendo fiel a ti mismo… Aahhhhhhhh…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:835 #-#-# translate crowdin gallery_d_105_f6f48911:
+msgid "[_susan_] Хм, да где же они.."
+msgstr "[_susan_] Hmm, ¿dónde están…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:837 #-#-# translate crowdin gallery_d_105_ad3cce31:
+msgid "[_cedrick_] Ч-черт, это Сьюзан.. Вилл, не издавай ни звука.."
+msgstr "[_cedrick_] M-mierda, es Susan… Will, no hagas ni un ruido…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:841 #-#-# translate crowdin gallery_d_105_1c555fc1:
+msgid "[_will_] Мммффммм..."
+msgstr "[_will_] Mmmfmm…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:842 #-#-# translate crowdin gallery_d_105_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:844 #-#-# translate crowdin gallery_d_105_8fba1ecf:
+msgid "[_will_] ....."
+msgstr "[_will_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:845 #-#-# translate crowdin gallery_d_105_f89f7db9:
+msgid "[_cedrick_] ....."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:847 #-#-# translate crowdin gallery_d_105_1ddd02b6:
+msgid "[_susan_] Хм, и куда могли подеваться эти двоя.. Ну ладно, наверное далеко заплыли, вот я их в воде и не увидела"
+msgstr "[_susan_] Hmm, y donde estos dos podrían ir. Bueno, probablemente nadamos mucho, así que no los vi en el agua"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:849 #-#-# translate crowdin gallery_d_105_bcd124bf_1:
+msgid "[_will_] ..."
+msgstr "[_will_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:851 #-#-# translate crowdin gallery_d_105_49316299_1:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:853 #-#-# translate crowdin gallery_d_105_9f4b683c:
+msgid "[_will_] Ммммххх.."
+msgstr "[_will_] Mmmxxh…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:854 #-#-# translate crowdin gallery_d_105_ad9c1009:
+msgid "[_cedrick_] Т-тихо.."
+msgstr "[_cedrick_] En Silencio."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:856 #-#-# translate crowdin gallery_d_105_ffd7540e:
+msgid "[_susan_] ..."
+msgstr "[_susan_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:857 #-#-# translate crowdin gallery_d_105_da4fc565:
+msgid "[_susan_] (Это точно был стон за дверью туалета..)"
+msgstr "[_susan_] (Ese fue sin duda un gemido detrás de la puerta del baño…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:858 #-#-# translate crowdin gallery_d_105_eef06af1:
+msgid "[_susan_] (Да, туда мне точно лучше не соваться.. Кто знает какое зрелище меня там ждет..)"
+msgstr "[_susan_] (Sí, es mejor no ir allí. Quién sabe qué tipo de espectáculo me espera allí…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:859 #-#-# translate crowdin gallery_d_105_fb6df819:
+msgid "[_susan_] (По крайней мере теперь знаю что там Рика с Вилл точно нет..)"
+msgstr "[_susan_] (Al menos ahora sé que hay Rick y Will definitivamente no.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:861 #-#-# translate crowdin gallery_d_105_bcd124bf_2:
+msgid "[_will_] ..."
+msgstr "[_will_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:862 #-#-# translate crowdin gallery_d_105_32caa35e:
+msgid "[_cedrick_] Фух.. Пронесло.."
+msgstr "[_cedrick_] Uf… Por poco…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:864 #-#-# translate crowdin gallery_d_105_93bea6ed:
+msgid "[_will_] Мммхх.."
+msgstr "[_will_] Mmkh…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:866 #-#-# translate crowdin gallery_d_105_2f70eebe:
+msgid "[_will_] Т-трахни меня еще сильнее.."
+msgstr "[_will_] C-cógeme aún más…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:868 #-#-# translate crowdin gallery_d_105_1642a625:
+msgid "[_will_] К-как же мне это нравится.."
+msgstr "[_will_] C-cómo me gusta…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:870 #-#-# translate crowdin gallery_d_105_186ffe1f:
+msgid "[_will_] Т-твоя ненасытность.. Пробуждает во мне самой все большие желания.."
+msgstr "[_will_] T-tu insaciabilidad… Despierta en mí todos los grandes deseos."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:872 #-#-# translate crowdin gallery_d_105_31954d77:
+msgid "[_will_] Ааааххх.. Я.. я становлюсь все более развратной.. из-за тебя.."
+msgstr "[_will_] Aahhh… Yo… Me estoy volviendo más depravada. Es tu culpa…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:873 #-#-# translate crowdin gallery_d_105_46767597:
+msgid "[_will_] П-после каждого раза, как ты меня трахаешь.."
+msgstr "[_will_] D-después cada vez que me coges…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:875 #-#-# translate crowdin gallery_d_105_2f736dbb:
+msgid "[_will_] Ммммххх… И у этого эффекта нет предела.."
+msgstr "[_will_] Mmmhl… Y este efecto no tiene límite…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:877 #-#-# translate crowdin gallery_d_105_23438b87:
+msgid "[_will_] М-мне иногда самой страшно.. Ааааххх.. В-вдруг после сотого раза, как ты меня оттрахаешь, я превращусь в твою совсем безмозглую шлюшку?"
+msgstr "[_will_] A veces tengo miedo… Aahhhhhhhh, después de una centésima vez, ¿cómo vas a cogerme, voy a convertir en tu puta completamente sin cerebro?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:880 #-#-# translate crowdin gallery_d_105_68447db9:
+msgid "[_cedrick_] Ахах, а разве это уже не так?"
+msgstr "[_cedrick_] Jajaja, ¿acaso no es así ya?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:882 #-#-# translate crowdin gallery_d_105_f4cfacce:
+msgid "[_will_] Р-рик!.. К-как ты только можешь.. Мммм.. Г-говорить такие слова.. в такой момент.."
+msgstr "[_will_] R-Rick… ¿C-cómo puedes… mmm… d-decir algo así… en un momento como este…?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:884 #-#-# translate crowdin gallery_d_105_df0294e1:
+msgid "[_will_] Я открылась тебе, я правда беспокоюсь.. это серьезно.."
+msgstr "[_will_] Me abrí contigo, estoy muy preocupado. Es serio."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:886 #-#-# translate crowdin gallery_d_105_49316299_2:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:887 #-#-# translate crowdin gallery_d_105_301ba6fa:
+msgid "[_cedrick_] Н-не думаю, что есть повод для беспокойства, Вилл.."
+msgstr "[_cedrick_] N-No creo que haya motivo de preocupación, Will."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:889 #-#-# translate crowdin gallery_d_105_dbe7d757:
+msgid "[_cedrick_] Думаю ты останешься собой, сколько бы я тебя не трахал"
+msgstr "[_cedrick_] Creo que seguirás siendo tú misma, por mucho que te coja."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:891 #-#-# translate crowdin gallery_d_105_c9765b98:
+msgid "[_cedrick_] Не переживай, я не дам тебе потерять себя"
+msgstr "[_cedrick_] No te preocupes, no dejaré que te pierdas"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:893 #-#-# translate crowdin gallery_d_105_d47699c9:
+msgid "[_will_] Ммммххх.. Х-хорошо.. С-спасибо, Рик"
+msgstr "[_will_] Mmmkhhhhhhhhs todo bien. Gracias, Rick"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:895 #-#-# translate crowdin gallery_d_105_19176902:
+msgid "[_cedrick_] (Интересно, заметила ли она сама перемены в своем поведении, после того, как я использовал на ней эссенцию королевы морпионов?)"
+msgstr "[_cedrick_] (¿Se ha dado cuenta del cambio en su comportamiento después de que usé la esencia de la reina marina en Él?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:897 #-#-# translate crowdin gallery_d_105_49316299_3:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:898 #-#-# translate crowdin gallery_d_105_54249c86:
+msgid "[_cedrick_] (Впрочем неважно.. По крайней мере сейчас)"
+msgstr "[_cedrick_] (No importa. Al menos ahora)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:900 #-#-# translate crowdin gallery_d_105_9a855883:
+msgid "[_will_] Ммммххх.. Рик…"
+msgstr "[_will_] Mmmxxh… Rick…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:902 #-#-# translate crowdin gallery_d_105_b810b433:
+msgid "[_will_] Ааххх.. Я… Я кончаю.."
+msgstr "[_will_] Aahhh… Estoy… Estoy corriendo."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:904 #-#-# translate crowdin gallery_d_105_dda50a08:
+msgid "[_cedrick_] Ч-черт, я тоже.. Приготовься.."
+msgstr "[_cedrick_] Ch-d-dam, yo también… Prepárate…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:906 #-#-# translate crowdin gallery_d_105_eb90a788:
+msgid "[_will_] Ммммххх, дааа, залей меня.."
+msgstr "[_will_] Mmmhhh, sííí, lléname…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:909 #-#-# translate crowdin gallery_d_105_e186e1a7:
+msgid "[_cedrick_] П-получай!!"
+msgstr "[_cedrick_] ¡T-toma!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:911 #-#-# translate crowdin gallery_d_105_8e8a31da:
+msgid "[_will_] Дааа…"
+msgstr "[_will_] Sííí…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:913 #-#-# translate crowdin gallery_d_105_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:919 #-#-# translate crowdin gallery_d_105_0fc68c4d:
+msgid "[_cedrick_] Ух, это было хорошо, Вилл.."
+msgstr "[_cedrick_] Uh, eso estuvo bien, Will…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:923 #-#-# translate crowdin gallery_d_105_5b4d998a:
+msgid "[_will_] Ммм, да, мне тоже понравилось.. И твои жесткие действия.. И твои слова поддержки в конце.."
+msgstr "[_will_] Mmm, sí, a mí también me gustó… Y tus duras acciones… Y tus palabras de apoyo al final…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:927 #-#-# translate crowdin gallery_d_105_fc666fd5:
+msgid "[_cedrick_] Хах, это ты про тот момент, когда я назвал тебя шлюхой?"
+msgstr "[_cedrick_] Ja, ¿estás hablando del momento en que te llamé puta?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:931 #-#-# translate crowdin gallery_d_105_e10b3bbd:
+msgid "[_will_] Н-нет, дурак.. Когда ты сказал, что не дашь мне потерять себя.."
+msgstr "[_will_] N-no, tonto. Cuando dijiste que no me dejarías perderme…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:935 #-#-# translate crowdin gallery_d_105_6d5009f0:
+msgid "[_cedrick_] Эм.. Да.. Не знаю, может я теряю хватку, играя с вами в семью.. Но мне нравится"
+msgstr "[_cedrick_] Mm. Sí. No sé, tal vez estoy perdiendo mi agarre jugando contigo. Pero me gusta"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:939 #-#-# translate crowdin gallery_d_105_85ec8677:
+msgid "[_will_] И мне.."
+msgstr "[_will_] Y yo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:941 #-#-# translate crowdin gallery_d_105_eb4f9fe9:
+msgid "[_will_] Да, конечно, это всего лишь игра.. В какой нормальной семье даже приемный отец семейства трахал бы и жену и свою дочь"
+msgstr "[_will_] Sí, por supuesto, es solo un juego. ¿En qué familia normal incluso el padre adoptivo de la familia se cogería tanto a su esposa como a su hija"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:945 #-#-# translate crowdin gallery_d_105_a498b7fe:
+msgid "[_cedrick_] Да на Меридиане по-моему половина всех семей так живет.."
+msgstr "[_cedrick_] Sí, en Meridian, en mi opinión, la mitad de todas las familias viven así."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:949 #-#-# translate crowdin gallery_d_105_eee45765:
+msgid "[_will_] Боже.. Я.. Я про землю.. На земле это не нормально, Рик.."
+msgstr "[_will_] Oh, Dios mío. Yo… Estoy hablando de la tierra. No es normal en la tierra, Rick."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:953 #-#-# translate crowdin gallery_d_105_a01d8e1d:
+msgid "[_cedrick_] Хах, да, я просто подшучиваю над тобой.."
+msgstr "[_cedrick_] Ja, sí, me estoy burlando de ti…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:957 #-#-# translate crowdin gallery_d_105_ec8eac80:
+msgid "[_will_] Но все же.. Тебе приятна наша компания.. Не только за счет секса.. Я это вижу и.. Мама тоже.. Это приятно.."
+msgstr "[_will_] Pero aún así… Eres buena para ser nuestra compañía. No solo sobre el sexo. Lo veo y… Mamá, también. Es agradable…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:961 #-#-# translate crowdin gallery_d_105_49316299_4:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:965 #-#-# translate crowdin gallery_d_105_2a4fafa8:
+msgid "[_will_] Н-ну что, пойдем?"
+msgstr "[_will_] ¿Bien, vamos?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:969 #-#-# translate crowdin gallery_d_105_c5a7a077:
+msgid "[_cedrick_] Давай сначала ты, а я приду через 5-10 минут. Чтобы никто не увидел, что мы вышли из туалета одновременно"
+msgstr "[_cedrick_] Vamos primero a ti y volveré en 5-10 minutos. Para que nadie pueda ver que salimos del baño al mismo tiempo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:973 #-#-# translate crowdin gallery_d_105_539cd41f:
+msgid "[_will_] Д-да, точно. Хорошо, тогда ждем тебя с мамой снаружи"
+msgstr "[_will_] S-sí, cierto. Bien, mamá y yo te esperamos afuera."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:974 #-#-# translate crowdin gallery_d_105_389e0edd:
+msgid "[_cedrick_] Ага, я пока тут.. Займусь другими делами, скажем так"
+msgstr "[_cedrick_] Ajá, estoy aquí por ahora. Haré otras cosas, digamos"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:978 #-#-# translate crowdin gallery_d_105_05c989a5:
+msgid "[_will_] А-ага, поняла тебя.. До скорого"
+msgstr "[_will_] A-aha, lo entiendo. Antes de la velocidad"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:981 #-#-# translate crowdin gallery_d_105_53a1b62e:
+msgid "[_centered_] {size=37}Вилл уходит{/size}"
+msgstr "[_centered_] {size=37}¿Will se va{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:985 #-#-# translate crowdin gallery_d_105_46b01c80:
+msgid "[_cedrick_] Что ж.. Пока тяну время, схожу в туалет.."
+msgstr "[_cedrick_] Bueno… Mientras me tomo el tiempo, iré al baño."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:986 #-#-# translate crowdin gallery_d_105_49316299_5:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:987 #-#-# translate crowdin gallery_d_105_49316299_6:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:988 #-#-# translate crowdin gallery_d_105_49316299_7:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:989 #-#-# translate crowdin gallery_d_105_49fe4aa9:
+msgid "[_cedrick_] Или лучше просто выйти? Думаю уже достаточно времени прошло"
+msgstr "[_cedrick_] ¿O es mejor simplemente salir? Creo que ha pasado bastante tiempo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:990 #-#-# translate crowdin gallery_d_105_87cc3834:
+msgid "[_cedrick_] Хм…"
+msgstr "[_cedrick_] Hmm…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:993 #-#-# translate crowdin gallery_d_105_ef107b3f:
+msgid "[_cedrick_] (Думаю пора уделить Сьюзан немного времени)"
+msgstr "[_cedrick_] (creo que es hora de darle un poco de tiempo a Susan)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:994 #-#-# translate crowdin gallery_d_105_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:995 #-#-# translate crowdin gallery_d_105_07bdde05:
+msgid "....."
+msgstr "…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:996 #-#-# translate crowdin gallery_d_105_d1ddaffa:
+msgid "........"
+msgstr "…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1000 #-#-# translate crowdin gallery_d_106_c7000d9a:
+msgid "[_susan_] Ох, Рик, дорогой, я думала ты пошел купаться с Вилл"
+msgstr "[_susan_] Oh, Rick, cariño, pensé que habías ido a nadar con Will"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1002 #-#-# translate crowdin gallery_d_106_c24dbff9:
+msgid "[_cedrick_] Я собирался, но потом подумал… Это же в конце концов день матери"
+msgstr "[_cedrick_] Iba a hacerlo, pero luego pensé… Era el final del día de la madre"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1004 #-#-# translate crowdin gallery_d_106_3766748a:
+msgid "[_susan_] Ахах, как заботливо с твоей стороны.. Ты у меня всегда такой внимательный и чуткий"
+msgstr "[_susan_] Jajaja, qué considerado de tu parte… Siempre eres tan atento y sensible conmigo."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1006 #-#-# translate crowdin gallery_d_106_7f960604:
+msgid "[_cedrick_] Сложно не быть внимательным и чутким с такой шикарной женщиной. Уж сейчас мое внимание точно всецело приковано к твоим формам"
+msgstr "[_cedrick_] Es difícil no ser atento y sensible con una mujer tan deslumbrante. Ahora mismo, toda mi atención está puesta en tus curvas."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1008 #-#-# translate crowdin gallery_d_106_50950a22:
+msgid "[_susan_] Ах, Рик, знал бы ты, насколько это редкая черта для мужчины. Томас, отец Вилл, был совсем не такой.."
+msgstr "[_susan_] Ah, Rick, ¿sabrías lo raro que es para un hombre? Thomas, el padre de Will, no era así."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1010 #-#-# translate crowdin gallery_d_106_77f0659a:
+msgid "[_susan_] Его мягко говоря нельзя было назвать внимательным. Он всегда предпочитал сосредоточить свое внимание на каких-нибудь очередных махинациях"
+msgstr "[_susan_] No se podía llamar atento para decirlo suavemente. Siempre prefirió centrarse en cualquier otra maquinación"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1012 #-#-# translate crowdin gallery_d_106_f49c6d5d:
+msgid "[_susan_] Жаль, что у Вилл не было такого отца, как ты"
+msgstr "[_susan_] Es una pena que Will no tuviera un padre como tú"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1014 #-#-# translate crowdin gallery_d_106_6dab1cb5:
+msgid "[_susan_] Учитывая ее нрав, она не выросла хулиганкой только потому, что я строго ее воспитывала, взяв на себя мужские обязанности по воспитанию"
+msgstr "[_susan_] Con el carácter que tiene, solo evitó convertirse en una delincuente porque la eduqué con firmeza y asumí también el papel de un padre."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1016 #-#-# translate crowdin gallery_d_106_af4422a3:
+msgid "[_cedrick_] Это позади, Сьюзан, теперь… Теперь я с вами"
+msgstr "[_cedrick_] Está detrás, Susan, ahora… Ahora estoy contigo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1018 #-#-# translate crowdin gallery_d_106_bb85dccb:
+msgid "[_susan_] Да.. И ты не представляешь, как я этому рада, Рик"
+msgstr "[_susan_] Sí… ¿Y no sabes lo feliz que estoy feliz por eso, Rick"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1020 #-#-# translate crowdin gallery_d_106_91446e9a:
+msgid "[_susan_] Впрочем, к черту. Я покажу тебе, насколько я признательна, прямо сейчас"
+msgstr "[_susan_] Al diablo. Te mostraré lo agradecida que estoy, ahora mismo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1025 #-#-# translate crowdin gallery_d_106_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1027 #-#-# translate crowdin gallery_d_106_e2bd6e2d:
+msgid "[_cedrick_] С-сьюзан.. Здесь же люди.."
+msgstr "[_cedrick_] S-susan… La gente aquí…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1029 #-#-# translate crowdin gallery_d_106_8742d7a4:
+msgid "[_cedrick_] Я ценю твою смелость, но разве нам не стоит быть аккуратнее"
+msgstr "[_cedrick_] Aprecio tu valentía, pero ¿no deberíamos tener cuidado"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1031 #-#-# translate crowdin gallery_d_106_97a01d44:
+msgid "[_susan_] Хах, совсем недалеко от нас начинается пляж нужистов. Подумаешь, 200 метров ближе, 200 метров дальше"
+msgstr "[_susan_] Ja, muy cerca de nosotros comienza la playa de los necesitados. Piense, 200 metros más cerca, 200 metros más"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1033 #-#-# translate crowdin gallery_d_106_bb023c93:
+msgid "[_cedrick_] И все же.. А если нагрянут те хулиганы?"
+msgstr "[_cedrick_] Y sin embargo… ¿Y si vienen esos matones?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1035 #-#-# translate crowdin gallery_d_106_7027754a:
+msgid "[_susan_] Я внимательно смотрела за тем, не ходит ли кто-то за твоей спиной, пока мы говорили. Сейчас большинство людей пошли купаться"
+msgstr "[_susan_] Estaba observando cuidadosamente como una mirada a si alguien está caminando a tus espaldas mientras estábamos hablando. Ahora la mayoría de la gente se fue a nadar"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1037 #-#-# translate crowdin gallery_d_106_29464732:
+msgid "[_susan_] Обычно все хотят охладиться в воде примерно в это время, когда солнце высоко"
+msgstr "[_susan_] Por lo general, todo el mundo quiere enfriarse en el agua alrededor de este tiempo cuando el sol está alto"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1039 #-#-# translate crowdin gallery_d_106_cf6b7157:
+msgid "[_susan_] Я прекрасно это знаю, поскольку сама предпочитаю нежиться на солнце, а не плавать"
+msgstr "[_susan_] Lo sé perfectamente, porque prefiero tomar el sol, en lugar de nadar"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1041 #-#-# translate crowdin gallery_d_106_492fc2a0:
+msgid "[_cedrick_] Хах, и это видно по твоей потрясающей загорелой коже"
+msgstr "[_cedrick_] Haah, y se puede ver desde su impresionante piel bronceada"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1043 #-#-# translate crowdin gallery_d_106_f76f128d:
+msgid "[_susan_] Нравится то, что ты видишь, да, Рик? Насладись этим видом, они твои"
+msgstr "[_susan_] Te gusta lo que ves, ¿verdad, el arroz? Disfruten de esta vista, son suyas"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1045 #-#-# translate crowdin gallery_d_106_9649cf51:
+msgid "[_cedrick_] Ох, черт, Сьюзан, будь моя воля, я бы трахнул тебя прямо здесь"
+msgstr "[_cedrick_] Oh, maldita sea, Susan, si fuera mi voluntad, te cogería aquí mismo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1047 #-#-# translate crowdin gallery_d_106_85e6b3f5:
+msgid "[_susan_] А как бы этого хотела я…"
+msgstr "[_susan_] Y cómo me gustaría…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1049 #-#-# translate crowdin gallery_d_106_ffd7540e:
+msgid "[_susan_] ..."
+msgstr "[_susan_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1051 #-#-# translate crowdin gallery_d_106_cfc1a49e:
+msgid "[_susan_] Впрочем…"
+msgstr "[_susan_] Sin Embargo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1053 #-#-# translate crowdin gallery_d_106_9b892027:
+msgid "[_cedrick_] Хах, ты же не собираешься…"
+msgstr "[_cedrick_] Ja, no vas a…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1055 #-#-# translate crowdin gallery_d_106_3e94bab3:
+msgid "[_susan_] А почему нет? Как ты и сказал, это мой день"
+msgstr "[_susan_] ¿Por qué no? Como dijiste, es mi día"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1057 #-#-# translate crowdin gallery_d_106_5b2e7854:
+msgid "[_cedrick_] Одно дело случайно засветить грудь перед незнакомцами, но это. Сьюзан, я даже немного поражен твоей смелостью сегодня"
+msgstr "[_cedrick_] Es un caso para encender accidentalmente los pechos frente a extraños, pero eso es todo. Susan, estoy un poco abrumada por tu coraje hoy"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1059 #-#-# translate crowdin gallery_d_106_72d51e7b:
+msgid "[_susan_] Мы справимся быстро. К тому же прикроемся зонтиком, так что, думаю ничего страшного не произойдет"
+msgstr "[_susan_] Seremos capaces de hacerlo rápidamente. Además, cubriremos con un paraguas, así que creo que no pasará nada terrible"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1061 #-#-# translate crowdin gallery_d_106_152ec2e1:
+msgid "[_cedrick_] Хах, как скажешь. Кто я такой, чтобы отказываться от подобного предложения"
+msgstr "[_cedrick_] Ja, como usted dice. ¿Quién soy yo para rechazar una oferta así"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1066 #-#-# translate crowdin gallery_d_106_9a977b2a:
+msgid "[_susan_] Ложись, Рик, я хочу быть сверху"
+msgstr "[_susan_] Cama, Rick, quiero ser la mejor"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1067 #-#-# translate crowdin gallery_d_106_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1068 #-#-# translate crowdin gallery_d_106_0fd4d656:
+msgid "......"
+msgstr "…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1069 #-#-# translate crowdin gallery_d_106_278c7e29:
+msgid "........."
+msgstr "…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1072 #-#-# translate crowdin gallery_d_106_1499d48a:
+msgid "[_cedrick_] Ого, Сьюзан, ты не перестаешь удивлять меня сегодня"
+msgstr "[_cedrick_] Oh, Susan, nunca dejas de acusarme hoy"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1074 #-#-# translate crowdin gallery_d_106_3d523e25:
+msgid "[_susan_] Мммххх, да, всегда хотела попробовать эту позу. Но ни с кем раньше у меня до подобного не доходило"
+msgstr "[_susan_] Mmmkh, sí, siempre quiso probar esta pose. Pero nunca he tenido eso antes con nadie que nunca he tenido"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1076 #-#-# translate crowdin gallery_d_106_3622fdad:
+msgid "[_cedrick_] Это ведь поза 69?"
+msgstr "[_cedrick_] ¿Es una posición 69?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1078 #-#-# translate crowdin gallery_d_106_9028052d:
+msgid "[_susan_] Аааххх.. В-все верно.."
+msgstr "[_susan_] Aahhh… Muy bien."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1079 #-#-# translate crowdin gallery_d_106_9fb7a876:
+msgid "[_cedrick_] Хах, Сьюзан, а если нас кто-то увидит?"
+msgstr "[_cedrick_] Haah, Susan, ¿y si alguien nos ve?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1081 #-#-# translate crowdin gallery_d_106_e97de73d:
+msgid "[_susan_] Боюсь.. Ммммвв.. Боюсь сейчас меня эта мысль только больше возбудит.."
+msgstr "[_susan_] Me temo… Mmmm… Me temo que ahora esa idea solo me excita más…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1083 #-#-# translate crowdin gallery_d_106_6f422a41:
+msgid "[_cedrick_] Боже, взрослая женщина, но при этом все еще такая развратница"
+msgstr "[_cedrick_] Dios, una mujer adulta, pero sigue siendo un libertino"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1085 #-#-# translate crowdin gallery_d_106_cec7fed8:
+msgid "звук шлепка по попке"
+msgstr "Sonido de una palmada en el trasero"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1086 #-#-# translate crowdin gallery_d_106_ee662add:
+msgid "[_cedrick_] Мне нравится"
+msgstr "[_cedrick_] Me gusta"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1088 #-#-# translate crowdin gallery_d_106_20b86ba0:
+msgid "[_susan_] А-аххх.. Р-рик…"
+msgstr "[_susan_] Ahhhhhhhh R-rick…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1089 #-#-# translate crowdin gallery_d_106_262ae724:
+msgid "[_cedrick_] М? Не нравится, когда так шлепают?"
+msgstr "[_cedrick_] ¿M? ¿No les gusta cuando están dormidos así?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1091 #-#-# translate crowdin gallery_d_106_a546a332:
+msgid "[_susan_] Мммм.. Нет, мне вполне нравится…"
+msgstr "[_susan_] Mmm… No, me gusta bastante…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1093 #-#-# translate crowdin gallery_d_106_abce0cae:
+msgid "[_susan_] Но не мог бы ты перестать болтать и вместо этого заняться уже моей киской?"
+msgstr "[_susan_] ¿Pero podrías dejar de hablar y en su lugar hacer mi coño?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1094 #-#-# translate crowdin gallery_d_106_0188fdfc:
+msgid "[_cedrick_] Хах, так меня еще не затыкали. Что ж, в день матери так уж и быть, закрою на это глаза. Сейчас ты у меня получишь"
+msgstr "[_cedrick_] Ja, nunca me habían hecho callar así. Bien, por ser el Día de la Madre lo dejaré pasar. Ahora verás…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1096 #-#-# translate crowdin gallery_d_106_64f6a295:
+msgid "[_susan_] Ммммххх… О дааа.. Рик…"
+msgstr "[_susan_] Mmmkhxxxxxxxx… Rick…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1098 #-#-# translate crowdin gallery_d_106_2862d2a9:
+msgid "[_susan_] Р-рик.. Оооххх.. В-вау.. Это… Ааааххх.."
+msgstr "[_susan_] Rick. Oh… Vaya. Es… Aaahhhh…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1100 #-#-# translate crowdin gallery_d_106_1825b746:
+msgid "[_susan_] О-о боже… Это так.. Т-так хорошо.. Аааааавв.."
+msgstr "[_susan_] O-oh, Dios… Se siente… t-tan bien… Aaaaaah…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1102 #-#-# translate crowdin gallery_d_106_b4a8c600:
+msgid "[_susan_] Т-такими темпами нас кто-нибудь услышит…"
+msgstr "[_susan_] Al mismo ritmo alguien nos escuchará…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1103 #-#-# translate crowdin gallery_d_106_1896e020:
+msgid "[_susan_] Н-но не останавливайся.. Боже, не останавливайся.."
+msgstr "[_susan_] Pero no te detengas. Oh, Dios mío, no te detengas."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1105 #-#-# translate crowdin gallery_d_106_1834e2cc:
+msgid "[_susan_] П-почему раньше никто не делал со мной подобного…"
+msgstr "[_susan_] P-por qué nadie me ha hecho esto antes…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1107 #-#-# translate crowdin gallery_d_106_4d3b6845:
+msgid "[_cedrick_] Хах, Сьюзан, может ты перестанешь болтать и вместо этого займешься уже моим членом?"
+msgstr "[_cedrick_] Ja, Susan, ¿puedes dejar de hablar y en su lugar me ocuparás del pene?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1109 #-#-# translate crowdin gallery_d_106_50b48d44:
+msgid "[_susan_] А-ах так!? Ммммхх… С-сейчас… Аааахх.. Сейчас ты почувствуешь, как я им займусь"
+msgstr "[_susan_] ¿A-ah, sí!? Mmmhhh… A-ahora… Aaah… Ahora sentirás cómo me encargo de él."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1111 #-#-# translate crowdin gallery_d_106_8e53bdca:
+msgid "[_cedrick_] Ммм, да, так-то лучше.."
+msgstr "[_cedrick_] Mmm, sí, es mejor."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1113 #-#-# translate crowdin gallery_d_106_ea9baba5:
+msgid "[_susan_] Т-ты.. Только не останавливайся.. Я уже.. Ммммвв.. Уже скоро.."
+msgstr "[_susan_] Tú eres… Pero no te detengas. Ya estoy… Mmmv… Es pronto…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1115 #-#-# translate crowdin gallery_d_106_8f68932e:
+msgid "[_cedrick_] Продолжай работать ртом, если хочешь, чтобы мы кончили одновременно"
+msgstr "[_cedrick_] Continúa trabajando con tu boca si quieres que terminemos al mismo tiempo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1117 #-#-# translate crowdin gallery_d_106_20417952:
+msgid "[_susan_] Мммввв.. Д-да.. Я хочу.."
+msgstr "[_susan_] Mmmuvv… D-Da… Quiero…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1118 #-#-# translate crowdin gallery_d_106_8377ca2f:
+msgid "[_cedrick_] Уххх.. Я близок.."
+msgstr "[_cedrick_] Uh… Estoy cerca…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1120 #-#-# translate crowdin gallery_d_106_760ef192:
+msgid "[_susan_] Аааааххх.. И я… Я почти…"
+msgstr "[_susan_] Aahhh… Y yo… Estoy casi…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1122 #-#-# translate crowdin gallery_d_106_6292bdf3:
+msgid "[_cedrick_] Сьюзан, я кончаю"
+msgstr "[_cedrick_] Susan, me vengo."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1124 #-#-# translate crowdin gallery_d_106_6ba7dbb1:
+msgid "[_susan_] И я… Я.. Ааааааааххх…"
+msgstr "[_susan_] Y yo… Yo… ¡Aaaaaaaah!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1127 #-#-# translate crowdin gallery_d_106_915683b8:
+msgid "[_cedrick_] П-получай.."
+msgstr "[_cedrick_] T-toma…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1129 #-#-# translate crowdin gallery_d_106_a20cefa7_2:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1132 #-#-# translate crowdin gallery_d_106_0fd4d656_1:
+msgid "......"
+msgstr "…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1137 #-#-# translate crowdin gallery_d_106_441a73a0:
+msgid "[_cedrick_] Ох, это было хорошо. Даже очень"
+msgstr "[_cedrick_] Oh, eso estuvo bien. Incluso muy bien"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1141 #-#-# translate crowdin gallery_d_106_bee6ff0d:
+msgid "[_susan_] Я.. Ах.. Я такого от тебя не ожидала, Рик… Ты так умело управлялся с моей киской своим ртом"
+msgstr "[_susan_] Yo… Ah… No esperaba eso de ti, Rick… Estabas tan hábilmente controlado con mi coño tu boca"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1145 #-#-# translate crowdin gallery_d_106_6d7562c7:
+msgid "[_susan_] Вижу не только я сегодня полна сюрпризов"
+msgstr "[_susan_] Veo no solo estoy llena de sorpresas hoy"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1149 #-#-# translate crowdin gallery_d_106_96d10719:
+msgid "[_cedrick_] О, думаю ты еще многое обо мне узнаешь, Сьюзан"
+msgstr "[_cedrick_] Oh, creo que descubrirás más sobre mí, Susan"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1153 #-#-# translate crowdin gallery_d_106_10aca67d:
+msgid "[_susan_] Ммм, если все твои секреты также хороши, то я буду ждать с нетерпением"
+msgstr "[_susan_] Mmm, si todos tus secretos también son buenos, estaré esperando"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1157 #-#-# translate crowdin gallery_d_106_7c333207:
+msgid "[_cedrick_] Поверь, тебе понравится… А сейчас… Эм…"
+msgstr "[_cedrick_] Créeme, te encantará… Y ahora…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1158 #-#-# translate crowdin gallery_d_106_10f8e58c:
+msgid "[_cedrick_] Не хотел бы спрашивать подобное после бурного секса, но… Не подскажешь, где на этом пляже туалет?"
+msgstr "[_cedrick_] No querría pedir algo como esto después de un sexo tormentoso, pero… ¿Puedes decirme dónde está el baño en esta playa?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1162 #-#-# translate crowdin gallery_d_106_79706582:
+msgid "[_susan_] Хах. Возле бассейна, там рядом еще открытые душевые"
+msgstr "[_susan_] Ja. Junto a la piscina también hay duchas abiertas."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1164 #-#-# translate crowdin gallery_d_106_a2dc6abc:
+msgid "[_cedrick_] Понял, тогда я быстро"
+msgstr "[_cedrick_] Entendido, entonces me daré prisa."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1168 #-#-# translate crowdin gallery_d_106_afa75666:
+msgid "[_susan_] Можешь не торопиться, я пока как раз позагораю. Думаю мне нужно будет немного перевести дух после такого"
+msgstr "[_susan_] Puede que no tenga prisa, solo estoy tomando el sol. Creo que voy a respirar un poco después de eso"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1169 #-#-# translate crowdin gallery_d_106_1a0cd96c:
+msgid "[_cedrick_] Хах, как скажешь"
+msgstr "[_cedrick_] Ja, como usted dice"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1172 #-#-# translate crowdin gallery_d_106_a20cefa7_3:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1174 #-#-# translate crowdin gallery_d_106_0fd4d656_2:
+msgid "......"
+msgstr "…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1176 #-#-# translate crowdin gallery_d_106_21f37b24:
+msgid "[_centered_] {size=37}В туалете возле бассейна{/size}"
+msgstr "[_centered_] {size=37}En el baño cerca de la piscina{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1179 #-#-# translate crowdin gallery_d_106_a10d4bc6:
+msgid "[_cedrick_] (Ух, черт, долго же я терпел.. Хорошо, что ближайшая кабинка была свободна..)"
+msgstr "[_cedrick_] (Oh, mierda, he sido paciente durante mucho tiempo. Es bueno que la cabina más cercana fuera gratis.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1180 #-#-# translate crowdin gallery_d_106_539bc623:
+msgid "[_cedrick_] (Пожалуй, пора возвращаться к Вилл и Сьюзан)"
+msgstr "[_cedrick_] (Por favor, es hora de volver a Will y Susan)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1181 #-#-# translate crowdin gallery_d_106_ebac0e48:
+msgid "[_cedrick_] (Но перед этим, хм..)"
+msgstr "[_cedrick_] (Pero antes de eso, hm…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1184 #-#-# translate crowdin gallery_d_106_b16408d5:
+msgid "[_cedrick_] (Возможно стоит осмотреться перед уходом, на всякий случай. Вдруг Урия со своими дружками засели в одном из туалетов)"
+msgstr "[_cedrick_] (Quizá convenga echar un vistazo antes de irme, por si acaso. Puede que Uriah y sus amigos estén escondidos en alguno de los baños.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1185 #-#-# translate crowdin gallery_d_106_1a6b5ab8:
+msgid "[_cedrick_] (За этими отморозками нужен глаз да глаз.. Не хочу, чтобы у них остался какой-то компрометирующий материал)"
+msgstr "[_cedrick_] (Detrás de estos matones necesitan un ojo y un ojo. No quiero que tengan ningún material comprometedor)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1186 #-#-# translate crowdin gallery_d_106_8e758204:
+msgid "[_cedrick_] (С другой стороны, было бы странно рыскать по кабинкам в общественном туалете…)"
+msgstr "[_cedrick_] (Por otro lado, sería extraño recorrer las cabinas en el baño público…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1187 #-#-# translate crowdin gallery_d_106_a20cefa7_4:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1188 #-#-# translate crowdin gallery_d_106_3469df8c:
+msgid "[_cedrick_] (Думаю предосторожность не бывает лишней.. Не в случае трех назойливых булли)"
+msgstr "[_cedrick_] (No creo que la precaución sea demasiado… No en el caso de tres toros molestos)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1190 #-#-# translate crowdin gallery_d_106_c8b2419e:
+msgid "[_centered_] {size=37}Седрик начинает проверять кабинки{/size}"
+msgstr "[_centered_] {size=37}Cedric comienza a revisar las cabinas{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1194 #-#-# translate crowdin gallery_d_107_ea2c6263:
+msgid "[_cedrick_] Ч-что за.."
+msgstr "[_cedrick_] ¿Q-qué…?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1195 #-#-# translate crowdin gallery_d_107_aa8fccb0:
+msgid "[_cedrick_] (Какого черта…)"
+msgstr "[_cedrick_] (Qué diablos…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1199 #-#-# translate crowdin gallery_d_107_1ae50990:
+msgid "[_cedrick_] (Что за хрень тут вообще происходит..)"
+msgstr "[_cedrick_] (Qué diablos está pasando aquí en absoluto.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1200 #-#-# translate crowdin gallery_d_107_59bddb17:
+msgid "[_cedrick_] (Кто это вообще?)"
+msgstr "[_cedrick_] (¿Quién es en absoluto?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1201 #-#-# translate crowdin gallery_d_107_0848b971:
+msgid "[_cedrick_] (Судя по костюму, она из спасателей, которые достают тонущих людей из воды)"
+msgstr "[_cedrick_] (A juzgar por el traje, ella es de los rescatistas que se ahogan a la gente fuera del agua)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1202 #-#-# translate crowdin gallery_d_107_583e4848:
+msgid "[_cedrick_] (Мне как раз показалось странным, что за пляжем и бассейном никто не присматривает…)"
+msgstr "[_cedrick_] (Solo pensé que era extraño que nadie estuviera cuidando la playa y la piscina…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1203 #-#-# translate crowdin gallery_d_107_057ec2db:
+msgid "[_cedrick_] (Видимо эта девушка и должна была наблюдать за пляжем, а вместо этого привязана здесь..)"
+msgstr "[_cedrick_] (Aparentemente esta chica tenía que ver la playa, y en su lugar atado aquí.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1204 #-#-# translate crowdin gallery_d_107_8a1d9593:
+msgid "[_cedrick_] (Черт, кто вообще мог устроить подобное?)"
+msgstr "[_cedrick_] (Maldita sea, ¿quién podría haber arreglado tal cosa?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1205 #-#-# translate crowdin gallery_d_107_cb41bb57:
+msgid "[_cedrick_] (Даже для той троицы это было бы слишком. Не думаю, что это они)"
+msgstr "[_cedrick_] (Incluso para ese trío sería demasiado. No creo que hayan sido ellos.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1206 #-#-# translate crowdin gallery_d_107_0a71e397:
+msgid "[_cedrick_] (Проклятье…)"
+msgstr "[_cedrick_] (Maldita sea…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1207 #-#-# translate crowdin gallery_d_107_fb45f7cc:
+msgid "[_cedrick_] (Как бы никто не подумал, что это я с ней такое сделал..)"
+msgstr "[_cedrick_] (Nadie pensó que fuera yo para ella.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1208 #-#-# translate crowdin gallery_d_107_c53562ff:
+msgid "[_cedrick_] (У некоторых людей все еще свежа в памяти история с судом, боюсь я буду первым, на кого подумают, если обнаружат эту девчонку..)"
+msgstr "[_cedrick_] (Algunas personas todavía tienen una historia fresca en la corte, me temo que seré el primero en pensar en si encuentran a esta chica…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1209 #-#-# translate crowdin gallery_d_107_2ef90216:
+msgid "[_cedrick_] (...)"
+msgstr "[_cedrick_] (…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1210 #-#-# translate crowdin gallery_d_107_e9b23976:
+msgid "[_cedrick_] (Черт, а она вообще жива?)"
+msgstr "[_cedrick_] (Maldita sea, ¿está viva?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1211 #-#-# translate crowdin gallery_d_107_9080f983:
+msgid "[_cedrick_] (Думаю стоит вытащить этот свисток и проверить. К тому же лишний шум это точно не то, что мне сейчас нужно…)"
+msgstr "[_cedrick_] (Creo que vale la pena sacar este silbato y salir. Además, el ruido definitivamente no es lo que necesito ahora.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1212 #-#-# translate crowdin gallery_d_107_e2b33dc1:
+msgid "[_cedrick_] (Но, с другой стороны… Чем дольше я здесь нахожусь, тем больше рискую быть застуканным рядом с этой девчонкой…)"
+msgstr "[_cedrick_] (Pero, por otro lado… Cuanto más tiempo estoy aquí, más me arriesga a ser atrapado junto a esta chica…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1218 #-#-# translate crowdin gallery_d_107_b45272b2:
+msgid "[_ginger_girl_] Кха.. Кхе-кхе.. Ааахх.. Ааххххх.."
+msgstr "[_ginger_girl_] Kha… Cof-Cof… Aahh… Ahhhhhhhh"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1220 #-#-# translate crowdin gallery_d_107_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1222 #-#-# translate crowdin gallery_d_107_c21581ac:
+msgid "[_ginger_girl_] М-мистер Гордон, это вы?"
+msgstr "[_ginger_girl_] M.M. Gordon, ¿eres tú?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1224 #-#-# translate crowdin gallery_d_107_f89f7db9:
+msgid "[_cedrick_] ....."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1226 #-#-# translate crowdin gallery_d_107_96662e69:
+msgid "[_ginger_girl_] П-прошу, освободите меня.. Я.. Я больше не буду вам перечить.."
+msgstr "[_ginger_girl_] P-por favor, libéreme… Yo… Ya no volveré a contradecirlo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1228 #-#-# translate crowdin gallery_d_107_4c0bfc57:
+msgid "[_cedrick_] .........."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1230 #-#-# translate crowdin gallery_d_107_4a4aa280:
+msgid "[_ginger_girl_] М-можете пялиться и лапать у бассейна кого угодно.. Я-я вам больше ни слова не скажу.. Т-только пожалуйста, отпустите меня…"
+msgstr "[_ginger_girl_] Puedes mirar y golpear por la piscina de cualquiera. Ya no te estoy diciendo una palabra. Por favor, déjame ir…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1232 #-#-# translate crowdin gallery_d_107_cf61c705:
+msgid "[_cedrick_] ............."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1233 #-#-# translate crowdin gallery_d_107_2ae596e9:
+msgid "[_cedrick_] (Ч-что!? Гордон… Какого хер…)"
+msgstr "[_cedrick_] (¿Q-qué? Gordon… ¿Qué mier…?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1234 #-#-# translate crowdin gallery_d_107_9cabb6da:
+msgid "Звук открывающейся входной двери в туалет"
+msgstr "El sonido de la puerta de entrada de apertura al inodoro"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1235 #-#-# translate crowdin gallery_d_107_3d008b93:
+msgid "[_cedrick_] (Черт, тут еще кто-то… Надо срочно сваливать в другую кабинку!)"
+msgstr "[_cedrick_] (Maldita sea, hay alguien más aquí… ¡Necesitamos tirar urgentemente en otra cabina!)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1240 #-#-# translate crowdin gallery_d_107_9359a246:
+msgid "[_kurt_] Фак, не думал, что на пляже нудистов будет такой голяк.."
+msgstr "[_kurt_] Mierda, no pensé que una playa nudista estuviera tan vacía…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1248 #-#-# translate crowdin gallery_d_107_0b84c3f5:
+msgid "[_laurent_] Реально, так много голых баб и при этом все такие страшные"
+msgstr "[_laurent_] Realmente, tantas mujeres desnudas y todas tan aterradoras"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1254 #-#-# translate crowdin gallery_d_107_d87c88c0:
+msgid "[_kurt_] Точняк, как будто красивые телки туда и не ходят. У всех еще и сиськи такие обвисшие, фууу"
+msgstr "[_kurt_] Exacto. Parece que las chicas guapas ni siquiera van allí. Y todas tienen las tetas caídas. Puaj…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1261 #-#-# translate crowdin gallery_d_107_2140d66b:
+msgid "[_laurent_] Да и вообще когда на кучу грудей смотришь как-то уже даже не встает. Зря только свои причиндалы светили, чтобы туда пройти"
+msgstr "[_laurent_] Sí, y cuando ves tantas tetas juntas, ya ni se te para. Y pensar que enseñamos nuestras vergas solo para entrar…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1266 #-#-# translate crowdin gallery_d_107_811347de:
+msgid "[_uria_] А я говорил вам, идиоты. Весь интерес фоткать голых девок в том, что они на это не соглашались"
+msgstr "[_uria_] Te lo dije, idiotas. Todo el interés de fotografiar a las chicas desnudas es que no estaban de acuerdo con esto"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1270 #-#-# translate crowdin gallery_d_107_7fdb7c56:
+msgid "[_uria_] Когда все вокруг добровольно голые, в этом уже нет такого кайфа. Нет адреналина, нет той самой перчинки"
+msgstr "[_uria_] Cuando todos los que están a su alrededor están voluntariamente desnudos, no hay tal alto. Sin adrenalina, sin pimienta"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1276 #-#-# translate crowdin gallery_d_107_cb84ca24:
+msgid "[_kurt_] Капец, Урия, ну ты конечно голова. Знаешь толк во всяких извращениях"
+msgstr "[_kurt_] Mierda, Uriah, sí que sabes pensar. Entiendes de toda clase de perversiones."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1284 #-#-# translate crowdin gallery_d_107_7d950e1d:
+msgid "[_laurent_] Ага, не зря ты лидер нашей шайки"
+msgstr "[_laurent_] Ajá, no eres la líder de nuestra pandilla"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1285 #-#-# translate crowdin gallery_d_107_d1d90c22:
+msgid "[_cedrick_] (Мда, ну и отморозки… Хотя, как ни странно, в словах Урии даже есть здравое зерно)"
+msgstr "[_cedrick_] (Menudos salvajes… Aunque, curiosamente, hay algo sensato en lo que dijo Uriah.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1292 #-#-# translate crowdin gallery_d_107_2d494ef0:
+msgid "[_uria_] Ладно, ушлепки, идите ссать уже, не задерживайтесь"
+msgstr "[_uria_] Bien, chupando, ve a chupar ya, no te dejes"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1298 #-#-# translate crowdin gallery_d_107_03e912be:
+msgid "[_kurt_] А ты, Урия?"
+msgstr "[_kurt_] ¿Y tú, Uriah?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1304 #-#-# translate crowdin gallery_d_107_1ebb2338:
+msgid "[_uria_] Я поссал пока мы плавали"
+msgstr "[_uria_] Me oriné mientras nadábamos."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1310 #-#-# translate crowdin gallery_d_107_d18cb9e7:
+msgid "[_laurent_] Хах, умно умно"
+msgstr "[_laurent_] Ja, inteligentemente inteligente"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1317 #-#-# translate crowdin gallery_d_107_f89f7db9_1:
+msgid "[_cedrick_] ....."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1323 #-#-# translate crowdin gallery_d_107_7352a9f8:
+msgid "[_kurt_] Блин, эта кабинка закрыта…"
+msgstr "[_kurt_] Maldita sea, esta cabina está cerrada…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1330 #-#-# translate crowdin gallery_d_107_2c169622:
+msgid "[_uria_] Так сходи в другую, дубина"
+msgstr "[_uria_] Así que ve a otro, club"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1334 #-#-# translate crowdin gallery_d_107_afd49435:
+msgid "[_cedrick_] (Черт, он же сейчас…)"
+msgstr "[_cedrick_] (Maldita sea, ahora está…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1335 #-#-# translate crowdin gallery_d_107_1f3a49f6:
+msgid "[_kurt_] Эм… ребят…"
+msgstr "[_kurt_] Mm… Chicos…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1341 #-#-# translate crowdin gallery_d_107_fea0cba9:
+msgid "[_laurent_] Че такое?"
+msgstr "[_laurent_] ¿Cómo es?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1348 #-#-# translate crowdin gallery_d_107_eb5734b0:
+msgid "[_uria_] Боже, Курт, только не говори, что ты опять удивляешься огромной какахе, которая засорила туалет. Ей богу, как маленький ребе.."
+msgstr "[_uria_] Dios, Kurt, no me digas que te sorprende de nuevo el enorme cacao que ensució el inodoro. Dios, como un pequeño rabino."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1350 #-#-# translate crowdin gallery_d_107_31ef9170:
+msgid "[_uria_] ...."
+msgstr "[_uria_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1351 #-#-# translate crowdin gallery_d_107_2f8b26a4:
+msgid "[_laurent_] ....."
+msgstr "[_laurent_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1352 #-#-# translate crowdin gallery_d_107_fc2c8db6:
+msgid "[_kurt_] ....."
+msgstr "[_kurt_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1355 #-#-# translate crowdin gallery_d_107_5e01e490:
+msgid "[_uria_] Ебаааать, вот это девка нам подвернулась!"
+msgstr "[_uria_] ¡Joder, qué chica nos encontramos!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1356 #-#-# translate crowdin gallery_d_107_dbc3919d:
+msgid "[_laurent_] Эм, Урия.. Думаешь, нам стоит.."
+msgstr "[_laurent_] Eh, Uriah… ¿Crees que deberíamos…?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1358 #-#-# translate crowdin gallery_d_107_ec0ec8e1:
+msgid "[_uria_] Конечно стоит, ты только посмотри на эту красоту"
+msgstr "[_uria_] De seguro que merece la pena, solo miras esta belleza"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1359 #-#-# translate crowdin gallery_d_107_9cca1ddb:
+msgid "[_uria_] Я до этого был недоволен нашим уловом, всего пара каких-то фоток. К тому же на одном телефоне тот урод Рик все потер"
+msgstr "[_uria_] Estaba insatisfecho con nuestra captura, solo un par de fotos. Además, en un teléfono el monstruo Rick toda la pérdida"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1360 #-#-# translate crowdin gallery_d_107_3eca80ee:
+msgid "[_uria_] Но вот это. Черт, мужики, эта девчонка сделает наш день"
+msgstr "[_uria_] Pero éste. Maldita sea, esta chica hará nuestro día"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1362 #-#-# translate crowdin gallery_d_107_53aecb90:
+msgid "[_ginger_girl_] Мммххх…"
+msgstr "[_ginger_girl_] Mmkh…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1363 #-#-# translate crowdin gallery_d_107_29dbe3db:
+msgid "[_kurt_] А что если нас застукают? Это же…"
+msgstr "[_kurt_] ¿Y si nos atrapan? Es el…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1365 #-#-# translate crowdin gallery_d_107_fa59682d:
+msgid "[_uria_] Да не ссыте вы, она тут явно уже не один час и что-то никто еще копов не вызвал. Если кто-то оставил здесь такую соску, значит все под контролем"
+msgstr "[_uria_] No te satures, obviamente no es una hora y no se ha llamado a la policía de nadie más. Si alguien dejó una píldora así aquí, entonces todo está bajo control"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1366 #-#-# translate crowdin gallery_d_107_aa57ccd9:
+msgid "[_laurent_] Под чьим контролем?"
+msgstr "[_laurent_] ¿Bajo control de quién?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1368 #-#-# translate crowdin gallery_d_107_1923e7ad:
+msgid "[_uria_] Боже, да какая разница. Вы за всю свою жизнь столько вопросов не задавали, что с вами такое?"
+msgstr "[_uria_] Dios, ¿cuál es la diferencia? ¿Alguna vez te has preguntado qué te pasa?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1370 #-#-# translate crowdin gallery_d_107_af2f3115:
+msgid "[_uria_] Надо ее отвязать и давайте уже трахнем ее"
+msgstr "[_uria_] Hay que desatarla y cogérnosla de una vez."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1372 #-#-# translate crowdin gallery_d_107_5c77d3ce:
+msgid "[_kurt_] ......"
+msgstr "[_kurt_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1374 #-#-# translate crowdin gallery_d_107_23e4300c:
+msgid "[_laurent_] ......"
+msgstr "[_laurent_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1377 #-#-# translate crowdin gallery_d_107_b5ce34f5:
+msgid "[_uria_] Да, вот так, сучка, получай.."
+msgstr "[_uria_] Sí, eso es, perra, consigue…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1378 #-#-# translate crowdin gallery_d_107_53aecb90_1:
+msgid "[_ginger_girl_] Мммххх…"
+msgstr "[_ginger_girl_] Mmkh…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1379 #-#-# translate crowdin gallery_d_107_1878de02:
+msgid "[_kurt_] Ох, черт, это горячо.."
+msgstr "[_kurt_] Oh, maldita sea, hace calor…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1380 #-#-# translate crowdin gallery_d_107_2eba7973:
+msgid "[_laurent_] Да, зря мы мешкали.."
+msgstr "[_laurent_] Sí, no debimos perder el tiempo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1381 #-#-# translate crowdin gallery_d_107_1c2b47d7:
+msgid "[_uria_] Черт, эта девчонка хороша. Сразу заглотила мой член"
+msgstr "[_uria_] Maldita sea, esta chica es buena. Inmediatamente me tragó la verga"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1382 #-#-# translate crowdin gallery_d_107_eece456c:
+msgid "[_kurt_] Фак, я тоже хочу"
+msgstr "[_kurt_] Mierda, yo también quiero…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1383 #-#-# translate crowdin gallery_d_107_b7de8644:
+msgid "[_laurent_] Может она нам хотя бы подрочит?"
+msgstr "[_laurent_] ¿Puede al menos ser adolescente de nosotros?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1384 #-#-# translate crowdin gallery_d_107_58e66727:
+msgid "[_uria_] Думаю можем развязать ей руки, она не сбежит"
+msgstr "[_uria_] ¿Crees que podemos desatar sus manos, no escapará"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1388 #-#-# translate crowdin gallery_d_107_9a63b799:
+msgid "[_kurt_] Ох, черт…"
+msgstr "[_kurt_] Oh, maldita sea…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1389 #-#-# translate crowdin gallery_d_107_3c95bd79:
+msgid "[_laurent_] Ммм, да, вот так…"
+msgstr "[_laurent_] Mmm, sí, así…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1390 #-#-# translate crowdin gallery_d_107_1a673b86:
+msgid "[_uria_] Хах, так я и думал. Послушно взялась за члены"
+msgstr "[_uria_] Ja, eso pensé. Se puso obedientemente con las vergas."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1391 #-#-# translate crowdin gallery_d_107_17fd5ee5:
+msgid "[_uria_] Видимо не мало времени она тут провела, раз уже смирилась со своим положением?"
+msgstr "[_uria_] ¿Tal vez no está teniendo mucho tiempo aquí, ya que ya ha llegado a un acuerdo con su posición?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1392 #-#-# translate crowdin gallery_d_107_d1c1c5ac:
+msgid "[_kurt_] А может ей просто нравится?"
+msgstr "[_kurt_] ¿Le gusta?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1393 #-#-# translate crowdin gallery_d_107_cd8772d0:
+msgid "[_laurent_] Черт, мне это напомнило ту девчонку, что дрочила у нас в школе прямо в классе"
+msgstr "[_laurent_] Maldita sea, me recordó a la chica que se estaba masturbando en nuestra escuela en el aula"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1394 #-#-# translate crowdin gallery_d_107_293396bb:
+msgid "[_uria_] Элион? Хах, черт, было дело"
+msgstr "[_uria_] ¿Elyon? Ja, mierda, sí pasó."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1395 #-#-# translate crowdin gallery_d_107_d0cc784e:
+msgid "[_kurt_] Твою мать, мы должны были с ней развлекаться так, как сейчас развлекаемся с этой рыжей девчонкой"
+msgstr "[_kurt_] Tu madre, tuvimos que divertirnos con ella ya que ahora tenemos a esta chica pelirroja"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1396 #-#-# translate crowdin gallery_d_107_2c800abf:
+msgid "[_laurent_] И у нас бы получилось, если бы не этот блондинистый очкастый урод…"
+msgstr "[_laurent_] Y habríamos tenido éxito si no fuera por este monstruo rubio-neblinoso…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1397 #-#-# translate crowdin gallery_d_107_573e7c00:
+msgid "[_uria_] Да, Рик уже который раз путает нам карты. Что тогда, что сегодня.. Меня начинает это раздражать"
+msgstr "[_uria_] Sí, Rick está una vez confundido con nosotros con tarjetas. ¿Qué pasa entonces, qué pasa hoy… Estoy empezando a irritarlo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1398 #-#-# translate crowdin gallery_d_107_15dbbf36:
+msgid "[_uria_] Но сейчас это не важно.. Уууххх, эта девка так хорошо сосет, что я уже готов забыть и об Элион, и об этом уроде Рике"
+msgstr "[_uria_] Pero eso ya no importa… Uuuh, esta mujer la chupa tan bien que estoy dispuesto a olvidarme de Elyon y de ese idiota de Rick."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1399 #-#-# translate crowdin gallery_d_107_35d0485f:
+msgid "[_kurt_] Черт, я тоже хочу…"
+msgstr "[_kurt_] Maldita sea, quiero…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1400 #-#-# translate crowdin gallery_d_107_cc1e90c0:
+msgid "[_laurent_] И я.."
+msgstr "[_laurent_] Y Yo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1401 #-#-# translate crowdin gallery_d_107_d0988391:
+msgid "[_uria_] Ух, я сейчас кончу и можем поменяться"
+msgstr "[_uria_] Uff, estoy por correrme y luego podemos turnarnos."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1402 #-#-# translate crowdin gallery_d_107_cc8aee47:
+msgid "[_kurt_] Кто следующий, Лоран?"
+msgstr "[_kurt_] ¿Quién sigue, Laurent?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1403 #-#-# translate crowdin gallery_d_107_81c166c7:
+msgid "[_laurent_] Чур я"
+msgstr "[_laurent_] Yo primero"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1404 #-#-# translate crowdin gallery_d_107_5da6bf67:
+msgid "[_kurt_] Давай на камень-ножницы-бумага?"
+msgstr "[_kurt_] Subámonos a la tijera de piedra."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1405 #-#-# translate crowdin gallery_d_107_69b95eed:
+msgid "[_laurent_] Окей"
+msgstr "[_laurent_] ¿Está bien"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1406 #-#-# translate crowdin gallery_d_107_ae06b261:
+msgid "[_kurt_] Камень.."
+msgstr "[_kurt_] Piedra…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1407 #-#-# translate crowdin gallery_d_107_59b5c676:
+msgid "[_laurent_] Ножницы…"
+msgstr "[_laurent_] Tijeras…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1408 #-#-# translate crowdin gallery_d_107_51f108b9:
+msgid "[_kurt_] Бумага!"
+msgstr "[_kurt_] ¡Papel!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1409 #-#-# translate crowdin gallery_d_107_1f4f547f:
+msgid "[_laurent_] Бля, я проиграл.."
+msgstr "[_laurent_] Mierda, perdí…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1410 #-#-# translate crowdin gallery_d_107_1f6605fc:
+msgid "[_uria_] Какие же вы имбецилы.."
+msgstr "[_uria_] ¿Qué eres tú como imbéciles?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1411 #-#-# translate crowdin gallery_d_107_a7d93511:
+msgid "[_cedrick_] (Думаю самое время мне валить отсюда, пока они отвлеклись. Еще повезло, что они не выбрались из кабинки)"
+msgstr "[_cedrick_] (Creo que es hora de que salga de aquí mientras están distraídos. Todavía tiene suerte de que no salieron de la cabina)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1414 #-#-# translate crowdin gallery_d_107_56572925:
+msgid "[_centered_] {size=37}Седрик покидает туалет у бассейна{/size}"
+msgstr "[_centered_] {size=37}Cedric sale del baño junto a la piscina{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1417 #-#-# translate crowdin gallery_d_107_5be99959:
+msgid "[_cedrick_] (Черт, как-то даже жаль оставлять эту девушку там одну с этими отморозками…)"
+msgstr "[_cedrick_] (Mierda, hasta me da pena dejar a esta chica sola con esos matones…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1418 #-#-# translate crowdin gallery_d_107_e3920289:
+msgid "[_cedrick_] (Но, лучше лишний раз не думать об этом…)"
+msgstr "[_cedrick_] (Pero es mejor no volver a pensarlo)."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1419 #-#-# translate crowdin gallery_d_107_b1ed8457:
+msgid "[_cedrick_] (Да, просто забуду об этом. Сделаю вид, как будто ничего не видел. Лишние проблемы мне не нужны)"
+msgstr "[_cedrick_] (Sí, me olvidaré de ello. Fingiré que no vi nada. No necesito ningún problema innecesario)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1422 #-#-# translate crowdin gallery_d_107_2ef90216_1:
+msgid "[_cedrick_] (...)"
+msgstr "[_cedrick_] (…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1423 #-#-# translate crowdin gallery_d_107_df3c80d2:
+msgid "[_cedrick_] (К черту, меня это не касается)"
+msgstr "[_cedrick_] (Al diablo, esto no es asunto mío.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1424 #-#-# translate crowdin gallery_d_107_2689083e:
+msgid "[_cedrick_] (Лучше убираться отсюда как можно скорее)"
+msgstr "[_cedrick_] (Es mejor salir de aquí lo antes posible)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1425 #-#-# translate crowdin gallery_d_107_37037180:
+msgid "[_cedrick_] (Еще одна история с судом - это последнее, чего я бы сейчас хотел)"
+msgstr "[_cedrick_] (Otra historia con una corte es lo último que me gustaría ahora)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1426 #-#-# translate crowdin gallery_d_107_bb4b4cf4:
+msgid "[_cedrick_] (Я и в тот раз то выкарабкался только благодаря компромату, который украл у Гордона)"
+msgstr "[_cedrick_] (La vez anterior solo salí del apuro gracias al material comprometedor que le robé a Gordon.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1427 #-#-# translate crowdin gallery_d_107_f3795b84:
+msgid "[_cedrick_] (Не буду рисковать…)"
+msgstr "[_cedrick_] (No voy a arriesgar…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1429 #-#-# translate crowdin gallery_d_107_56572925_1:
+msgid "[_centered_] {size=37}Седрик покидает туалет у бассейна{/size}"
+msgstr "[_centered_] {size=37}Cedric sale del baño junto a la piscina{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1434 #-#-# translate crowdin gallery_d_107_809f15aa:
+msgid "[_cedrick_] (Думаю стоит как можно скорее забыть об этой истории..)"
+msgstr "[_cedrick_] (creo que vale la pena olvidar esta historia lo antes posible.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1435 #-#-# translate crowdin gallery_d_107_c788d318:
+msgid "[_cedrick_] (Просто найду девочек и…)"
+msgstr "[_cedrick_] (Solo encuentra chicas y…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1436 #-#-# translate crowdin gallery_d_107_ff49b663:
+msgid "[_anna_] Профессор Рик, это вы?"
+msgstr "[_anna_] Profesor Rick, ¿es usted?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1437 #-#-# translate crowdin gallery_d_107_905abd60:
+msgid "[_cedrick_] Хм?"
+msgstr "[_cedrick_] ¿Hmm?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1440 #-#-# translate crowdin gallery_d_107_ccfc6dea:
+msgid "[_cedrick_] Ох, эм… Анна?"
+msgstr "[_cedrick_] Oh, um… ¿Anna?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1442 #-#-# translate crowdin gallery_d_107_780f4b22:
+msgid "[_anna_] Да, я…"
+msgstr "[_anna_] Sí, yo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1444 #-#-# translate crowdin gallery_d_107_d0661c51:
+msgid "[_cedrick_] Вы мама Ирмы, конечно. Я вас помню"
+msgstr "[_cedrick_] Eres la madre de Irma, por supuesto. Te recuerdo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1446 #-#-# translate crowdin gallery_d_107_2e309ea6:
+msgid "[_anna_] Хах, надо же.. Мы ведь с вами раньше не встречались"
+msgstr "[_anna_] Ja, ibíd. No te hemos conocido antes"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1448 #-#-# translate crowdin gallery_d_107_73e58986:
+msgid "[_cedrick_] (Черт, точно… Я ведь тогда трахал ее в зад в облике Тома, отца Ирмы…)"
+msgstr "[_cedrick_] (Maldita sea, seguro… Luego la follé en el culo con la apariencia de Tom, el padre de Irma…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1450 #-#-# translate crowdin gallery_d_107_539b69c9:
+msgid "[_cedrick_] Эм.. На родительском собрании, касающимся успеваемости учеников. Возможно вы забыли"
+msgstr "[_cedrick_] Mm. En la reunión de padres sobre el éxito de los estudiantes. Tal vez lo olvidaste"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1452 #-#-# translate crowdin gallery_d_107_9eb0cf3b:
+msgid "[_anna_] Хм, возможно. У меня сейчас так много дел после пропажи Тома, многие мелочи вылетают из головы"
+msgstr "[_anna_] Hmm, tal vez. Tengo tantas cosas ahora después de la desaparición de Tom, muchas pequeñas cosas vuelan fuera de mi cabeza"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1454 #-#-# translate crowdin gallery_d_107_402d9f6c:
+msgid "[_cedrick_] (Ух, а у нее довольно горячее тело. Вижу, в кого Ирма такой выросла)"
+msgstr "[_cedrick_] (Wow, y tiene un cuerpo bastante caliente. Veo en quién creció Irma así)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1456 #-#-# translate crowdin gallery_d_107_2b1af0dd:
+msgid "[_cedrick_] (Хах, глядя на нее под таким углом, аж хочется трахнуть ее в задницу еще раз)"
+msgstr "[_cedrick_] (Ja, mirándola en tal ángulo, quiero cogerla en el culo de nuevo)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1458 #-#-# translate crowdin gallery_d_107_9185e2bd:
+msgid "[_cedrick_] (Хм, возможно, у меня еще будет шанс.. Нужно будет только улучшить отношения с Ирмой)"
+msgstr "[_cedrick_] (Hmm, tal vez todavía tenga una oportunidad. Solo será necesario mejorar las relaciones con Irma)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1460 #-#-# translate crowdin gallery_d_107_1a764e36:
+msgid "[_anna_] Эм.. Профессор Рик?"
+msgstr "[_anna_] Mm. ¿El profesor Rick?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1462 #-#-# translate crowdin gallery_d_107_8fa9202b:
+msgid "[_cedrick_] Кхм.. А, что?"
+msgstr "[_cedrick_] Ejem… Oh, ¿qué?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1464 #-#-# translate crowdin gallery_d_107_e1e9f1ad:
+msgid "[_anna_] Вы… Кхм, вы кажется на что-то засмотрелись.."
+msgstr "[_anna_] Tú… Ejem, parece que estás viendo algo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1466 #-#-# translate crowdin gallery_d_107_80b182a1:
+msgid "[_cedrick_] Ох, да, простите.. Я.. Я просто задумался"
+msgstr "[_cedrick_] Oh, sí, lo siento. Yo… Solo estaba pensando"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1468 #-#-# translate crowdin gallery_d_107_e878a039:
+msgid "[_anna_] Ага.. Понятно.."
+msgstr "[_anna_] Ajá… Ya veo."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1470 #-#-# translate crowdin gallery_d_107_a2c8ccf0:
+msgid "[_anna_] Пожалуй, я закончила мыться"
+msgstr "[_anna_] Estoy seguro de que he terminado de lavar"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1476 #-#-# translate crowdin gallery_d_107_08fefd91:
+msgid "[_cedrick_] (Черт, неужели она заметила, как я пялился на ее зад…)"
+msgstr "[_cedrick_] (Maldita sea, ¿se dio cuenta de cómo estaba mirando su culo…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1477 #-#-# translate crowdin gallery_d_107_1e638546:
+msgid "[_cedrick_] (Думаю, это несколько снизило мои шансы.. Но это поправимо..)"
+msgstr "[_cedrick_] (Creo que ha reducido un poco mis posibilidades. Pero está corregido.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1481 #-#-# translate crowdin gallery_d_107_db7a117a:
+msgid "[_anna_] Профессор, я…"
+msgstr "[_anna_] Profesor, Yo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1485 #-#-# translate crowdin gallery_d_107_e28ff20f:
+msgid "[_cedrick_] Эм, Анна, я не профессор. Я лишь учитель истории на замену"
+msgstr "[_cedrick_] M, Anna, no soy profesora. Solo soy un profesor de historia para reemplazar"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1489 #-#-# translate crowdin gallery_d_107_6585455b:
+msgid "[_anna_] Ох, я поняла. А выглядите таким умным и надменным, словно уже защитили научную дисертацию"
+msgstr "[_anna_] Oh, lo entiendo. Y te ves tan inteligente y arrogante, como si ya hubieras defendido la tesis científica"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1493 #-#-# translate crowdin gallery_d_107_c900487d:
+msgid "[_cedrick_] Эм… Спасибо?"
+msgstr "[_cedrick_] Mm… ¿Gracias?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1497 #-#-# translate crowdin gallery_d_107_2c63be1e:
+msgid "[_anna_] В общем, раз уж вы здесь. Моя дочь несколько дней назад не была дома до самого поздна"
+msgstr "[_anna_] Sin embargo, ya que está aquí. Mi hija no estaba en casa hace unos días"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1501 #-#-# translate crowdin gallery_d_107_f2c0cf47:
+msgid "[_anna_] Я в те дни работала, поэтому не могу точно знать, сколько ее не было дома и когда она пришла"
+msgstr "[_anna_] Estaba trabajando en esos días, así que no puedo saber exactamente cuánto no estaba en casa y cuándo vino"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1503 #-#-# translate crowdin gallery_d_107_0b5a7aa4:
+msgid "[_anna_] Но я поняла это по тому, что она даже не притронулась к индейке, которую я ей перед этим приготовила"
+msgstr "[_anna_] Pero me di cuenta de que ni siquiera tocaba el pavo que le cociné antes"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1504 #-#-# translate crowdin gallery_d_107_db19f222:
+msgid "[_anna_] А моя индейка очень хороша"
+msgstr "[_anna_] A mi pavo es muy bueno"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1508 #-#-# translate crowdin gallery_d_107_66123add:
+msgid "[_cedrick_] Эм, я даже не сомневаюсь"
+msgstr "[_cedrick_] Um, ni siquiera dudo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1512 #-#-# translate crowdin gallery_d_107_cc4f5597:
+msgid "[_anna_] Так вот. Ирма сказала, что она осталась после уроков вместе с вами готовиться к урокам по истории"
+msgstr "[_anna_] Verás, Irma dijo que se quedó contigo después de clases para prepararse para las lecciones de historia."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1516 #-#-# translate crowdin gallery_d_107_f89f7db9_2:
+msgid "[_cedrick_] ....."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1520 #-#-# translate crowdin gallery_d_107_db5e51a7:
+msgid "[_anna_] Впредь попрошу вас заниматься историей у нас дома. Под моим присмотром"
+msgstr "[_anna_]S A partir de ahora le pedirá que estudie la historia de nuestro hogar. Bajo mi supervisión"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1524 #-#-# translate crowdin gallery_d_107_11dc187a:
+msgid "[_cedrick_] (Она явно меня в чем-то подозревает.. Видимо отговорка Ирмы звучала неубедительно)"
+msgstr "[_cedrick_] (Está claro que sospecha algo de mí… Parece que la excusa de Irma no sonó convincente.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1525 #-#-# translate crowdin gallery_d_107_716902f1:
+msgid "[_cedrick_] (Что ж, придется уступить ей, чтобы не портить отношения)"
+msgstr "[_cedrick_] (Bueno, tienes que ceder a ella para no estropear la relación)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1526 #-#-# translate crowdin gallery_d_107_9f9778a3:
+msgid "[_cedrick_] Я понимаю, Анна, как скажете"
+msgstr "[_cedrick_] Entiendo, Anna, como dices"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1530 #-#-# translate crowdin gallery_d_107_0bd5d7ef:
+msgid "[_anna_] Хорошо"
+msgstr "[_anna_] Es bueno"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1531 #-#-# translate crowdin gallery_d_107_47dbddce:
+msgid "[_anna_] И для вас я Миссис Анна, учитель Рик"
+msgstr "[_anna_] Y para ti soy la señora. Anna, profesora Rick"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1535 #-#-# translate crowdin gallery_d_107_49316299_1:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1536 #-#-# translate crowdin gallery_d_107_1400f1e3:
+msgid "[_cedrick_] Как скажете, Миссис Анна"
+msgstr "[_cedrick_] Lo que dices, Sra. ¿Anna"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1540 #-#-# translate crowdin gallery_d_107_0dc26265:
+msgid "[_anna_] Думаю мы с вами еще увидимся. А пока, мне пора идти. До свидания"
+msgstr "[_anna_] Creo que te veremos de nuevo. Mientras tanto, tengo que ir. Adiós"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1544 #-#-# translate crowdin gallery_d_107_7f1b0fb5:
+msgid "[_cedrick_] До свидания.."
+msgstr "[_cedrick_] Adiós."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1547 #-#-# translate crowdin gallery_d_107_49316299_2:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1548 #-#-# translate crowdin gallery_d_107_0c6baf6f:
+msgid "[_cedrick_] (Черт, если судить по костюму, то она развратница не хуже Сьюзан, но на деле такая неприступная. Интересно..)"
+msgstr "[_cedrick_] (Mierda, por el traje parece tan libertina como Susan, pero en realidad es inalcanzable. Interesante…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1554 #-#-# translate crowdin gallery_d_107_7eca7465:
+msgid "[_will_] О, Рик а вот и ты"
+msgstr "[_will_] O, Rick y aquí estás"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1556 #-#-# translate crowdin gallery_d_107_11e6067b:
+msgid "[_cedrick_] В-вилл?"
+msgstr "[_cedrick_] ¿Will?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1562 #-#-# translate crowdin gallery_d_108_b13ddfc5:
+msgid "[_will_] Мы с мамой решили покупаться у бассейна, ты с нами?"
+msgstr "[_will_] Mamá y yo decidimos nadar en la piscina, ¿estás con nosotros?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1566 #-#-# translate crowdin gallery_d_108_daeb769a:
+msgid "[_cedrick_] Эм…"
+msgstr "[_cedrick_] Um…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1567 #-#-# translate crowdin gallery_d_108_02a43f3c:
+msgid "[_cedrick_] Хах, да, конечно. Как тут откажешь"
+msgstr "[_cedrick_] Ja, sí, claro. Cómo negarse aquí"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1570 #-#-# translate crowdin gallery_d_108_61d58637:
+msgid "[_centered_] {size=37}Седрик некоторое время отдыхает с Вилл и Сьюзан в бассейне{/size}"
+msgstr "[_centered_] {size=37}Cedric Ha estado relajándose con Will y Susan en la piscina de {/size} durante algún tiempo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1575 #-#-# translate crowdin gallery_d_108_7bac9828:
+msgid "[_will_] Пожалуй, я на сегодня уже накупалась. Думаю самое время выходить из воды"
+msgstr "[_will_] Creo que ya nadé suficiente por hoy. Es hora de salir del agua."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1577 #-#-# translate crowdin gallery_d_108_8e4a8ef4:
+msgid "[_susan_] (Боже, этот ее развратный костюм, какой же он все таки вызывающий.. На нее уже все мужики в бассейне пялятся..)"
+msgstr "[_susan_] (Dios, este su traje depravado, cómo todo es provocativo. Todos los hombres en la piscina la están mirando.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1579 #-#-# translate crowdin gallery_d_108_68652579:
+msgid "[_susan_] (Эти тканевые ремешки едва прикрывают даже ее самые интимные места…)"
+msgstr "[_susan_] (Estas correas de tela apenas cubren incluso sus lugares más íntimos…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1581 #-#-# translate crowdin gallery_d_108_622b68b1:
+msgid "[_susan_] (И все же.. Эх..)"
+msgstr "[_susan_] (Y aún así… Eh…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1583 #-#-# translate crowdin gallery_d_108_544b7226:
+msgid "[_susan_] (Так она пытается продемонстрировать свою сексуальность. Видимо из-за того, что на нее никто не обращает внимание, она решила пойти на отчаянные меры)"
+msgstr "[_susan_] (Así que ella trata de demostrar su sexualidad. Al parecer, debido al hecho de que nadie le presta atención, decidió tomar medidas desesperadas)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1585 #-#-# translate crowdin gallery_d_108_95553392:
+msgid "[_susan_] (Возможно даже тот факт, что Рик никак не обращает на нее внимание, в итоге уязвило ее женскую гордость)"
+msgstr "[_susan_] (quizás incluso el hecho de que Rick no le presta atención, finalmente le duele la feminidad)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1588 #-#-# translate crowdin gallery_d_108_525f692b:
+msgid "[_susan_] (Я не могу ругать ее.. Возможно, если я поощрю ее внешность и сексуальность, как мать, это хоть немного поднимет ее самооценку)"
+msgstr "[_susan_] (No puedo regañarla. Tal vez si animo su apariencia y sexualidad como madre, aumentará un poco su autoestima)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1591 #-#-# translate crowdin gallery_d_108_5405a8c8:
+msgid "[_susan_] (Ну тогда..)"
+msgstr "[_susan_] (Bueno, entonces…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1595 #-#-# translate crowdin gallery_d_108_f21baea1:
+msgid "Звук шлепка по попке"
+msgstr "Sonido de una nalgada"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1598 #-#-# translate crowdin gallery_d_108_8c5977ed:
+msgid "[_will_] А-ау.. М-мам? Ты чего.."
+msgstr "[_will_] Ah… ¿Mm-M? ¿Qué eres tú…?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1600 #-#-# translate crowdin gallery_d_108_abf38138:
+msgid "[_cedrick_] (Ого.. Кажется сейчас развернется интересная сцена)"
+msgstr "[_cedrick_] (Wow. Parece que una escena interesante se desarrollará ahora)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1602 #-#-# translate crowdin gallery_d_108_791b4a3b:
+msgid "[_susan_] Эм.. Я просто… Кхм, просто решила отметить, какая у меня выросла красивая девочка"
+msgstr "[_susan_] Mm. Solo estoy… Ejem, acabo de decidir notar lo que mi hermosa chica creció"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1604 #-#-# translate crowdin gallery_d_108_505d0dc8:
+msgid "[_will_] Шлепнув меня по заднице?"
+msgstr "[_will_] ¿Dándome una nalgada?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1606 #-#-# translate crowdin gallery_d_108_874fcfaf:
+msgid "[_susan_] Нууу, эм.. Да. У тебя и вправду отличная задница, моя дорогая. Поэтому почему бы мне ее одобрительно не шлепнуть, если есть возможность"
+msgstr "[_susan_] Sí. Realmente tienes un gran culo, querida. Entonces, ¿por qué no estoy feliz de abofetearlo si pudiera"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1609 #-#-# translate crowdin gallery_d_108_f21baea1_1:
+msgid "Звук шлепка по попке"
+msgstr "Sonido de una nalgada"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1611 #-#-# translate crowdin gallery_d_108_a6c0109e:
+msgid "[_will_] М-мам…"
+msgstr "[_will_] Mm…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1613 #-#-# translate crowdin gallery_d_108_660b2752:
+msgid "[_cedrick_] (Хах, ясно, так вот какой выбор решила сделать Сьюзан. Видимо она будет и дальше поощрять Вилл, чтобы не развить в ней комплексы)"
+msgstr "[_cedrick_] (Ja, está claro, es la elección de Susan. Aparentemente, ella continuará animando a Will, para no desarrollar complejos en él)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1615 #-#-# translate crowdin gallery_d_108_0a0504e9:
+msgid "[_cedrick_] (Ох, Сьюзан, знала бы ты, насколько сильно ты заблуждаешься насчет своей дочери..)"
+msgstr "[_cedrick_] (Oh, Susan, ¿sabrías cuánto te equivocas con tu hija?)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1616 #-#-# translate crowdin gallery_d_108_3d571719:
+msgid "[_cedrick_] (Она одевается так совсем не из-за того, что жаждет мужского внимание и не из-за того, что хочет одобрения из-за низкой самооценки)"
+msgstr "[_cedrick_] (Se viste tan mal porque anhela la atención de los hombres y no porque quiera aprobación debido a la baja autoestima)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1617 #-#-# translate crowdin gallery_d_108_3eca894b:
+msgid "[_cedrick_] (Твоя дочь просто подсела на мой член как на наркотик..)"
+msgstr "[_cedrick_] (Tu hija acaba de engancharme a mi verga como droga.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1618 #-#-# translate crowdin gallery_d_108_cc9fe2e2:
+msgid "[_cedrick_] (Но, хм.. Это очень даже интересно.. Возможно, я смогу использовать это стремление Сьюзан в будущем)"
+msgstr "[_cedrick_] (Pero, hmm… Es muy interesante… Tal vez pueda usar esta aspiración de Susan en el futuro)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1620 #-#-# translate crowdin gallery_d_108_1721d81e:
+msgid "[_will_] М-мне теперь неловко.."
+msgstr "[_will_] M-me avergüenza ahora."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1622 #-#-# translate crowdin gallery_d_108_3235958e:
+msgid "[_will_] Д-давайте уже поедем домой"
+msgstr "[_will_] D-d-d-day ya se va a casa"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1624 #-#-# translate crowdin gallery_d_108_35ec4123:
+msgid "[_cedrick_] Да, думаю самое время нам собираться, уже вечереет"
+msgstr "[_cedrick_] Sí, creo que es hora de que nos reunamos, ya es un adolescente"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1626 #-#-# translate crowdin gallery_d_108_ca1610bd:
+msgid "[_susan_] Эм.. Да, давайте.."
+msgstr "[_susan_] Mm. Sí, vamos."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1632 #-#-# translate crowdin gallery_d_108_81692ab9:
+msgid "[_centered_] {size=37}Седрик, Сьюзан и Вилл собрались и поехали домой. Сначала они ехали в неловкой тишине, но потом разговорились{/size}"
+msgstr "[_centered_] {size=37}Cedric, Susan y Will recogieron sus cosas y se fueron a casa. Al principio viajaron en un silencio incómodo, pero luego comenzaron a conversar{/size}"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1639 #-#-# translate crowdin gallery_d_108_562cdfa7:
+msgid "[_susan_] Хах, рада, что мы избавились от этих неловкостей"
+msgstr "[_susan_] Ja, me alegro de que nos deshiciéramos de esta incomodidad"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1647 #-#-# translate crowdin gallery_d_108_ffbf34c4:
+msgid "[_will_] Да, Рик, у тебя получилось разбавить обстановку. Откуда ты знаешь столько смешных шуток?"
+msgstr "[_will_] Sí, Rick, lograste diluir la situación. ¿Cómo sabes tantas bromas divertidas?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1653 #-#-# translate crowdin gallery_d_108_5c0e2e8e:
+msgid "[_cedrick_] Эм.. В книжном, когда изучал много научной литературы, в какой-то момент начала болеть голова и захотелось отвлечься"
+msgstr "[_cedrick_] Mm. En el libro, cuando estudió mucha literatura científica, en algún momento comenzó a lastimarse la cabeza y quería distraerme"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1654 #-#-# translate crowdin gallery_d_108_e8653778:
+msgid "[_cedrick_] Особо делать было нечего, поэтому я просто переключился и прочитал сборник анекдотов на 600 страниц"
+msgstr "[_cedrick_] No había nada especial que hacer, así que simplemente cambié y leí una colección de bromas por 600 páginas"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1658 #-#-# translate crowdin gallery_d_108_1e83ee43:
+msgid "[_will_] Ахах, это в твоей духе"
+msgstr "[_will_] Jaja, eso es muy propio de ti."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1664 #-#-# translate crowdin gallery_d_108_7e869a0b:
+msgid "[_susan_] Ну что, вы готовы?"
+msgstr "[_susan_] Entonces, ¿estás listo?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1670 #-#-# translate crowdin gallery_d_108_a97200c7:
+msgid "[_cedrick_] К чему?"
+msgstr "[_cedrick_] ¿Qué Pasa?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1676 #-#-# translate crowdin gallery_d_108_e664763a:
+msgid "[_susan_] К праздничным подаркам!"
+msgstr "[_susan_] Para los regalos de vacaciones!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1680 #-#-# translate crowdin gallery_d_108_5456ede8:
+msgid "[_will_] Ооо, наконец-то!"
+msgstr "[_will_] ¡Oh, por fin!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1681 #-#-# translate crowdin gallery_d_108_df76a6bb:
+msgid "[_cedrick_] Хах, точно"
+msgstr "[_cedrick_] Ja, seguro"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1685 #-#-# translate crowdin gallery_d_108_107aa898:
+msgid "[_susan_] Давайте соберемся все за столом"
+msgstr "[_susan_] Vamos a poner todos en la mesa"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1688 #-#-# translate crowdin gallery_d_108_d20246e0:
+msgid "[_will_] И так, мама, сначала твой от меня подарок"
+msgstr "[_will_] Y así, mamá, primero tu regalo de mi parte"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1690 #-#-# translate crowdin gallery_d_108_29111ebc:
+msgid "[_susan_] Ох, интересно что же там…"
+msgstr "[_susan_] Oh, me pregunto qué hay…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1692 #-#-# translate crowdin gallery_d_108_d9b6c0ea:
+msgid "[_will_] И это…"
+msgstr "[_will_] Y este…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1694 #-#-# translate crowdin gallery_d_108_22213572:
+msgid "[_susan_] Колье!? Боже, оно же наверное жутко дорогое.."
+msgstr "[_susan_] ¿¡El escote!? Dios, probablemente sea terriblemente caro…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1695 #-#-# translate crowdin gallery_d_108_dff78229:
+msgid "[_cedrick_] (Ты даже не представляешь насколько…)"
+msgstr "[_cedrick_] (Ni siquiera sabes cuánto…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1697 #-#-# translate crowdin gallery_d_108_7581bd09:
+msgid "[_will_] Хах, да, я.. Эм.. Я просто копила с денег на карманные расходы"
+msgstr "[_will_] Ja, sí, yo… Um. Acabo de ahorrar dinero para gastos de bolsillo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1699 #-#-# translate crowdin gallery_d_108_c2b62501:
+msgid "[_susan_] Ох, дорогая. Даже твой отец никогда не дарил мне таких дорогих подарков. Это так трогательно.."
+msgstr "[_susan_] Oh, querida. Incluso tu padre nunca me dio regalos tan caros. Es tan conmovedor…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1700 #-#-# translate crowdin gallery_d_108_c9685e51:
+msgid "[_cedrick_] (Трогательно? Я бы скорее сказал, что это грустно..)"
+msgstr "[_cedrick_] (¿Basura? Prefiero decir que es triste.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1702 #-#-# translate crowdin gallery_d_108_dae7eef2:
+msgid "[_susan_] Ого очень красивое, моя дорогая. Такое же красивое, как и ты"
+msgstr "[_susan_] Wow es muy hermosa, querida. Tan hermoso como tú"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1704 #-#-# translate crowdin gallery_d_108_d916e20d:
+msgid "[_will_] Боже, мам, хватит делать этот момент неловким..."
+msgstr "[_will_] Dios, mamá, deja de hacer este momento incómodo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1706 #-#-# translate crowdin gallery_d_108_37a50ddf:
+msgid "[_susan_] Кхм.. Что ж, а теперь мой подарок для тебя. И это.."
+msgstr "[_susan_] Ejem… Bueno, ahora mi regalo es para ti. Y eso es…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1708 #-#-# translate crowdin gallery_d_108_b0289a39:
+msgid "[_will_] Подожди. Мам.. А не хочешь подарить другой подарок? Тот самый"
+msgstr "[_will_] Espera. Mamá. ¿No quieres dar otro regalo? Lo mismo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1710 #-#-# translate crowdin gallery_d_108_2930461d:
+msgid "[_susan_] Тот самый?"
+msgstr "[_susan_] ¿El uno?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1712 #-#-# translate crowdin gallery_d_108_ffd7540e:
+msgid "[_susan_] ..."
+msgstr "[_susan_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1714 #-#-# translate crowdin gallery_d_108_752a1366:
+msgid "[_susan_] Ох, я поняла. Да, ты права"
+msgstr "[_susan_] Oh, lo entiendo. Sí, tienes razón"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1716 #-#-# translate crowdin gallery_d_108_6f577b7f:
+msgid "[_susan_] Рик…"
+msgstr "[_susan_] Rick…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1718 #-#-# translate crowdin gallery_d_108_d08a42c3:
+msgid "[_cedrick_] А? Что?"
+msgstr "[_cedrick_] ¿Ah? ¿Qué? ¿Qué?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1720 #-#-# translate crowdin gallery_d_108_f9be1673:
+msgid "[_susan_] У нас для тебя кое-что есть"
+msgstr "[_susan_] Tenemos algo para ti"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1722 #-#-# translate crowdin gallery_d_108_52b3d4c0:
+msgid "[_cedrick_] Для меня? Серьезно? Я ведь даже не член семьи"
+msgstr "[_cedrick_] ¿Para mí? ¿En serio? Ni siquiera soy parte de la familia."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1724 #-#-# translate crowdin gallery_d_108_fa3e9a24:
+msgid "[_susan_] Нет, Рик, это не так. Сегодня ты в очередной раз доказал для нас с Вилл, что ты теперь член нашей семьи"
+msgstr "[_susan_] No, Rick, eso no es cierto. Hoy una vez más nos demostraste con Will que ahora eres un miembro de nuestra familia"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1725 #-#-# translate crowdin gallery_d_108_f5fe4e7c:
+msgid "[_susan_] Ты гармонично нас дополняешь. Разбавляешь наши ссоры своим спокойствием, добавляешь в семью ту самую сильную мужскую руку, в которой мы нуждались"
+msgstr "[_susan_] Nos complementarás armoniosamente. Diluir nuestras peleas con tu calma, agregando a la familia la mano más fuerte que necesitábamos"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1726 #-#-# translate crowdin gallery_d_108_75ac1991:
+msgid "[_susan_] На тебя всегда можно положиться и.."
+msgstr "[_susan_] Siempre puedes confiar en ti y…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1728 #-#-# translate crowdin gallery_d_108_ca79c6f2:
+msgid "[_will_] И в знак этого мы решили кое-что тебе подарить..."
+msgstr "[_will_] Y como muestra de esto decidimos darte algo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1730 #-#-# translate crowdin gallery_d_108_52222c13:
+msgid "[_susan_] Вот"
+msgstr "[_susan_] Aquí"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1732 #-#-# translate crowdin gallery_d_108_af5b85c6:
+msgid "[_cedrick_] Это.. Ключи? От чего они? Это какой-то символ?"
+msgstr "[_cedrick_] Es… ¿Llaves? ¿De qué son? ¿Es un símbolo?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1734 #-#-# translate crowdin gallery_d_108_49a7a56b:
+msgid "[_susan_] Хах, нет, это ключи от нашего дома"
+msgstr "[_susan_] Ja, no, estas son las llaves de nuestra casa"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1736 #-#-# translate crowdin gallery_d_108_6fd70018:
+msgid "[_will_] Теперь, как член нашей семьи, ты можешь приходить сюда и жить, когда только сам захочешь"
+msgstr "[_will_] Ahora, como miembro de nuestra familia, puedes venir aquí y vivir cuando solo quieras"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1738 #-#-# translate crowdin gallery_d_108_753c52b9:
+msgid "[_cedrick_] Ох… Это…"
+msgstr "[_cedrick_] Oh… Es…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1740 #-#-# translate crowdin gallery_d_108_a05826c6:
+msgid "[_cedrick_] Это мило…"
+msgstr "[_cedrick_] Qué lindo…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1741 #-#-# translate crowdin gallery_d_108_803d3f18:
+msgid "[_cedrick_] Я тронут"
+msgstr "[_cedrick_] Me conmueve."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1743 #-#-# translate crowdin gallery_d_108_f2ffcd1a:
+msgid "[_will_] Я же говорила ему понравится!"
+msgstr "[_will_] ¡Le dije que le gustara!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1745 #-#-# translate crowdin gallery_d_108_48e44ddd:
+msgid "[_susan_] Ох, Рик, ты такая прелесть"
+msgstr "[_susan_] Oh, Rick, eres tan encantador"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1748 #-#-# translate crowdin gallery_d_108_326a2baa:
+msgid "Теперь Рик может приходить домой в дом Семьи Вандом в любое время"
+msgstr "Ahora Rick puede ir a la casa de la familia Vandom cuando quiera"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1750 #-#-# translate crowdin gallery_d_108_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] …"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1752 #-#-# translate crowdin gallery_d_108_f8a5bc5f:
+msgid "[_cedrick_] Я даже не знаю, что сказать.."
+msgstr "[_cedrick_] Ni siquiera sé qué decir."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1754 #-#-# translate crowdin gallery_d_108_10b2d9f0:
+msgid "[_cedrick_] Поэтому.. Эм.. Сьюзан, у меня тоже есть для тебя кое-какой подарок"
+msgstr "[_cedrick_] Es por eso que… Um. Susan, también tengo un regalo para ti"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1756 #-#-# translate crowdin gallery_d_108_57dd9764:
+msgid "[_susan_] Ох, правда? И что же это"
+msgstr "[_susan_] Oh, ¿no? ¿Y qué es"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1758 #-#-# translate crowdin gallery_d_108_3c31af0f:
+msgid "[_cedrick_] Вот"
+msgstr "[_cedrick_] Aquí"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1760 #-#-# translate crowdin gallery_d_108_5453ada5:
+msgid "[_susan_] Это… Эм… Ого… Это же"
+msgstr "[_susan_] Es… Um… Vaya… Es como"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1762 #-#-# translate crowdin gallery_d_108_b8568a1a:
+msgid "[_will_] Эротическое нижнее белье.."
+msgstr "[_will_] Ropa interior erótica…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1764 #-#-# translate crowdin gallery_d_108_a7732568:
+msgid "[_susan_] Эм.. Ахах.. Это очень приятно, Рик, за это мы тебя тоже очень ценим, но.. Кхм, думаю мы с этим разберемся у нас в комнате, когда Вилл уже уйдет спать"
+msgstr "[_susan_] Mm. Ahhhhhhhh es muy agradable, Rick, realmente te apreciamos por eso, también, pero… Ejem, creo que lo averiguaremos en nuestra habitación cuando ya se haya ido a la cama"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1766 #-#-# translate crowdin gallery_d_108_3223fe77:
+msgid "[_will_] Ну конечно.."
+msgstr "[_will_] Por supuesto."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1767 #-#-# translate crowdin gallery_d_108_a49239a3:
+msgid "[_susan_] (Так и думала, что ее это заденет.. Нужно как-то сменить тему)"
+msgstr "[_susan_] (Sabía que esto le dolería… Tengo que cambiar de tema.)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1769 #-#-# translate crowdin gallery_d_108_2036bb23:
+msgid "[_susan_] Ох, точно, Вилл! Мой для тебя подарок. Вот"
+msgstr "[_susan_] Oh, ¡verdad, Will! Mi regalo para ti. Aquí está"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1771 #-#-# translate crowdin gallery_d_108_dbb5f7c5:
+msgid "[_will_] Ого.. Это.. Это приставка?"
+msgstr "[_will_] Wow. Eso es… ¿Eso es un decodificador?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1773 #-#-# translate crowdin gallery_d_108_e1b3e610:
+msgid "[_susan_] Да, я помню, в детстве ты любила играть в такие игры. Могла весь день за ними провести"
+msgstr "[_susan_] Sí, recuerdo que cuando eras niño, te encantaba jugar juegos como ese. Podría haber estado siguiéndolos todo el día"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1774 #-#-# translate crowdin gallery_d_108_66bcbfc2:
+msgid "[_susan_] Потом ты занялась плаванием и забросила такие игры. Но я недавно ходила по супермаркету и решила, ну…"
+msgstr "[_susan_] Entonces empezaste a nadar y lanzaste esos juegos. Pero recientemente fui al supermercado y decidí, bueno…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1775 #-#-# translate crowdin gallery_d_108_afc46f8e:
+msgid "[_susan_] Почему бы не купить тебе что-то новое, чтобы напомнить о старых прелестях жизни"
+msgstr "[_susan_] ¿Por qué no comprarte algo nuevo para recordar tu vieja belleza"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1777 #-#-# translate crowdin gallery_d_108_f08aa4f6:
+msgid "[_will_] Ох, мам, спасибо… Это мило…"
+msgstr "[_will_] Oh, mamá, gracias…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1779 #-#-# translate crowdin gallery_d_108_f149b4d0:
+msgid "[_will_] Да, я помню как в детстве играла в похожую приставку. Тогда у нас был такой толстый, почти квадратный телевизор"
+msgstr "[_will_] Sí, recuerdo jugar a una consola similar a la de un niño. Entonces teníamos una televisión tan gorda, casi cuadrada"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1781 #-#-# translate crowdin gallery_d_108_c88c96b7:
+msgid "[_susan_] Хах, да, он был таким тяжелым. Я иногда боялась, как бы он не упал и не придавил тебя, пока ты играешь"
+msgstr "[_susan_] Ja, sí, era muy pesado. A veces temía que se cayera y te aplastara mientras jugabas."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1783 #-#-# translate crowdin gallery_d_108_1e9e1ffa:
+msgid "[_will_] Хах, да, он был монструозный и старый. Толстый ламповый телевизор, за которым я провела тогда немало времени.."
+msgstr "[_will_] Ja, sí, era monstruoso y viejo. Una televisión de lámpara gruesa, por la que pasé mucho tiempo en ese momento."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1785 #-#-# translate crowdin gallery_d_108_741fcc2c:
+msgid "[_will_] Эх, обожала тогда играть на нем в приставку, смотреть всякие мультики и другую фигню"
+msgstr "[_will_] Eh, luego me encantó jugarlo, ver todo tipo de dibujos animados y otras cosas"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1786 #-#-# translate crowdin gallery_d_108_e6828cda:
+msgid "[_cedrick_] (Толстый.. Ламповый.. телевизор.. Смотреть всякую фигню…)"
+msgstr "[_cedrick_] (Fat… Lámpara. El televisor. Mira todas las tonterías…)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1787 #-#-# translate crowdin gallery_d_108_99e75483:
+msgid "[_cedrick_] (Черт, Элион же притащила такой вчера! Я обещал ей сегодня посмотреть с ней всякие шоу на этом допотопном телевизоре)"
+msgstr "[_cedrick_] (¡Maldita sea, Elyon trajo esto ayer! Le prometí hoy que vería todo tipo de espectáculos en esta televisión antes de deshilada)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1789 #-#-# translate crowdin gallery_d_108_16b0a7f8:
+msgid "[_susan_] Рик, все хорошо?"
+msgstr "[_susan_] Rick, ¿está todo bien?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1791 #-#-# translate crowdin gallery_d_108_5b8edf2d:
+msgid "[_cedrick_] Эм.. Я вдруг резко понял, что мне пора бежать. У меня, эм.. У меня есть незаконченное дело в магазине"
+msgstr "[_cedrick_] Mm. De repente me di cuenta de que era hora de correr. Me tengo, um… Tengo un negocio inconcluso en la tienda"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1793 #-#-# translate crowdin gallery_d_108_3c4a3ce0:
+msgid "[_susan_] Ох, но как же.."
+msgstr "[_susan_] Oh, pero ¿qué pasa con…?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1795 #-#-# translate crowdin gallery_d_108_cfdebe21:
+msgid "[_cedrick_] Я вернусь, Сьюзан. Поздно ночью, но вернусь. Можешь подождать меня в комнате сама знаешь с чем"
+msgstr "[_cedrick_] Volveré, Susan. Tarde en la noche, pero volveré enseguida. Puedes esperarme en la habitación, ¿sabes qué"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1797 #-#-# translate crowdin gallery_d_108_8923f747:
+msgid "[_susan_] Ох, я поняла.. Тогда, эм.. Тогда пойду пока примерю это кое-что"
+msgstr "[_susan_] Oh, lo entiendo. Entonces, um. Entonces seguiré esto mientras voy a probarlo"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1799 #-#-# translate crowdin gallery_d_108_1240d977:
+msgid "[_will_] Боже, да я ведь уже знаю, что вы про белье. Вам не нужно передо мной секретничать, я ж даже видела, как вы двое трахаетесь"
+msgstr "[_will_] Dios, ya sé que hablas de lino. No tienes que tomar un secreto antes que yo, incluso te he visto a los dos coger"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1801 #-#-# translate crowdin gallery_d_108_3437a2d8:
+msgid "[_susan_] Ох, Вилл.."
+msgstr "[_susan_] Oh, loca."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1803 #-#-# translate crowdin gallery_d_108_52ed6982:
+msgid "[_cedrick_] Я побегу"
+msgstr "[_cedrick_] Voy a correr"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1805 #-#-# translate crowdin gallery_d_108_63cc0b3d:
+msgid "[_will_] Я провожу тебя, Рик"
+msgstr "[_will_] Te gastaré, Rick"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1810 #-#-# translate crowdin gallery_d_108_894efe44:
+msgid "[_will_] Рик, что-то серьезное? Мамы рядом нет. Если что, ты можешь сказать"
+msgstr "[_will_] Rick, ¿algo serio? Mamá no está aquí. En todo caso, puedes decir"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1814 #-#-# translate crowdin gallery_d_108_e116e1df:
+msgid "[_cedrick_] Эм, нет, ничего катастрофического, я справлюсь"
+msgstr "[_cedrick_] Mm, no, nada catastrófico, puedo manejar"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1818 #-#-# translate crowdin gallery_d_108_08e0fe90:
+msgid "[_will_] Хорошо. Но если что, я готова помочь. Только скажи"
+msgstr "[_will_] Bien. Pero, si hace falta, estoy dispuesta a ayudar. Solo dímelo."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1822 #-#-# translate crowdin gallery_d_108_87cc3834:
+msgid "[_cedrick_] Хм…"
+msgstr "[_cedrick_] Hmm…"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1823 #-#-# translate crowdin gallery_d_108_a028cfec:
+msgid "[_cedrick_] (Мне нужно веская причина, по которой я так задержался)"
+msgstr "[_cedrick_] (necesito una buena razón por la que llegué tan tarde)"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1824 #-#-# translate crowdin gallery_d_108_807dd1a6:
+msgid "[_cedrick_] Эм, вообще-то, ты можешь помочь. Не одолжишь мне ту приставку, что тебе подарила Сьюзан?"
+msgstr "[_cedrick_] Mm, en realidad, puedes ayudar. ¿No puedes prestarme la consola que te dio Susan?"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1828 #-#-# translate crowdin gallery_d_108_6ed4af4d:
+msgid "[_will_] Эм.."
+msgstr "[_will_] Mm."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1829 #-#-# translate crowdin gallery_d_108_be84c09d:
+msgid "[_cedrick_] Это важно"
+msgstr "[_cedrick_] Esto es importante"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1833 #-#-# translate crowdin gallery_d_108_1dabe189:
+msgid "[_will_] Ну.. Хорошо, Рик. Бери"
+msgstr "[_will_] Bueno… Está bien, Rick. Toma."
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1837 #-#-# translate crowdin gallery_d_108_807705d6:
+msgid "[_cedrick_] Спасибо. Я побежал"
+msgstr "[_cedrick_] Gracias. Yo corrí"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1841 #-#-# translate crowdin gallery_d_108_eb5a7421:
+msgid "[_will_] У-удачи!"
+msgstr "[_will_] ¡Buena suerte!"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1843 #-#-# translate crowdin gallery_d_108_99aabdc4:
+msgid "[_cedrick_] (Теперь нужно отправиться в книжный)"
+msgstr "[_cedrick_] (Ahora tienes que ir al libro)"
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/questMotherDay/return_to_vendoms.rpy:135
+msgid "Прикрыть Вилл"
+msgstr "Cubrir el testamento"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:135
+msgid "Прикрыть Сьюзан"
+msgstr "¡Cubra a Susan"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:720
+msgid "Поплавать с Вилл"
+msgstr "Nadar con Will"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:720
+msgid "Позагорать со Сьюзан"
+msgstr "Tome el sol con Susan"
+
+# game/scripts/quests/questMotherDay/return_to_vendoms.rpy:1214
+msgid "Вытащить свисток"
+msgstr "Tire del silbato"
+

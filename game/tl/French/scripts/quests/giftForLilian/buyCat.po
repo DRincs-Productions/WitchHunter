@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/giftForLilian/buyCat.po\n"
+"X-Crowdin-File-ID: 8401\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/buyCat.rpy:6 #-#-# translate crowdin buyCat_42bc4d4f:
+msgid "[_cedrick_] Отдай кота"
+msgstr "[_cedrick_] Rendre le chat"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:7 #-#-# translate crowdin buyCat_d7afd430:
+msgid "[_blank_] Ты принес деньги?"
+msgstr "[_blank_] Tu as apporté l'argent ?"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:8 #-#-# translate crowdin buyCat_e6f6bc07:
+msgid "[_cedrick_] Еще нет"
+msgstr "[_cedrick_] Pas encore."
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:9 #-#-# translate crowdin buyCat_c4611fa0:
+msgid "[_blank_] Тогда не отдам"
+msgstr "[_blank_] Alors je ne le donnerai pas."
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:16 #-#-# translate crowdin buyCat_fb26e09f:
+msgid "[_cedrick_] Вот сотня баксов. Отдавай кота"
+msgstr "[_cedrick_] Voici cent livres. Rendre le chat"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:20 #-#-# translate crowdin buyCat_6191a596:
+msgid "[_blank_] Какого кота"
+msgstr "[_blank_] Quel chat"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:21 #-#-# translate crowdin buyCat_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:22 #-#-# translate crowdin buyCat_9bc45015:
+msgid "[_cedrick_] Редкий крыса"
+msgstr "[_cedrick_] Un rat rare"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:26 #-#-# translate crowdin buyCat_26e4c540:
+msgid "[_blank_] Ааа, наполеон. Так бы сразу и сказал"
+msgstr "[_blank_] Ah, Napoléon. Vous auriez dû le dire"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:27 #-#-# translate crowdin buyCat_49316299_1:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:28 #-#-# translate crowdin buyCat_b6f23bd3:
+msgid "[_blank_] Прощай, полководец. Бланк не забудет твою эпическую схватку возле мусорных баков за кусок колбасы"
+msgstr "[_blank_] Adieu, commandant. Blunk n'oubliera pas votre combat épique dans les poubelles pour un morceau de saucisse"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:29 #-#-# translate crowdin buyCat_13d306e4:
+msgid "[_cedrick_] И с кем успел подраться этот комок шерсти?"
+msgstr "[_cedrick_] Et avec qui cette boule de poils s'est-elle battue?"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:30 #-#-# translate crowdin buyCat_6347db88:
+msgid "[_blank_] Со мной"
+msgstr "[_blank_] Avec moi"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:31 #-#-# translate crowdin buyCat_fc10bb0d:
+msgid "[_cedrick_] Почему я не удивлен.."
+msgstr "[_cedrick_] Pourquoi ne suis-je pas surpris.."
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:32 #-#-# translate crowdin buyCat_0fd35541:
+msgid "[_blank_] Этот крыса сильнее, чем кажется"
+msgstr "[_blank_] Ce rat est plus fort qu'il n'y paraît"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:35 #-#-# translate crowdin buyCat_49316299_2:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:36 #-#-# translate crowdin buyCat_c9ce2c93:
+msgid "[_cedrick_] (Хм, раз уж я нашел кота Лилит, думаю стоит написать по этому поводу Корнелии)"
+msgstr "[_cedrick_] (Hmm, puisque j'ai trouvé le chat de Lilith, je pense que je devrais écrire à Cornelia à ce sujet)"
+
+# game/scripts/quests/giftForLilian/buyCat.rpy:37 #-#-# translate crowdin buyCat_cfe90a85:
+msgid "[_cedrick_] (Возможно я смогу как-то это использовать. Стоит использовать любую потенциальную возможность давления на стражниц)"
+msgstr "[_cedrick_] (Je pourrais peut-être l'utiliser d'une manière ou d'une autre. Toute possibilité de mettre la pression sur les gardes mérite d'être exploitée)"
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/giftForLilian/buyCat.rpy:43
+msgid "Корнелия, привет."
+msgstr "Cornelia, bonjour."
+

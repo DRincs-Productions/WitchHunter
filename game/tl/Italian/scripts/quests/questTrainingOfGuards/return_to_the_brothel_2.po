@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.po\n"
+"X-Crowdin-File-ID: 13062\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2024-05-03 19:55\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:5 #-#-# translate crowdin return_to_the_brothel_2_23a021dd:
+msgid "[_cedrick_] И так, все в сборе. Рад, что каждая из вас добралась сюда в целости"
+msgstr "[_cedrick_] E così, tutto è assemblato.  Sono felice che ognuno di voi sia arrivato qui sano e salvo"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:8 #-#-# translate crowdin return_to_the_brothel_2_edd851c8:
+msgid "[_cedrick_] Вилл..."
+msgstr "[_cedrick_] Will..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:12 #-#-# translate crowdin return_to_the_brothel_2_7ee095ca:
+msgid "[_cedrick_] Ирма..."
+msgstr "[_cedrick_] Irma..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:16 #-#-# translate crowdin return_to_the_brothel_2_31486bbe:
+msgid "[_cedrick_] Тарани..."
+msgstr "[_cedrick_] Taranee..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:20 #-#-# translate crowdin return_to_the_brothel_2_d722669d:
+msgid "[_cedrick_] Корнелия..."
+msgstr "[_cedrick_] Cornelia..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:24 #-#-# translate crowdin return_to_the_brothel_2_c0bd74b4:
+msgid "[_cedrick_] Хай Лин..."
+msgstr "[_cedrick_] Hay Lin..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:25 #-#-# translate crowdin return_to_the_brothel_2_3e36a57f:
+msgid "[_cedrick_] Мы убираемся отсюда"
+msgstr "[_cedrick_] Stiamo uscendo di qui"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:26 #-#-# translate crowdin return_to_the_brothel_2_e1d4d7cb:
+msgid "[_cedrick_] Обратно. На землю."
+msgstr "[_cedrick_] Indietro.  A terra."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:30 #-#-# translate crowdin return_to_the_brothel_2_183ed543:
+msgid "[_will_] Рик... Я в тебе не сомневалась"
+msgstr "[_will_] Rick... non ho mai dubitato di te"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:34 #-#-# translate crowdin return_to_the_brothel_2_5bafa8c5:
+msgid "[_irma_] И все же, ты оказался не таким уж злодеем"
+msgstr "[_irma_] Eppure non sei poi così cattivo"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:38 #-#-# translate crowdin return_to_the_brothel_2_cc0dcc2d:
+msgid "[_tarani_] Я бы не была столь однозначна на его счет... У нас просто теперь схожие интересы"
+msgstr "[_tarani_] Non sarei così chiaro su di lui... È solo che ora abbiamo interessi simili"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:42 #-#-# translate crowdin return_to_the_brothel_2_2273ed58:
+msgid "[_cornelia_] А я вот уже давно поняла, что Седрик не такой плохиш, каким хочет показаться. Это все нити Фобоса за его спиной делали из Седрика монстра"
+msgstr "[_cornelia_] Ma ho capito molto tempo fa che Cedric non è un ragazzo così cattivo come vuole sembrare.  Erano tutti i fili di Phobos dietro la schiena a rendere Cedric un mostro"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:46 #-#-# translate crowdin return_to_the_brothel_2_43c38bdd:
+msgid "[_haylin_] Но, даже с учетом этого... Как будто мы сможем его простить..."
+msgstr "[_haylin_] Ma anche con questo in mente... Come se potessimo perdonarlo..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:50 #-#-# translate crowdin return_to_the_brothel_2_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:54 #-#-# translate crowdin return_to_the_brothel_2_b5153673:
+msgid "[_cedrick_] Вам и не нужно меня прощать... Просто... Теперь мы на одной стороне и будем сражаться за одно дело..."
+msgstr "[_cedrick_] Non hai bisogno di perdonarmi... è solo che... ora siamo dalla stessa parte e combatteremo per la stessa causa..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:55 #-#-# translate crowdin return_to_the_brothel_2_481d31e5:
+msgid "[_cedrick_] А после того, как уничтожим общего врага, уже и будем думать о прошлом и его ошибках... Сейчас для нас это непозволительная роскошь..."
+msgstr "[_cedrick_] E dopo aver distrutto il nemico comune, penseremo al passato e ai suoi errori... Ora per noi questo è un lusso inammissibile..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:59 #-#-# translate crowdin return_to_the_brothel_2_209dd42f:
+msgid "[_will_] Да, ты прав..."
+msgstr "[_will_] Si hai ragione..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:63 #-#-# translate crowdin return_to_the_brothel_2_d7bd70d9:
+msgid "[_irma_] И все же... Прежде чем мы согласимся сотрудничать с тобой, думаю стоит прояснить пару моментов, Седрик. Больше ты никогда нам не навредишь"
+msgstr "[_irma_] Eppure... Prima di accettare di collaborare con te, penso che valga la pena chiarire un paio di punti, Cedric.  Non ci farai mai più del male"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:67 #-#-# translate crowdin return_to_the_brothel_2_b6fef3af:
+msgid "[_tarani_] И нашим близким тоже. Ни семье, ни друзьям..."
+msgstr "[_tarani_] E anche ai nostri cari.  Niente famiglia, niente amici..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:71 #-#-# translate crowdin return_to_the_brothel_2_c996d946:
+msgid "[_cornelia_] Хм..."
+msgstr ""
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:75 #-#-# translate crowdin return_to_the_brothel_2_8550c4f8:
+msgid "[_haylin_] И больше никого не будешь совращать... Вообще никого... Тебе ясно!?"
+msgstr "[_haylin_] E non sedurrai nessun altro... Nessuno... Capisci!?"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:79 #-#-# translate crowdin return_to_the_brothel_2_942f985d:
+msgid "[_cedrick_] (Хах, само собой, теперь пошли требования. Вполне ожидаемо. Что ж, к этому был готов)"
+msgstr "[_cedrick_] (Ah, certo, ora ci sono delle richieste.  Abbastanza previsto.  Bene, ero pronto per questo)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:80 #-#-# translate crowdin return_to_the_brothel_2_ea4dbb6c:
+msgid "[_cedrick_] (Переход от захватчика в их союзника неизбежно накладывает на меня множество ограничений)"
+msgstr "[_cedrick_] (Passare da invasore ad alleato mi pone inevitabilmente molte restrizioni)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:81 #-#-# translate crowdin return_to_the_brothel_2_9751d50b:
+msgid "[_cedrick_] (Большинство из них, конечно же, я буду обходить с помощью лжи и уловок, если это будет необходимо)"
+msgstr "[_cedrick_] (La maggior parte di loro, ovviamente, li aggirerò con bugie e trucchi, se necessario)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:82 #-#-# translate crowdin return_to_the_brothel_2_2155e29e:
+msgid "[_cedrick_] (Но... Взаимодействовать с ними напрямую с помощью насилия я больше не смогу. Теперь для меня это будет дорогой в один конец)"
+msgstr "[_cedrick_] (Ma... non potrò più interagire direttamente con loro usando la violenza.  Adesso per me sarà una strada a senso unico)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:83 #-#-# translate crowdin return_to_the_brothel_2_55ffbfe4:
+msgid "[_cedrick_] (Попытайся я совратить кого-то из них еще раз против воли и мне этого уже никогда не простят...)"
+msgstr "[_cedrick_] (Se provo a sedurne di nuovo uno contro la sua volontà, non me lo perdoneranno mai...)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:84 #-#-# translate crowdin return_to_the_brothel_2_f7d927d3:
+msgid "[_cedrick_] (С другой стороны, как минимум Вилл и Корнелия и так будут полностью на все согласны и зачастую добровольно)"
+msgstr "[_cedrick_] (D'altra parte, almeno Will e Cornelia saranno completamente d'accordo su tutto e spesso volontariamente)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:85 #-#-# translate crowdin return_to_the_brothel_2_59c39f34:
+msgid "[_cedrick_] (А значит, и с остальными при должном старании может еще получиться... Я просто должен быть аккуратнее и хитрее)"
+msgstr "[_cedrick_] (Ciò significa che con il resto, con la dovuta diligenza, può ancora funzionare... devo solo essere più attento e furbo)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:86 #-#-# translate crowdin return_to_the_brothel_2_394550f6:
+msgid "[_cedrick_] (Словно теперь вместо кувалды как основного инструмента я буду использовать хирургический скальпель. Сложно, но не невозможно...)"
+msgstr "[_cedrick_] (È come se ora invece della mazza come strumento principale utilizzassi un bisturi chirurgico.  Difficile, ma non impossibile...)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:87 #-#-# translate crowdin return_to_the_brothel_2_3ae8440f:
+msgid "[_cedrick_] Я согласен"
+msgstr "[_cedrick_] Sono d'accordo"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:91 #-#-# translate crowdin return_to_the_brothel_2_5373f32c:
+msgid "[_will_] Что ж. Вот и разобрались. Тогда, думаю, можем отправляться"
+msgstr "[_will_] Bene.  Quindi l'abbiamo capito.  Allora penso che possiamo andare"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:95 #-#-# translate crowdin return_to_the_brothel_2_8adfbff5:
+msgid "[_tarani_] Не так быстро. Я хочу, чтобы ты раз и навсегда уяснил. Я никогда не прощу тебя за то, что произошло с Найджелом"
+msgstr "[_tarani_] Non così in fretta.  Voglio che tu capisca una volta per tutte.  Non ti perdonerò mai per quello che è successo a Nigel"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:99 #-#-# translate crowdin return_to_the_brothel_2_c47b56c5:
+msgid "[_haylin_] Как и я не прощу того, что из-за тебя моя семья могла развалиться"
+msgstr "[_haylin_] Proprio come non perdonerò il fatto che a causa tua la mia famiglia potrebbe andare in pezzi"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:103 #-#-# translate crowdin return_to_the_brothel_2_edfb176d:
+msgid "[_tarani_] Мы еще не союзники. Все наши условия мы скажем позже. А пока... Хм... Пока что ты на испытательном сроке, Седрик"
+msgstr "[_tarani_] Non siamo ancora alleati.  Ti diremo tutte le nostre condizioni più tardi.  Nel frattempo... Hmm... Per ora sei in libertà vigilata, Cedric"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:107 #-#-# translate crowdin return_to_the_brothel_2_10426948:
+msgid "[_cedrick_] Справедливо..."
+msgstr "[_cedrick_] Giusto..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:108 #-#-# translate crowdin return_to_the_brothel_2_b6815c8f:
+msgid "[_cedrick_] В любом случае, я бы обсудил это на земле. Или вы хотите и дальше торчать в борделе?"
+msgstr "[_cedrick_] In ogni caso, ne discuterei sulla terra.  O vuoi continuare a frequentare il bordello?"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:112 #-#-# translate crowdin return_to_the_brothel_2_bd340a89:
+msgid "[_cornelia_] Да, думаю нам пора"
+msgstr "[_cornelia_] Sì, penso che sia giunto il momento per noi"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:118 #-#-# translate crowdin gallery_d_099_74f09c2c:
+msgid "[_vanessa_] А ну ка подождите, девочки"
+msgstr "[_vanessa_] Bene, aspettate, ragazze"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:122 #-#-# translate crowdin gallery_d_099_d4a80b83:
+msgid "[_cedrick_] (В-ванесса!? Что она здесь делает... Ч-что она задумала?)"
+msgstr "[_cedrick_] (V-Vanessa!?  Cosa sta facendo qui... C-cosa sta progettando?)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:126 #-#-# translate crowdin gallery_d_099_f6a4d413:
+msgid "[_vanessa_] Прежде чем вы куда либо уйдете, я должна убедиться, что мои девочки хоть чему-то научились"
+msgstr "[_vanessa_] Prima che tu vada da qualche parte, devo assicurarmi che le mie ragazze imparino qualcosa"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:130 #-#-# translate crowdin gallery_d_099_7cd62039:
+msgid "[_haylin_] О боже... н-нет..."
+msgstr "[_haylin_] Oh Dio... n-no..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:134 #-#-# translate crowdin gallery_d_099_e5a6f65c:
+msgid "[_cedrick_] (Стражницы все еще думают, что Ванесса посланник Фобоса, поэтому они не будут перечить ей, чтобы не вызывать подозрений)"
+msgstr "[_cedrick_] (Le guardie pensano ancora che Vanessa sia la messaggera di Phobos, quindi non la contraddiranno per non destare sospetti)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:135 #-#-# translate crowdin gallery_d_099_e1ac8343:
+msgid "[_cedrick_] (Ванесса хочет этим воспользоваться? Или же усилить эффект неприязни к Фобосу)"
+msgstr "[_cedrick_] (Vanessa vuole approfittarne?  Oppure potenziare l'effetto di ostilità nei confronti di Phobos)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:139 #-#-# translate crowdin gallery_d_099_03a7864d:
+msgid "[_vanessa_] Как Корнелия и Хай Лин справляются с мужчиной я уже примерно поняла. Но что на счет женщин? Здесь как раз полно кандидаток для проверки"
+msgstr "[_vanessa_] Capisco già approssimativamente come Cornelia e Hay Lin affrontano un uomo.  Ma che dire delle donne?  Ci sono solo molti candidati qui da controllare"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:143 #-#-# translate crowdin gallery_d_099_bb5485b7:
+msgid "[_cornelia_] Ч-что... Подождите, мы..."
+msgstr "[_cornelia_] C-cosa... Aspetta, noi..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:147 #-#-# translate crowdin gallery_d_099_1c8999b5:
+msgid "[_vanessa_] И так, ты, пухленькая рыжеволосая, отойди"
+msgstr "[_vanessa_] Quindi tu, rossa grassoccia, allontanati"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:151 #-#-# translate crowdin gallery_d_099_592f7b0f:
+msgid "[_irma_] Я-я!? Но... Почему?"
+msgstr "[_irma_] Io-io!?  Ma perché?"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:155 #-#-# translate crowdin gallery_d_099_6ea6db85:
+msgid "[_vanessa_] Потому что на тебе проверить их навыки не удастся. Я ведь сразу по твоему лицу все вижу"
+msgstr "[_vanessa_] Perché non saranno in grado di mettere alla prova le loro abilità su di te.  Posso vedere tutto subito sul tuo viso"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:159 #-#-# translate crowdin gallery_d_099_6d94cabf:
+msgid "[_vanessa_] Если одна из этих девушек начнет ласкать тебя, то ты точно получишь от этого кайф, даже не важно, насколько умело они будут это делать"
+msgstr "[_vanessa_] Se una di queste ragazze inizia ad accarezzarti, allora ne proverai sicuramente un brivido, non importa quanto abilmente lo facciano"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:163 #-#-# translate crowdin gallery_d_099_9acb3e9f:
+msgid "[_irma_] ....."
+msgstr "[_irma_] ....."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:164 #-#-# translate crowdin gallery_d_099_c3d736eb:
+msgid "[_tarani_] Кхм..."
+msgstr "[_tarani_] Hmm..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:168 #-#-# translate crowdin gallery_d_099_6b9110a7:
+msgid "[_vanessa_] Так, Корнелия. Ты займешься красноволосой. Хай Лин, возьми на себя малышку в очках"
+msgstr "[_vanessa_] Sì, Cornelia.  Ti prenderai cura della rossa.  Hay Lin, prenditi cura della ragazza con gli occhiali"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:172 #-#-# translate crowdin gallery_d_099_0e880219:
+msgid "[_tarani_] Ч-что!? Н-нет, я..."
+msgstr "[_tarani_] C-cosa!?  N-no, io..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:174 #-#-# translate crowdin gallery_d_099_85ce6671:
+msgid "[_will_] Аааххх..."
+msgstr "[_will_] Aaahhh..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:177 #-#-# translate crowdin gallery_d_099_33852617:
+msgid "[_will_] Ммммххх.. Р-рик..."
+msgstr "[_will_] Mmmmhhh... R-rick..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:179 #-#-# translate crowdin gallery_d_099_c6343382:
+msgid "[_cornelia_] (Прости, Вилл, но чем быстрее мы закончим, тем быстрее сможем вернуться домой. Просто расслабься получай удовольствие)"
+msgstr "[_cornelia_] (Mi dispiace, Will, ma prima finiamo, prima potremo tornare a casa.  Rilassati e divertiti)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:181 #-#-# translate crowdin gallery_d_099_0e0c6c19:
+msgid "[_vanessa_] Как ощущения, малышка?"
+msgstr "[_vanessa_] Come ci si sente, tesoro?"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:183 #-#-# translate crowdin gallery_d_099_35441aa0:
+msgid "[_will_] Ааааххх... Это... Это определенно... Неожиданно... Н-но... Приятно..."
+msgstr "[_will_] Aaaahhh... Questo... Questo è decisamente... Inaspettato... M-ma... Bello..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:185 #-#-# translate crowdin gallery_d_099_261eb0a7:
+msgid "[_will_] Р-руки Корнелии очень нежные и достаточно аккуратные... Н-но при этом она двигается интенсивно..."
+msgstr "[_will_] L-le mani di Cornelia sono molto gentili e abbastanza precise... M-ma allo stesso tempo si muove intensamente..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:187 #-#-# translate crowdin gallery_d_099_d9c97445:
+msgid "[_vanessa_] А что насчет ее рта?"
+msgstr "[_vanessa_] E la sua bocca?"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:189 #-#-# translate crowdin gallery_d_099_97e78d56:
+msgid "[_will_] Аааавввв... Ее рот... Боже... Такие мягкие губы, мои соски моментально твердеют... Н-но..."
+msgstr "[_will_] Aaaaaawww... La sua bocca... Dio... Labbra così morbide, i miei capezzoli si induriscono all'istante... M-ma..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:191 #-#-# translate crowdin gallery_d_099_242f7b3a:
+msgid "[_will_] Но при этом она нещадно стимулирует меня своим языком... Это очень интенсивно... Н-но, при этом очень приятно..."
+msgstr "[_will_] Ma allo stesso tempo mi stimola senza pietà con la sua lingua... È molto intenso... M-ma allo stesso tempo è molto piacevole..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:193 #-#-# translate crowdin gallery_d_099_cc9d1afb:
+msgid "[_cornelia_] (Вау, я даже не ожидала, что Вилл окажется такой отзывчивой. Видимо ей и вправду нравится)"
+msgstr "[_cornelia_] (Wow, non mi aspettavo nemmeno che Will fosse così reattivo.  A quanto pare le piace davvero)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:194 #-#-# translate crowdin gallery_d_099_703b1e0d:
+msgid "[_cornelia_] (Интересно, дело в моих навыках или же в том, что Вилл изначально была настроена на ласки...)"
+msgstr "[_cornelia_] (Chissà se è colpa delle mie capacità o del fatto che Will inizialmente aveva voglia di affetto...)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:195 #-#-# translate crowdin gallery_d_099_d2ff30aa:
+msgid "[_cornelia_] (К тому же, в самом начале она выкрикнула не мое имя, а Седрика. Хм... Интересно...)"
+msgstr "[_cornelia_] (Inoltre, all’inizio ha gridato il nome di Cedric, non il mio.  Hm interessante...)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:196 #-#-# translate crowdin gallery_d_099_e86b3adc:
+msgid "[_vanessa_] Хорошо, а как успехи у вас, девочки?"
+msgstr "[_vanessa_] Ok, come state, ragazze?"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:199 #-#-# translate crowdin gallery_d_099_5cddee09:
+msgid "[_tarani_] Ааааххх... Х-хай Лин, п-перестань... Я же так... Аааввв..."
+msgstr "[_tarani_] Aaaahhh... H-Hay Lin, s-smettila... sono così... Aaaaa..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:201 #-#-# translate crowdin gallery_d_099_c352c503:
+msgid "[_haylin_] П-прости, Тарани... Но я... Я хочу закончить с этим как можно скорее... И... И если придется довести тебя до оргазма... Я сделаю это"
+msgstr "[_haylin_] S-scusa, Taranee... Ma io... voglio farla finita il prima possibile... E... E se devo portarti all'orgasmo... lo farò"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:203 #-#-# translate crowdin gallery_d_099_41e447be:
+msgid "[_tarani_] Ммммхххх... Н-не так напористо... Т-ты слишком сильно сжимаешь мою грудь..."
+msgstr "[_tarani_] Mmmmmhhh... N-non con tanta forza... M-mi stai stringendo troppo forte il seno..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:205 #-#-# translate crowdin gallery_d_099_2a3a0392:
+msgid "[_vanessa_] И так, девушка в очках, какие твои впечатления?"
+msgstr "[_vanessa_] Allora, ragazza con gli occhiali, quali sono le tue impressioni?"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:207 #-#-# translate crowdin gallery_d_099_54b289b5:
+msgid "[_tarani_] Кхм, я... Аааххх... Это заставляет чувствовать себя неловко... И... И немного раздражает..."
+msgstr "[_tarani_] Hmm, io... Aaahhh... Questo mi fa sentire a disagio... E... E un po' fastidioso..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:209 #-#-# translate crowdin gallery_d_099_f4191138:
+msgid "[_tarani_] Но, возможно, раздражение в основном связано с вашими надоедливыми вопросами..."
+msgstr "[_tarani_] Ma forse l'irritazione è dovuta soprattutto alle vostre fastidiose domande..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:211 #-#-# translate crowdin gallery_d_099_66537006:
+msgid "[_vanessa_] Ого, у нас тут малышка с характером. Так так, а что скажешь на счет навыков Хай Лин?"
+msgstr "[_vanessa_] Wow, abbiamo una ragazzina con carattere qui.  Quindi, cosa puoi dire delle abilità di Hay Lin?"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:213 #-#-# translate crowdin gallery_d_099_4fab97a6:
+msgid "[_tarani_] Мммм... О-она слишком торопится... Ее напор не соответствует моему ритму, она не совсем хорошо считывает мое настроение"
+msgstr "[_tarani_] Mmmm... Ha troppa fretta... La sua intensità non corrisponde al mio ritmo, non legge molto bene il mio umore"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:215 #-#-# translate crowdin gallery_d_099_77200b0b:
+msgid "[_haylin_] Ох..."
+msgstr "[_haylin_] Oh..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:217 #-#-# translate crowdin gallery_d_099_2b9cc362:
+msgid "[_tarani_] Н-но при этом с моей киской она справляется довольно хорошо..."
+msgstr "[_tarani_] M-ma allo stesso tempo se la cava abbastanza bene con la mia figa..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:219 #-#-# translate crowdin gallery_d_099_1673c12f:
+msgid "[_vanessa_] Хм.. Как думаешь, с чем это может быть связано?"
+msgstr "[_vanessa_] Hmm... a cosa pensi che possa essere collegato?"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:221 #-#-# translate crowdin gallery_d_099_bb16e59b:
+msgid "[_tarani_] Я... Аааххх... Я не знаю..."
+msgstr "[_tarani_] Io... Aaahhh... non lo so..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:223 #-#-# translate crowdin gallery_d_099_585d54bb:
+msgid "[_vanessa_] Может есть какие-нибудь идеи или предположения?"
+msgstr "[_vanessa_] Qualche idea o suggerimento?"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:225 #-#-# translate crowdin gallery_d_099_66f5c50d:
+msgid "[_tarani_] Мммвв... В-возможно, дело в том, что моя киска достаточно влажная... П-поэтому интенсивность Хай Лин чувствуется мягче..."
+msgstr "[_tarani_] Mmmmw... F-Forse è perché la mia figa è abbastanza bagnata... E-Ecco perché l'intensità di Hay Lin sembra più morbida..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:227 #-#-# translate crowdin gallery_d_099_5bcd0280:
+msgid "[_tarani_] Аааахххх..."
+msgstr "[_tarani_] Aaaahhhh..."
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:229 #-#-# translate crowdin gallery_d_099_cb04f982:
+msgid "[_cedrick_] Ванесса, ты увлеклась. Фобос уже ожидает девушек у себя"
+msgstr "[_cedrick_] Vanessa, ti sei lasciata trasportare.  Phobos sta già aspettando delle ragazze a casa sua"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:234 #-#-# translate crowdin gallery_d_099_331b6e7d:
+msgid "[_vanessa_] Ох, что же это я. Тогда конечно, бегите. Удачной вам дороги"
+msgstr "[_vanessa_] Oh, cosa sono?  Poi, ovviamente, corri.  Fai un buon viaggio"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:237 #-#-# translate crowdin gallery_d_099_335dc106:
+msgid "[_cedrick_] Девочки, уходим"
+msgstr "[_cedrick_] Ragazze, andiamo"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:242 #-#-# translate crowdin gallery_d_099_f3ca8b55:
+msgid "[_cedrick_] (Этот день наконец закончился... И мой спектакль оказался успешен)"
+msgstr "[_cedrick_] (Questa giornata è finalmente finita... E la mia esibizione ha avuto successo)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:244 #-#-# translate crowdin gallery_d_099_b2896a90:
+msgid "[_cedrick_] (Так или иначе, но мне удалось переманить стражниц на свою сторону)"
+msgstr "[_cedrick_] (In un modo o nell'altro, sono riuscito ad attirare le guardie al mio fianco)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:246 #-#-# translate crowdin gallery_d_099_d6d98328:
+msgid "[_cedrick_] (Я смог убедить Вилл в том, что я жертва обстоятельств)"
+msgstr "[_cedrick_] (Sono riuscito a convincere Will che ero vittima delle circostanze)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:250 #-#-# translate crowdin gallery_d_099_e17b3cce:
+msgid "[_cedrick_] (Показал Ирме, какого это, иметь власть над потенциальной жертвой)"
+msgstr "[_cedrick_] (Ha mostrato a Irma com'era avere potere su una potenziale vittima.)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:254 #-#-# translate crowdin gallery_d_099_9f9ff65b:
+msgid "[_cedrick_] (Дал понять Тарани, что мы можем объединиться против общего врага)"
+msgstr "[_cedrick_] (Ha chiarito a Taranee che possiamo unirci contro un nemico comune)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:258 #-#-# translate crowdin gallery_d_099_94b8b837:
+msgid "[_cedrick_] (Переманил Корнелию на свою сторону благодаря силе короля морпионов)"
+msgstr "[_cedrick_] (Ha attirato Cornelia al suo fianco grazie al potere del Re Morpion)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:262 #-#-# translate crowdin gallery_d_099_af9ad423:
+msgid "[_cedrick_] (Даже Хай Лин смог убедить в том, что ее семье больше ничего не угрожает)"
+msgstr "[_cedrick_] (Perfino Hay Lin è riuscita a convincerla che la sua famiglia non era più in pericolo)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:265 #-#-# translate crowdin gallery_d_099_4b29c232:
+msgid "[_cedrick_] (Теперь, они все в моей ловушке, каждая стала фигурой на шахматной доске)"
+msgstr "[_cedrick_] (Adesso sono tutti nella mia trappola, ognuno è diventato un pezzo della scacchiera)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:266 #-#-# translate crowdin gallery_d_099_1c2e7da5:
+msgid "[_cedrick_] (Но сделать эти пешки лояльными к себе... Это куда более сложная задача...)"
+msgstr "[_cedrick_] (Ma renderti fedeli queste pedine... Questo è un compito molto più difficile...)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:268 #-#-# translate crowdin gallery_d_099_3459d617:
+msgid "[_cedrick_] (Так или иначе, даже с этим я справлюсь. И в конце концов свергну Фобоса)"
+msgstr "[_cedrick_] (In un modo o nell'altro, posso gestire anche questo.  E alla fine rovescerò Phobos)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:269 #-#-# translate crowdin gallery_d_099_0abb151a:
+msgid "[_cedrick_] (Гожусь лишь на то, чтобы уподобиться людям? Ублюдок, когда я одержу победу, даже не надейся на то, что тебя заключат в темнице)"
+msgstr "[_cedrick_] (Sono adatto solo a diventare come le persone?  Bastardo, quando vincerò, non aspettarti nemmeno di essere rinchiuso in una prigione)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:270 #-#-# translate crowdin gallery_d_099_1a4172fe:
+msgid "[_cedrick_] (Тебя ждет куда более страшная участь, Фобос. Как только стражницы станут достаточно лояльны мне и подготовлены к настоящему бою)"
+msgstr "[_cedrick_] (Un destino molto peggiore ti aspetta, Phobos in origine.  Non appena le guardie mi saranno diventate abbastanza fedeli e si saranno preparate per un vero combattimento)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:272 #-#-# translate crowdin gallery_d_099_e2fec4b5:
+msgid "[_cedrick_] (Я уничтожу тебя. И покажу, кто здесь годится лишь на то, чтобы уподобляться жалким людишкам)"
+msgstr "[_cedrick_] (Ti distruggerò.  E mostrerò chi qui è adatto solo a essere come i miserabili ometti)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:275 #-#-# translate crowdin gallery_d_099_68d5eb2c:
+msgid "[_cedrick_] (Да, и Элион... Наш главный козырь, наша принцесса...)"
+msgstr "[_cedrick_] (Sì, ed Elyon... La nostra principale carta vincente, la nostra principessa...)"
+
+# game/scripts/quests/questTrainingOfGuards/return_to_the_brothel_2.rpy:277 #-#-# translate crowdin gallery_d_099_da077514:
+msgid "[_cedrick_] (Сегодня я видел, на что способна магия Фобоса... С такой силой сможет тягаться лишь истинная наследница престола...)"
+msgstr "[_cedrick_] (Oggi ho visto di cosa è capace la magia di Phobos... Solo il vero erede al trono può competere con tale potere...)"
+

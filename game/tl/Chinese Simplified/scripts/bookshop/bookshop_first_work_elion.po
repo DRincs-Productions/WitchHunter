@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/bookshop/bookshop_first_work_elion.po\n"
+"X-Crowdin-File-ID: 7939\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-04-10 17:21\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/bookshop/bookshop_first_work_elion.rpy:8 #-#-# translate crowdin bookshop_first_work_elion_b81ec53a:
+msgid "[_elion_] Привет, Рик... Твое предложение по поводу работы еще в силе?"
+msgstr "[_艾莉恩_] 嘿，瑞克... 请问你这里还招人吗？"
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:14 #-#-# translate crowdin bookshop_first_work_elion_b0e1689c:
+msgid "[_cedrick_sprite_] Здравствуй, Элион! Конечно! Как я уже говорил, мне не помешает пара лишних рук..."
+msgstr "[_塞德里克_] 你好，艾莉恩！当然！正如我刚才所说，我确实需要一个帮手..."
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:20 #-#-# translate crowdin bookshop_first_work_elion_2e7c2874:
+msgid "[_elion_] Отлично..."
+msgstr "[_艾莉恩_] 好的..."
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:21 #-#-# translate crowdin bookshop_first_work_elion_4f5c5907:
+msgid "[_elion_] Честно говоря, я никогда раньше не работала. Что мне нужно будет делать?"
+msgstr "[_艾莉恩_] 老实说，我还没参加过工作. 我应该怎么做？"
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:22 #-#-# translate crowdin bookshop_first_work_elion_5ae85eca:
+msgid "[_cedrick_sprite_] Ничего особенного. Вытирать пыль, выкладывать книги, иногда прибираться и помогать клиентам, если это потребуется..."
+msgstr "[_塞德里克_] 没关系的. 只是清理灰尘，整理书籍；偶尔需要打扫一下卫生和帮助客人找书这种简单的事…"
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:28 #-#-# translate crowdin bookshop_first_work_elion_f9ef0274:
+msgid "[_elion_] Думаю, я смогу справиться с этим..."
+msgstr "[_艾莉恩_] 那没问题，我想我应付得来..."
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:29 #-#-# translate crowdin bookshop_first_work_elion_64b8fd70:
+msgid "[_cedrick_sprite_] Не сомневаюсь..."
+msgstr "[_塞德里克_] 那就好..."
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:35 #-#-# translate crowdin bookshop_first_work_elion_afcf3a99:
+msgid "[_elion_] Эм... А сколько вы будете платить мне за работу?"
+msgstr "[_艾莉恩_] 嗯... 那我的工资是多少？"
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:36 #-#-# translate crowdin bookshop_first_work_elion_7ed3fbe5:
+msgid "[_cedrick_sprite_] Ну, около 50 баксов в неделю."
+msgstr "[_塞德里克_] 嗯，周薪50美元如何？"
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:37 #-#-# translate crowdin bookshop_first_work_elion_be1df70c:
+msgid "[_cedrick_sprite_] Я не могу позволить себе заплатить тебе больше, но если в будущем мои дела пойдут в гору, то я смогу повысить тебе зарплату."
+msgstr "[_塞德里克_] 这就是我目前能给出的最高薪酬了，但是未来书店生意好起来之后，我可以给你加薪."
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:43 #-#-# translate crowdin bookshop_first_work_elion_b09d0f14:
+msgid "[_elion_] Что ж, звучит обнадеживающе. Меня устраивает!"
+msgstr "[_艾莉恩_] 嗯，听起来不错. 我接受！"
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:46 #-#-# translate crowdin bookshop_first_work_elion_eaf36f37:
+msgid "[_elion_] И когда я смогу приступить к работе?"
+msgstr "[_艾莉恩_] 我什么时候过来上班？"
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:48 #-#-# translate crowdin bookshop_first_work_elion_e2025734:
+msgid "[_cedrick_] Да хоть сегодня, если хочешь."
+msgstr "[_塞德里克_] 如果可以的话，你今晚就可以过来了."
+
+# game/scripts/bookshop/bookshop_first_work_elion.rpy:52 #-#-# translate crowdin bookshop_first_work_elion_176ed681:
+msgid "[_elion_] Хорошо, тогда я начну!"
+msgstr "[_艾莉恩_] 好，我会按时到的！"
+

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/core/quests/QuestTrainingOfGuards.po\n"
+"X-Crowdin-File-ID: 13012\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2024-11-24 11:57\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestTrainingOfGuards.rpy:3
+msgid "Подготовка стражниц завесы"
+msgstr "Préparation des gardiennes du voile"
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Обсудить план с Мирандой и Булджем в лаборатории Миранды"
+msgstr "Discuter du plan avec Miranda et Bulge dans le laboratoire de Miranda"
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Отправится к Фобосу в тронный зал"
+msgstr "Allez voir Phobos dans la salle du trône"
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Проверить Вилл в темнице"
+msgstr "Découvrez Will dans le donjon"
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Вернуться к Миранде"
+msgstr "Retourner voir Miranda"
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Заглянуть в темницу к Ирме"
+msgstr "Un coup d'œil dans le donjon d'Irma"
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Снова отправится к Фобосу в тронный зал"
+msgstr "Allez voir Phobos dans la salle du trône"
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Проверить Ирму и Тарани в казармах"
+msgstr "Allez voir Irma et Taranee au donjon"
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Навестить Корнелию и Хай Лин в борделе"
+msgstr "Rendre visite à Cornelia et Hay Lin au bordel"
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Явиться к Фобосу"
+msgstr "Rapport sur Phobos"
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Вернуться в бордель"
+msgstr "Retourner au bordel"
+
+# game/scripts/core/quests/QuestTrainingOfGuards.rpy:26
+msgid "Собрать стражниц в борделе"
+msgstr "Rassembler les gardes de la maison close"
+

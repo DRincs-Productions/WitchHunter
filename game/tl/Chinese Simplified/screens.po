@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 7923\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-04-26 10:38\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:71
+msgid "[tooltip]"
+msgstr "[tooltip]"
+
+# game/screens.rpy:92
+msgid "Нашел опечатку"
+msgstr "发现一个错字"
+
+# game/screens.rpy:203
+msgid "Пропуск"
+msgstr "跳过"
+
+# game/screens.rpy:440
+msgid "Начать"
+msgstr "开始"
+
+# game/screens.rpy:441
+msgid "Загрузить"
+msgstr "下载"
+
+# game/screens.rpy:442
+msgid "Настройки"
+msgstr "设置"
+
+# game/screens.rpy:443
+msgid "Галерея"
+msgstr "画廊"
+
+# game/screens.rpy:444
+msgid "Чит-меню"
+msgstr ""
+
+# game/screens.rpy:445
+msgid "Поддержать"
+msgstr "支持"
+
+# game/screens.rpy:446
+msgid "Титры"
+msgstr "标题"
+
+# game/screens.rpy:447
+msgid "Выйти"
+msgstr "出去"
+
+# game/screens.rpy:484
+msgid "Вернуться в игру"
+msgstr "回到游戏"
+
+# game/screens.rpy:487
+msgid "Сохранить"
+msgstr "保存"
+
+# game/screens.rpy:495
+msgid "Главное меню"
+msgstr "主菜单"
+
+# game/screens.rpy:586
+msgid "Empty Slot."
+msgstr "空的门户网站"
+
+# game/screens.rpy:623
+msgid "Это сохранение не поддерживает текущую версию игры [game_version]. Загрузка этого сохранения может привести к ошибкам!"
+msgstr "此存盘不支持当前版本的游戏 [game_version]。下载此存盘可能会导致错误！"
+
+# game/screens.rpy:663
+msgid "Авто"
+msgstr "自动"
+
+# game/screens.rpy:668
+msgid "Быстро"
+msgstr "快速"
+
+# game/screens.rpy:689
+msgid "Далее"
+msgstr "跳过"
+
+# game/screens.rpy:801
+msgid "Да"
+msgstr "确定"
+
+# game/screens.rpy:805
+msgid "Нет"
+msgstr "否"
+
+# game/screens.rpy:837
+msgid "Меню"
+msgstr "主菜单"
+
+# game/screens.rpy:838
+msgid "Быстрое сохранение"
+msgstr "快速存档"
+
+# game/screens.rpy:839
+msgid "Быстрая Загрузка"
+msgstr "快速读取。"
+
+# game/screens.rpy:841
+msgid "Быстрый пропуск"
+msgstr "快速通行证"
+
+# game/screens.rpy:842
+msgid "Авто пропуск"
+msgstr "自动略过"
+
+# game/screens.rpy:843
+msgid "Скрыть"
+msgstr "隐藏"
+

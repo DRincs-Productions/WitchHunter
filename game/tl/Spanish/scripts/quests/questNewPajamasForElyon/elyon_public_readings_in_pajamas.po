@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.po\n"
+"X-Crowdin-File-ID: 8597\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2026-07-22 21:20\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:3 #-#-# translate crowdin elyon_public_readings_in_pajamas_ad1cadb7:
+msgid "[_centered_] {size=37} На вечере чтений {/size}"
+msgstr "[_centered_] {size=37} En la noche de las lecturas {/size}"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:8 #-#-# translate crowdin gallery_d_050_6147dfa8:
+msgid "[_cedrick_] Она уселась поудобнее. Он тоже. Лошади гуляли на опушке леса, пощипывали траву."
+msgstr "[_cedrick_] Ella se sentó cómodamente. Él también lo es. Los caballos caminaban en el borde del bosque, hormigueando de hierba."
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:9 #-#-# translate crowdin gallery_d_050_e0c07bb8:
+msgid "[_cedrick_] С начала, — попросил Галахад. — С самого начала..."
+msgstr "[_cedrick_] —Desde el principio —pidió Galahad—. Desde el mismísimo principio…"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:10 #-#-# translate crowdin gallery_d_050_694003a5:
+msgid "[_cedrick_] — Эта история, — заговорила она после недолгого молчания, плотнее кутаясь в плед, — все больше кажется мне историей без начала. И я вовсе не уверена в том, что она закончилась. Понимаешь, в ней жутко перемешались и переплелись прошлое с будущим. Некий эльф сказал мне, что она похожа на змея, который ухватился зубами за собственный хвост. Имя этого змея тебе полезно знать — Уроборос."
+msgstr "[_cedrick_] —Esta historia —dijo ella tras un breve silencio, arropándose mejor con la manta— cada vez me parece más una historia sin principio. Y no estoy segura de que haya terminado. Verás, el pasado y el futuro se mezclan y entrelazan terriblemente en ella. Cierto elfo me dijo que se parece a una serpiente que se muerde la cola. Te conviene conocer su nombre: Uróboros."
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:11 #-#-# translate crowdin gallery_d_050_6803579f:
+msgid "[_cedrick_] А то, что он грызет собственный хвост, означает, что кольцо замкнулось. В каждом миге таится прошлое, настоящее и будущее. В каждом мгновении — вечность. Понимаешь?"
+msgstr "[_cedrick_] El hecho de que se muerda la cola significa que el anillo está cerrado. En cada momento hay un pasado, presente y futuro. En cada momento hay una eternidad. ¿Lo sabes?"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:12 #-#-# translate crowdin gallery_d_050_33cc5969:
+msgid "[_cedrick_] конец"
+msgstr "[_cedrick_] Fin"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:13 #-#-# translate crowdin gallery_d_050_2fd9bec0:
+msgid "[_guy_] класс, это моя любимая книга.."
+msgstr "[_guy_] Es mi libro favorito."
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:14 #-#-# translate crowdin gallery_d_050_3a0632b0:
+msgid "[_guy2_] концовка поражает, такая многозначительная.."
+msgstr "[_guy2_] El final es asombroso, tan significativo."
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:15 #-#-# translate crowdin gallery_d_050_e376b161:
+msgid "[_girl_] а я так и не поняла чем все в итоге кончилось.."
+msgstr "[_girl_] Y nunca entendí cómo terminó al final."
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:17 #-#-# translate crowdin gallery_d_050_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:21 #-#-# translate crowdin gallery_d_050_ad916be4:
+msgid "[_cedrick_] Элион, задержишься не на долго?"
+msgstr "[_cedrick_] Elyon, ¿no te quedarás mucho?"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:24 #-#-# translate crowdin gallery_d_050_35d7bea6:
+msgid "[_elion_] Да, а что такое, Рик?"
+msgstr "[_elion_] Sí, ¿qué pasa, Rick?"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:25 #-#-# translate crowdin gallery_d_050_74bdb660:
+msgid "[_cedrick_] Знаешь, сегодня я едва ли мог сосредоточиться на чтении.. Ты стояла возле меня, вся такая манящая в этой пижаме.."
+msgstr "[_cedrick_] Tú, hoy apenas pude centrarme en la lectura. Me apoyaste, todo tan llamativo en este pijama."
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:28 #-#-# translate crowdin gallery_d_050_31e24e08:
+msgid "[_elion_] Р-рик.."
+msgstr "[_elion_] R-Rick…"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:29 #-#-# translate crowdin gallery_d_050_618288cb:
+msgid "[_cedrick_] На самом деле я хочу тебя прямо здесь и сейчас, мне уже чертовски сложно сдержаться"
+msgstr "[_cedrick_] En realidad te quiero aquí y ahora, ya soy muy difícil de contener"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:32 #-#-# translate crowdin gallery_d_050_913a4881:
+msgid "[_elion_] Н-не надо, нас могут увидеть.."
+msgstr "[_elion_] N-no necesita, podemos ser vistos."
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:33 #-#-# translate crowdin gallery_d_050_5354c326:
+msgid "[_cedrick_] А что если я скажу, что хочу в этот раз заняться твоей киской своим ртом?"
+msgstr "[_cedrick_] ¿Y si te digo que esta vez quiero comerte el coño?"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:36 #-#-# translate crowdin gallery_d_050_87ecd462:
+msgid "[_elion_] А-ам.."
+msgstr "[_elion_] A-Am…"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:37 #-#-# translate crowdin gallery_d_050_0d83c096:
+msgid "[_elion_] (Ох, а вот это уже звучит чертовски заманчиво.. Никто никогда раньше не делал подобного для меня..)"
+msgstr "[_elion_] (Oh, esto ya suena condenadamente tentador… Nunca antes nadie había hecho algo así por mí…)"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:38 #-#-# translate crowdin gallery_d_050_b91644a1:
+msgid "[_cedrick_] Давай, садись на стул"
+msgstr "[_cedrick_] Vamos, siéntate en una silla"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:41 #-#-# translate crowdin gallery_d_050_7b5bc50d:
+msgid "[_elion_] Х-хорошо.."
+msgstr "[_elion_] E-está bien…"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:45 #-#-# translate crowdin gallery_d_050_ff573b24:
+msgid "[_elion_] Ммм, Рик! Да, вот здесь.. Продолжай!"
+msgstr "[_elion_] ¡Mmm, Rick! Sí, justo aquí… ¡Vamos!"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:46 #-#-# translate crowdin gallery_d_050_af1b0593:
+msgid "[_cedrick_] (Черт, она моментально вся намокла, не ожидал. Какая же она все-таки извращенка)"
+msgstr "[_cedrick_] (Maldita sea, al instante todo mojado, no me esperaba. Qué pervertido es)"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:47 #-#-# translate crowdin gallery_d_050_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:50 #-#-# translate crowdin gallery_d_050_0a357d9c:
+msgid "[_elion_] Аввв, н-не останавливайся.. Вот так, да!"
+msgstr "[_elion_] Aviv, no te detengas. ¡Eso es, sí!"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:51 #-#-# translate crowdin gallery_d_050_f281e88e:
+msgid "[_cedrick_] (Да, с такими криками нас точно рано или поздно заметят. Думаю, пора закругляться)"
+msgstr "[_cedrick_] (Sí, con tales gritos, tarde o temprano se nos notará. Creo que es hora de redondear.)"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:52 #-#-# translate crowdin gallery_d_050_eb3680f5:
+msgid "[_elion_] А-аа? Что? Т-ты ускорился!?"
+msgstr "[_elion_] ¿A-aaah? ¿Qué? ¡¿A-aceleraste?!"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:55 #-#-# translate crowdin gallery_d_050_ac53db22:
+msgid "[_elion_] Н-нет... аааах, п-подожди..."
+msgstr "[_elion_] N-no… Aaaah, e-espera…"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:56 #-#-# translate crowdin gallery_d_050_e43ad7f6:
+msgid "[_elion_] Я же так.. очень быстро... Аааавввв!!!"
+msgstr "[_elion_] Soy tan… Muy rápido… Aaaaaaaaa"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:58 #-#-# translate crowdin gallery_d_050_a20cefa7_2:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:62 #-#-# translate crowdin gallery_d_050_f5d56b0f:
+msgid "[_cedrick_] Фух.. Ну, что скажешь, Элион? Как тебе новые ощущения?"
+msgstr "[_cedrick_] Uf… Entonces, Elyon, ¿qué te parecen estas nuevas sensaciones?"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:65 #-#-# translate crowdin gallery_d_050_9af13622:
+msgid "[_elion_] Э-это.."
+msgstr "[_elion_] Ae Es…"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:66 #-#-# translate crowdin gallery_d_050_bf385028:
+msgid "[_elion_] (Это просто отпад!)"
+msgstr "[_elion_] (¡Es solo una gota!)"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:67 #-#-# translate crowdin gallery_d_050_2bb369bb:
+msgid "[_elion_] М-мне понравилось, да.. Спасибо, Рик, было очень приятно.."
+msgstr "[_elion_] Me gustó, sí. Gracias, Rick, fue un placer…"
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:68 #-#-# translate crowdin gallery_d_050_f2a7f4a3:
+msgid "[_cedrick_] Знаешь, а у тебя довольно сочная киска, далеко не у каждой девушки такая.."
+msgstr "[_cedrick_] Sabes, ya sabes, y tienes un coño bastante jugoso, no a todas las chicas les gusta esto."
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:71 #-#-# translate crowdin gallery_d_050_9219c1bf:
+msgid "[_elion_] Р-рик, хватит смущать меня своими сладкими речами.. Давай лучше уберем все стулья.."
+msgstr "[_elion_] R-r-Rick, deja de avergonzarme con tus dulces discursos. Vamos a por todas las sillas."
+
+# game/scripts/quests/questNewPajamasForElyon/elyon_public_readings_in_pajamas.rpy:72 #-#-# translate crowdin gallery_d_050_9b4b90a1:
+msgid "[_cedrick_] Хех, да, давай, а то уже темнеет"
+msgstr "[_cedrick_] Heh, sí, vamos, o se está oscureciendo"
+

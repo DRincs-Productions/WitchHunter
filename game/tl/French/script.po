@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/script.po\n"
+"X-Crowdin-File-ID: 7925\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2024-11-24 11:56\n"
+
+# TODO: Translation updated at 2024-04-26 10:51 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:182
+msgid "Начать с нового контента (0.21)"
+msgstr "Commencer depuis le nouveau contenu (0.21)"
+
+# game/script.rpy:182
+msgid "Начать с начала"
+msgstr "Nouvelle partie "
+
+# game/script.rpy:182
+msgid "Назад"
+msgstr "Précédent"
+
+# game/script.rpy:192
+msgid "Играть с читами"
+msgstr "Jouer avec des tricheurs"
+
+# game/script.rpy:192
+msgid "Играть без читов"
+msgstr "Jouer sans tricheurs"
+

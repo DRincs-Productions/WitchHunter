@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.po\n"
+"X-Crowdin-File-ID: 8403\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-11-11 09:34\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:3 #-#-# translate crowdin corneliaCallToSitWithLilian_9449d1fb:
+msgid "[_cedrick_] Лучше будет написать Корнелии утром или днем."
+msgstr "[_cedrick_] Il est préférable d'écrire à Cornelia le matin ou l'après-midi."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:93 #-#-# translate crowdin corneliaCallToSitWithLilian_806557c6:
+msgid "[_cedrick_] (Черт, заставила быть сиделкой)"
+msgstr "[_cedrick_] (Mince, il m'a fait devenir aidant)"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:94 #-#-# translate crowdin corneliaCallToSitWithLilian_edfd8f8c:
+msgid "[_cedrick_] (Хм, но ее беспомощность мне только на руку)"
+msgstr "[_cedrick_] (Hmm, mais son impuissance est à mon avantage)"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:95 #-#-# translate crowdin corneliaCallToSitWithLilian_c1596ad3:
+msgid "[_cedrick_] (Навещу Лилит сегодня вечером)"
+msgstr "[_cedrick_] (Je vais rendre visite à Lilith ce soir)"
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:11
+msgid "Корнелия, привет. Эм, кажется я нашел Наполеона"
+msgstr "Cornelia, bonjour. Je crois que j'ai trouvé Napoléon"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:16
+msgid "Кого? Ты про салат?"
+msgstr "Qui ? Vous voulez parler de la salade ?"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:21
+msgid "Нет..."
+msgstr "Non..."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:23
+msgid "Нет, то Цезарь. Я нашел кота Лилит"
+msgstr "Non, c'est César. J'ai trouvé le chat de Lilith"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:28
+msgid "Оу, черт, точно.."
+msgstr "Oh, merde, c'est vrai.."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:34
+msgid "Круто, может хоть с ним она будет меньше ворчать"
+msgstr "Cool, peut-être qu'elle sera moins grincheuse avec lui"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:41
+msgid "Могу ли я..."
+msgstr "Puis-je..."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:43
+msgid "Могу ли я как-то тебе его передать?"
+msgstr "Y a-t-il un moyen de vous le donner ?"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:47
+msgid "Эм, слушай, Рик.. Раз такое дело.."
+msgstr "Euh, écoute, Rick. Pendant que nous y sommes.."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:53
+msgid "Лилиан все еще болеет, а я сегодня буду очень занята"
+msgstr "Lillian est toujours malade et je vais être très occupé aujourd'hui"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:59
+msgid "Не мог бы ты за ней присмотреть? Она хоть и стерва, но сейчас довольно беспомощная"
+msgstr "Pourriez-vous garder un œil sur elle ? C'est une garce, mais elle est plutôt impuissante en ce moment"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:65
+msgid "Я переживаю за нее.."
+msgstr "Je m'inquiète pour elle.."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:71
+msgid "Заодно принесешь ей Наполеона"
+msgstr "Vous pouvez aussi lui apporter Napoléon"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:77
+msgid "Эм.."
+msgstr "Um.."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:79
+msgid "Эм.. Да, пожалуй, я мог бы к ней заглянуть"
+msgstr "Erm. Oui, je suppose que je pourrais passer la voir"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:84
+msgid "Супер. Спасибо тебе, Рик <3 <3 <3"
+msgstr "C'est très bien. Merci, Rick <3 <3 <3"
+

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.po\n"
+"X-Crowdin-File-ID: 8787\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2026-07-22 21:22\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.rpy:14 #-#-# translate crowdin crystal_essence_write_message_to_will_973d6ff4:
+msgid "[_will_] (Хах, успела… Еще бы немного и из портала точно бы вылез какой-нибудь очередной монстр)"
+msgstr "[_will_] (Ja, gestionado… Habría un poco del portal exactamente del portal de otro monstruo)"
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.rpy:15 #-#-# translate crowdin crystal_essence_write_message_to_will_b34844c5:
+msgid "[_will_] (Скорее всего, я бы с ним и одна справилась, но не хочется лишний раз сражаться с кем-то на Земле)"
+msgstr "[_will_] (Lo más probable es que lo haga solo, pero no quiero luchar contra alguien en la Tierra una vez más)"
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.rpy:16 #-#-# translate crowdin crystal_essence_write_message_to_will_bc53e74a:
+msgid "[_will_] (Но это странно… последнее время девочки мне совсем не помогают, да и в целом мы как-то отдалились.)"
+msgstr "[_will_] (Pero es extraño… Últimamente las chicas no me ayudan en nada y, en general, nos hemos distanciado.)"
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.rpy:17 #-#-# translate crowdin crystal_essence_write_message_to_will_9cede471:
+msgid "[_will_] (Корнелия давно не выходило на связь.. Ну, скорее всего опять ушла к своему Калебу на Меридиан. А вот у меня даже парня нормального нет…)"
+msgstr "[_will_] (Cornelia no ha estado en contacto durante mucho tiempo. Bueno, lo más probable se ha ido de nuevo a Caleb en Meridian. Ni siquiera tengo un hombre normal.)"
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.rpy:18 #-#-# translate crowdin crystal_essence_write_message_to_will_f35d4338:
+msgid "[_will_] (Мда.. Ни парня, ни подруг… В семье тоже полный бардак с отцом..)"
+msgstr "[_will_] (Vaya… Sin novio ni amigas… Y en casa todo es un caos por culpa de mi padre…)"
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.rpy:29 #-#-# translate crowdin crystal_essence_write_message_to_will_da903941:
+msgid "[_will_] (Хм, телефон? О, Сообщение от Рика?!)"
+msgstr "[_will_] (Hmm, ¿el teléfono? Oh, un mensaje de Rick?!)"
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.rpy:24
+msgid "Вилл, привет. Я тут вспомнил, что у вас на носу итоговые экзамены. Тебе случаем не нужна помощь в подготовке?"
+msgstr "Will, oye. Me acordé aquí que tienes exámenes finales en la nariz. ¿Quieres ayuda en el entrenamiento?"
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.rpy:38
+msgid "О, Рик, привет. Не думала. что ты напишешь. Было бы очень кстати! Не смотря на твои старания, в истории я всё ещё чувствую себя полным лузером, не помешала бы твоя поддержка"
+msgstr "Oh, Rick, oye. No pensé. ¿Qué vas a escribir? ¡Sería de mucha ayuda! A pesar de sus esfuerzos, en la historia todavía me siento como un perdedor completo, no evitaría su apoyo"
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.rpy:45
+msgid "Отлично..."
+msgstr "Excelente…"
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.rpy:47
+msgid "Отлично, тогда загляну к вам сегодня вечером. Сьюзан тоже об этом сообщу"
+msgstr "Muy bien, te veré esta noche. Susan también informa sobre esto"
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.rpy:52
+msgid "Ну хорошо, голубки ;P"
+msgstr "Muy bien, las palomas;p"
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_will.rpy:62
+msgid "Хей, Сьюзан..."
+msgstr "Oye, Susan…"
+

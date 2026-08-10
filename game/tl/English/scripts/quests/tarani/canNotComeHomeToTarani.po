@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /mian/game/tl/crowdin/scripts/quests/tarani/canNotComeHomeToTarani.po\n"
+"X-Crowdin-File-ID: 8683\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2023-11-11 10:14\n"
+
+# TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/tarani/canNotComeHomeToTarani.rpy:2 #-#-# translate crowdin canNotComeHomeToTarani_c0b2af80:
+msgid "[_cedrick_] Мне там нечего делать"
+msgstr ""
+
