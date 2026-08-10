@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-08-10 21:12\n"
+"PO-Revision-Date: 2026-08-10 22:15\n"
 
 # TODO: Translation updated at 2023-07-25 15:55 #|#|# # game/scripts/quests/singles/elyonFoundBooks.rpy:10 #-#-# translate crowdin elyonFoundBooks_bc5d1268:
 msgid "[_elion_] Эмм... Рик... Кажется я нашла нужные нам книги."
@@ -214,27 +214,27 @@ msgstr "[_lilith_] Bueno, pues eso sí que fue un golpe bajo. Por cierto, estoy 
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:134 #-#-# translate crowdin elyonFoundBooks_700d44ff:
 msgid "[_lilith_] Да и не тебе разбрасываться тут колкостями, это из-за тебя он сбежал!"
-msgstr "[_lilith_] Y tú no eres el que ha apestado, ¡es por tu culpa que se escapó!"
+msgstr "[_lilith_] ¡Y no eres tú quien tiene que ir por ahí soltando pullas, fue por tu culpa que se escapó!"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:138 #-#-# translate crowdin elyonFoundBooks_2b65f07b:
 msgid "[_cornelia_] Он сбежал через окно, я тут ни при чем.."
-msgstr "[_cornelia_] Corría por la ventana, no tuve nada que ver con eso."
+msgstr "[_cornelia_] Se escapó por la ventana, yo no tengo nada que ver con eso.."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:142 #-#-# translate crowdin elyonFoundBooks_8d8688f8:
 msgid "[_lilith_] Да ну конечно.. Кто же это самое окно не закрыл!?"
-msgstr "[_lilith_] Por supuesto. ¿Quién no ha cerrado esa ventana?"
+msgstr "[_lilith_] ¡Aja, claro...! ¿Quién no ha cerrado esa ventana?"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:146 #-#-# translate crowdin elyonFoundBooks_ff41a463:
 msgid "[_lilith_] Черт, это был идеальный кот.. кхе-кхе.. шоколадно-коричневая шерстка, серая мордочка, с пятном слегка напоминающим форму черепка.."
-msgstr "[_lilith_] Maldita sea, era el gato perfecto. Cof-Cof. Abrigo marrón chocolate, hocico gris, con un punto ligeramente parecido a la forma de un fragmento."
+msgstr "[_lilith_] Mierda, era un gato perfecto... Cof, Cof... pelaje marrón chocolate, hocico gris, con una mancha que se parecía un poco a la forma de un fragmento de cerámica.."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:150 #-#-# translate crowdin elyonFoundBooks_684c3b5f:
 msgid "[_lilith_] Кхе-кхе.. Смотрел на всех окружающих как на говно.. Я так его понимала, а он понимал меня.. А ты, Корнелия, моего кота просто взяла и прое.."
-msgstr "[_lilith_] Cof-Cof… Miró a todos a su alrededor como una mierda. Lo entendí de esa manera, y él me entendió. Y tú, Cornelia, acabas de llevar a mi gato y al otro…"
+msgstr "[_lilith_] Cof, Cof... Miraba a todos a su alrededor como si fueran una mierda... Yo le entendía perfectamente, y él a mí también... Y tú, Cornelia, te llevaste a mi gato sin más y te lo comiste.."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:154 #-#-# translate crowdin elyonFoundBooks_223c04e0:
 msgid "[_cedrick_] (Так, лучше сменить тему, пока они не начали еще больше собачиться)"
-msgstr "[_cedrick_] (Por lo tanto, es mejor cambiar el tema antes de que comiencen a ser más tenaz)"
+msgstr "[_cedrick_] (Bueno, mejor cambiamos de tema antes de que se pongan a discutir aún más)"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:155 #-#-# translate crowdin elyonFoundBooks_17b118fb_1:
 msgid "[_cedrick_] Эм.."
